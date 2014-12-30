@@ -1,0 +1,96 @@
+candidate,party,percent,votes,office
+"Browne, Harry",LIB,0.37%,33,President
+"Buchanan, Pat",CIT,0.84%,75,President
+"Bush, George W.",REP,70.23%,"6,237",President
+"Gore, Al",DEM,24.67%,"2,191",President
+"Hagelin, John",NAT,0.03%,3,President
+"Nader, Ralph",GRN,2.13%,189,President
+"Phillips, Howard",IAP,0.18%,16,President
+None of these Candidates,,0.89%,79,President
+Under Votes,,0.28%,25,President
+Over Votes,,0.37%,33,President
+"Berghof, Ernie",IAP,0.83%,74,United States Senator
+"Bernstein, Ed",DEM,21.87%,"1,941",United States Senator
+"Ensign, John",REP,72.71%,"6,453",United States Senator
+"Grutzmacher, Bill",CIT,0.29%,26,United States Senator
+"Johnson, J.J.",LIB,0.46%,41,United States Senator
+"Rusco, Kathryn",GRN,1.18%,105,United States Senator
+None of these Candidates,,1.72%,153,United States Senator
+Under Votes,,0.77%,68,United States Senator
+Over Votes,,0.16%,14,United States Senator
+"Brenneman, Ken",CIT,1.15%,102,"Representative in Congress, District 2"
+"Cahill, Tierney",DEM,16.55%,"1,469","Representative in Congress, District 2"
+"Gibbons, Jim Incumbent",REP,76.38%,"6,779","Representative in Congress, District 2"
+"Hansen, Daniel",IAP,1.61%,143,"Representative in Congress, District 2"
+"Laws, A. Charles",GRN,1.01%,90,"Representative in Congress, District 2"
+"Savage, Terry",LIB,0.81%,72,"Representative in Congress, District 2"
+"Winquist, Robert W.",NAT,0.35%,31,"Representative in Congress, District 2"
+Under Votes,,1.98%,176,"Representative in Congress, District 2"
+Over Votes,,0.15%,13,"Representative in Congress, District 2"
+"Beaman, Ed",DEM,17.48%,"1,551","State Senate, Central Senatorial District"
+"McGinness, Mike Incumbent",REP,79.80%,"7,082","State Senate, Central Senatorial District"
+Under Votes,,2.73%,242,"State Senate, Central Senatorial District"
+Over Votes,,0.00%,0,"State Senate, Central Senatorial District"
+"de Braga, Marcia Incumbent",DEM,73.67%,"6,538","State Assembly, District 35"
+Under Votes,,26.33%,"2,337","State Assembly, District 35"
+Over Votes,,0.00%,0,"State Assembly, District 35"
+"Rose, Robert E.Incumbent",NP,62.88%,"5,581","Supreme Court Justice, Seat C"
+None of these Candidates,,22.78%,"2,022","Supreme Court Justice, Seat C"
+Under Votes,,14.32%,"1,271","Supreme Court Justice, Seat C"
+Over Votes,,0.01%,1,"Supreme Court Justice, Seat C"
+"Leavitt, Myron E.Incumbent",NP,63.76%,"5,659","Supreme Court Justice, Seat F"
+None of these Candidates,,21.59%,"1,916","Supreme Court Justice, Seat F"
+Under Votes,,14.63%,"1,298","Supreme Court Justice, Seat F"
+Over Votes,,0.02%,2,"Supreme Court Justice, Seat F"
+"Backus, Gary",NP,27.40%,"2,432","Supreme Court Justice, Seat G"
+"Becker, Nancy Incumbent",NP,42.99%,"3,815","Supreme Court Justice, Seat G"
+None of these Candidates,,18.56%,"1,647","Supreme Court Justice, Seat G"
+Under Votes,,10.97%,974,"Supreme Court Justice, Seat G"
+Over Votes,,0.08%,7,"Supreme Court Justice, Seat G"
+"Estes, Robert E.",NP,52.95%,"4,698","District Court Judge, District 3, Department 3"
+"Pederson, Wayne A.",NP,35.88%,"3,183","District Court Judge, District 3, Department 3"
+Under Votes,,11.16%,990,"District Court Judge, District 3, Department 3"
+Over Votes,,0.01%,1,"District Court Judge, District 3, Department 3"
+"Frey, Norman W.",REP,83.47%,"7,408",County Commissioner District 1
+Under Votes,,16.53%,"1,467",County Commissioner District 1
+Over Votes,,0.00%,0,County Commissioner District 1
+"Pearce, Lynn",REP,80.34%,"7,130",County Commissioner District 3
+Under Votes,,19.66%,"1,745",County Commissioner District 3
+Over Votes,,0.00%,0,County Commissioner District 3
+"Cornmesser, Dave",REP,38.19%,"3,389",County Assessor
+"Green, Norma J.",REP,52.95%,"4,699",County Assessor
+Under Votes,,8.83%,784,County Assessor
+Over Votes,,0.03%,3,County Assessor
+"Ash, Dave",NP,16.14%,"3,620",Board of School Trustees
+"Erickson, Laurie Copeland",NP,15.37%,"3,447",Board of School Trustees
+"Grainer, Tina",NP,14.64%,"3,284",Board of School Trustees
+"Hinz, Paul L.",NP,22.08%,"4,953",Board of School Trustees
+"Sevon, Sue",NP,20.14%,"4,516",Board of School Trustees
+"Zayac, Debra",NP,8.56%,"1,920",Board of School Trustees
+Under Votes,,2.72%,610,Board of School Trustees
+Over Votes,,0.34%,77,Board of School Trustees
+"Lewy, Kathleen",NP,31.37%,"2,783",Justice of the Peace
+"Ward, Daniel P.",NP,60.38%,"5,357",Justice of the Peace
+Under Votes,,8.23%,730,Justice of the Peace
+Over Votes,,0.02%,2,Justice of the Peace
+"McMullen, John",NP,32.37%,"4,302",Mosquito and Weed Abatement District Trustee
+"Newman, Harold C.",NP,35.64%,"4,737",Mosquito and Weed Abatement District Trustee
+"Vannoy, Jon",NP,22.80%,"3,030",Mosquito and Weed Abatement District Trustee
+Under Votes,,9.18%,"1,220",Mosquito and Weed Abatement District Trustee
+Over Votes,,0.02%,2,Mosquito and Weed Abatement District Trustee
+Yes,,32.70%,"2,901",Ballot Question 1
+No,,55.51%,"4,925",Ballot Question 1
+Under Votes,,11.77%,"1,044",Ballot Question 1
+Over Votes,,0.02%,2,Ballot Question 1
+Yes,,76.00%,"6,743",Ballot Question 2
+No,,20.16%,"1,789",Ballot Question 2
+Under Votes,,3.82%,339,Ballot Question 2
+Over Votes,,0.01%,1,Ballot Question 2
+Yes,,52.39%,"4,648",Ballot Question 9
+No,,43.60%,"3,868",Ballot Question 9
+Under Votes,,4.00%,355,Ballot Question 9
+Over Votes,,0.01%,1,Ballot Question 9
+Yes,,37.80%,"3,354",Question No. 10
+No,,58.10%,"5,155",Question No. 10
+Under Votes,,4.09%,363,Question No. 10
+Over Votes,,0.00%,0,Question No. 10

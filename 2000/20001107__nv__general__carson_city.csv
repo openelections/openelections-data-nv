@@ -1,0 +1,109 @@
+candidate,party,percent,votes,office
+"Browne, Harry",LIB,0.52%,101,President
+"Buchanan, Pat",CIT,0.69%,135,President
+"Bush, George W.",REP,56.98%,"11,084",President
+"Gore, Al",DEM,37.81%,"7,354",President
+"Hagelin, John",NAT,0.06%,12,President
+"Nader, Ralph",GRN,3.11%,605,President
+"Phillips, Howard",IAP,0.12%,24,President
+None of these Candidates,,0.70%,137,President
+Under Votes,,0.00%,0,President
+Over Votes,,0.00%,0,President
+"Berghof, Ernie",IAP,0.45%,87,United States Senator
+"Bernstein, Ed",DEM,32.90%,"6,369",United States Senator
+"Ensign, John",REP,60.93%,"11,793",United States Senator
+"Grutzmacher, Bill",CIT,0.18%,35,United States Senator
+"Johnson, J.J.",LIB,0.89%,172,United States Senator
+"Rusco, Kathryn",GRN,1.99%,385,United States Senator
+None of these Candidates,,2.66%,515,United States Senator
+Under Votes,,0.00%,0,United States Senator
+Over Votes,,0.00%,0,United States Senator
+"Brenneman, Ken",CIT,0.41%,76,"Representative in Congress, District 2"
+"Cahill, Tierney",DEM,25.42%,"4,718","Representative in Congress, District 2"
+"Gibbons, Jim Incumbent",REP,69.77%,"12,948","Representative in Congress, District 2"
+"Hansen, Daniel",IAP,1.09%,202,"Representative in Congress, District 2"
+"Laws, A. Charles",GRN,1.77%,328,"Representative in Congress, District 2"
+"Savage, Terry",LIB,1.34%,248,"Representative in Congress, District 2"
+"Winquist, Robert W.",NAT,0.21%,39,"Representative in Congress, District 2"
+Under Votes,,0.00%,0,"Representative in Congress, District 2"
+Over Votes,,0.00%,0,"Representative in Congress, District 2"
+"Brower, Greg Incumbent",REP,82.71%,"2,578","State Assembly, District 37"
+"Lee, Daniel Timothy",IND AM,4.11%,128,"State Assembly, District 37"
+"Savage, Karen M.",LIB,13.19%,411,"State Assembly, District 37"
+Under Votes,,0.00%,0,"State Assembly, District 37"
+Over Votes,,0.00%,0,"State Assembly, District 37"
+"Bishop, Roger",REP,38.78%,854,"State Assembly, District 38"
+"Dini, Jr., Joseph E.Incumbent",DEM,61.22%,"1,348","State Assembly, District 38"
+Under Votes,,0.00%,0,"State Assembly, District 38"
+Over Votes,,0.00%,0,"State Assembly, District 38"
+"Edwards, Willie",DEM,25.77%,225,"State Assembly, District 39"
+"Hettrick, Lynn Incumbent",REP,74.23%,648,"State Assembly, District 39"
+Under Votes,,0.00%,0,"State Assembly, District 39"
+Over Votes,,0.00%,0,"State Assembly, District 39"
+"Parnell, Bonnie Incumbent",DEM,52.78%,"6,336","State Assembly, Carson City District 40"
+"Simons, Jeanne",REP,47.22%,"5,669","State Assembly, Carson City District 40"
+Under Votes,,0.00%,0,"State Assembly, Carson City District 40"
+Over Votes,,0.00%,0,"State Assembly, Carson City District 40"
+"Rose, Robert E.Incumbent",NP,75.79%,"12,548","Supreme Court Justice, Seat C"
+None of these Candidates,,24.21%,"4,008","Supreme Court Justice, Seat C"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+"Leavitt, Myron E.Incumbent",NP,74.71%,"12,239","Supreme Court Justice, Seat F"
+None of these Candidates,,25.29%,"4,144","Supreme Court Justice, Seat F"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+"Backus, Gary",NP,27.56%,"4,766","Supreme Court Justice, Seat G"
+"Becker, Nancy Incumbent",NP,56.58%,"9,785","Supreme Court Justice, Seat G"
+None of these Candidates,,15.86%,"2,743","Supreme Court Justice, Seat G"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+"Derby, Jill TalbotIncumbent",NP,100.00%,"14,143","University Board of Regents, District 3, Subdistrict B"
+Under Votes,,0.00%,0,"University Board of Regents, District 3, Subdistrict B"
+Over Votes,,0.00%,0,"University Board of Regents, District 3, Subdistrict B"
+"Cook, Dave Incumbent",NP,52.44%,"8,613","State Board of Education, District 3, Subdistrict B"
+"Myers, Barbara J.",NP,47.56%,"7,810","State Board of Education, District 3, Subdistrict B"
+Under Votes,,0.00%,0,"State Board of Education, District 3, Subdistrict B"
+Over Votes,,0.00%,0,"State Board of Education, District 3, Subdistrict B"
+"Chryssos, Basil E.",NP,100.00%,"13,877",Hospital Trustee District No. 2
+Under Votes,,0.00%,0,Hospital Trustee District No. 2
+Over Votes,,0.00%,0,Hospital Trustee District No. 2
+"Metcalf, Thomas R.",NP,100.00%,"13,855",Hospital Trustee District No. 3
+Under Votes,,0.00%,0,Hospital Trustee District No. 3
+Over Votes,,0.00%,0,Hospital Trustee District No. 3
+"Mills, Caleb R.",NP,100.00%,"13,437",Hospital Trustee District No. 4
+Under Votes,,0.00%,0,Hospital Trustee District No. 4
+Over Votes,,0.00%,0,Hospital Trustee District No. 4
+"Ponn, Douglas",NP,100.00%,"13,329",School Trustee District No. 2
+Under Votes,,0.00%,0,School Trustee District No. 2
+Over Votes,,0.00%,0,School Trustee District No. 2
+"McKenna, John",NP,100.00%,"13,650",School Trustee District No. 5
+Under Votes,,0.00%,0,School Trustee District No. 5
+Over Votes,,0.00%,0,School Trustee District No. 5
+"Wilson, Joanna F.",NP,100.00%,"13,643",School Trustee District No. 7
+Under Votes,,0.00%,0,School Trustee District No. 7
+Over Votes,,0.00%,0,School Trustee District No. 7
+"Maysako, Ray",NP,57.32%,"10,577",Mayor
+"Tatro, Tom",NP,42.68%,"7,875",Mayor
+Under Votes,,0.00%,0,Mayor
+Over Votes,,0.00%,0,Mayor
+"Willis, Robey B.",NP,100.00%,"15,371",Justice of the Peace Department 1
+Under Votes,,0.00%,0,Justice of the Peace Department 1
+Over Votes,,0.00%,0,Justice of the Peace Department 1
+"Tatro, John",NP,100.00%,"14,689",Justice of the Peace Department 2
+Under Votes,,0.00%,0,Justice of the Peace Department 2
+Over Votes,,0.00%,0,Justice of the Peace Department 2
+"Plank, Jon C.",NP,100.00%,"14,335",Supervisor Ward 2
+Under Votes,,0.00%,0,Supervisor Ward 2
+Over Votes,,0.00%,0,Supervisor Ward 2
+"Horton, Verne R.",NP,42.09%,"7,043",Supervisor Ward 4
+"Staub, Richard S.",NP,57.91%,"9,691",Supervisor Ward 4
+Under Votes,,0.00%,0,Supervisor Ward 4
+Over Votes,,0.00%,0,Supervisor Ward 4
+Yes,,36.63%,"6,790",Ballot Question 1
+No,,63.37%,"11,748",Ballot Question 1
+Under Votes,,0.00%,0,Ballot Question 1
+Over Votes,,0.00%,0,Ballot Question 1
+Yes,,70.27%,"13,417",Ballot Question 2
+No,,29.73%,"5,677",Ballot Question 2
+Under Votes,,0.00%,0,Ballot Question 2
+Over Votes,,0.00%,0,Ballot Question 2

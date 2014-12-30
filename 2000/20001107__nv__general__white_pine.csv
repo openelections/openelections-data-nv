@@ -1,0 +1,121 @@
+candidate,party,percent,votes,office
+"Browne, Harry",LIB,0.34%,12,President
+"Buchanan, Pat",CIT,1.55%,55,President
+"Bush, George W.",REP,63.05%,"2,234",President
+"Gore, Al",DEM,30.17%,"1,069",President
+"Hagelin, John",NAT,0.06%,2,President
+"Nader, Ralph",GRN,2.43%,86,President
+"Phillips, Howard",IAP,0.31%,11,President
+None of these Candidates,,2.09%,74,President
+Under Votes,,0.00%,0,President
+Over Votes,,0.00%,0,President
+"Berghof, Ernie",IAP,0.54%,19,United States Senator
+"Bernstein, Ed",DEM,27.52%,973,United States Senator
+"Ensign, John",REP,67.53%,"2,388",United States Senator
+"Grutzmacher, Bill",CIT,0.34%,12,United States Senator
+"Johnson, J.J.",LIB,0.59%,21,United States Senator
+"Rusco, Kathryn",GRN,1.22%,43,United States Senator
+None of these Candidates,,2.26%,80,United States Senator
+Under Votes,,0.00%,0,United States Senator
+Over Votes,,0.00%,0,United States Senator
+"Brenneman, Ken",CIT,1.61%,56,"Representative in Congress, District 2"
+"Cahill, Tierney",DEM,25.23%,876,"Representative in Congress, District 2"
+"Gibbons, Jim Incumbent",REP,68.78%,"2,388","Representative in Congress, District 2"
+"Hansen, Daniel",IAP,1.99%,69,"Representative in Congress, District 2"
+"Laws, A. Charles",GRN,0.75%,26,"Representative in Congress, District 2"
+"Savage, Terry",LIB,1.32%,46,"Representative in Congress, District 2"
+"Winquist, Robert W.",NAT,0.32%,11,"Representative in Congress, District 2"
+Under Votes,,0.00%,0,"Representative in Congress, District 2"
+Over Votes,,0.00%,0,"Representative in Congress, District 2"
+"Beaman, Ed",DEM,32.60%,"1,136","State Senate, Central Senatorial District"
+"McGinness, Mike Incumbent",REP,67.40%,"2,349","State Senate, Central Senatorial District"
+Under Votes,,0.00%,0,"State Senate, Central Senatorial District"
+Over Votes,,0.00%,0,"State Senate, Central Senatorial District"
+"de Braga, Marcia Incumbent",DEM,100.00%,"2,978","State Assembly, District 35"
+Under Votes,,0.00%,0,"State Assembly, District 35"
+Over Votes,,0.00%,0,"State Assembly, District 35"
+"Rose, Robert E.Incumbent",NP,75.11%,"2,327","Supreme Court Justice, Seat C"
+None of these Candidates,,24.89%,771,"Supreme Court Justice, Seat C"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+"Leavitt, Myron E.Incumbent",NP,78.15%,"2,425","Supreme Court Justice, Seat F"
+None of these Candidates,,21.85%,678,"Supreme Court Justice, Seat F"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+"Backus, Gary",NP,44.53%,"1,510","Supreme Court Justice, Seat G"
+"Becker, Nancy Incumbent",NP,41.85%,"1,419","Supreme Court Justice, Seat G"
+None of these Candidates,,13.62%,462,"Supreme Court Justice, Seat G"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+"Noriega, Cheryl A.",DEM,56.69%,"1,978","County Commissioner, Seat 2"
+"Urrizaga, Raymond",REP,43.31%,"1,511","County Commissioner, Seat 2"
+Under Votes,,0.00%,0,"County Commissioner, Seat 2"
+Over Votes,,0.00%,0,"County Commissioner, Seat 2"
+"Costello, Julio",DEM,41.23%,"1,432","County Commissioner, Seat 3"
+"Provost, David E.",REP,58.77%,"2,041","County Commissioner, Seat 3"
+Under Votes,,0.00%,0,"County Commissioner, Seat 3"
+Over Votes,,0.00%,0,"County Commissioner, Seat 3"
+"Eldridge, C. Brent",REP,49.81%,"1,735","County Commissioner, Seat 4"
+"Norcross, Johnniew",DEM,50.19%,"1,748","County Commissioner, Seat 4"
+Under Votes,,0.00%,0,"County Commissioner, Seat 4"
+Over Votes,,0.00%,0,"County Commissioner, Seat 4"
+"Chachas, Irene L.",NP,100.00%,"3,061","White Pine School District Trustee, Seat C"
+Under Votes,,0.00%,0,"White Pine School District Trustee, Seat C"
+Over Votes,,0.00%,0,"White Pine School District Trustee, Seat C"
+"Zadow, Cheryl J.",NP,100.00%,"2,659","White Pine School District Trustee, Seat D"
+Under Votes,,0.00%,0,"White Pine School District Trustee, Seat D"
+Over Votes,,0.00%,0,"White Pine School District Trustee, Seat D"
+"Hibbs, Matt",NP,24.67%,794,"White Pine School District Trustee, Seat E"
+"Willes, Jeffrey B.",NP,75.33%,"2,424","White Pine School District Trustee, Seat E"
+Under Votes,,0.00%,0,"White Pine School District Trustee, Seat E"
+Over Votes,,0.00%,0,"White Pine School District Trustee, Seat E"
+"Dashiell, Doug",NP,100.00%,"2,374","White Pine School District Trustee, Seat F"
+Under Votes,,0.00%,0,"White Pine School District Trustee, Seat F"
+Over Votes,,0.00%,0,"White Pine School District Trustee, Seat F"
+"Lani, Debra W.",NP,29.34%,993,"White Pine School District Trustee, Seat G"
+"Terry, Glenn",NP,70.66%,"2,391","White Pine School District Trustee, Seat G"
+Under Votes,,0.00%,0,"White Pine School District Trustee, Seat G"
+Over Votes,,0.00%,0,"White Pine School District Trustee, Seat G"
+"Gardner, Ronnie L.",NP,46.96%,"1,513","Hospital Trustee, Seat 1"
+"Hansen, Jacki",NP,53.04%,"1,709","Hospital Trustee, Seat 1"
+Under Votes,,0.00%,0,"Hospital Trustee, Seat 1"
+Over Votes,,0.00%,0,"Hospital Trustee, Seat 1"
+"Stubbs, Dean C.",NP,100.00%,"2,856","Hospital Trustee, Seat 3"
+Under Votes,,0.00%,0,"Hospital Trustee, Seat 3"
+Over Votes,,0.00%,0,"Hospital Trustee, Seat 3"
+"Bath, James H.",NP,100.00%,"2,847","Hospital Trustee, Seat 5"
+Under Votes,,0.00%,0,"Hospital Trustee, Seat 5"
+Over Votes,,0.00%,0,"Hospital Trustee, Seat 5"
+"Sanders, Tom",NP,100.00%,"2,945",Soil Conservation Seat BB
+Under Votes,,0.00%,0,Soil Conservation Seat BB
+Over Votes,,0.00%,0,Soil Conservation Seat BB
+"Niman, Ronald J.",NP,70.38%,"2,241",Justice of the Peace Ely Township
+"Sprouse, Teresa D.",NP,29.62%,943,Justice of the Peace Ely Township
+Under Votes,,0.00%,0,Justice of the Peace Ely Township
+Over Votes,,0.00%,0,Justice of the Peace Ely Township
+"Peacock, Russell Warren",NP,100.00%,192,Justice of the Peace Lund Township
+Under Votes,,0.00%,0,Justice of the Peace Lund Township
+Over Votes,,0.00%,0,Justice of the Peace Lund Township
+"Taylor, Valeria M.",NP,100.00%,83,Justice of the Peace Baker Township
+Under Votes,,0.00%,0,Justice of the Peace Baker Township
+Over Votes,,0.00%,0,Justice of the Peace Baker Township
+Yes,,34.37%,"1,147",Ballot Question 1
+No,,65.63%,"2,190",Ballot Question 1
+Under Votes,,0.00%,0,Ballot Question 1
+Over Votes,,0.00%,0,Ballot Question 1
+Yes,,76.10%,"2,608",Ballot Question 2
+No,,23.90%,819,Ballot Question 2
+Under Votes,,0.00%,0,Ballot Question 2
+Over Votes,,0.00%,0,Ballot Question 2
+Yes,,48.55%,"1,641",Ballot Question 9
+No,,51.45%,"1,739",Ballot Question 9
+Under Votes,,0.00%,0,Ballot Question 9
+Over Votes,,0.00%,0,Ballot Question 9
+Yes,,16.38%,555,County Question 1
+No,,83.62%,"2,833",County Question 1
+Under Votes,,0.00%,0,County Question 1
+Over Votes,,0.00%,0,County Question 1
+Yes,,8.54%,291,County Question 2
+No,,91.46%,"3,118",County Question 2
+Under Votes,,0.00%,0,County Question 2
+Over Votes,,0.00%,0,County Question 2

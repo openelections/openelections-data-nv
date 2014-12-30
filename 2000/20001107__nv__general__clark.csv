@@ -1,0 +1,355 @@
+candidate,party,percent,votes,office
+"Browne, Harry",LIB,0.51%,"1,962",President
+"Buchanan, Pat",CIT,0.80%,"3,045",President
+"Bush, George W.",REP,44.72%,"170,932",President
+"Gore, Al",DEM,51.31%,"196,100",President
+"Hagelin, John",NAT,0.07%,252,President
+"Nader, Ralph",GRN,2.08%,"7,942",President
+"Phillips, Howard",IAP,0.09%,353,President
+None of these Candidates,,0.42%,"1,612",President
+Under Votes,,0.00%,0,President
+Over Votes,,0.00%,0,President
+"Berghof, Ernie",IAP,0.42%,"1,585",United States Senator
+"Bernstein, Ed",DEM,44.84%,"168,039",United States Senator
+"Ensign, John",REP,50.71%,"190,071",United States Senator
+"Grutzmacher, Bill",CIT,0.29%,"1,100",United States Senator
+"Johnson, J.J.",LIB,0.82%,"3,055",United States Senator
+"Rusco, Kathryn",GRN,1.35%,"5,066",United States Senator
+None of these Candidates,,1.57%,"5,869",United States Senator
+Under Votes,,0.00%,0,United States Senator
+Over Votes,,0.00%,0,United States Senator
+"Berkley, Shelley Incumbent",DEM,51.68%,"118,469","Representative in Congress, District 1"
+"Hansen, Christopher H.",IAP,1.72%,"3,933","Representative in Congress, District 1"
+"Porter, Jon",REP,44.18%,"101,276","Representative in Congress, District 1"
+"Schneider, Charles",LIB,1.75%,"4,011","Representative in Congress, District 1"
+"Swenson, W.G.",CIT,0.67%,"1,546","Representative in Congress, District 1"
+Under Votes,,0.00%,0,"Representative in Congress, District 1"
+Over Votes,,0.00%,0,"Representative in Congress, District 1"
+"Brenneman, Ken",CIT,0.92%,"1,249","Representative in Congress, District 2"
+"Cahill, Tierney",DEM,36.73%,"49,969","Representative in Congress, District 2"
+"Gibbons, Jim Incumbent",REP,57.55%,"78,293","Representative in Congress, District 2"
+"Hansen, Daniel",IAP,1.92%,"2,612","Representative in Congress, District 2"
+"Laws, A. Charles",GRN,1.04%,"1,412","Representative in Congress, District 2"
+"Savage, Terry",LIB,1.47%,"1,996","Representative in Congress, District 2"
+"Winquist, Robert W.",NAT,0.38%,521,"Representative in Congress, District 2"
+Under Votes,,0.00%,0,"Representative in Congress, District 2"
+Over Votes,,0.00%,0,"Representative in Congress, District 2"
+"Gardner, Richard G.",REP,39.46%,"13,149","State Senate, Clark District 2"
+"Shaffer, Ray Incumbent",DEM,60.54%,"20,174","State Senate, Clark District 2"
+Under Votes,,0.00%,0,"State Senate, Clark District 2"
+Over Votes,,0.00%,0,"State Senate, Clark District 2"
+"Lillie, Alice J.",LIB,6.50%,"1,285","State Senate, Clark District 3"
+"Toomin, Lou",REP,31.15%,"6,158","State Senate, Clark District 3"
+"Wiener, Valerie Incumbent",DEM,62.34%,"12,323","State Senate, Clark District 3"
+Under Votes,,0.00%,0,"State Senate, Clark District 3"
+Over Votes,,0.00%,0,"State Senate, Clark District 3"
+"Neal, Joe",DEM,100.00%,"11,442","State Senate, Clark District 4"
+Under Votes,,0.00%,0,"State Senate, Clark District 4"
+Over Votes,,0.00%,0,"State Senate, Clark District 4"
+"Hawk, Charles",DEM,39.47%,"34,824","State Senate, Clark District 5"
+"Lusk, John D.",IND AM,1.65%,"1,458","State Senate, Clark District 5"
+"O'Connell, Ann Incumbent",REP,56.22%,"49,605","State Senate, Clark District 5"
+"Warden, Mark D.",LIB,2.66%,"2,348","State Senate, Clark District 5"
+Under Votes,,0.00%,0,"State Senate, Clark District 5"
+Over Votes,,0.00%,0,"State Senate, Clark District 5"
+"Dodge, Duncan",CIT,1.33%,610,"State Senate, Clark District 6"
+"Howe, Jess",IND AM,1.81%,829,"State Senate, Clark District 6"
+"Rawson, Ray Incumbent",REP,53.87%,"24,717","State Senate, Clark District 6"
+"Stanfill, Terrie",DEM,43.00%,"19,729","State Senate, Clark District 6"
+Under Votes,,0.00%,0,"State Senate, Clark District 6"
+Over Votes,,0.00%,0,"State Senate, Clark District 6"
+"Sondej, Ken",REP,31.74%,"13,264","State Senate, Clark District 7"
+"Titus, Dina Incumbent",DEM,68.26%,"28,524","State Senate, Clark District 7"
+Under Votes,,0.00%,0,"State Senate, Clark District 7"
+Over Votes,,0.00%,0,"State Senate, Clark District 7"
+"Grant, Channing J.",REP,38.00%,"14,501","State Senate, Clark District 8"
+"Schneider, Mike Incumbent",DEM,62.00%,"23,657","State Senate, Clark District 8"
+Under Votes,,0.00%,0,"State Senate, Clark District 8"
+Over Votes,,0.00%,0,"State Senate, Clark District 8"
+"Collins, Tom Incumbent",DEM,65.02%,"10,370","State Assembly, Clark District 1"
+"Gobel, Ed",REP,34.98%,"5,578","State Assembly, Clark District 1"
+Under Votes,,0.00%,0,"State Assembly, Clark District 1"
+Over Votes,,0.00%,0,"State Assembly, Clark District 1"
+"Berman, Merle Incumbent",REP,73.46%,"10,160","State Assembly, Clark District 2"
+"Sims, Harold D.",CIT,26.54%,"3,670","State Assembly, Clark District 2"
+Under Votes,,0.00%,0,"State Assembly, Clark District 2"
+Over Votes,,0.00%,0,"State Assembly, Clark District 2"
+"Eaton, Kefty W.",REP,32.98%,"2,787","State Assembly, Clark District 3"
+"Lee, John Incumbent",DEM,67.02%,"5,663","State Assembly, Clark District 3"
+Under Votes,,0.00%,0,"State Assembly, Clark District 3"
+Over Votes,,0.00%,0,"State Assembly, Clark District 3"
+"Beers, Bob Incumbent",REP,76.85%,"20,189","State Assembly, Clark District 4"
+"Miller, Rollo",CIT,23.15%,"6,083","State Assembly, Clark District 4"
+Under Votes,,0.00%,0,"State Assembly, Clark District 4"
+Over Votes,,0.00%,0,"State Assembly, Clark District 4"
+"Cegavske, Barbara K.Incumbent",REP,54.63%,"6,457","State Assembly, Clark District 5"
+"Hansen, Kristen",DEM,45.37%,"5,362","State Assembly, Clark District 5"
+Under Votes,,0.00%,0,"State Assembly, Clark District 5"
+Over Votes,,0.00%,0,"State Assembly, Clark District 5"
+"Munford, Harvey J.",DEM,33.93%,"1,784","State Assembly, Clark District 6"
+"Williams, Wendell P.Incumbent",DEM,66.07%,"3,474","State Assembly, Clark District 6"
+Under Votes,,0.00%,0,"State Assembly, Clark District 6"
+Over Votes,,0.00%,0,"State Assembly, Clark District 6"
+"Arberry, Morse Incumbent",DEM,76.91%,"5,911","State Assembly, Clark District 7"
+"Richardson, Chester Major",REP,23.09%,"1,775","State Assembly, Clark District 7"
+Under Votes,,0.00%,0,"State Assembly, Clark District 7"
+Over Votes,,0.00%,0,"State Assembly, Clark District 7"
+"Buckley, Barbara E.Incumbent",DEM,65.46%,"4,490","State Assembly, Clark District 8"
+"Child, Kevin L.",REP,34.54%,"2,369","State Assembly, Clark District 8"
+Under Votes,,0.00%,0,"State Assembly, Clark District 8"
+Over Votes,,0.00%,0,"State Assembly, Clark District 8"
+"Giunchigliani, Chris Incumbent",DEM,66.40%,"3,672","State Assembly, Clark District 9"
+"Scarborough, Mark",REP,33.60%,"1,858","State Assembly, Clark District 9"
+Under Votes,,0.00%,0,"State Assembly, Clark District 9"
+Over Votes,,0.00%,0,"State Assembly, Clark District 9"
+"Goldwater, David Incumbent",DEM,67.34%,"3,453","State Assembly, Clark District 10"
+"Henry, James",REP,27.69%,"1,420","State Assembly, Clark District 10"
+"Whitten, Lewis E.",LIB,4.97%,255,"State Assembly, Clark District 10"
+Under Votes,,0.00%,0,"State Assembly, Clark District 10"
+Over Votes,,0.00%,0,"State Assembly, Clark District 10"
+"Bache, Doug Incumbent",DEM,62.63%,"3,611","State Assembly, Clark District 11"
+"Wisner, Michael",REP,37.37%,"2,155","State Assembly, Clark District 11"
+Under Votes,,0.00%,0,"State Assembly, Clark District 11"
+Over Votes,,0.00%,0,"State Assembly, Clark District 11"
+"Del Rosario, Geny",REP,41.23%,"4,662","State Assembly, Clark District 12"
+"McClenaghan, Wanda",CIT,4.29%,485,"State Assembly, Clark District 12"
+"Ohrenschall, Genie Incumbent",DEM,54.48%,"6,161","State Assembly, Clark District 12"
+Under Votes,,0.00%,0,"State Assembly, Clark District 12"
+Over Votes,,0.00%,0,"State Assembly, Clark District 12"
+"Goynes, Byron",DEM,41.17%,"16,106","State Assembly, Clark District 13"
+"Hansen, Jonathan",IND AM,7.65%,"2,992","State Assembly, Clark District 13"
+"Nolan, Dennis Incumbent",REP,51.18%,"20,018","State Assembly, Clark District 13"
+Under Votes,,0.00%,0,"State Assembly, Clark District 13"
+Over Votes,,0.00%,0,"State Assembly, Clark District 13"
+"Davis, Michael P.",REP,43.76%,"3,808","State Assembly, Clark District 14"
+"Koivisto, Ellen Incumbent",DEM,56.24%,"4,894","State Assembly, Clark District 14"
+Under Votes,,0.00%,0,"State Assembly, Clark District 14"
+Over Votes,,0.00%,0,"State Assembly, Clark District 14"
+"Close, Jack D.",REP,46.02%,"4,657","State Assembly, Clark District 15"
+"McClain, Kathy Incumbent",DEM,51.96%,"5,258","State Assembly, Clark District 15"
+"Walker, Peter",IND AM,2.03%,205,"State Assembly, Clark District 15"
+Under Votes,,0.00%,0,"State Assembly, Clark District 15"
+Over Votes,,0.00%,0,"State Assembly, Clark District 15"
+"McClary, Jack",REP,42.45%,"3,799","State Assembly, Clark District 16"
+"Oceguera, John Wayne",DEM,57.55%,"5,150","State Assembly, Clark District 16"
+Under Votes,,0.00%,0,"State Assembly, Clark District 16"
+Over Votes,,0.00%,0,"State Assembly, Clark District 16"
+"Holtz, Terry L.",REP,41.87%,"5,288","State Assembly, Clark District 17"
+"Price, Bob Incumbent",DEM,58.13%,"7,341","State Assembly, Clark District 17"
+Under Votes,,0.00%,0,"State Assembly, Clark District 17"
+Over Votes,,0.00%,0,"State Assembly, Clark District 17"
+"Manendo, Mark A.Incumbent",DEM,100.00%,"7,810","State Assembly, Clark District 18"
+Under Votes,,0.00%,0,"State Assembly, Clark District 18"
+Over Votes,,0.00%,0,"State Assembly, Clark District 18"
+"Claborn, Jerry D.Incumbent",DEM,58.25%,"3,356","State Assembly, Clark District 19"
+"Horrocks, Gary",REP,41.75%,"2,405","State Assembly, Clark District 19"
+Under Votes,,0.00%,0,"State Assembly, Clark District 19"
+Over Votes,,0.00%,0,"State Assembly, Clark District 19"
+"Smith, Bradley",DEM,37.21%,"12,501","State Assembly, Clark District 20"
+"Von Tobel, Kathy Incumbent",REP,62.79%,"21,092","State Assembly, Clark District 20"
+Under Votes,,0.00%,0,"State Assembly, Clark District 20"
+Over Votes,,0.00%,0,"State Assembly, Clark District 20"
+"Bettis, Larry G.",DEM,41.24%,"10,155","State Assembly, Clark District 21"
+"Tiffany, Sandra Incumbent",REP,58.76%,"14,472","State Assembly, Clark District 21"
+Under Votes,,0.00%,0,"State Assembly, Clark District 21"
+Over Votes,,0.00%,0,"State Assembly, Clark District 21"
+"Brown, David",REP,49.87%,"18,721","State Assembly, Clark District 22"
+"Segerblom, Gene Incumbent",DEM,47.69%,"17,901","State Assembly, Clark District 22"
+"Thompson, Tommy",CIT,2.45%,918,"State Assembly, Clark District 22"
+Under Votes,,0.00%,0,"State Assembly, Clark District 22"
+Over Votes,,0.00%,0,"State Assembly, Clark District 22"
+"Cannon, Michael",REP,37.31%,"4,221","State Assembly, Clark District 23"
+"Perkins, Richard D.Incumbent",DEM,62.69%,"7,093","State Assembly, Clark District 23"
+Under Votes,,0.00%,0,"State Assembly, Clark District 23"
+Over Votes,,0.00%,0,"State Assembly, Clark District 23"
+"Chowning, Vonne S.Incumbent",DEM,54.73%,"1,197","State Assembly, Clark District 28"
+"Dan, James",LIB,45.27%,990,"State Assembly, Clark District 28"
+Under Votes,,0.00%,0,"State Assembly, Clark District 28"
+Over Votes,,0.00%,0,"State Assembly, Clark District 28"
+"Richie, John",REP,34.67%,"1,376","State Assembly, Clark District 41"
+"Parks, David Incumbent",DEM,65.33%,"2,593","State Assembly, Clark District 41"
+Under Votes,,0.00%,0,"State Assembly, Clark District 41"
+Over Votes,,0.00%,0,"State Assembly, Clark District 41"
+"Mortenson, Harry Incumbent",DEM,100.00%,"4,978","State Assembly, Clark District 42"
+Under Votes,,0.00%,0,"State Assembly, Clark District 42"
+Over Votes,,0.00%,0,"State Assembly, Clark District 42"
+"Rose, Robert E.Incumbent",NP,77.32%,"235,882","Supreme Court Justice, Seat C"
+None of these Candidates,,22.68%,"69,195","Supreme Court Justice, Seat C"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+"Leavitt, Myron E.Incumbent",NP,79.69%,"246,168","Supreme Court Justice, Seat F"
+None of these Candidates,,20.31%,"62,752","Supreme Court Justice, Seat F"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+"Backus, Gary",NP,23.11%,"72,877","Supreme Court Justice, Seat G"
+"Becker, Nancy Incumbent",NP,63.37%,"199,840","Supreme Court Justice, Seat G"
+None of these Candidates,,13.52%,"42,641","Supreme Court Justice, Seat G"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+"Vega, Valorie J.Incumbent",NP,100.00%,"264,959","District Court Judge, District 8, Department 2"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department 2"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department 2"
+"Parraguirre, Ron D.Incumbent",NP,100.00%,"262,368","District Court Judge, District 8, Department 3"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department 3"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department 3"
+"Mahan, Jim Incumbent",NP,100.00%,"258,935","District Court Judge, District 8, Department 12"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department 12"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department 12"
+"Ritchie, Art Incumbent",NP,100.00%,"254,352","District Court Judge, District 8, Department H, Family Division"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department H, Family Division"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department H, Family Division"
+"Beuth, Phil",NP,40.48%,"115,947","District Court Judge, District 8, Department I, Family Division"
+"Moss, Cheryl B.",NP,59.52%,"170,472","District Court Judge, District 8, Department I, Family Division"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department I, Family Division"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department I, Family Division"
+"Brown, Lisa",NP,60.29%,"169,512","District Court Judge, District 8, Department J, Family Division"
+"Henderson, William",NP,39.71%,"111,640","District Court Judge, District 8, Department J, Family Division"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department J, Family Division"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department J, Family Division"
+"Del Vecchio, Nicholas Anthony",NP,54.83%,"156,778","District Court Judge, District 8, Department K, Family Division"
+"Wachsman, Beth",NP,45.17%,"129,163","District Court Judge, District 8, Department K, Family Division"
+Under Votes,,0.00%,0,"District Court Judge, District 8, Department K, Family Division"
+Over Votes,,0.00%,0,"District Court Judge, District 8, Department K, Family Division"
+"Howard, Linda C.",NP,57.87%,"9,619","University Board of Regents, District 2, Subdistrict A"
+"Phillips, Dave Incumbent",NP,42.13%,"7,003","University Board of Regents, District 2, Subdistrict A"
+Under Votes,,0.00%,0,"University Board of Regents, District 2, Subdistrict A"
+Over Votes,,0.00%,0,"University Board of Regents, District 2, Subdistrict A"
+"Alden, Mark Incumbent",NP,55.40%,"32,948","University Board of Regents, District 2, Subdistrict D"
+"Ratigan, Jim",NP,44.60%,"26,524","University Board of Regents, District 2, Subdistrict D"
+Under Votes,,0.00%,0,"University Board of Regents, District 2, Subdistrict D"
+Over Votes,,0.00%,0,"University Board of Regents, District 2, Subdistrict D"
+"Lewis, Tracey",NP,42.76%,"7,046","State Board of Education, District 2, Subdistrict A"
+"Washington, Marcia L.",NP,57.24%,"9,432","State Board of Education, District 2, Subdistrict A"
+Under Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict A"
+Over Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict A"
+"Goldman, Edward",NP,45.05%,"26,673","State Board of Education, District 2, Subdistrict D"
+"Hawk, John",NP,54.95%,"32,531","State Board of Education, District 2, Subdistrict D"
+Under Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict D"
+Over Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict D"
+"Iverson, Merv",NP,100.00%,"38,743","State Board of Education, District 2, Subdistrict F"
+Under Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict F"
+Over Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict F"
+"Malone, Theresa",NP,55.68%,"46,013","State Board of Education, District 2, Subdistrict G"
+"Smith, Patricia G.",NP,44.32%,"36,631","State Board of Education, District 2, Subdistrict G"
+Under Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict G"
+Over Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict G"
+"Hagan, Timothy R.",LIB,3.08%,"2,862",County Commission Dist. A
+"Hansen, Joshua",IAP,2.49%,"2,315",County Commission Dist. A
+"White, Jeff",DEM,31.00%,"28,826",County Commission Dist. A
+"Woodbury, Bruce L.",REP,63.43%,"58,990",County Commission Dist. A
+Under Votes,,0.00%,0,County Commission Dist. A
+Over Votes,,0.00%,0,County Commission Dist. A
+"Easter, Glen",REP,36.72%,"17,011",County Commission Dist. B
+"Kincaid, Mary J.",DEM,63.28%,"29,314",County Commission Dist. B
+Under Votes,,0.00%,0,County Commission Dist. B
+Over Votes,,0.00%,0,County Commission Dist. B
+"Lucas, Kenneth A.",LIB,3.72%,"3,016",County Commission Dist. C
+"Maxfield, Chip",REP,48.48%,"39,356",County Commission Dist. C
+"Tarkanian, Lois",DEM,47.81%,"38,810",County Commission Dist. C
+Under Votes,,0.00%,0,County Commission Dist. C
+Over Votes,,0.00%,0,County Commission Dist. C
+"Atkinson-Gates, Yvonne",DEM,65.51%,"13,062",County Commission Dist. D
+"Wesley, Joanna",REP,34.49%,"6,878",County Commission Dist. D
+Under Votes,,0.00%,0,County Commission Dist. D
+Over Votes,,0.00%,0,County Commission Dist. D
+"Farrell, Isaac",NP,34.33%,"25,251","Trustee, Clark County School District A"
+"Scow, Mary Beth",NP,65.67%,"48,303","Trustee, Clark County School District A"
+Under Votes,,0.00%,0,"Trustee, Clark County School District A"
+Over Votes,,0.00%,0,"Trustee, Clark County School District A"
+"Bulloch, Troy P.",NP,40.57%,"16,377","Trustee, Clark County School District B"
+"Johnson, Ruth L.",NP,59.43%,"23,991","Trustee, Clark County School District B"
+Under Votes,,0.00%,0,"Trustee, Clark County School District B"
+Over Votes,,0.00%,0,"Trustee, Clark County School District B"
+"Barber, Shirley",NP,71.31%,"15,127","Trustee, Clark County School District C"
+"Turner, Beatrice Denise",NP,28.69%,"6,085","Trustee, Clark County School District C"
+Under Votes,,0.00%,0,"Trustee, Clark County School District C"
+Over Votes,,0.00%,0,"Trustee, Clark County School District C"
+"Brodsky, Denise",NP,59.97%,"38,045","Trustee, Clark County School District E"
+"Jones, Jacqueline",NP,40.03%,"25,400","Trustee, Clark County School District E"
+Under Votes,,0.00%,0,"Trustee, Clark County School District E"
+Over Votes,,0.00%,0,"Trustee, Clark County School District E"
+"Miller, Victor L.",NP,100.00%,"4,936",Justice of the Peace Boulder City
+Under Votes,,0.00%,0,Justice of the Peace Boulder City
+Over Votes,,0.00%,0,Justice of the Peace Boulder City
+"Leavitt, Cecil Ray",NP,100.00%,239,Justice of the Peace Bunkerville
+Under Votes,,0.00%,0,Justice of the Peace Bunkerville
+Over Votes,,0.00%,0,Justice of the Peace Bunkerville
+"Ashworth, Mary Lynn",NP,36.61%,257,Justice of the Peace Goodsprings
+"Haviland, Dawn",NP,63.39%,445,Justice of the Peace Goodsprings
+Under Votes,,0.00%,0,Justice of the Peace Goodsprings
+Over Votes,,0.00%,0,Justice of the Peace Goodsprings
+"Burr, Rodney T.",NP,100.00%,"43,914",Justice of the Peace Henderson Dept. 1
+Under Votes,,0.00%,0,Justice of the Peace Henderson Dept. 1
+Over Votes,,0.00%,0,Justice of the Peace Henderson Dept. 1
+"Dushoff, Matthew",NP,36.38%,"16,858",Justice of the Peace Henderson Dept. 2
+"Eccles, John M.",NP,11.76%,"5,448",Justice of the Peace Henderson Dept. 2
+"George, Stephen",NP,45.79%,"21,221",Justice of the Peace Henderson Dept. 2
+"Sipan, Richard Charles",NP,6.08%,"2,818",Justice of the Peace Henderson Dept. 2
+Under Votes,,0.00%,0,Justice of the Peace Henderson Dept. 2
+Over Votes,,0.00%,0,Justice of the Peace Henderson Dept. 2
+"Lippis, Debbie",NP,100.00%,"185,312",Justice of the Peace LV Dept. 1
+Under Votes,,0.00%,0,Justice of the Peace LV Dept. 1
+Over Votes,,0.00%,0,Justice of the Peace LV Dept. 1
+"Smith, Doug",NP,100.00%,"182,757",Justice of the Peace LV Dept. 2
+Under Votes,,0.00%,0,Justice of the Peace LV Dept. 2
+Over Votes,,0.00%,0,Justice of the Peace LV Dept. 2
+"Jansen, William D.",NP,100.00%,"182,792",Justice of the Peace LV Dept. 5
+Under Votes,,0.00%,0,Justice of the Peace LV Dept. 5
+Over Votes,,0.00%,0,Justice of the Peace LV Dept. 5
+"Assad, George",NP,41.95%,"89,902",Justice of the Peace LV Dept. 8
+"Zimmerman, Ann",NP,58.05%,"124,390",Justice of the Peace LV Dept. 8
+Under Votes,,0.00%,0,Justice of the Peace LV Dept. 8
+Over Votes,,0.00%,0,Justice of the Peace LV Dept. 8
+"Geremia, John",NP,29.09%,439,Justice of the Peace Laughlin
+"Moma, Billy R.",NP,70.91%,"1,070",Justice of the Peace Laughlin
+Under Votes,,0.00%,0,Justice of the Peace Laughlin
+Over Votes,,0.00%,0,Justice of the Peace Laughlin
+"Dodd, Ron",NP,58.92%,"1,579",Justice of the Peace Mesquite
+"Shapera, David M.",NP,41.08%,"1,101",Justice of the Peace Mesquite
+Under Votes,,0.00%,0,Justice of the Peace Mesquite
+Over Votes,,0.00%,0,Justice of the Peace Mesquite
+"Robinson, Marley Perkins",NP,100.00%,312,Justice of the Peace Moapa
+Under Votes,,0.00%,0,Justice of the Peace Moapa
+Over Votes,,0.00%,0,Justice of the Peace Moapa
+"Waite, D. Lanny",NP,100.00%,"1,821",Justice of the Peace Moapa Valley
+Under Votes,,0.00%,0,Justice of the Peace Moapa Valley
+Over Votes,,0.00%,0,Justice of the Peace Moapa Valley
+"Dahl, Stephen J.",NP,100.00%,"18,089",Justice of the Peace NLV Dept. 1
+Under Votes,,0.00%,0,Justice of the Peace NLV Dept. 1
+Over Votes,,0.00%,0,Justice of the Peace NLV Dept. 1
+"Schaefer, Mike",NP,42.95%,"9,022",Justice of the Peace NLV Dept. 2
+"Tyrrell, Natalie",NP,57.05%,"11,985",Justice of the Peace NLV Dept. 2
+Under Votes,,0.00%,0,Justice of the Peace NLV Dept. 2
+Over Votes,,0.00%,0,Justice of the Peace NLV Dept. 2
+"Scott, R.V.",NP,23.19%,93,Justice of the Peace Searchlight
+"Turner, Wendell E.",NP,76.81%,308,Justice of the Peace Searchlight
+Under Votes,,0.00%,0,Justice of the Peace Searchlight
+Over Votes,,0.00%,0,Justice of the Peace Searchlight
+"Jones, Bob",NP,41.23%,127,"Board Member, Moapa Valley Water District Moapa-Glendale Area"
+"May, Dennis",NP,58.77%,181,"Board Member, Moapa Valley Water District Moapa-Glendale Area"
+Under Votes,,0.00%,0,"Board Member, Moapa Valley Water District Moapa-Glendale Area"
+Over Votes,,0.00%,0,"Board Member, Moapa Valley Water District Moapa-Glendale Area"
+Yes,,41.97%,"150,661",Ballot Question 1
+No,,58.03%,"208,298",Ballot Question 1
+Under Votes,,0.00%,0,Ballot Question 1
+Over Votes,,0.00%,0,Ballot Question 1
+Yes,,70.18%,"260,638",Ballot Question 2
+No,,29.82%,"110,723",Ballot Question 2
+Under Votes,,0.00%,0,Ballot Question 2
+Over Votes,,0.00%,0,Ballot Question 2
+Yes,,67.28%,"244,998",Ballot Question 9
+No,,32.72%,"119,165",Ballot Question 9
+Under Votes,,0.00%,0,Ballot Question 9
+Over Votes,,0.00%,0,Ballot Question 9
+Yes,,42.83%,"156,271",Clark County Question No. 1 Water Fluoridation Question
+No,,57.17%,"208,562",Clark County Question No. 1 Water Fluoridation Question
+Under Votes,,0.00%,0,Clark County Question No. 1 Water Fluoridation Question
+Over Votes,,0.00%,0,Clark County Question No. 1 Water Fluoridation Question
+Yes,,78.14%,"5,441",Boulder City Question No. 1 Capital Improvement Question
+No,,21.86%,"1,522",Boulder City Question No. 1 Capital Improvement Question
+Under Votes,,0.00%,0,Boulder City Question No. 1 Capital Improvement Question
+Over Votes,,0.00%,0,Boulder City Question No. 1 Capital Improvement Question
+Yes,,49.30%,"30,279",City of Henderson Question No. 1 Public Safety Question
+No,,50.70%,"31,143",City of Henderson Question No. 1 Public Safety Question
+Under Votes,,0.00%,0,City of Henderson Question No. 1 Public Safety Question
+Over Votes,,0.00%,0,City of Henderson Question No. 1 Public Safety Question

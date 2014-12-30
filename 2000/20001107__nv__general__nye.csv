@@ -1,0 +1,162 @@
+candidate,party,percent,votes,office
+"Browne, Harry",LIB,0.79%,96,President
+"Buchanan, Pat",CIT,1.76%,214,President
+"Bush, George W.",REP,56.68%,"6,904",President
+"Gore, Al",DEM,37.15%,"4,525",President
+"Hagelin, John",NAT,0.07%,9,President
+"Nader, Ralph",GRN,2.73%,332,President
+"Phillips, Howard",IAP,0.16%,19,President
+None of these Candidates,,0.67%,82,President
+Under Votes,,0.00%,0,President
+Over Votes,,0.00%,0,President
+"Berghof, Ernie",IAP,0.44%,53,United States Senator
+"Bernstein, Ed",DEM,34.15%,"4,150",United States Senator
+"Ensign, John",REP,60.58%,"7,362",United States Senator
+"Grutzmacher, Bill",CIT,0.35%,43,United States Senator
+"Johnson, J.J.",LIB,1.49%,181,United States Senator
+"Rusco, Kathryn",GRN,1.28%,156,United States Senator
+None of these Candidates,,1.71%,208,United States Senator
+Under Votes,,0.00%,0,United States Senator
+Over Votes,,0.00%,0,United States Senator
+"Brenneman, Ken",CIT,1.30%,154,"Representative in Congress, District 2"
+"Cahill, Tierney",DEM,28.43%,"3,359","Representative in Congress, District 2"
+"Gibbons, Jim Incumbent",REP,65.53%,"7,743","Representative in Congress, District 2"
+"Hansen, Daniel",IAP,1.29%,152,"Representative in Congress, District 2"
+"Laws, A. Charles",GRN,1.18%,140,"Representative in Congress, District 2"
+"Savage, Terry",LIB,1.84%,217,"Representative in Congress, District 2"
+"Winquist, Robert W.",NAT,0.43%,51,"Representative in Congress, District 2"
+Under Votes,,0.00%,0,"Representative in Congress, District 2"
+Over Votes,,0.00%,0,"Representative in Congress, District 2"
+"Beaman, Ed",DEM,40.04%,"4,742","State Senate, Central Senatorial District"
+"McGinness, Mike Incumbent",REP,59.96%,"7,102","State Senate, Central Senatorial District"
+Under Votes,,0.00%,0,"State Senate, Central Senatorial District"
+Over Votes,,0.00%,0,"State Senate, Central Senatorial District"
+"Hollis, Gary",REP,47.91%,"5,615","State Assembly, District 36"
+"Neighbors, Pomroy M.Incumbent",DEM,52.09%,"6,105","State Assembly, District 36"
+Under Votes,,0.00%,0,"State Assembly, District 36"
+Over Votes,,0.00%,0,"State Assembly, District 36"
+"Rose, Robert E.Incumbent",NP,71.30%,"7,748","Supreme Court Justice, Seat C"
+None of these Candidates,,28.70%,"3,119","Supreme Court Justice, Seat C"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat C"
+"Leavitt, Myron E.Incumbent",NP,73.06%,"7,938","Supreme Court Justice, Seat F"
+None of these Candidates,,26.94%,"2,927","Supreme Court Justice, Seat F"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat F"
+"Backus, Gary",NP,29.01%,"3,237","Supreme Court Justice, Seat G"
+"Becker, Nancy Incumbent",NP,53.71%,"5,993","Supreme Court Justice, Seat G"
+None of these Candidates,,17.29%,"1,929","Supreme Court Justice, Seat G"
+Under Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+"Lane, Robert W.",NP,49.02%,"5,498","District Court Judge, District 5, Department 2"
+"Vitto, Kirk",NP,50.98%,"5,718","District Court Judge, District 5, Department 2"
+Under Votes,,0.00%,0,"District Court Judge, District 5, Department 2"
+Over Votes,,0.00%,0,"District Court Judge, District 5, Department 2"
+"Malone, Theresa",NP,54.81%,"4,628","State Board of Education, District 2, Subdistrict G"
+"Smith, Patricia G.",NP,45.19%,"3,815","State Board of Education, District 2, Subdistrict G"
+Under Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict G"
+Over Votes,,0.00%,0,"State Board of Education, District 2, Subdistrict G"
+"Merlino, Sandra",DEM,64.48%,"7,573",County Clerk
+"Myers, Lorena R.",REP,35.52%,"4,171",County Clerk
+Under Votes,,0.00%,0,County Clerk
+Over Votes,,0.00%,0,County Clerk
+"Carver, Richard L.",REP,72.31%,577,County Commissioner - District I
+"Haas, Del L.",REP,27.69%,221,County Commissioner - District I
+Under Votes,,0.00%,0,County Commissioner - District I
+Over Votes,,0.00%,0,County Commissioner - District I
+"Brown, Susan",REP,40.94%,427,County Commissioner - District II
+"Eastley, Joni",REP,59.06%,616,County Commissioner - District II
+Under Votes,,0.00%,0,County Commissioner - District II
+Over Votes,,0.00%,0,County Commissioner - District II
+"Cleveland, David L.",REP,46.89%,"1,698",County Commissioner - District V
+"Neth, Henry",REP,53.11%,"1,923",County Commissioner - District V
+Under Votes,,0.00%,0,County Commissioner - District V
+Over Votes,,0.00%,0,County Commissioner - District V
+"Atkinson, Marquis",DEM,46.49%,"5,218",County Public Administrator
+"Purdy, Verla J.",REP,53.51%,"6,005",County Public Administrator
+Under Votes,,0.00%,0,County Public Administrator
+Over Votes,,0.00%,0,County Public Administrator
+"Bryan, David",NP,24.44%,218,Beatty General Improvement District
+"Dunsterville, Ellice",NP,19.17%,171,Beatty General Improvement District
+"Shultz, JR",NP,27.13%,242,Beatty General Improvement District
+"Wilson, Richard",NP,29.26%,261,Beatty General Improvement District
+Under Votes,,0.00%,0,Beatty General Improvement District
+Over Votes,,0.00%,0,Beatty General Improvement District
+"Kump, Dan",NP,55.34%,259,Beatty Water and Sanitation District
+"Verille, Albert",NP,44.66%,209,Beatty Water and Sanitation District
+Under Votes,,0.00%,0,Beatty Water and Sanitation District
+Over Votes,,0.00%,0,Beatty Water and Sanitation District
+"Botos, William",NP,19.82%,"3,783",Pahrump Community Hospital Board - 4 Year Term
+"Elgin, Raymond C.",NP,25.25%,"4,820",Pahrump Community Hospital Board - 4 Year Term
+"Howard, Jeanna L.",NP,28.08%,"5,360",Pahrump Community Hospital Board - 4 Year Term
+"Mcdonnell, Mary",NP,26.85%,"5,125",Pahrump Community Hospital Board - 4 Year Term
+Under Votes,,0.00%,0,Pahrump Community Hospital Board - 4 Year Term
+Over Votes,,0.00%,0,Pahrump Community Hospital Board - 4 Year Term
+"Lawrence, Marian  Nielson",NP,50.99%,"3,853",Pahrump Community Hospital Board - 2 Year Term
+"Wood, Walter",NP,49.01%,"3,704",Pahrump Community Hospital Board - 2 Year Term
+Under Votes,,0.00%,0,Pahrump Community Hospital Board - 2 Year Term
+Over Votes,,0.00%,0,Pahrump Community Hospital Board - 2 Year Term
+"Cody, Annette E.",NP,45.45%,50,Railroad Valley General Improvement District
+"Hanks, Carole",NP,54.55%,60,Railroad Valley General Improvement District
+Under Votes,,0.00%,0,Railroad Valley General Improvement District
+Over Votes,,0.00%,0,Railroad Valley General Improvement District
+"Cross, Vickie A.",NP,46.52%,"4,421",County School Board Trustee - Area I
+"Hartley, Janine",NP,53.48%,"5,083",County School Board Trustee - Area I
+Under Votes,,0.00%,0,County School Board Trustee - Area I
+Over Votes,,0.00%,0,County School Board Trustee - Area I
+"Maslach, Nancy",NP,100.00%,"8,969",County School Board Trustee - Area II
+Under Votes,,0.00%,0,County School Board Trustee - Area II
+Over Votes,,0.00%,0,County School Board Trustee - Area II
+"Merlino, James D.",NP,100.00%,"9,107",County School Board Trustee - Area III
+Under Votes,,0.00%,0,County School Board Trustee - Area III
+Over Votes,,0.00%,0,County School Board Trustee - Area III
+"Atkinson, Mary Alice",NP,52.76%,"5,344",County School Board Trustee - Area V
+"Trummell, Ronald J.",NP,47.24%,"4,784",County School Board Trustee - Area V
+Under Votes,,0.00%,0,County School Board Trustee - Area V
+Over Votes,,0.00%,0,County School Board Trustee - Area V
+"Sullivan, Bill",NP,100.00%,552,Justice of the Peace - Beatty
+Under Votes,,0.00%,0,Justice of the Peace - Beatty
+Over Votes,,0.00%,0,Justice of the Peace - Beatty
+"Brisebill, Tina",NP,72.97%,"6,334",Justice of the Peace - Pahrump
+"McRae, Cameron",NP,27.03%,"2,346",Justice of the Peace - Pahrump
+Under Votes,,0.00%,0,Justice of the Peace - Pahrump
+Over Votes,,0.00%,0,Justice of the Peace - Pahrump
+"Maslach, Joe",NP,100.00%,"1,672",Justice of the Peace - Tonopah
+Under Votes,,0.00%,0,Justice of the Peace - Tonopah
+Over Votes,,0.00%,0,Justice of the Peace - Tonopah
+"Geshlider, Chuck",NP,18.59%,"2,772",Pahrump Town Board
+"Holmes, Denise",NP,15.75%,"2,348",Pahrump Town Board
+"Mutton, James",NP,32.99%,"4,919",Pahrump Town Board
+"Wisdom, Jane A.",NP,32.66%,"4,870",Pahrump Town Board
+Under Votes,,0.00%,0,Pahrump Town Board
+Over Votes,,0.00%,0,Pahrump Town Board
+"Harris, Marjorie Gay",NP,24.07%,181,Round Mountain Town Board
+"Ioli, Mark N.",NP,23.01%,173,Round Mountain Town Board
+"Jacobs, Jon",NP,26.73%,201,Round Mountain Town Board
+"Myers, Gina",NP,26.20%,197,Round Mountain Town Board
+Under Votes,,0.00%,0,Round Mountain Town Board
+Over Votes,,0.00%,0,Round Mountain Town Board
+"Adams, Wade Jay",NP,5.52%,152,Tonopah Town Board - 4 Year Term
+"Campos, Paul A.",NP,29.04%,800,Tonopah Town Board - 4 Year Term
+"Holsinger, Stephen A.",NP,12.70%,350,Tonopah Town Board - 4 Year Term
+"Kaminski, Cindy",NP,17.82%,491,Tonopah Town Board - 4 Year Term
+"Koscik, Timaree A.",NP,15.35%,423,Tonopah Town Board - 4 Year Term
+"Truesdell, Mike L.",NP,19.56%,539,Tonopah Town Board - 4 Year Term
+Under Votes,,0.00%,0,Tonopah Town Board - 4 Year Term
+Over Votes,,0.00%,0,Tonopah Town Board - 4 Year Term
+"Harmon, Sandy",NP,59.50%,576,Tonopah Town Board - 2 Year Term
+"Robik, Mike",NP,40.50%,392,Tonopah Town Board - 2 Year Term
+Under Votes,,0.00%,0,Tonopah Town Board - 2 Year Term
+Over Votes,,0.00%,0,Tonopah Town Board - 2 Year Term
+Yes,,33.61%,"3,910",Ballot Question 1
+No,,66.39%,"7,725",Ballot Question 1
+Under Votes,,0.00%,0,Ballot Question 1
+Over Votes,,0.00%,0,Ballot Question 1
+Yes,,77.81%,"9,205",Ballot Question 2
+No,,22.19%,"2,625",Ballot Question 2
+Under Votes,,0.00%,0,Ballot Question 2
+Over Votes,,0.00%,0,Ballot Question 2
+Yes,,62.73%,"7,395",Ballot Question 9
+No,,37.27%,"4,394",Ballot Question 9
+Under Votes,,0.00%,0,Ballot Question 9
+Over Votes,,0.00%,0,Ballot Question 9

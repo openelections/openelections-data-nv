@@ -1,0 +1,115 @@
+candidate,party,percent,votes,office
+"Browne, Harry",LIB,0.59%,30,President
+"Buchanan, Pat",CIT,0.78%,40,President
+"Bush, George W.",REP,71.33%,"3,638",President
+"Gore, Al",DEM,22.12%,"1,128",President
+"Hagelin, John",NAT,0.02%,1,President
+"Nader, Ralph",GRN,2.69%,137,President
+"Phillips, Howard",IAP,0.10%,5,President
+None of these Candidates,,1.00%,51,President
+Under Votes,,0.43%,22,President
+Over Votes,,0.94%,48,President
+"Berghof, Ernie",IAP,0.37%,19,United States Senator
+"Bernstein, Ed",DEM,19.73%,"1,006",United States Senator
+"Ensign, John",REP,73.00%,"3,723",United States Senator
+"Grutzmacher, Bill",CIT,0.25%,13,United States Senator
+"Johnson, J.J.",LIB,1.22%,62,United States Senator
+"Rusco, Kathryn",GRN,1.65%,84,United States Senator
+None of these Candidates,,2.45%,125,United States Senator
+Under Votes,,1.24%,63,United States Senator
+Over Votes,,0.10%,5,United States Senator
+"Brenneman, Ken",CIT,0.43%,22,"Representative in Congress, District 2"
+"Cahill, Tierney",DEM,15.71%,801,"Representative in Congress, District 2"
+"Gibbons, Jim Incumbent",REP,76.92%,"3,923","Representative in Congress, District 2"
+"Hansen, Daniel",IAP,0.96%,49,"Representative in Congress, District 2"
+"Laws, A. Charles",GRN,0.82%,42,"Representative in Congress, District 2"
+"Savage, Terry",LIB,1.65%,84,"Representative in Congress, District 2"
+"Winquist, Robert W.",NAT,0.22%,11,"Representative in Congress, District 2"
+Under Votes,,3.12%,159,"Representative in Congress, District 2"
+Over Votes,,0.18%,9,"Representative in Congress, District 2"
+"Oswald, William",LIB,13.94%,711,Northern Senatorial District
+"Rhoads, Dean A.Incumbent",REP,78.39%,"3,998",Northern Senatorial District
+Under Votes,,7.67%,391,Northern Senatorial District
+Over Votes,,0.00%,0,Northern Senatorial District
+"Martinez, Fortino",DEM,12.47%,636,"State Assembly, District 34"
+"Marvel, John Incumbent",REP,77.24%,"3,939","State Assembly, District 34"
+"Minser, James C.",LIB,5.94%,303,"State Assembly, District 34"
+Under Votes,,4.29%,219,"State Assembly, District 34"
+Over Votes,,0.06%,3,"State Assembly, District 34"
+"Rose, Robert E.Incumbent",NP,64.59%,"3,294","Supreme Court Justice, Seat C"
+None of these Candidates,,20.71%,"1,056","Supreme Court Justice, Seat C"
+Under Votes,,14.63%,746,"Supreme Court Justice, Seat C"
+Over Votes,,0.08%,4,"Supreme Court Justice, Seat C"
+"Leavitt, Myron E.Incumbent",NP,63.76%,"3,252","Supreme Court Justice, Seat F"
+None of these Candidates,,21.08%,"1,075","Supreme Court Justice, Seat F"
+Under Votes,,15.14%,772,"Supreme Court Justice, Seat F"
+Over Votes,,0.02%,1,"Supreme Court Justice, Seat F"
+"Backus, Gary",NP,31.22%,"1,592","Supreme Court Justice, Seat G"
+"Becker, Nancy Incumbent",NP,40.61%,"2,071","Supreme Court Justice, Seat G"
+None of these Candidates,,17.47%,891,"Supreme Court Justice, Seat G"
+Under Votes,,10.71%,546,"Supreme Court Justice, Seat G"
+Over Votes,,0.00%,0,"Supreme Court Justice, Seat G"
+"Kubichek, Janet C.",DEM,33.24%,"1,695",Humboldt County Commissioner - Seat A
+"Wright, Don",REP,62.73%,"3,199",Humboldt County Commissioner - Seat A
+Under Votes,,4.02%,205,Humboldt County Commissioner - Seat A
+Over Votes,,0.02%,1,Humboldt County Commissioner - Seat A
+"Milton, John H. III",REP,63.92%,"3,260",Humboldt County Commissioner - Seat B
+"Supplee, Joan",DEM,31.08%,"1,585",Humboldt County Commissioner - Seat B
+Under Votes,,4.98%,254,Humboldt County Commissioner - Seat B
+Over Votes,,0.02%,1,Humboldt County Commissioner - Seat B
+"Cassinelli, Dan",REP,60.96%,"3,109",Humboldt County Commissioner - Seat C
+"Johnson, Roger",REP,31.61%,"1,612",Humboldt County Commissioner - Seat C
+Under Votes,,7.39%,377,Humboldt County Commissioner - Seat C
+Over Votes,,0.04%,2,Humboldt County Commissioner - Seat C
+"Dufurrena, Alex",REP,82.57%,"4,211",Humboldt County Commissioner - Seat D
+Under Votes,,17.43%,889,Humboldt County Commissioner - Seat D
+Over Votes,,0.00%,0,Humboldt County Commissioner - Seat D
+"Betteridge, Boyd",NP,33.96%,"1,732",Humboldt County School District Board - Seat C
+"Schrempp, Linda L.",NP,58.65%,"2,991",Humboldt County School District Board - Seat C
+Under Votes,,7.37%,376,Humboldt County School District Board - Seat C
+Over Votes,,0.02%,1,Humboldt County School District Board - Seat C
+"Swensen, Kendall D.",NP,79.33%,"4,046",Humboldt County School District Board - Seat D
+Under Votes,,20.67%,"1,054",Humboldt County School District Board - Seat D
+Over Votes,,0.00%,0,Humboldt County School District Board - Seat D
+"Mansanti, John G.",NP,80.65%,"4,113",Humboldt County School District Board - Seat E
+Under Votes,,19.35%,987,Humboldt County School District Board - Seat E
+Over Votes,,0.00%,0,Humboldt County School District Board - Seat E
+"Hillyer, Andrew C.",NP,79.92%,"4,076",Humboldt County School District Board - Seat F
+Under Votes,,20.08%,"1,024",Humboldt County School District Board - Seat F
+Over Votes,,0.00%,0,Humboldt County School District Board - Seat F
+"Allemang, S. Mark",NP,72.33%,"3,689",Humboldt County Hospital District Board - Seat A
+Under Votes,,27.67%,"1,411",Humboldt County Hospital District Board - Seat A
+Over Votes,,0.00%,0,Humboldt County Hospital District Board - Seat A
+"Harding, Brenda B.",NP,48.86%,"2,492",Humboldt County Hospital District Board - Seat C
+"Smith, Kassie",NP,29.08%,"1,483",Humboldt County Hospital District Board - Seat C
+Under Votes,,22.02%,"1,123",Humboldt County Hospital District Board - Seat C
+Over Votes,,0.04%,2,Humboldt County Hospital District Board - Seat C
+"Colby, Roger J.",NP,70.57%,"3,599",Humboldt County Hospital District Board - Seat D
+Under Votes,,29.43%,"1,501",Humboldt County Hospital District Board - Seat D
+Over Votes,,0.00%,0,Humboldt County Hospital District Board - Seat D
+"Bennett, Gregory R.",NP,26.19%,33,Gold Run Township Justice of the Peace
+"Segerstrom, Karl",NP,69.05%,87,Gold Run Township Justice of the Peace
+Under Votes,,4.76%,6,Gold Run Township Justice of the Peace
+Over Votes,,0.00%,0,Gold Run Township Justice of the Peace
+"Huttman, Howard B. Jr.",NP,83.94%,277,McDermitt Township Justice of the Peace
+Under Votes,,16.06%,53,McDermitt Township Justice of the Peace
+Over Votes,,0.00%,0,McDermitt Township Justice of the Peace
+"Chabot, Elizabeth",NP,83.86%,239,Paradise Valley Township Justice of the Peace
+Under Votes,,16.14%,46,Paradise Valley Township Justice of the Peace
+Over Votes,,0.00%,0,Paradise Valley Township Justice of the Peace
+"Wambolt, Gene",NP,68.55%,"2,988",Union Township Justice of the Peace
+"Wiggins, Tony",NP,26.54%,"1,157",Union Township Justice of the Peace
+Under Votes,,4.91%,214,Union Township Justice of the Peace
+Over Votes,,0.00%,0,Union Township Justice of the Peace
+"Koger, Robert E.",NP,55.56%,70,Golconda Fire District Board - Seat C
+"Warden, Fred",NP,37.30%,47,Golconda Fire District Board - Seat C
+Under Votes,,7.14%,9,Golconda Fire District Board - Seat C
+Over Votes,,0.00%,0,Golconda Fire District Board - Seat C
+Yes,,38.14%,"1,945",Ballot Question 1
+No,,55.18%,"2,814",Ballot Question 1
+Under Votes,,6.67%,340,Ballot Question 1
+Over Votes,,0.02%,1,Ballot Question 1
+Yes,,70.12%,"3,576",Ballot Question 2
+No,,25.00%,"1,275",Ballot Question 2
+Under Votes,,4.84%,247,Ballot Question 2
+Over Votes,,0.04%,2,Ballot Question 2
