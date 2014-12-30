@@ -1,0 +1,65 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,35.57%,"6,461",United States Senator
+"ENSIGN, JOHN",REP,60.57%,"11,002",United States Senator
+"SCHUMANN, DAVID K.",IAP,1.60%,291,United States Senator
+"TRAINOR, BRENDAN",LIB,0.74%,134,United States Senator
+NONE OF THESE CANDIDATES,,1.52%,277,United States Senator
+"DERBY, JILL",DEM,43.81%,"7,882","U.S. Representative in Congress, District 2"
+"HELLER, DEAN",REP,52.33%,"9,416","U.S. Representative in Congress, District 2"
+"KROSHUS, JAMES C.",IAP,2.07%,373,"U.S. Representative in Congress, District 2"
+"ROSEN, DANIEL",IND,1.79%,322,"U.S. Representative in Congress, District 2"
+"BERGLAND, CRAIG O.",GRN,1.02%,186,Governor
+"GIBBONS, JIM",REP,53.46%,"9,716",Governor
+"HANSEN, CHRISTOPHER H.",IAP,3.11%,565,Governor
+"TITUS, DINA",DEM,38.46%,"6,989",Governor
+NONE OF THESE CANDIDATES,,3.95%,717,Governor
+"JEFFERSON, THOMAS",IAP,4.51%,814,Lieutenant Governor
+"KROLICKI, BRIAN",REP,64.45%,"11,639",Lieutenant Governor
+"UNGER, ROBERT ""BOB""",DEM,28.08%,"5,072",Lieutenant Governor
+NONE OF THESE CANDIDATES,,2.96%,535,Lieutenant Governor
+"HANSEN, JANINE",IAP,7.83%,"1,406",Secretary Of State
+"MILLER, ROSS",DEM,46.76%,"8,397",Secretary Of State
+"TARKANIAN, DANNY",REP,41.53%,"7,457",Secretary Of State
+NONE OF THESE CANDIDATES,,3.88%,696,Secretary Of State
+"ANDREWS, MARK",IAP,6.07%,"1,091",State Treasurer
+"DESTEFANO, MARK",REP,45.03%,"8,094",State Treasurer
+"MARSHALL, KATE",DEM,43.85%,"7,883",State Treasurer
+NONE OF THESE CANDIDATES,,5.05%,908,State Treasurer
+"FITZGIBBONS, FLOYD",IAP,5.00%,896,State Controller
+"MARTIN, STEVE",REP,49.06%,"8,794",State Controller
+"WALLIN, KIM",DEM,40.48%,"7,256",State Controller
+NONE OF THESE CANDIDATES,,5.46%,978,State Controller
+"CHAIREZ, DON",REP,33.15%,"5,968",Attorney General
+"CORTEZ MASTO, CATHERINE",DEM,61.64%,"11,096",Attorney General
+NONE OF THESE CANDIDATES,,5.21%,937,Attorney General
+"AMODEI, MARK E.",REP,79.85%,"11,075","State Senate, Capital Senatorial District"
+"YOCHUM, MERRIT K. ""IKE""",IAP,20.15%,"2,795","State Senate, Capital Senatorial District"
+"TOWNSEND, RANDOLPH",REP,100.00%,"2,746","State Senate, Washoe District 4"
+"GRADY, TOM",REP,60.68%,"1,994","State Assembly, District 38"
+"JAMES, CATHYLEE",DEM,39.32%,"1,292","State Assembly, District 38"
+"PARNELL, BONNIE",DEM,56.64%,"8,208","State Assembly, District 40"
+"WARD, SHEILA M.",REP,43.36%,"6,284","State Assembly, District 40"
+"CHERRY, MICHAEL A.",NP,72.81%,"11,961","Supreme Court Justice, Seat C"
+NONE OF THESE CANDIDATES,,27.19%,"4,466","Supreme Court Justice, Seat C"
+"DOUGLAS, MICHAEL L.",NP,52.71%,"9,165","Supreme Court Justice, Seat F"
+"STEEL, CYNTHIA ""DIANNE""",NP,33.69%,"5,857","Supreme Court Justice, Seat F"
+NONE OF THESE CANDIDATES,,13.60%,"2,364","Supreme Court Justice, Seat F"
+"BECKER, NANCY",NP,35.20%,"6,170","Supreme Court Justice, Seat G"
+"SAITTA, NANCY M.",NP,50.61%,"8,870","Supreme Court Justice, Seat G"
+NONE OF THESE CANDIDATES,,14.19%,"2,487","Supreme Court Justice, Seat G"
+"FULSTONE, II, DAVID H.",NP,43.01%,"7,174","University Board of Regents, District  9"
+"KNECHT, RON",NP,56.99%,"9,506","University Board of Regents, District  9"
+"KRUEGER, MARK",NP,30.09%,"5,039","University Board of Regents, District  9"
+"WILLIS, ROBEY",NP,69.91%,"11,706","University Board of Regents, District  9"
+"ROMBARDO, NEIL",NP,63.59%,"10,152","Justice of the Peace, Department 1"
+"SUGLIA, MIKE",NP,36.41%,"5,812","Justice of the Peace, Department 1"
+"KEETON, TOM",NP,48.93%,"7,981",District Attorney - CARSON CITY - NP
+"WILLIAMSON, ROBIN",NP,51.07%,"8,330",District Attorney - CARSON CITY - NP
+"LIVERMORE, PETE",NP,51.89%,"8,668","Supervisor, Ward 1 - CARSON CITY - NP"
+"WEAVER, NEIL",NP,48.11%,"8,036","Supervisor, Ward 1 - CARSON CITY - NP"
+"ENGE, JOE",NP,56.87%,"8,797","Supervisor, Ward 3 - CARSON CITY - NP"
+"HUKARI, JAMES R.",NP,43.13%,"6,671","Supervisor, Ward 3 - CARSON CITY - NP"
+"BEDNARSKI, ANN",NP,41.27%,"6,514",School Trustee District 3
+"CROWELL, BOB",NP,58.73%,"9,269",School Trustee District 3
+"FONTAINE, JEFF",NP,48.05%,"7,454",School Trustee District 4
+"HOWE, BARBARA",NP,51.95%,"8,059",School Trustee District 4

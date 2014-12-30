@@ -1,0 +1,71 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,24.90%,"2,941",United States Senator
+"ENSIGN, JOHN",REP,69.58%,"8,218",United States Senator
+"SCHUMANN, DAVID K.",IAP,2.97%,351,United States Senator
+"TRAINOR, BRENDAN",LIB,0.85%,100,United States Senator
+NONE OF THESE CANDIDATES,,1.70%,201,United States Senator
+"DERBY, JILL",DEM,30.91%,"3,611","U.S. Representative in Congress, District 2"
+"HELLER, DEAN",REP,63.02%,"7,362","U.S. Representative in Congress, District 2"
+"KROSHUS, JAMES C.",IAP,3.55%,415,"U.S. Representative in Congress, District 2"
+"ROSEN, DANIEL",IND,2.52%,294,"U.S. Representative in Congress, District 2"
+"BERGLAND, CRAIG O.",GRN,0.79%,93,Governor
+"GIBBONS, JIM",REP,67.21%,"7,938",Governor
+"HANSEN, CHRISTOPHER H.",IAP,4.78%,564,Governor
+"TITUS, DINA",DEM,24.32%,"2,873",Governor
+NONE OF THESE CANDIDATES,,2.90%,343,Governor
+"JEFFERSON, THOMAS",IAP,9.92%,"1,164",Lieutenant Governor
+"KROLICKI, BRIAN",REP,63.83%,"7,490",Lieutenant Governor
+"UNGER, ROBERT ""BOB""",DEM,21.29%,"2,498",Lieutenant Governor
+NONE OF THESE CANDIDATES,,4.97%,583,Lieutenant Governor
+"HANSEN, JANINE",IAP,10.40%,"1,210",Secretary Of State
+"MILLER, ROSS",DEM,26.60%,"3,096",Secretary Of State
+"TARKANIAN, DANNY",REP,58.02%,"6,753",Secretary Of State
+NONE OF THESE CANDIDATES,,4.99%,581,Secretary Of State
+"ANDREWS, MARK",IAP,8.08%,944,State Treasurer
+"DESTEFANO, MARK",REP,58.35%,"6,815",State Treasurer
+"MARSHALL, KATE",DEM,27.74%,"3,240",State Treasurer
+NONE OF THESE CANDIDATES,,5.83%,681,State Treasurer
+"FITZGIBBONS, FLOYD",IAP,7.97%,929,State Controller
+"MARTIN, STEVE",REP,59.58%,"6,945",State Controller
+"WALLIN, KIM",DEM,25.54%,"2,977",State Controller
+NONE OF THESE CANDIDATES,,6.91%,805,State Controller
+"CHAIREZ, DON",REP,56.70%,"6,614",Attorney General
+"CORTEZ MASTO, CATHERINE",DEM,34.93%,"4,075",Attorney General
+NONE OF THESE CANDIDATES,,8.37%,976,Attorney General
+"CARPENTER, JOHN C.",REP,100.00%,"9,628","State Assembly, District 33"
+"CHERRY, MICHAEL A.",NP,69.93%,"7,431","Supreme Court Justice, Seat C"
+NONE OF THESE CANDIDATES,,30.07%,"3,196","Supreme Court Justice, Seat C"
+"DOUGLAS, MICHAEL L.",NP,36.63%,"4,096","Supreme Court Justice, Seat F"
+"STEEL, CYNTHIA ""DIANNE""",NP,41.59%,"4,651","Supreme Court Justice, Seat F"
+NONE OF THESE CANDIDATES,,21.78%,"2,436","Supreme Court Justice, Seat F"
+"BECKER, NANCY",NP,45.25%,"5,071","Supreme Court Justice, Seat G"
+"SAITTA, NANCY M.",NP,30.15%,"3,379","Supreme Court Justice, Seat G"
+NONE OF THESE CANDIDATES,,24.59%,"2,756","Supreme Court Justice, Seat G"
+"AGUIRRE, JOE",REP,100.00%,"10,620","Supreme Court Justice, Seat G"
+"POLISH, MARY ANN",IAP,22.71%,"2,590",COUNTY ASSESSOR
+"SMITH, WIN",REP,77.29%,"8,816",COUNTY ASSESSOR
+"MYERS, CHARLIE",REP,100.00%,"9,866",COUNTY CLERK
+"EKLUND-BROWN, SHERI",REP,64.70%,"7,347",County Commissioner District 2 (CW)
+"JENKINS, NEIL",IAP,35.30%,"4,009",County Commissioner District 2 (CW)
+"WOODBURY, GARY D.",REP,100.00%,"9,797",County Commissioner District 4 (CW)
+"JENKINS, JANYCE",REP,100.00%,"9,877",DISTRICT ATTORNEY
+"JENKINS, KAY DAWN",IAP,24.86%,"2,808",PUBLIC ADMINISTRATOR
+"REYNOLDS, JERRY D.",REP,75.14%,"8,486",PUBLIC ADMINISTRATOR
+"ERICKSON, REBECCA ""BECKY""",REP,81.06%,"9,220",COUNTY RECORDER
+"HAWKINS, MIKE",IAP,18.94%,"2,154",COUNTY RECORDER
+"HARRIS, NEIL",NP,46.85%,"5,410",COUNTY TREASURER
+"LOTSPEICH, DALE",NP,53.15%,"6,137",COUNTY TREASURER
+"JONES, PATRICIA D.",NP,57.63%,"6,068",County Sheriff - ELKO
+"SIMONS, MASON E.",NP,42.37%,"4,462",County Sheriff - ELKO
+"BINGAMAN, THOMAS E.",NP,22.20%,109,School Board Trustee District 1 -AL
+"NETHERY, BARBARA",NP,77.80%,382,School Board Trustee District 1 -AL
+"MELVILLE, REESE F.",NP,57.24%,241,"CARLIN, Justice of the Peace"
+"ROWLEY, ALAN",NP,42.76%,180,"CARLIN, Justice of the Peace"
+"KACIN, AL",NP,59.28%,"5,754","EASTLINE, Justice of the Peace"
+"LEDDY, MARY E. ""MOLLY""",NP,40.72%,"3,953","EASTLINE, Justice of the Peace"
+"BRIGGS, CHARLES ""ROY""",NP,26.21%,303,"ELKO, Justice of the Peace"
+"CARTER, EMILY P.",NP,28.63%,331,"ELKO, Justice of the Peace"
+"CARTER, JIMMY D.",NP,21.19%,245,"ELKO, Justice of the Peace"
+"MIERA, MICHAEL J.",NP,10.99%,127,"ELKO, Justice of the Peace"
+"PEREZ, LUIS A.",NP,12.98%,150,"ELKO, Justice of the Peace"
+"GORUM, JUAN ""JOHNNY""",NP,100.00%,347,"Council Members Seat 1, 2, 5"

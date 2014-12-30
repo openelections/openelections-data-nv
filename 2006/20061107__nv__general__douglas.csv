@@ -1,0 +1,98 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,29.97%,"5,795",United States Senator
+"ENSIGN, JOHN",REP,66.32%,"12,822",United States Senator
+"SCHUMANN, DAVID K.",IAP,1.58%,306,United States Senator
+"TRAINOR, BRENDAN",LIB,0.72%,140,United States Senator
+NONE OF THESE CANDIDATES,,1.40%,270,United States Senator
+"DERBY, JILL",DEM,40.48%,"7,752","U.S. Representative in Congress, District 2"
+"HELLER, DEAN",REP,55.77%,"10,679","U.S. Representative in Congress, District 2"
+"KROSHUS, JAMES C.",IAP,1.98%,379,"U.S. Representative in Congress, District 2"
+"ROSEN, DANIEL",IND,1.78%,340,"U.S. Representative in Congress, District 2"
+"BERGLAND, CRAIG O.",GRN,1.37%,265,Governor
+"GIBBONS, JIM",REP,61.65%,"11,918",Governor
+"HANSEN, CHRISTOPHER H.",IAP,3.06%,591,Governor
+"TITUS, DINA",DEM,30.67%,"5,929",Governor
+NONE OF THESE CANDIDATES,,3.26%,630,Governor
+"JEFFERSON, THOMAS",IAP,4.65%,893,Lieutenant Governor
+"KROLICKI, BRIAN",REP,67.86%,"13,040",Lieutenant Governor
+"UNGER, ROBERT ""BOB""",DEM,24.50%,"4,708",Lieutenant Governor
+NONE OF THESE CANDIDATES,,2.99%,574,Lieutenant Governor
+"HANSEN, JANINE",IAP,7.43%,"1,412",Secretary Of State
+"MILLER, ROSS",DEM,39.53%,"7,514",Secretary Of State
+"TARKANIAN, DANNY",REP,48.93%,"9,301",Secretary Of State
+NONE OF THESE CANDIDATES,,4.10%,780,Secretary Of State
+"ANDREWS, MARK",IAP,5.48%,"1,043",State Treasurer
+"DESTEFANO, MARK",REP,53.48%,"10,186",State Treasurer
+"MARSHALL, KATE",DEM,36.38%,"6,929",State Treasurer
+NONE OF THESE CANDIDATES,,4.67%,890,State Treasurer
+"FITZGIBBONS, FLOYD",IAP,5.04%,955,State Controller
+"MARTIN, STEVE",REP,55.90%,"10,590",State Controller
+"WALLIN, KIM",DEM,33.88%,"6,418",State Controller
+NONE OF THESE CANDIDATES,,5.19%,983,State Controller
+"CHAIREZ, DON",REP,41.35%,"7,892",Attorney General
+"CORTEZ MASTO, CATHERINE",DEM,53.70%,"10,248",Attorney General
+NONE OF THESE CANDIDATES,,4.95%,945,Attorney General
+"AMODEI, MARK E.",REP,76.93%,"8,432","State Senate, Capital Senatorial District"
+"YOCHUM, MERRIT K. ""IKE""",IAP,23.07%,"2,529","State Senate, Capital Senatorial District"
+"BROWN, JOETTA",DEM,34.38%,"6,520","State Assembly, District 39"
+"SETTELMEYER, JAMES ARNOLD",REP,65.62%,"12,447","State Assembly, District 39"
+"CHERRY, MICHAEL A.",NP,73.26%,"11,885","Supreme Court Justice, Seat C"
+NONE OF THESE CANDIDATES,,26.74%,"4,339","Supreme Court Justice, Seat C"
+"DOUGLAS, MICHAEL L.",NP,50.39%,"8,895","Supreme Court Justice, Seat F"
+"STEEL, CYNTHIA ""DIANNE""",NP,33.40%,"5,896","Supreme Court Justice, Seat F"
+NONE OF THESE CANDIDATES,,16.21%,"2,861","Supreme Court Justice, Seat F"
+"BECKER, NANCY",NP,33.45%,"5,931","Supreme Court Justice, Seat G"
+"SAITTA, NANCY M.",NP,49.10%,"8,706","Supreme Court Justice, Seat G"
+NONE OF THESE CANDIDATES,,17.45%,"3,095","Supreme Court Justice, Seat G"
+"FULSTONE, II, DAVID H.",NP,45.39%,"7,082","University Board of Regents, District  9"
+"KNECHT, RON",NP,54.61%,"8,522","University Board of Regents, District  9"
+"SONNEMANN, DOUGLAS W. ""DOUG""",REP,100.00%,"15,595","University Board of Regents, District  9"
+"GRIFFIN REED, BARBARA J.",REP,100.00%,"15,724",COUNTY ASSESSOR
+"BRADY, DAVID J.",REP,57.23%,"9,491",County Clerk/Treasurer
+"HIGUERA, LLOYD W.",REP,42.77%,"7,094",County Clerk/Treasurer
+"HAMBSCH, GRETA G.",DEM,36.10%,"6,629",County Commissioner District 2
+"MCDERMID, NANCY",REP,63.90%,"11,735",County Commissioner District 2
+"JACKSON, MARK",REP,100.00%,"15,418",County Commissioner District 4
+"DUPUIS, SAMUEL H.",IAP,29.04%,"5,126",DISTRICT ATTORNEY
+"ENEARL, LYNN",REP,70.96%,"12,525",DISTRICT ATTORNEY
+"CHRISTEN, WERNER W.",REP,100.00%,"15,294",PUBLIC ADMINISTRATOR
+"GILBERT, PAUL E.",REP,100.00%,"13,575",COUNTY RECORDER
+"CHASE, KELLY",NP,38.95%,"6,095",Constable East Fork
+"ENEARL, JIM A.",NP,61.05%,"9,552",Constable East Fork
+"BENZ, BERNIE",NP,17.04%,"3,526","Justice of the Peace, East Fork Township"
+"GRAY, GORDON",NP,22.82%,"4,723","Justice of the Peace, East Fork Township"
+"HAMILTON, KYLE DENISE",NP,21.78%,"4,507","Justice of the Peace, East Fork Township"
+"O'HARA, PATRICK",NP,22.80%,"4,718","Justice of the Peace, East Fork Township"
+"SOLT, LESLEY",NP,15.56%,"3,221","Justice of the Peace, East Fork Township"
+"CLASON, ROY",NP,30.16%,897,East Fork Swimming Pool Dist
+"FORVILLY, FRANK",NP,43.54%,"1,295",East Fork Swimming Pool Dist
+"WETTERER, STEVEN",NP,26.29%,782,East Fork Swimming Pool Dist
+"BOTTIGGI, D.E. ""BO""",NP,11.11%,38,Tahoe Douglas Fire Protection District
+"PACE, GREG",NP,30.70%,105,Tahoe Douglas Fire Protection District
+"PETTIT, JACK E.",NP,31.29%,107,Tahoe Douglas Fire Protection District
+"WILLIAMS, BRIAN K.",NP,26.90%,92,Tahoe Douglas Fire Protection District
+"BARNUM, BILL",NP,23.18%,"1,479",Town of Genoa
+"JAMES, JEFF",NP,26.46%,"1,688",Town of Genoa
+"REAVIS, BRUCE H.",NP,23.81%,"1,519",Town of Genoa
+"WAGNER, AL",NP,26.55%,"1,694",Town of Genoa
+"CLARK-ROSS, KATHRYN",NP,20.05%,596,Gardnerville Ranchos G I D
+"EISELE, BILL",NP,21.66%,644,Gardnerville Ranchos G I D
+"EVANS, RILEY EDWARD",NP,15.64%,465,Gardnerville Ranchos G I D
+"PATRICK, BRIAN",NP,20.52%,610,Gardnerville Ranchos G I D
+"PIERINI, DENISE",NP,22.13%,658,Gardnerville Ranchos G I D
+"DORTON, BRAD",NP,16.03%,100,Indian Hills G I D
+"FRANCOEUR, JOSEPH",NP,23.40%,146,Indian Hills G I D
+"MATTHEWS, MARY SUE",NP,22.76%,142,Indian Hills G I D
+"RICE, WES",NP,16.35%,102,Indian Hills G I D
+"TESHARA, STEVE",NP,21.47%,134,Indian Hills G I D
+"BEELIK, VICTOR",NP,17.92%,62,Round Hill G I D
+"CHAPMAN, ANDY",NP,21.10%,73,Round Hill G I D
+"HOGAN, RODERICK K.",NP,4.05%,14,Round Hill G I D
+"KLEIN, BARBARA L.",NP,27.46%,95,Round Hill G I D
+"MACSWEEN, BARBARA L.",NP,29.48%,102,Round Hill G I D
+"DUFFEY, TOM",NP,16.73%,89,Skyland G I D
+"ELLENA, PEGGY",NP,18.98%,101,Skyland G I D
+"GLEASON, TOM",NP,14.85%,79,Skyland G I D
+"KLOTSCH, FREDERICK",NP,14.29%,76,Skyland G I D
+"MOSS, GUY",NP,18.80%,100,Skyland G I D
+"SEPPA, DEAN",NP,16.35%,87,Skyland G I D

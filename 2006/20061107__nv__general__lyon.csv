@@ -1,0 +1,95 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,30.01%,"4,522",United States Senator
+"ENSIGN, JOHN",REP,65.55%,"9,876",United States Senator
+"SCHUMANN, DAVID K.",IAP,2.24%,337,United States Senator
+"TRAINOR, BRENDAN",LIB,0.80%,120,United States Senator
+NONE OF THESE CANDIDATES,,1.41%,212,United States Senator
+"DERBY, JILL",DEM,39.81%,"5,929","U.S. Representative in Congress, District 2"
+"HELLER, DEAN",REP,54.61%,"8,132","U.S. Representative in Congress, District 2"
+"KROSHUS, JAMES C.",IAP,3.16%,471,"U.S. Representative in Congress, District 2"
+"ROSEN, DANIEL",IND,2.42%,360,"U.S. Representative in Congress, District 2"
+"BERGLAND, CRAIG O.",GRN,1.22%,184,Governor
+"GIBBONS, JIM",REP,61.88%,"9,329",Governor
+"HANSEN, CHRISTOPHER H.",IAP,4.95%,746,Governor
+"TITUS, DINA",DEM,28.59%,"4,310",Governor
+NONE OF THESE CANDIDATES,,3.36%,507,Governor
+"JEFFERSON, THOMAS",IAP,6.51%,974,Lieutenant Governor
+"KROLICKI, BRIAN",REP,63.41%,"9,488",Lieutenant Governor
+"UNGER, ROBERT ""BOB""",DEM,26.73%,"3,999",Lieutenant Governor
+NONE OF THESE CANDIDATES,,3.35%,502,Lieutenant Governor
+"HANSEN, JANINE",IAP,9.06%,"1,345",Secretary Of State
+"MILLER, ROSS",DEM,39.23%,"5,826",Secretary Of State
+"TARKANIAN, DANNY",REP,47.95%,"7,121",Secretary Of State
+NONE OF THESE CANDIDATES,,3.77%,560,Secretary Of State
+"ANDREWS, MARK",IAP,6.85%,"1,019",State Treasurer
+"DESTEFANO, MARK",REP,53.02%,"7,890",State Treasurer
+"MARSHALL, KATE",DEM,35.56%,"5,291",State Treasurer
+NONE OF THESE CANDIDATES,,4.58%,681,State Treasurer
+"FITZGIBBONS, FLOYD",IAP,6.91%,"1,025",State Controller
+"MARTIN, STEVE",REP,52.24%,"7,751",State Controller
+"WALLIN, KIM",DEM,35.88%,"5,323",State Controller
+NONE OF THESE CANDIDATES,,4.97%,737,State Controller
+"CHAIREZ, DON",REP,39.05%,"5,815",Attorney General
+"CORTEZ MASTO, CATHERINE",DEM,55.68%,"8,291",Attorney General
+NONE OF THESE CANDIDATES,,5.27%,784,Attorney General
+"AMODEI, MARK E.",REP,75.53%,"6,908","State Senate, Capital Senatorial District"
+"YOCHUM, MERRIT K. ""IKE""",IAP,24.47%,"2,238","State Senate, Capital Senatorial District"
+"EMERSON, JOHN H.",DEM,37.69%,"1,478","State Senate, Washoe District 2"
+"WASHINGTON, MAURICE",REP,62.31%,"2,443","State Senate, Washoe District 2"
+"GRADY, TOM",REP,62.73%,"9,220","State Assembly, District 38"
+"JAMES, CATHYLEE",DEM,37.27%,"5,478","State Assembly, District 38"
+"CHERRY, MICHAEL A.",NP,73.99%,"9,715","Supreme Court Justice, Seat C"
+NONE OF THESE CANDIDATES,,26.01%,"3,415","Supreme Court Justice, Seat C"
+"DOUGLAS, MICHAEL L.",NP,47.43%,"6,653","Supreme Court Justice, Seat F"
+"STEEL, CYNTHIA ""DIANNE""",NP,37.06%,"5,198","Supreme Court Justice, Seat F"
+NONE OF THESE CANDIDATES,,15.51%,"2,176","Supreme Court Justice, Seat F"
+"BECKER, NANCY",NP,33.41%,"4,756","Supreme Court Justice, Seat G"
+"SAITTA, NANCY M.",NP,49.95%,"7,111","Supreme Court Justice, Seat G"
+NONE OF THESE CANDIDATES,,16.65%,"2,370","Supreme Court Justice, Seat G"
+"ABERASTURI, LEON",NP,56.09%,"7,774","District Court Judge, District 3, Department  2"
+"PEDERSON, WAYNE A.",NP,43.91%,"6,086","District Court Judge, District 3, Department  2"
+"FULSTONE, II, DAVID H.",NP,53.38%,"7,061","University Board of Regents, District  9"
+"KNECHT, RON",NP,46.62%,"6,167","University Board of Regents, District  9"
+"LAWSON, CHARLES E.",DEM,45.80%,"6,667","University Board of Regents, District  9"
+"MCPHERSON, LARRY",REP,54.20%,"7,891","University Board of Regents, District  9"
+"HUNEWILL, PHYLLIS",REP,100.00%,"11,917",County Commissioner District II (CW)
+"GLASS, H. MICHAEL",REP,100.00%,"12,187",County Commissioner District V (CW)
+"BRYAN, NIKKI A.",REP,100.00%,"12,440",COUNTY ASSESSOR
+"AUER, ROBERT ""BOB""",REP,54.23%,"7,045",County Clerk/Treasurer
+"RYE, STEPHEN B.",REP,45.77%,"5,946",County Clerk/Treasurer
+"MILLIGAN, MARY C.",REP,100.00%,"12,262",DISTRICT ATTORNEY
+"CORRALES, ANTHONY B.",NP,56.15%,"6,579",COUNTY RECORDER
+"SLABBINCK, JOSEPH H.",NP,43.85%,"5,137",COUNTY RECORDER
+"NICKERSON, LYNDA J.",NP,45.28%,"5,553",School Board District Trustee II
+"SHIRLEY, CHARLES W.",NP,54.72%,"6,712",School Board District Trustee II
+"GIOMI, DEBORAH A.",NP,26.81%,"2,325",School Board District Trustee IV
+"HANSON, BEVERLY J.",NP,26.93%,"2,335",School Board District Trustee IV
+"HUNTLEY, SCOTT D.",NP,26.50%,"2,298",School Board District Trustee IV
+"JUREY, SANDRA D.",NP,19.76%,"1,713",School Board District Trustee IV
+"MCLEAN, JASON",NP,69.18%,"8,078",Hospital District SOUTH LYON COUNTY
+"ROLLER, FRANKLIN D.",NP,30.82%,"3,598",Hospital District SOUTH LYON COUNTY
+"DUKE, CHARLIE",NP,40.90%,"5,922",PUBLIC ADMINISTRATOR
+"VEIL, ALLEN",NP,59.10%,"8,558",PUBLIC ADMINISTRATOR
+"DECHAMBEAU, JIM",NP,24.11%,986,Sheriff - LYON
+"OGLE, TIMOTHY T.",NP,26.33%,"1,077",Sheriff - LYON
+"PAGE, JEFFREY A.",NP,29.46%,"1,205",Sheriff - LYON
+"SMITH, TONY H.",NP,20.10%,822,Sheriff - LYON
+"FLETCHER, MICHAEL S.",NP,53.19%,"1,940",MASON VALLEY Fire Protection Directors District I
+"MILLIGAN, DENNIS T.",NP,46.81%,"1,707",MASON VALLEY Fire Protection Directors District I
+"BARBEE, CHRYSTI R.",NP,15.16%,286,Justice of the Peace Walker River
+"BENNETT, KAY",NP,14.37%,271,Justice of the Peace Walker River
+"DUFRESNE, MATTHEW J.",NP,9.01%,170,Justice of the Peace Walker River
+"FREEMAN, BOB",NP,13.15%,248,Justice of the Peace Walker River
+"HOLLER, BILL",NP,11.19%,211,Justice of the Peace Walker River
+"JOHNSON, RAY",NP,12.46%,235,Justice of the Peace Walker River
+"LINDERMAN, DICK",NP,9.65%,182,Justice of the Peace Walker River
+"WELLS, BOB",NP,15.01%,283,Justice of the Peace Walker River
+"CUTLER, TODD",NP,43.19%,"1,915",SILVER SPRINGS General Improvement District Trustees
+"LEE, ROLAND B.",NP,3.83%,170,SILVER SPRINGS General Improvement District Trustees
+"LEMKE, JIM",NP,2.14%,95,SILVER SPRINGS General Improvement District Trustees
+"RIESEN, WILLIAM A.",NP,1.17%,52,SILVER SPRINGS General Improvement District Trustees
+"SKINNER, DEBBIE",NP,8.39%,372,SILVER SPRINGS General Improvement District Trustees
+"STIX, JR., DAVID F.",NP,41.27%,"1,830",SILVER SPRINGS General Improvement District Trustees
+"JONES, RICK",NP,40.76%,333,Mayor FERNLEY
+"LANNING, PAUL",NP,10.16%,83,Mayor FERNLEY
+"SHEPPERD, CHARLES",NP,49.08%,401,Mayor FERNLEY
