@@ -10,6 +10,32 @@ county-level candidate totals.
 # 2012 general county-level results
 # http://www.nvsos.gov/silverstate2012gen/_xml/USandNV.xml
 
+def parse_2004_general():
+    base_url = "http://nvsos.gov/SOSelectionPages/results/2004General/"
+    counties = ['CarsonCity.aspx', 'Churchill.aspx','Clark.aspx','Douglas.aspx','Elko.aspx',
+    'Esmeralda.aspx','Eureka.aspx','Humboldt.aspx','Lander.aspx','Lincoln.aspx','Lyon.aspx',
+    'Mineral.aspx','Nye.aspx','Pershing.aspx','Storey.aspx','Washoe.aspx','WhitePine.aspx']
+    for county in counties:
+        soup, jurisdiction, filename = fetch_and_parse_2006(base_url+county, '2004', '20041102__nv__general__')
+        offices = [x.find('b').text for x in soup.findAll('th') if x.find('b')]
+        max_offices = len(offices)-1
+        candidates = []
+        for i in range(1,max_offices):
+            office = offices[i-1]
+            results = soup.findAll('table')[11+i]
+            for candidate in results.findAll('tr')[1:]:
+                cand = [td.text.replace('&nbsp;','').strip() for td in candidate.findAll('td')]
+                cand.append(office)
+                candidates.append(cand)
+            with open(filename, 'wb') as csvfile:
+                writer = csv.writer(csvfile, delimiter=',', quotechar='"')
+                writer.writerow(['candidate','party','percent','votes','office'])
+                try:
+                    [writer.writerow(row) for row in candidates if not row[2] == '']
+                except:
+                    next
+
+
 def parse_2006_primary():
     base_url = "http://nvsos.gov/SOSelectionPages/results/2006StateWidePrimary/"
     counties = ['CarsonCity.aspx', 'Churchill.aspx','Clark.aspx','Douglas.aspx','Elko.aspx',
