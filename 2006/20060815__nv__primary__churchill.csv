@@ -1,0 +1,84 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,71.42%,992,United States Senator (Democratic)
+"TUN, RUBY JEE",DEM,12.02%,167,United States Senator (Democratic)
+NONE OF THESE CANDIDATES,,16.56%,230,United States Senator (Democratic)
+"ENSIGN, JOHN",REP,91.85%,"2,975",United States Senator (Republican)
+"HAMILTON, EDWARD ""FAST EDDIE""",REP,3.98%,129,United States Senator (Republican)
+NONE OF THESE CANDIDATES,,4.17%,135,United States Senator (Republican)
+"ANGLE, SHARRON E.",REP,29.48%,943,"U.S. Representative in Congress, District 2 (Republican)"
+"GIBBONS, DAWN",REP,29.26%,936,"U.S. Representative in Congress, District 2 (Republican)"
+"GILSTER, RICHARD",REP,1.31%,42,"U.S. Representative in Congress, District 2 (Republican)"
+"HELLER, DEAN",REP,37.67%,"1,205","U.S. Representative in Congress, District 2 (Republican)"
+"THOMAS, GLENN",REP,2.28%,73,"U.S. Representative in Congress, District 2 (Republican)"
+"GIBSON, JAMES B.",DEM,38.53%,536,Governor (Democratic)
+"MCCONNELL, LEOLA",DEM,6.11%,85,Governor (Democratic)
+"TITUS, DINA",DEM,43.78%,609,Governor (Democratic)
+NONE OF THESE CANDIDATES,,11.57%,161,Governor (Democratic)
+"BEERS, BOB",REP,16.69%,540,Governor (Republican)
+"DAMAYO, MELODY ""MIMI MIYAGI""",REP,0.74%,24,Governor (Republican)
+"GIBBONS, JIM",REP,66.81%,"2,162",Governor (Republican)
+"HUNT, LORRAINE T.",REP,12.48%,404,Governor (Republican)
+"LUSAK, STANLEIGH HAROLD",REP,0.93%,30,Governor (Republican)
+NONE OF THESE CANDIDATES,,2.35%,76,Governor (Republican)
+"GOODMAN, ROBERT E. ""BOB""",DEM,18.76%,254,Lieutenant Governor (Democratic)
+"MONTGOMERY, BILL",DEM,14.62%,198,Lieutenant Governor (Democratic)
+"STUPAK, BOB",DEM,16.91%,229,Lieutenant Governor (Democratic)
+"UNGER, ROBERT ""BOB""",DEM,23.26%,315,Lieutenant Governor (Democratic)
+NONE OF THESE CANDIDATES,,26.44%,358,Lieutenant Governor (Democratic)
+"HAMMARGREN, LONNIE",REP,11.08%,355,Lieutenant Governor (Republican)
+"KAO, GEORGE",REP,5.62%,180,Lieutenant Governor (Republican)
+"KROLICKI, BRIAN",REP,47.63%,"1,526",Lieutenant Governor (Republican)
+"MONCRIEF, JANET",REP,2.53%,81,Lieutenant Governor (Republican)
+"WOOLLEN, BARBARA LEE",REP,24.22%,776,Lieutenant Governor (Republican)
+NONE OF THESE CANDIDATES,,8.93%,286,Lieutenant Governor (Republican)
+"BOYD, RODERICK",DEM,19.26%,261,Secretary Of State (Democratic)
+"MILLER, ROSS",DEM,57.20%,775,Secretary Of State (Democratic)
+NONE OF THESE CANDIDATES,,23.54%,319,Secretary Of State (Democratic)
+"SCROGGINS, BRIAN",REP,39.98%,"1,247",Secretary Of State (Republican)
+"TARKANIAN, DANNY",REP,44.28%,"1,381",Secretary Of State (Republican)
+NONE OF THESE CANDIDATES,,15.74%,491,Secretary Of State (Republican)
+"MARSHALL, KATE",DEM,60.93%,828,State Treasurer (Democratic)
+"VANDERPAL, GEOFFREY",DEM,23.03%,313,State Treasurer (Democratic)
+NONE OF THESE CANDIDATES,,16.04%,218,State Treasurer (Democratic)
+"AUGUSTINE, KATHY",REP,15.00%,471,State Treasurer (Republican)
+"DESTEFANO, MARK",REP,48.65%,"1,527",State Treasurer (Republican)
+"PITTS, JOSEPH",REP,15.83%,497,State Treasurer (Republican)
+NONE OF THESE CANDIDATES,,20.52%,644,State Treasurer (Republican)
+"COCHRAN, ANGIE G.",DEM,32.58%,58,"State Assembly, District 36 (Democratic)"
+"KULKIN, HARLEY Z.",DEM,18.54%,33,"State Assembly, District 36 (Democratic)"
+"MURRAY, LAURAYNE",DEM,48.88%,87,"State Assembly, District 36 (Democratic)"
+"BROWN, JOHN M.",REP,19.77%,119,"State Assembly, District 36 (Republican)"
+"GOEDHART, ED",REP,45.35%,273,"State Assembly, District 36 (Republican)"
+"HIGBEE, JR., ED",REP,34.88%,210,"State Assembly, District 36 (Republican)"
+"CALVERT, JOHN",NP,17.15%,839,"Supreme Court Justice, Seat F (Nonpartisan)"
+"DOUGLAS, MICHAEL L.",NP,27.19%,"1,330","Supreme Court Justice, Seat F (Nonpartisan)"
+"STEEL, CYNTHIA ""DIANNE""",NP,35.00%,"1,712","Supreme Court Justice, Seat F (Nonpartisan)"
+NONE OF THESE CANDIDATES,,20.65%,"1,010","Supreme Court Justice, Seat F (Nonpartisan)"
+"BECKER, NANCY",NP,29.39%,"1,446","Supreme Court Justice, Seat G (Nonpartisan)"
+"CHRISTENSEN, THOMAS F.",NP,16.28%,801,"Supreme Court Justice, Seat G (Nonpartisan)"
+"DEL VECCHIO, NICHOLAS ANTHONY",NP,12.99%,639,"Supreme Court Justice, Seat G (Nonpartisan)"
+"SAITTA, NANCY M.",NP,21.36%,"1,051","Supreme Court Justice, Seat G (Nonpartisan)"
+NONE OF THESE CANDIDATES,,19.98%,983,"Supreme Court Justice, Seat G (Nonpartisan)"
+"ABERASTURI, LEON",NP,30.62%,"1,477","District Court Judge, District 3, Department  2 (Nonpartisan)"
+"PEDERSON, WAYNE A.",NP,56.63%,"2,732","District Court Judge, District 3, Department  2 (Nonpartisan)"
+"SCHLEGELMILCH, JOHN PAUL",NP,12.75%,615,"District Court Judge, District 3, Department  2 (Nonpartisan)"
+"FERRY, CLIFF",NP,100.00%,"4,158","State Board of Education, District 10 (Nonpartisan)"
+"MCKNIGHT, TAMI",DEM,18.26%,247,"State Board of Education, District 10 (Nonpartisan)"
+"SIMS, JOAN",DEM,31.41%,425,"State Board of Education, District 10 (Nonpartisan)"
+"TRIPP, VICKY L.",DEM,50.33%,681,"State Board of Education, District 10 (Nonpartisan)"
+"CROWLEY, MARTIN G.",NP,28.85%,"1,447",COUNTY RECORDER (Democratic)
+"RICHARDS, MIKE",NP,27.41%,"1,375",COUNTY RECORDER (Democratic)
+"SORENSEN, TYSON",NP,15.89%,797,COUNTY RECORDER (Democratic)
+"VOGEL, WILLIAM E.",NP,2.05%,103,COUNTY RECORDER (Democratic)
+"WARD, DANIEL P.",NP,25.80%,"1,294",COUNTY RECORDER (Democratic)
+"ADAMS, LISA E.",NP,7.11%,"1,301",CHURCHILL Justice of the Peace (Nonpartisan)
+"BUCKMASTER, LOU",NP,14.85%,"2,718",CHURCHILL Justice of the Peace (Nonpartisan)
+"EVANS, RON",NP,16.44%,"3,009",CHURCHILL Justice of the Peace (Nonpartisan)
+"GENT, RICH",NP,8.19%,"1,499",CHURCHILL Justice of the Peace (Nonpartisan)
+"GIBSON, GUY",NP,4.89%,896,CHURCHILL Justice of the Peace (Nonpartisan)
+"JOHNSON, DOUGLAS I.",NP,4.57%,836,CHURCHILL Justice of the Peace (Nonpartisan)
+"LAMMEL, JODY",NP,7.60%,"1,391",CHURCHILL Justice of the Peace (Nonpartisan)
+"RIGGINS, TOM",NP,10.28%,"1,882",CHURCHILL Justice of the Peace (Nonpartisan)
+"SMITH, DEBBIE GETTO",NP,9.93%,"1,817",CHURCHILL Justice of the Peace (Nonpartisan)
+"VANGORDER, MYLES",NP,6.13%,"1,122",CHURCHILL Justice of the Peace (Nonpartisan)
+"VINSON, MARCIA",NP,10.03%,"1,836",CHURCHILL Justice of the Peace (Nonpartisan)

@@ -1,0 +1,72 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,64.11%,359,United States Senator (Democratic)
+"TUN, RUBY JEE",DEM,10.71%,60,United States Senator (Democratic)
+NONE OF THESE CANDIDATES,,25.18%,141,United States Senator (Democratic)
+"ENSIGN, JOHN",REP,89.06%,692,United States Senator (Republican)
+"HAMILTON, EDWARD ""FAST EDDIE""",REP,4.38%,34,United States Senator (Republican)
+NONE OF THESE CANDIDATES,,6.56%,51,United States Senator (Republican)
+"ANGLE, SHARRON E.",REP,30.01%,223,"U.S. Representative in Congress, District 2 (Republican)"
+"GIBBONS, DAWN",REP,30.28%,225,"U.S. Representative in Congress, District 2 (Republican)"
+"GILSTER, RICHARD",REP,1.88%,14,"U.S. Representative in Congress, District 2 (Republican)"
+"HELLER, DEAN",REP,32.57%,242,"U.S. Representative in Congress, District 2 (Republican)"
+"THOMAS, GLENN",REP,5.25%,39,"U.S. Representative in Congress, District 2 (Republican)"
+"GIBSON, JAMES B.",DEM,54.45%,312,Governor (Democratic)
+"MCCONNELL, LEOLA",DEM,3.14%,18,Governor (Democratic)
+"TITUS, DINA",DEM,35.95%,206,Governor (Democratic)
+NONE OF THESE CANDIDATES,,6.46%,37,Governor (Democratic)
+"BEERS, BOB",REP,29.53%,228,Governor (Republican)
+"DAMAYO, MELODY ""MIMI MIYAGI""",REP,1.42%,11,Governor (Republican)
+"GIBBONS, JIM",REP,48.19%,372,Governor (Republican)
+"HUNT, LORRAINE T.",REP,14.51%,112,Governor (Republican)
+"LUSAK, STANLEIGH HAROLD",REP,0%,0,Governor (Republican)
+NONE OF THESE CANDIDATES,,6.35%,49,Governor (Republican)
+"GOODMAN, ROBERT E. ""BOB""",DEM,20.89%,117,Lieutenant Governor (Democratic)
+"MONTGOMERY, BILL",DEM,13.39%,75,Lieutenant Governor (Democratic)
+"STUPAK, BOB",DEM,18.57%,104,Lieutenant Governor (Democratic)
+"UNGER, ROBERT ""BOB""",DEM,17.68%,99,Lieutenant Governor (Democratic)
+NONE OF THESE CANDIDATES,,29.46%,165,Lieutenant Governor (Democratic)
+"HAMMARGREN, LONNIE",REP,23.03%,175,Lieutenant Governor (Republican)
+"KAO, GEORGE",REP,3.68%,28,Lieutenant Governor (Republican)
+"KROLICKI, BRIAN",REP,26.05%,198,Lieutenant Governor (Republican)
+"MONCRIEF, JANET",REP,5.13%,39,Lieutenant Governor (Republican)
+"WOOLLEN, BARBARA LEE",REP,24.34%,185,Lieutenant Governor (Republican)
+NONE OF THESE CANDIDATES,,17.76%,135,Lieutenant Governor (Republican)
+"BOYD, RODERICK",DEM,14.95%,83,Secretary Of State (Democratic)
+"MILLER, ROSS",DEM,54.95%,305,Secretary Of State (Democratic)
+NONE OF THESE CANDIDATES,,30.09%,167,Secretary Of State (Democratic)
+"SCROGGINS, BRIAN",REP,46.27%,354,Secretary Of State (Republican)
+"TARKANIAN, DANNY",REP,43.92%,336,Secretary Of State (Republican)
+NONE OF THESE CANDIDATES,,9.80%,75,Secretary Of State (Republican)
+"MARSHALL, KATE",DEM,52.59%,294,State Treasurer (Democratic)
+"VANDERPAL, GEOFFREY",DEM,17.53%,98,State Treasurer (Democratic)
+NONE OF THESE CANDIDATES,,29.87%,167,State Treasurer (Democratic)
+"AUGUSTINE, KATHY",REP,30.87%,230,State Treasurer (Republican)
+"DESTEFANO, MARK",REP,26.17%,195,State Treasurer (Republican)
+"PITTS, JOSEPH",REP,17.45%,130,State Treasurer (Republican)
+NONE OF THESE CANDIDATES,,25.50%,190,State Treasurer (Republican)
+"COCHRAN, ANGIE G.",DEM,34.14%,184,"State Assembly, District 36 (Democratic)"
+"KULKIN, HARLEY Z.",DEM,15.77%,85,"State Assembly, District 36 (Democratic)"
+"MURRAY, LAURAYNE",DEM,50.09%,270,"State Assembly, District 36 (Democratic)"
+"BROWN, JOHN M.",REP,4.91%,37,"State Assembly, District 36 (Republican)"
+"GOEDHART, ED",REP,12.20%,92,"State Assembly, District 36 (Republican)"
+"HIGBEE, JR., ED",REP,82.89%,625,"State Assembly, District 36 (Republican)"
+"CALVERT, JOHN",NP,13.75%,192,"Supreme Court Justice, Seat F (Nonpartisan)"
+"DOUGLAS, MICHAEL L.",NP,22.71%,317,"Supreme Court Justice, Seat F (Nonpartisan)"
+"STEEL, CYNTHIA ""DIANNE""",NP,38.61%,539,"Supreme Court Justice, Seat F (Nonpartisan)"
+NONE OF THESE CANDIDATES,,24.93%,348,"Supreme Court Justice, Seat F (Nonpartisan)"
+"BECKER, NANCY",NP,31.34%,440,"Supreme Court Justice, Seat G (Nonpartisan)"
+"CHRISTENSEN, THOMAS F.",NP,18.73%,263,"Supreme Court Justice, Seat G (Nonpartisan)"
+"DEL VECCHIO, NICHOLAS ANTHONY",NP,11.82%,166,"Supreme Court Justice, Seat G (Nonpartisan)"
+"SAITTA, NANCY M.",NP,15.31%,215,"Supreme Court Justice, Seat G (Nonpartisan)"
+NONE OF THESE CANDIDATES,,22.79%,320,"Supreme Court Justice, Seat G (Nonpartisan)"
+"FERRY, CLIFF",NP,100.00%,"1,188","State Board of Education, District 10 (Nonpartisan)"
+"BRADSHAW, DARYL",NP,24.35%,357,"State Board of Education, District 10 (Nonpartisan)"
+"KOZAK, RONALD",NP,5.53%,81,"State Board of Education, District 10 (Nonpartisan)"
+"LEE, KERRY D.",NP,70.12%,"1,028","State Board of Education, District 10 (Nonpartisan)"
+"COWLEY, MIKE D.",NP,36.97%,393,Sheriff - LINCOLN - NP (Nonpartisan)
+"FISCHER, ANN ""ANNIE MAE""",NP,8.09%,86,Sheriff - LINCOLN - NP (Nonpartisan)
+"HIBBLE, RON",NP,24.84%,264,Sheriff - LINCOLN - NP (Nonpartisan)
+"LESICKA, LELAND R.",NP,30.10%,320,Sheriff - LINCOLN - NP (Nonpartisan)
+"BARR, JANICE",NP,100.00%,"1,264",Justice of the Peace MEADOW VALLEY (Nonpartisan)
+"CARTER, NIKKI",NP,100.00%,"1,271",SCHOOL BOARD School Dist Trustee Dist B-AL (Nonpartisan)
+"WHIPPLE, MURRY",NP,100.00%,"1,273",SCHOOL BOARD School Dist Trustee Dist C-AL (Nonpartisan)

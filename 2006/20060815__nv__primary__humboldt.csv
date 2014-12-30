@@ -1,0 +1,83 @@
+candidate,party,percent,votes,office
+"CARTER, JACK",DEM,60.66%,535,United States Senator (Democratic)
+"TUN, RUBY JEE",DEM,17.23%,152,United States Senator (Democratic)
+NONE OF THESE CANDIDATES,,22.11%,195,United States Senator (Democratic)
+"ENSIGN, JOHN",REP,88.93%,"1,751",United States Senator (Republican)
+"HAMILTON, EDWARD ""FAST EDDIE""",REP,5.13%,101,United States Senator (Republican)
+NONE OF THESE CANDIDATES,,5.94%,117,United States Senator (Republican)
+"ANGLE, SHARRON E.",REP,25.49%,493,"U.S. Representative in Congress, District 2 (Republican)"
+"GIBBONS, DAWN",REP,30.20%,584,"U.S. Representative in Congress, District 2 (Republican)"
+"GILSTER, RICHARD",REP,0.78%,15,"U.S. Representative in Congress, District 2 (Republican)"
+"HELLER, DEAN",REP,41.16%,796,"U.S. Representative in Congress, District 2 (Republican)"
+"THOMAS, GLENN",REP,2.38%,46,"U.S. Representative in Congress, District 2 (Republican)"
+"GIBSON, JAMES B.",DEM,42.02%,374,Governor (Democratic)
+"MCCONNELL, LEOLA",DEM,5.39%,48,Governor (Democratic)
+"TITUS, DINA",DEM,39.10%,348,Governor (Democratic)
+NONE OF THESE CANDIDATES,,13.48%,120,Governor (Democratic)
+"BEERS, BOB",REP,20.04%,394,Governor (Republican)
+"DAMAYO, MELODY ""MIMI MIYAGI""",REP,0.61%,12,Governor (Republican)
+"GIBBONS, JIM",REP,61.39%,"1,207",Governor (Republican)
+"HUNT, LORRAINE T.",REP,14.45%,284,Governor (Republican)
+"LUSAK, STANLEIGH HAROLD",REP,0.41%,8,Governor (Republican)
+NONE OF THESE CANDIDATES,,3.10%,61,Governor (Republican)
+"GOODMAN, ROBERT E. ""BOB""",DEM,15.23%,133,Lieutenant Governor (Democratic)
+"MONTGOMERY, BILL",DEM,11.34%,99,Lieutenant Governor (Democratic)
+"STUPAK, BOB",DEM,13.52%,118,Lieutenant Governor (Democratic)
+"UNGER, ROBERT ""BOB""",DEM,29.21%,255,Lieutenant Governor (Democratic)
+NONE OF THESE CANDIDATES,,30.70%,268,Lieutenant Governor (Democratic)
+"HAMMARGREN, LONNIE",REP,24.74%,482,Lieutenant Governor (Republican)
+"KAO, GEORGE",REP,4.26%,83,Lieutenant Governor (Republican)
+"KROLICKI, BRIAN",REP,38.19%,744,Lieutenant Governor (Republican)
+"MONCRIEF, JANET",REP,3.13%,61,Lieutenant Governor (Republican)
+"WOOLLEN, BARBARA LEE",REP,17.66%,344,Lieutenant Governor (Republican)
+NONE OF THESE CANDIDATES,,12.01%,234,Lieutenant Governor (Republican)
+"BOYD, RODERICK",DEM,17.21%,148,Secretary Of State (Democratic)
+"MILLER, ROSS",DEM,51.28%,441,Secretary Of State (Democratic)
+NONE OF THESE CANDIDATES,,31.51%,271,Secretary Of State (Democratic)
+"SCROGGINS, BRIAN",REP,35.12%,680,Secretary Of State (Republican)
+"TARKANIAN, DANNY",REP,47.42%,918,Secretary Of State (Republican)
+NONE OF THESE CANDIDATES,,17.46%,338,Secretary Of State (Republican)
+"MARSHALL, KATE",DEM,62.96%,549,State Treasurer (Democratic)
+"VANDERPAL, GEOFFREY",DEM,13.65%,119,State Treasurer (Democratic)
+NONE OF THESE CANDIDATES,,23.39%,204,State Treasurer (Democratic)
+"AUGUSTINE, KATHY",REP,24.19%,464,State Treasurer (Republican)
+"DESTEFANO, MARK",REP,39.94%,766,State Treasurer (Republican)
+"PITTS, JOSEPH",REP,13.50%,259,State Treasurer (Republican)
+NONE OF THESE CANDIDATES,,22.37%,429,State Treasurer (Republican)
+"MARVEL, JOHN",REP,76.18%,470,"State Assembly, District 32 (Republican)"
+"WEBER, MIKE",REP,23.82%,147,"State Assembly, District 32 (Republican)"
+"CALVERT, JOHN",NP,20.91%,660,"Supreme Court Justice, Seat F (Nonpartisan)"
+"DOUGLAS, MICHAEL L.",NP,28.35%,895,"Supreme Court Justice, Seat F (Nonpartisan)"
+"STEEL, CYNTHIA ""DIANNE""",NP,26.42%,834,"Supreme Court Justice, Seat F (Nonpartisan)"
+NONE OF THESE CANDIDATES,,24.33%,768,"Supreme Court Justice, Seat F (Nonpartisan)"
+"BECKER, NANCY",NP,31.03%,980,"Supreme Court Justice, Seat G (Nonpartisan)"
+"CHRISTENSEN, THOMAS F.",NP,13.46%,425,"Supreme Court Justice, Seat G (Nonpartisan)"
+"DEL VECCHIO, NICHOLAS ANTHONY",NP,14.95%,472,"Supreme Court Justice, Seat G (Nonpartisan)"
+"SAITTA, NANCY M.",NP,15.58%,492,"Supreme Court Justice, Seat G (Nonpartisan)"
+NONE OF THESE CANDIDATES,,24.98%,789,"Supreme Court Justice, Seat G (Nonpartisan)"
+"FERRY, CLIFF",NP,100.00%,"2,627","State Board of Education, District 10 (Nonpartisan)"
+"CASSINELLI, DAN",REP,62.34%,"1,215","State Board of Education, District 10 (Nonpartisan)"
+"HAMMOND, HOWARD",REP,14.26%,278,"State Board of Education, District 10 (Nonpartisan)"
+"LEVIS, LARRY KEITH",REP,2.26%,44,"State Board of Education, District 10 (Nonpartisan)"
+"LOUPAS, MICHAEL",REP,5.75%,112,"State Board of Education, District 10 (Nonpartisan)"
+"PATTERSON, STEVEN R.",REP,15.39%,300,"State Board of Education, District 10 (Nonpartisan)"
+"BAILEY, EILEEN",REP,12.98%,252,County Comm. Seat C (Republican)
+"GIORDANO, CHARLES ""CHUCK""",REP,61.21%,"1,188",County Comm. Seat C (Republican)
+"STOKER, DON",REP,25.81%,501,County Comm. Seat C (Republican)
+"BUNDY, BELLE",REP,36.30%,710,County Comm. Seat E (Republican)
+"NORTON, MARY SUE",REP,11.04%,216,County Comm. Seat E (Republican)
+"RACKLEY, GINA",REP,52.66%,"1,030",County Comm. Seat E (Republican)
+"ORR, MARY J.",NP,100.00%,"2,778",Treasurer (Republican)
+"STEWART, KRIS",NP,100.00%,"2,705","Humboldt County Hospital Dist Trustee, Seat E (Nonpartisan)"
+"SEELIGER, JOHN",NP,100.00%,"2,742",School Board Trustee Seat B (Nonpartisan)
+"JONAS, BRIAN",NP,20.78%,677,School Board Trustee Seat G (Nonpartisan)
+"KILGORE, EDWIN R.",NP,46.84%,"1,526",School Board Trustee Seat G (Nonpartisan)
+"RAABE, STEVEN E.",NP,32.38%,"1,055",School Board Trustee Seat G (Nonpartisan)
+"HOPKINS, BARBARA",NP,4.20%,135,Sheriff - HUMBOLDT - NP (Nonpartisan)
+"JOHNSON, GARY",NP,11.10%,357,Sheriff - HUMBOLDT - NP (Nonpartisan)
+"KING, TOM",NP,4.94%,159,Sheriff - HUMBOLDT - NP (Nonpartisan)
+"LINDSEY, JESSIE L.",NP,4.01%,129,Sheriff - HUMBOLDT - NP (Nonpartisan)
+"REED, KATHY",NP,4.35%,140,Sheriff - HUMBOLDT - NP (Nonpartisan)
+"VICTORY, PAMELA L.",NP,1.93%,62,Sheriff - HUMBOLDT - NP (Nonpartisan)
+"WAMBOLT, GENE",NP,67.73%,"2,179",Sheriff - HUMBOLDT - NP (Nonpartisan)
+"WHITMAN, TY",NP,1.74%,56,Sheriff - HUMBOLDT - NP (Nonpartisan)
