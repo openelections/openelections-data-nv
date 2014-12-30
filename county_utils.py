@@ -7,8 +7,6 @@ The functions here scrape county-level results from the
 Nevada Secretary of State's website and output CSV files with
 county-level candidate totals.
 """
-# 2012 general county-level results
-# http://www.nvsos.gov/silverstate2012gen/_xml/USandNV.xml
 
 def parse_2000_primary():
     base_url = "http://nvsos.gov/SOSelectionPages/results/2000Primary/"
