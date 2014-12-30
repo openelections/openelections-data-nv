@@ -22,8 +22,10 @@ def parse_2008_primary():
         candidates = []
         for i in range(1, max_label):
             race_title = '_ctl'+str(i)+'_lblRaceTitle'
-            print race_title
-            office = soup.find('span', {'id': race_title}).text
+            try:
+                office = soup.find('span', {'id': race_title}).text
+            except:
+                next
             results = soup.findAll('table')[11+i]
             for candidate in results.findAll('tr')[1:]:
                 cand = [td.text.replace('&nbsp;','') for td in candidate.findAll('td')]
