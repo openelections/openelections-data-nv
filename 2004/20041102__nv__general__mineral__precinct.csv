@@ -1,0 +1,535 @@
+precinct,office,candidate,votes
+Precinct 1,County Commissioner Seat A,"FOWLERO, EDWARD",213
+Precinct 1,County Commissioner Seat A,"WALLIS, JACKIE L.",293
+Precinct 1,County Commissioner Seat B,"BRYANT, RICHARD D.",265
+Precinct 1,County Commissioner Seat B,"WOFFORD, R. KE",236
+Precinct 1,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",267
+Precinct 1,MINERAL COUNTY School Trustee,"HAAK, BONNIE",293
+Precinct 1,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",212
+Precinct 1,MINERAL COUNTY School Trustee,"ISOM, RICK",208
+Precinct 1,MINERAL COUNTY School Trustee,"NIXON, MARK",207
+Precinct 1,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",259
+Precinct 1,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Precinct 1,President and Vice President of the United States,"BUSH, GEORGE W.",334
+Precinct 1,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 1,President and Vice President of the United States,"KERRY, JOHN F.",168
+Precinct 1,President and Vice President of the United States,"NADER, RALPH",6
+Precinct 1,President and Vice President of the United States,None Of These Candidates,3
+Precinct 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 1,"State Assembly, District 36","HOLMGREN, JACKIE A.",154
+Precinct 1,"State Assembly, District 36","SHERERH, RODERICK ""R",325
+Precinct 1,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",27
+Precinct 1,"State Senate, Central Senatorial District","McGINNESS, MIKE",373
+Precinct 1,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",102
+Precinct 1,"Supreme Court Justice, Seat A","HARDESTY, JIM",273
+Precinct 1,"Supreme Court Justice, Seat A",None Of These Candidates,78
+Precinct 1,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",142
+Precinct 1,"Supreme Court Justice, Seat E","MASON, JOHN E.",127
+Precinct 1,"Supreme Court Justice, Seat E",None Of These Candidates,81
+Precinct 1,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",283
+Precinct 1,"Supreme Court Justice, Seat F","Douglas, Michael L.",199
+Precinct 1,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",156
+Precinct 1,"Supreme Court Justice, Seat F",None Of These Candidates,133
+Precinct 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",107
+Precinct 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",370
+Precinct 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",21
+Precinct 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
+Precinct 1,United States Senator,"HURST, THOMAS L.",4
+Precinct 1,United States Senator,"MARINCH, GARY",1
+Precinct 1,United States Senator,None Of These Candidates,8
+Precinct 1,United States Senator,"REID, HARRY",347
+Precinct 1,United States Senator,"SCHUMANN, DAVID K.",12
+Precinct 1,United States Senator,"ZISER, RICHARD",128
+Precinct 1,"University Board of Regents, District  8","AIAZZI, STAN",191
+Precinct 1,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",258
+Precinct 10,County Commissioner Seat A,"FOWLERO, EDWARD",
+Precinct 10,County Commissioner Seat A,"WALLIS, JACKIE L.",
+Precinct 10,County Commissioner Seat B,"BRYANT, RICHARD D.",
+Precinct 10,County Commissioner Seat B,"WOFFORD, R. KE",
+Precinct 10,President and Vice President of the United States,"BADNARIK, MICHAEL",
+Precinct 10,President and Vice President of the United States,"BUSH, GEORGE W.",
+Precinct 10,President and Vice President of the United States,"COBB, DAVID",
+Precinct 10,President and Vice President of the United States,"KERRY, JOHN F.",
+Precinct 10,President and Vice President of the United States,"NADER, RALPH",
+Precinct 10,President and Vice President of the United States,None Of These Candidates,
+Precinct 10,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+Precinct 10,"State Assembly, District 36","HOLMGREN, JACKIE A.",
+Precinct 10,"State Assembly, District 36","SHERERH, RODERICK ""R",
+Precinct 10,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",
+Precinct 10,"State Senate, Central Senatorial District","McGINNESS, MIKE",
+Precinct 10,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",
+Precinct 10,"Supreme Court Justice, Seat A","HARDESTY, JIM",
+Precinct 10,"Supreme Court Justice, Seat A",None Of These Candidates,
+Precinct 10,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",
+Precinct 10,"Supreme Court Justice, Seat E","MASON, JOHN E.",
+Precinct 10,"Supreme Court Justice, Seat E",None Of These Candidates,
+Precinct 10,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",
+Precinct 10,"Supreme Court Justice, Seat F","Douglas, Michael L.",
+Precinct 10,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",
+Precinct 10,"Supreme Court Justice, Seat F",None Of These Candidates,
+Precinct 10,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
+Precinct 10,"U.S. Representative in Congress, District 2","GIBBONS, JIM",
+Precinct 10,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
+Precinct 10,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",
+Precinct 10,United States Senator,"HURST, THOMAS L.",
+Precinct 10,United States Senator,"MARINCH, GARY",
+Precinct 10,United States Senator,None Of These Candidates,
+Precinct 10,United States Senator,"REID, HARRY",
+Precinct 10,United States Senator,"SCHUMANN, DAVID K.",
+Precinct 10,United States Senator,"ZISER, RICHARD",
+Precinct 10,"University Board of Regents, District  8","AIAZZI, STAN",
+Precinct 10,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",
+Precinct 11,County Commissioner Seat A,"FOWLERO, EDWARD",201
+Precinct 11,County Commissioner Seat A,"WALLIS, JACKIE L.",58
+Precinct 11,County Commissioner Seat B,"BRYANT, RICHARD D.",192
+Precinct 11,County Commissioner Seat B,"WOFFORD, R. KE",66
+Precinct 11,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",77
+Precinct 11,MINERAL COUNTY School Trustee,"HAAK, BONNIE",100
+Precinct 11,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",98
+Precinct 11,MINERAL COUNTY School Trustee,"ISOM, RICK",143
+Precinct 11,MINERAL COUNTY School Trustee,"NIXON, MARK",125
+Precinct 11,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",127
+Precinct 11,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 11,President and Vice President of the United States,"BUSH, GEORGE W.",53
+Precinct 11,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 11,President and Vice President of the United States,"KERRY, JOHN F.",211
+Precinct 11,President and Vice President of the United States,"NADER, RALPH",3
+Precinct 11,President and Vice President of the United States,None Of These Candidates,0
+Precinct 11,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 11,"State Assembly, District 36","HOLMGREN, JACKIE A.",165
+Precinct 11,"State Assembly, District 36","SHERERH, RODERICK ""R",71
+Precinct 11,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",12
+Precinct 11,"State Senate, Central Senatorial District","McGINNESS, MIKE",158
+Precinct 11,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",91
+Precinct 11,"Supreme Court Justice, Seat A","HARDESTY, JIM",144
+Precinct 11,"Supreme Court Justice, Seat A",None Of These Candidates,41
+Precinct 11,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",71
+Precinct 11,"Supreme Court Justice, Seat E","MASON, JOHN E.",55
+Precinct 11,"Supreme Court Justice, Seat E",None Of These Candidates,53
+Precinct 11,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",149
+Precinct 11,"Supreme Court Justice, Seat F","Douglas, Michael L.",116
+Precinct 11,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",70
+Precinct 11,"Supreme Court Justice, Seat F",None Of These Candidates,66
+Precinct 11,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",129
+Precinct 11,"U.S. Representative in Congress, District 2","GIBBONS, JIM",108
+Precinct 11,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
+Precinct 11,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
+Precinct 11,United States Senator,"HURST, THOMAS L.",2
+Precinct 11,United States Senator,"MARINCH, GARY",3
+Precinct 11,United States Senator,None Of These Candidates,3
+Precinct 11,United States Senator,"REID, HARRY",222
+Precinct 11,United States Senator,"SCHUMANN, DAVID K.",7
+Precinct 11,United States Senator,"ZISER, RICHARD",25
+Precinct 11,"University Board of Regents, District  8","AIAZZI, STAN",151
+Precinct 11,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",91
+Precinct 12,County Commissioner Seat A,"FOWLERO, EDWARD",92
+Precinct 12,County Commissioner Seat A,"WALLIS, JACKIE L.",87
+Precinct 12,County Commissioner Seat B,"BRYANT, RICHARD D.",97
+Precinct 12,County Commissioner Seat B,"WOFFORD, R. KE",84
+Precinct 12,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",67
+Precinct 12,MINERAL COUNTY School Trustee,"HAAK, BONNIE",122
+Precinct 12,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",72
+Precinct 12,MINERAL COUNTY School Trustee,"ISOM, RICK",59
+Precinct 12,MINERAL COUNTY School Trustee,"NIXON, MARK",111
+Precinct 12,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",66
+Precinct 12,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 12,President and Vice President of the United States,"BUSH, GEORGE W.",116
+Precinct 12,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 12,President and Vice President of the United States,"KERRY, JOHN F.",67
+Precinct 12,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 12,President and Vice President of the United States,None Of These Candidates,1
+Precinct 12,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 12,"State Assembly, District 36","HOLMGREN, JACKIE A.",71
+Precinct 12,"State Assembly, District 36","SHERERH, RODERICK ""R",103
+Precinct 12,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",7
+Precinct 12,"State Senate, Central Senatorial District","McGINNESS, MIKE",125
+Precinct 12,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",46
+Precinct 12,"Supreme Court Justice, Seat A","HARDESTY, JIM",94
+Precinct 12,"Supreme Court Justice, Seat A",None Of These Candidates,30
+Precinct 12,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",56
+Precinct 12,"Supreme Court Justice, Seat E","MASON, JOHN E.",62
+Precinct 12,"Supreme Court Justice, Seat E",None Of These Candidates,30
+Precinct 12,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",88
+Precinct 12,"Supreme Court Justice, Seat F","Douglas, Michael L.",75
+Precinct 12,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",58
+Precinct 12,"Supreme Court Justice, Seat F",None Of These Candidates,47
+Precinct 12,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",45
+Precinct 12,"U.S. Representative in Congress, District 2","GIBBONS, JIM",128
+Precinct 12,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
+Precinct 12,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
+Precinct 12,United States Senator,"HURST, THOMAS L.",1
+Precinct 12,United States Senator,"MARINCH, GARY",1
+Precinct 12,United States Senator,None Of These Candidates,3
+Precinct 12,United States Senator,"REID, HARRY",103
+Precinct 12,United States Senator,"SCHUMANN, DAVID K.",4
+Precinct 12,United States Senator,"ZISER, RICHARD",71
+Precinct 12,"University Board of Regents, District  8","AIAZZI, STAN",53
+Precinct 12,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",111
+Precinct 2,County Commissioner Seat A,"FOWLERO, EDWARD",148
+Precinct 2,County Commissioner Seat A,"WALLIS, JACKIE L.",176
+Precinct 2,County Commissioner Seat B,"BRYANT, RICHARD D.",167
+Precinct 2,County Commissioner Seat B,"WOFFORD, R. KE",163
+Precinct 2,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",173
+Precinct 2,MINERAL COUNTY School Trustee,"HAAK, BONNIE",226
+Precinct 2,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",135
+Precinct 2,MINERAL COUNTY School Trustee,"ISOM, RICK",101
+Precinct 2,MINERAL COUNTY School Trustee,"NIXON, MARK",114
+Precinct 2,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",179
+Precinct 2,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 2,President and Vice President of the United States,"BUSH, GEORGE W.",214
+Precinct 2,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 2,President and Vice President of the United States,"KERRY, JOHN F.",114
+Precinct 2,President and Vice President of the United States,"NADER, RALPH",3
+Precinct 2,President and Vice President of the United States,None Of These Candidates,4
+Precinct 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 2,"State Assembly, District 36","HOLMGREN, JACKIE A.",88
+Precinct 2,"State Assembly, District 36","SHERERH, RODERICK ""R",228
+Precinct 2,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",8
+Precinct 2,"State Senate, Central Senatorial District","McGINNESS, MIKE",254
+Precinct 2,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",64
+Precinct 2,"Supreme Court Justice, Seat A","HARDESTY, JIM",185
+Precinct 2,"Supreme Court Justice, Seat A",None Of These Candidates,44
+Precinct 2,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",95
+Precinct 2,"Supreme Court Justice, Seat E","MASON, JOHN E.",73
+Precinct 2,"Supreme Court Justice, Seat E",None Of These Candidates,53
+Precinct 2,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",198
+Precinct 2,"Supreme Court Justice, Seat F","Douglas, Michael L.",140
+Precinct 2,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",100
+Precinct 2,"Supreme Court Justice, Seat F",None Of These Candidates,76
+Precinct 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",73
+Precinct 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",240
+Precinct 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
+Precinct 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Precinct 2,United States Senator,"HURST, THOMAS L.",3
+Precinct 2,United States Senator,"MARINCH, GARY",1
+Precinct 2,United States Senator,None Of These Candidates,4
+Precinct 2,United States Senator,"REID, HARRY",231
+Precinct 2,United States Senator,"SCHUMANN, DAVID K.",8
+Precinct 2,United States Senator,"ZISER, RICHARD",82
+Precinct 2,"University Board of Regents, District  8","AIAZZI, STAN",131
+Precinct 2,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",168
+Precinct 3,County Commissioner Seat A,"FOWLERO, EDWARD",88
+Precinct 3,County Commissioner Seat A,"WALLIS, JACKIE L.",117
+Precinct 3,County Commissioner Seat B,"BRYANT, RICHARD D.",114
+Precinct 3,County Commissioner Seat B,"WOFFORD, R. KE",90
+Precinct 3,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",108
+Precinct 3,MINERAL COUNTY School Trustee,"HAAK, BONNIE",127
+Precinct 3,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",94
+Precinct 3,MINERAL COUNTY School Trustee,"ISOM, RICK",75
+Precinct 3,MINERAL COUNTY School Trustee,"NIXON, MARK",74
+Precinct 3,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",93
+Precinct 3,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Precinct 3,President and Vice President of the United States,"BUSH, GEORGE W.",125
+Precinct 3,President and Vice President of the United States,"COBB, DAVID",1
+Precinct 3,President and Vice President of the United States,"KERRY, JOHN F.",80
+Precinct 3,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 3,President and Vice President of the United States,None Of These Candidates,2
+Precinct 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 3,"State Assembly, District 36","HOLMGREN, JACKIE A.",66
+Precinct 3,"State Assembly, District 36","SHERERH, RODERICK ""R",128
+Precinct 3,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",10
+Precinct 3,"State Senate, Central Senatorial District","McGINNESS, MIKE",157
+Precinct 3,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",38
+Precinct 3,"Supreme Court Justice, Seat A","HARDESTY, JIM",106
+Precinct 3,"Supreme Court Justice, Seat A",None Of These Candidates,28
+Precinct 3,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",65
+Precinct 3,"Supreme Court Justice, Seat E","MASON, JOHN E.",52
+Precinct 3,"Supreme Court Justice, Seat E",None Of These Candidates,31
+Precinct 3,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",118
+Precinct 3,"Supreme Court Justice, Seat F","Douglas, Michael L.",85
+Precinct 3,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",66
+Precinct 3,"Supreme Court Justice, Seat F",None Of These Candidates,40
+Precinct 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",39
+Precinct 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",154
+Precinct 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
+Precinct 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
+Precinct 3,United States Senator,"HURST, THOMAS L.",2
+Precinct 3,United States Senator,"MARINCH, GARY",2
+Precinct 3,United States Senator,None Of These Candidates,3
+Precinct 3,United States Senator,"REID, HARRY",143
+Precinct 3,United States Senator,"SCHUMANN, DAVID K.",1
+Precinct 3,United States Senator,"ZISER, RICHARD",53
+Precinct 3,"University Board of Regents, District  8","AIAZZI, STAN",80
+Precinct 3,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",104
+Precinct 4,County Commissioner Seat A,"FOWLERO, EDWARD",83
+Precinct 4,County Commissioner Seat A,"WALLIS, JACKIE L.",99
+Precinct 4,County Commissioner Seat B,"BRYANT, RICHARD D.",102
+Precinct 4,County Commissioner Seat B,"WOFFORD, R. KE",84
+Precinct 4,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",98
+Precinct 4,MINERAL COUNTY School Trustee,"HAAK, BONNIE",122
+Precinct 4,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",73
+Precinct 4,MINERAL COUNTY School Trustee,"ISOM, RICK",63
+Precinct 4,MINERAL COUNTY School Trustee,"NIXON, MARK",61
+Precinct 4,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",96
+Precinct 4,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Precinct 4,President and Vice President of the United States,"BUSH, GEORGE W.",103
+Precinct 4,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 4,President and Vice President of the United States,"KERRY, JOHN F.",78
+Precinct 4,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 4,President and Vice President of the United States,None Of These Candidates,4
+Precinct 4,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 4,"State Assembly, District 36","HOLMGREN, JACKIE A.",59
+Precinct 4,"State Assembly, District 36","SHERERH, RODERICK ""R",108
+Precinct 4,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",14
+Precinct 4,"State Senate, Central Senatorial District","McGINNESS, MIKE",118
+Precinct 4,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",50
+Precinct 4,"Supreme Court Justice, Seat A","HARDESTY, JIM",103
+Precinct 4,"Supreme Court Justice, Seat A",None Of These Candidates,23
+Precinct 4,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",49
+Precinct 4,"Supreme Court Justice, Seat E","MASON, JOHN E.",34
+Precinct 4,"Supreme Court Justice, Seat E",None Of These Candidates,30
+Precinct 4,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",111
+Precinct 4,"Supreme Court Justice, Seat F","Douglas, Michael L.",67
+Precinct 4,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",55
+Precinct 4,"Supreme Court Justice, Seat F",None Of These Candidates,51
+Precinct 4,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",52
+Precinct 4,"U.S. Representative in Congress, District 2","GIBBONS, JIM",125
+Precinct 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
+Precinct 4,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Precinct 4,United States Senator,"HURST, THOMAS L.",3
+Precinct 4,United States Senator,"MARINCH, GARY",0
+Precinct 4,United States Senator,None Of These Candidates,4
+Precinct 4,United States Senator,"REID, HARRY",133
+Precinct 4,United States Senator,"SCHUMANN, DAVID K.",4
+Precinct 4,United States Senator,"ZISER, RICHARD",40
+Precinct 4,"University Board of Regents, District  8","AIAZZI, STAN",57
+Precinct 4,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",99
+Precinct 5,County Commissioner Seat A,"FOWLERO, EDWARD",119
+Precinct 5,County Commissioner Seat A,"WALLIS, JACKIE L.",133
+Precinct 5,County Commissioner Seat B,"BRYANT, RICHARD D.",143
+Precinct 5,County Commissioner Seat B,"WOFFORD, R. KE",109
+Precinct 5,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",121
+Precinct 5,MINERAL COUNTY School Trustee,"HAAK, BONNIE",170
+Precinct 5,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",105
+Precinct 5,MINERAL COUNTY School Trustee,"ISOM, RICK",77
+Precinct 5,MINERAL COUNTY School Trustee,"NIXON, MARK",97
+Precinct 5,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",125
+Precinct 5,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 5,President and Vice President of the United States,"BUSH, GEORGE W.",149
+Precinct 5,President and Vice President of the United States,"COBB, DAVID",2
+Precinct 5,President and Vice President of the United States,"KERRY, JOHN F.",101
+Precinct 5,President and Vice President of the United States,"NADER, RALPH",3
+Precinct 5,President and Vice President of the United States,None Of These Candidates,5
+Precinct 5,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 5,"State Assembly, District 36","HOLMGREN, JACKIE A.",76
+Precinct 5,"State Assembly, District 36","SHERERH, RODERICK ""R",166
+Precinct 5,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",13
+Precinct 5,"State Senate, Central Senatorial District","McGINNESS, MIKE",188
+Precinct 5,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",55
+Precinct 5,"Supreme Court Justice, Seat A","HARDESTY, JIM",133
+Precinct 5,"Supreme Court Justice, Seat A",None Of These Candidates,45
+Precinct 5,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",74
+Precinct 5,"Supreme Court Justice, Seat E","MASON, JOHN E.",61
+Precinct 5,"Supreme Court Justice, Seat E",None Of These Candidates,46
+Precinct 5,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",145
+Precinct 5,"Supreme Court Justice, Seat F","Douglas, Michael L.",100
+Precinct 5,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",84
+Precinct 5,"Supreme Court Justice, Seat F",None Of These Candidates,63
+Precinct 5,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",60
+Precinct 5,"U.S. Representative in Congress, District 2","GIBBONS, JIM",185
+Precinct 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",12
+Precinct 5,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Precinct 5,United States Senator,"HURST, THOMAS L.",1
+Precinct 5,United States Senator,"MARINCH, GARY",3
+Precinct 5,United States Senator,None Of These Candidates,6
+Precinct 5,United States Senator,"REID, HARRY",174
+Precinct 5,United States Senator,"SCHUMANN, DAVID K.",7
+Precinct 5,United States Senator,"ZISER, RICHARD",66
+Precinct 5,"University Board of Regents, District  8","AIAZZI, STAN",103
+Precinct 5,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",135
+Precinct 6,County Commissioner Seat A,"FOWLERO, EDWARD",55
+Precinct 6,County Commissioner Seat A,"WALLIS, JACKIE L.",65
+Precinct 6,County Commissioner Seat B,"BRYANT, RICHARD D.",61
+Precinct 6,County Commissioner Seat B,"WOFFORD, R. KE",62
+Precinct 6,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",61
+Precinct 6,MINERAL COUNTY School Trustee,"HAAK, BONNIE",80
+Precinct 6,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",46
+Precinct 6,MINERAL COUNTY School Trustee,"ISOM, RICK",41
+Precinct 6,MINERAL COUNTY School Trustee,"NIXON, MARK",42
+Precinct 6,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",54
+Precinct 6,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 6,President and Vice President of the United States,"BUSH, GEORGE W.",68
+Precinct 6,President and Vice President of the United States,"COBB, DAVID",1
+Precinct 6,President and Vice President of the United States,"KERRY, JOHN F.",51
+Precinct 6,President and Vice President of the United States,"NADER, RALPH",3
+Precinct 6,President and Vice President of the United States,None Of These Candidates,4
+Precinct 6,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 6,"State Assembly, District 36","HOLMGREN, JACKIE A.",42
+Precinct 6,"State Assembly, District 36","SHERERH, RODERICK ""R",64
+Precinct 6,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",3
+Precinct 6,"State Senate, Central Senatorial District","McGINNESS, MIKE",91
+Precinct 6,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",25
+Precinct 6,"Supreme Court Justice, Seat A","HARDESTY, JIM",68
+Precinct 6,"Supreme Court Justice, Seat A",None Of These Candidates,18
+Precinct 6,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",32
+Precinct 6,"Supreme Court Justice, Seat E","MASON, JOHN E.",25
+Precinct 6,"Supreme Court Justice, Seat E",None Of These Candidates,18
+Precinct 6,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",75
+Precinct 6,"Supreme Court Justice, Seat F","Douglas, Michael L.",55
+Precinct 6,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",23
+Precinct 6,"Supreme Court Justice, Seat F",None Of These Candidates,38
+Precinct 6,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",33
+Precinct 6,"U.S. Representative in Congress, District 2","GIBBONS, JIM",84
+Precinct 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",2
+Precinct 6,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Precinct 6,United States Senator,"HURST, THOMAS L.",0
+Precinct 6,United States Senator,"MARINCH, GARY",0
+Precinct 6,United States Senator,None Of These Candidates,4
+Precinct 6,United States Senator,"REID, HARRY",86
+Precinct 6,United States Senator,"SCHUMANN, DAVID K.",1
+Precinct 6,United States Senator,"ZISER, RICHARD",30
+Precinct 6,"University Board of Regents, District  8","AIAZZI, STAN",43
+Precinct 6,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",64
+Precinct 7,County Commissioner Seat A,"FOWLERO, EDWARD",25
+Precinct 7,County Commissioner Seat A,"WALLIS, JACKIE L.",67
+Precinct 7,County Commissioner Seat B,"BRYANT, RICHARD D.",28
+Precinct 7,County Commissioner Seat B,"WOFFORD, R. KE",64
+Precinct 7,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",37
+Precinct 7,MINERAL COUNTY School Trustee,"HAAK, BONNIE",63
+Precinct 7,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",45
+Precinct 7,MINERAL COUNTY School Trustee,"ISOM, RICK",26
+Precinct 7,MINERAL COUNTY School Trustee,"NIXON, MARK",26
+Precinct 7,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",46
+Precinct 7,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Precinct 7,President and Vice President of the United States,"BUSH, GEORGE W.",72
+Precinct 7,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 7,President and Vice President of the United States,"KERRY, JOHN F.",20
+Precinct 7,President and Vice President of the United States,"NADER, RALPH",3
+Precinct 7,President and Vice President of the United States,None Of These Candidates,0
+Precinct 7,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 7,"State Assembly, District 36","HOLMGREN, JACKIE A.",24
+Precinct 7,"State Assembly, District 36","SHERERH, RODERICK ""R",63
+Precinct 7,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",6
+Precinct 7,"State Senate, Central Senatorial District","McGINNESS, MIKE",76
+Precinct 7,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",9
+Precinct 7,"Supreme Court Justice, Seat A","HARDESTY, JIM",44
+Precinct 7,"Supreme Court Justice, Seat A",None Of These Candidates,14
+Precinct 7,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",31
+Precinct 7,"Supreme Court Justice, Seat E","MASON, JOHN E.",24
+Precinct 7,"Supreme Court Justice, Seat E",None Of These Candidates,17
+Precinct 7,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",50
+Precinct 7,"Supreme Court Justice, Seat F","Douglas, Michael L.",33
+Precinct 7,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",32
+Precinct 7,"Supreme Court Justice, Seat F",None Of These Candidates,22
+Precinct 7,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",10
+Precinct 7,"U.S. Representative in Congress, District 2","GIBBONS, JIM",78
+Precinct 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",3
+Precinct 7,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
+Precinct 7,United States Senator,"HURST, THOMAS L.",1
+Precinct 7,United States Senator,"MARINCH, GARY",0
+Precinct 7,United States Senator,None Of These Candidates,0
+Precinct 7,United States Senator,"REID, HARRY",51
+Precinct 7,United States Senator,"SCHUMANN, DAVID K.",2
+Precinct 7,United States Senator,"ZISER, RICHARD",38
+Precinct 7,"University Board of Regents, District  8","AIAZZI, STAN",39
+Precinct 7,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",46
+Precinct 8,County Commissioner Seat A,"FOWLERO, EDWARD",16
+Precinct 8,County Commissioner Seat A,"WALLIS, JACKIE L.",11
+Precinct 8,County Commissioner Seat B,"BRYANT, RICHARD D.",11
+Precinct 8,County Commissioner Seat B,"WOFFORD, R. KE",16
+Precinct 8,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",1
+Precinct 8,MINERAL COUNTY School Trustee,"HAAK, BONNIE",8
+Precinct 8,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",13
+Precinct 8,MINERAL COUNTY School Trustee,"ISOM, RICK",19
+Precinct 8,MINERAL COUNTY School Trustee,"NIXON, MARK",19
+Precinct 8,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",15
+Precinct 8,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 8,President and Vice President of the United States,"BUSH, GEORGE W.",19
+Precinct 8,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 8,President and Vice President of the United States,"KERRY, JOHN F.",8
+Precinct 8,President and Vice President of the United States,"NADER, RALPH",0
+Precinct 8,President and Vice President of the United States,None Of These Candidates,0
+Precinct 8,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 8,"State Assembly, District 36","HOLMGREN, JACKIE A.",13
+Precinct 8,"State Assembly, District 36","SHERERH, RODERICK ""R",13
+Precinct 8,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",2
+Precinct 8,"State Senate, Central Senatorial District","McGINNESS, MIKE",19
+Precinct 8,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",5
+Precinct 8,"Supreme Court Justice, Seat A","HARDESTY, JIM",15
+Precinct 8,"Supreme Court Justice, Seat A",None Of These Candidates,2
+Precinct 8,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",10
+Precinct 8,"Supreme Court Justice, Seat E","MASON, JOHN E.",8
+Precinct 8,"Supreme Court Justice, Seat E",None Of These Candidates,3
+Precinct 8,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",16
+Precinct 8,"Supreme Court Justice, Seat F","Douglas, Michael L.",11
+Precinct 8,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",11
+Precinct 8,"Supreme Court Justice, Seat F",None Of These Candidates,5
+Precinct 8,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",5
+Precinct 8,"U.S. Representative in Congress, District 2","GIBBONS, JIM",18
+Precinct 8,"U.S. Representative in Congress, District 2","HANSEN, JANINE",2
+Precinct 8,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
+Precinct 8,United States Senator,"HURST, THOMAS L.",2
+Precinct 8,United States Senator,"MARINCH, GARY",0
+Precinct 8,United States Senator,None Of These Candidates,0
+Precinct 8,United States Senator,"REID, HARRY",20
+Precinct 8,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 8,United States Senator,"ZISER, RICHARD",4
+Precinct 8,"University Board of Regents, District  8","AIAZZI, STAN",10
+Precinct 8,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",17
+Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",0
+Precinct 88,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",0
+Precinct 88,President and Vice President of the United States,"NADER, RALPH",0
+Precinct 88,President and Vice President of the United States,None Of These Candidates,0
+Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 9,County Commissioner Seat A,"FOWLERO, EDWARD",94
+Precinct 9,County Commissioner Seat A,"WALLIS, JACKIE L.",18
+Precinct 9,County Commissioner Seat B,"BRYANT, RICHARD D.",62
+Precinct 9,County Commissioner Seat B,"WOFFORD, R. KE",49
+Precinct 9,MINERAL COUNTY School Trustee,"CHASE, KENNETH W.",38
+Precinct 9,MINERAL COUNTY School Trustee,"HAAK, BONNIE",56
+Precinct 9,MINERAL COUNTY School Trustee,"HAMREY, TAMMY",37
+Precinct 9,MINERAL COUNTY School Trustee,"ISOM, RICK",46
+Precinct 9,MINERAL COUNTY School Trustee,"NIXON, MARK",50
+Precinct 9,MINERAL COUNTY School Trustee,"SCHUMANN, RICK",54
+Precinct 9,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Precinct 9,President and Vice President of the United States,"BUSH, GEORGE W.",77
+Precinct 9,President and Vice President of the United States,"COBB, DAVID",1
+Precinct 9,President and Vice President of the United States,"KERRY, JOHN F.",33
+Precinct 9,President and Vice President of the United States,"NADER, RALPH",2
+Precinct 9,President and Vice President of the United States,None Of These Candidates,0
+Precinct 9,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 9,"State Assembly, District 36","HOLMGREN, JACKIE A.",27
+Precinct 9,"State Assembly, District 36","SHERERH, RODERICK ""R",83
+Precinct 9,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",4
+Precinct 9,"State Senate, Central Senatorial District","McGINNESS, MIKE",80
+Precinct 9,"State Senate, Central Senatorial District","WARMAN, FREDDIE L.",28
+Precinct 9,"Supreme Court Justice, Seat A","HARDESTY, JIM",67
+Precinct 9,"Supreme Court Justice, Seat A",None Of These Candidates,10
+Precinct 9,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",34
+Precinct 9,"Supreme Court Justice, Seat E","MASON, JOHN E.",40
+Precinct 9,"Supreme Court Justice, Seat E",None Of These Candidates,12
+Precinct 9,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",59
+Precinct 9,"Supreme Court Justice, Seat F","Douglas, Michael L.",45
+Precinct 9,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",41
+Precinct 9,"Supreme Court Justice, Seat F",None Of These Candidates,22
+Precinct 9,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",21
+Precinct 9,"U.S. Representative in Congress, District 2","GIBBONS, JIM",84
+Precinct 9,"U.S. Representative in Congress, District 2","HANSEN, JANINE",6
+Precinct 9,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Precinct 9,United States Senator,"HURST, THOMAS L.",1
+Precinct 9,United States Senator,"MARINCH, GARY",2
+Precinct 9,United States Senator,None Of These Candidates,2
+Precinct 9,United States Senator,"REID, HARRY",55
+Precinct 9,United States Senator,"SCHUMANN, DAVID K.",5
+Precinct 9,United States Senator,"ZISER, RICHARD",48
+Precinct 9,"University Board of Regents, District  8","AIAZZI, STAN",55
+Precinct 9,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",45
+Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",0
+Precinct 99,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",0
+Precinct 99,President and Vice President of the United States,"NADER, RALPH",0
+Precinct 99,President and Vice President of the United States,None Of These Candidates,0
+Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",0
+Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",0
+Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
+Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
+Precinct 99,United States Senator,"HURST, THOMAS L.",0
+Precinct 99,United States Senator,"MARINCH, GARY",0
+Precinct 99,United States Senator,None Of These Candidates,0
+Precinct 99,United States Senator,"REID, HARRY",0
+Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 99,United States Senator,"ZISER, RICHARD",0

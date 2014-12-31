@@ -1,0 +1,288 @@
+precinct,office,candidate,votes
+Argenta 01,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",233
+Argenta 01,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",121
+Argenta 01,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Argenta 01,President and Vice President of the United States,"BUSH, GEORGE W.",271
+Argenta 01,President and Vice President of the United States,"COBB, DAVID",0
+Argenta 01,President and Vice President of the United States,"KERRY, JOHN F.",90
+Argenta 01,President and Vice President of the United States,"NADER, RALPH",4
+Argenta 01,President and Vice President of the United States,None Of These Candidates,3
+Argenta 01,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Argenta 01,"State Assembly, District 32","MARVEL, JOHN",302
+Argenta 01,"State Assembly, District 32","MORROW, JOAN",66
+Argenta 01,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",58
+Argenta 01,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",295
+Argenta 01,"Supreme Court Justice, Seat A","HARDESTY, JIM",199
+Argenta 01,"Supreme Court Justice, Seat A",None Of These Candidates,50
+Argenta 01,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",106
+Argenta 01,"Supreme Court Justice, Seat E","MASON, JOHN E.",149
+Argenta 01,"Supreme Court Justice, Seat E",None Of These Candidates,63
+Argenta 01,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",145
+Argenta 01,"Supreme Court Justice, Seat F","Douglas, Michael L.",142
+Argenta 01,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",109
+Argenta 01,"Supreme Court Justice, Seat F",None Of These Candidates,94
+Argenta 01,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",47
+Argenta 01,"U.S. Representative in Congress, District 2","GIBBONS, JIM",294
+Argenta 01,"U.S. Representative in Congress, District 2","HANSEN, JANINE",19
+Argenta 01,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
+Argenta 01,United States Senator,"HURST, THOMAS L.",3
+Argenta 01,United States Senator,"MARINCH, GARY",1
+Argenta 01,United States Senator,None Of These Candidates,12
+Argenta 01,United States Senator,"REID, HARRY",185
+Argenta 01,United States Senator,"SCHUMANN, DAVID K.",5
+Argenta 01,United States Senator,"ZISER, RICHARD",162
+Argenta 01,"University Board of Regents, District  8","AIAZZI, STAN",124
+Argenta 01,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",211
+Argenta 02,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",242
+Argenta 02,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",146
+Argenta 02,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Argenta 02,President and Vice President of the United States,"BUSH, GEORGE W.",314
+Argenta 02,President and Vice President of the United States,"COBB, DAVID",0
+Argenta 02,President and Vice President of the United States,"KERRY, JOHN F.",84
+Argenta 02,President and Vice President of the United States,"NADER, RALPH",2
+Argenta 02,President and Vice President of the United States,None Of These Candidates,5
+Argenta 02,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Argenta 02,"State Assembly, District 32","MARVEL, JOHN",322
+Argenta 02,"State Assembly, District 32","MORROW, JOAN",68
+Argenta 02,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",79
+Argenta 02,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",303
+Argenta 02,"Supreme Court Justice, Seat A","HARDESTY, JIM",207
+Argenta 02,"Supreme Court Justice, Seat A",None Of These Candidates,67
+Argenta 02,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",108
+Argenta 03,United States Senator,"ZISER, RICHARD",63
+Argenta 03,"University Board of Regents, District  8","AIAZZI, STAN",53
+Argenta 03,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",76
+Argenta 04,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",306
+Argenta 04,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",117
+Argenta 04,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Argenta 04,President and Vice President of the United States,"BUSH, GEORGE W.",363
+Argenta 04,President and Vice President of the United States,"COBB, DAVID",0
+Argenta 04,President and Vice President of the United States,"KERRY, JOHN F.",71
+Argenta 04,President and Vice President of the United States,"NADER, RALPH",1
+Argenta 04,President and Vice President of the United States,None Of These Candidates,5
+Argenta 04,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Argenta 04,"State Assembly, District 35","DeBRAGA, MARCIA",114
+Argenta 04,"State Assembly, District 35","GOICOECHEA, PETE",303
+Argenta 04,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",11
+Argenta 04,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",70
+Argenta 04,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",351
+Argenta 04,"Supreme Court Justice, Seat A","HARDESTY, JIM",233
+Argenta 04,"Supreme Court Justice, Seat A",None Of These Candidates,58
+Argenta 04,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",128
+Argenta 04,"Supreme Court Justice, Seat E","MASON, JOHN E.",189
+Argenta 04,"Supreme Court Justice, Seat E",None Of These Candidates,69
+Argenta 04,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",158
+Argenta 04,"Supreme Court Justice, Seat F","Douglas, Michael L.",165
+Argenta 04,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",150
+Argenta 04,"Supreme Court Justice, Seat F",None Of These Candidates,98
+Argenta 04,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",47
+Argenta 04,"U.S. Representative in Congress, District 2","GIBBONS, JIM",360
+Argenta 04,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
+Argenta 04,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
+Argenta 04,United States Senator,"HURST, THOMAS L.",3
+Argenta 04,United States Senator,"MARINCH, GARY",3
+Argenta 04,United States Senator,None Of These Candidates,13
+Argenta 04,United States Senator,"REID, HARRY",176
+Argenta 04,United States Senator,"SCHUMANN, DAVID K.",12
+Argenta 04,United States Senator,"ZISER, RICHARD",225
+Argenta 04,"University Board of Regents, District  8","AIAZZI, STAN",171
+Argenta 04,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",229
+Argenta 05,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",272
+Argenta 05,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",129
+Argenta 05,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Argenta 05,President and Vice President of the United States,"BUSH, GEORGE W.",337
+Argenta 05,President and Vice President of the United States,"COBB, DAVID",0
+Argenta 05,President and Vice President of the United States,"KERRY, JOHN F.",77
+Argenta 05,President and Vice President of the United States,"NADER, RALPH",1
+Argenta 05,President and Vice President of the United States,None Of These Candidates,2
+Argenta 05,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Argenta 05,"State Assembly, District 35","DeBRAGA, MARCIA",103
+Argenta 05,"State Assembly, District 35","GOICOECHEA, PETE",295
+Argenta 05,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",11
+Argenta 05,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",49
+Argenta 05,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",351
+Argenta 05,"Supreme Court Justice, Seat A","HARDESTY, JIM",202
+Argenta 05,"Supreme Court Justice, Seat A",None Of These Candidates,70
+Argenta 05,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",127
+Argenta 05,"Supreme Court Justice, Seat E","MASON, JOHN E.",160
+Argenta 05,"Supreme Court Justice, Seat E",None Of These Candidates,84
+Argenta 05,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",149
+Argenta 05,"Supreme Court Justice, Seat F","Douglas, Michael L.",143
+Argenta 05,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",151
+Argenta 05,"Supreme Court Justice, Seat F",None Of These Candidates,95
+Argenta 05,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",53
+Argenta 05,"U.S. Representative in Congress, District 2","GIBBONS, JIM",343
+Argenta 05,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
+Argenta 05,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
+Argenta 05,United States Senator,"HURST, THOMAS L.",3
+Argenta 05,United States Senator,"MARINCH, GARY",3
+Argenta 05,United States Senator,None Of These Candidates,13
+Argenta 05,United States Senator,"REID, HARRY",183
+Argenta 05,United States Senator,"SCHUMANN, DAVID K.",6
+Argenta 05,United States Senator,"ZISER, RICHARD",200
+Argenta 05,"University Board of Regents, District  8","AIAZZI, STAN",150
+Argenta 05,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",216
+Austin 07,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",63
+Austin 07,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",41
+Austin 07,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Austin 07,President and Vice President of the United States,"BUSH, GEORGE W.",81
+Austin 07,President and Vice President of the United States,"COBB, DAVID",0
+Austin 07,President and Vice President of the United States,"KERRY, JOHN F.",28
+Austin 07,President and Vice President of the United States,"NADER, RALPH",3
+Austin 07,President and Vice President of the United States,None Of These Candidates,1
+Austin 07,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Austin 07,"State Assembly, District 35","DeBRAGA, MARCIA",40
+Austin 07,"State Assembly, District 35","GOICOECHEA, PETE",72
+Austin 07,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",1
+Austin 07,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",21
+Austin 07,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",84
+Austin 07,"Supreme Court Justice, Seat A","HARDESTY, JIM",77
+Austin 07,"Supreme Court Justice, Seat A",None Of These Candidates,11
+Austin 07,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",21
+Austin 07,"Supreme Court Justice, Seat E","MASON, JOHN E.",42
+Austin 07,"Supreme Court Justice, Seat E",None Of These Candidates,12
+Austin 07,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",56
+Austin 07,"Supreme Court Justice, Seat F","Douglas, Michael L.",45
+Austin 07,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",35
+Austin 07,"Supreme Court Justice, Seat F",None Of These Candidates,24
+Austin 07,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",19
+Austin 07,"U.S. Representative in Congress, District 2","GIBBONS, JIM",89
+Austin 07,"U.S. Representative in Congress, District 2","HANSEN, JANINE",1
+Austin 07,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Austin 07,United States Senator,"HURST, THOMAS L.",3
+Austin 07,United States Senator,"MARINCH, GARY",0
+Austin 07,United States Senator,None Of These Candidates,3
+Austin 07,United States Senator,"REID, HARRY",49
+Austin 07,United States Senator,"SCHUMANN, DAVID K.",4
+Austin 07,United States Senator,"ZISER, RICHARD",54
+Austin 07,"University Board of Regents, District  8","AIAZZI, STAN",44
+Austin 07,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",59
+Gillman Springs 08,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",8
+Gillman Springs 08,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",11
+Gillman Springs 08,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Gillman Springs 08,President and Vice President of the United States,"BUSH, GEORGE W.",14
+Gillman Springs 08,President and Vice President of the United States,"COBB, DAVID",0
+Gillman Springs 08,President and Vice President of the United States,"KERRY, JOHN F.",9
+Gillman Springs 08,President and Vice President of the United States,"NADER, RALPH",0
+Gillman Springs 08,President and Vice President of the United States,None Of These Candidates,0
+Gillman Springs 08,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Gillman Springs 08,"State Assembly, District 35","DeBRAGA, MARCIA",7
+Gillman Springs 08,"State Assembly, District 35","GOICOECHEA, PETE",15
+Gillman Springs 08,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",1
+Gillman Springs 08,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",8
+Gillman Springs 08,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",12
+Gillman Springs 08,"Supreme Court Justice, Seat A","HARDESTY, JIM",8
+Gillman Springs 08,"Supreme Court Justice, Seat A",None Of These Candidates,7
+Gillman Springs 08,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",5
+Gillman Springs 08,"Supreme Court Justice, Seat E","MASON, JOHN E.",11
+Gillman Springs 08,"Supreme Court Justice, Seat E",None Of These Candidates,7
+Gillman Springs 08,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",3
+Gillman Springs 08,"Supreme Court Justice, Seat F","Douglas, Michael L.",8
+Gillman Springs 08,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",4
+Gillman Springs 08,"Supreme Court Justice, Seat F",None Of These Candidates,9
+Gillman Springs 08,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",6
+Gillman Springs 08,"U.S. Representative in Congress, District 2","GIBBONS, JIM",13
+Gillman Springs 08,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
+Gillman Springs 08,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
+Gillman Springs 08,United States Senator,"HURST, THOMAS L.",0
+Gillman Springs 08,United States Senator,"MARINCH, GARY",0
+Gillman Springs 08,United States Senator,None Of These Candidates,1
+Gillman Springs 08,United States Senator,"REID, HARRY",7
+Gillman Springs 08,United States Senator,"SCHUMANN, DAVID K.",0
+Gillman Springs 08,United States Senator,"ZISER, RICHARD",14
+Gillman Springs 08,"University Board of Regents, District  8","AIAZZI, STAN",6
+Gillman Springs 08,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",11
+Kingston 09,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",41
+Kingston 09,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",28
+Kingston 09,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Kingston 09,President and Vice President of the United States,"BUSH, GEORGE W.",54
+Kingston 09,President and Vice President of the United States,"COBB, DAVID",0
+Kingston 09,President and Vice President of the United States,"KERRY, JOHN F.",14
+Kingston 09,President and Vice President of the United States,"NADER, RALPH",1
+Kingston 09,President and Vice President of the United States,None Of These Candidates,2
+Kingston 09,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Kingston 09,"State Assembly, District 35","DeBRAGA, MARCIA",16
+Kingston 09,"State Assembly, District 35","GOICOECHEA, PETE",49
+Kingston 09,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",6
+Kingston 09,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",20
+Kingston 09,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",52
+Kingston 09,"Supreme Court Justice, Seat A","HARDESTY, JIM",31
+Kingston 09,"Supreme Court Justice, Seat A",None Of These Candidates,11
+Kingston 09,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",24
+Kingston 09,"Supreme Court Justice, Seat E","MASON, JOHN E.",21
+Kingston 09,"Supreme Court Justice, Seat E",None Of These Candidates,16
+Kingston 09,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",28
+Kingston 09,"Supreme Court Justice, Seat F","Douglas, Michael L.",21
+Kingston 09,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",28
+Kingston 09,"Supreme Court Justice, Seat F",None Of These Candidates,13
+Kingston 09,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",9
+Kingston 09,"U.S. Representative in Congress, District 2","GIBBONS, JIM",57
+Kingston 09,"U.S. Representative in Congress, District 2","HANSEN, JANINE",4
+Kingston 09,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
+Kingston 09,United States Senator,"HURST, THOMAS L.",2
+Kingston 09,United States Senator,"MARINCH, GARY",0
+Kingston 09,United States Senator,None Of These Candidates,2
+Kingston 09,United States Senator,"REID, HARRY",37
+Kingston 09,United States Senator,"SCHUMANN, DAVID K.",1
+Kingston 09,United States Senator,"ZISER, RICHARD",29
+Kingston 09,"University Board of Regents, District  8","AIAZZI, STAN",26
+Kingston 09,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",33
+Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",0
+Precinct 88,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",0
+Precinct 88,President and Vice President of the United States,"NADER, RALPH",0
+Precinct 88,President and Vice President of the United States,None Of These Candidates,0
+Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
+Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",0
+Precinct 99,President and Vice President of the United States,"COBB, DAVID",0
+Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",0
+Precinct 99,President and Vice President of the United States,"NADER, RALPH",0
+Precinct 99,President and Vice President of the United States,None Of These Candidates,0
+Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",0
+Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",0
+Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
+Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
+Precinct 99,United States Senator,"HURST, THOMAS L.",0
+Precinct 99,United States Senator,"MARINCH, GARY",0
+Precinct 99,United States Senator,None Of These Candidates,0
+Precinct 99,United States Senator,"REID, HARRY",0
+Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 99,United States Senator,"ZISER, RICHARD",0
+Southern Lander County 06,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",25
+Southern Lander County 06,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",47
+Southern Lander County 06,President and Vice President of the United States,"BADNARIK, MICHAEL",1
+Southern Lander County 06,President and Vice President of the United States,"BUSH, GEORGE W.",68
+Southern Lander County 06,President and Vice President of the United States,"COBB, DAVID",0
+Southern Lander County 06,President and Vice President of the United States,"KERRY, JOHN F.",5
+Southern Lander County 06,President and Vice President of the United States,"NADER, RALPH",0
+Southern Lander County 06,President and Vice President of the United States,None Of These Candidates,2
+Southern Lander County 06,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Southern Lander County 06,"State Assembly, District 35","DeBRAGA, MARCIA",7
+Southern Lander County 06,"State Assembly, District 35","GOICOECHEA, PETE",66
+Southern Lander County 06,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",1
+Southern Lander County 06,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",13
+Southern Lander County 06,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",63
+Southern Lander County 06,"Supreme Court Justice, Seat A","HARDESTY, JIM",44
+Southern Lander County 06,"Supreme Court Justice, Seat A",None Of These Candidates,3
+Southern Lander County 06,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",21
+Southern Lander County 06,"Supreme Court Justice, Seat E","MASON, JOHN E.",33
+Southern Lander County 06,"Supreme Court Justice, Seat E",None Of These Candidates,6
+Southern Lander County 06,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",34
+Southern Lander County 06,"Supreme Court Justice, Seat F","Douglas, Michael L.",21
+Southern Lander County 06,"Supreme Court Justice, Seat F","HANSEN, JOEL FR",35
+Southern Lander County 06,"Supreme Court Justice, Seat F",None Of These Candidates,10
+Southern Lander County 06,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",4
+Southern Lander County 06,"U.S. Representative in Congress, District 2","GIBBONS, JIM",70
+Southern Lander County 06,"U.S. Representative in Congress, District 2","HANSEN, JANINE",2
+Southern Lander County 06,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
+Southern Lander County 06,United States Senator,"HURST, THOMAS L.",0
+Southern Lander County 06,United States Senator,"MARINCH, GARY",0
+Southern Lander County 06,United States Senator,None Of These Candidates,1
+Southern Lander County 06,United States Senator,"REID, HARRY",12
+Southern Lander County 06,United States Senator,"SCHUMANN, DAVID K.",0
+Southern Lander County 06,United States Senator,"ZISER, RICHARD",63
+Southern Lander County 06,"University Board of Regents, District  8","AIAZZI, STAN",23
+Southern Lander County 06,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",39
