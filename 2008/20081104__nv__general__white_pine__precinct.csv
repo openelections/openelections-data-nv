@@ -1,0 +1,300 @@
+precinct,office,candidate,votes
+Precinct 1,County Commission Seat 2,"CARNEY, RICHARD L.",315
+Precinct 1,County Commission Seat 2,"POUND, DAVID A.",202
+Precinct 1,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",222
+Precinct 1,County Commission Seat 3,"CARSON, LAURIE L.",295
+Precinct 1,County Commission Seat 4,"ANDREAS, BONNIE M.",201
+Precinct 1,County Commission Seat 4,"PEREA, GARY A.",308
+Precinct 1,President and Vice President of the United States,"Baldwin, Chuck",0
+Precinct 1,President and Vice President of the United States,"Barr, Bob",5
+Precinct 1,President and Vice President of the United States,"McCain, John",327
+Precinct 1,President and Vice President of the United States,"McKinney, Cynthia",1
+Precinct 1,President and Vice President of the United States,"NADER, RALPH",6
+Precinct 1,President and Vice President of the United States,None Of These Candidates,4
+Precinct 1,President and Vice President of the United States,"Obama, Barack",189
+Precinct 1,"State Assembly, District 35","GOICOECHEA, PETE",388
+Precinct 1,"State Assembly, District 35","KING, RACHEL MARIE",125
+Precinct 1,"State Senate, Rural Senatorial District","HANSEN, JANINE",202
+Precinct 1,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",302
+Precinct 1,"Supreme Court Justice, Seat B",None Of These Candidates,91
+Precinct 1,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",288
+Precinct 1,"Supreme Court Justice, Seat B","Schumacher, Deborah",129
+Precinct 1,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",153
+Precinct 1,"Supreme Court Justice, Seat D","Gibbons, Mark",219
+Precinct 1,"Supreme Court Justice, Seat D",None Of These Candidates,131
+Precinct 1,"U.S. Representative in Congress, District 2","Bergland, Craig",16
+Precinct 1,"U.S. Representative in Congress, District 2","DERBY, JILL",175
+Precinct 1,"U.S. Representative in Congress, District 2","Everhart, John",23
+Precinct 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",299
+Precinct 1,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",8
+Precinct 10,County Commission Seat 2,"CARNEY, RICHARD L.",69
+Precinct 10,County Commission Seat 2,"POUND, DAVID A.",92
+Precinct 10,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",43
+Precinct 10,County Commission Seat 3,"CARSON, LAURIE L.",121
+Precinct 10,County Commission Seat 4,"ANDREAS, BONNIE M.",86
+Precinct 10,County Commission Seat 4,"PEREA, GARY A.",76
+Precinct 10,President and Vice President of the United States,"Baldwin, Chuck",1
+Precinct 10,President and Vice President of the United States,"Barr, Bob",2
+Precinct 10,President and Vice President of the United States,"McCain, John",132
+Precinct 10,President and Vice President of the United States,"McKinney, Cynthia",0
+Precinct 10,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 10,President and Vice President of the United States,None Of These Candidates,2
+Precinct 10,President and Vice President of the United States,"Obama, Barack",30
+Precinct 10,"State Assembly, District 35","GOICOECHEA, PETE",137
+Precinct 10,"State Assembly, District 35","KING, RACHEL MARIE",24
+Precinct 10,"State Senate, Rural Senatorial District","HANSEN, JANINE",48
+Precinct 10,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",113
+Precinct 10,"Supreme Court Justice, Seat B",None Of These Candidates,30
+Precinct 10,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",92
+Precinct 10,"Supreme Court Justice, Seat B","Schumacher, Deborah",35
+Precinct 10,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",43
+Precinct 10,"Supreme Court Justice, Seat D","Gibbons, Mark",63
+Precinct 10,"Supreme Court Justice, Seat D",None Of These Candidates,46
+Precinct 10,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+Precinct 10,"U.S. Representative in Congress, District 2","DERBY, JILL",32
+Precinct 10,"U.S. Representative in Congress, District 2","Everhart, John",7
+Precinct 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",123
+Precinct 10,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",4
+Precinct 2,County Commission Seat 2,"CARNEY, RICHARD L.",216
+Precinct 2,County Commission Seat 2,"POUND, DAVID A.",108
+Precinct 2,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",176
+Precinct 2,County Commission Seat 3,"CARSON, LAURIE L.",146
+Precinct 2,County Commission Seat 4,"ANDREAS, BONNIE M.",107
+Precinct 2,County Commission Seat 4,"PEREA, GARY A.",215
+Precinct 2,President and Vice President of the United States,"Baldwin, Chuck",3
+Precinct 2,President and Vice President of the United States,"Barr, Bob",2
+Precinct 2,President and Vice President of the United States,"McCain, John",188
+Precinct 2,President and Vice President of the United States,"McKinney, Cynthia",1
+Precinct 2,President and Vice President of the United States,"NADER, RALPH",6
+Precinct 2,President and Vice President of the United States,None Of These Candidates,11
+Precinct 2,President and Vice President of the United States,"Obama, Barack",121
+Precinct 2,"State Assembly, District 35","GOICOECHEA, PETE",220
+Precinct 2,"State Assembly, District 35","KING, RACHEL MARIE",106
+Precinct 2,"State Senate, Rural Senatorial District","HANSEN, JANINE",153
+Precinct 2,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",163
+Precinct 2,"Supreme Court Justice, Seat B",None Of These Candidates,68
+Precinct 2,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",166
+Precinct 2,"Supreme Court Justice, Seat B","Schumacher, Deborah",82
+Precinct 2,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",111
+Precinct 2,"Supreme Court Justice, Seat D","Gibbons, Mark",121
+Precinct 2,"Supreme Court Justice, Seat D",None Of These Candidates,81
+Precinct 2,"U.S. Representative in Congress, District 2","Bergland, Craig",9
+Precinct 2,"U.S. Representative in Congress, District 2","DERBY, JILL",107
+Precinct 2,"U.S. Representative in Congress, District 2","Everhart, John",21
+Precinct 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",179
+Precinct 2,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",9
+Precinct 3,County Commission Seat 2,"CARNEY, RICHARD L.",280
+Precinct 3,County Commission Seat 2,"POUND, DAVID A.",159
+Precinct 3,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",224
+Precinct 3,County Commission Seat 3,"CARSON, LAURIE L.",218
+Precinct 3,County Commission Seat 4,"ANDREAS, BONNIE M.",162
+Precinct 3,County Commission Seat 4,"PEREA, GARY A.",267
+Precinct 3,President and Vice President of the United States,"Baldwin, Chuck",1
+Precinct 3,President and Vice President of the United States,"Barr, Bob",2
+Precinct 3,President and Vice President of the United States,"McCain, John",241
+Precinct 3,President and Vice President of the United States,"McKinney, Cynthia",1
+Precinct 3,President and Vice President of the United States,"NADER, RALPH",8
+Precinct 3,President and Vice President of the United States,None Of These Candidates,12
+Precinct 3,President and Vice President of the United States,"Obama, Barack",186
+Precinct 3,"State Assembly, District 35","GOICOECHEA, PETE",286
+Precinct 3,"State Assembly, District 35","KING, RACHEL MARIE",154
+Precinct 3,"State Senate, Rural Senatorial District","HANSEN, JANINE",198
+Precinct 3,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",227
+Precinct 3,"Supreme Court Justice, Seat B",None Of These Candidates,90
+Precinct 3,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",227
+Precinct 3,"Supreme Court Justice, Seat B","Schumacher, Deborah",116
+Precinct 3,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",115
+Precinct 3,"Supreme Court Justice, Seat D","Gibbons, Mark",188
+Precinct 3,"Supreme Court Justice, Seat D",None Of These Candidates,127
+Precinct 3,"U.S. Representative in Congress, District 2","Bergland, Craig",6
+Precinct 3,"U.S. Representative in Congress, District 2","DERBY, JILL",166
+Precinct 3,"U.S. Representative in Congress, District 2","Everhart, John",16
+Precinct 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",232
+Precinct 3,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",11
+Precinct 4,County Commission Seat 2,"CARNEY, RICHARD L.",286
+Precinct 4,County Commission Seat 2,"POUND, DAVID A.",185
+Precinct 4,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",207
+Precinct 4,County Commission Seat 3,"CARSON, LAURIE L.",265
+Precinct 4,County Commission Seat 4,"ANDREAS, BONNIE M.",185
+Precinct 4,County Commission Seat 4,"PEREA, GARY A.",283
+Precinct 4,President and Vice President of the United States,"Baldwin, Chuck",1
+Precinct 4,President and Vice President of the United States,"Barr, Bob",2
+Precinct 4,President and Vice President of the United States,"McCain, John",320
+Precinct 4,President and Vice President of the United States,"McKinney, Cynthia",0
+Precinct 4,President and Vice President of the United States,"NADER, RALPH",4
+Precinct 4,President and Vice President of the United States,None Of These Candidates,11
+Precinct 4,President and Vice President of the United States,"Obama, Barack",144
+Precinct 4,"State Assembly, District 35","GOICOECHEA, PETE",346
+Precinct 4,"State Assembly, District 35","KING, RACHEL MARIE",128
+Precinct 4,"State Senate, Rural Senatorial District","HANSEN, JANINE",193
+Precinct 4,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",266
+Precinct 4,"Supreme Court Justice, Seat B",None Of These Candidates,92
+Precinct 4,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",280
+Precinct 4,"Supreme Court Justice, Seat B","Schumacher, Deborah",92
+Precinct 4,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",138
+Precinct 4,"Supreme Court Justice, Seat D","Gibbons, Mark",202
+Precinct 4,"Supreme Court Justice, Seat D",None Of These Candidates,119
+Precinct 4,"U.S. Representative in Congress, District 2","Bergland, Craig",6
+Precinct 4,"U.S. Representative in Congress, District 2","DERBY, JILL",156
+Precinct 4,"U.S. Representative in Congress, District 2","Everhart, John",18
+Precinct 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",288
+Precinct 4,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
+Precinct 5,County Commission Seat 2,"CARNEY, RICHARD L.",431
+Precinct 5,County Commission Seat 2,"POUND, DAVID A.",386
+Precinct 5,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",319
+Precinct 5,County Commission Seat 3,"CARSON, LAURIE L.",504
+Precinct 5,County Commission Seat 4,"ANDREAS, BONNIE M.",341
+Precinct 5,County Commission Seat 4,"PEREA, GARY A.",476
+Precinct 5,President and Vice President of the United States,"Baldwin, Chuck",7
+Precinct 5,President and Vice President of the United States,"Barr, Bob",7
+Precinct 5,President and Vice President of the United States,"McCain, John",577
+Precinct 5,President and Vice President of the United States,"McKinney, Cynthia",1
+Precinct 5,President and Vice President of the United States,"NADER, RALPH",10
+Precinct 5,President and Vice President of the United States,None Of These Candidates,9
+Precinct 5,President and Vice President of the United States,"Obama, Barack",226
+Precinct 5,"State Assembly, District 35","GOICOECHEA, PETE",641
+Precinct 5,"State Assembly, District 35","KING, RACHEL MARIE",183
+Precinct 5,"State Senate, Rural Senatorial District","HANSEN, JANINE",287
+Precinct 5,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",523
+Precinct 5,"Supreme Court Justice, Seat B",None Of These Candidates,164
+Precinct 5,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",462
+Precinct 5,"Supreme Court Justice, Seat B","Schumacher, Deborah",185
+Precinct 5,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",211
+Precinct 5,"Supreme Court Justice, Seat D","Gibbons, Mark",355
+Precinct 5,"Supreme Court Justice, Seat D",None Of These Candidates,237
+Precinct 5,"U.S. Representative in Congress, District 2","Bergland, Craig",8
+Precinct 5,"U.S. Representative in Congress, District 2","DERBY, JILL",227
+Precinct 5,"U.S. Representative in Congress, District 2","Everhart, John",45
+Precinct 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",534
+Precinct 5,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",6
+Precinct 6,County Commission Seat 2,"CARNEY, RICHARD L.",331
+Precinct 6,County Commission Seat 2,"POUND, DAVID A.",191
+Precinct 6,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",240
+Precinct 6,County Commission Seat 3,"CARSON, LAURIE L.",287
+Precinct 6,County Commission Seat 4,"ANDREAS, BONNIE M.",208
+Precinct 6,County Commission Seat 4,"PEREA, GARY A.",308
+Precinct 6,President and Vice President of the United States,"Baldwin, Chuck",6
+Precinct 6,President and Vice President of the United States,"Barr, Bob",2
+Precinct 6,President and Vice President of the United States,"McCain, John",309
+Precinct 6,President and Vice President of the United States,"McKinney, Cynthia",3
+Precinct 6,President and Vice President of the United States,"NADER, RALPH",5
+Precinct 6,President and Vice President of the United States,None Of These Candidates,17
+Precinct 6,President and Vice President of the United States,"Obama, Barack",195
+Precinct 6,"State Assembly, District 35","GOICOECHEA, PETE",363
+Precinct 6,"State Assembly, District 35","KING, RACHEL MARIE",157
+Precinct 6,"State Senate, Rural Senatorial District","HANSEN, JANINE",246
+Precinct 6,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",270
+Precinct 6,"Supreme Court Justice, Seat B",None Of These Candidates,128
+Precinct 6,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",255
+Precinct 6,"Supreme Court Justice, Seat B","Schumacher, Deborah",141
+Precinct 6,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",166
+Precinct 6,"Supreme Court Justice, Seat D","Gibbons, Mark",204
+Precinct 6,"Supreme Court Justice, Seat D",None Of These Candidates,143
+Precinct 6,"U.S. Representative in Congress, District 2","Bergland, Craig",8
+Precinct 6,"U.S. Representative in Congress, District 2","DERBY, JILL",184
+Precinct 6,"U.S. Representative in Congress, District 2","Everhart, John",24
+Precinct 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",287
+Precinct 6,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",13
+Precinct 7,County Commission Seat 2,"CARNEY, RICHARD L.",74
+Precinct 7,County Commission Seat 2,"POUND, DAVID A.",58
+Precinct 7,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",73
+Precinct 7,County Commission Seat 3,"CARSON, LAURIE L.",60
+Precinct 7,County Commission Seat 4,"ANDREAS, BONNIE M.",50
+Precinct 7,County Commission Seat 4,"PEREA, GARY A.",80
+Precinct 7,President and Vice President of the United States,"Baldwin, Chuck",0
+Precinct 7,President and Vice President of the United States,"Barr, Bob",2
+Precinct 7,President and Vice President of the United States,"McCain, John",81
+Precinct 7,President and Vice President of the United States,"McKinney, Cynthia",0
+Precinct 7,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 7,President and Vice President of the United States,None Of These Candidates,1
+Precinct 7,President and Vice President of the United States,"Obama, Barack",51
+Precinct 7,"State Assembly, District 35","GOICOECHEA, PETE",79
+Precinct 7,"State Assembly, District 35","KING, RACHEL MARIE",53
+Precinct 7,"State Senate, Rural Senatorial District","HANSEN, JANINE",55
+Precinct 7,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",75
+Precinct 7,"Supreme Court Justice, Seat B",None Of These Candidates,24
+Precinct 7,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",78
+Precinct 7,"Supreme Court Justice, Seat B","Schumacher, Deborah",30
+Precinct 7,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",34
+Precinct 7,"Supreme Court Justice, Seat D","Gibbons, Mark",71
+Precinct 7,"Supreme Court Justice, Seat D",None Of These Candidates,24
+Precinct 7,"U.S. Representative in Congress, District 2","Bergland, Craig",2
+Precinct 7,"U.S. Representative in Congress, District 2","DERBY, JILL",49
+Precinct 7,"U.S. Representative in Congress, District 2","Everhart, John",6
+Precinct 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",74
+Precinct 7,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
+Precinct 8,County Commission Seat 2,"CARNEY, RICHARD L.",103
+Precinct 8,County Commission Seat 2,"POUND, DAVID A.",138
+Precinct 8,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",45
+Precinct 8,County Commission Seat 3,"CARSON, LAURIE L.",199
+Precinct 8,County Commission Seat 4,"ANDREAS, BONNIE M.",96
+Precinct 8,County Commission Seat 4,"PEREA, GARY A.",142
+Precinct 8,President and Vice President of the United States,"Baldwin, Chuck",2
+Precinct 8,President and Vice President of the United States,"Barr, Bob",2
+Precinct 8,President and Vice President of the United States,"McCain, John",211
+Precinct 8,President and Vice President of the United States,"McKinney, Cynthia",1
+Precinct 8,President and Vice President of the United States,"NADER, RALPH",5
+Precinct 8,President and Vice President of the United States,None Of These Candidates,1
+Precinct 8,President and Vice President of the United States,"Obama, Barack",29
+Precinct 8,"State Assembly, District 35","GOICOECHEA, PETE",219
+Precinct 8,"State Assembly, District 35","KING, RACHEL MARIE",24
+Precinct 8,"State Senate, Rural Senatorial District","HANSEN, JANINE",95
+Precinct 8,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",150
+Precinct 8,"Supreme Court Justice, Seat B",None Of These Candidates,56
+Precinct 8,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",114
+Precinct 8,"Supreme Court Justice, Seat B","Schumacher, Deborah",62
+Precinct 8,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",64
+Precinct 8,"Supreme Court Justice, Seat D","Gibbons, Mark",96
+Precinct 8,"Supreme Court Justice, Seat D",None Of These Candidates,66
+Precinct 8,"U.S. Representative in Congress, District 2","Bergland, Craig",1
+Precinct 8,"U.S. Representative in Congress, District 2","DERBY, JILL",34
+Precinct 8,"U.S. Representative in Congress, District 2","Everhart, John",16
+Precinct 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",185
+Precinct 8,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",5
+Precinct 88,President and Vice President of the United States,"Baldwin, Chuck",0
+Precinct 88,President and Vice President of the United States,"Barr, Bob",0
+Precinct 88,President and Vice President of the United States,"McCain, John",0
+Precinct 88,President and Vice President of the United States,"McKinney, Cynthia",0
+Precinct 88,President and Vice President of the United States,"NADER, RALPH",0
+Precinct 88,President and Vice President of the United States,None Of These Candidates,0
+Precinct 88,President and Vice President of the United States,"Obama, Barack",0
+Precinct 9,County Commission Seat 2,"CARNEY, RICHARD L.",63
+Precinct 9,County Commission Seat 2,"POUND, DAVID A.",42
+Precinct 9,County Commission Seat 3,"BIRCH, ROBERT L. ""LEE""",34
+Precinct 9,County Commission Seat 3,"CARSON, LAURIE L.",69
+Precinct 9,County Commission Seat 4,"ANDREAS, BONNIE M.",23
+Precinct 9,County Commission Seat 4,"PEREA, GARY A.",83
+Precinct 9,President and Vice President of the United States,"Baldwin, Chuck",1
+Precinct 9,President and Vice President of the United States,"Barr, Bob",0
+Precinct 9,President and Vice President of the United States,"McCain, John",50
+Precinct 9,President and Vice President of the United States,"McKinney, Cynthia",0
+Precinct 9,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 9,President and Vice President of the United States,None Of These Candidates,1
+Precinct 9,President and Vice President of the United States,"Obama, Barack",58
+Precinct 9,"State Assembly, District 35","GOICOECHEA, PETE",70
+Precinct 9,"State Assembly, District 35","KING, RACHEL MARIE",34
+Precinct 9,"State Senate, Rural Senatorial District","HANSEN, JANINE",33
+Precinct 9,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",69
+Precinct 9,"Supreme Court Justice, Seat B",None Of These Candidates,20
+Precinct 9,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",28
+Precinct 9,"Supreme Court Justice, Seat B","Schumacher, Deborah",55
+Precinct 9,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",16
+Precinct 9,"Supreme Court Justice, Seat D","Gibbons, Mark",48
+Precinct 9,"Supreme Court Justice, Seat D",None Of These Candidates,29
+Precinct 9,"U.S. Representative in Congress, District 2","Bergland, Craig",3
+Precinct 9,"U.S. Representative in Congress, District 2","DERBY, JILL",59
+Precinct 9,"U.S. Representative in Congress, District 2","Everhart, John",4
+Precinct 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",39
+Precinct 9,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
+Precinct 99,President and Vice President of the United States,"Baldwin, Chuck",
+Precinct 99,President and Vice President of the United States,"Barr, Bob",
+Precinct 99,President and Vice President of the United States,"McCain, John",
+Precinct 99,President and Vice President of the United States,"McKinney, Cynthia",
+Precinct 99,President and Vice President of the United States,"NADER, RALPH",
+Precinct 99,President and Vice President of the United States,None Of These Candidates,
+Precinct 99,President and Vice President of the United States,"Obama, Barack",
+Precinct 99,"U.S. Representative in Congress, District 2","Bergland, Craig",
+Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
+Precinct 99,"U.S. Representative in Congress, District 2","Everhart, John",
+Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+Precinct 99,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",

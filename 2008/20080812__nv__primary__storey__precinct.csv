@@ -1,0 +1,231 @@
+precinct,office,candidate,votes
+PRECINCT 1,County Clerk/Treasurer (Republican),"CONNELL, ZOE",12
+PRECINCT 1,County Clerk/Treasurer (Republican),"DIXON, VANESSA",36
+PRECINCT 1,County Clerk/Treasurer (Republican),"HESS, ROLLIE",28
+PRECINCT 1,County Clerk/Treasurer (Republican),"WILSON, LEE",9
+PRECINCT 1,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",112
+PRECINCT 1,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",14
+PRECINCT 1,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",33
+PRECINCT 1,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",54
+PRECINCT 1,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",28
+PRECINCT 1,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",118
+PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",34
+PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",18
+PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,19
+PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",37
+PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",63
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",22
+PRECINCT 11,County Clerk/Treasurer (Republican),"CONNELL, ZOE",
+PRECINCT 11,County Clerk/Treasurer (Republican),"DIXON, VANESSA",
+PRECINCT 11,County Clerk/Treasurer (Republican),"HESS, ROLLIE",
+PRECINCT 11,County Clerk/Treasurer (Republican),"WILSON, LEE",
+PRECINCT 11,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",
+PRECINCT 11,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",
+PRECINCT 11,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",
+PRECINCT 11,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",
+PRECINCT 11,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",
+PRECINCT 11,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
+PRECINCT 11,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
+PRECINCT 11,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",
+PRECINCT 11,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,
+PRECINCT 11,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",
+PRECINCT 11,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
+PRECINCT 12,County Clerk/Treasurer (Republican),"CONNELL, ZOE",
+PRECINCT 12,County Clerk/Treasurer (Republican),"DIXON, VANESSA",
+PRECINCT 12,County Clerk/Treasurer (Republican),"HESS, ROLLIE",
+PRECINCT 12,County Clerk/Treasurer (Republican),"WILSON, LEE",
+PRECINCT 12,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",
+PRECINCT 12,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",
+PRECINCT 12,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",
+PRECINCT 12,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",
+PRECINCT 12,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",
+PRECINCT 12,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
+PRECINCT 12,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
+PRECINCT 12,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",
+PRECINCT 12,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,
+PRECINCT 12,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",
+PRECINCT 12,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
+PRECINCT 12,"TAHOE RENO INDUSTRIAL Gen Imp Dist,No TAHOE RENO I (Nonpartisan)","WARREN, KIRT",
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
+PRECINCT 13,County Clerk/Treasurer (Republican),"CONNELL, ZOE",0
+PRECINCT 13,County Clerk/Treasurer (Republican),"DIXON, VANESSA",0
+PRECINCT 13,County Clerk/Treasurer (Republican),"HESS, ROLLIE",0
+PRECINCT 13,County Clerk/Treasurer (Republican),"WILSON, LEE",0
+PRECINCT 13,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 13,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",0
+PRECINCT 13,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",0
+PRECINCT 13,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",0
+PRECINCT 13,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 13,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
+PRECINCT 13,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",0
+PRECINCT 13,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",0
+PRECINCT 13,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,0
+PRECINCT 13,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",0
+PRECINCT 13,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",0
+PRECINCT 13,"TAHOE RENO INDUSTRIAL Gen Imp Dist,No TAHOE RENO I (Nonpartisan)","WARREN, KIRT",0
+PRECINCT 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 13,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0
+PRECINCT 15,County Clerk/Treasurer (Republican),"CONNELL, ZOE",
+PRECINCT 15,County Clerk/Treasurer (Republican),"DIXON, VANESSA",
+PRECINCT 15,County Clerk/Treasurer (Republican),"HESS, ROLLIE",
+PRECINCT 15,County Clerk/Treasurer (Republican),"WILSON, LEE",
+PRECINCT 15,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",
+PRECINCT 15,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",
+PRECINCT 15,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",
+PRECINCT 15,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",
+PRECINCT 15,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",
+PRECINCT 15,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
+PRECINCT 15,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",2
+PRECINCT 15,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",3
+PRECINCT 15,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,1
+PRECINCT 15,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",3
+PRECINCT 15,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",2
+PRECINCT 15,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+PRECINCT 15,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
+PRECINCT 2,County Clerk/Treasurer (Republican),"CONNELL, ZOE",16
+PRECINCT 2,County Clerk/Treasurer (Republican),"DIXON, VANESSA",50
+PRECINCT 2,County Clerk/Treasurer (Republican),"HESS, ROLLIE",16
+PRECINCT 2,County Clerk/Treasurer (Republican),"WILSON, LEE",7
+PRECINCT 2,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",121
+PRECINCT 2,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",32
+PRECINCT 2,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",42
+PRECINCT 2,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",53
+PRECINCT 2,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",15
+PRECINCT 2,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",124
+PRECINCT 2,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",27
+PRECINCT 2,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",26
+PRECINCT 2,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,13
+PRECINCT 2,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",38
+PRECINCT 2,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",43
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",72
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",17
+PRECINCT 3,County Clerk/Treasurer (Republican),"CONNELL, ZOE",
+PRECINCT 3,County Clerk/Treasurer (Republican),"DIXON, VANESSA",
+PRECINCT 3,County Clerk/Treasurer (Republican),"HESS, ROLLIE",
+PRECINCT 3,County Clerk/Treasurer (Republican),"WILSON, LEE",
+PRECINCT 3,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",
+PRECINCT 3,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",
+PRECINCT 3,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",
+PRECINCT 3,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",
+PRECINCT 3,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",
+PRECINCT 3,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
+PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
+PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",
+PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,
+PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",
+PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
+PRECINCT 4,County Clerk/Treasurer (Republican),"CONNELL, ZOE",9
+PRECINCT 4,County Clerk/Treasurer (Republican),"DIXON, VANESSA",33
+PRECINCT 4,County Clerk/Treasurer (Republican),"HESS, ROLLIE",21
+PRECINCT 4,County Clerk/Treasurer (Republican),"WILSON, LEE",5
+PRECINCT 4,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",104
+PRECINCT 4,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",13
+PRECINCT 4,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",31
+PRECINCT 4,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",43
+PRECINCT 4,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",25
+PRECINCT 4,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",102
+PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",25
+PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",23
+PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",27
+PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",32
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",59
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",9
+PRECINCT 5,County Clerk/Treasurer (Republican),"CONNELL, ZOE",19
+PRECINCT 5,County Clerk/Treasurer (Republican),"DIXON, VANESSA",68
+PRECINCT 5,County Clerk/Treasurer (Republican),"HESS, ROLLIE",43
+PRECINCT 5,County Clerk/Treasurer (Republican),"WILSON, LEE",42
+PRECINCT 5,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",190
+PRECINCT 5,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",40
+PRECINCT 5,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",56
+PRECINCT 5,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",79
+PRECINCT 5,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",42
+PRECINCT 5,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",206
+PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",53
+PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",28
+PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,30
+PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",67
+PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",58
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",146
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",27
+PRECINCT 6,"CANYON Gen Imp Dist,No CANYON Seat 2A (Nonpartisan)","COCKERTON, DAVID G.",166
+PRECINCT 6,"CANYON Gen Imp Dist,No CANYON Seat 2B (Nonpartisan)","DENNIS, LINDA R.",167
+PRECINCT 6,"CANYON Gen Imp Dist,No CANYON Seat 2C (Nonpartisan)","BRYANT, BRAD Term Limited",159
+PRECINCT 6,County Clerk/Treasurer (Republican),"CONNELL, ZOE",6
+PRECINCT 6,County Clerk/Treasurer (Republican),"DIXON, VANESSA",41
+PRECINCT 6,County Clerk/Treasurer (Republican),"HESS, ROLLIE",38
+PRECINCT 6,County Clerk/Treasurer (Republican),"WILSON, LEE",11
+PRECINCT 6,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",162
+PRECINCT 6,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",26
+PRECINCT 6,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",44
+PRECINCT 6,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",40
+PRECINCT 6,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",61
+PRECINCT 6,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",164
+PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",33
+PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",29
+PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,11
+PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",58
+PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",49
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",73
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",23
+PRECINCT 7,County Clerk/Treasurer (Republican),"CONNELL, ZOE",0
+PRECINCT 7,County Clerk/Treasurer (Republican),"DIXON, VANESSA",0
+PRECINCT 7,County Clerk/Treasurer (Republican),"HESS, ROLLIE",0
+PRECINCT 7,County Clerk/Treasurer (Republican),"WILSON, LEE",0
+PRECINCT 7,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 7,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",0
+PRECINCT 7,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",0
+PRECINCT 7,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",0
+PRECINCT 7,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 7,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
+PRECINCT 7,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",0
+PRECINCT 7,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",0
+PRECINCT 7,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,0
+PRECINCT 7,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",0
+PRECINCT 7,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",0
+PRECINCT 7,"TAHOE RENO INDUSTRIAL Gen Imp Dist,No TAHOE RENO I (Nonpartisan)","WARREN, KIRT",0
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0
+PRECINCT 8,County Clerk/Treasurer (Republican),"CONNELL, ZOE",0
+PRECINCT 8,County Clerk/Treasurer (Republican),"DIXON, VANESSA",0
+PRECINCT 8,County Clerk/Treasurer (Republican),"HESS, ROLLIE",0
+PRECINCT 8,County Clerk/Treasurer (Republican),"WILSON, LEE",0
+PRECINCT 8,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 8,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",0
+PRECINCT 8,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",0
+PRECINCT 8,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",0
+PRECINCT 8,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 8,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
+PRECINCT 8,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",0
+PRECINCT 8,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",0
+PRECINCT 8,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,0
+PRECINCT 8,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",0
+PRECINCT 8,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",0
+PRECINCT 8,"TAHOE RENO INDUSTRIAL Gen Imp Dist,No TAHOE RENO I (Nonpartisan)","WARREN, KIRT",0
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0
+PRECINCT 9,County Clerk/Treasurer (Republican),"CONNELL, ZOE",0
+PRECINCT 9,County Clerk/Treasurer (Republican),"DIXON, VANESSA",0
+PRECINCT 9,County Clerk/Treasurer (Republican),"HESS, ROLLIE",0
+PRECINCT 9,County Clerk/Treasurer (Republican),"WILSON, LEE",0
+PRECINCT 9,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 9,"District Court Judge, District 1, Department  2 (Nonpartisan)","JENKINS, CAREN",0
+PRECINCT 9,"District Court Judge, District 1, Department  2 (Nonpartisan)","KRUEGER, MARK",0
+PRECINCT 9,"District Court Judge, District 1, Department  2 (Nonpartisan)","WATERS, NOEL",0
+PRECINCT 9,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 9,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
+PRECINCT 9,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",0
+PRECINCT 9,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",0
+PRECINCT 9,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,0
+PRECINCT 9,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",0
+PRECINCT 9,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",0
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0

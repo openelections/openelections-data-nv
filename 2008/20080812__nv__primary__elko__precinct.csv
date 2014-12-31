@@ -1,0 +1,826 @@
+precinct,office,candidate,votes
+Precinct 1,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",31
+Precinct 1,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",19
+Precinct 1,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",9
+Precinct 1,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",46
+Precinct 1,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",25
+Precinct 1,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",71
+Precinct 1,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",69
+Precinct 1,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",18
+Precinct 1,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",21
+Precinct 1,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",21
+Precinct 1,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",14
+Precinct 1,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",71
+Precinct 1,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",70
+Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",10
+Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",9
+Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,11
+Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",26
+Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",22
+Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",45
+Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
+Precinct 10,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",74
+Precinct 10,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",61
+Precinct 10,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",25
+Precinct 10,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",81
+Precinct 10,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",121
+Precinct 10,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",202
+Precinct 10,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",184
+Precinct 10,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",78
+Precinct 10,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",47
+Precinct 10,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",21
+Precinct 10,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",70
+Precinct 10,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",183
+Precinct 10,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",172
+Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",49
+Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",21
+Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,15
+Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",65
+Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",71
+Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",118
+Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",21
+Precinct 11,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",35
+Precinct 11,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",22
+Precinct 11,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",7
+Precinct 11,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",58
+Precinct 11,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",29
+Precinct 11,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",81
+Precinct 11,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",81
+Precinct 11,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",36
+Precinct 11,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",14
+Precinct 11,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",19
+Precinct 11,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",21
+Precinct 11,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",82
+Precinct 11,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",77
+Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",7
+Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",15
+Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,11
+Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",31
+Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",30
+Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",48
+Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 12,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",78
+Precinct 12,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",55
+Precinct 12,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",19
+Precinct 12,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",108
+Precinct 12,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",72
+Precinct 12,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",184
+Precinct 12,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",173
+Precinct 12,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",46
+Precinct 12,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",54
+Precinct 12,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",25
+Precinct 12,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",67
+Precinct 12,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",174
+Precinct 12,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",178
+Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",22
+Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",26
+Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,33
+Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",68
+Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",50
+Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",113
+Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",20
+Precinct 13,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",25
+Precinct 13,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",20
+Precinct 13,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",6
+Precinct 13,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",36
+Precinct 13,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",20
+Precinct 13,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",52
+Precinct 13,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",51
+Precinct 13,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",24
+Precinct 13,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",15
+Precinct 13,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",6
+Precinct 13,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",17
+Precinct 13,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",50
+Precinct 13,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",54
+Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",6
+Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",9
+Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,11
+Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",21
+Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",15
+Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",42
+Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",3
+Precinct 14,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",66
+Precinct 14,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",49
+Precinct 14,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",19
+Precinct 14,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",86
+Precinct 14,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",70
+Precinct 14,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",156
+Precinct 14,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",146
+Precinct 14,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",41
+Precinct 14,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",52
+Precinct 14,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",26
+Precinct 14,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",47
+Precinct 14,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",153
+Precinct 14,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",151
+Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",32
+Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",22
+Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,23
+Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",53
+Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",44
+Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",100
+Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",15
+Precinct 15,"CARLIN, Justice of the Peace (Nonpartisan)","FEASEL, TERI",91
+Precinct 15,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",23
+Precinct 15,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",22
+Precinct 15,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",8
+Precinct 15,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",65
+Precinct 15,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",24
+Precinct 15,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",89
+Precinct 15,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",86
+Precinct 15,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",35
+Precinct 15,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",19
+Precinct 15,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",25
+Precinct 15,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",15
+Precinct 15,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",84
+Precinct 15,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",83
+Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",21
+Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",20
+Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",21
+Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
+Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",34
+Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 16,"CARLIN, Justice of the Peace (Nonpartisan)","FEASEL, TERI",76
+Precinct 16,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",15
+Precinct 16,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",24
+Precinct 16,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",7
+Precinct 16,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",49
+Precinct 16,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",24
+Precinct 16,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",77
+Precinct 16,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",76
+Precinct 16,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",30
+Precinct 16,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",21
+Precinct 16,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",17
+Precinct 16,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",9
+Precinct 16,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",76
+Precinct 16,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",72
+Precinct 16,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",8
+Precinct 16,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",12
+Precinct 16,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,11
+Precinct 16,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",26
+Precinct 16,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
+Precinct 16,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",33
+Precinct 16,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",8
+Precinct 17,"CARLIN, Justice of the Peace (Nonpartisan)","FEASEL, TERI",
+Precinct 17,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",
+Precinct 17,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",
+Precinct 17,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",
+Precinct 17,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",
+Precinct 17,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",
+Precinct 17,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",
+Precinct 17,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",
+Precinct 17,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",
+Precinct 17,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",
+Precinct 17,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",
+Precinct 17,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",
+Precinct 17,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",
+Precinct 17,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",
+Precinct 17,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
+Precinct 17,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",
+Precinct 17,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,
+Precinct 17,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",
+Precinct 17,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
+Precinct 17,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+Precinct 17,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
+Precinct 18,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",7
+Precinct 18,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",46
+Precinct 18,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",10
+Precinct 18,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",41
+Precinct 18,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",26
+Precinct 18,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",67
+Precinct 18,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",59
+Precinct 18,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",24
+Precinct 18,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",16
+Precinct 18,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",15
+Precinct 18,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",11
+Precinct 18,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",57
+Precinct 18,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",59
+Precinct 18,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",6
+Precinct 18,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",13
+Precinct 18,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,16
+Precinct 18,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",21
+Precinct 18,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",16
+Precinct 18,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",45
+Precinct 18,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
+Precinct 19,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",16
+Precinct 19,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",50
+Precinct 19,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",5
+Precinct 19,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",48
+Precinct 19,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",40
+Precinct 19,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",80
+Precinct 19,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",75
+Precinct 19,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",47
+Precinct 19,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",15
+Precinct 19,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",15
+Precinct 19,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",9
+Precinct 19,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",72
+Precinct 19,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",74
+Precinct 19,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",16
+Precinct 19,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",18
+Precinct 19,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,18
+Precinct 19,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",31
+Precinct 19,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",13
+Precinct 19,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",53
+Precinct 19,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 2,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",17
+Precinct 2,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",10
+Precinct 2,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",8
+Precinct 2,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",33
+Precinct 2,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",16
+Precinct 2,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",52
+Precinct 2,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",45
+Precinct 2,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",22
+Precinct 2,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",12
+Precinct 2,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",10
+Precinct 2,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",11
+Precinct 2,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",47
+Precinct 2,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",46
+Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",10
+Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",4
+Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",16
+Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",17
+Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",23
+Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",4
+Precinct 20,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",8
+Precinct 20,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",8
+Precinct 20,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",3
+Precinct 20,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",20
+Precinct 20,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",16
+Precinct 20,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",34
+Precinct 20,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",28
+Precinct 20,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",17
+Precinct 20,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",7
+Precinct 20,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",3
+Precinct 20,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",7
+Precinct 20,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",29
+Precinct 20,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",30
+Precinct 20,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",5
+Precinct 20,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",9
+Precinct 20,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,7
+Precinct 20,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",7
+Precinct 20,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",11
+Precinct 20,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",14
+Precinct 20,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",3
+Precinct 21,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",
+Precinct 21,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",
+Precinct 21,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",
+Precinct 21,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",
+Precinct 21,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",
+Precinct 21,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",
+Precinct 21,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",
+Precinct 21,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",
+Precinct 21,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",
+Precinct 21,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",
+Precinct 21,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",
+Precinct 21,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",
+Precinct 21,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",
+Precinct 21,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
+Precinct 21,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",
+Precinct 21,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,
+Precinct 21,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",
+Precinct 21,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
+Precinct 21,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+Precinct 21,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
+Precinct 22,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",86
+Precinct 22,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",70
+Precinct 22,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",18
+Precinct 22,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",119
+Precinct 22,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",81
+Precinct 22,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",194
+Precinct 22,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",184
+Precinct 22,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",62
+Precinct 22,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",53
+Precinct 22,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",46
+Precinct 22,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",46
+Precinct 22,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",185
+Precinct 22,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",185
+Precinct 22,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",18
+Precinct 22,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",24
+Precinct 22,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,30
+Precinct 22,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",88
+Precinct 22,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",53
+Precinct 22,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",131
+Precinct 22,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",28
+Precinct 23,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",79
+Precinct 23,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",69
+Precinct 23,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",40
+Precinct 23,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",114
+Precinct 23,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",74
+Precinct 23,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",196
+Precinct 23,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",181
+Precinct 23,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",50
+Precinct 23,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",60
+Precinct 23,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",33
+Precinct 23,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",65
+Precinct 23,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",181
+Precinct 23,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",186
+Precinct 23,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",43
+Precinct 23,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",27
+Precinct 23,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,29
+Precinct 23,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",75
+Precinct 23,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",46
+Precinct 23,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",132
+Precinct 23,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",16
+Precinct 24,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",71
+Precinct 24,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",14
+Precinct 24,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",34
+Precinct 24,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",70
+Precinct 24,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",43
+Precinct 24,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",138
+Precinct 24,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",133
+Precinct 24,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",34
+Precinct 24,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",42
+Precinct 24,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",35
+Precinct 24,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",29
+Precinct 24,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",133
+Precinct 24,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",130
+Precinct 24,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",15
+Precinct 24,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",25
+Precinct 24,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,16
+Precinct 24,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",64
+Precinct 24,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",26
+Precinct 24,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",71
+Precinct 24,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",14
+Precinct 25,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",53
+Precinct 25,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",36
+Precinct 25,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",32
+Precinct 25,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",62
+Precinct 25,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",41
+Precinct 25,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",124
+Precinct 25,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",122
+Precinct 25,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",37
+Precinct 25,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",53
+Precinct 25,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",24
+Precinct 25,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",14
+Precinct 25,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",124
+Precinct 25,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",119
+Precinct 25,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",18
+Precinct 25,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",22
+Precinct 25,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,24
+Precinct 25,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",44
+Precinct 25,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",25
+Precinct 25,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",75
+Precinct 25,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",14
+Precinct 26,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",81
+Precinct 26,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",37
+Precinct 26,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",22
+Precinct 26,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",86
+Precinct 26,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",53
+Precinct 26,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",141
+Precinct 26,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",127
+Precinct 26,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",51
+Precinct 26,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",46
+Precinct 26,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",16
+Precinct 26,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",41
+Precinct 26,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",123
+Precinct 26,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",127
+Precinct 26,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",17
+Precinct 26,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",21
+Precinct 26,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,18
+Precinct 26,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",69
+Precinct 26,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",37
+Precinct 26,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",105
+Precinct 26,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 27,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",32
+Precinct 27,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",29
+Precinct 27,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",13
+Precinct 27,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",47
+Precinct 27,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",24
+Precinct 27,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",73
+Precinct 27,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",65
+Precinct 27,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",21
+Precinct 27,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",31
+Precinct 27,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",17
+Precinct 27,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",13
+Precinct 27,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",63
+Precinct 27,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",67
+Precinct 27,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",12
+Precinct 27,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",8
+Precinct 27,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+Precinct 27,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",42
+Precinct 27,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",11
+Precinct 27,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
+Precinct 27,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",6
+Precinct 28,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",27
+Precinct 28,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",5
+Precinct 28,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",5
+Precinct 28,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",30
+Precinct 28,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",12
+Precinct 28,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",38
+Precinct 28,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",36
+Precinct 28,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",21
+Precinct 28,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",14
+Precinct 28,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",6
+Precinct 28,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",3
+Precinct 28,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",32
+Precinct 28,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",34
+Precinct 28,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",6
+Precinct 28,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",3
+Precinct 28,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,8
+Precinct 28,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",12
+Precinct 28,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",16
+Precinct 28,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",26
+Precinct 28,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",2
+Precinct 29,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",7
+Precinct 29,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",8
+Precinct 29,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",8
+Precinct 29,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",33
+Precinct 29,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",17
+Precinct 29,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",54
+Precinct 29,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",51
+Precinct 29,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",21
+Precinct 29,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",15
+Precinct 29,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",15
+Precinct 29,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",8
+Precinct 29,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",53
+Precinct 29,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",51
+Precinct 29,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",5
+Precinct 29,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",9
+Precinct 29,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+Precinct 29,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",11
+Precinct 29,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
+Precinct 29,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
+Precinct 29,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",3
+Precinct 3,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",66
+Precinct 3,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",64
+Precinct 3,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",22
+Precinct 3,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",89
+Precinct 3,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",90
+Precinct 3,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",167
+Precinct 3,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",154
+Precinct 3,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",52
+Precinct 3,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",57
+Precinct 3,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",20
+Precinct 3,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",60
+Precinct 3,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",159
+Precinct 3,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",156
+Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",26
+Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",18
+Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,23
+Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",66
+Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",66
+Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",115
+Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",14
+Precinct 30,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",17
+Precinct 30,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",8
+Precinct 30,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",3
+Precinct 30,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",38
+Precinct 30,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",4
+Precinct 30,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",41
+Precinct 30,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",34
+Precinct 30,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",16
+Precinct 30,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",16
+Precinct 30,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",5
+Precinct 30,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",4
+Precinct 30,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",34
+Precinct 30,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",31
+Precinct 30,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",5
+Precinct 30,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",3
+Precinct 30,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+Precinct 30,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",11
+Precinct 30,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",13
+Precinct 30,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",23
+Precinct 30,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",2
+Precinct 31,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",14
+Precinct 31,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",3
+Precinct 31,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",0
+Precinct 31,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",14
+Precinct 31,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",9
+Precinct 31,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",21
+Precinct 31,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",19
+Precinct 31,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",11
+Precinct 31,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",2
+Precinct 31,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",5
+Precinct 31,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",3
+Precinct 31,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",20
+Precinct 31,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",19
+Precinct 31,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",0
+Precinct 31,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",5
+Precinct 31,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,6
+Precinct 31,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",8
+Precinct 31,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",5
+Precinct 31,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",19
+Precinct 31,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0
+Precinct 32,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",31
+Precinct 32,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",36
+Precinct 32,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",8
+Precinct 32,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",54
+Precinct 32,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",35
+Precinct 32,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",91
+Precinct 32,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",84
+Precinct 32,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",21
+Precinct 32,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",31
+Precinct 32,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",26
+Precinct 32,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",13
+Precinct 32,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",83
+Precinct 32,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",85
+Precinct 32,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",18
+Precinct 32,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",13
+Precinct 32,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,16
+Precinct 32,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",27
+Precinct 32,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
+Precinct 32,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",58
+Precinct 32,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",9
+Precinct 33,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",12
+Precinct 33,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",16
+Precinct 33,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",6
+Precinct 33,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",28
+Precinct 33,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",16
+Precinct 33,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",46
+Precinct 33,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",44
+Precinct 33,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",8
+Precinct 33,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",19
+Precinct 33,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",13
+Precinct 33,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",2
+Precinct 33,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",41
+Precinct 33,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",44
+Precinct 33,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",3
+Precinct 33,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",11
+Precinct 33,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,10
+Precinct 33,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",5
+Precinct 33,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",18
+Precinct 33,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",22
+Precinct 33,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
+Precinct 34,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",42
+Precinct 34,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",24
+Precinct 34,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",9
+Precinct 34,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",37
+Precinct 34,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",33
+Precinct 34,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",63
+Precinct 34,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",52
+Precinct 34,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",18
+Precinct 34,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",10
+Precinct 34,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",27
+Precinct 34,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",11
+Precinct 34,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",50
+Precinct 34,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",50
+Precinct 34,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",6
+Precinct 34,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",23
+Precinct 34,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
+Precinct 34,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",29
+Precinct 34,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",10
+Precinct 34,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",52
+Precinct 34,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",14
+Precinct 35,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",33
+Precinct 35,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",21
+Precinct 35,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",6
+Precinct 35,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",50
+Precinct 35,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",11
+Precinct 35,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",42
+Precinct 35,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",39
+Precinct 35,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",24
+Precinct 35,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",17
+Precinct 35,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",7
+Precinct 35,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",12
+Precinct 35,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",30
+Precinct 35,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",39
+Precinct 35,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",7
+Precinct 35,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",10
+Precinct 35,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,7
+Precinct 35,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",23
+Precinct 35,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",15
+Precinct 35,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",47
+Precinct 35,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",6
+Precinct 36,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",15
+Precinct 36,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",38
+Precinct 36,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",4
+Precinct 36,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",57
+Precinct 36,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",19
+Precinct 36,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",74
+Precinct 36,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",68
+Precinct 36,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",20
+Precinct 36,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",15
+Precinct 36,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",21
+Precinct 36,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",14
+Precinct 36,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",67
+Precinct 36,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",67
+Precinct 36,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",12
+Precinct 36,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",13
+Precinct 36,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,18
+Precinct 36,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",20
+Precinct 36,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",12
+Precinct 36,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",48
+Precinct 36,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",6
+Precinct 37,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",6
+Precinct 37,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",12
+Precinct 37,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",7
+Precinct 37,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",19
+Precinct 37,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",11
+Precinct 37,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",29
+Precinct 37,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",30
+Precinct 37,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",8
+Precinct 37,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",13
+Precinct 37,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",8
+Precinct 37,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",5
+Precinct 37,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",30
+Precinct 37,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",30
+Precinct 37,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",5
+Precinct 37,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",7
+Precinct 37,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,4
+Precinct 37,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",8
+Precinct 37,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",12
+Precinct 37,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
+Precinct 37,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",5
+Precinct 38,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",8
+Precinct 38,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",8
+Precinct 38,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",4
+Precinct 38,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",13
+Precinct 38,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",9
+Precinct 38,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",24
+Precinct 38,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",22
+Precinct 38,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",14
+Precinct 38,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",2
+Precinct 38,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",5
+Precinct 38,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",2
+Precinct 38,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",24
+Precinct 38,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",23
+Precinct 38,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",6
+Precinct 38,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",2
+Precinct 38,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,6
+Precinct 38,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",5
+Precinct 38,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",5
+Precinct 38,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",15
+Precinct 38,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",2
+Precinct 39,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",3
+Precinct 39,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",25
+Precinct 39,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",10
+Precinct 39,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",30
+Precinct 39,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",11
+Precinct 39,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",42
+Precinct 39,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",39
+Precinct 39,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",8
+Precinct 39,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",8
+Precinct 39,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",24
+Precinct 39,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",4
+Precinct 39,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",38
+Precinct 39,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",41
+Precinct 39,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",7
+Precinct 39,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",7
+Precinct 39,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,8
+Precinct 39,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",19
+Precinct 39,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",9
+Precinct 39,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",20
+Precinct 39,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",8
+Precinct 4,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",49
+Precinct 4,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",60
+Precinct 4,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",24
+Precinct 4,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",73
+Precinct 4,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",89
+Precinct 4,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",158
+Precinct 4,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",141
+Precinct 4,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",72
+Precinct 4,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",44
+Precinct 4,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",24
+Precinct 4,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",30
+Precinct 4,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",145
+Precinct 4,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",137
+Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",31
+Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",16
+Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,26
+Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",55
+Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",57
+Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",96
+Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",13
+Precinct 40,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",82
+Precinct 40,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",55
+Precinct 40,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",15
+Precinct 40,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",126
+Precinct 40,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",61
+Precinct 40,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",178
+Precinct 40,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",171
+Precinct 40,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",48
+Precinct 40,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",53
+Precinct 40,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",37
+Precinct 40,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",49
+Precinct 40,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",161
+Precinct 40,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",160
+Precinct 40,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",32
+Precinct 40,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",17
+Precinct 40,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,23
+Precinct 40,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",83
+Precinct 40,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",40
+Precinct 40,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",118
+Precinct 40,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",18
+Precinct 41,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",85
+Precinct 41,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",51
+Precinct 41,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",46
+Precinct 41,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",99
+Precinct 41,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",64
+Precinct 41,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",185
+Precinct 41,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",181
+Precinct 41,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",41
+Precinct 41,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",65
+Precinct 41,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",47
+Precinct 41,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",49
+Precinct 41,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",175
+Precinct 41,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",174
+Precinct 41,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",25
+Precinct 41,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",22
+Precinct 41,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,31
+Precinct 41,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",83
+Precinct 41,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",48
+Precinct 41,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",118
+Precinct 41,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",18
+Precinct 5,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",73
+Precinct 5,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",45
+Precinct 5,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",18
+Precinct 5,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",84
+Precinct 5,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",78
+Precinct 5,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",161
+Precinct 5,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",150
+Precinct 5,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",50
+Precinct 5,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",33
+Precinct 5,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",23
+Precinct 5,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",64
+Precinct 5,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",148
+Precinct 5,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",148
+Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",31
+Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",17
+Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,17
+Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",60
+Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",55
+Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",106
+Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",11
+Precinct 6,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",36
+Precinct 6,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",31
+Precinct 6,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",6
+Precinct 6,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",58
+Precinct 6,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",40
+Precinct 6,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",101
+Precinct 6,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",91
+Precinct 6,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",34
+Precinct 6,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",19
+Precinct 6,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",18
+Precinct 6,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",29
+Precinct 6,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",93
+Precinct 6,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",94
+Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",23
+Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",1
+Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,19
+Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",36
+Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",24
+Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",56
+Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 7,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",44
+Precinct 7,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",26
+Precinct 7,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",19
+Precinct 7,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",57
+Precinct 7,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",36
+Precinct 7,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",90
+Precinct 7,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",88
+Precinct 7,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",24
+Precinct 7,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",28
+Precinct 7,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",15
+Precinct 7,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",32
+Precinct 7,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",81
+Precinct 7,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",89
+Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",28
+Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",14
+Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,8
+Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",24
+Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",34
+Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",59
+Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",12
+Precinct 8,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",68
+Precinct 8,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",48
+Precinct 8,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",24
+Precinct 8,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",72
+Precinct 8,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",70
+Precinct 8,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",149
+Precinct 8,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",141
+Precinct 8,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",44
+Precinct 8,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",36
+Precinct 8,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",13
+Precinct 8,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",72
+Precinct 8,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",142
+Precinct 8,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",137
+Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",24
+Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",12
+Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,12
+Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",46
+Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",71
+Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",105
+Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 9,County Comm Dist. 1 (CW) (Republican),"DAHL, DEMAR",46
+Precinct 9,County Comm Dist. 1 (CW) (Republican),"TYBO, RUSTY A.",37
+Precinct 9,"District Court Judge, District 4, Department  1 (Nonpartisan)","LOREMAN, DAVID D.",20
+Precinct 9,"District Court Judge, District 4, Department  1 (Nonpartisan)","MEMEO, MIKE",54
+Precinct 9,"District Court Judge, District 4, Department  1 (Nonpartisan)","TORVINEN, MARK",66
+Precinct 9,"District Court Judge, District 4, Department  2 (Nonpartisan)","PUCCINELLI, ANDREW J.",127
+Precinct 9,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",115
+Precinct 9,School Board Trustee Dst 4 -AL (Nonpartisan),"FOBES, GORDON L.",56
+Precinct 9,School Board Trustee Dst 4 -AL (Nonpartisan),"HARTWIG, DEAN A.",28
+Precinct 9,School Board Trustee Dst 4 -AL (Nonpartisan),"POCHE, PENNY R.",23
+Precinct 9,School Board Trustee Dst 4 -AL (Nonpartisan),"VOLPI, LYNNE",26
+Precinct 9,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",119
+Precinct 9,"School Board Trustee, Dist 2 (Nonpartisan)","ZELLER, CONNIE",118
+Precinct 9,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",34
+Precinct 9,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",13
+Precinct 9,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,16
+Precinct 9,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris""",40
+Precinct 9,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",36
+Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",75
+Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
+Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0

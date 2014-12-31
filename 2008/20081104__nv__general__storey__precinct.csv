@@ -1,0 +1,454 @@
+precinct,office,candidate,votes
+PRECINCT 1,County Clerk/Treasurer,"DIXON, VANESSA",205
+PRECINCT 1,County Clerk/Treasurer,"HESS, ROLLIE",100
+PRECINCT 1,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",243
+PRECINCT 1,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",231
+PRECINCT 1,"District Court Judge, District 1, Department  2","WATERS, NOEL",136
+PRECINCT 1,"District Court Judge, District 1, Department  2","WILSON, JIM",136
+PRECINCT 1,President and Vice President of the United States,"Baldwin, Chuck",1
+PRECINCT 1,President and Vice President of the United States,"Barr, Bob",2
+PRECINCT 1,President and Vice President of the United States,"McCain, John",150
+PRECINCT 1,President and Vice President of the United States,"McKinney, Cynthia",2
+PRECINCT 1,President and Vice President of the United States,"NADER, RALPH",2
+PRECINCT 1,President and Vice President of the United States,None Of These Candidates,4
+PRECINCT 1,President and Vice President of the United States,"Obama, Barack",159
+PRECINCT 1,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",137
+PRECINCT 1,School Board Trustee Seat 1A,"JAMES, CATHYLEE",168
+PRECINCT 1,School Board Trustee Seat 1B,"CONLEY, COLLEEN",149
+PRECINCT 1,School Board Trustee Seat 1B,"FIELDING, REBECCA",128
+PRECINCT 1,"State Assembly, District 38","DALTON, STEVEN J.",94
+PRECINCT 1,"State Assembly, District 38","GOMEZ, DENNIS C.",33
+PRECINCT 1,"State Assembly, District 38","Grady, Tom",173
+PRECINCT 1,"Supreme Court Justice, Seat B",None Of These Candidates,60
+PRECINCT 1,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",124
+PRECINCT 1,"Supreme Court Justice, Seat B","Schumacher, Deborah",116
+PRECINCT 1,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",49
+PRECINCT 1,"Supreme Court Justice, Seat D","Gibbons, Mark",170
+PRECINCT 1,"Supreme Court Justice, Seat D",None Of These Candidates,73
+PRECINCT 1,"U.S. Representative in Congress, District 2","Bergland, Craig",14
+PRECINCT 1,"U.S. Representative in Congress, District 2","DERBY, JILL",109
+PRECINCT 1,"U.S. Representative in Congress, District 2","Everhart, John",13
+PRECINCT 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",170
+PRECINCT 1,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",7
+PRECINCT 10,County Clerk/Treasurer,"DIXON, VANESSA",0
+PRECINCT 10,County Clerk/Treasurer,"HESS, ROLLIE",0
+PRECINCT 10,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
+PRECINCT 10,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
+PRECINCT 10,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
+PRECINCT 10,"District Court Judge, District 1, Department  2","WILSON, JIM",0
+PRECINCT 10,President and Vice President of the United States,"Baldwin, Chuck",0
+PRECINCT 10,President and Vice President of the United States,"Barr, Bob",0
+PRECINCT 10,President and Vice President of the United States,"McCain, John",0
+PRECINCT 10,President and Vice President of the United States,"McKinney, Cynthia",0
+PRECINCT 10,President and Vice President of the United States,"NADER, RALPH",0
+PRECINCT 10,President and Vice President of the United States,None Of These Candidates,0
+PRECINCT 10,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 10,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",0
+PRECINCT 10,School Board Trustee Seat 1A,"JAMES, CATHYLEE",0
+PRECINCT 10,School Board Trustee Seat 1B,"CONLEY, COLLEEN",0
+PRECINCT 10,School Board Trustee Seat 1B,"FIELDING, REBECCA",0
+PRECINCT 10,"State Assembly, District 38","DALTON, STEVEN J.",0
+PRECINCT 10,"State Assembly, District 38","GOMEZ, DENNIS C.",0
+PRECINCT 10,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 10,"Supreme Court Justice, Seat B",None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",0
+PRECINCT 10,"Supreme Court Justice, Seat B","Schumacher, Deborah",0
+PRECINCT 10,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",0
+PRECINCT 10,"Supreme Court Justice, Seat D","Gibbons, Mark",0
+PRECINCT 10,"Supreme Court Justice, Seat D",None Of These Candidates,0
+PRECINCT 10,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","Everhart, John",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
+PRECINCT 11,County Clerk/Treasurer,"DIXON, VANESSA",
+PRECINCT 11,County Clerk/Treasurer,"HESS, ROLLIE",
+PRECINCT 11,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
+PRECINCT 11,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
+PRECINCT 11,"District Court Judge, District 1, Department  2","WATERS, NOEL",
+PRECINCT 11,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 11,President and Vice President of the United States,"Baldwin, Chuck",
+PRECINCT 11,President and Vice President of the United States,"Barr, Bob",
+PRECINCT 11,President and Vice President of the United States,"McCain, John",
+PRECINCT 11,President and Vice President of the United States,"McKinney, Cynthia",
+PRECINCT 11,President and Vice President of the United States,"NADER, RALPH",
+PRECINCT 11,President and Vice President of the United States,None Of These Candidates,
+PRECINCT 11,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 11,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
+PRECINCT 11,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
+PRECINCT 11,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
+PRECINCT 11,School Board Trustee Seat 1B,"FIELDING, REBECCA",
+PRECINCT 11,"State Assembly, District 38","DALTON, STEVEN J.",
+PRECINCT 11,"State Assembly, District 38","GOMEZ, DENNIS C.",
+PRECINCT 11,"State Assembly, District 38","Grady, Tom",
+PRECINCT 11,"Supreme Court Justice, Seat B",None Of These Candidates,
+PRECINCT 11,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+PRECINCT 11,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+PRECINCT 11,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+PRECINCT 11,"Supreme Court Justice, Seat D","Gibbons, Mark",
+PRECINCT 11,"Supreme Court Justice, Seat D",None Of These Candidates,
+PRECINCT 11,"U.S. Representative in Congress, District 2","Bergland, Craig",
+PRECINCT 11,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 11,"U.S. Representative in Congress, District 2","Everhart, John",
+PRECINCT 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 11,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+PRECINCT 12,County Clerk/Treasurer,"DIXON, VANESSA",
+PRECINCT 12,County Clerk/Treasurer,"HESS, ROLLIE",
+PRECINCT 12,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
+PRECINCT 12,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
+PRECINCT 12,"District Court Judge, District 1, Department  2","WATERS, NOEL",
+PRECINCT 12,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 12,President and Vice President of the United States,"Baldwin, Chuck",
+PRECINCT 12,President and Vice President of the United States,"Barr, Bob",
+PRECINCT 12,President and Vice President of the United States,"McCain, John",
+PRECINCT 12,President and Vice President of the United States,"McKinney, Cynthia",
+PRECINCT 12,President and Vice President of the United States,"NADER, RALPH",
+PRECINCT 12,President and Vice President of the United States,None Of These Candidates,
+PRECINCT 12,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 12,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
+PRECINCT 12,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
+PRECINCT 12,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
+PRECINCT 12,School Board Trustee Seat 1B,"FIELDING, REBECCA",
+PRECINCT 12,"State Assembly, District 38","DALTON, STEVEN J.",
+PRECINCT 12,"State Assembly, District 38","GOMEZ, DENNIS C.",
+PRECINCT 12,"State Assembly, District 38","Grady, Tom",
+PRECINCT 12,"Supreme Court Justice, Seat B",None Of These Candidates,
+PRECINCT 12,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+PRECINCT 12,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+PRECINCT 12,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+PRECINCT 12,"Supreme Court Justice, Seat D","Gibbons, Mark",
+PRECINCT 12,"Supreme Court Justice, Seat D",None Of These Candidates,
+PRECINCT 12,"U.S. Representative in Congress, District 2","Bergland, Craig",
+PRECINCT 12,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 12,"U.S. Representative in Congress, District 2","Everhart, John",
+PRECINCT 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 12,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+PRECINCT 13,County Clerk/Treasurer,"DIXON, VANESSA",0
+PRECINCT 13,County Clerk/Treasurer,"HESS, ROLLIE",0
+PRECINCT 13,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
+PRECINCT 13,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
+PRECINCT 13,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
+PRECINCT 13,"District Court Judge, District 1, Department  2","WILSON, JIM",0
+PRECINCT 13,President and Vice President of the United States,"Baldwin, Chuck",0
+PRECINCT 13,President and Vice President of the United States,"Barr, Bob",0
+PRECINCT 13,President and Vice President of the United States,"McCain, John",0
+PRECINCT 13,President and Vice President of the United States,"McKinney, Cynthia",0
+PRECINCT 13,President and Vice President of the United States,"NADER, RALPH",0
+PRECINCT 13,President and Vice President of the United States,None Of These Candidates,0
+PRECINCT 13,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 13,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",0
+PRECINCT 13,School Board Trustee Seat 1A,"JAMES, CATHYLEE",0
+PRECINCT 13,School Board Trustee Seat 1B,"CONLEY, COLLEEN",0
+PRECINCT 13,School Board Trustee Seat 1B,"FIELDING, REBECCA",0
+PRECINCT 13,"State Assembly, District 38","DALTON, STEVEN J.",0
+PRECINCT 13,"State Assembly, District 38","GOMEZ, DENNIS C.",0
+PRECINCT 13,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 13,"Supreme Court Justice, Seat B",None Of These Candidates,0
+PRECINCT 13,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",0
+PRECINCT 13,"Supreme Court Justice, Seat B","Schumacher, Deborah",0
+PRECINCT 13,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",0
+PRECINCT 13,"Supreme Court Justice, Seat D","Gibbons, Mark",0
+PRECINCT 13,"Supreme Court Justice, Seat D",None Of These Candidates,0
+PRECINCT 13,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","Everhart, John",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
+PRECINCT 15,County Clerk/Treasurer,"DIXON, VANESSA",11
+PRECINCT 15,County Clerk/Treasurer,"HESS, ROLLIE",14
+PRECINCT 15,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",25
+PRECINCT 15,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",25
+PRECINCT 15,"District Court Judge, District 1, Department  2","WATERS, NOEL",10
+PRECINCT 15,"District Court Judge, District 1, Department  2","WILSON, JIM",13
+PRECINCT 15,President and Vice President of the United States,"Baldwin, Chuck",0
+PRECINCT 15,President and Vice President of the United States,"Barr, Bob",0
+PRECINCT 15,President and Vice President of the United States,"McCain, John",18
+PRECINCT 15,President and Vice President of the United States,"McKinney, Cynthia",0
+PRECINCT 15,President and Vice President of the United States,"NADER, RALPH",0
+PRECINCT 15,President and Vice President of the United States,None Of These Candidates,2
+PRECINCT 15,President and Vice President of the United States,"Obama, Barack",8
+PRECINCT 15,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",6
+PRECINCT 15,School Board Trustee Seat 1A,"JAMES, CATHYLEE",17
+PRECINCT 15,School Board Trustee Seat 1B,"CONLEY, COLLEEN",8
+PRECINCT 15,School Board Trustee Seat 1B,"FIELDING, REBECCA",15
+PRECINCT 15,"State Assembly, District 38","DALTON, STEVEN J.",1
+PRECINCT 15,"State Assembly, District 38","GOMEZ, DENNIS C.",6
+PRECINCT 15,"State Assembly, District 38","Grady, Tom",19
+PRECINCT 15,"Supreme Court Justice, Seat B",None Of These Candidates,3
+PRECINCT 15,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",9
+PRECINCT 15,"Supreme Court Justice, Seat B","Schumacher, Deborah",15
+PRECINCT 15,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",7
+PRECINCT 15,"Supreme Court Justice, Seat D","Gibbons, Mark",13
+PRECINCT 15,"Supreme Court Justice, Seat D",None Of These Candidates,5
+PRECINCT 15,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+PRECINCT 15,"U.S. Representative in Congress, District 2","DERBY, JILL",6
+PRECINCT 15,"U.S. Representative in Congress, District 2","Everhart, John",2
+PRECINCT 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",18
+PRECINCT 15,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
+PRECINCT 2,County Clerk/Treasurer,"DIXON, VANESSA",235
+PRECINCT 2,County Clerk/Treasurer,"HESS, ROLLIE",67
+PRECINCT 2,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",248
+PRECINCT 2,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",224
+PRECINCT 2,"District Court Judge, District 1, Department  2","WATERS, NOEL",146
+PRECINCT 2,"District Court Judge, District 1, Department  2","WILSON, JIM",128
+PRECINCT 2,President and Vice President of the United States,"Baldwin, Chuck",1
+PRECINCT 2,President and Vice President of the United States,"Barr, Bob",2
+PRECINCT 2,President and Vice President of the United States,"McCain, John",146
+PRECINCT 2,President and Vice President of the United States,"McKinney, Cynthia",0
+PRECINCT 2,President and Vice President of the United States,"NADER, RALPH",2
+PRECINCT 2,President and Vice President of the United States,None Of These Candidates,4
+PRECINCT 2,President and Vice President of the United States,"Obama, Barack",161
+PRECINCT 2,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",118
+PRECINCT 2,School Board Trustee Seat 1A,"JAMES, CATHYLEE",189
+PRECINCT 2,School Board Trustee Seat 1B,"CONLEY, COLLEEN",152
+PRECINCT 2,School Board Trustee Seat 1B,"FIELDING, REBECCA",124
+PRECINCT 2,"State Assembly, District 38","DALTON, STEVEN J.",111
+PRECINCT 2,"State Assembly, District 38","GOMEZ, DENNIS C.",28
+PRECINCT 2,"State Assembly, District 38","Grady, Tom",164
+PRECINCT 2,"Supreme Court Justice, Seat B",None Of These Candidates,48
+PRECINCT 2,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",136
+PRECINCT 2,"Supreme Court Justice, Seat B","Schumacher, Deborah",116
+PRECINCT 2,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",62
+PRECINCT 2,"Supreme Court Justice, Seat D","Gibbons, Mark",159
+PRECINCT 2,"Supreme Court Justice, Seat D",None Of These Candidates,69
+PRECINCT 2,"U.S. Representative in Congress, District 2","Bergland, Craig",3
+PRECINCT 2,"U.S. Representative in Congress, District 2","DERBY, JILL",144
+PRECINCT 2,"U.S. Representative in Congress, District 2","Everhart, John",9
+PRECINCT 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",151
+PRECINCT 2,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",5
+PRECINCT 3,County Clerk/Treasurer,"DIXON, VANESSA",
+PRECINCT 3,County Clerk/Treasurer,"HESS, ROLLIE",
+PRECINCT 3,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
+PRECINCT 3,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
+PRECINCT 3,"District Court Judge, District 1, Department  2","WATERS, NOEL",
+PRECINCT 3,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 3,President and Vice President of the United States,"Baldwin, Chuck",
+PRECINCT 3,President and Vice President of the United States,"Barr, Bob",
+PRECINCT 3,President and Vice President of the United States,"McCain, John",
+PRECINCT 3,President and Vice President of the United States,"McKinney, Cynthia",
+PRECINCT 3,President and Vice President of the United States,"NADER, RALPH",
+PRECINCT 3,President and Vice President of the United States,None Of These Candidates,
+PRECINCT 3,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 3,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
+PRECINCT 3,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
+PRECINCT 3,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
+PRECINCT 3,School Board Trustee Seat 1B,"FIELDING, REBECCA",
+PRECINCT 3,"State Assembly, District 38","DALTON, STEVEN J.",
+PRECINCT 3,"State Assembly, District 38","GOMEZ, DENNIS C.",
+PRECINCT 3,"State Assembly, District 38","Grady, Tom",
+PRECINCT 3,"Supreme Court Justice, Seat B",None Of These Candidates,
+PRECINCT 3,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+PRECINCT 3,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+PRECINCT 3,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+PRECINCT 3,"Supreme Court Justice, Seat D","Gibbons, Mark",
+PRECINCT 3,"Supreme Court Justice, Seat D",None Of These Candidates,
+PRECINCT 3,"U.S. Representative in Congress, District 2","Bergland, Craig",
+PRECINCT 3,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 3,"U.S. Representative in Congress, District 2","Everhart, John",
+PRECINCT 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 3,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+PRECINCT 4,County Clerk/Treasurer,"DIXON, VANESSA",206
+PRECINCT 4,County Clerk/Treasurer,"HESS, ROLLIE",124
+PRECINCT 4,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",284
+PRECINCT 4,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",276
+PRECINCT 4,"District Court Judge, District 1, Department  2","WATERS, NOEL",161
+PRECINCT 4,"District Court Judge, District 1, Department  2","WILSON, JIM",161
+PRECINCT 4,President and Vice President of the United States,"Baldwin, Chuck",1
+PRECINCT 4,President and Vice President of the United States,"Barr, Bob",1
+PRECINCT 4,President and Vice President of the United States,"McCain, John",196
+PRECINCT 4,President and Vice President of the United States,"McKinney, Cynthia",1
+PRECINCT 4,President and Vice President of the United States,"NADER, RALPH",1
+PRECINCT 4,President and Vice President of the United States,None Of These Candidates,4
+PRECINCT 4,President and Vice President of the United States,"Obama, Barack",167
+PRECINCT 4,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",133
+PRECINCT 4,School Board Trustee Seat 1A,"JAMES, CATHYLEE",206
+PRECINCT 4,School Board Trustee Seat 1B,"CONLEY, COLLEEN",176
+PRECINCT 4,School Board Trustee Seat 1B,"FIELDING, REBECCA",137
+PRECINCT 4,"State Assembly, District 38","DALTON, STEVEN J.",125
+PRECINCT 4,"State Assembly, District 38","GOMEZ, DENNIS C.",41
+PRECINCT 4,"State Assembly, District 38","Grady, Tom",190
+PRECINCT 4,"Supreme Court Justice, Seat B",None Of These Candidates,54
+PRECINCT 4,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",158
+PRECINCT 4,"Supreme Court Justice, Seat B","Schumacher, Deborah",144
+PRECINCT 4,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",100
+PRECINCT 4,"Supreme Court Justice, Seat D","Gibbons, Mark",192
+PRECINCT 4,"Supreme Court Justice, Seat D",None Of These Candidates,56
+PRECINCT 4,"U.S. Representative in Congress, District 2","Bergland, Craig",6
+PRECINCT 4,"U.S. Representative in Congress, District 2","DERBY, JILL",133
+PRECINCT 4,"U.S. Representative in Congress, District 2","Everhart, John",17
+PRECINCT 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",194
+PRECINCT 4,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",8
+PRECINCT 5,County Clerk/Treasurer,"DIXON, VANESSA",496
+PRECINCT 5,County Clerk/Treasurer,"HESS, ROLLIE",232
+PRECINCT 5,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",634
+PRECINCT 5,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",616
+PRECINCT 5,"District Court Judge, District 1, Department  2","WATERS, NOEL",291
+PRECINCT 5,"District Court Judge, District 1, Department  2","WILSON, JIM",347
+PRECINCT 5,President and Vice President of the United States,"Baldwin, Chuck",3
+PRECINCT 5,President and Vice President of the United States,"Barr, Bob",4
+PRECINCT 5,President and Vice President of the United States,"McCain, John",485
+PRECINCT 5,President and Vice President of the United States,"McKinney, Cynthia",1
+PRECINCT 5,President and Vice President of the United States,"NADER, RALPH",5
+PRECINCT 5,President and Vice President of the United States,None Of These Candidates,3
+PRECINCT 5,President and Vice President of the United States,"Obama, Barack",309
+PRECINCT 5,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",365
+PRECINCT 5,School Board Trustee Seat 1A,"JAMES, CATHYLEE",358
+PRECINCT 5,School Board Trustee Seat 1B,"CONLEY, COLLEEN",253
+PRECINCT 5,School Board Trustee Seat 1B,"FIELDING, REBECCA",411
+PRECINCT 5,"State Assembly, District 38","DALTON, STEVEN J.",229
+PRECINCT 5,"State Assembly, District 38","GOMEZ, DENNIS C.",44
+PRECINCT 5,"State Assembly, District 38","Grady, Tom",501
+PRECINCT 5,"Supreme Court Justice, Seat B",None Of These Candidates,131
+PRECINCT 5,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",318
+PRECINCT 5,"Supreme Court Justice, Seat B","Schumacher, Deborah",303
+PRECINCT 5,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",168
+PRECINCT 5,"Supreme Court Justice, Seat D","Gibbons, Mark",392
+PRECINCT 5,"Supreme Court Justice, Seat D",None Of These Candidates,156
+PRECINCT 5,"U.S. Representative in Congress, District 2","Bergland, Craig",13
+PRECINCT 5,"U.S. Representative in Congress, District 2","DERBY, JILL",254
+PRECINCT 5,"U.S. Representative in Congress, District 2","Everhart, John",26
+PRECINCT 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",490
+PRECINCT 5,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
+PRECINCT 6,County Clerk/Treasurer,"DIXON, VANESSA",272
+PRECINCT 6,County Clerk/Treasurer,"HESS, ROLLIE",183
+PRECINCT 6,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",423
+PRECINCT 6,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",412
+PRECINCT 6,"District Court Judge, District 1, Department  2","WATERS, NOEL",171
+PRECINCT 6,"District Court Judge, District 1, Department  2","WILSON, JIM",282
+PRECINCT 6,President and Vice President of the United States,"Baldwin, Chuck",3
+PRECINCT 6,President and Vice President of the United States,"Barr, Bob",3
+PRECINCT 6,President and Vice President of the United States,"McCain, John",232
+PRECINCT 6,President and Vice President of the United States,"McKinney, Cynthia",1
+PRECINCT 6,President and Vice President of the United States,"NADER, RALPH",5
+PRECINCT 6,President and Vice President of the United States,None Of These Candidates,9
+PRECINCT 6,President and Vice President of the United States,"Obama, Barack",294
+PRECINCT 6,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",189
+PRECINCT 6,School Board Trustee Seat 1A,"JAMES, CATHYLEE",301
+PRECINCT 6,School Board Trustee Seat 1B,"CONLEY, COLLEEN",324
+PRECINCT 6,School Board Trustee Seat 1B,"FIELDING, REBECCA",154
+PRECINCT 6,"State Assembly, District 38","DALTON, STEVEN J.",222
+PRECINCT 6,"State Assembly, District 38","GOMEZ, DENNIS C.",44
+PRECINCT 6,"State Assembly, District 38","Grady, Tom",249
+PRECINCT 6,"Supreme Court Justice, Seat B",None Of These Candidates,83
+PRECINCT 6,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",204
+PRECINCT 6,"Supreme Court Justice, Seat B","Schumacher, Deborah",216
+PRECINCT 6,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",145
+PRECINCT 6,"Supreme Court Justice, Seat D","Gibbons, Mark",261
+PRECINCT 6,"Supreme Court Justice, Seat D",None Of These Candidates,89
+PRECINCT 6,"U.S. Representative in Congress, District 2","Bergland, Craig",16
+PRECINCT 6,"U.S. Representative in Congress, District 2","DERBY, JILL",242
+PRECINCT 6,"U.S. Representative in Congress, District 2","Everhart, John",22
+PRECINCT 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",240
+PRECINCT 6,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",9
+PRECINCT 7,County Clerk/Treasurer,"DIXON, VANESSA",0
+PRECINCT 7,County Clerk/Treasurer,"HESS, ROLLIE",0
+PRECINCT 7,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
+PRECINCT 7,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
+PRECINCT 7,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
+PRECINCT 7,"District Court Judge, District 1, Department  2","WILSON, JIM",0
+PRECINCT 7,President and Vice President of the United States,"Baldwin, Chuck",0
+PRECINCT 7,President and Vice President of the United States,"Barr, Bob",0
+PRECINCT 7,President and Vice President of the United States,"McCain, John",0
+PRECINCT 7,President and Vice President of the United States,"McKinney, Cynthia",0
+PRECINCT 7,President and Vice President of the United States,"NADER, RALPH",0
+PRECINCT 7,President and Vice President of the United States,None Of These Candidates,0
+PRECINCT 7,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 7,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",0
+PRECINCT 7,School Board Trustee Seat 1A,"JAMES, CATHYLEE",0
+PRECINCT 7,School Board Trustee Seat 1B,"CONLEY, COLLEEN",0
+PRECINCT 7,School Board Trustee Seat 1B,"FIELDING, REBECCA",0
+PRECINCT 7,"State Assembly, District 38","DALTON, STEVEN J.",0
+PRECINCT 7,"State Assembly, District 38","GOMEZ, DENNIS C.",0
+PRECINCT 7,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 7,"Supreme Court Justice, Seat B",None Of These Candidates,0
+PRECINCT 7,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",0
+PRECINCT 7,"Supreme Court Justice, Seat B","Schumacher, Deborah",0
+PRECINCT 7,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",0
+PRECINCT 7,"Supreme Court Justice, Seat D","Gibbons, Mark",0
+PRECINCT 7,"Supreme Court Justice, Seat D",None Of These Candidates,0
+PRECINCT 7,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","Everhart, John",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
+PRECINCT 8,County Clerk/Treasurer,"DIXON, VANESSA",
+PRECINCT 8,County Clerk/Treasurer,"HESS, ROLLIE",
+PRECINCT 8,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
+PRECINCT 8,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
+PRECINCT 8,"District Court Judge, District 1, Department  2","WATERS, NOEL",
+PRECINCT 8,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 8,President and Vice President of the United States,"Baldwin, Chuck",
+PRECINCT 8,President and Vice President of the United States,"Barr, Bob",
+PRECINCT 8,President and Vice President of the United States,"McCain, John",
+PRECINCT 8,President and Vice President of the United States,"McKinney, Cynthia",
+PRECINCT 8,President and Vice President of the United States,"NADER, RALPH",
+PRECINCT 8,President and Vice President of the United States,None Of These Candidates,
+PRECINCT 8,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 8,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
+PRECINCT 8,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
+PRECINCT 8,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
+PRECINCT 8,School Board Trustee Seat 1B,"FIELDING, REBECCA",
+PRECINCT 8,"State Assembly, District 38","DALTON, STEVEN J.",
+PRECINCT 8,"State Assembly, District 38","GOMEZ, DENNIS C.",
+PRECINCT 8,"State Assembly, District 38","Grady, Tom",
+PRECINCT 8,"Supreme Court Justice, Seat B",None Of These Candidates,
+PRECINCT 8,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+PRECINCT 8,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+PRECINCT 8,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+PRECINCT 8,"Supreme Court Justice, Seat D","Gibbons, Mark",
+PRECINCT 8,"Supreme Court Justice, Seat D",None Of These Candidates,
+PRECINCT 8,"U.S. Representative in Congress, District 2","Bergland, Craig",
+PRECINCT 8,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 8,"U.S. Representative in Congress, District 2","Everhart, John",
+PRECINCT 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 8,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+PRECINCT 88,President and Vice President of the United States,"Baldwin, Chuck",0
+PRECINCT 88,President and Vice President of the United States,"Barr, Bob",0
+PRECINCT 88,President and Vice President of the United States,"McCain, John",0
+PRECINCT 88,President and Vice President of the United States,"McKinney, Cynthia",0
+PRECINCT 88,President and Vice President of the United States,"NADER, RALPH",0
+PRECINCT 88,President and Vice President of the United States,None Of These Candidates,0
+PRECINCT 88,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 9,County Clerk/Treasurer,"DIXON, VANESSA",
+PRECINCT 9,County Clerk/Treasurer,"HESS, ROLLIE",
+PRECINCT 9,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
+PRECINCT 9,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
+PRECINCT 9,"District Court Judge, District 1, Department  2","WATERS, NOEL",
+PRECINCT 9,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 9,President and Vice President of the United States,"Baldwin, Chuck",
+PRECINCT 9,President and Vice President of the United States,"Barr, Bob",
+PRECINCT 9,President and Vice President of the United States,"McCain, John",
+PRECINCT 9,President and Vice President of the United States,"McKinney, Cynthia",
+PRECINCT 9,President and Vice President of the United States,"NADER, RALPH",
+PRECINCT 9,President and Vice President of the United States,None Of These Candidates,
+PRECINCT 9,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 9,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
+PRECINCT 9,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
+PRECINCT 9,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
+PRECINCT 9,School Board Trustee Seat 1B,"FIELDING, REBECCA",
+PRECINCT 9,"State Assembly, District 38","DALTON, STEVEN J.",
+PRECINCT 9,"State Assembly, District 38","GOMEZ, DENNIS C.",
+PRECINCT 9,"State Assembly, District 38","Grady, Tom",
+PRECINCT 9,"Supreme Court Justice, Seat B",None Of These Candidates,
+PRECINCT 9,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+PRECINCT 9,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+PRECINCT 9,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+PRECINCT 9,"Supreme Court Justice, Seat D","Gibbons, Mark",
+PRECINCT 9,"Supreme Court Justice, Seat D",None Of These Candidates,
+PRECINCT 9,"U.S. Representative in Congress, District 2","Bergland, Craig",
+PRECINCT 9,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 9,"U.S. Representative in Congress, District 2","Everhart, John",
+PRECINCT 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 9,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+PRECINCT 99,President and Vice President of the United States,"Baldwin, Chuck",
+PRECINCT 99,President and Vice President of the United States,"Barr, Bob",
+PRECINCT 99,President and Vice President of the United States,"McCain, John",
+PRECINCT 99,President and Vice President of the United States,"McKinney, Cynthia",
+PRECINCT 99,President and Vice President of the United States,"NADER, RALPH",
+PRECINCT 99,President and Vice President of the United States,None Of These Candidates,
+PRECINCT 99,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 99,"U.S. Representative in Congress, District 2","Bergland, Craig",
+PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 99,"U.S. Representative in Congress, District 2","Everhart, John",
+PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 99,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",

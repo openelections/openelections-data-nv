@@ -1,0 +1,912 @@
+precinct,office,candidate,votes
+AMARGOSA VLY 06,County Commissioner District II,"EASTLEY, JONI",220
+AMARGOSA VLY 06,County Commissioner District II,"PETELL, JIM",109
+AMARGOSA VLY 06,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",261
+AMARGOSA VLY 06,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",69
+AMARGOSA VLY 06,President and Vice President of the United States,"Baldwin, Chuck",4
+AMARGOSA VLY 06,President and Vice President of the United States,"Barr, Bob",5
+AMARGOSA VLY 06,President and Vice President of the United States,"McCain, John",204
+AMARGOSA VLY 06,President and Vice President of the United States,"McKinney, Cynthia",0
+AMARGOSA VLY 06,President and Vice President of the United States,"NADER, RALPH",5
+AMARGOSA VLY 06,President and Vice President of the United States,None Of These Candidates,3
+AMARGOSA VLY 06,President and Vice President of the United States,"Obama, Barack",134
+AMARGOSA VLY 06,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",110
+AMARGOSA VLY 06,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",213
+AMARGOSA VLY 06,"State Assembly, District 36","BABB, SCOTTY",185
+AMARGOSA VLY 06,"State Assembly, District 36","GOEDHART, ED",158
+AMARGOSA VLY 06,"State Senate, Central Senatorial District","McGINNESS, MIKE",261
+AMARGOSA VLY 06,"Supreme Court Justice, Seat B",None Of These Candidates,66
+AMARGOSA VLY 06,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",172
+AMARGOSA VLY 06,"Supreme Court Justice, Seat B","Schumacher, Deborah",92
+AMARGOSA VLY 06,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",93
+AMARGOSA VLY 06,"Supreme Court Justice, Seat D","Gibbons, Mark",161
+AMARGOSA VLY 06,"Supreme Court Justice, Seat D",None Of These Candidates,75
+AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","Bergland, Craig",5
+AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","DERBY, JILL",116
+AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","Everhart, John",18
+AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","HELLER, DEAN",186
+AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",9
+BEATTY 01,County Commissioner District II,"EASTLEY, JONI",269
+BEATTY 01,County Commissioner District II,"PETELL, JIM",91
+BEATTY 01,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",280
+BEATTY 01,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",82
+BEATTY 01,President and Vice President of the United States,"Baldwin, Chuck",7
+BEATTY 01,President and Vice President of the United States,"Barr, Bob",4
+BEATTY 01,President and Vice President of the United States,"McCain, John",240
+BEATTY 01,President and Vice President of the United States,"McKinney, Cynthia",0
+BEATTY 01,President and Vice President of the United States,"NADER, RALPH",3
+BEATTY 01,President and Vice President of the United States,None Of These Candidates,11
+BEATTY 01,President and Vice President of the United States,"Obama, Barack",129
+BEATTY 01,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",141
+BEATTY 01,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",204
+BEATTY 01,"State Assembly, District 36","BABB, SCOTTY",125
+BEATTY 01,"State Assembly, District 36","GOEDHART, ED",244
+BEATTY 01,"State Senate, Central Senatorial District","McGINNESS, MIKE",294
+BEATTY 01,"Supreme Court Justice, Seat B",None Of These Candidates,77
+BEATTY 01,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",193
+BEATTY 01,"Supreme Court Justice, Seat B","Schumacher, Deborah",92
+BEATTY 01,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",89
+BEATTY 01,"Supreme Court Justice, Seat D","Gibbons, Mark",182
+BEATTY 01,"Supreme Court Justice, Seat D",None Of These Candidates,86
+BEATTY 01,"U.S. Representative in Congress, District 2","Bergland, Craig",6
+BEATTY 01,"U.S. Representative in Congress, District 2","DERBY, JILL",107
+BEATTY 01,"U.S. Representative in Congress, District 2","Everhart, John",22
+BEATTY 01,"U.S. Representative in Congress, District 2","HELLER, DEAN",220
+BEATTY 01,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",15
+CURRANT 02,County Commissioner District I,"MOBLEY, ROB",10
+CURRANT 02,County Commissioner District I,"WICHMAN, LORINDA A.",30
+CURRANT 02,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",29
+CURRANT 02,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",9
+CURRANT 02,President and Vice President of the United States,"Baldwin, Chuck",0
+CURRANT 02,President and Vice President of the United States,"Barr, Bob",0
+CURRANT 02,President and Vice President of the United States,"McCain, John",33
+CURRANT 02,President and Vice President of the United States,"McKinney, Cynthia",0
+CURRANT 02,President and Vice President of the United States,"NADER, RALPH",0
+CURRANT 02,President and Vice President of the United States,None Of These Candidates,2
+CURRANT 02,President and Vice President of the United States,"Obama, Barack",7
+CURRANT 02,"State Assembly, District 36","BABB, SCOTTY",4
+CURRANT 02,"State Assembly, District 36","GOEDHART, ED",34
+CURRANT 02,"State Senate, Rural Senatorial District","HANSEN, JANINE",15
+CURRANT 02,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",27
+CURRANT 02,"Supreme Court Justice, Seat B",None Of These Candidates,12
+CURRANT 02,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",15
+CURRANT 02,"Supreme Court Justice, Seat B","Schumacher, Deborah",14
+CURRANT 02,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",5
+CURRANT 02,"Supreme Court Justice, Seat D","Gibbons, Mark",20
+CURRANT 02,"Supreme Court Justice, Seat D",None Of These Candidates,13
+CURRANT 02,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+CURRANT 02,"U.S. Representative in Congress, District 2","DERBY, JILL",4
+CURRANT 02,"U.S. Representative in Congress, District 2","Everhart, John",5
+CURRANT 02,"U.S. Representative in Congress, District 2","HELLER, DEAN",29
+CURRANT 02,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
+DUCKWATER 03,County Commissioner District I,"MOBLEY, ROB",16
+DUCKWATER 03,County Commissioner District I,"WICHMAN, LORINDA A.",21
+DUCKWATER 03,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",31
+DUCKWATER 03,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",6
+DUCKWATER 03,President and Vice President of the United States,"Baldwin, Chuck",0
+DUCKWATER 03,President and Vice President of the United States,"Barr, Bob",0
+DUCKWATER 03,President and Vice President of the United States,"McCain, John",13
+DUCKWATER 03,President and Vice President of the United States,"McKinney, Cynthia",0
+DUCKWATER 03,President and Vice President of the United States,"NADER, RALPH",0
+DUCKWATER 03,President and Vice President of the United States,None Of These Candidates,1
+DUCKWATER 03,President and Vice President of the United States,"Obama, Barack",29
+DUCKWATER 03,"State Assembly, District 36","BABB, SCOTTY",24
+DUCKWATER 03,"State Assembly, District 36","GOEDHART, ED",16
+DUCKWATER 03,"State Senate, Rural Senatorial District","HANSEN, JANINE",21
+DUCKWATER 03,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",18
+DUCKWATER 03,"Supreme Court Justice, Seat B",None Of These Candidates,9
+DUCKWATER 03,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",14
+DUCKWATER 03,"Supreme Court Justice, Seat B","Schumacher, Deborah",18
+DUCKWATER 03,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",11
+DUCKWATER 03,"Supreme Court Justice, Seat D","Gibbons, Mark",18
+DUCKWATER 03,"Supreme Court Justice, Seat D",None Of These Candidates,9
+DUCKWATER 03,"U.S. Representative in Congress, District 2","Bergland, Craig",1
+DUCKWATER 03,"U.S. Representative in Congress, District 2","DERBY, JILL",18
+DUCKWATER 03,"U.S. Representative in Congress, District 2","Everhart, John",2
+DUCKWATER 03,"U.S. Representative in Congress, District 2","HELLER, DEAN",19
+DUCKWATER 03,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
+FORTY BAR 18,County Commissioner District I,"MOBLEY, ROB",25
+FORTY BAR 18,County Commissioner District I,"WICHMAN, LORINDA A.",15
+FORTY BAR 18,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",34
+FORTY BAR 18,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",20
+FORTY BAR 18,President and Vice President of the United States,"Baldwin, Chuck",0
+FORTY BAR 18,President and Vice President of the United States,"Barr, Bob",4
+FORTY BAR 18,President and Vice President of the United States,"McCain, John",25
+FORTY BAR 18,President and Vice President of the United States,"McKinney, Cynthia",0
+FORTY BAR 18,President and Vice President of the United States,"NADER, RALPH",2
+FORTY BAR 18,President and Vice President of the United States,None Of These Candidates,1
+FORTY BAR 18,President and Vice President of the United States,"Obama, Barack",33
+FORTY BAR 18,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",29
+FORTY BAR 18,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",21
+FORTY BAR 18,"State Assembly, District 36","BABB, SCOTTY",31
+FORTY BAR 18,"State Assembly, District 36","GOEDHART, ED",31
+FORTY BAR 18,"State Senate, Central Senatorial District","McGINNESS, MIKE",32
+FORTY BAR 18,"Supreme Court Justice, Seat B",None Of These Candidates,24
+FORTY BAR 18,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",17
+FORTY BAR 18,"Supreme Court Justice, Seat B","Schumacher, Deborah",18
+FORTY BAR 18,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",12
+FORTY BAR 18,"Supreme Court Justice, Seat D","Gibbons, Mark",23
+FORTY BAR 18,"Supreme Court Justice, Seat D",None Of These Candidates,22
+FORTY BAR 18,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+FORTY BAR 18,"U.S. Representative in Congress, District 2","DERBY, JILL",27
+FORTY BAR 18,"U.S. Representative in Congress, District 2","Everhart, John",7
+FORTY BAR 18,"U.S. Representative in Congress, District 2","HELLER, DEAN",22
+FORTY BAR 18,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",4
+GABBS 04,County Commissioner District I,"MOBLEY, ROB",33
+GABBS 04,County Commissioner District I,"WICHMAN, LORINDA A.",85
+GABBS 04,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",77
+GABBS 04,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",43
+GABBS 04,President and Vice President of the United States,"Baldwin, Chuck",0
+GABBS 04,President and Vice President of the United States,"Barr, Bob",1
+GABBS 04,President and Vice President of the United States,"McCain, John",78
+GABBS 04,President and Vice President of the United States,"McKinney, Cynthia",0
+GABBS 04,President and Vice President of the United States,"NADER, RALPH",6
+GABBS 04,President and Vice President of the United States,None Of These Candidates,2
+GABBS 04,President and Vice President of the United States,"Obama, Barack",39
+GABBS 04,"State Assembly, District 36","BABB, SCOTTY",42
+GABBS 04,"State Assembly, District 36","GOEDHART, ED",79
+GABBS 04,"State Senate, Central Senatorial District","McGINNESS, MIKE",103
+GABBS 04,"Supreme Court Justice, Seat B",None Of These Candidates,24
+GABBS 04,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",52
+GABBS 04,"Supreme Court Justice, Seat B","Schumacher, Deborah",42
+GABBS 04,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",43
+GABBS 04,"Supreme Court Justice, Seat D","Gibbons, Mark",49
+GABBS 04,"Supreme Court Justice, Seat D",None Of These Candidates,26
+GABBS 04,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+GABBS 04,"U.S. Representative in Congress, District 2","DERBY, JILL",42
+GABBS 04,"U.S. Representative in Congress, District 2","Everhart, John",3
+GABBS 04,"U.S. Representative in Congress, District 2","HELLER, DEAN",77
+GABBS 04,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
+IONE 05,County Commissioner District I,"MOBLEY, ROB",5
+IONE 05,County Commissioner District I,"WICHMAN, LORINDA A.",10
+IONE 05,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",13
+IONE 05,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",3
+IONE 05,President and Vice President of the United States,"Baldwin, Chuck",0
+IONE 05,President and Vice President of the United States,"Barr, Bob",0
+IONE 05,President and Vice President of the United States,"McCain, John",6
+IONE 05,President and Vice President of the United States,"McKinney, Cynthia",0
+IONE 05,President and Vice President of the United States,"NADER, RALPH",0
+IONE 05,President and Vice President of the United States,None Of These Candidates,0
+IONE 05,President and Vice President of the United States,"Obama, Barack",10
+IONE 05,"State Assembly, District 36","BABB, SCOTTY",10
+IONE 05,"State Assembly, District 36","GOEDHART, ED",6
+IONE 05,"State Senate, Rural Senatorial District","HANSEN, JANINE",7
+IONE 05,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",6
+IONE 05,"Supreme Court Justice, Seat B",None Of These Candidates,4
+IONE 05,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",9
+IONE 05,"Supreme Court Justice, Seat B","Schumacher, Deborah",3
+IONE 05,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",1
+IONE 05,"Supreme Court Justice, Seat D","Gibbons, Mark",5
+IONE 05,"Supreme Court Justice, Seat D",None Of These Candidates,10
+IONE 05,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+IONE 05,"U.S. Representative in Congress, District 2","DERBY, JILL",9
+IONE 05,"U.S. Representative in Congress, District 2","Everhart, John",1
+IONE 05,"U.S. Representative in Congress, District 2","HELLER, DEAN",6
+IONE 05,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
+MANHATTAN 07,County Commissioner District I,"MOBLEY, ROB",4
+MANHATTAN 07,County Commissioner District I,"WICHMAN, LORINDA A.",41
+MANHATTAN 07,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",39
+MANHATTAN 07,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",7
+MANHATTAN 07,President and Vice President of the United States,"Baldwin, Chuck",2
+MANHATTAN 07,President and Vice President of the United States,"Barr, Bob",0
+MANHATTAN 07,President and Vice President of the United States,"McCain, John",35
+MANHATTAN 07,President and Vice President of the United States,"McKinney, Cynthia",0
+MANHATTAN 07,President and Vice President of the United States,"NADER, RALPH",0
+MANHATTAN 07,President and Vice President of the United States,None Of These Candidates,0
+MANHATTAN 07,President and Vice President of the United States,"Obama, Barack",9
+MANHATTAN 07,"State Assembly, District 36","BABB, SCOTTY",7
+MANHATTAN 07,"State Assembly, District 36","GOEDHART, ED",38
+MANHATTAN 07,"State Senate, Rural Senatorial District","HANSEN, JANINE",14
+MANHATTAN 07,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",29
+MANHATTAN 07,"Supreme Court Justice, Seat B",None Of These Candidates,10
+MANHATTAN 07,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",30
+MANHATTAN 07,"Supreme Court Justice, Seat B","Schumacher, Deborah",6
+MANHATTAN 07,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",11
+MANHATTAN 07,"Supreme Court Justice, Seat D","Gibbons, Mark",15
+MANHATTAN 07,"Supreme Court Justice, Seat D",None Of These Candidates,19
+MANHATTAN 07,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+MANHATTAN 07,"U.S. Representative in Congress, District 2","DERBY, JILL",10
+MANHATTAN 07,"U.S. Representative in Congress, District 2","Everhart, John",2
+MANHATTAN 07,"U.S. Representative in Congress, District 2","HELLER, DEAN",33
+MANHATTAN 07,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
+MERCURY 08,County Commissioner District I,"MOBLEY, ROB",
+MERCURY 08,County Commissioner District I,"WICHMAN, LORINDA A.",
+MERCURY 08,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
+MERCURY 08,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
+MERCURY 08,President and Vice President of the United States,"Baldwin, Chuck",
+MERCURY 08,President and Vice President of the United States,"Barr, Bob",
+MERCURY 08,President and Vice President of the United States,"McCain, John",
+MERCURY 08,President and Vice President of the United States,"McKinney, Cynthia",
+MERCURY 08,President and Vice President of the United States,"NADER, RALPH",
+MERCURY 08,President and Vice President of the United States,None Of These Candidates,
+MERCURY 08,President and Vice President of the United States,"Obama, Barack",
+MERCURY 08,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",
+MERCURY 08,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",
+MERCURY 08,"State Assembly, District 36","BABB, SCOTTY",
+MERCURY 08,"State Assembly, District 36","GOEDHART, ED",
+MERCURY 08,"State Senate, Central Senatorial District","McGINNESS, MIKE",
+MERCURY 08,"Supreme Court Justice, Seat B",None Of These Candidates,
+MERCURY 08,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+MERCURY 08,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+MERCURY 08,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+MERCURY 08,"Supreme Court Justice, Seat D","Gibbons, Mark",
+MERCURY 08,"Supreme Court Justice, Seat D",None Of These Candidates,
+MERCURY 08,"U.S. Representative in Congress, District 2","Bergland, Craig",
+MERCURY 08,"U.S. Representative in Congress, District 2","DERBY, JILL",
+MERCURY 08,"U.S. Representative in Congress, District 2","Everhart, John",
+MERCURY 08,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+MERCURY 08,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+PAHRUMP 09,County Commissioner District III,"HOLLIS, GARY",555
+PAHRUMP 09,County Commissioner District III,"KULKIN, HARLEY ZANE",432
+PAHRUMP 09,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",545
+PAHRUMP 09,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",392
+PAHRUMP 09,Justice of the Peace PAHRUMP,"DEMEO, LINDA",307
+PAHRUMP 09,Justice of the Peace PAHRUMP,"JASPERSON, KENT",658
+PAHRUMP 09,PAHRUMP TOWN Board,"BROOKS, SEAN",353
+PAHRUMP 09,PAHRUMP TOWN Board,"DARBY, MIKE",458
+PAHRUMP 09,PAHRUMP TOWN Board,"PARKER, VICKY",428
+PAHRUMP 09,PAHRUMP TOWN Board,"RUST, DON",340
+PAHRUMP 09,President and Vice President of the United States,"Baldwin, Chuck",16
+PAHRUMP 09,President and Vice President of the United States,"Barr, Bob",9
+PAHRUMP 09,President and Vice President of the United States,"McCain, John",552
+PAHRUMP 11,Justice of the Peace PAHRUMP,"JASPERSON, KENT",352
+PAHRUMP 11,PAHRUMP TOWN Board,"BROOKS, SEAN",178
+PAHRUMP 11,PAHRUMP TOWN Board,"DARBY, MIKE",211
+PAHRUMP 11,PAHRUMP TOWN Board,"PARKER, VICKY",244
+PAHRUMP 11,PAHRUMP TOWN Board,"RUST, DON",196
+PAHRUMP 11,President and Vice President of the United States,"Baldwin, Chuck",7
+PAHRUMP 11,President and Vice President of the United States,"Barr, Bob",2
+PAHRUMP 11,President and Vice President of the United States,"McCain, John",271
+PAHRUMP 11,President and Vice President of the United States,"McKinney, Cynthia",1
+PAHRUMP 11,President and Vice President of the United States,"NADER, RALPH",5
+PAHRUMP 11,President and Vice President of the United States,None Of These Candidates,5
+PAHRUMP 11,President and Vice President of the United States,"Obama, Barack",261
+PAHRUMP 11,School Board Trustee Area VI,"OFELT, COURTLAND H.",201
+PAHRUMP 11,School Board Trustee Area VI,"TOKERUD, HAROLD",239
+PAHRUMP 11,"State Assembly, District 36","BABB, SCOTTY",216
+PAHRUMP 11,"State Assembly, District 36","GOEDHART, ED",307
+PAHRUMP 11,"State Senate, Central Senatorial District","McGINNESS, MIKE",383
+PAHRUMP 11,"Supreme Court Justice, Seat B",None Of These Candidates,130
+PAHRUMP 11,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",248
+PAHRUMP 11,"Supreme Court Justice, Seat B","Schumacher, Deborah",132
+PAHRUMP 11,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",158
+PAHRUMP 11,"Supreme Court Justice, Seat D","Gibbons, Mark",215
+PAHRUMP 11,"Supreme Court Justice, Seat D",None Of These Candidates,137
+PAHRUMP 11,"U.S. Representative in Congress, District 2","Bergland, Craig",8
+PAHRUMP 11,"U.S. Representative in Congress, District 2","DERBY, JILL",223
+PAHRUMP 11,"U.S. Representative in Congress, District 2","Everhart, John",31
+PAHRUMP 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",263
+PAHRUMP 11,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",8
+PAHRUMP 16,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",366
+PAHRUMP 16,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",231
+PAHRUMP 16,Justice of the Peace PAHRUMP,"DEMEO, LINDA",217
+PAHRUMP 16,Justice of the Peace PAHRUMP,"JASPERSON, KENT",398
+PAHRUMP 16,PAHRUMP TOWN Board,"BROOKS, SEAN",182
+PAHRUMP 16,PAHRUMP TOWN Board,"DARBY, MIKE",265
+PAHRUMP 16,PAHRUMP TOWN Board,"PARKER, VICKY",292
+PAHRUMP 16,PAHRUMP TOWN Board,"RUST, DON",267
+PAHRUMP 16,President and Vice President of the United States,"Baldwin, Chuck",4
+PAHRUMP 16,President and Vice President of the United States,"Barr, Bob",3
+PAHRUMP 16,President and Vice President of the United States,"McCain, John",346
+PAHRUMP 16,President and Vice President of the United States,"McKinney, Cynthia",0
+PAHRUMP 16,President and Vice President of the United States,"NADER, RALPH",11
+PAHRUMP 16,President and Vice President of the United States,None Of These Candidates,10
+PAHRUMP 16,President and Vice President of the United States,"Obama, Barack",293
+PAHRUMP 16,"State Assembly, District 36","BABB, SCOTTY",246
+PAHRUMP 16,"State Assembly, District 36","GOEDHART, ED",371
+PAHRUMP 16,"State Senate, Central Senatorial District","McGINNESS, MIKE",460
+PAHRUMP 16,"Supreme Court Justice, Seat B",None Of These Candidates,118
+PAHRUMP 16,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",294
+PAHRUMP 16,"Supreme Court Justice, Seat B","Schumacher, Deborah",186
+PAHRUMP 16,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",167
+PAHRUMP 16,"Supreme Court Justice, Seat D","Gibbons, Mark",291
+PAHRUMP 16,"Supreme Court Justice, Seat D",None Of These Candidates,136
+PAHRUMP 16,"U.S. Representative in Congress, District 2","Bergland, Craig",7
+PAHRUMP 16,"U.S. Representative in Congress, District 2","DERBY, JILL",243
+PAHRUMP 16,"U.S. Representative in Congress, District 2","Everhart, John",40
+PAHRUMP 16,"U.S. Representative in Congress, District 2","HELLER, DEAN",322
+PAHRUMP 16,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",12
+PAHRUMP 17,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",293
+PAHRUMP 17,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",264
+PAHRUMP 17,Justice of the Peace PAHRUMP,"DEMEO, LINDA",178
+PAHRUMP 17,Justice of the Peace PAHRUMP,"JASPERSON, KENT",400
+PAHRUMP 17,PAHRUMP TOWN Board,"BROOKS, SEAN",176
+PAHRUMP 17,PAHRUMP TOWN Board,"DARBY, MIKE",267
+PAHRUMP 17,PAHRUMP TOWN Board,"PARKER, VICKY",307
+PAHRUMP 17,PAHRUMP TOWN Board,"RUST, DON",205
+PAHRUMP 17,President and Vice President of the United States,"Baldwin, Chuck",2
+PAHRUMP 17,President and Vice President of the United States,"Barr, Bob",3
+PAHRUMP 17,President and Vice President of the United States,"McCain, John",316
+PAHRUMP 17,President and Vice President of the United States,"McKinney, Cynthia",0
+PAHRUMP 17,President and Vice President of the United States,"NADER, RALPH",5
+PAHRUMP 17,President and Vice President of the United States,None Of These Candidates,7
+PAHRUMP 17,President and Vice President of the United States,"Obama, Barack",281
+PAHRUMP 17,"State Assembly, District 36","BABB, SCOTTY",240
+PAHRUMP 17,"State Assembly, District 36","GOEDHART, ED",345
+PAHRUMP 17,"State Senate, Central Senatorial District","McGINNESS, MIKE",438
+PAHRUMP 17,"Supreme Court Justice, Seat B",None Of These Candidates,116
+PAHRUMP 17,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",292
+PAHRUMP 17,"Supreme Court Justice, Seat B","Schumacher, Deborah",156
+PAHRUMP 17,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",171
+PAHRUMP 17,"Supreme Court Justice, Seat D","Gibbons, Mark",234
+PAHRUMP 17,"Supreme Court Justice, Seat D",None Of These Candidates,156
+PAHRUMP 17,"U.S. Representative in Congress, District 2","Bergland, Craig",4
+PAHRUMP 17,"U.S. Representative in Congress, District 2","DERBY, JILL",236
+PAHRUMP 17,"U.S. Representative in Congress, District 2","Everhart, John",38
+PAHRUMP 17,"U.S. Representative in Congress, District 2","HELLER, DEAN",296
+PAHRUMP 17,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",15
+PAHRUMP 19,County Commissioner District I,"MOBLEY, ROB",555
+PAHRUMP 19,County Commissioner District I,"WICHMAN, LORINDA A.",499
+PAHRUMP 19,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",587
+PAHRUMP 19,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",487
+PAHRUMP 19,Justice of the Peace PAHRUMP,"DEMEO, LINDA",387
+PAHRUMP 19,Justice of the Peace PAHRUMP,"JASPERSON, KENT",737
+PAHRUMP 19,PAHRUMP TOWN Board,"BROOKS, SEAN",401
+PAHRUMP 19,PAHRUMP TOWN Board,"DARBY, MIKE",476
+PAHRUMP 19,PAHRUMP TOWN Board,"PARKER, VICKY",530
+PAHRUMP 19,PAHRUMP TOWN Board,"RUST, DON",451
+PAHRUMP 19,President and Vice President of the United States,"Baldwin, Chuck",14
+PAHRUMP 19,President and Vice President of the United States,"Barr, Bob",5
+PAHRUMP 19,President and Vice President of the United States,"McCain, John",686
+PAHRUMP 19,President and Vice President of the United States,"McKinney, Cynthia",5
+PAHRUMP 19,President and Vice President of the United States,"NADER, RALPH",8
+PAHRUMP 19,President and Vice President of the United States,None Of These Candidates,11
+PAHRUMP 19,President and Vice President of the United States,"Obama, Barack",494
+PAHRUMP 19,"State Assembly, District 36","BABB, SCOTTY",414
+PAHRUMP 19,"State Assembly, District 36","GOEDHART, ED",753
+PAHRUMP 19,"State Senate, Central Senatorial District","McGINNESS, MIKE",909
+PAHRUMP 19,"Supreme Court Justice, Seat B",None Of These Candidates,256
+PAHRUMP 19,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",532
+PAHRUMP 19,"Supreme Court Justice, Seat B","Schumacher, Deborah",349
+PAHRUMP 19,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",313
+PAHRUMP 19,"Supreme Court Justice, Seat D","Gibbons, Mark",488
+PAHRUMP 19,"Supreme Court Justice, Seat D",None Of These Candidates,320
+PAHRUMP 19,"U.S. Representative in Congress, District 2","Bergland, Craig",19
+PAHRUMP 19,"U.S. Representative in Congress, District 2","DERBY, JILL",417
+PAHRUMP 19,"U.S. Representative in Congress, District 2","Everhart, John",63
+PAHRUMP 19,"U.S. Representative in Congress, District 2","HELLER, DEAN",646
+PAHRUMP 19,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",27
+PAHRUMP 20,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",232
+PAHRUMP 20,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",146
+PAHRUMP 20,Justice of the Peace PAHRUMP,"DEMEO, LINDA",153
+PAHRUMP 20,Justice of the Peace PAHRUMP,"JASPERSON, KENT",237
+PAHRUMP 20,PAHRUMP TOWN Board,"BROOKS, SEAN",132
+PAHRUMP 20,PAHRUMP TOWN Board,"DARBY, MIKE",192
+PAHRUMP 20,PAHRUMP TOWN Board,"PARKER, VICKY",171
+PAHRUMP 20,PAHRUMP TOWN Board,"RUST, DON",146
+PAHRUMP 20,President and Vice President of the United States,"Baldwin, Chuck",6
+PAHRUMP 20,President and Vice President of the United States,"Barr, Bob",0
+PAHRUMP 20,President and Vice President of the United States,"McCain, John",251
+PAHRUMP 20,President and Vice President of the United States,"McKinney, Cynthia",0
+PAHRUMP 20,President and Vice President of the United States,"NADER, RALPH",4
+PAHRUMP 20,President and Vice President of the United States,None Of These Candidates,5
+PAHRUMP 20,President and Vice President of the United States,"Obama, Barack",157
+PAHRUMP 20,"State Assembly, District 36","BABB, SCOTTY",150
+PAHRUMP 20,"State Assembly, District 36","GOEDHART, ED",249
+PAHRUMP 20,"State Senate, Central Senatorial District","McGINNESS, MIKE",309
+PAHRUMP 20,"Supreme Court Justice, Seat B",None Of These Candidates,90
+PAHRUMP 20,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",187
+PAHRUMP 20,"Supreme Court Justice, Seat B","Schumacher, Deborah",112
+PAHRUMP 20,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",111
+PAHRUMP 20,"Supreme Court Justice, Seat D","Gibbons, Mark",169
+PAHRUMP 20,"Supreme Court Justice, Seat D",None Of These Candidates,111
+PAHRUMP 20,"U.S. Representative in Congress, District 2","Bergland, Craig",3
+PAHRUMP 20,"U.S. Representative in Congress, District 2","DERBY, JILL",143
+PAHRUMP 20,"U.S. Representative in Congress, District 2","Everhart, John",30
+PAHRUMP 20,"U.S. Representative in Congress, District 2","HELLER, DEAN",219
+PAHRUMP 20,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",8
+PAHRUMP 21,County Commissioner District III,"HOLLIS, GARY",523
+PAHRUMP 21,County Commissioner District III,"KULKIN, HARLEY ZANE",481
+PAHRUMP 21,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",556
+PAHRUMP 21,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",400
+PAHRUMP 21,Justice of the Peace PAHRUMP,"DEMEO, LINDA",311
+PAHRUMP 21,Justice of the Peace PAHRUMP,"JASPERSON, KENT",675
+PAHRUMP 21,PAHRUMP TOWN Board,"BROOKS, SEAN",316
+PAHRUMP 21,PAHRUMP TOWN Board,"DARBY, MIKE",508
+PAHRUMP 21,PAHRUMP TOWN Board,"PARKER, VICKY",443
+PAHRUMP 21,PAHRUMP TOWN Board,"RUST, DON",378
+PAHRUMP 21,President and Vice President of the United States,"Baldwin, Chuck",9
+PAHRUMP 21,President and Vice President of the United States,"Barr, Bob",3
+PAHRUMP 21,President and Vice President of the United States,"McCain, John",518
+PAHRUMP 21,President and Vice President of the United States,"McKinney, Cynthia",5
+PAHRUMP 21,President and Vice President of the United States,"NADER, RALPH",9
+PAHRUMP 21,President and Vice President of the United States,None Of These Candidates,11
+PAHRUMP 21,President and Vice President of the United States,"Obama, Barack",497
+PAHRUMP 21,"State Assembly, District 36","BABB, SCOTTY",438
+PAHRUMP 21,"State Assembly, District 36","GOEDHART, ED",565
+PAHRUMP 21,"State Senate, Central Senatorial District","McGINNESS, MIKE",748
+PAHRUMP 21,"Supreme Court Justice, Seat B",None Of These Candidates,214
+PAHRUMP 21,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",459
+PAHRUMP 21,"Supreme Court Justice, Seat B","Schumacher, Deborah",312
+PAHRUMP 21,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",287
+PAHRUMP 21,"Supreme Court Justice, Seat D","Gibbons, Mark",449
+PAHRUMP 21,"Supreme Court Justice, Seat D",None Of These Candidates,243
+PAHRUMP 21,"U.S. Representative in Congress, District 2","Bergland, Craig",18
+PAHRUMP 21,"U.S. Representative in Congress, District 2","DERBY, JILL",426
+PAHRUMP 21,"U.S. Representative in Congress, District 2","Everhart, John",59
+PAHRUMP 21,"U.S. Representative in Congress, District 2","HELLER, DEAN",465
+PAHRUMP 21,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",30
+PAHRUMP 22,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",295
+PAHRUMP 22,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",251
+PAHRUMP 22,Justice of the Peace PAHRUMP,"DEMEO, LINDA",211
+PAHRUMP 22,Justice of the Peace PAHRUMP,"JASPERSON, KENT",356
+PAHRUMP 22,PAHRUMP TOWN Board,"BROOKS, SEAN",169
+PAHRUMP 22,PAHRUMP TOWN Board,"DARBY, MIKE",259
+PAHRUMP 22,PAHRUMP TOWN Board,"PARKER, VICKY",262
+PAHRUMP 22,PAHRUMP TOWN Board,"RUST, DON",222
+PAHRUMP 22,President and Vice President of the United States,"Baldwin, Chuck",2
+PAHRUMP 22,President and Vice President of the United States,"Barr, Bob",2
+PAHRUMP 22,President and Vice President of the United States,"McCain, John",301
+PAHRUMP 22,President and Vice President of the United States,"McKinney, Cynthia",0
+PAHRUMP 22,President and Vice President of the United States,"NADER, RALPH",4
+PAHRUMP 22,President and Vice President of the United States,None Of These Candidates,6
+PAHRUMP 22,President and Vice President of the United States,"Obama, Barack",274
+PAHRUMP 22,"State Assembly, District 36","BABB, SCOTTY",224
+PAHRUMP 22,"State Assembly, District 36","GOEDHART, ED",341
+PAHRUMP 22,"State Senate, Central Senatorial District","McGINNESS, MIKE",438
+PAHRUMP 22,"Supreme Court Justice, Seat B",None Of These Candidates,97
+PAHRUMP 22,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",309
+PAHRUMP 22,"Supreme Court Justice, Seat B","Schumacher, Deborah",146
+PAHRUMP 22,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",167
+PAHRUMP 22,"Supreme Court Justice, Seat D","Gibbons, Mark",259
+PAHRUMP 22,"Supreme Court Justice, Seat D",None Of These Candidates,118
+PAHRUMP 22,"U.S. Representative in Congress, District 2","Bergland, Craig",5
+PAHRUMP 22,"U.S. Representative in Congress, District 2","DERBY, JILL",234
+PAHRUMP 22,"U.S. Representative in Congress, District 2","Everhart, John",32
+PAHRUMP 22,"U.S. Representative in Congress, District 2","HELLER, DEAN",292
+PAHRUMP 22,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
+PAHRUMP 23,County Commissioner District I,"MOBLEY, ROB",173
+PAHRUMP 23,County Commissioner District I,"WICHMAN, LORINDA A.",136
+PAHRUMP 23,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",200
+PAHRUMP 23,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",125
+PAHRUMP 23,Justice of the Peace PAHRUMP,"DEMEO, LINDA",111
+PAHRUMP 23,Justice of the Peace PAHRUMP,"JASPERSON, KENT",222
+PAHRUMP 23,PAHRUMP TOWN Board,"BROOKS, SEAN",132
+PAHRUMP 23,PAHRUMP TOWN Board,"DARBY, MIKE",171
+PAHRUMP 23,PAHRUMP TOWN Board,"PARKER, VICKY",136
+PAHRUMP 23,PAHRUMP TOWN Board,"RUST, DON",113
+PAHRUMP 23,President and Vice President of the United States,"Baldwin, Chuck",3
+PAHRUMP 23,President and Vice President of the United States,"Barr, Bob",3
+PAHRUMP 23,President and Vice President of the United States,"McCain, John",178
+PAHRUMP 23,President and Vice President of the United States,"McKinney, Cynthia",0
+PAHRUMP 23,President and Vice President of the United States,"NADER, RALPH",0
+PAHRUMP 23,President and Vice President of the United States,None Of These Candidates,6
+PAHRUMP 23,President and Vice President of the United States,"Obama, Barack",172
+PAHRUMP 23,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",150
+PAHRUMP 23,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",155
+PAHRUMP 23,"State Assembly, District 36","BABB, SCOTTY",149
+PAHRUMP 23,"State Assembly, District 36","GOEDHART, ED",201
+PAHRUMP 23,"State Senate, Central Senatorial District","McGINNESS, MIKE",262
+PAHRUMP 23,"Supreme Court Justice, Seat B",None Of These Candidates,81
+PAHRUMP 23,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",171
+PAHRUMP 23,"Supreme Court Justice, Seat B","Schumacher, Deborah",89
+PAHRUMP 23,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",110
+PAHRUMP 23,"Supreme Court Justice, Seat D","Gibbons, Mark",138
+PAHRUMP 23,"Supreme Court Justice, Seat D",None Of These Candidates,86
+PAHRUMP 23,"U.S. Representative in Congress, District 2","Bergland, Craig",6
+PAHRUMP 23,"U.S. Representative in Congress, District 2","DERBY, JILL",157
+PAHRUMP 23,"U.S. Representative in Congress, District 2","Everhart, John",20
+PAHRUMP 23,"U.S. Representative in Congress, District 2","HELLER, DEAN",160
+PAHRUMP 23,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",6
+PAHRUMP 24,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",338
+PAHRUMP 24,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",296
+PAHRUMP 24,Justice of the Peace PAHRUMP,"DEMEO, LINDA",251
+PAHRUMP 24,Justice of the Peace PAHRUMP,"JASPERSON, KENT",412
+PAHRUMP 24,PAHRUMP TOWN Board,"BROOKS, SEAN",201
+PAHRUMP 24,PAHRUMP TOWN Board,"DARBY, MIKE",316
+PAHRUMP 24,PAHRUMP TOWN Board,"PARKER, VICKY",328
+PAHRUMP 24,PAHRUMP TOWN Board,"RUST, DON",227
+PAHRUMP 24,President and Vice President of the United States,"Baldwin, Chuck",8
+PAHRUMP 24,President and Vice President of the United States,"Barr, Bob",3
+PAHRUMP 24,President and Vice President of the United States,"McCain, John",345
+PAHRUMP 24,President and Vice President of the United States,"McKinney, Cynthia",3
+PAHRUMP 24,President and Vice President of the United States,"NADER, RALPH",10
+PAHRUMP 24,President and Vice President of the United States,None Of These Candidates,12
+PAHRUMP 24,President and Vice President of the United States,"Obama, Barack",324
+PAHRUMP 24,"State Assembly, District 36","BABB, SCOTTY",261
+PAHRUMP 24,"State Assembly, District 36","GOEDHART, ED",400
+PAHRUMP 24,"State Senate, Central Senatorial District","McGINNESS, MIKE",492
+PAHRUMP 24,"Supreme Court Justice, Seat B",None Of These Candidates,162
+PAHRUMP 24,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",292
+PAHRUMP 24,"Supreme Court Justice, Seat B","Schumacher, Deborah",203
+PAHRUMP 24,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",216
+PAHRUMP 24,"Supreme Court Justice, Seat D","Gibbons, Mark",259
+PAHRUMP 24,"Supreme Court Justice, Seat D",None Of These Candidates,168
+PAHRUMP 24,"U.S. Representative in Congress, District 2","Bergland, Craig",10
+PAHRUMP 24,"U.S. Representative in Congress, District 2","DERBY, JILL",251
+PAHRUMP 24,"U.S. Representative in Congress, District 2","Everhart, John",47
+PAHRUMP 24,"U.S. Representative in Congress, District 2","HELLER, DEAN",334
+PAHRUMP 24,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",17
+PAHRUMP 25,County Commissioner District III,"HOLLIS, GARY",424
+PAHRUMP 25,County Commissioner District III,"KULKIN, HARLEY ZANE",333
+PAHRUMP 25,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",413
+PAHRUMP 25,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",314
+PAHRUMP 25,Justice of the Peace PAHRUMP,"DEMEO, LINDA",235
+PAHRUMP 25,Justice of the Peace PAHRUMP,"JASPERSON, KENT",517
+PAHRUMP 25,PAHRUMP TOWN Board,"BROOKS, SEAN",250
+PAHRUMP 25,PAHRUMP TOWN Board,"DARBY, MIKE",351
+PAHRUMP 25,PAHRUMP TOWN Board,"PARKER, VICKY",348
+PAHRUMP 25,PAHRUMP TOWN Board,"RUST, DON",280
+PAHRUMP 25,President and Vice President of the United States,"Baldwin, Chuck",4
+PAHRUMP 25,President and Vice President of the United States,"Barr, Bob",5
+PAHRUMP 25,President and Vice President of the United States,"McCain, John",423
+PAHRUMP 25,President and Vice President of the United States,"McKinney, Cynthia",2
+PAHRUMP 25,President and Vice President of the United States,"NADER, RALPH",8
+PAHRUMP 25,President and Vice President of the United States,None Of These Candidates,14
+PAHRUMP 25,President and Vice President of the United States,"Obama, Barack",351
+PAHRUMP 25,"State Assembly, District 36","BABB, SCOTTY",295
+PAHRUMP 25,"State Assembly, District 36","GOEDHART, ED",468
+PAHRUMP 25,"State Senate, Central Senatorial District","McGINNESS, MIKE",589
+PAHRUMP 25,"Supreme Court Justice, Seat B",None Of These Candidates,176
+PAHRUMP 25,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",375
+PAHRUMP 25,"Supreme Court Justice, Seat B","Schumacher, Deborah",198
+PAHRUMP 25,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",245
+PAHRUMP 25,"Supreme Court Justice, Seat D","Gibbons, Mark",316
+PAHRUMP 25,"Supreme Court Justice, Seat D",None Of These Candidates,183
+PAHRUMP 25,"U.S. Representative in Congress, District 2","Bergland, Craig",5
+PAHRUMP 25,"U.S. Representative in Congress, District 2","DERBY, JILL",309
+PAHRUMP 25,"U.S. Representative in Congress, District 2","Everhart, John",43
+PAHRUMP 25,"U.S. Representative in Congress, District 2","HELLER, DEAN",387
+PAHRUMP 25,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",19
+PAHRUMP 26,County Commissioner District II,"EASTLEY, JONI",412
+PAHRUMP 26,County Commissioner District II,"PETELL, JIM",228
+PAHRUMP 26,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",426
+PAHRUMP 26,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",255
+PAHRUMP 26,Justice of the Peace PAHRUMP,"DEMEO, LINDA",242
+PAHRUMP 26,Justice of the Peace PAHRUMP,"JASPERSON, KENT",458
+PAHRUMP 26,PAHRUMP TOWN Board,"BROOKS, SEAN",245
+PAHRUMP 26,PAHRUMP TOWN Board,"DARBY, MIKE",358
+PAHRUMP 26,PAHRUMP TOWN Board,"PARKER, VICKY",320
+PAHRUMP 26,PAHRUMP TOWN Board,"RUST, DON",246
+PAHRUMP 26,President and Vice President of the United States,"Baldwin, Chuck",8
+PAHRUMP 26,President and Vice President of the United States,"Barr, Bob",7
+PAHRUMP 26,President and Vice President of the United States,"McCain, John",376
+PAHRUMP 26,President and Vice President of the United States,"McKinney, Cynthia",4
+PAHRUMP 26,President and Vice President of the United States,"NADER, RALPH",6
+PAHRUMP 26,President and Vice President of the United States,None Of These Candidates,5
+PAHRUMP 26,President and Vice President of the United States,"Obama, Barack",328
+PAHRUMP 26,"State Assembly, District 36","BABB, SCOTTY",277
+PAHRUMP 26,"State Assembly, District 36","GOEDHART, ED",427
+PAHRUMP 26,"State Senate, Central Senatorial District","McGINNESS, MIKE",555
+PAHRUMP 26,"Supreme Court Justice, Seat B",None Of These Candidates,149
+PAHRUMP 26,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",316
+PAHRUMP 26,"Supreme Court Justice, Seat B","Schumacher, Deborah",229
+PAHRUMP 26,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",221
+PAHRUMP 26,"Supreme Court Justice, Seat D","Gibbons, Mark",299
+PAHRUMP 26,"Supreme Court Justice, Seat D",None Of These Candidates,176
+PAHRUMP 26,"U.S. Representative in Congress, District 2","Bergland, Craig",14
+PAHRUMP 26,"U.S. Representative in Congress, District 2","DERBY, JILL",271
+PAHRUMP 26,"U.S. Representative in Congress, District 2","Everhart, John",58
+PAHRUMP 26,"U.S. Representative in Congress, District 2","HELLER, DEAN",353
+PAHRUMP 26,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",14
+PAHRUMP 27,County Commissioner District III,"HOLLIS, GARY",374
+PAHRUMP 27,County Commissioner District III,"KULKIN, HARLEY ZANE",313
+PAHRUMP 27,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",403
+PAHRUMP 27,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",258
+PAHRUMP 27,Justice of the Peace PAHRUMP,"DEMEO, LINDA",207
+PAHRUMP 27,Justice of the Peace PAHRUMP,"JASPERSON, KENT",480
+PAHRUMP 27,PAHRUMP TOWN Board,"BROOKS, SEAN",216
+PAHRUMP 27,PAHRUMP TOWN Board,"DARBY, MIKE",374
+PAHRUMP 27,PAHRUMP TOWN Board,"PARKER, VICKY",274
+PAHRUMP 27,PAHRUMP TOWN Board,"RUST, DON",224
+PAHRUMP 27,President and Vice President of the United States,"Baldwin, Chuck",16
+PAHRUMP 27,President and Vice President of the United States,"Barr, Bob",6
+PAHRUMP 27,President and Vice President of the United States,"McCain, John",356
+PAHRUMP 27,President and Vice President of the United States,"McKinney, Cynthia",2
+PAHRUMP 27,President and Vice President of the United States,"NADER, RALPH",7
+PAHRUMP 27,President and Vice President of the United States,None Of These Candidates,17
+PAHRUMP 27,President and Vice President of the United States,"Obama, Barack",314
+PAHRUMP 27,"State Assembly, District 36","BABB, SCOTTY",273
+PAHRUMP 27,"State Assembly, District 36","GOEDHART, ED",409
+PAHRUMP 27,"State Senate, Central Senatorial District","McGINNESS, MIKE",514
+PAHRUMP 27,"Supreme Court Justice, Seat B",None Of These Candidates,133
+PAHRUMP 27,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",371
+PAHRUMP 27,"Supreme Court Justice, Seat B","Schumacher, Deborah",172
+PAHRUMP 27,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",205
+PAHRUMP 27,"Supreme Court Justice, Seat D","Gibbons, Mark",303
+PAHRUMP 27,"Supreme Court Justice, Seat D",None Of These Candidates,163
+PAHRUMP 27,"U.S. Representative in Congress, District 2","Bergland, Craig",9
+PAHRUMP 27,"U.S. Representative in Congress, District 2","DERBY, JILL",269
+PAHRUMP 27,"U.S. Representative in Congress, District 2","Everhart, John",39
+PAHRUMP 27,"U.S. Representative in Congress, District 2","HELLER, DEAN",349
+PAHRUMP 27,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",17
+PAHRUMP 28,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",465
+PAHRUMP 28,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",479
+PAHRUMP 28,Justice of the Peace PAHRUMP,"DEMEO, LINDA",331
+PAHRUMP 28,Justice of the Peace PAHRUMP,"JASPERSON, KENT",637
+PAHRUMP 28,PAHRUMP TOWN Board,"BROOKS, SEAN",327
+PAHRUMP 28,PAHRUMP TOWN Board,"DARBY, MIKE",457
+PAHRUMP 28,PAHRUMP TOWN Board,"PARKER, VICKY",446
+PAHRUMP 28,PAHRUMP TOWN Board,"RUST, DON",364
+PAHRUMP 28,President and Vice President of the United States,"Baldwin, Chuck",5
+PAHRUMP 28,President and Vice President of the United States,"Barr, Bob",7
+PAHRUMP 28,President and Vice President of the United States,"McCain, John",553
+PAHRUMP 28,President and Vice President of the United States,"McKinney, Cynthia",1
+PAHRUMP 28,President and Vice President of the United States,"NADER, RALPH",3
+PAHRUMP 28,President and Vice President of the United States,None Of These Candidates,17
+PAHRUMP 28,President and Vice President of the United States,"Obama, Barack",436
+PAHRUMP 28,School Board Trustee Area VI,"OFELT, COURTLAND H.",320
+PAHRUMP 28,School Board Trustee Area VI,"TOKERUD, HAROLD",519
+PAHRUMP 28,"State Assembly, District 36","BABB, SCOTTY",352
+PAHRUMP 28,"State Assembly, District 36","GOEDHART, ED",616
+PAHRUMP 28,"State Senate, Central Senatorial District","McGINNESS, MIKE",756
+PAHRUMP 28,"Supreme Court Justice, Seat B",None Of These Candidates,161
+PAHRUMP 28,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",502
+PAHRUMP 28,"Supreme Court Justice, Seat B","Schumacher, Deborah",289
+PAHRUMP 28,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",274
+PAHRUMP 28,"Supreme Court Justice, Seat D","Gibbons, Mark",462
+PAHRUMP 28,"Supreme Court Justice, Seat D",None Of These Candidates,210
+PAHRUMP 28,"U.S. Representative in Congress, District 2","Bergland, Craig",9
+PAHRUMP 28,"U.S. Representative in Congress, District 2","DERBY, JILL",358
+PAHRUMP 28,"U.S. Representative in Congress, District 2","Everhart, John",60
+PAHRUMP 28,"U.S. Representative in Congress, District 2","HELLER, DEAN",526
+PAHRUMP 28,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",19
+PAHRUMP 29,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",460
+PAHRUMP 29,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",373
+PAHRUMP 29,Justice of the Peace PAHRUMP,"DEMEO, LINDA",367
+PAHRUMP 29,Justice of the Peace PAHRUMP,"JASPERSON, KENT",493
+PAHRUMP 29,PAHRUMP TOWN Board,"BROOKS, SEAN",262
+PAHRUMP 29,PAHRUMP TOWN Board,"DARBY, MIKE",393
+PAHRUMP 29,PAHRUMP TOWN Board,"PARKER, VICKY",389
+PAHRUMP 29,PAHRUMP TOWN Board,"RUST, DON",310
+PAHRUMP 29,President and Vice President of the United States,"Baldwin, Chuck",12
+PAHRUMP 29,President and Vice President of the United States,"Barr, Bob",8
+PAHRUMP 29,President and Vice President of the United States,"McCain, John",503
+PAHRUMP 29,President and Vice President of the United States,"McKinney, Cynthia",2
+PAHRUMP 29,President and Vice President of the United States,"NADER, RALPH",10
+PAHRUMP 29,President and Vice President of the United States,None Of These Candidates,7
+PAHRUMP 29,President and Vice President of the United States,"Obama, Barack",401
+PAHRUMP 29,"State Assembly, District 36","BABB, SCOTTY",351
+PAHRUMP 29,"State Assembly, District 36","GOEDHART, ED",523
+PAHRUMP 29,"State Senate, Central Senatorial District","McGINNESS, MIKE",666
+PAHRUMP 29,"Supreme Court Justice, Seat B",None Of These Candidates,194
+PAHRUMP 29,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",408
+PAHRUMP 29,"Supreme Court Justice, Seat B","Schumacher, Deborah",256
+PAHRUMP 29,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",247
+PAHRUMP 29,"Supreme Court Justice, Seat D","Gibbons, Mark",385
+PAHRUMP 29,"Supreme Court Justice, Seat D",None Of These Candidates,227
+PAHRUMP 29,"U.S. Representative in Congress, District 2","Bergland, Craig",14
+PAHRUMP 29,"U.S. Representative in Congress, District 2","DERBY, JILL",351
+PAHRUMP 29,"U.S. Representative in Congress, District 2","Everhart, John",46
+PAHRUMP 29,"U.S. Representative in Congress, District 2","HELLER, DEAN",441
+PAHRUMP 29,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",25
+PAHRUMP 30,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",435
+PAHRUMP 30,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",362
+PAHRUMP 30,Justice of the Peace PAHRUMP,"DEMEO, LINDA",262
+PAHRUMP 30,Justice of the Peace PAHRUMP,"JASPERSON, KENT",555
+PAHRUMP 30,PAHRUMP TOWN Board,"BROOKS, SEAN",265
+PAHRUMP 30,PAHRUMP TOWN Board,"DARBY, MIKE",375
+PAHRUMP 30,PAHRUMP TOWN Board,"PARKER, VICKY",392
+PAHRUMP 30,PAHRUMP TOWN Board,"RUST, DON",307
+PAHRUMP 30,President and Vice President of the United States,"Baldwin, Chuck",11
+PAHRUMP 30,President and Vice President of the United States,"Barr, Bob",7
+PAHRUMP 30,President and Vice President of the United States,"McCain, John",504
+PAHRUMP 30,President and Vice President of the United States,"McKinney, Cynthia",3
+PAHRUMP 30,President and Vice President of the United States,"NADER, RALPH",1
+PAHRUMP 30,President and Vice President of the United States,None Of These Candidates,6
+PAHRUMP 30,President and Vice President of the United States,"Obama, Barack",341
+PAHRUMP 30,School Board Trustee Area VI,"OFELT, COURTLAND H.",278
+PAHRUMP 30,School Board Trustee Area VI,"TOKERUD, HAROLD",423
+PAHRUMP 30,"State Assembly, District 36","BABB, SCOTTY",283
+PAHRUMP 30,"State Assembly, District 36","GOEDHART, ED",542
+PAHRUMP 30,"State Senate, Central Senatorial District","McGINNESS, MIKE",649
+PAHRUMP 30,"Supreme Court Justice, Seat B",None Of These Candidates,173
+PAHRUMP 30,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",403
+PAHRUMP 30,"Supreme Court Justice, Seat B","Schumacher, Deborah",238
+PAHRUMP 30,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",224
+PAHRUMP 30,"Supreme Court Justice, Seat D","Gibbons, Mark",401
+PAHRUMP 30,"Supreme Court Justice, Seat D",None Of These Candidates,182
+PAHRUMP 30,"U.S. Representative in Congress, District 2","Bergland, Craig",12
+PAHRUMP 30,"U.S. Representative in Congress, District 2","DERBY, JILL",298
+PAHRUMP 30,"U.S. Representative in Congress, District 2","Everhart, John",44
+PAHRUMP 30,"U.S. Representative in Congress, District 2","HELLER, DEAN",450
+PAHRUMP 30,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",27
+PAHRUMP 31,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",348
+PAHRUMP 31,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",311
+PAHRUMP 31,Justice of the Peace PAHRUMP,"DEMEO, LINDA",252
+PAHRUMP 31,Justice of the Peace PAHRUMP,"JASPERSON, KENT",447
+PAHRUMP 31,PAHRUMP TOWN Board,"BROOKS, SEAN",206
+PAHRUMP 31,PAHRUMP TOWN Board,"DARBY, MIKE",309
+PAHRUMP 31,PAHRUMP TOWN Board,"PARKER, VICKY",305
+PAHRUMP 31,PAHRUMP TOWN Board,"RUST, DON",275
+PAHRUMP 31,President and Vice President of the United States,"Baldwin, Chuck",4
+PAHRUMP 31,President and Vice President of the United States,"Barr, Bob",3
+PAHRUMP 31,President and Vice President of the United States,"McCain, John",431
+PAHRUMP 31,President and Vice President of the United States,"McKinney, Cynthia",2
+PAHRUMP 31,President and Vice President of the United States,"NADER, RALPH",9
+PAHRUMP 31,President and Vice President of the United States,None Of These Candidates,6
+PAHRUMP 31,President and Vice President of the United States,"Obama, Barack",275
+PAHRUMP 31,"State Assembly, District 36","BABB, SCOTTY",243
+PAHRUMP 31,"State Assembly, District 36","GOEDHART, ED",454
+PAHRUMP 31,"State Senate, Central Senatorial District","McGINNESS, MIKE",537
+PAHRUMP 31,"Supreme Court Justice, Seat B",None Of These Candidates,146
+PAHRUMP 31,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",357
+PAHRUMP 31,"Supreme Court Justice, Seat B","Schumacher, Deborah",186
+PAHRUMP 31,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",204
+PAHRUMP 31,"Supreme Court Justice, Seat D","Gibbons, Mark",290
+PAHRUMP 31,"Supreme Court Justice, Seat D",None Of These Candidates,181
+PAHRUMP 31,"U.S. Representative in Congress, District 2","Bergland, Craig",12
+PAHRUMP 31,"U.S. Representative in Congress, District 2","DERBY, JILL",247
+PAHRUMP 31,"U.S. Representative in Congress, District 2","Everhart, John",32
+PAHRUMP 31,"U.S. Representative in Congress, District 2","HELLER, DEAN",393
+PAHRUMP 31,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",15
+PAHRUMP 32,County Commissioner District I,"MOBLEY, ROB",511
+PAHRUMP 32,County Commissioner District I,"WICHMAN, LORINDA A.",480
+PAHRUMP 32,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",639
+PAHRUMP 32,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",424
+PAHRUMP 32,Justice of the Peace PAHRUMP,"DEMEO, LINDA",388
+PAHRUMP 32,Justice of the Peace PAHRUMP,"JASPERSON, KENT",704
+PAHRUMP 32,PAHRUMP TOWN Board,"BROOKS, SEAN",418
+PAHRUMP 32,PAHRUMP TOWN Board,"DARBY, MIKE",524
+PAHRUMP 32,PAHRUMP TOWN Board,"PARKER, VICKY",485
+PAHRUMP 32,PAHRUMP TOWN Board,"RUST, DON",396
+PAHRUMP 32,President and Vice President of the United States,"Baldwin, Chuck",15
+PAHRUMP 32,President and Vice President of the United States,"Barr, Bob",16
+PAHRUMP 32,President and Vice President of the United States,"McCain, John",598
+PAHRUMP 32,President and Vice President of the United States,"McKinney, Cynthia",5
+PAHRUMP 32,President and Vice President of the United States,"NADER, RALPH",10
+PAHRUMP 32,President and Vice President of the United States,None Of These Candidates,16
+PAHRUMP 32,President and Vice President of the United States,"Obama, Barack",505
+PAHRUMP 32,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",506
+PAHRUMP 32,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",484
+PAHRUMP 32,"State Assembly, District 36","BABB, SCOTTY",455
+PAHRUMP 32,"State Assembly, District 36","GOEDHART, ED",647
+PAHRUMP 32,"State Senate, Central Senatorial District","McGINNESS, MIKE",835
+PAHRUMP 32,"Supreme Court Justice, Seat B",None Of These Candidates,230
+PAHRUMP 32,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",520
+PAHRUMP 32,"Supreme Court Justice, Seat B","Schumacher, Deborah",343
+PAHRUMP 32,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",354
+PAHRUMP 32,"Supreme Court Justice, Seat D","Gibbons, Mark",463
+PAHRUMP 32,"Supreme Court Justice, Seat D",None Of These Candidates,275
+PAHRUMP 32,"U.S. Representative in Congress, District 2","Bergland, Craig",19
+PAHRUMP 32,"U.S. Representative in Congress, District 2","DERBY, JILL",460
+PAHRUMP 32,"U.S. Representative in Congress, District 2","Everhart, John",61
+PAHRUMP 32,"U.S. Representative in Congress, District 2","HELLER, DEAN",532
+PAHRUMP 32,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",22
+Precinct 88,President and Vice President of the United States,"Baldwin, Chuck",0
+Precinct 88,President and Vice President of the United States,"Barr, Bob",0
+Precinct 88,President and Vice President of the United States,"McCain, John",109
+Precinct 88,President and Vice President of the United States,"McKinney, Cynthia",0
+Precinct 88,President and Vice President of the United States,"NADER, RALPH",1
+Precinct 88,President and Vice President of the United States,None Of These Candidates,0
+Precinct 88,President and Vice President of the United States,"Obama, Barack",72
+Precinct 99,President and Vice President of the United States,"Baldwin, Chuck",
+Precinct 99,President and Vice President of the United States,"Barr, Bob",
+Precinct 99,President and Vice President of the United States,"McCain, John",
+Precinct 99,President and Vice President of the United States,"McKinney, Cynthia",
+Precinct 99,President and Vice President of the United States,"NADER, RALPH",
+Precinct 99,President and Vice President of the United States,None Of These Candidates,
+Precinct 99,President and Vice President of the United States,"Obama, Barack",
+Precinct 99,"U.S. Representative in Congress, District 2","Bergland, Craig",0
+Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+Precinct 99,"U.S. Representative in Congress, District 2","Everhart, John",0
+Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+Precinct 99,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
+ROUND MTN 12,County Commissioner District I,"MOBLEY, ROB",33
+ROUND MTN 12,County Commissioner District I,"WICHMAN, LORINDA A.",260
+ROUND MTN 12,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",227
+ROUND MTN 12,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",54
+ROUND MTN 12,President and Vice President of the United States,"Baldwin, Chuck",1
+ROUND MTN 12,President and Vice President of the United States,"Barr, Bob",2
+ROUND MTN 12,President and Vice President of the United States,"McCain, John",225
+ROUND MTN 12,President and Vice President of the United States,"McKinney, Cynthia",0
+ROUND MTN 12,President and Vice President of the United States,"NADER, RALPH",2
+ROUND MTN 12,President and Vice President of the United States,None Of These Candidates,3
+ROUND MTN 12,President and Vice President of the United States,"Obama, Barack",72
+ROUND MTN 12,"State Assembly, District 36","BABB, SCOTTY",58
+ROUND MTN 12,"State Assembly, District 36","GOEDHART, ED",234
+ROUND MTN 12,"State Senate, Rural Senatorial District","HANSEN, JANINE",93
+ROUND MTN 12,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",196
+ROUND MTN 12,"Supreme Court Justice, Seat B",None Of These Candidates,53
+ROUND MTN 12,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",153
+ROUND MTN 12,"Supreme Court Justice, Seat B","Schumacher, Deborah",84
+ROUND MTN 12,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",67
+ROUND MTN 12,"Supreme Court Justice, Seat D","Gibbons, Mark",154
+ROUND MTN 12,"Supreme Court Justice, Seat D",None Of These Candidates,64
+ROUND MTN 12,"U.S. Representative in Congress, District 2","Bergland, Craig",4
+ROUND MTN 12,"U.S. Representative in Congress, District 2","DERBY, JILL",54
+ROUND MTN 12,"U.S. Representative in Congress, District 2","Everhart, John",22
+ROUND MTN 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",209
+ROUND MTN 12,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
+SMOKY VALLEY 35,County Commissioner District I,"MOBLEY, ROB",35
+SMOKY VALLEY 35,County Commissioner District I,"WICHMAN, LORINDA A.",200
+SMOKY VALLEY 35,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",193
+SMOKY VALLEY 35,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",33
+SMOKY VALLEY 35,President and Vice President of the United States,"Baldwin, Chuck",0
+SMOKY VALLEY 35,President and Vice President of the United States,"Barr, Bob",1
+SMOKY VALLEY 35,President and Vice President of the United States,"McCain, John",200
+SMOKY VALLEY 35,President and Vice President of the United States,"McKinney, Cynthia",0
+SMOKY VALLEY 35,President and Vice President of the United States,"NADER, RALPH",2
+SMOKY VALLEY 35,President and Vice President of the United States,None Of These Candidates,3
+SMOKY VALLEY 35,President and Vice President of the United States,"Obama, Barack",34
+SMOKY VALLEY 35,"State Assembly, District 36","BABB, SCOTTY",40
+SMOKY VALLEY 35,"State Assembly, District 36","GOEDHART, ED",189
+SMOKY VALLEY 35,"State Senate, Rural Senatorial District","HANSEN, JANINE",45
+SMOKY VALLEY 35,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",180
+SMOKY VALLEY 35,"Supreme Court Justice, Seat B",None Of These Candidates,41
+SMOKY VALLEY 35,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",140
+SMOKY VALLEY 35,"Supreme Court Justice, Seat B","Schumacher, Deborah",47
+SMOKY VALLEY 35,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",48
+SMOKY VALLEY 35,"Supreme Court Justice, Seat D","Gibbons, Mark",123
+SMOKY VALLEY 35,"Supreme Court Justice, Seat D",None Of These Candidates,52
+SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","Bergland, Craig",1
+SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","DERBY, JILL",38
+SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","Everhart, John",6
+SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","HELLER, DEAN",180
+SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",4
+SUNNYSIDE 13,County Commissioner District I,"MOBLEY, ROB",
+SUNNYSIDE 13,County Commissioner District I,"WICHMAN, LORINDA A.",
+SUNNYSIDE 13,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
+SUNNYSIDE 13,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
+SUNNYSIDE 13,President and Vice President of the United States,"Baldwin, Chuck",0
+SUNNYSIDE 13,President and Vice President of the United States,"Barr, Bob",0
+SUNNYSIDE 13,President and Vice President of the United States,"McCain, John",8
+SUNNYSIDE 13,President and Vice President of the United States,"McKinney, Cynthia",0
+SUNNYSIDE 13,President and Vice President of the United States,"NADER, RALPH",0
+SUNNYSIDE 13,President and Vice President of the United States,None Of These Candidates,0
+SUNNYSIDE 13,President and Vice President of the United States,"Obama, Barack",2
+SUNNYSIDE 13,"State Assembly, District 36","BABB, SCOTTY",
+SUNNYSIDE 13,"State Assembly, District 36","GOEDHART, ED",
+SUNNYSIDE 13,"State Senate, Rural Senatorial District","HANSEN, JANINE",
+SUNNYSIDE 13,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",
+SUNNYSIDE 13,"Supreme Court Justice, Seat B",None Of These Candidates,
+SUNNYSIDE 13,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",
+SUNNYSIDE 13,"Supreme Court Justice, Seat B","Schumacher, Deborah",
+SUNNYSIDE 13,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",
+SUNNYSIDE 13,"Supreme Court Justice, Seat D","Gibbons, Mark",
+SUNNYSIDE 13,"Supreme Court Justice, Seat D",None Of These Candidates,
+SUNNYSIDE 13,"U.S. Representative in Congress, District 2","Bergland, Craig",
+SUNNYSIDE 13,"U.S. Representative in Congress, District 2","DERBY, JILL",
+SUNNYSIDE 13,"U.S. Representative in Congress, District 2","Everhart, John",
+SUNNYSIDE 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+SUNNYSIDE 13,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
+TONOPAH 14,County Commissioner District II,"EASTLEY, JONI",447
+TONOPAH 14,County Commissioner District II,"PETELL, JIM",82
+TONOPAH 14,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",460
+TONOPAH 14,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",62
+TONOPAH 14,President and Vice President of the United States,"Baldwin, Chuck",9
+TONOPAH 14,President and Vice President of the United States,"Barr, Bob",6
+TONOPAH 14,President and Vice President of the United States,"McCain, John",342
+TONOPAH 14,President and Vice President of the United States,"McKinney, Cynthia",2
+TONOPAH 14,President and Vice President of the United States,"NADER, RALPH",5
+TONOPAH 14,President and Vice President of the United States,None Of These Candidates,10
+TONOPAH 14,President and Vice President of the United States,"Obama, Barack",175
+TONOPAH 14,"State Assembly, District 36","BABB, SCOTTY",124
+TONOPAH 14,"State Assembly, District 36","GOEDHART, ED",397
+TONOPAH 14,"State Senate, Central Senatorial District","McGINNESS, MIKE",458
+TONOPAH 14,"Supreme Court Justice, Seat B",None Of These Candidates,122
+TONOPAH 14,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",314
+TONOPAH 14,"Supreme Court Justice, Seat B","Schumacher, Deborah",90
+TONOPAH 14,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",121
+TONOPAH 14,"Supreme Court Justice, Seat D","Gibbons, Mark",246
+TONOPAH 14,"Supreme Court Justice, Seat D",None Of These Candidates,163
+TONOPAH 14,"U.S. Representative in Congress, District 2","Bergland, Craig",7
+TONOPAH 14,"U.S. Representative in Congress, District 2","DERBY, JILL",153
+TONOPAH 14,"U.S. Representative in Congress, District 2","Everhart, John",33
+TONOPAH 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",333
+TONOPAH 14,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
+TONOPAH 15,County Commissioner District II,"EASTLEY, JONI",365
+TONOPAH 15,County Commissioner District II,"PETELL, JIM",54
+TONOPAH 15,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",365
+TONOPAH 15,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",46
+TONOPAH 15,President and Vice President of the United States,"Baldwin, Chuck",4
+TONOPAH 15,President and Vice President of the United States,"Barr, Bob",1
+TONOPAH 15,President and Vice President of the United States,"McCain, John",281
+TONOPAH 15,President and Vice President of the United States,"McKinney, Cynthia",0
+TONOPAH 15,President and Vice President of the United States,"NADER, RALPH",7
+TONOPAH 15,President and Vice President of the United States,None Of These Candidates,11
+TONOPAH 15,President and Vice President of the United States,"Obama, Barack",124
+TONOPAH 15,"State Assembly, District 36","BABB, SCOTTY",92
+TONOPAH 15,"State Assembly, District 36","GOEDHART, ED",319
+TONOPAH 15,"State Senate, Central Senatorial District","McGINNESS, MIKE",374
+TONOPAH 15,"Supreme Court Justice, Seat B",None Of These Candidates,70
+TONOPAH 15,"Supreme Court Justice, Seat B","Pickering, Mary ""Kris""",261
+TONOPAH 15,"Supreme Court Justice, Seat B","Schumacher, Deborah",86
+TONOPAH 15,"Supreme Court Justice, Seat D","Christensen, Thomas Frank",103
+TONOPAH 15,"Supreme Court Justice, Seat D","Gibbons, Mark",213
+TONOPAH 15,"Supreme Court Justice, Seat D",None Of These Candidates,100
+TONOPAH 15,"U.S. Representative in Congress, District 2","Bergland, Craig",1
+TONOPAH 15,"U.S. Representative in Congress, District 2","DERBY, JILL",117
+TONOPAH 15,"U.S. Representative in Congress, District 2","Everhart, John",35
+TONOPAH 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",247
+TONOPAH 15,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
