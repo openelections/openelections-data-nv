@@ -26,20 +26,20 @@ JURISDICTIONS = [
     {'name': "carson_city", "id": "4"},
     {'name': "churchill", "id": "5"},
 #    {'name': "clark", "id": "6"},
-#    {'name': "douglas", "id": "7"},
-#    {'name': "elko", "id": "8"},
-#    {'name': "esmeralda", "id": "9"},
-#    {'name': "eureka", "id": "10"},
-#    {'name': "humboldt", "id": "11"},
-#    {'name': "lander", "id": "12"},
-#    {'name': "lincoln", "id": "13"},
-#    {'name': "lyon", "id": "14"},
-#    {'name': "mineral", "id": "15"},
-#    {'name': "nye", "id": "16"},
-#    {'name': "pershing", "id": "17"},
-#    {'name': "storey", "id": "18"},
-#    {'name': "washoe", "id": "19"},
-#    {'name': "white_pine", "id": "20"}
+    {'name': "douglas", "id": "7"},
+    {'name': "elko", "id": "8"},
+    {'name': "esmeralda", "id": "9"},
+    {'name': "eureka", "id": "10"},
+    {'name': "humboldt", "id": "11"},
+    {'name': "lander", "id": "12"},
+    {'name': "lincoln", "id": "13"},
+    {'name': "lyon", "id": "14"},
+    {'name': "mineral", "id": "15"},
+    {'name': "nye", "id": "16"},
+    {'name': "pershing", "id": "17"},
+    {'name': "storey", "id": "18"},
+    {'name': "washoe", "id": "19"},
+    {'name': "white_pine", "id": "20"}
 ]
 
 def fetch_and_parse_all():
@@ -58,19 +58,39 @@ def setup_form(driver, election, jurisdiction, filename):
     jurisdiction_select.select_by_value(jurisdiction['id'])
     driver.find_element_by_name('btnElectionSearch').click()
     soup = BeautifulSoup(driver.page_source)
-    postback_links = fetch_postback_links(soup)
+    postback_links, replacements = fetch_postback_links(soup)
     candidates = []
+    # parse first page
+    for candidate in soup.findAll('tr', {'class':'TDColorC'}):
+        cand = [td.text.replace('&nbsp;','').strip() for td in candidate.findAll('td')]
+        candidates.append(cand)
+    # do other pages
     for postback_link in postback_links:
-        driver.find_element_by_link_text(postback_link).click()
-        results = BeautifulSoup(driver.page_source)
-        for candidate in results.findAll('tr', {'class':'TDColorC'}):
-            cand = [td.text.replace('&nbsp;','').strip() for td in candidate.findAll('td')]
-            candidates.append(cand)
+        if postback_link in replacements:
+            postback_link = '...'
+        try:
+            print postback_link
+            if postback_link == '...':
+                if len(driver.find_elements_by_link_text(postback_link)) > 1:
+                    driver.find_elements_by_link_text(postback_link)[1].click()
+                else:
+                    driver.find_elements_by_link_text(postback_link)[0].click()
+            else:
+                driver.find_element_by_link_text(postback_link).click()
+            results = BeautifulSoup(driver.page_source)
+            for candidate in results.findAll('tr', {'class':'TDColorC'}):
+                cand = [td.text.replace('&nbsp;','').strip() for td in candidate.findAll('td')]
+                candidates.append(cand)
+        except:
+            raise
     write_csv(filename, candidates)
 
 def fetch_postback_links(results):
-    postbacks = results.findAll('table')[13].findAll('tr')[52]
-    return [a.text for a in postbacks.find('td').findAll('a')]
+    num = float(results.find('span', {'id':'lblMessage'}).text.split()[5])
+    last_page = int((num/50.0)+1)
+    pages = [str(x) for x in xrange(2,last_page)]
+    replacements = [str(x) for x in xrange(26,last_page,25)]
+    return [pages, replacements]
 
 def write_csv(filename, candidates):
     with open(filename, 'wb') as csvfile:
