@@ -1,3 +1,3 @@
 BeautifulSoup
 requests
-mechanize
+selenium
