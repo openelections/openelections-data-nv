@@ -1,1 +1,151 @@
-precinct,office,candidate,votes,jurisdictionPrecinct 1,United States Senator (Democratic),"Berkley, Shelley",11,EurekaPrecinct 1,United States Senator (Democratic),"Brown, Steve",1,EurekaPrecinct 1,United States Senator (Democratic),"Ellsworth, Barry",0,EurekaPrecinct 1,United States Senator (Democratic),"Macias, Louis",0,EurekaPrecinct 1,United States Senator (Democratic),None Of These Candidates,3,EurekaPrecinct 1,United States Senator (Democratic),"Price, Nancy",5,EurekaPrecinct 2,United States Senator (Democratic),"Berkley, Shelley",15,EurekaPrecinct 2,United States Senator (Democratic),"Brown, Steve",1,EurekaPrecinct 2,United States Senator (Democratic),"Ellsworth, Barry",1,EurekaPrecinct 2,United States Senator (Democratic),"Macias, Louis",0,EurekaPrecinct 2,United States Senator (Democratic),None Of These Candidates,4,EurekaPrecinct 2,United States Senator (Democratic),"Price, Nancy",2,EurekaPrecinct 4,United States Senator (Democratic),"Berkley, Shelley",4,EurekaPrecinct 4,United States Senator (Democratic),"Brown, Steve",3,EurekaPrecinct 4,United States Senator (Democratic),"Ellsworth, Barry",0,EurekaPrecinct 4,United States Senator (Democratic),"Macias, Louis",0,EurekaPrecinct 4,United States Senator (Democratic),None Of These Candidates,5,EurekaPrecinct 4,United States Senator (Democratic),"Price, Nancy",3,EurekaPrecinct 99,United States Senator (Democratic),"Berkley, Shelley",0,EurekaPrecinct 99,United States Senator (Democratic),"Brown, Steve",0,EurekaPrecinct 99,United States Senator (Democratic),"Ellsworth, Barry",0,EurekaPrecinct 99,United States Senator (Democratic),"Macias, Louis",0,EurekaPrecinct 99,United States Senator (Democratic),None Of These Candidates,0,EurekaPrecinct 99,United States Senator (Democratic),"Price, Nancy",0,EurekaPrecinct 1,United States Senator (Republican),"Brooks, Sherry",4,EurekaPrecinct 1,United States Senator (Republican),"Charles, Richard",1,EurekaPrecinct 1,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1,EurekaPrecinct 1,United States Senator (Republican),"Heller, Dean",130,EurekaPrecinct 1,United States Senator (Republican),None Of These Candidates,16,EurekaPrecinct 1,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0,EurekaPrecinct 2,United States Senator (Republican),"Brooks, Sherry",7,EurekaPrecinct 2,United States Senator (Republican),"Charles, Richard",1,EurekaPrecinct 2,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",6,EurekaPrecinct 2,United States Senator (Republican),"Heller, Dean",94,EurekaPrecinct 2,United States Senator (Republican),None Of These Candidates,18,EurekaPrecinct 2,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1,EurekaPrecinct 3,United States Senator (Republican),"Brooks, Sherry",2,EurekaPrecinct 3,United States Senator (Republican),"Charles, Richard",0,EurekaPrecinct 3,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3,EurekaPrecinct 3,United States Senator (Republican),"Heller, Dean",49,EurekaPrecinct 3,United States Senator (Republican),None Of These Candidates,1,EurekaPrecinct 3,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0,EurekaPrecinct 4,United States Senator (Republican),"Brooks, Sherry",3,EurekaPrecinct 4,United States Senator (Republican),"Charles, Richard",2,EurekaPrecinct 4,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1,EurekaPrecinct 4,United States Senator (Republican),"Heller, Dean",39,EurekaPrecinct 4,United States Senator (Republican),None Of These Candidates,7,EurekaPrecinct 4,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0,EurekaPrecinct 99,United States Senator (Republican),"Brooks, Sherry",0,EurekaPrecinct 99,United States Senator (Republican),"Charles, Richard",0,EurekaPrecinct 99,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0,EurekaPrecinct 99,United States Senator (Republican),"Heller, Dean",0,EurekaPrecinct 99,United States Senator (Republican),None Of These Candidates,0,EurekaPrecinct 99,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0,EurekaPrecinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",6,EurekaPrecinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",7,EurekaPrecinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",2,EurekaPrecinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5,EurekaPrecinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",12,EurekaPrecinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",2,EurekaPrecinct 4,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5,EurekaPrecinct 4,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",4,EurekaPrecinct 4,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",4,EurekaPrecinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",0,EurekaPrecinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",0,EurekaPrecinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",0,EurekaPrecinct 3,United States Senator (Democratic),"Berkley, Shelley",,EurekaPrecinct 3,United States Senator (Democratic),"Brown, Steve",,EurekaPrecinct 3,United States Senator (Democratic),"Ellsworth, Barry",,EurekaPrecinct 3,United States Senator (Democratic),"Macias, Louis",,EurekaPrecinct 3,United States Senator (Democratic),None Of These Candidates,,EurekaPrecinct 3,United States Senator (Democratic),"Price, Nancy",,EurekaPrecinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",,EurekaPrecinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",,EurekaPrecinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",,Eureka
+precinct,office,candidate,votes
+Precinct 1,County Commissioner District 1 (Republican),"EDERA, PETE",16
+Precinct 1,County Commissioner District 1 (Republican),"FIORENZI, LEONARD",76
+Precinct 1,County Commissioner District 1 (Republican),"GOICOECHEA, J.J.",61
+Precinct 1,County Commissioner District 3 (Republican),"BLACK, TROY",11
+Precinct 1,County Commissioner District 3 (Republican),"DEMPSEY, PATRICK",34
+Precinct 1,County Commissioner District 3 (Republican),"LEPPALA, BILL",9
+Precinct 1,County Commissioner District 3 (Republican),"PAGE, MIKE",89
+Precinct 1,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",135
+Precinct 1,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETE",138
+Precinct 1,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","BREITRICK, JAMES",137
+Precinct 1,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",128
+Precinct 1,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","LEPPALA, BILL",123
+Precinct 1,Justice of the Peace - BEOWAWE - NP (Nonpartisan),"FYE, SUSAN E.",137
+Precinct 1,Justice of the Peace - EUREKA - NP (Nonpartisan),"SCHWEBLE, JOHN F.",156
+Precinct 1,School Board Trustee Seat 1B (Nonpartisan),"BROWN, TERRILYNN",112
+Precinct 1,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",46
+Precinct 1,School Board Trustee Seat 1B (Nonpartisan),"SHARKOZY, MICHAEL",15
+Precinct 1,School Board Trustee Seat 1C (Nonpartisan),"BACON-BOWLING, KATHY",103
+Precinct 1,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",68
+Precinct 1,School Board Trustee Seat 1C (Nonpartisan),"GARCIA, ALEXIS",8
+Precinct 1,School Board Trustee Seat 2B (Nonpartisan),"BAUMANN, DARLA R.",164
+Precinct 1,"State Board of Education, District 2 (Nonpartisan)","Bacon, Ray",27
+Precinct 1,"State Board of Education, District 2 (Nonpartisan)","Carey, Scott H.",11
+Precinct 1,"State Board of Education, District 2 (Nonpartisan)","Clontz, Donna",32
+Precinct 1,"State Board of Education, District 2 (Nonpartisan)","Cook, Dave",42
+Precinct 1,"State Board of Education, District 2 (Nonpartisan)","Fralick, Adriana Guzman",25
+Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",6
+Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",7
+Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",2
+Precinct 1,United States Senator (Democratic),"Berkley, Shelley",11
+Precinct 1,United States Senator (Democratic),"Brown, Steve",1
+Precinct 1,United States Senator (Democratic),"Ellsworth, Barry",0
+Precinct 1,United States Senator (Democratic),"Macias, Louis",0
+Precinct 1,United States Senator (Democratic),None Of These Candidates,3
+Precinct 1,United States Senator (Democratic),"Price, Nancy",5
+Precinct 1,United States Senator (Republican),"Brooks, Sherry",4
+Precinct 1,United States Senator (Republican),"Charles, Richard",1
+Precinct 1,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+Precinct 1,United States Senator (Republican),"Heller, Dean",130
+Precinct 1,United States Senator (Republican),None Of These Candidates,16
+Precinct 1,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+Precinct 2,County Commissioner District 1 (Republican),"EDERA, PETE",29
+Precinct 2,County Commissioner District 1 (Republican),"FIORENZI, LEONARD",41
+Precinct 2,County Commissioner District 1 (Republican),"GOICOECHEA, J.J.",58
+Precinct 2,County Commissioner District 3 (Republican),"BLACK, TROY",10
+Precinct 2,County Commissioner District 3 (Republican),"DEMPSEY, PATRICK",50
+Precinct 2,County Commissioner District 3 (Republican),"LEPPALA, BILL",10
+Precinct 2,County Commissioner District 3 (Republican),"PAGE, MIKE",53
+Precinct 2,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",103
+Precinct 2,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETE",106
+Precinct 2,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","BREITRICK, JAMES",101
+Precinct 2,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",96
+Precinct 2,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","LEPPALA, BILL",95
+Precinct 2,Justice of the Peace - BEOWAWE - NP (Nonpartisan),"FYE, SUSAN E.",101
+Precinct 2,Justice of the Peace - EUREKA - NP (Nonpartisan),"SCHWEBLE, JOHN F.",120
+Precinct 2,School Board Trustee Seat 1B (Nonpartisan),"BROWN, TERRILYNN",108
+Precinct 2,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",34
+Precinct 2,School Board Trustee Seat 1B (Nonpartisan),"SHARKOZY, MICHAEL",15
+Precinct 2,School Board Trustee Seat 1C (Nonpartisan),"BACON-BOWLING, KATHY",115
+Precinct 2,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",33
+Precinct 2,School Board Trustee Seat 1C (Nonpartisan),"GARCIA, ALEXIS",11
+Precinct 2,School Board Trustee Seat 2B (Nonpartisan),"BAUMANN, DARLA R.",125
+Precinct 2,"State Board of Education, District 2 (Nonpartisan)","Bacon, Ray",26
+Precinct 2,"State Board of Education, District 2 (Nonpartisan)","Carey, Scott H.",9
+Precinct 2,"State Board of Education, District 2 (Nonpartisan)","Clontz, Donna",26
+Precinct 2,"State Board of Education, District 2 (Nonpartisan)","Cook, Dave",38
+Precinct 2,"State Board of Education, District 2 (Nonpartisan)","Fralick, Adriana Guzman",18
+Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5
+Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",12
+Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",2
+Precinct 2,United States Senator (Democratic),"Berkley, Shelley",15
+Precinct 2,United States Senator (Democratic),"Brown, Steve",1
+Precinct 2,United States Senator (Democratic),"Ellsworth, Barry",1
+Precinct 2,United States Senator (Democratic),"Macias, Louis",0
+Precinct 2,United States Senator (Democratic),None Of These Candidates,4
+Precinct 2,United States Senator (Democratic),"Price, Nancy",2
+Precinct 2,United States Senator (Republican),"Brooks, Sherry",7
+Precinct 2,United States Senator (Republican),"Charles, Richard",1
+Precinct 2,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",6
+Precinct 2,United States Senator (Republican),"Heller, Dean",94
+Precinct 2,United States Senator (Republican),None Of These Candidates,18
+Precinct 2,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+Precinct 3,County Commissioner District 1 (Republican),"EDERA, PETE",5
+Precinct 3,County Commissioner District 1 (Republican),"FIORENZI, LEONARD",19
+Precinct 3,County Commissioner District 1 (Republican),"GOICOECHEA, J.J.",32
+Precinct 3,County Commissioner District 3 (Republican),"BLACK, TROY",12
+Precinct 3,County Commissioner District 3 (Republican),"DEMPSEY, PATRICK",16
+Precinct 3,County Commissioner District 3 (Republican),"LEPPALA, BILL",11
+Precinct 3,County Commissioner District 3 (Republican),"PAGE, MIKE",15
+Precinct 3,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",53
+Precinct 3,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETE",51
+Precinct 3,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","BREITRICK, JAMES",50
+Precinct 3,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",47
+Precinct 3,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","LEPPALA, BILL",45
+Precinct 3,Justice of the Peace - BEOWAWE - NP (Nonpartisan),"FYE, SUSAN E.",48
+Precinct 3,Justice of the Peace - EUREKA - NP (Nonpartisan),"SCHWEBLE, JOHN F.",51
+Precinct 3,School Board Trustee Seat 1B (Nonpartisan),"BROWN, TERRILYNN",28
+Precinct 3,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",13
+Precinct 3,School Board Trustee Seat 1B (Nonpartisan),"SHARKOZY, MICHAEL",27
+Precinct 3,School Board Trustee Seat 1C (Nonpartisan),"BACON-BOWLING, KATHY",19
+Precinct 3,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",34
+Precinct 3,School Board Trustee Seat 1C (Nonpartisan),"GARCIA, ALEXIS",7
+Precinct 3,School Board Trustee Seat 2B (Nonpartisan),"BAUMANN, DARLA R.",57
+Precinct 3,"State Board of Education, District 2 (Nonpartisan)","Bacon, Ray",5
+Precinct 3,"State Board of Education, District 2 (Nonpartisan)","Carey, Scott H.",8
+Precinct 3,"State Board of Education, District 2 (Nonpartisan)","Clontz, Donna",12
+Precinct 3,"State Board of Education, District 2 (Nonpartisan)","Cook, Dave",23
+Precinct 3,"State Board of Education, District 2 (Nonpartisan)","Fralick, Adriana Guzman",9
+Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",
+Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",
+Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",
+Precinct 3,United States Senator (Democratic),"Berkley, Shelley",
+Precinct 3,United States Senator (Democratic),"Brown, Steve",
+Precinct 3,United States Senator (Democratic),"Ellsworth, Barry",
+Precinct 3,United States Senator (Democratic),"Macias, Louis",
+Precinct 3,United States Senator (Democratic),None Of These Candidates,
+Precinct 3,United States Senator (Democratic),"Price, Nancy",
+Precinct 3,United States Senator (Republican),"Brooks, Sherry",2
+Precinct 3,United States Senator (Republican),"Charles, Richard",0
+Precinct 3,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+Precinct 3,United States Senator (Republican),"Heller, Dean",49
+Precinct 3,United States Senator (Republican),None Of These Candidates,1
+Precinct 3,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+Precinct 4,County Commissioner District 1 (Republican),"EDERA, PETE",12
+Precinct 4,County Commissioner District 1 (Republican),"FIORENZI, LEONARD",11
+Precinct 4,County Commissioner District 1 (Republican),"GOICOECHEA, J.J.",31
+Precinct 4,County Commissioner District 3 (Republican),"BLACK, TROY",19
+Precinct 4,County Commissioner District 3 (Republican),"DEMPSEY, PATRICK",21
+Precinct 4,County Commissioner District 3 (Republican),"LEPPALA, BILL",5
+Precinct 4,County Commissioner District 3 (Republican),"PAGE, MIKE",9
+Precinct 4,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",65
+Precinct 4,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETE",58
+Precinct 4,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","BREITRICK, JAMES",62
+Precinct 4,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",69
+Precinct 4,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","LEPPALA, BILL",72
+Precinct 4,Justice of the Peace - BEOWAWE - NP (Nonpartisan),"FYE, SUSAN E.",78
+Precinct 4,Justice of the Peace - EUREKA - NP (Nonpartisan),"SCHWEBLE, JOHN F.",63
+Precinct 4,School Board Trustee Seat 1B (Nonpartisan),"BROWN, TERRILYNN",8
+Precinct 4,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",28
+Precinct 4,School Board Trustee Seat 1B (Nonpartisan),"SHARKOZY, MICHAEL",45
+Precinct 4,School Board Trustee Seat 1C (Nonpartisan),"BACON-BOWLING, KATHY",34
+Precinct 4,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",23
+Precinct 4,School Board Trustee Seat 1C (Nonpartisan),"GARCIA, ALEXIS",13
+Precinct 4,School Board Trustee Seat 2B (Nonpartisan),"BAUMANN, DARLA R.",61
+Precinct 4,"State Board of Education, District 2 (Nonpartisan)","Bacon, Ray",6
+Precinct 4,"State Board of Education, District 2 (Nonpartisan)","Carey, Scott H.",6
+Precinct 4,"State Board of Education, District 2 (Nonpartisan)","Clontz, Donna",17
+Precinct 4,"State Board of Education, District 2 (Nonpartisan)","Cook, Dave",23
+Precinct 4,"State Board of Education, District 2 (Nonpartisan)","Fralick, Adriana Guzman",16
+Precinct 4,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5
