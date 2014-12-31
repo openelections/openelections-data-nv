@@ -1,0 +1,945 @@
+precinct,office,candidate,votes
+PRECINCT 1,Governor (Democratic),"Gibson, James B.",47
+PRECINCT 1,Governor (Democratic),"McConnell, Leola",4
+PRECINCT 1,Governor (Democratic),None Of These Candidates,37
+PRECINCT 1,Governor (Democratic),"Titus, Dina",52
+PRECINCT 1,Governor (Republican),"Beers, Bob",31
+PRECINCT 1,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",1
+PRECINCT 1,Governor (Republican),"GIBBONS, JIM",83
+PRECINCT 1,Governor (Republican),"Hunt, Lorraine T.",28
+PRECINCT 1,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 1,Governor (Republican),None Of These Candidates,10
+PRECINCT 1,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",143
+PRECINCT 1,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",131
+PRECINCT 1,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",47
+PRECINCT 1,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",81
+PRECINCT 1,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",48
+PRECINCT 1,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",71
+PRECINCT 1,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",69
+PRECINCT 1,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",57
+PRECINCT 1,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",25
+PRECINCT 1,Lieutenant Governor (Democratic),"Montgomery, Bill",20
+PRECINCT 1,Lieutenant Governor (Democratic),None Of These Candidates,65
+PRECINCT 1,Lieutenant Governor (Democratic),"Stupak, Bob",13
+PRECINCT 1,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",15
+PRECINCT 1,Lieutenant Governor (Republican),"Hammargren, Lonnie",32
+PRECINCT 1,Lieutenant Governor (Republican),"Kao, George",7
+PRECINCT 1,Lieutenant Governor (Republican),"Krolicki, Brian",45
+PRECINCT 1,Lieutenant Governor (Republican),"Moncrief, Janet",2
+PRECINCT 1,Lieutenant Governor (Republican),None Of These Candidates,36
+PRECINCT 1,Lieutenant Governor (Republican),"Woollen, Barbara Lee",27
+PRECINCT 1,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",53
+PRECINCT 1,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",139
+PRECINCT 1,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",136
+PRECINCT 1,Secretary Of State (Democratic),"Boyd, Roderick",28
+PRECINCT 1,Secretary Of State (Democratic),"Miller, Ross",47
+PRECINCT 1,Secretary Of State (Democratic),None Of These Candidates,60
+PRECINCT 1,Secretary Of State (Republican),None Of These Candidates,35
+PRECINCT 1,Secretary Of State (Republican),"Scroggins, Brian",46
+PRECINCT 1,Secretary Of State (Republican),"Tarkanian, Danny",69
+PRECINCT 1,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",24
+PRECINCT 1,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",55
+PRECINCT 1,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",57
+PRECINCT 1,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",3
+PRECINCT 1,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",162
+PRECINCT 1,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",29
+PRECINCT 1,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",51
+PRECINCT 1,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",8
+PRECINCT 1,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",69
+PRECINCT 1,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",21
+PRECINCT 1,"State Assembly, District 36 (Republican)","GOEDHART, ED",89
+PRECINCT 1,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",27
+PRECINCT 1,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",266
+PRECINCT 1,State Treasurer (Democratic),"Marshall, Kate",79
+PRECINCT 1,State Treasurer (Democratic),None Of These Candidates,45
+PRECINCT 1,State Treasurer (Democratic),"VanderPal, Geoffrey",12
+PRECINCT 1,State Treasurer (Republican),"Augustine, Kathy",27
+PRECINCT 1,State Treasurer (Republican),"DeStefano, Mark",51
+PRECINCT 1,State Treasurer (Republican),None Of These Candidates,56
+PRECINCT 1,State Treasurer (Republican),"Pitts, Joseph",17
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",44
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",59
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,115
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",103
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",91
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",55
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",31
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,103
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",41
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",37
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",48
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
+PRECINCT 1,United States Senator (Democratic),"Carter, Jack",94
+PRECINCT 1,United States Senator (Democratic),None Of These Candidates,35
+PRECINCT 1,United States Senator (Democratic),"Tun, Ruby jee",7
+PRECINCT 1,United States Senator (Republican),"Ensign, John",136
+PRECINCT 1,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
+PRECINCT 1,United States Senator (Republican),None Of These Candidates,12
+PRECINCT 10,Governor (Democratic),"Gibson, James B.",0
+PRECINCT 10,Governor (Democratic),"McConnell, Leola",0
+PRECINCT 10,Governor (Democratic),None Of These Candidates,0
+PRECINCT 10,Governor (Democratic),"Titus, Dina",0
+PRECINCT 10,Governor (Republican),"Beers, Bob",0
+PRECINCT 10,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 10,Governor (Republican),"GIBBONS, JIM",0
+PRECINCT 10,Governor (Republican),"Hunt, Lorraine T.",0
+PRECINCT 10,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 10,Governor (Republican),None Of These Candidates,0
+PRECINCT 10,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",0
+PRECINCT 10,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",0
+PRECINCT 10,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",0
+PRECINCT 10,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",0
+PRECINCT 10,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",0
+PRECINCT 10,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",0
+PRECINCT 10,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",0
+PRECINCT 10,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",0
+PRECINCT 10,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",0
+PRECINCT 10,Lieutenant Governor (Democratic),"Montgomery, Bill",0
+PRECINCT 10,Lieutenant Governor (Democratic),None Of These Candidates,0
+PRECINCT 10,Lieutenant Governor (Democratic),"Stupak, Bob",0
+PRECINCT 10,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",0
+PRECINCT 10,Lieutenant Governor (Republican),"Hammargren, Lonnie",0
+PRECINCT 10,Lieutenant Governor (Republican),"Kao, George",0
+PRECINCT 10,Lieutenant Governor (Republican),"Krolicki, Brian",0
+PRECINCT 10,Lieutenant Governor (Republican),"Moncrief, Janet",0
+PRECINCT 10,Lieutenant Governor (Republican),None Of These Candidates,0
+PRECINCT 10,Lieutenant Governor (Republican),"Woollen, Barbara Lee",0
+PRECINCT 10,Secretary Of State (Democratic),"Boyd, Roderick",0
+PRECINCT 10,Secretary Of State (Democratic),"Miller, Ross",0
+PRECINCT 10,Secretary Of State (Democratic),None Of These Candidates,0
+PRECINCT 10,Secretary Of State (Republican),None Of These Candidates,0
+PRECINCT 10,Secretary Of State (Republican),"Scroggins, Brian",0
+PRECINCT 10,Secretary Of State (Republican),"Tarkanian, Danny",0
+PRECINCT 10,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",0
+PRECINCT 10,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",0
+PRECINCT 10,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",0
+PRECINCT 10,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",0
+PRECINCT 10,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",0
+PRECINCT 10,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",0
+PRECINCT 10,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",0
+PRECINCT 10,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",0
+PRECINCT 10,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",0
+PRECINCT 10,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",0
+PRECINCT 10,"State Assembly, District 36 (Republican)","GOEDHART, ED",0
+PRECINCT 10,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",0
+PRECINCT 10,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",0
+PRECINCT 10,State Treasurer (Democratic),"Marshall, Kate",0
+PRECINCT 10,State Treasurer (Democratic),None Of These Candidates,0
+PRECINCT 10,State Treasurer (Democratic),"VanderPal, Geoffrey",0
+PRECINCT 10,State Treasurer (Republican),"Augustine, Kathy",0
+PRECINCT 10,State Treasurer (Republican),"DeStefano, Mark",0
+PRECINCT 10,State Treasurer (Republican),None Of These Candidates,0
+PRECINCT 10,State Treasurer (Republican),"Pitts, Joseph",0
+PRECINCT 10,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",0
+PRECINCT 10,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",0
+PRECINCT 10,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 10,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",0
+PRECINCT 10,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",0
+PRECINCT 10,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",0
+PRECINCT 10,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",0
+PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
+PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
+PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
+PRECINCT 10,United States Senator (Democratic),"Carter, Jack",0
+PRECINCT 10,United States Senator (Democratic),None Of These Candidates,0
+PRECINCT 10,United States Senator (Democratic),"Tun, Ruby jee",0
+PRECINCT 10,United States Senator (Republican),"Ensign, John",0
+PRECINCT 10,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 10,United States Senator (Republican),None Of These Candidates,0
+PRECINCT 11,Governor (Democratic),"Gibson, James B.",30
+PRECINCT 11,Governor (Democratic),"McConnell, Leola",1
+PRECINCT 11,Governor (Democratic),None Of These Candidates,6
+PRECINCT 11,Governor (Democratic),"Titus, Dina",46
+PRECINCT 11,Governor (Republican),"Beers, Bob",0
+PRECINCT 11,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 11,Governor (Republican),"GIBBONS, JIM",12
+PRECINCT 11,Governor (Republican),"Hunt, Lorraine T.",2
+PRECINCT 11,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 11,Governor (Republican),None Of These Candidates,1
+PRECINCT 11,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",66
+PRECINCT 11,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",35
+PRECINCT 11,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",18
+PRECINCT 11,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",21
+PRECINCT 11,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",25
+PRECINCT 11,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",25
+PRECINCT 11,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",24
+PRECINCT 11,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",26
+PRECINCT 11,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",13
+PRECINCT 11,Lieutenant Governor (Democratic),"Montgomery, Bill",7
+PRECINCT 11,Lieutenant Governor (Democratic),None Of These Candidates,26
+PRECINCT 11,Lieutenant Governor (Democratic),"Stupak, Bob",17
+PRECINCT 11,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",16
+PRECINCT 11,Lieutenant Governor (Republican),"Hammargren, Lonnie",4
+PRECINCT 11,Lieutenant Governor (Republican),"Kao, George",3
+PRECINCT 11,Lieutenant Governor (Republican),"Krolicki, Brian",2
+PRECINCT 11,Lieutenant Governor (Republican),"Moncrief, Janet",2
+PRECINCT 11,Lieutenant Governor (Republican),None Of These Candidates,1
+PRECINCT 11,Lieutenant Governor (Republican),"Woollen, Barbara Lee",3
+PRECINCT 11,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",27
+PRECINCT 11,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",49
+PRECINCT 11,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",48
+PRECINCT 11,Secretary Of State (Democratic),"Boyd, Roderick",12
+PRECINCT 11,Secretary Of State (Democratic),"Miller, Ross",42
+PRECINCT 11,Secretary Of State (Democratic),None Of These Candidates,25
+PRECINCT 11,Secretary Of State (Republican),None Of These Candidates,2
+PRECINCT 11,Secretary Of State (Republican),"Scroggins, Brian",4
+PRECINCT 11,Secretary Of State (Republican),"Tarkanian, Danny",9
+PRECINCT 11,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",23
+PRECINCT 11,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",2
+PRECINCT 11,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",52
+PRECINCT 11,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",2
+PRECINCT 11,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",36
+PRECINCT 11,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",14
+PRECINCT 11,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",24
+PRECINCT 11,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",7
+PRECINCT 11,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",47
+PRECINCT 11,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",6
+PRECINCT 11,"State Assembly, District 36 (Republican)","GOEDHART, ED",5
+PRECINCT 11,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",3
+PRECINCT 11,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",105
+PRECINCT 11,State Treasurer (Democratic),"Marshall, Kate",48
+PRECINCT 11,State Treasurer (Democratic),None Of These Candidates,21
+PRECINCT 11,State Treasurer (Democratic),"VanderPal, Geoffrey",11
+PRECINCT 11,State Treasurer (Republican),"Augustine, Kathy",5
+PRECINCT 11,State Treasurer (Republican),"DeStefano, Mark",6
+PRECINCT 11,State Treasurer (Republican),None Of These Candidates,1
+PRECINCT 11,State Treasurer (Republican),"Pitts, Joseph",3
+PRECINCT 11,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",25
+PRECINCT 11,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",26
+PRECINCT 11,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,25
+PRECINCT 11,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",47
+PRECINCT 11,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",39
+PRECINCT 11,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",16
+PRECINCT 11,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",21
+PRECINCT 11,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,18
+PRECINCT 11,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",26
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",3
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",6
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",6
+PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
+PRECINCT 11,United States Senator (Democratic),"Carter, Jack",56
+PRECINCT 11,United States Senator (Democratic),None Of These Candidates,13
+PRECINCT 11,United States Senator (Democratic),"Tun, Ruby jee",10
+PRECINCT 11,United States Senator (Republican),"Ensign, John",10
+PRECINCT 11,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
+PRECINCT 11,United States Senator (Republican),None Of These Candidates,3
+PRECINCT 12,Governor (Democratic),"Gibson, James B.",18
+PRECINCT 12,Governor (Democratic),"McConnell, Leola",2
+PRECINCT 12,Governor (Democratic),None Of These Candidates,8
+PRECINCT 12,Governor (Democratic),"Titus, Dina",25
+PRECINCT 12,Governor (Republican),"Beers, Bob",19
+PRECINCT 12,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 12,Governor (Republican),"GIBBONS, JIM",29
+PRECINCT 12,Governor (Republican),"Hunt, Lorraine T.",16
+PRECINCT 12,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 12,Governor (Republican),None Of These Candidates,0
+PRECINCT 12,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",58
+PRECINCT 12,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",49
+PRECINCT 12,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",19
+PRECINCT 12,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",15
+PRECINCT 12,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",32
+PRECINCT 12,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",32
+PRECINCT 12,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",16
+PRECINCT 12,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",32
+PRECINCT 12,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",13
+PRECINCT 12,Lieutenant Governor (Democratic),"Montgomery, Bill",6
+PRECINCT 12,Lieutenant Governor (Democratic),None Of These Candidates,19
+PRECINCT 12,Lieutenant Governor (Democratic),"Stupak, Bob",12
+PRECINCT 12,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",3
+PRECINCT 12,Lieutenant Governor (Republican),"Hammargren, Lonnie",13
+PRECINCT 12,Lieutenant Governor (Republican),"Kao, George",3
+PRECINCT 12,Lieutenant Governor (Republican),"Krolicki, Brian",19
+PRECINCT 12,Lieutenant Governor (Republican),"Moncrief, Janet",1
+PRECINCT 12,Lieutenant Governor (Republican),None Of These Candidates,6
+PRECINCT 12,Lieutenant Governor (Republican),"Woollen, Barbara Lee",21
+PRECINCT 12,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",40
+PRECINCT 12,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",57
+PRECINCT 12,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",29
+PRECINCT 12,Secretary Of State (Democratic),"Boyd, Roderick",10
+PRECINCT 12,Secretary Of State (Democratic),"Miller, Ross",23
+PRECINCT 12,Secretary Of State (Democratic),None Of These Candidates,20
+PRECINCT 12,Secretary Of State (Republican),None Of These Candidates,8
+PRECINCT 12,Secretary Of State (Republican),"Scroggins, Brian",20
+PRECINCT 12,Secretary Of State (Republican),"Tarkanian, Danny",36
+PRECINCT 12,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",2
+PRECINCT 12,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",14
+PRECINCT 12,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",39
+PRECINCT 12,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",6
+PRECINCT 12,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",58
+PRECINCT 12,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",8
+PRECINCT 12,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",21
+PRECINCT 12,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",13
+PRECINCT 12,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",16
+PRECINCT 12,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",13
+PRECINCT 12,"State Assembly, District 36 (Republican)","GOEDHART, ED",31
+PRECINCT 12,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",20
+PRECINCT 12,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",112
+PRECINCT 12,State Treasurer (Democratic),"Marshall, Kate",29
+PRECINCT 12,State Treasurer (Democratic),None Of These Candidates,16
+PRECINCT 12,State Treasurer (Democratic),"VanderPal, Geoffrey",7
+PRECINCT 12,State Treasurer (Republican),"Augustine, Kathy",9
+PRECINCT 12,State Treasurer (Republican),"DeStefano, Mark",32
+PRECINCT 12,State Treasurer (Republican),None Of These Candidates,12
+PRECINCT 12,State Treasurer (Republican),"Pitts, Joseph",10
+PRECINCT 12,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",23
+PRECINCT 12,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",26
+PRECINCT 12,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,27
+PRECINCT 12,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",48
+PRECINCT 12,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",40
+PRECINCT 12,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",13
+PRECINCT 12,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",13
+PRECINCT 12,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,27
+PRECINCT 12,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",32
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",21
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",18
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",21
+PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
+PRECINCT 12,United States Senator (Democratic),"Carter, Jack",32
+PRECINCT 12,United States Senator (Democratic),None Of These Candidates,12
+PRECINCT 12,United States Senator (Democratic),"Tun, Ruby jee",9
+PRECINCT 12,United States Senator (Republican),"Ensign, John",52
+PRECINCT 12,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
+PRECINCT 12,United States Senator (Republican),None Of These Candidates,8
+PRECINCT 2,Governor (Democratic),"Gibson, James B.",53
+PRECINCT 2,Governor (Democratic),"McConnell, Leola",11
+PRECINCT 2,Governor (Democratic),None Of These Candidates,27
+PRECINCT 2,Governor (Democratic),"Titus, Dina",52
+PRECINCT 2,Governor (Republican),"Beers, Bob",23
+PRECINCT 2,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",1
+PRECINCT 2,Governor (Republican),"GIBBONS, JIM",74
+PRECINCT 2,Governor (Republican),"Hunt, Lorraine T.",23
+PRECINCT 2,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 2,Governor (Republican),None Of These Candidates,6
+PRECINCT 2,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",113
+PRECINCT 2,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",130
+PRECINCT 2,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",62
+PRECINCT 2,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",53
+PRECINCT 2,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",36
+PRECINCT 2,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",89
+PRECINCT 2,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",40
+PRECINCT 2,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",90
+PRECINCT 2,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",36
+PRECINCT 2,Lieutenant Governor (Democratic),"Montgomery, Bill",15
+PRECINCT 2,Lieutenant Governor (Democratic),None Of These Candidates,63
+PRECINCT 2,Lieutenant Governor (Democratic),"Stupak, Bob",20
+PRECINCT 2,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",8
+PRECINCT 2,Lieutenant Governor (Republican),"Hammargren, Lonnie",13
+PRECINCT 2,Lieutenant Governor (Republican),"Kao, George",7
+PRECINCT 2,Lieutenant Governor (Republican),"Krolicki, Brian",58
+PRECINCT 2,Lieutenant Governor (Republican),"Moncrief, Janet",3
+PRECINCT 2,Lieutenant Governor (Republican),None Of These Candidates,15
+PRECINCT 2,Lieutenant Governor (Republican),"Woollen, Barbara Lee",29
+PRECINCT 2,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",84
+PRECINCT 2,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",121
+PRECINCT 2,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",105
+PRECINCT 2,Secretary Of State (Democratic),"Boyd, Roderick",26
+PRECINCT 2,Secretary Of State (Democratic),"Miller, Ross",59
+PRECINCT 2,Secretary Of State (Democratic),None Of These Candidates,53
+PRECINCT 2,Secretary Of State (Republican),None Of These Candidates,14
+PRECINCT 2,Secretary Of State (Republican),"Scroggins, Brian",57
+PRECINCT 2,Secretary Of State (Republican),"Tarkanian, Danny",54
+PRECINCT 2,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",47
+PRECINCT 2,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",40
+PRECINCT 2,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",50
+PRECINCT 2,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",12
+PRECINCT 2,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",130
+PRECINCT 2,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",31
+PRECINCT 2,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",47
+PRECINCT 2,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",22
+PRECINCT 2,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",63
+PRECINCT 2,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",25
+PRECINCT 2,"State Assembly, District 36 (Republican)","GOEDHART, ED",73
+PRECINCT 2,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",25
+PRECINCT 2,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",263
+PRECINCT 2,State Treasurer (Democratic),"Marshall, Kate",77
+PRECINCT 2,State Treasurer (Democratic),None Of These Candidates,39
+PRECINCT 2,State Treasurer (Democratic),"VanderPal, Geoffrey",23
+PRECINCT 2,State Treasurer (Republican),"Augustine, Kathy",27
+PRECINCT 2,State Treasurer (Republican),"DeStefano, Mark",51
+PRECINCT 2,State Treasurer (Republican),None Of These Candidates,27
+PRECINCT 2,State Treasurer (Republican),"Pitts, Joseph",20
+PRECINCT 2,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",29
+PRECINCT 2,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",52
+PRECINCT 2,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,70
+PRECINCT 2,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",152
+PRECINCT 2,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",83
+PRECINCT 2,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",58
+PRECINCT 2,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",44
+PRECINCT 2,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,71
+PRECINCT 2,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",45
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",27
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",41
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
+PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
+PRECINCT 2,United States Senator (Democratic),"Carter, Jack",84
+PRECINCT 2,United States Senator (Democratic),None Of These Candidates,36
+PRECINCT 2,United States Senator (Democratic),"Tun, Ruby jee",19
+PRECINCT 2,United States Senator (Republican),"Ensign, John",109
+PRECINCT 2,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
+PRECINCT 2,United States Senator (Republican),None Of These Candidates,10
+PRECINCT 3,Governor (Democratic),"Gibson, James B.",25
+PRECINCT 3,Governor (Democratic),"McConnell, Leola",4
+PRECINCT 3,Governor (Democratic),None Of These Candidates,9
+PRECINCT 3,Governor (Democratic),"Titus, Dina",28
+PRECINCT 3,Governor (Republican),"Beers, Bob",24
+PRECINCT 3,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",2
+PRECINCT 3,Governor (Republican),"GIBBONS, JIM",52
+PRECINCT 3,Governor (Republican),"Hunt, Lorraine T.",11
+PRECINCT 3,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 3,Governor (Republican),None Of These Candidates,6
+PRECINCT 3,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",82
+PRECINCT 3,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",79
+PRECINCT 3,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",17
+PRECINCT 3,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",46
+PRECINCT 3,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",18
+PRECINCT 3,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",55
+PRECINCT 3,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",24
+PRECINCT 3,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",37
+PRECINCT 3,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",11
+PRECINCT 3,Lieutenant Governor (Democratic),"Montgomery, Bill",12
+PRECINCT 3,Lieutenant Governor (Democratic),None Of These Candidates,21
+PRECINCT 3,Lieutenant Governor (Democratic),"Stupak, Bob",11
+PRECINCT 3,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",6
+PRECINCT 3,Lieutenant Governor (Republican),"Hammargren, Lonnie",17
+PRECINCT 3,Lieutenant Governor (Republican),"Kao, George",5
+PRECINCT 3,Lieutenant Governor (Republican),"Krolicki, Brian",25
+PRECINCT 3,Lieutenant Governor (Republican),"Moncrief, Janet",4
+PRECINCT 3,Lieutenant Governor (Republican),None Of These Candidates,13
+PRECINCT 3,Lieutenant Governor (Republican),"Woollen, Barbara Lee",28
+PRECINCT 3,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",27
+PRECINCT 3,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",63
+PRECINCT 3,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",85
+PRECINCT 3,Secretary Of State (Democratic),"Boyd, Roderick",18
+PRECINCT 3,Secretary Of State (Democratic),"Miller, Ross",26
+PRECINCT 3,Secretary Of State (Democratic),None Of These Candidates,18
+PRECINCT 3,Secretary Of State (Republican),None Of These Candidates,16
+PRECINCT 3,Secretary Of State (Republican),"Scroggins, Brian",37
+PRECINCT 3,Secretary Of State (Republican),"Tarkanian, Danny",38
+PRECINCT 3,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",11
+PRECINCT 3,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",26
+PRECINCT 3,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",32
+PRECINCT 3,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",15
+PRECINCT 3,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",71
+PRECINCT 3,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",25
+PRECINCT 3,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",23
+PRECINCT 3,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",14
+PRECINCT 3,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",27
+PRECINCT 3,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",19
+PRECINCT 3,"State Assembly, District 36 (Republican)","GOEDHART, ED",51
+PRECINCT 3,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",16
+PRECINCT 3,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",145
+PRECINCT 3,State Treasurer (Democratic),"Marshall, Kate",33
+PRECINCT 3,State Treasurer (Democratic),None Of These Candidates,17
+PRECINCT 3,State Treasurer (Democratic),"VanderPal, Geoffrey",15
+PRECINCT 3,State Treasurer (Republican),"Augustine, Kathy",18
+PRECINCT 3,State Treasurer (Republican),"DeStefano, Mark",40
+PRECINCT 3,State Treasurer (Republican),None Of These Candidates,23
+PRECINCT 3,State Treasurer (Republican),"Pitts, Joseph",10
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",26
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",36
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,32
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",73
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",56
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",21
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",29
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,31
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",32
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",33
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",35
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",22
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
+PRECINCT 3,United States Senator (Democratic),"Carter, Jack",45
+PRECINCT 3,United States Senator (Democratic),None Of These Candidates,15
+PRECINCT 3,United States Senator (Democratic),"Tun, Ruby jee",7
+PRECINCT 3,United States Senator (Republican),"Ensign, John",79
+PRECINCT 3,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
+PRECINCT 3,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 4,Governor (Democratic),"Gibson, James B.",42
+PRECINCT 4,Governor (Democratic),"McConnell, Leola",2
+PRECINCT 4,Governor (Democratic),None Of These Candidates,8
+PRECINCT 4,Governor (Democratic),"Titus, Dina",19
+PRECINCT 4,Governor (Republican),"Beers, Bob",6
+PRECINCT 4,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 4,Governor (Republican),"GIBBONS, JIM",31
+PRECINCT 4,Governor (Republican),"Hunt, Lorraine T.",8
+PRECINCT 4,Governor (Republican),"Lusak, Stanleigh Harold",2
+PRECINCT 4,Governor (Republican),None Of These Candidates,2
+PRECINCT 4,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",72
+PRECINCT 4,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",45
+PRECINCT 4,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",18
+PRECINCT 4,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",23
+PRECINCT 4,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",28
+PRECINCT 4,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",35
+PRECINCT 4,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",26
+PRECINCT 4,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",28
+PRECINCT 4,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",20
+PRECINCT 4,Lieutenant Governor (Democratic),"Montgomery, Bill",13
+PRECINCT 4,Lieutenant Governor (Democratic),None Of These Candidates,21
+PRECINCT 4,Lieutenant Governor (Democratic),"Stupak, Bob",7
+PRECINCT 4,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",8
+PRECINCT 4,Lieutenant Governor (Republican),"Hammargren, Lonnie",6
+PRECINCT 4,Lieutenant Governor (Republican),"Kao, George",3
+PRECINCT 4,Lieutenant Governor (Republican),"Krolicki, Brian",13
+PRECINCT 4,Lieutenant Governor (Republican),"Moncrief, Janet",2
+PRECINCT 4,Lieutenant Governor (Republican),None Of These Candidates,10
+PRECINCT 4,Lieutenant Governor (Republican),"Woollen, Barbara Lee",13
+PRECINCT 4,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",36
+PRECINCT 4,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",47
+PRECINCT 4,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",49
+PRECINCT 4,Secretary Of State (Democratic),"Boyd, Roderick",11
+PRECINCT 4,Secretary Of State (Democratic),"Miller, Ross",34
+PRECINCT 4,Secretary Of State (Democratic),None Of These Candidates,22
+PRECINCT 4,Secretary Of State (Republican),None Of These Candidates,8
+PRECINCT 4,Secretary Of State (Republican),"Scroggins, Brian",17
+PRECINCT 4,Secretary Of State (Republican),"Tarkanian, Danny",22
+PRECINCT 4,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",5
+PRECINCT 4,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",36
+PRECINCT 4,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",20
+PRECINCT 4,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",8
+PRECINCT 4,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",56
+PRECINCT 4,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",15
+PRECINCT 4,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",33
+PRECINCT 4,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",10
+PRECINCT 4,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",22
+PRECINCT 4,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",12
+PRECINCT 4,"State Assembly, District 36 (Republican)","GOEDHART, ED",26
+PRECINCT 4,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",8
+PRECINCT 4,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",115
+PRECINCT 4,State Treasurer (Democratic),"Marshall, Kate",49
+PRECINCT 4,State Treasurer (Democratic),None Of These Candidates,14
+PRECINCT 4,State Treasurer (Democratic),"VanderPal, Geoffrey",8
+PRECINCT 4,State Treasurer (Republican),"Augustine, Kathy",15
+PRECINCT 4,State Treasurer (Republican),"DeStefano, Mark",14
+PRECINCT 4,State Treasurer (Republican),None Of These Candidates,12
+PRECINCT 4,State Treasurer (Republican),"Pitts, Joseph",7
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",12
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",24
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,38
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",57
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",45
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",15
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",11
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,41
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",21
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",12
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",20
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",10
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
+PRECINCT 4,United States Senator (Democratic),"Carter, Jack",40
+PRECINCT 4,United States Senator (Democratic),None Of These Candidates,21
+PRECINCT 4,United States Senator (Democratic),"Tun, Ruby jee",8
+PRECINCT 4,United States Senator (Republican),"Ensign, John",40
+PRECINCT 4,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
+PRECINCT 4,United States Senator (Republican),None Of These Candidates,4
+PRECINCT 5,Governor (Democratic),"Gibson, James B.",40
+PRECINCT 5,Governor (Democratic),"McConnell, Leola",11
+PRECINCT 5,Governor (Democratic),None Of These Candidates,18
+PRECINCT 5,Governor (Democratic),"Titus, Dina",31
+PRECINCT 5,Governor (Republican),"Beers, Bob",22
+PRECINCT 5,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",1
+PRECINCT 5,Governor (Republican),"GIBBONS, JIM",30
+PRECINCT 5,Governor (Republican),"Hunt, Lorraine T.",13
+PRECINCT 5,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 5,Governor (Republican),None Of These Candidates,3
+PRECINCT 5,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",69
+PRECINCT 5,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",81
+PRECINCT 5,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",34
+PRECINCT 5,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",29
+PRECINCT 5,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",51
+PRECINCT 5,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",61
+PRECINCT 5,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",24
+PRECINCT 5,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",26
+PRECINCT 5,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",21
+PRECINCT 5,Lieutenant Governor (Democratic),"Montgomery, Bill",17
+PRECINCT 5,Lieutenant Governor (Democratic),None Of These Candidates,37
+PRECINCT 5,Lieutenant Governor (Democratic),"Stupak, Bob",15
+PRECINCT 5,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",9
+PRECINCT 5,Lieutenant Governor (Republican),"Hammargren, Lonnie",13
+PRECINCT 5,Lieutenant Governor (Republican),"Kao, George",3
+PRECINCT 5,Lieutenant Governor (Republican),"Krolicki, Brian",17
+PRECINCT 5,Lieutenant Governor (Republican),"Moncrief, Janet",3
+PRECINCT 5,Lieutenant Governor (Republican),None Of These Candidates,6
+PRECINCT 5,Lieutenant Governor (Republican),"Woollen, Barbara Lee",27
+PRECINCT 5,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",65
+PRECINCT 5,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",69
+PRECINCT 5,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",55
+PRECINCT 5,Secretary Of State (Democratic),"Boyd, Roderick",19
+PRECINCT 5,Secretary Of State (Democratic),"Miller, Ross",49
+PRECINCT 5,Secretary Of State (Democratic),None Of These Candidates,32
+PRECINCT 5,Secretary Of State (Republican),None Of These Candidates,9
+PRECINCT 5,Secretary Of State (Republican),"Scroggins, Brian",23
+PRECINCT 5,Secretary Of State (Republican),"Tarkanian, Danny",37
+PRECINCT 5,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",21
+PRECINCT 5,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",26
+PRECINCT 5,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",31
+PRECINCT 5,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",7
+PRECINCT 5,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",80
+PRECINCT 5,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",27
+PRECINCT 5,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",18
+PRECINCT 5,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",18
+PRECINCT 5,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",58
+PRECINCT 5,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",17
+PRECINCT 5,"State Assembly, District 36 (Republican)","GOEDHART, ED",43
+PRECINCT 5,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",9
+PRECINCT 5,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",157
+PRECINCT 5,State Treasurer (Democratic),"Marshall, Kate",54
+PRECINCT 5,State Treasurer (Democratic),None Of These Candidates,26
+PRECINCT 5,State Treasurer (Democratic),"VanderPal, Geoffrey",20
+PRECINCT 5,State Treasurer (Republican),"Augustine, Kathy",17
+PRECINCT 5,State Treasurer (Republican),"DeStefano, Mark",28
+PRECINCT 5,State Treasurer (Republican),None Of These Candidates,14
+PRECINCT 5,State Treasurer (Republican),"Pitts, Joseph",10
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",30
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",29
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,42
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",85
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",67
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",22
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",28
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,37
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",30
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",17
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",22
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",26
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
+PRECINCT 5,United States Senator (Democratic),"Carter, Jack",59
+PRECINCT 5,United States Senator (Democratic),None Of These Candidates,27
+PRECINCT 5,United States Senator (Democratic),"Tun, Ruby jee",13
+PRECINCT 5,United States Senator (Republican),"Ensign, John",58
+PRECINCT 5,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PRECINCT 5,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 6,Governor (Democratic),"Gibson, James B.",56
+PRECINCT 6,Governor (Democratic),"McConnell, Leola",5
+PRECINCT 6,Governor (Democratic),None Of These Candidates,19
+PRECINCT 6,Governor (Democratic),"Titus, Dina",31
+PRECINCT 6,Governor (Republican),"Beers, Bob",23
+PRECINCT 6,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 6,Governor (Republican),"GIBBONS, JIM",35
+PRECINCT 6,Governor (Republican),"Hunt, Lorraine T.",7
+PRECINCT 6,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 6,Governor (Republican),None Of These Candidates,1
+PRECINCT 6,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",98
+PRECINCT 6,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",92
+PRECINCT 6,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",26
+PRECINCT 6,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",31
+PRECINCT 6,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",37
+PRECINCT 6,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",66
+PRECINCT 6,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",21
+PRECINCT 6,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",61
+PRECINCT 6,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",29
+PRECINCT 6,Lieutenant Governor (Democratic),"Montgomery, Bill",17
+PRECINCT 6,Lieutenant Governor (Democratic),None Of These Candidates,39
+PRECINCT 6,Lieutenant Governor (Democratic),"Stupak, Bob",14
+PRECINCT 6,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",16
+PRECINCT 6,Lieutenant Governor (Republican),"Hammargren, Lonnie",9
+PRECINCT 6,Lieutenant Governor (Republican),"Kao, George",4
+PRECINCT 6,Lieutenant Governor (Republican),"Krolicki, Brian",21
+PRECINCT 6,Lieutenant Governor (Republican),"Moncrief, Janet",3
+PRECINCT 6,Lieutenant Governor (Republican),None Of These Candidates,13
+PRECINCT 6,Lieutenant Governor (Republican),"Woollen, Barbara Lee",17
+PRECINCT 6,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",47
+PRECINCT 6,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",98
+PRECINCT 6,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",69
+PRECINCT 6,Secretary Of State (Democratic),"Boyd, Roderick",26
+PRECINCT 6,Secretary Of State (Democratic),"Miller, Ross",51
+PRECINCT 6,Secretary Of State (Democratic),None Of These Candidates,36
+PRECINCT 6,Secretary Of State (Republican),None Of These Candidates,9
+PRECINCT 6,Secretary Of State (Republican),"Scroggins, Brian",26
+PRECINCT 6,Secretary Of State (Republican),"Tarkanian, Danny",29
+PRECINCT 6,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",15
+PRECINCT 6,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",32
+PRECINCT 6,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",40
+PRECINCT 6,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",12
+PRECINCT 6,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",88
+PRECINCT 6,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",33
+PRECINCT 6,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",40
+PRECINCT 6,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",22
+PRECINCT 6,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",46
+PRECINCT 6,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",16
+PRECINCT 6,"State Assembly, District 36 (Republican)","GOEDHART, ED",32
+PRECINCT 6,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",15
+PRECINCT 6,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",181
+PRECINCT 6,State Treasurer (Democratic),"Marshall, Kate",63
+PRECINCT 6,State Treasurer (Democratic),None Of These Candidates,30
+PRECINCT 6,State Treasurer (Democratic),"VanderPal, Geoffrey",20
+PRECINCT 6,State Treasurer (Republican),"Augustine, Kathy",14
+PRECINCT 6,State Treasurer (Republican),"DeStefano, Mark",28
+PRECINCT 6,State Treasurer (Republican),None Of These Candidates,12
+PRECINCT 6,State Treasurer (Republican),"Pitts, Joseph",9
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",31
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",51
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,46
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",80
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",66
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",35
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",32
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,50
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",29
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",19
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",13
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",34
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
+PRECINCT 6,United States Senator (Democratic),"Carter, Jack",87
+PRECINCT 6,United States Senator (Democratic),None Of These Candidates,19
+PRECINCT 6,United States Senator (Democratic),"Tun, Ruby jee",11
+PRECINCT 6,United States Senator (Republican),"Ensign, John",57
+PRECINCT 6,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
+PRECINCT 6,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 7,Governor (Democratic),"Gibson, James B.",7
+PRECINCT 7,Governor (Democratic),"McConnell, Leola",0
+PRECINCT 7,Governor (Democratic),None Of These Candidates,3
+PRECINCT 7,Governor (Democratic),"Titus, Dina",7
+PRECINCT 7,Governor (Republican),"Beers, Bob",4
+PRECINCT 7,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 7,Governor (Republican),"GIBBONS, JIM",16
+PRECINCT 7,Governor (Republican),"Hunt, Lorraine T.",2
+PRECINCT 7,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 7,Governor (Republican),None Of These Candidates,0
+PRECINCT 7,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",18
+PRECINCT 7,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",14
+PRECINCT 7,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",14
+PRECINCT 7,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",5
+PRECINCT 7,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",4
+PRECINCT 7,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",9
+PRECINCT 7,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",13
+PRECINCT 7,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",15
+PRECINCT 7,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",4
+PRECINCT 7,Lieutenant Governor (Democratic),"Montgomery, Bill",0
+PRECINCT 7,Lieutenant Governor (Democratic),None Of These Candidates,7
+PRECINCT 7,Lieutenant Governor (Democratic),"Stupak, Bob",5
+PRECINCT 7,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",1
+PRECINCT 7,Lieutenant Governor (Republican),"Hammargren, Lonnie",3
+PRECINCT 7,Lieutenant Governor (Republican),"Kao, George",0
+PRECINCT 7,Lieutenant Governor (Republican),"Krolicki, Brian",10
+PRECINCT 7,Lieutenant Governor (Republican),"Moncrief, Janet",0
+PRECINCT 7,Lieutenant Governor (Republican),None Of These Candidates,4
+PRECINCT 7,Lieutenant Governor (Republican),"Woollen, Barbara Lee",5
+PRECINCT 7,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",15
+PRECINCT 7,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",16
+PRECINCT 7,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",15
+PRECINCT 7,Secretary Of State (Democratic),"Boyd, Roderick",2
+PRECINCT 7,Secretary Of State (Democratic),"Miller, Ross",10
+PRECINCT 7,Secretary Of State (Democratic),None Of These Candidates,4
+PRECINCT 7,Secretary Of State (Republican),None Of These Candidates,4
+PRECINCT 7,Secretary Of State (Republican),"Scroggins, Brian",12
+PRECINCT 7,Secretary Of State (Republican),"Tarkanian, Danny",7
+PRECINCT 7,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",2
+PRECINCT 7,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",12
+PRECINCT 7,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",9
+PRECINCT 7,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",0
+PRECINCT 7,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",20
+PRECINCT 7,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",4
+PRECINCT 7,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",6
+PRECINCT 7,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",2
+PRECINCT 7,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",8
+PRECINCT 7,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",4
+PRECINCT 7,"State Assembly, District 36 (Republican)","GOEDHART, ED",15
+PRECINCT 7,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",3
+PRECINCT 7,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",41
+PRECINCT 7,State Treasurer (Democratic),"Marshall, Kate",10
+PRECINCT 7,State Treasurer (Democratic),None Of These Candidates,3
+PRECINCT 7,State Treasurer (Democratic),"VanderPal, Geoffrey",3
+PRECINCT 7,State Treasurer (Republican),"Augustine, Kathy",6
+PRECINCT 7,State Treasurer (Republican),"DeStefano, Mark",12
+PRECINCT 7,State Treasurer (Republican),None Of These Candidates,4
+PRECINCT 7,State Treasurer (Republican),"Pitts, Joseph",1
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",3
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",7
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,13
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",23
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",15
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",3
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",14
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,11
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",3
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",6
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",7
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",9
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
+PRECINCT 7,United States Senator (Democratic),"Carter, Jack",12
+PRECINCT 7,United States Senator (Democratic),None Of These Candidates,4
+PRECINCT 7,United States Senator (Democratic),"Tun, Ruby jee",1
+PRECINCT 7,United States Senator (Republican),"Ensign, John",20
+PRECINCT 7,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 7,United States Senator (Republican),None Of These Candidates,2
+PRECINCT 8,Governor (Democratic),"Gibson, James B.",
+PRECINCT 8,Governor (Democratic),"McConnell, Leola",
+PRECINCT 8,Governor (Democratic),None Of These Candidates,
+PRECINCT 8,Governor (Democratic),"Titus, Dina",
+PRECINCT 8,Governor (Republican),"Beers, Bob",2
+PRECINCT 8,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 8,Governor (Republican),"GIBBONS, JIM",10
+PRECINCT 8,Governor (Republican),"Hunt, Lorraine T.",1
+PRECINCT 8,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 8,Governor (Republican),None Of These Candidates,1
+PRECINCT 8,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",13
+PRECINCT 8,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",9
+PRECINCT 8,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",5
+PRECINCT 8,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",5
+PRECINCT 8,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",3
+PRECINCT 8,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",5
+PRECINCT 8,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",8
+PRECINCT 8,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",6
+PRECINCT 8,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",
+PRECINCT 8,Lieutenant Governor (Democratic),"Montgomery, Bill",
+PRECINCT 8,Lieutenant Governor (Democratic),None Of These Candidates,
+PRECINCT 8,Lieutenant Governor (Democratic),"Stupak, Bob",
+PRECINCT 8,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",
+PRECINCT 8,Lieutenant Governor (Republican),"Hammargren, Lonnie",2
+PRECINCT 8,Lieutenant Governor (Republican),"Kao, George",3
+PRECINCT 8,Lieutenant Governor (Republican),"Krolicki, Brian",1
+PRECINCT 8,Lieutenant Governor (Republican),"Moncrief, Janet",0
+PRECINCT 8,Lieutenant Governor (Republican),None Of These Candidates,2
+PRECINCT 8,Lieutenant Governor (Republican),"Woollen, Barbara Lee",6
+PRECINCT 8,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",4
+PRECINCT 8,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",12
+PRECINCT 8,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",11
+PRECINCT 8,Secretary Of State (Democratic),"Boyd, Roderick",
+PRECINCT 8,Secretary Of State (Democratic),"Miller, Ross",
+PRECINCT 8,Secretary Of State (Democratic),None Of These Candidates,
+PRECINCT 8,Secretary Of State (Republican),None Of These Candidates,4
+PRECINCT 8,Secretary Of State (Republican),"Scroggins, Brian",4
+PRECINCT 8,Secretary Of State (Republican),"Tarkanian, Danny",6
+PRECINCT 8,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",3
+PRECINCT 8,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",0
+PRECINCT 8,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",6
+PRECINCT 8,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",0
+PRECINCT 8,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",14
+PRECINCT 8,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",4
+PRECINCT 8,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",
+PRECINCT 8,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",
+PRECINCT 8,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",
+PRECINCT 8,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",3
+PRECINCT 8,"State Assembly, District 36 (Republican)","GOEDHART, ED",10
+PRECINCT 8,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",1
+PRECINCT 8,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",27
+PRECINCT 8,State Treasurer (Democratic),"Marshall, Kate",
+PRECINCT 8,State Treasurer (Democratic),None Of These Candidates,
+PRECINCT 8,State Treasurer (Democratic),"VanderPal, Geoffrey",
+PRECINCT 8,State Treasurer (Republican),"Augustine, Kathy",3
+PRECINCT 8,State Treasurer (Republican),"DeStefano, Mark",7
+PRECINCT 8,State Treasurer (Republican),None Of These Candidates,1
+PRECINCT 8,State Treasurer (Republican),"Pitts, Joseph",3
+PRECINCT 8,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",7
+PRECINCT 8,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",7
+PRECINCT 8,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,6
+PRECINCT 8,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",7
+PRECINCT 8,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",4
+PRECINCT 8,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",8
+PRECINCT 8,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",4
+PRECINCT 8,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,4
+PRECINCT 8,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",7
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",5
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",5
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",2
+PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
+PRECINCT 8,United States Senator (Democratic),"Carter, Jack",
+PRECINCT 8,United States Senator (Democratic),None Of These Candidates,
+PRECINCT 8,United States Senator (Democratic),"Tun, Ruby jee",
+PRECINCT 8,United States Senator (Republican),"Ensign, John",13
+PRECINCT 8,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 8,United States Senator (Republican),None Of These Candidates,1
+PRECINCT 9,Governor (Democratic),"Gibson, James B.",24
+PRECINCT 9,Governor (Democratic),"McConnell, Leola",2
+PRECINCT 9,Governor (Democratic),None Of These Candidates,3
+PRECINCT 9,Governor (Democratic),"Titus, Dina",20
+PRECINCT 9,Governor (Republican),"Beers, Bob",18
+PRECINCT 9,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 9,Governor (Republican),"GIBBONS, JIM",21
+PRECINCT 9,Governor (Republican),"Hunt, Lorraine T.",4
+PRECINCT 9,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 9,Governor (Republican),None Of These Candidates,3
+PRECINCT 9,HAWTHORNE Township Constable (Nonpartisan),"SCHAAF, GARY",60
+PRECINCT 9,HAWTHORNE Township Constable (Nonpartisan),"STROMMATT, RICHARD H.",22
+PRECINCT 9,HAWTHORNE Township Constable (Nonpartisan),"TETERS, SR., TOM",14
+PRECINCT 9,HAWTHORNE Township Justice of the Peace (Nonpartisan),"BARTON, WADE",33
+PRECINCT 9,HAWTHORNE Township Justice of the Peace (Nonpartisan),"FUNK, GARY A.",13
+PRECINCT 9,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUNTER, JAY T.",19
+PRECINCT 9,HAWTHORNE Township Justice of the Peace (Nonpartisan),"GUSTAFSON, CATHY",11
+PRECINCT 9,HAWTHORNE Township Justice of the Peace (Nonpartisan),"SKVARNA, LEE",23
+PRECINCT 9,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",15
+PRECINCT 9,Lieutenant Governor (Democratic),"Montgomery, Bill",4
+PRECINCT 9,Lieutenant Governor (Democratic),None Of These Candidates,13
+PRECINCT 9,Lieutenant Governor (Democratic),"Stupak, Bob",10
+PRECINCT 9,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",7
+PRECINCT 9,Lieutenant Governor (Republican),"Hammargren, Lonnie",13
+PRECINCT 9,Lieutenant Governor (Republican),"Kao, George",2
+PRECINCT 9,Lieutenant Governor (Republican),"Krolicki, Brian",7
+PRECINCT 9,Lieutenant Governor (Republican),"Moncrief, Janet",2
+PRECINCT 9,Lieutenant Governor (Republican),None Of These Candidates,11
+PRECINCT 9,Lieutenant Governor (Republican),"Woollen, Barbara Lee",9
+PRECINCT 9,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"CLARK, JANEEN D.",25
+PRECINCT 9,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"DEMENT, JUNE",29
+PRECINCT 9,MINERAL COUNTY School Trustee Seat Hawthorne Seat - (Nonpartisan),"ISOM, COURTNEY",42
+PRECINCT 9,Secretary Of State (Democratic),"Boyd, Roderick",11
+PRECINCT 9,Secretary Of State (Democratic),"Miller, Ross",24
+PRECINCT 9,Secretary Of State (Democratic),None Of These Candidates,13
+PRECINCT 9,Secretary Of State (Republican),None Of These Candidates,12
+PRECINCT 9,Secretary Of State (Republican),"Scroggins, Brian",17
+PRECINCT 9,Secretary Of State (Republican),"Tarkanian, Danny",15
+PRECINCT 9,Sheriff - MINERAL - (Nonpartisan),"CORNELL, DAVID",11
+PRECINCT 9,Sheriff - MINERAL - (Nonpartisan),"HOFERER, JR., ROBERT L.",6
+PRECINCT 9,Sheriff - MINERAL - (Nonpartisan),"MADRASO, JR., JOHN",25
+PRECINCT 9,Sheriff - MINERAL - (Nonpartisan),"SHIELDS, MARK J.",1
+PRECINCT 9,Sheriff - MINERAL - (Nonpartisan),"SMITH, ED ""SMITTY""",47
+PRECINCT 9,Sheriff - MINERAL - (Nonpartisan),"TRDLA, FRED",12
+PRECINCT 9,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",6
+PRECINCT 9,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",8
+PRECINCT 9,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",33
+PRECINCT 9,"State Assembly, District 36 (Republican)","BROWN, JOHN M.",7
+PRECINCT 9,"State Assembly, District 36 (Republican)","GOEDHART, ED",24
+PRECINCT 9,"State Assembly, District 36 (Republican)","HIGBEE, JR., ED",11
+PRECINCT 9,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",79
+PRECINCT 9,State Treasurer (Democratic),"Marshall, Kate",32
+PRECINCT 9,State Treasurer (Democratic),None Of These Candidates,7
+PRECINCT 9,State Treasurer (Democratic),"VanderPal, Geoffrey",10
+PRECINCT 9,State Treasurer (Republican),"Augustine, Kathy",16
+PRECINCT 9,State Treasurer (Republican),"DeStefano, Mark",12
+PRECINCT 9,State Treasurer (Republican),None Of These Candidates,10
+PRECINCT 9,State Treasurer (Republican),"Pitts, Joseph",4
+PRECINCT 9,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",31
+PRECINCT 9,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",16
+PRECINCT 9,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,19
+PRECINCT 9,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",31
+PRECINCT 9,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",33
+PRECINCT 9,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",22
+PRECINCT 9,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",15
+PRECINCT 9,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,14
+PRECINCT 9,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",16
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",13
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",16
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
+PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
+PRECINCT 9,United States Senator (Democratic),"Carter, Jack",34
+PRECINCT 9,United States Senator (Democratic),None Of These Candidates,12
+PRECINCT 9,United States Senator (Democratic),"Tun, Ruby jee",3
+PRECINCT 9,United States Senator (Republican),"Ensign, John",34
+PRECINCT 9,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PRECINCT 9,United States Senator (Republican),None Of These Candidates,5
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
+PRECINCT 99,United States Senator (Democratic),"Carter, Jack",0
+PRECINCT 99,United States Senator (Democratic),None Of These Candidates,0
+PRECINCT 99,United States Senator (Democratic),"Tun, Ruby jee",0
+PRECINCT 99,United States Senator (Republican),"Ensign, John",0
+PRECINCT 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 99,United States Senator (Republican),None Of These Candidates,0

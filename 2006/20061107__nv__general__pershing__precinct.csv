@@ -1,0 +1,416 @@
+precinct,office,candidate,votes
+PRECINCT 1,Assessor,"HAMILTON, CELESTE",446
+PRECINCT 1,Attorney General,"CHAIREZ, DON",165
+PRECINCT 1,Attorney General,"CORTEZ  MASTO, CATHERINE",302
+PRECINCT 1,Attorney General,None Of These Candidates,29
+PRECINCT 1,Big Meadow Conservation District - 2006,"CLINGER, CARL F.",310
+PRECINCT 1,Big Meadow Conservation District - 2006,"DEPAOLI, ROBERT R.",339
+PRECINCT 1,Big Meadow Conservation District - 2006,"VESCO, VANCE R.",330
+PRECINCT 1,County Clerk/Treasurer,"GILES, DONNA K.",443
+PRECINCT 1,County Commissioner Seat C,"CRONE, DON",218
+PRECINCT 1,County Commissioner Seat C,"MANCEBO, ROGER",275
+PRECINCT 1,County Recorder-Auditor,"MOURA, DARLENE E.",447
+PRECINCT 1,County Sheriff - PERSHING,"MATTINGLY, BILL",174
+PRECINCT 1,County Sheriff - PERSHING,"SKINNER, RON",327
+PRECINCT 1,DISTRICT ATTORNEY,"SHIRLEY, JIM",415
+PRECINCT 1,Governor,"BERGLAND, CRAIG O.",3
+PRECINCT 1,Governor,"GIBBONS, JIM",341
+PRECINCT 1,Governor,"HANSEN, CHRISTOPHER H.",10
+PRECINCT 1,Governor,None Of These Candidates,20
+PRECINCT 1,Governor,"TITUS, DINA",131
+PRECINCT 1,Hospital District PERSHING,"EVENSON, STEVE E.",312
+PRECINCT 1,Hospital District PERSHING,"GOLDSWORTHY, JAMES",309
+PRECINCT 1,Hospital District PERSHING,"PIERCE, JOE L.",281
+PRECINCT 1,Hospital District PERSHING,"RIEHM, JACK",337
+PRECINCT 1,Lieutenant Governor,"JEFFERSON, THOMAS",34
+PRECINCT 1,Lieutenant Governor,"KROLICKI, BRIAN K.",334
+PRECINCT 1,Lieutenant Governor,None Of These Candidates,27
+PRECINCT 1,Lieutenant Governor,"UNGER, ROBERT ""BOB""",106
+PRECINCT 1,Lovelock Meadows Water District - 2006,"BERGE, KRISTY",313
+PRECINCT 1,Lovelock Meadows Water District - 2006,"EVENSON, STACEY A.",241
+PRECINCT 1,Lovelock Meadows Water District - 2006,"GOGERT, DARRELL",178
+PRECINCT 1,Lovelock Meadows Water District - 2006,"WILCOX, RODNEY J.",337
+PRECINCT 1,PUBLIC ADMINISTRATOR,"KEARNS, JEFF",309
+PRECINCT 1,PUBLIC ADMINISTRATOR,"KNISLEY, CHRIS",175
+PRECINCT 1,School District Board of Trustees Seat A,"GOLDSWORTHY, TERESA L.",175
+PRECINCT 1,School District Board of Trustees Seat A,"HUDSON, SHAYLA",295
+PRECINCT 1,School District Board of Trustees Seat C,"ARNOLD, BRAD E.",211
+PRECINCT 1,School District Board of Trustees Seat C,"RICHARDSON, LAURA L.",276
+PRECINCT 1,School District Board of Trustees Seat D,"BRINKERHOFF, WALTER A.",303
+PRECINCT 1,School District Board of Trustees Seat D,"CRIM, JOE",188
+PRECINCT 1,Secretary Of State,"HANSEN, JANINE",42
+PRECINCT 1,Secretary Of State,"MILLER, ROSS",147
+PRECINCT 1,Secretary Of State,None Of These Candidates,25
+PRECINCT 1,Secretary Of State,"TARKANIAN, DANNY",282
+PRECINCT 1,"State Assembly, District 35","GOICOECHEA, PETE",439
+PRECINCT 1,State Controller,"FITZGIBBONS, FLOYD",25
+PRECINCT 1,State Controller,"MARTIN, STEVE",235
+PRECINCT 1,State Controller,None Of These Candidates,47
+PRECINCT 1,State Controller,"WALLIN, KIM R.",190
+PRECINCT 1,State Treasurer,"ANDREWS, MARK",25
+PRECINCT 1,State Treasurer,"DESTEFANO, MARK",265
+PRECINCT 1,State Treasurer,"MARSHALL, KATE",167
+PRECINCT 1,State Treasurer,None Of These Candidates,39
+PRECINCT 1,"Supreme Court Justice, Seat C","Cherry, Michael A.",296
+PRECINCT 1,"Supreme Court Justice, Seat C",None Of These Candidates,152
+PRECINCT 1,"Supreme Court Justice, Seat F","Douglas, Michael L.",185
+PRECINCT 1,"Supreme Court Justice, Seat F",None Of These Candidates,101
+PRECINCT 1,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",198
+PRECINCT 1,"Supreme Court Justice, Seat G","BECKER, NANCY",161
+PRECINCT 1,"Supreme Court Justice, Seat G",None Of These Candidates,113
+PRECINCT 1,"Supreme Court Justice, Seat G","Saitta, Nancy M.",208
+PRECINCT 1,"U.S. Representative in Congress, District 2","DERBY, JILL",210
+PRECINCT 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",278
+PRECINCT 1,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
+PRECINCT 1,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+PRECINCT 1,United States Senator,"CARTER, JACK",123
+PRECINCT 1,United States Senator,"ENSIGN, JOHN",364
+PRECINCT 1,United States Senator,None Of These Candidates,11
+PRECINCT 1,United States Senator,"SCHUMANN, DAVID K.",8
+PRECINCT 1,United States Senator,"TRAINOR, BRENDAN",2
+PRECINCT 3,Assessor,"HAMILTON, CELESTE",287
+PRECINCT 3,Attorney General,"CHAIREZ, DON",72
+PRECINCT 3,Attorney General,"CORTEZ  MASTO, CATHERINE",217
+PRECINCT 3,Attorney General,None Of These Candidates,26
+PRECINCT 3,Big Meadow Conservation District - 2006,"CLINGER, CARL F.",216
+PRECINCT 3,Big Meadow Conservation District - 2006,"DEPAOLI, ROBERT R.",227
+PRECINCT 3,Big Meadow Conservation District - 2006,"VESCO, VANCE R.",231
+PRECINCT 3,Council Members Seat B,"DONALDSON, THOMAS",145
+PRECINCT 3,Council Members Seat B,"POMMERENING, DALE",156
+PRECINCT 3,County Clerk/Treasurer,"GILES, DONNA K.",283
+PRECINCT 3,County Commissioner Seat C,"CRONE, DON",125
+PRECINCT 3,County Commissioner Seat C,"MANCEBO, ROGER",188
+PRECINCT 3,County Recorder-Auditor,"MOURA, DARLENE E.",286
+PRECINCT 3,County Sheriff - PERSHING,"MATTINGLY, BILL",91
+PRECINCT 3,County Sheriff - PERSHING,"SKINNER, RON",220
+PRECINCT 3,DISTRICT ATTORNEY,"SHIRLEY, JIM",252
+PRECINCT 3,Governor,"BERGLAND, CRAIG O.",5
+PRECINCT 3,Governor,"GIBBONS, JIM",178
+PRECINCT 3,Governor,"HANSEN, CHRISTOPHER H.",16
+PRECINCT 3,Governor,None Of These Candidates,10
+PRECINCT 3,Governor,"TITUS, DINA",106
+PRECINCT 3,Hospital District PERSHING,"EVENSON, STEVE E.",209
+PRECINCT 3,Hospital District PERSHING,"GOLDSWORTHY, JAMES",215
+PRECINCT 3,Hospital District PERSHING,"PIERCE, JOE L.",188
+PRECINCT 3,Hospital District PERSHING,"RIEHM, JACK",232
+PRECINCT 3,Lieutenant Governor,"JEFFERSON, THOMAS",24
+PRECINCT 3,Lieutenant Governor,"KROLICKI, BRIAN K.",176
+PRECINCT 3,Lieutenant Governor,None Of These Candidates,19
+PRECINCT 3,Lieutenant Governor,"UNGER, ROBERT ""BOB""",95
+PRECINCT 3,Lovelock Meadows Water District - 2006,"BERGE, KRISTY",222
+PRECINCT 3,Lovelock Meadows Water District - 2006,"EVENSON, STACEY A.",173
+PRECINCT 3,Lovelock Meadows Water District - 2006,"GOGERT, DARRELL",141
+PRECINCT 3,Lovelock Meadows Water District - 2006,"WILCOX, RODNEY J.",215
+PRECINCT 3,PUBLIC ADMINISTRATOR,"KEARNS, JEFF",150
+PRECINCT 3,PUBLIC ADMINISTRATOR,"KNISLEY, CHRIS",154
+PRECINCT 3,School District Board of Trustees Seat A,"GOLDSWORTHY, TERESA L.",109
+PRECINCT 3,School District Board of Trustees Seat A,"HUDSON, SHAYLA",183
+PRECINCT 3,School District Board of Trustees Seat C,"ARNOLD, BRAD E.",134
+PRECINCT 3,School District Board of Trustees Seat C,"RICHARDSON, LAURA L.",173
+PRECINCT 3,School District Board of Trustees Seat D,"BRINKERHOFF, WALTER A.",193
+PRECINCT 3,School District Board of Trustees Seat D,"CRIM, JOE",117
+PRECINCT 3,Secretary Of State,"HANSEN, JANINE",30
+PRECINCT 3,Secretary Of State,"MILLER, ROSS",134
+PRECINCT 3,Secretary Of State,None Of These Candidates,13
+PRECINCT 3,Secretary Of State,"TARKANIAN, DANNY",136
+PRECINCT 3,"State Assembly, District 35","GOICOECHEA, PETE",253
+PRECINCT 3,State Controller,"FITZGIBBONS, FLOYD",23
+PRECINCT 3,State Controller,"MARTIN, STEVE",112
+PRECINCT 3,State Controller,None Of These Candidates,26
+PRECINCT 3,State Controller,"WALLIN, KIM R.",149
+PRECINCT 3,State Treasurer,"ANDREWS, MARK",27
+PRECINCT 3,State Treasurer,"DESTEFANO, MARK",118
+PRECINCT 3,State Treasurer,"MARSHALL, KATE",144
+PRECINCT 3,State Treasurer,None Of These Candidates,25
+PRECINCT 3,"Supreme Court Justice, Seat C","Cherry, Michael A.",190
+PRECINCT 3,"Supreme Court Justice, Seat C",None Of These Candidates,93
+PRECINCT 3,"Supreme Court Justice, Seat F","Douglas, Michael L.",128
+PRECINCT 3,"Supreme Court Justice, Seat F",None Of These Candidates,60
+PRECINCT 3,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",108
+PRECINCT 3,"Supreme Court Justice, Seat G","BECKER, NANCY",108
+PRECINCT 3,"Supreme Court Justice, Seat G",None Of These Candidates,68
+PRECINCT 3,"Supreme Court Justice, Seat G","Saitta, Nancy M.",126
+PRECINCT 3,"U.S. Representative in Congress, District 2","DERBY, JILL",160
+PRECINCT 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",141
+PRECINCT 3,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+PRECINCT 3,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
+PRECINCT 3,United States Senator,"CARTER, JACK",118
+PRECINCT 3,United States Senator,"ENSIGN, JOHN",184
+PRECINCT 3,United States Senator,None Of These Candidates,5
+PRECINCT 3,United States Senator,"SCHUMANN, DAVID K.",6
+PRECINCT 3,United States Senator,"TRAINOR, BRENDAN",6
+PRECINCT 4,Assessor,"HAMILTON, CELESTE",207
+PRECINCT 4,Attorney General,"CHAIREZ, DON",36
+PRECINCT 4,Attorney General,"CORTEZ  MASTO, CATHERINE",165
+PRECINCT 4,Attorney General,None Of These Candidates,25
+PRECINCT 4,Big Meadow Conservation District - 2006,"CLINGER, CARL F.",131
+PRECINCT 4,Big Meadow Conservation District - 2006,"DEPAOLI, ROBERT R.",146
+PRECINCT 4,Big Meadow Conservation District - 2006,"VESCO, VANCE R.",133
+PRECINCT 4,Council Members Seat B,"DONALDSON, THOMAS",118
+PRECINCT 4,Council Members Seat B,"POMMERENING, DALE",102
+PRECINCT 4,County Clerk/Treasurer,"GILES, DONNA K.",200
+PRECINCT 4,County Commissioner Seat C,"CRONE, DON",76
+PRECINCT 4,County Commissioner Seat C,"MANCEBO, ROGER",143
+PRECINCT 4,County Recorder-Auditor,"MOURA, DARLENE E.",209
+PRECINCT 4,County Sheriff - PERSHING,"MATTINGLY, BILL",53
+PRECINCT 4,County Sheriff - PERSHING,"SKINNER, RON",170
+PRECINCT 4,DISTRICT ATTORNEY,"SHIRLEY, JIM",167
+PRECINCT 4,Governor,"BERGLAND, CRAIG O.",3
+PRECINCT 4,Governor,"GIBBONS, JIM",118
+PRECINCT 4,Governor,"HANSEN, CHRISTOPHER H.",8
+PRECINCT 4,Governor,None Of These Candidates,18
+PRECINCT 4,Governor,"TITUS, DINA",82
+PRECINCT 4,Hospital District PERSHING,"EVENSON, STEVE E.",133
+PRECINCT 4,Hospital District PERSHING,"GOLDSWORTHY, JAMES",121
+PRECINCT 4,Hospital District PERSHING,"PIERCE, JOE L.",114
+PRECINCT 4,Hospital District PERSHING,"RIEHM, JACK",126
+PRECINCT 4,Lieutenant Governor,"JEFFERSON, THOMAS",19
+PRECINCT 4,Lieutenant Governor,"KROLICKI, BRIAN K.",118
+PRECINCT 4,Lieutenant Governor,None Of These Candidates,21
+PRECINCT 4,Lieutenant Governor,"UNGER, ROBERT ""BOB""",69
+PRECINCT 4,Lovelock Meadows Water District - 2006,"BERGE, KRISTY",130
+PRECINCT 4,Lovelock Meadows Water District - 2006,"EVENSON, STACEY A.",112
+PRECINCT 4,Lovelock Meadows Water District - 2006,"GOGERT, DARRELL",89
+PRECINCT 4,Lovelock Meadows Water District - 2006,"WILCOX, RODNEY J.",138
+PRECINCT 4,PUBLIC ADMINISTRATOR,"KEARNS, JEFF",101
+PRECINCT 4,PUBLIC ADMINISTRATOR,"KNISLEY, CHRIS",118
+PRECINCT 4,School District Board of Trustees Seat A,"GOLDSWORTHY, TERESA L.",74
+PRECINCT 4,School District Board of Trustees Seat A,"HUDSON, SHAYLA",138
+PRECINCT 4,School District Board of Trustees Seat C,"ARNOLD, BRAD E.",77
+PRECINCT 4,School District Board of Trustees Seat C,"RICHARDSON, LAURA L.",142
+PRECINCT 4,School District Board of Trustees Seat D,"BRINKERHOFF, WALTER A.",123
+PRECINCT 4,School District Board of Trustees Seat D,"CRIM, JOE",96
+PRECINCT 4,Secretary Of State,"HANSEN, JANINE",27
+PRECINCT 4,Secretary Of State,"MILLER, ROSS",100
+PRECINCT 4,Secretary Of State,None Of These Candidates,18
+PRECINCT 4,Secretary Of State,"TARKANIAN, DANNY",79
+PRECINCT 4,"State Assembly, District 35","GOICOECHEA, PETE",176
+PRECINCT 4,State Controller,"FITZGIBBONS, FLOYD",20
+PRECINCT 4,State Controller,"MARTIN, STEVE",64
+PRECINCT 4,State Controller,None Of These Candidates,25
+PRECINCT 4,State Controller,"WALLIN, KIM R.",115
+PRECINCT 4,State Treasurer,"ANDREWS, MARK",26
+PRECINCT 4,State Treasurer,"DESTEFANO, MARK",80
+PRECINCT 4,State Treasurer,"MARSHALL, KATE",96
+PRECINCT 4,State Treasurer,None Of These Candidates,23
+PRECINCT 4,"Supreme Court Justice, Seat C","Cherry, Michael A.",140
+PRECINCT 4,"Supreme Court Justice, Seat C",None Of These Candidates,63
+PRECINCT 4,"Supreme Court Justice, Seat F","Douglas, Michael L.",87
+PRECINCT 4,"Supreme Court Justice, Seat F",None Of These Candidates,44
+PRECINCT 4,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",82
+PRECINCT 4,"Supreme Court Justice, Seat G","BECKER, NANCY",77
+PRECINCT 4,"Supreme Court Justice, Seat G",None Of These Candidates,50
+PRECINCT 4,"Supreme Court Justice, Seat G","Saitta, Nancy M.",90
+PRECINCT 4,"U.S. Representative in Congress, District 2","DERBY, JILL",120
+PRECINCT 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",90
+PRECINCT 4,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+PRECINCT 4,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
+PRECINCT 4,United States Senator,"CARTER, JACK",100
+PRECINCT 4,United States Senator,"ENSIGN, JOHN",113
+PRECINCT 4,United States Senator,None Of These Candidates,9
+PRECINCT 4,United States Senator,"SCHUMANN, DAVID K.",4
+PRECINCT 4,United States Senator,"TRAINOR, BRENDAN",1
+PRECINCT 5,Assessor,"HAMILTON, CELESTE",76
+PRECINCT 5,Attorney General,"CHAIREZ, DON",33
+PRECINCT 5,Attorney General,"CORTEZ  MASTO, CATHERINE",45
+PRECINCT 5,Attorney General,None Of These Candidates,11
+PRECINCT 5,Big Meadow Conservation District - 2006,"CLINGER, CARL F.",45
+PRECINCT 5,Big Meadow Conservation District - 2006,"DEPAOLI, ROBERT R.",45
+PRECINCT 5,Big Meadow Conservation District - 2006,"VESCO, VANCE R.",31
+PRECINCT 5,County Clerk/Treasurer,"GILES, DONNA K.",74
+PRECINCT 5,County Commissioner Seat C,"CRONE, DON",52
+PRECINCT 5,County Commissioner Seat C,"MANCEBO, ROGER",36
+PRECINCT 5,County Recorder-Auditor,"MOURA, DARLENE E.",73
+PRECINCT 5,County Sheriff - PERSHING,"MATTINGLY, BILL",32
+PRECINCT 5,County Sheriff - PERSHING,"SKINNER, RON",56
+PRECINCT 5,DISTRICT ATTORNEY,"SHIRLEY, JIM",70
+PRECINCT 5,Governor,"BERGLAND, CRAIG O.",1
+PRECINCT 5,Governor,"GIBBONS, JIM",53
+PRECINCT 5,Governor,"HANSEN, CHRISTOPHER H.",9
+PRECINCT 5,Governor,None Of These Candidates,4
+PRECINCT 5,Governor,"TITUS, DINA",22
+PRECINCT 5,Hospital District PERSHING,"EVENSON, STEVE E.",33
+PRECINCT 5,Hospital District PERSHING,"GOLDSWORTHY, JAMES",40
+PRECINCT 5,Hospital District PERSHING,"PIERCE, JOE L.",37
+PRECINCT 5,Hospital District PERSHING,"RIEHM, JACK",40
+PRECINCT 5,Lieutenant Governor,"JEFFERSON, THOMAS",13
+PRECINCT 5,Lieutenant Governor,"KROLICKI, BRIAN K.",38
+PRECINCT 5,Lieutenant Governor,None Of These Candidates,8
+PRECINCT 5,Lieutenant Governor,"UNGER, ROBERT ""BOB""",30
+PRECINCT 5,PUBLIC ADMINISTRATOR,"KEARNS, JEFF",39
+PRECINCT 5,PUBLIC ADMINISTRATOR,"KNISLEY, CHRIS",48
+PRECINCT 5,School District Board of Trustees Seat A,"GOLDSWORTHY, TERESA L.",28
+PRECINCT 5,School District Board of Trustees Seat A,"HUDSON, SHAYLA",43
+PRECINCT 5,School District Board of Trustees Seat C,"ARNOLD, BRAD E.",34
+PRECINCT 5,School District Board of Trustees Seat C,"RICHARDSON, LAURA L.",39
+PRECINCT 5,School District Board of Trustees Seat D,"BRINKERHOFF, WALTER A.",41
+PRECINCT 5,School District Board of Trustees Seat D,"CRIM, JOE",35
+PRECINCT 5,Secretary Of State,"HANSEN, JANINE",15
+PRECINCT 5,Secretary Of State,"MILLER, ROSS",32
+PRECINCT 5,Secretary Of State,None Of These Candidates,7
+PRECINCT 5,Secretary Of State,"TARKANIAN, DANNY",35
+PRECINCT 5,"State Assembly, District 35","GOICOECHEA, PETE",74
+PRECINCT 5,State Controller,"FITZGIBBONS, FLOYD",11
+PRECINCT 5,State Controller,"MARTIN, STEVE",36
+PRECINCT 5,State Controller,None Of These Candidates,11
+PRECINCT 5,State Controller,"WALLIN, KIM R.",31
+PRECINCT 5,State Treasurer,"ANDREWS, MARK",12
+PRECINCT 5,State Treasurer,"DESTEFANO, MARK",36
+PRECINCT 5,State Treasurer,"MARSHALL, KATE",32
+PRECINCT 5,State Treasurer,None Of These Candidates,8
+PRECINCT 5,"Supreme Court Justice, Seat C","Cherry, Michael A.",52
+PRECINCT 5,"Supreme Court Justice, Seat C",None Of These Candidates,26
+PRECINCT 5,"Supreme Court Justice, Seat F","Douglas, Michael L.",27
+PRECINCT 5,"Supreme Court Justice, Seat F",None Of These Candidates,24
+PRECINCT 5,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",36
+PRECINCT 5,"Supreme Court Justice, Seat G","BECKER, NANCY",29
+PRECINCT 5,"Supreme Court Justice, Seat G",None Of These Candidates,27
+PRECINCT 5,"Supreme Court Justice, Seat G","Saitta, Nancy M.",32
+PRECINCT 5,"U.S. Representative in Congress, District 2","DERBY, JILL",33
+PRECINCT 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",41
+PRECINCT 5,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+PRECINCT 5,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+PRECINCT 5,United States Senator,"CARTER, JACK",32
+PRECINCT 5,United States Senator,"ENSIGN, JOHN",46
+PRECINCT 5,United States Senator,None Of These Candidates,5
+PRECINCT 5,United States Senator,"SCHUMANN, DAVID K.",5
+PRECINCT 5,United States Senator,"TRAINOR, BRENDAN",1
+PRECINCT 6,Assessor,"HAMILTON, CELESTE",182
+PRECINCT 6,Attorney General,"CHAIREZ, DON",107
+PRECINCT 6,Attorney General,"CORTEZ  MASTO, CATHERINE",102
+PRECINCT 6,Attorney General,None Of These Candidates,10
+PRECINCT 6,Big Meadow Conservation District - 2006,"CLINGER, CARL F.",95
+PRECINCT 6,Big Meadow Conservation District - 2006,"DEPAOLI, ROBERT R.",131
+PRECINCT 6,Big Meadow Conservation District - 2006,"VESCO, VANCE R.",140
+PRECINCT 6,County Clerk/Treasurer,"GILES, DONNA K.",180
+PRECINCT 6,County Commissioner Seat C,"CRONE, DON",144
+PRECINCT 6,County Commissioner Seat C,"MANCEBO, ROGER",69
+PRECINCT 6,County Recorder-Auditor,"MOURA, DARLENE E.",175
+PRECINCT 6,County Sheriff - PERSHING,"MATTINGLY, BILL",55
+PRECINCT 6,County Sheriff - PERSHING,"SKINNER, RON",159
+PRECINCT 6,DISTRICT ATTORNEY,"SHIRLEY, JIM",183
+PRECINCT 6,Governor,"BERGLAND, CRAIG O.",3
+PRECINCT 6,Governor,"GIBBONS, JIM",164
+PRECINCT 6,Governor,"HANSEN, CHRISTOPHER H.",15
+PRECINCT 6,Governor,None Of These Candidates,9
+PRECINCT 6,Governor,"TITUS, DINA",28
+PRECINCT 6,Hospital District PERSHING,"EVENSON, STEVE E.",113
+PRECINCT 6,Hospital District PERSHING,"GOLDSWORTHY, JAMES",126
+PRECINCT 6,Hospital District PERSHING,"PIERCE, JOE L.",113
+PRECINCT 6,Hospital District PERSHING,"RIEHM, JACK",117
+PRECINCT 6,Lieutenant Governor,"JEFFERSON, THOMAS",22
+PRECINCT 6,Lieutenant Governor,"KROLICKI, BRIAN K.",139
+PRECINCT 6,Lieutenant Governor,None Of These Candidates,8
+PRECINCT 6,Lieutenant Governor,"UNGER, ROBERT ""BOB""",48
+PRECINCT 6,PUBLIC ADMINISTRATOR,"KEARNS, JEFF",147
+PRECINCT 6,PUBLIC ADMINISTRATOR,"KNISLEY, CHRIS",61
+PRECINCT 6,School District Board of Trustees Seat A,"GOLDSWORTHY, TERESA L.",83
+PRECINCT 6,School District Board of Trustees Seat A,"HUDSON, SHAYLA",93
+PRECINCT 6,School District Board of Trustees Seat C,"ARNOLD, BRAD E.",53
+PRECINCT 6,School District Board of Trustees Seat C,"RICHARDSON, LAURA L.",127
+PRECINCT 6,School District Board of Trustees Seat D,"BRINKERHOFF, WALTER A.",119
+PRECINCT 6,School District Board of Trustees Seat D,"CRIM, JOE",70
+PRECINCT 6,Secretary Of State,"HANSEN, JANINE",27
+PRECINCT 6,Secretary Of State,"MILLER, ROSS",71
+PRECINCT 6,Secretary Of State,None Of These Candidates,7
+PRECINCT 6,Secretary Of State,"TARKANIAN, DANNY",110
+PRECINCT 6,"State Assembly, District 35","GOICOECHEA, PETE",195
+PRECINCT 6,State Controller,"FITZGIBBONS, FLOYD",26
+PRECINCT 6,State Controller,"MARTIN, STEVE",125
+PRECINCT 6,State Controller,None Of These Candidates,10
+PRECINCT 6,State Controller,"WALLIN, KIM R.",55
+PRECINCT 6,State Treasurer,"ANDREWS, MARK",15
+PRECINCT 6,State Treasurer,"DESTEFANO, MARK",121
+PRECINCT 6,State Treasurer,"MARSHALL, KATE",67
+PRECINCT 6,State Treasurer,None Of These Candidates,14
+PRECINCT 6,"Supreme Court Justice, Seat C","Cherry, Michael A.",153
+PRECINCT 6,"Supreme Court Justice, Seat C",None Of These Candidates,50
+PRECINCT 6,"Supreme Court Justice, Seat F","Douglas, Michael L.",95
+PRECINCT 6,"Supreme Court Justice, Seat F",None Of These Candidates,30
+PRECINCT 6,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",83
+PRECINCT 6,"Supreme Court Justice, Seat G","BECKER, NANCY",74
+PRECINCT 6,"Supreme Court Justice, Seat G",None Of These Candidates,35
+PRECINCT 6,"Supreme Court Justice, Seat G","Saitta, Nancy M.",100
+PRECINCT 6,"U.S. Representative in Congress, District 2","DERBY, JILL",70
+PRECINCT 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",129
+PRECINCT 6,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+PRECINCT 6,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
+PRECINCT 6,United States Senator,"CARTER, JACK",44
+PRECINCT 6,United States Senator,"ENSIGN, JOHN",156
+PRECINCT 6,United States Senator,None Of These Candidates,8
+PRECINCT 6,United States Senator,"SCHUMANN, DAVID K.",6
+PRECINCT 6,United States Senator,"TRAINOR, BRENDAN",5
+PRECINCT 7,Assessor,"HAMILTON, CELESTE",147
+PRECINCT 7,Attorney General,"CHAIREZ, DON",69
+PRECINCT 7,Attorney General,"CORTEZ  MASTO, CATHERINE",92
+PRECINCT 7,Attorney General,None Of These Candidates,10
+PRECINCT 7,Big Meadow Conservation District - 2006,"CLINGER, CARL F.",96
+PRECINCT 7,Big Meadow Conservation District - 2006,"DEPAOLI, ROBERT R.",100
+PRECINCT 7,Big Meadow Conservation District - 2006,"VESCO, VANCE R.",90
+PRECINCT 7,County Clerk/Treasurer,"GILES, DONNA K.",151
+PRECINCT 7,County Commissioner Seat C,"CRONE, DON",90
+PRECINCT 7,County Commissioner Seat C,"MANCEBO, ROGER",75
+PRECINCT 7,County Recorder-Auditor,"MOURA, DARLENE E.",142
+PRECINCT 7,County Sheriff - PERSHING,"MATTINGLY, BILL",37
+PRECINCT 7,County Sheriff - PERSHING,"SKINNER, RON",130
+PRECINCT 7,DISTRICT ATTORNEY,"SHIRLEY, JIM",131
+PRECINCT 7,Governor,"BERGLAND, CRAIG O.",2
+PRECINCT 7,Governor,"GIBBONS, JIM",122
+PRECINCT 7,Governor,"HANSEN, CHRISTOPHER H.",11
+PRECINCT 7,Governor,None Of These Candidates,6
+PRECINCT 7,Governor,"TITUS, DINA",35
+PRECINCT 7,Hospital District PERSHING,"EVENSON, STEVE E.",107
+PRECINCT 7,Hospital District PERSHING,"GOLDSWORTHY, JAMES",85
+PRECINCT 7,Hospital District PERSHING,"PIERCE, JOE L.",90
+PRECINCT 7,Hospital District PERSHING,"RIEHM, JACK",84
+PRECINCT 7,Lieutenant Governor,"JEFFERSON, THOMAS",13
+PRECINCT 7,Lieutenant Governor,"KROLICKI, BRIAN K.",115
+PRECINCT 7,Lieutenant Governor,None Of These Candidates,6
+PRECINCT 7,Lieutenant Governor,"UNGER, ROBERT ""BOB""",40
+PRECINCT 7,PUBLIC ADMINISTRATOR,"KEARNS, JEFF",99
+PRECINCT 7,PUBLIC ADMINISTRATOR,"KNISLEY, CHRIS",64
+PRECINCT 7,School District Board of Trustees Seat A,"GOLDSWORTHY, TERESA L.",54
+PRECINCT 7,School District Board of Trustees Seat A,"HUDSON, SHAYLA",88
+PRECINCT 7,School District Board of Trustees Seat C,"ARNOLD, BRAD E.",52
+PRECINCT 7,School District Board of Trustees Seat C,"RICHARDSON, LAURA L.",93
+PRECINCT 7,School District Board of Trustees Seat D,"BRINKERHOFF, WALTER A.",74
+PRECINCT 7,School District Board of Trustees Seat D,"CRIM, JOE",74
+PRECINCT 7,Secretary Of State,"HANSEN, JANINE",17
+PRECINCT 7,Secretary Of State,"MILLER, ROSS",59
+PRECINCT 7,Secretary Of State,None Of These Candidates,5
+PRECINCT 7,Secretary Of State,"TARKANIAN, DANNY",94
+PRECINCT 7,"State Assembly, District 35","GOICOECHEA, PETE",146
+PRECINCT 7,State Controller,"FITZGIBBONS, FLOYD",15
+PRECINCT 7,State Controller,"MARTIN, STEVE",89
+PRECINCT 7,State Controller,None Of These Candidates,11
+PRECINCT 7,State Controller,"WALLIN, KIM R.",58
+PRECINCT 7,State Treasurer,"ANDREWS, MARK",16
+PRECINCT 7,State Treasurer,"DESTEFANO, MARK",94
+PRECINCT 7,State Treasurer,"MARSHALL, KATE",57
+PRECINCT 7,State Treasurer,None Of These Candidates,8
+PRECINCT 7,"Supreme Court Justice, Seat C","Cherry, Michael A.",115
+PRECINCT 7,"Supreme Court Justice, Seat C",None Of These Candidates,30
+PRECINCT 7,"Supreme Court Justice, Seat F","Douglas, Michael L.",71
+PRECINCT 7,"Supreme Court Justice, Seat F",None Of These Candidates,21
+PRECINCT 7,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",67
+PRECINCT 7,"Supreme Court Justice, Seat G","BECKER, NANCY",55
+PRECINCT 7,"Supreme Court Justice, Seat G",None Of These Candidates,28
+PRECINCT 7,"Supreme Court Justice, Seat G","Saitta, Nancy M.",77
+PRECINCT 7,"U.S. Representative in Congress, District 2","DERBY, JILL",59
+PRECINCT 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",100
+PRECINCT 7,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+PRECINCT 7,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+PRECINCT 7,United States Senator,"CARTER, JACK",45
+PRECINCT 7,United States Senator,"ENSIGN, JOHN",120
+PRECINCT 7,United States Senator,None Of These Candidates,2
+PRECINCT 7,United States Senator,"SCHUMANN, DAVID K.",5
+PRECINCT 7,United States Senator,"TRAINOR, BRENDAN",4
+PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 99,United States Senator,"CARTER, JACK",0
+PRECINCT 99,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 99,United States Senator,None Of These Candidates,0
+PRECINCT 99,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 99,United States Senator,"TRAINOR, BRENDAN",0

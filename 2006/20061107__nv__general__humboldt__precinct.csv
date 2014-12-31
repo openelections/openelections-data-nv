@@ -1,0 +1,977 @@
+precinct,office,candidate,votes
+Precinct 1,Attorney General,"CHAIREZ, DON",131
+Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",225
+Precinct 1,Attorney General,None Of These Candidates,24
+Precinct 1,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",329
+Precinct 1,COUNTY CLERK (Republican),"SPERO, TAMI RAE",341
+Precinct 1,County Commissioner Seat C,"CASSINELLI, DAN",341
+Precinct 1,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",336
+Precinct 1,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",339
+Precinct 1,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",163
+Precinct 1,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",216
+Precinct 1,Governor,"BERGLAND, CRAIG O.",4
+Precinct 1,Governor,"GIBBONS, JIM",263
+Precinct 1,Governor,"HANSEN, CHRISTOPHER H.",14
+Precinct 1,Governor,None Of These Candidates,15
+Precinct 1,Governor,"TITUS, DINA",91
+Precinct 1,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",216
+Precinct 1,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",118
+Precinct 1,"Justice of the Peace, UNION Township","JOHNSON, GARY",110
+Precinct 1,"Justice of the Peace, UNION Township","WAMBOLT, GENE",266
+Precinct 1,Lieutenant Governor,"JEFFERSON, THOMAS",23
+Precinct 1,Lieutenant Governor,"KROLICKI, BRIAN K.",243
+Precinct 1,Lieutenant Governor,None Of These Candidates,24
+Precinct 1,Lieutenant Governor,"UNGER, ROBERT ""BOB""",94
+Precinct 1,Mayor WINNEMUCCA,"HUMMEL, LAURA",34
+Precinct 1,Mayor WINNEMUCCA,"STONE, RICHARD D.",125
+Precinct 1,Mayor WINNEMUCCA,"WILLIS-PUTNAM, DI AN",188
+Precinct 1,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",331
+Precinct 1,School Board Trustee Seat A,"HILL, JOHN",255
+Precinct 1,School Board Trustee Seat A,"NIELSEN, ARLOW",78
+Precinct 1,School Board Trustee Seat F,"HILLYER, ANDREW C.",193
+Precinct 1,School Board Trustee Seat F,"OKUMA, DEBBIE A.",177
+Precinct 1,Secretary Of State,"HANSEN, JANINE",32
+Precinct 1,Secretary Of State,"MILLER, ROSS",125
+Precinct 1,Secretary Of State,None Of These Candidates,23
+Precinct 1,Secretary Of State,"TARKANIAN, DANNY",198
+Precinct 1,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",200
+Precinct 1,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",182
+Precinct 1,"State Assembly, District 32","MARVEL, JOHN",289
+Precinct 1,"State Assembly, District 32","SPRINKLE, MIKE",94
+Precinct 1,State Controller,"FITZGIBBONS, FLOYD",20
+Precinct 1,State Controller,"MARTIN, STEVE",194
+Precinct 1,State Controller,None Of These Candidates,37
+Precinct 1,State Controller,"WALLIN, KIM R.",126
+Precinct 1,State Treasurer,"ANDREWS, MARK",26
+Precinct 1,State Treasurer,"DESTEFANO, MARK",188
+Precinct 1,State Treasurer,"MARSHALL, KATE",136
+Precinct 1,State Treasurer,None Of These Candidates,33
+Precinct 1,"Supreme Court Justice, Seat C","Cherry, Michael A.",258
+Precinct 1,"Supreme Court Justice, Seat C",None Of These Candidates,81
+Precinct 1,"Supreme Court Justice, Seat F","Douglas, Michael L.",210
+Precinct 1,"Supreme Court Justice, Seat F",None Of These Candidates,59
+Precinct 1,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",97
+Precinct 1,"Supreme Court Justice, Seat G","BECKER, NANCY",136
+Precinct 1,"Supreme Court Justice, Seat G",None Of These Candidates,65
+Precinct 1,"Supreme Court Justice, Seat G","Saitta, Nancy M.",173
+Precinct 1,Treasurer,"HOLZEL, DEE A.",95
+Precinct 1,Treasurer,"RACKLEY, GINA",286
+Precinct 1,"U.S. Representative in Congress, District 2","DERBY, JILL",125
+Precinct 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",233
+Precinct 1,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",11
+Precinct 1,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",10
+Precinct 1,United States Senator,"CARTER, JACK",94
+Precinct 1,United States Senator,"ENSIGN, JOHN",270
+Precinct 1,United States Senator,None Of These Candidates,6
+Precinct 1,United States Senator,"SCHUMANN, DAVID K.",10
+Precinct 1,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 1,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",171
+Precinct 1,"Winnemucca Councilman, Seat Number 2","WARR, LES",161
+Precinct 10,Attorney General,"CHAIREZ, DON",35
+Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",66
+Precinct 10,Attorney General,None Of These Candidates,10
+Precinct 10,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",86
+Precinct 10,COUNTY CLERK (Republican),"SPERO, TAMI RAE",87
+Precinct 10,County Commissioner Seat C,"CASSINELLI, DAN",89
+Precinct 10,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",88
+Precinct 10,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",88
+Precinct 10,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",76
+Precinct 10,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",36
+Precinct 10,Governor,"BERGLAND, CRAIG O.",0
+Precinct 10,Governor,"GIBBONS, JIM",50
+Precinct 10,Governor,"HANSEN, CHRISTOPHER H.",3
+Precinct 10,Governor,None Of These Candidates,8
+Precinct 10,Governor,"TITUS, DINA",54
+Precinct 10,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",62
+Precinct 10,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",47
+Precinct 10,"Justice of the Peace, UNION Township","JOHNSON, GARY",41
+Precinct 10,"Justice of the Peace, UNION Township","WAMBOLT, GENE",73
+Precinct 10,Lieutenant Governor,"JEFFERSON, THOMAS",4
+Precinct 10,Lieutenant Governor,"KROLICKI, BRIAN K.",43
+Precinct 10,Lieutenant Governor,None Of These Candidates,8
+Precinct 10,Lieutenant Governor,"UNGER, ROBERT ""BOB""",58
+Precinct 10,McDermitt Fire District Seat C,"HARTLEY, DALE E.",22
+Precinct 10,McDermitt Fire District Seat C,"MODDRELL, JOHN R.",93
+Precinct 10,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",85
+Precinct 10,School Board Trustee Seat A,"HILL, JOHN",104
+Precinct 10,School Board Trustee Seat A,"NIELSEN, ARLOW",10
+Precinct 10,School Board Trustee Seat F,"HILLYER, ANDREW C.",70
+Precinct 10,School Board Trustee Seat F,"OKUMA, DEBBIE A.",40
+Precinct 10,Secretary Of State,"HANSEN, JANINE",12
+Precinct 10,Secretary Of State,"MILLER, ROSS",54
+Precinct 10,Secretary Of State,None Of These Candidates,6
+Precinct 10,Secretary Of State,"TARKANIAN, DANNY",41
+Precinct 10,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",54
+Precinct 10,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",58
+Precinct 10,"State Assembly, District 33","CARPENTER, JOHN C.",84
+Precinct 10,State Controller,"FITZGIBBONS, FLOYD",5
+Precinct 10,State Controller,"MARTIN, STEVE",36
+Precinct 10,State Controller,None Of These Candidates,15
+Precinct 10,State Controller,"WALLIN, KIM R.",55
+Precinct 10,State Treasurer,"ANDREWS, MARK",3
+Precinct 10,State Treasurer,"DESTEFANO, MARK",31
+Precinct 10,State Treasurer,"MARSHALL, KATE",62
+Precinct 10,State Treasurer,None Of These Candidates,14
+Precinct 10,"Supreme Court Justice, Seat C","Cherry, Michael A.",66
+Precinct 10,"Supreme Court Justice, Seat C",None Of These Candidates,42
+Precinct 10,"Supreme Court Justice, Seat F","Douglas, Michael L.",51
+Precinct 10,"Supreme Court Justice, Seat F",None Of These Candidates,33
+Precinct 10,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",26
+Precinct 10,"Supreme Court Justice, Seat G","BECKER, NANCY",43
+Precinct 10,"Supreme Court Justice, Seat G",None Of These Candidates,38
+Precinct 10,"Supreme Court Justice, Seat G","Saitta, Nancy M.",30
+Precinct 10,Treasurer,"HOLZEL, DEE A.",55
+Precinct 10,Treasurer,"RACKLEY, GINA",58
+Precinct 10,"U.S. Representative in Congress, District 2","DERBY, JILL",61
+Precinct 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",42
+Precinct 10,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
+Precinct 10,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
+Precinct 10,United States Senator,"CARTER, JACK",57
+Precinct 10,United States Senator,"ENSIGN, JOHN",47
+Precinct 10,United States Senator,None Of These Candidates,5
+Precinct 10,United States Senator,"SCHUMANN, DAVID K.",2
+Precinct 10,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 11,Attorney General,"CHAIREZ, DON",92
+Precinct 11,Attorney General,"CORTEZ  MASTO, CATHERINE",34
+Precinct 11,Attorney General,None Of These Candidates,16
+Precinct 11,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",129
+Precinct 11,COUNTY CLERK (Republican),"SPERO, TAMI RAE",130
+Precinct 11,County Commissioner Seat C,"CASSINELLI, DAN",131
+Precinct 11,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",130
+Precinct 11,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",132
+Precinct 11,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",29
+Precinct 11,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",113
+Precinct 11,Governor,"BERGLAND, CRAIG O.",0
+Precinct 11,Governor,"GIBBONS, JIM",129
+Precinct 11,Governor,"HANSEN, CHRISTOPHER H.",6
+Precinct 11,Governor,None Of These Candidates,3
+Precinct 11,Governor,"TITUS, DINA",7
+Precinct 11,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",81
+Precinct 11,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",40
+Precinct 11,"Justice of the Peace, UNION Township","JOHNSON, GARY",27
+Precinct 11,"Justice of the Peace, UNION Township","WAMBOLT, GENE",107
+Precinct 11,Lieutenant Governor,"JEFFERSON, THOMAS",12
+Precinct 11,Lieutenant Governor,"KROLICKI, BRIAN K.",111
+Precinct 11,Lieutenant Governor,None Of These Candidates,6
+Precinct 11,Lieutenant Governor,"UNGER, ROBERT ""BOB""",13
+Precinct 11,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",126
+Precinct 11,School Board Trustee Seat A,"HILL, JOHN",78
+Precinct 11,School Board Trustee Seat A,"NIELSEN, ARLOW",63
+Precinct 11,School Board Trustee Seat F,"HILLYER, ANDREW C.",81
+Precinct 11,School Board Trustee Seat F,"OKUMA, DEBBIE A.",53
+Precinct 11,Secretary Of State,"HANSEN, JANINE",16
+Precinct 11,Secretary Of State,"MILLER, ROSS",35
+Precinct 11,Secretary Of State,None Of These Candidates,4
+Precinct 11,Secretary Of State,"TARKANIAN, DANNY",83
+Precinct 11,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",62
+Precinct 11,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",82
+Precinct 11,"State Assembly, District 33","CARPENTER, JOHN C.",131
+Precinct 11,State Controller,"FITZGIBBONS, FLOYD",11
+Precinct 11,State Controller,"MARTIN, STEVE",101
+Precinct 11,State Controller,None Of These Candidates,9
+Precinct 11,State Controller,"WALLIN, KIM R.",20
+Precinct 11,State Treasurer,"ANDREWS, MARK",11
+Precinct 11,State Treasurer,"DESTEFANO, MARK",95
+Precinct 11,State Treasurer,"MARSHALL, KATE",28
+Precinct 11,State Treasurer,None Of These Candidates,6
+Precinct 11,"Supreme Court Justice, Seat C","Cherry, Michael A.",95
+Precinct 11,"Supreme Court Justice, Seat C",None Of These Candidates,32
+Precinct 11,"Supreme Court Justice, Seat F","Douglas, Michael L.",64
+Precinct 11,"Supreme Court Justice, Seat F",None Of These Candidates,34
+Precinct 11,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",35
+Precinct 11,"Supreme Court Justice, Seat G","BECKER, NANCY",40
+Precinct 11,"Supreme Court Justice, Seat G",None Of These Candidates,30
+Precinct 11,"Supreme Court Justice, Seat G","Saitta, Nancy M.",66
+Precinct 11,Treasurer,"HOLZEL, DEE A.",21
+Precinct 11,Treasurer,"RACKLEY, GINA",121
+Precinct 11,"U.S. Representative in Congress, District 2","DERBY, JILL",23
+Precinct 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",114
+Precinct 11,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
+Precinct 11,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+Precinct 11,United States Senator,"CARTER, JACK",12
+Precinct 11,United States Senator,"ENSIGN, JOHN",125
+Precinct 11,United States Senator,None Of These Candidates,1
+Precinct 11,United States Senator,"SCHUMANN, DAVID K.",5
+Precinct 11,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 12,Attorney General,"CHAIREZ, DON",70
+Precinct 12,Attorney General,"CORTEZ  MASTO, CATHERINE",42
+Precinct 12,Attorney General,None Of These Candidates,6
+Precinct 12,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",98
+Precinct 12,COUNTY CLERK (Republican),"SPERO, TAMI RAE",101
+Precinct 12,County Commissioner Seat C,"CASSINELLI, DAN",101
+Precinct 12,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",98
+Precinct 12,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",102
+Precinct 12,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",31
+Precinct 12,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",87
+Precinct 12,Governor,"BERGLAND, CRAIG O.",0
+Precinct 12,Governor,"GIBBONS, JIM",97
+Precinct 12,Governor,"HANSEN, CHRISTOPHER H.",3
+Precinct 12,Governor,None Of These Candidates,1
+Precinct 12,Governor,"TITUS, DINA",15
+Precinct 12,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",62
+Precinct 12,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",34
+Precinct 12,"Justice of the Peace, UNION Township","JOHNSON, GARY",24
+Precinct 12,"Justice of the Peace, UNION Township","WAMBOLT, GENE",84
+Precinct 12,Lieutenant Governor,"JEFFERSON, THOMAS",5
+Precinct 12,Lieutenant Governor,"KROLICKI, BRIAN K.",97
+Precinct 12,Lieutenant Governor,None Of These Candidates,1
+Precinct 12,Lieutenant Governor,"UNGER, ROBERT ""BOB""",14
+Precinct 12,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",93
+Precinct 12,School Board Trustee Seat A,"HILL, JOHN",62
+Precinct 12,School Board Trustee Seat A,"NIELSEN, ARLOW",42
+Precinct 12,School Board Trustee Seat F,"HILLYER, ANDREW C.",61
+Precinct 12,School Board Trustee Seat F,"OKUMA, DEBBIE A.",51
+Precinct 12,Secretary Of State,"HANSEN, JANINE",5
+Precinct 12,Secretary Of State,"MILLER, ROSS",21
+Precinct 12,Secretary Of State,None Of These Candidates,4
+Precinct 12,Secretary Of State,"TARKANIAN, DANNY",86
+Precinct 12,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",48
+Precinct 12,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",67
+Precinct 12,"State Assembly, District 33","CARPENTER, JOHN C.",99
+Precinct 12,State Controller,"FITZGIBBONS, FLOYD",4
+Precinct 12,State Controller,"MARTIN, STEVE",80
+Precinct 12,State Controller,None Of These Candidates,10
+Precinct 12,State Controller,"WALLIN, KIM R.",23
+Precinct 12,State Treasurer,"ANDREWS, MARK",6
+Precinct 12,State Treasurer,"DESTEFANO, MARK",83
+Precinct 12,State Treasurer,"MARSHALL, KATE",22
+Precinct 12,State Treasurer,None Of These Candidates,6
+Precinct 12,"Supreme Court Justice, Seat C","Cherry, Michael A.",70
+Precinct 12,"Supreme Court Justice, Seat C",None Of These Candidates,23
+Precinct 12,"Supreme Court Justice, Seat F","Douglas, Michael L.",51
+Precinct 12,"Supreme Court Justice, Seat F",None Of These Candidates,19
+Precinct 12,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",38
+Precinct 12,"Supreme Court Justice, Seat G","BECKER, NANCY",40
+Precinct 12,"Supreme Court Justice, Seat G",None Of These Candidates,20
+Precinct 12,"Supreme Court Justice, Seat G","Saitta, Nancy M.",46
+Precinct 12,Treasurer,"HOLZEL, DEE A.",11
+Precinct 12,Treasurer,"RACKLEY, GINA",105
+Precinct 12,"U.S. Representative in Congress, District 2","DERBY, JILL",21
+Precinct 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",93
+Precinct 12,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
+Precinct 12,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
+Precinct 12,United States Senator,"CARTER, JACK",17
+Precinct 12,United States Senator,"ENSIGN, JOHN",96
+Precinct 12,United States Senator,None Of These Candidates,1
+Precinct 12,United States Senator,"SCHUMANN, DAVID K.",2
+Precinct 12,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 13,Attorney General,"CHAIREZ, DON",64
+Precinct 13,Attorney General,"CORTEZ  MASTO, CATHERINE",72
+Precinct 13,Attorney General,None Of These Candidates,15
+Precinct 13,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",124
+Precinct 13,COUNTY CLERK (Republican),"SPERO, TAMI RAE",130
+Precinct 13,County Commissioner Seat C,"CASSINELLI, DAN",128
+Precinct 13,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",126
+Precinct 13,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",127
+Precinct 13,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",70
+Precinct 13,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",78
+Precinct 13,Governor,"BERGLAND, CRAIG O.",6
+Precinct 13,Governor,"GIBBONS, JIM",101
+Precinct 13,Governor,"HANSEN, CHRISTOPHER H.",13
+Precinct 13,Governor,None Of These Candidates,4
+Precinct 13,Governor,"TITUS, DINA",30
+Precinct 13,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",74
+Precinct 13,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",55
+Precinct 13,"Justice of the Peace, UNION Township","JOHNSON, GARY",47
+Precinct 13,"Justice of the Peace, UNION Township","WAMBOLT, GENE",98
+Precinct 13,Lieutenant Governor,"JEFFERSON, THOMAS",20
+Precinct 13,Lieutenant Governor,"KROLICKI, BRIAN K.",85
+Precinct 13,Lieutenant Governor,None Of These Candidates,7
+Precinct 13,Lieutenant Governor,"UNGER, ROBERT ""BOB""",41
+Precinct 13,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",130
+Precinct 13,School Board Trustee Seat A,"HILL, JOHN",87
+Precinct 13,School Board Trustee Seat A,"NIELSEN, ARLOW",45
+Precinct 13,School Board Trustee Seat F,"HILLYER, ANDREW C.",60
+Precinct 13,School Board Trustee Seat F,"OKUMA, DEBBIE A.",76
+Precinct 13,Secretary Of State,"HANSEN, JANINE",25
+Precinct 13,Secretary Of State,"MILLER, ROSS",47
+Precinct 13,Secretary Of State,None Of These Candidates,7
+Precinct 13,Secretary Of State,"TARKANIAN, DANNY",72
+Precinct 13,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",83
+Precinct 13,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",64
+Precinct 13,"State Assembly, District 33","CARPENTER, JOHN C.",129
+Precinct 13,State Controller,"FITZGIBBONS, FLOYD",24
+Precinct 13,State Controller,"MARTIN, STEVE",78
+Precinct 13,State Controller,None Of These Candidates,13
+Precinct 13,State Controller,"WALLIN, KIM R.",37
+Precinct 13,State Treasurer,"ANDREWS, MARK",23
+Precinct 13,State Treasurer,"DESTEFANO, MARK",72
+Precinct 13,State Treasurer,"MARSHALL, KATE",48
+Precinct 13,State Treasurer,None Of These Candidates,10
+Precinct 13,"Supreme Court Justice, Seat C","Cherry, Michael A.",100
+Precinct 13,"Supreme Court Justice, Seat C",None Of These Candidates,32
+Precinct 13,"Supreme Court Justice, Seat F","Douglas, Michael L.",62
+Precinct 13,"Supreme Court Justice, Seat F",None Of These Candidates,28
+Precinct 13,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",59
+Precinct 13,"Supreme Court Justice, Seat G","BECKER, NANCY",51
+Precinct 13,"Supreme Court Justice, Seat G",None Of These Candidates,32
+Precinct 13,"Supreme Court Justice, Seat G","Saitta, Nancy M.",63
+Precinct 13,Treasurer,"HOLZEL, DEE A.",53
+Precinct 13,Treasurer,"RACKLEY, GINA",98
+Precinct 13,"U.S. Representative in Congress, District 2","DERBY, JILL",52
+Precinct 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",89
+Precinct 13,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
+Precinct 13,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
+Precinct 13,United States Senator,"CARTER, JACK",45
+Precinct 13,United States Senator,"ENSIGN, JOHN",94
+Precinct 13,United States Senator,None Of These Candidates,3
+Precinct 13,United States Senator,"SCHUMANN, DAVID K.",7
+Precinct 13,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 14,Attorney General,"CHAIREZ, DON",67
+Precinct 14,Attorney General,"CORTEZ  MASTO, CATHERINE",80
+Precinct 14,Attorney General,None Of These Candidates,7
+Precinct 14,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",143
+Precinct 14,COUNTY CLERK (Republican),"SPERO, TAMI RAE",145
+Precinct 14,County Commissioner Seat C,"CASSINELLI, DAN",144
+Precinct 14,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",145
+Precinct 14,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",146
+Precinct 14,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",58
+Precinct 14,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",98
+Precinct 14,Governor,"BERGLAND, CRAIG O.",1
+Precinct 14,Governor,"GIBBONS, JIM",117
+Precinct 14,Governor,"HANSEN, CHRISTOPHER H.",8
+Precinct 14,Governor,None Of These Candidates,5
+Precinct 14,Governor,"TITUS, DINA",27
+Precinct 14,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",99
+Precinct 14,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",48
+Precinct 14,"Justice of the Peace, UNION Township","JOHNSON, GARY",22
+Precinct 14,"Justice of the Peace, UNION Township","WAMBOLT, GENE",134
+Precinct 14,Lieutenant Governor,"JEFFERSON, THOMAS",7
+Precinct 14,Lieutenant Governor,"KROLICKI, BRIAN K.",120
+Precinct 14,Lieutenant Governor,None Of These Candidates,5
+Precinct 14,Lieutenant Governor,"UNGER, ROBERT ""BOB""",26
+Precinct 14,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",139
+Precinct 14,School Board Trustee Seat A,"HILL, JOHN",95
+Precinct 14,School Board Trustee Seat A,"NIELSEN, ARLOW",49
+Precinct 14,School Board Trustee Seat F,"HILLYER, ANDREW C.",72
+Precinct 14,School Board Trustee Seat F,"OKUMA, DEBBIE A.",79
+Precinct 14,Secretary Of State,"HANSEN, JANINE",12
+Precinct 14,Secretary Of State,"MILLER, ROSS",46
+Precinct 14,Secretary Of State,None Of These Candidates,7
+Precinct 14,Secretary Of State,"TARKANIAN, DANNY",90
+Precinct 14,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",84
+Precinct 14,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",73
+Precinct 14,"State Assembly, District 32","MARVEL, JOHN",129
+Precinct 14,"State Assembly, District 32","SPRINKLE, MIKE",27
+Precinct 14,State Controller,"FITZGIBBONS, FLOYD",8
+Precinct 14,State Controller,"MARTIN, STEVE",95
+Precinct 14,State Controller,None Of These Candidates,12
+Precinct 14,State Controller,"WALLIN, KIM R.",41
+Precinct 14,State Treasurer,"ANDREWS, MARK",13
+Precinct 14,State Treasurer,"DESTEFANO, MARK",98
+Precinct 14,State Treasurer,"MARSHALL, KATE",39
+Precinct 14,State Treasurer,None Of These Candidates,6
+Precinct 14,"Supreme Court Justice, Seat C","Cherry, Michael A.",116
+Precinct 14,"Supreme Court Justice, Seat C",None Of These Candidates,28
+Precinct 14,"Supreme Court Justice, Seat F","Douglas, Michael L.",78
+Precinct 14,"Supreme Court Justice, Seat F",None Of These Candidates,18
+Precinct 14,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",53
+Precinct 14,"Supreme Court Justice, Seat G","BECKER, NANCY",51
+Precinct 14,"Supreme Court Justice, Seat G",None Of These Candidates,27
+Precinct 14,"Supreme Court Justice, Seat G","Saitta, Nancy M.",75
+Precinct 14,Treasurer,"HOLZEL, DEE A.",36
+Precinct 14,Treasurer,"RACKLEY, GINA",122
+Precinct 14,"U.S. Representative in Congress, District 2","DERBY, JILL",50
+Precinct 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",98
+Precinct 14,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
+Precinct 14,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
+Precinct 14,United States Senator,"CARTER, JACK",34
+Precinct 14,United States Senator,"ENSIGN, JOHN",118
+Precinct 14,United States Senator,None Of These Candidates,4
+Precinct 14,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 14,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 15,Attorney General,"CHAIREZ, DON",54
+Precinct 15,Attorney General,"CORTEZ  MASTO, CATHERINE",51
+Precinct 15,Attorney General,None Of These Candidates,9
+Precinct 15,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",104
+Precinct 15,COUNTY CLERK (Republican),"SPERO, TAMI RAE",106
+Precinct 15,County Commissioner Seat C,"CASSINELLI, DAN",106
+Precinct 15,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",105
+Precinct 15,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",105
+Precinct 15,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",55
+Precinct 15,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",60
+Precinct 15,Governor,"BERGLAND, CRAIG O.",1
+Precinct 15,Governor,"GIBBONS, JIM",84
+Precinct 15,Governor,"HANSEN, CHRISTOPHER H.",9
+Precinct 15,Governor,None Of These Candidates,7
+Precinct 15,Governor,"TITUS, DINA",15
+Precinct 15,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",72
+Precinct 15,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",36
+Precinct 15,"Justice of the Peace, UNION Township","JOHNSON, GARY",19
+Precinct 15,"Justice of the Peace, UNION Township","WAMBOLT, GENE",93
+Precinct 15,Lieutenant Governor,"JEFFERSON, THOMAS",14
+Precinct 15,Lieutenant Governor,"KROLICKI, BRIAN K.",68
+Precinct 15,Lieutenant Governor,None Of These Candidates,7
+Precinct 15,Lieutenant Governor,"UNGER, ROBERT ""BOB""",27
+Precinct 15,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",104
+Precinct 15,School Board Trustee Seat A,"HILL, JOHN",83
+Precinct 15,School Board Trustee Seat A,"NIELSEN, ARLOW",24
+Precinct 15,School Board Trustee Seat F,"HILLYER, ANDREW C.",68
+Precinct 15,School Board Trustee Seat F,"OKUMA, DEBBIE A.",42
+Precinct 15,Secretary Of State,"HANSEN, JANINE",17
+Precinct 15,Secretary Of State,"MILLER, ROSS",32
+Precinct 15,Secretary Of State,None Of These Candidates,8
+Precinct 15,Secretary Of State,"TARKANIAN, DANNY",59
+Precinct 15,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",70
+Precinct 15,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",46
+Precinct 15,"State Assembly, District 33","CARPENTER, JOHN C.",103
+Precinct 15,State Controller,"FITZGIBBONS, FLOYD",8
+Precinct 15,State Controller,"MARTIN, STEVE",66
+Precinct 15,State Controller,None Of These Candidates,10
+Precinct 15,State Controller,"WALLIN, KIM R.",28
+Precinct 15,State Treasurer,"ANDREWS, MARK",12
+Precinct 15,State Treasurer,"DESTEFANO, MARK",64
+Precinct 15,State Treasurer,"MARSHALL, KATE",31
+Precinct 15,State Treasurer,None Of These Candidates,6
+Precinct 15,"Supreme Court Justice, Seat C","Cherry, Michael A.",81
+Precinct 15,"Supreme Court Justice, Seat C",None Of These Candidates,29
+Precinct 15,"Supreme Court Justice, Seat F","Douglas, Michael L.",47
+Precinct 15,"Supreme Court Justice, Seat F",None Of These Candidates,23
+Precinct 15,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",43
+Precinct 15,"Supreme Court Justice, Seat G","BECKER, NANCY",46
+Precinct 15,"Supreme Court Justice, Seat G",None Of These Candidates,27
+Precinct 15,"Supreme Court Justice, Seat G","Saitta, Nancy M.",40
+Precinct 15,Treasurer,"HOLZEL, DEE A.",44
+Precinct 15,Treasurer,"RACKLEY, GINA",71
+Precinct 15,"U.S. Representative in Congress, District 2","DERBY, JILL",32
+Precinct 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",69
+Precinct 15,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
+Precinct 15,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
+Precinct 15,United States Senator,"CARTER, JACK",24
+Precinct 15,United States Senator,"ENSIGN, JOHN",81
+Precinct 15,United States Senator,None Of These Candidates,6
+Precinct 15,United States Senator,"SCHUMANN, DAVID K.",4
+Precinct 15,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 2,Attorney General,"CHAIREZ, DON",108
+Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",180
+Precinct 2,Attorney General,None Of These Candidates,36
+Precinct 2,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",277
+Precinct 2,COUNTY CLERK (Republican),"SPERO, TAMI RAE",275
+Precinct 2,County Commissioner Seat C,"CASSINELLI, DAN",279
+Precinct 2,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",276
+Precinct 2,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",279
+Precinct 2,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",147
+Precinct 2,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",174
+Precinct 2,Governor,"BERGLAND, CRAIG O.",3
+Precinct 2,Governor,"GIBBONS, JIM",200
+Precinct 2,Governor,"HANSEN, CHRISTOPHER H.",10
+Precinct 2,Governor,None Of These Candidates,13
+Precinct 2,Governor,"TITUS, DINA",101
+Precinct 2,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",166
+Precinct 2,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",124
+Precinct 2,"Justice of the Peace, UNION Township","JOHNSON, GARY",78
+Precinct 2,"Justice of the Peace, UNION Township","WAMBOLT, GENE",244
+Precinct 2,Lieutenant Governor,"JEFFERSON, THOMAS",21
+Precinct 2,Lieutenant Governor,"KROLICKI, BRIAN K.",183
+Precinct 2,Lieutenant Governor,None Of These Candidates,21
+Precinct 2,Lieutenant Governor,"UNGER, ROBERT ""BOB""",98
+Precinct 2,Mayor WINNEMUCCA,"HUMMEL, LAURA",45
+Precinct 2,Mayor WINNEMUCCA,"STONE, RICHARD D.",108
+Precinct 2,Mayor WINNEMUCCA,"WILLIS-PUTNAM, DI AN",168
+Precinct 2,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",275
+Precinct 2,School Board Trustee Seat A,"HILL, JOHN",224
+Precinct 2,School Board Trustee Seat A,"NIELSEN, ARLOW",70
+Precinct 2,School Board Trustee Seat F,"HILLYER, ANDREW C.",178
+Precinct 2,School Board Trustee Seat F,"OKUMA, DEBBIE A.",136
+Precinct 2,Secretary Of State,"HANSEN, JANINE",25
+Precinct 2,Secretary Of State,"MILLER, ROSS",136
+Precinct 2,Secretary Of State,None Of These Candidates,26
+Precinct 2,Secretary Of State,"TARKANIAN, DANNY",134
+Precinct 2,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",183
+Precinct 2,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",143
+Precinct 2,"State Assembly, District 32","MARVEL, JOHN",260
+Precinct 2,"State Assembly, District 32","SPRINKLE, MIKE",65
+Precinct 2,State Controller,"FITZGIBBONS, FLOYD",16
+Precinct 2,State Controller,"MARTIN, STEVE",154
+Precinct 2,State Controller,None Of These Candidates,34
+Precinct 2,State Controller,"WALLIN, KIM R.",118
+Precinct 2,State Treasurer,"ANDREWS, MARK",29
+Precinct 2,State Treasurer,"DESTEFANO, MARK",129
+Precinct 2,State Treasurer,"MARSHALL, KATE",131
+Precinct 2,State Treasurer,None Of These Candidates,34
+Precinct 2,"Supreme Court Justice, Seat C","Cherry, Michael A.",218
+Precinct 2,"Supreme Court Justice, Seat C",None Of These Candidates,69
+Precinct 2,"Supreme Court Justice, Seat F","Douglas, Michael L.",165
+Precinct 2,"Supreme Court Justice, Seat F",None Of These Candidates,53
+Precinct 2,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",94
+Precinct 2,"Supreme Court Justice, Seat G","BECKER, NANCY",136
+Precinct 2,"Supreme Court Justice, Seat G",None Of These Candidates,58
+Precinct 2,"Supreme Court Justice, Seat G","Saitta, Nancy M.",116
+Precinct 2,Treasurer,"HOLZEL, DEE A.",88
+Precinct 2,Treasurer,"RACKLEY, GINA",237
+Precinct 2,"U.S. Representative in Congress, District 2","DERBY, JILL",140
+Precinct 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",163
+Precinct 2,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
+Precinct 2,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+Precinct 2,United States Senator,"CARTER, JACK",113
+Precinct 2,United States Senator,"ENSIGN, JOHN",197
+Precinct 2,United States Senator,None Of These Candidates,10
+Precinct 2,United States Senator,"SCHUMANN, DAVID K.",3
+Precinct 2,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 2,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",176
+Precinct 2,"Winnemucca Councilman, Seat Number 2","WARR, LES",135
+Precinct 3,Attorney General,"CHAIREZ, DON",135
+Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",274
+Precinct 3,Attorney General,None Of These Candidates,34
+Precinct 3,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",377
+Precinct 3,COUNTY CLERK (Republican),"SPERO, TAMI RAE",384
+Precinct 3,County Commissioner Seat C,"CASSINELLI, DAN",377
+Precinct 3,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",378
+Precinct 3,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",388
+Precinct 3,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",177
+Precinct 3,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",261
+Precinct 3,Governor,"BERGLAND, CRAIG O.",1
+Precinct 3,Governor,"GIBBONS, JIM",299
+Precinct 3,Governor,"HANSEN, CHRISTOPHER H.",6
+Precinct 3,Governor,None Of These Candidates,25
+Precinct 3,Governor,"TITUS, DINA",116
+Precinct 3,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",250
+Precinct 3,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",147
+Precinct 3,"Justice of the Peace, UNION Township","JOHNSON, GARY",110
+Precinct 3,"Justice of the Peace, UNION Township","WAMBOLT, GENE",330
+Precinct 3,Lieutenant Governor,"JEFFERSON, THOMAS",26
+Precinct 3,Lieutenant Governor,"KROLICKI, BRIAN K.",269
+Precinct 3,Lieutenant Governor,None Of These Candidates,20
+Precinct 3,Lieutenant Governor,"UNGER, ROBERT ""BOB""",129
+Precinct 3,Mayor WINNEMUCCA,"HUMMEL, LAURA",45
+Precinct 3,Mayor WINNEMUCCA,"STONE, RICHARD D.",193
+Precinct 3,Mayor WINNEMUCCA,"WILLIS-PUTNAM, DI AN",197
+Precinct 3,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",376
+Precinct 3,School Board Trustee Seat A,"HILL, JOHN",296
+Precinct 3,School Board Trustee Seat A,"NIELSEN, ARLOW",103
+Precinct 3,School Board Trustee Seat F,"HILLYER, ANDREW C.",221
+Precinct 3,School Board Trustee Seat F,"OKUMA, DEBBIE A.",206
+Precinct 3,Secretary Of State,"HANSEN, JANINE",36
+Precinct 3,Secretary Of State,"MILLER, ROSS",191
+Precinct 3,Secretary Of State,None Of These Candidates,23
+Precinct 3,Secretary Of State,"TARKANIAN, DANNY",191
+Precinct 3,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",249
+Precinct 3,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",189
+Precinct 3,"State Assembly, District 32","MARVEL, JOHN",344
+Precinct 3,"State Assembly, District 32","SPRINKLE, MIKE",99
+Precinct 3,State Controller,"FITZGIBBONS, FLOYD",21
+Precinct 3,State Controller,"MARTIN, STEVE",202
+Precinct 3,State Controller,None Of These Candidates,46
+Precinct 3,State Controller,"WALLIN, KIM R.",173
+Precinct 3,State Treasurer,"ANDREWS, MARK",24
+Precinct 3,State Treasurer,"DESTEFANO, MARK",198
+Precinct 3,State Treasurer,"MARSHALL, KATE",186
+Precinct 3,State Treasurer,None Of These Candidates,37
+Precinct 3,"Supreme Court Justice, Seat C","Cherry, Michael A.",298
+Precinct 3,"Supreme Court Justice, Seat C",None Of These Candidates,110
+Precinct 3,"Supreme Court Justice, Seat F","Douglas, Michael L.",232
+Precinct 3,"Supreme Court Justice, Seat F",None Of These Candidates,72
+Precinct 3,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",127
+Precinct 3,"Supreme Court Justice, Seat G","BECKER, NANCY",164
+Precinct 3,"Supreme Court Justice, Seat G",None Of These Candidates,79
+Precinct 3,"Supreme Court Justice, Seat G","Saitta, Nancy M.",183
+Precinct 3,Treasurer,"HOLZEL, DEE A.",123
+Precinct 3,Treasurer,"RACKLEY, GINA",319
+Precinct 3,"U.S. Representative in Congress, District 2","DERBY, JILL",172
+Precinct 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",246
+Precinct 3,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
+Precinct 3,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",16
+Precinct 3,United States Senator,"CARTER, JACK",126
+Precinct 3,United States Senator,"ENSIGN, JOHN",299
+Precinct 3,United States Senator,None Of These Candidates,9
+Precinct 3,United States Senator,"SCHUMANN, DAVID K.",4
+Precinct 3,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 3,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",224
+Precinct 3,"Winnemucca Councilman, Seat Number 2","WARR, LES",198
+Precinct 4,Attorney General,"CHAIREZ, DON",128
+Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",194
+Precinct 4,Attorney General,None Of These Candidates,36
+Precinct 4,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",324
+Precinct 4,COUNTY CLERK (Republican),"SPERO, TAMI RAE",329
+Precinct 4,County Commissioner Seat C,"CASSINELLI, DAN",323
+Precinct 4,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",323
+Precinct 4,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",328
+Precinct 4,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",140
+Precinct 4,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",217
+Precinct 4,Governor,"BERGLAND, CRAIG O.",2
+Precinct 4,Governor,"GIBBONS, JIM",232
+Precinct 4,Governor,"HANSEN, CHRISTOPHER H.",17
+Precinct 4,Governor,None Of These Candidates,22
+Precinct 4,Governor,"TITUS, DINA",91
+Precinct 4,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",191
+Precinct 4,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",139
+Precinct 4,"Justice of the Peace, UNION Township","JOHNSON, GARY",100
+Precinct 4,"Justice of the Peace, UNION Township","WAMBOLT, GENE",251
+Precinct 4,Lieutenant Governor,"JEFFERSON, THOMAS",26
+Precinct 4,Lieutenant Governor,"KROLICKI, BRIAN K.",197
+Precinct 4,Lieutenant Governor,None Of These Candidates,24
+Precinct 4,Lieutenant Governor,"UNGER, ROBERT ""BOB""",114
+Precinct 4,Mayor WINNEMUCCA,"HUMMEL, LAURA",39
+Precinct 4,Mayor WINNEMUCCA,"STONE, RICHARD D.",123
+Precinct 4,Mayor WINNEMUCCA,"WILLIS-PUTNAM, DI AN",97
+Precinct 4,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",321
+Precinct 4,School Board Trustee Seat A,"HILL, JOHN",218
+Precinct 4,School Board Trustee Seat A,"NIELSEN, ARLOW",108
+Precinct 4,School Board Trustee Seat F,"HILLYER, ANDREW C.",173
+Precinct 4,School Board Trustee Seat F,"OKUMA, DEBBIE A.",171
+Precinct 4,Secretary Of State,"HANSEN, JANINE",32
+Precinct 4,Secretary Of State,"MILLER, ROSS",144
+Precinct 4,Secretary Of State,None Of These Candidates,23
+Precinct 4,Secretary Of State,"TARKANIAN, DANNY",156
+Precinct 4,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",184
+Precinct 4,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",176
+Precinct 4,"State Assembly, District 35","GOICOECHEA, PETE",319
+Precinct 4,State Controller,"FITZGIBBONS, FLOYD",16
+Precinct 4,State Controller,"MARTIN, STEVE",179
+Precinct 4,State Controller,None Of These Candidates,34
+Precinct 4,State Controller,"WALLIN, KIM R.",130
+Precinct 4,State Treasurer,"ANDREWS, MARK",24
+Precinct 4,State Treasurer,"DESTEFANO, MARK",175
+Precinct 4,State Treasurer,"MARSHALL, KATE",128
+Precinct 4,State Treasurer,None Of These Candidates,30
+Precinct 4,"Supreme Court Justice, Seat C","Cherry, Michael A.",245
+Precinct 4,"Supreme Court Justice, Seat C",None Of These Candidates,92
+Precinct 4,"Supreme Court Justice, Seat F","Douglas, Michael L.",149
+Precinct 4,"Supreme Court Justice, Seat F",None Of These Candidates,66
+Precinct 4,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",132
+Precinct 4,"Supreme Court Justice, Seat G","BECKER, NANCY",136
+Precinct 4,"Supreme Court Justice, Seat G",None Of These Candidates,68
+Precinct 4,"Supreme Court Justice, Seat G","Saitta, Nancy M.",149
+Precinct 4,Treasurer,"HOLZEL, DEE A.",106
+Precinct 4,Treasurer,"RACKLEY, GINA",251
+Precinct 4,"U.S. Representative in Congress, District 2","DERBY, JILL",148
+Precinct 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",189
+Precinct 4,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
+Precinct 4,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
+Precinct 4,United States Senator,"CARTER, JACK",111
+Precinct 4,United States Senator,"ENSIGN, JOHN",227
+Precinct 4,United States Senator,None Of These Candidates,13
+Precinct 4,United States Senator,"SCHUMANN, DAVID K.",9
+Precinct 4,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 4,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",112
+Precinct 4,"Winnemucca Councilman, Seat Number 2","WARR, LES",133
+Precinct 5,Attorney General,"CHAIREZ, DON",298
+Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",411
+Precinct 5,Attorney General,None Of These Candidates,38
+Precinct 5,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",684
+Precinct 5,COUNTY CLERK (Republican),"SPERO, TAMI RAE",692
+Precinct 5,County Commissioner Seat C,"CASSINELLI, DAN",688
+Precinct 5,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",679
+Precinct 5,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",695
+Precinct 5,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",261
+Precinct 5,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",483
+Precinct 5,Governor,"BERGLAND, CRAIG O.",10
+Precinct 5,Governor,"GIBBONS, JIM",497
+Precinct 5,Governor,"HANSEN, CHRISTOPHER H.",22
+Precinct 5,Governor,None Of These Candidates,27
+Precinct 5,Governor,"TITUS, DINA",195
+Precinct 5,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",409
+Precinct 5,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",255
+Precinct 5,"Justice of the Peace, UNION Township","JOHNSON, GARY",149
+Precinct 5,"Justice of the Peace, UNION Township","WAMBOLT, GENE",591
+Precinct 5,Lieutenant Governor,"JEFFERSON, THOMAS",44
+Precinct 5,Lieutenant Governor,"KROLICKI, BRIAN K.",540
+Precinct 5,Lieutenant Governor,None Of These Candidates,26
+Precinct 5,Lieutenant Governor,"UNGER, ROBERT ""BOB""",138
+Precinct 5,Mayor WINNEMUCCA,"HUMMEL, LAURA",63
+Precinct 5,Mayor WINNEMUCCA,"STONE, RICHARD D.",302
+Precinct 5,Mayor WINNEMUCCA,"WILLIS-PUTNAM, DI AN",367
+Precinct 5,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",680
+Precinct 5,School Board Trustee Seat A,"HILL, JOHN",468
+Precinct 5,School Board Trustee Seat A,"NIELSEN, ARLOW",213
+Precinct 5,School Board Trustee Seat F,"HILLYER, ANDREW C.",336
+Precinct 5,School Board Trustee Seat F,"OKUMA, DEBBIE A.",387
+Precinct 5,Secretary Of State,"HANSEN, JANINE",42
+Precinct 5,Secretary Of State,"MILLER, ROSS",284
+Precinct 5,Secretary Of State,None Of These Candidates,38
+Precinct 5,Secretary Of State,"TARKANIAN, DANNY",380
+Precinct 5,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",350
+Precinct 5,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",400
+Precinct 5,"State Assembly, District 35","GOICOECHEA, PETE",680
+Precinct 5,State Controller,"FITZGIBBONS, FLOYD",38
+Precinct 5,State Controller,"MARTIN, STEVE",412
+Precinct 5,State Controller,None Of These Candidates,48
+Precinct 5,State Controller,"WALLIN, KIM R.",249
+Precinct 5,State Treasurer,"ANDREWS, MARK",56
+Precinct 5,State Treasurer,"DESTEFANO, MARK",400
+Precinct 5,State Treasurer,"MARSHALL, KATE",264
+Precinct 5,State Treasurer,None Of These Candidates,28
+Precinct 5,"Supreme Court Justice, Seat C","Cherry, Michael A.",519
+Precinct 5,"Supreme Court Justice, Seat C",None Of These Candidates,164
+Precinct 5,"Supreme Court Justice, Seat F","Douglas, Michael L.",366
+Precinct 5,"Supreme Court Justice, Seat F",None Of These Candidates,122
+Precinct 5,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",231
+Precinct 5,"Supreme Court Justice, Seat G","BECKER, NANCY",248
+Precinct 5,"Supreme Court Justice, Seat G",None Of These Candidates,149
+Precinct 5,"Supreme Court Justice, Seat G","Saitta, Nancy M.",327
+Precinct 5,Treasurer,"HOLZEL, DEE A.",162
+Precinct 5,Treasurer,"RACKLEY, GINA",588
+Precinct 5,"U.S. Representative in Congress, District 2","DERBY, JILL",247
+Precinct 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",457
+Precinct 5,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",23
+Precinct 5,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",22
+Precinct 5,United States Senator,"CARTER, JACK",181
+Precinct 5,United States Senator,"ENSIGN, JOHN",549
+Precinct 5,United States Senator,None Of These Candidates,9
+Precinct 5,United States Senator,"SCHUMANN, DAVID K.",11
+Precinct 5,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 5,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",385
+Precinct 5,"Winnemucca Councilman, Seat Number 2","WARR, LES",322
+Precinct 6,Attorney General,"CHAIREZ, DON",309
+Precinct 6,Attorney General,"CORTEZ  MASTO, CATHERINE",299
+Precinct 6,Attorney General,None Of These Candidates,40
+Precinct 6,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",582
+Precinct 6,COUNTY CLERK (Republican),"SPERO, TAMI RAE",589
+Precinct 6,County Commissioner Seat C,"CASSINELLI, DAN",586
+Precinct 6,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",579
+Precinct 6,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",599
+Precinct 6,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",228
+Precinct 6,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",414
+Precinct 6,Governor,"BERGLAND, CRAIG O.",5
+Precinct 6,Governor,"GIBBONS, JIM",473
+Precinct 6,Governor,"HANSEN, CHRISTOPHER H.",44
+Precinct 6,Governor,None Of These Candidates,19
+Precinct 6,Governor,"TITUS, DINA",112
+Precinct 6,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",363
+Precinct 6,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",213
+Precinct 6,"Justice of the Peace, UNION Township","JOHNSON, GARY",188
+Precinct 6,"Justice of the Peace, UNION Township","WAMBOLT, GENE",447
+Precinct 6,Lieutenant Governor,"JEFFERSON, THOMAS",59
+Precinct 6,Lieutenant Governor,"KROLICKI, BRIAN K.",425
+Precinct 6,Lieutenant Governor,None Of These Candidates,32
+Precinct 6,Lieutenant Governor,"UNGER, ROBERT ""BOB""",135
+Precinct 6,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",569
+Precinct 6,School Board Trustee Seat A,"HILL, JOHN",408
+Precinct 6,School Board Trustee Seat A,"NIELSEN, ARLOW",172
+Precinct 6,School Board Trustee Seat F,"HILLYER, ANDREW C.",332
+Precinct 6,School Board Trustee Seat F,"OKUMA, DEBBIE A.",259
+Precinct 6,Secretary Of State,"HANSEN, JANINE",68
+Precinct 6,Secretary Of State,"MILLER, ROSS",202
+Precinct 6,Secretary Of State,None Of These Candidates,27
+Precinct 6,Secretary Of State,"TARKANIAN, DANNY",349
+Precinct 6,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",327
+Precinct 6,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",322
+Precinct 6,"State Assembly, District 35","GOICOECHEA, PETE",582
+Precinct 6,State Controller,"FITZGIBBONS, FLOYD",49
+Precinct 6,State Controller,"MARTIN, STEVE",358
+Precinct 6,State Controller,None Of These Candidates,50
+Precinct 6,State Controller,"WALLIN, KIM R.",189
+Precinct 6,State Treasurer,"ANDREWS, MARK",52
+Precinct 6,State Treasurer,"DESTEFANO, MARK",362
+Precinct 6,State Treasurer,"MARSHALL, KATE",199
+Precinct 6,State Treasurer,None Of These Candidates,36
+Precinct 6,"Supreme Court Justice, Seat C","Cherry, Michael A.",451
+Precinct 6,"Supreme Court Justice, Seat C",None Of These Candidates,150
+Precinct 6,"Supreme Court Justice, Seat F","Douglas, Michael L.",280
+Precinct 6,"Supreme Court Justice, Seat F",None Of These Candidates,118
+Precinct 6,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",232
+Precinct 6,"Supreme Court Justice, Seat G","BECKER, NANCY",215
+Precinct 6,"Supreme Court Justice, Seat G",None Of These Candidates,126
+Precinct 6,"Supreme Court Justice, Seat G","Saitta, Nancy M.",291
+Precinct 6,Treasurer,"HOLZEL, DEE A.",156
+Precinct 6,Treasurer,"RACKLEY, GINA",479
+Precinct 6,"U.S. Representative in Congress, District 2","DERBY, JILL",187
+Precinct 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",413
+Precinct 6,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",17
+Precinct 6,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",29
+Precinct 6,United States Senator,"CARTER, JACK",160
+Precinct 6,United States Senator,"ENSIGN, JOHN",460
+Precinct 6,United States Senator,None Of These Candidates,9
+Precinct 6,United States Senator,"SCHUMANN, DAVID K.",15
+Precinct 6,United States Senator,"TRAINOR, BRENDAN",8
+Precinct 7,Attorney General,"CHAIREZ, DON",246
+Precinct 7,Attorney General,"CORTEZ  MASTO, CATHERINE",311
+Precinct 7,Attorney General,None Of These Candidates,34
+Precinct 7,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",512
+Precinct 7,COUNTY CLERK (Republican),"SPERO, TAMI RAE",512
+Precinct 7,County Commissioner Seat C,"CASSINELLI, DAN",526
+Precinct 7,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",523
+Precinct 7,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",526
+Precinct 7,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",234
+Precinct 7,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",352
+Precinct 7,Governor,"BERGLAND, CRAIG O.",11
+Precinct 7,Governor,"GIBBONS, JIM",445
+Precinct 7,Governor,"HANSEN, CHRISTOPHER H.",20
+Precinct 7,Governor,None Of These Candidates,16
+Precinct 7,Governor,"TITUS, DINA",101
+Precinct 7,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",314
+Precinct 7,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",207
+Precinct 7,"Justice of the Peace, UNION Township","JOHNSON, GARY",152
+Precinct 7,"Justice of the Peace, UNION Township","WAMBOLT, GENE",421
+Precinct 7,Lieutenant Governor,"JEFFERSON, THOMAS",36
+Precinct 7,Lieutenant Governor,"KROLICKI, BRIAN K.",411
+Precinct 7,Lieutenant Governor,None Of These Candidates,20
+Precinct 7,Lieutenant Governor,"UNGER, ROBERT ""BOB""",123
+Precinct 7,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",512
+Precinct 7,School Board Trustee Seat A,"HILL, JOHN",400
+Precinct 7,School Board Trustee Seat A,"NIELSEN, ARLOW",126
+Precinct 7,School Board Trustee Seat F,"HILLYER, ANDREW C.",278
+Precinct 7,School Board Trustee Seat F,"OKUMA, DEBBIE A.",285
+Precinct 7,Secretary Of State,"HANSEN, JANINE",41
+Precinct 7,Secretary Of State,"MILLER, ROSS",200
+Precinct 7,Secretary Of State,None Of These Candidates,19
+Precinct 7,Secretary Of State,"TARKANIAN, DANNY",325
+Precinct 7,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",286
+Precinct 7,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",304
+Precinct 7,"State Assembly, District 35","GOICOECHEA, PETE",523
+Precinct 7,State Controller,"FITZGIBBONS, FLOYD",34
+Precinct 7,State Controller,"MARTIN, STEVE",335
+Precinct 7,State Controller,None Of These Candidates,43
+Precinct 7,State Controller,"WALLIN, KIM R.",173
+Precinct 7,State Treasurer,"ANDREWS, MARK",43
+Precinct 7,State Treasurer,"DESTEFANO, MARK",339
+Precinct 7,State Treasurer,"MARSHALL, KATE",174
+Precinct 7,State Treasurer,None Of These Candidates,31
+Precinct 7,"Supreme Court Justice, Seat C","Cherry, Michael A.",414
+Precinct 7,"Supreme Court Justice, Seat C",None Of These Candidates,123
+Precinct 7,"Supreme Court Justice, Seat F","Douglas, Michael L.",276
+Precinct 7,"Supreme Court Justice, Seat F",None Of These Candidates,97
+Precinct 7,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",196
+Precinct 7,"Supreme Court Justice, Seat G","BECKER, NANCY",202
+Precinct 7,"Supreme Court Justice, Seat G",None Of These Candidates,110
+Precinct 7,"Supreme Court Justice, Seat G","Saitta, Nancy M.",262
+Precinct 7,Treasurer,"HOLZEL, DEE A.",129
+Precinct 7,Treasurer,"RACKLEY, GINA",458
+Precinct 7,"U.S. Representative in Congress, District 2","DERBY, JILL",209
+Precinct 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",355
+Precinct 7,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",14
+Precinct 7,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
+Precinct 7,United States Senator,"CARTER, JACK",125
+Precinct 7,United States Senator,"ENSIGN, JOHN",447
+Precinct 7,United States Senator,None Of These Candidates,10
+Precinct 7,United States Senator,"SCHUMANN, DAVID K.",9
+Precinct 7,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 8,Attorney General,"CHAIREZ, DON",48
+Precinct 8,Attorney General,"CORTEZ  MASTO, CATHERINE",26
+Precinct 8,Attorney General,None Of These Candidates,7
+Precinct 8,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",70
+Precinct 8,COUNTY CLERK (Republican),"SPERO, TAMI RAE",68
+Precinct 8,County Commissioner Seat C,"CASSINELLI, DAN",70
+Precinct 8,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",67
+Precinct 8,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",69
+Precinct 8,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",21
+Precinct 8,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",58
+Precinct 8,Governor,"BERGLAND, CRAIG O.",1
+Precinct 8,Governor,"GIBBONS, JIM",64
+Precinct 8,Governor,"HANSEN, CHRISTOPHER H.",4
+Precinct 8,Governor,None Of These Candidates,1
+Precinct 8,Governor,"TITUS, DINA",11
+Precinct 8,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",23
+Precinct 8,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",38
+Precinct 8,"Justice of the Peace, UNION Township","JOHNSON, GARY",18
+Precinct 8,"Justice of the Peace, UNION Township","WAMBOLT, GENE",61
+Precinct 8,Lieutenant Governor,"JEFFERSON, THOMAS",5
+Precinct 8,Lieutenant Governor,"KROLICKI, BRIAN K.",66
+Precinct 8,Lieutenant Governor,None Of These Candidates,2
+Precinct 8,Lieutenant Governor,"UNGER, ROBERT ""BOB""",8
+Precinct 8,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",65
+Precinct 8,School Board Trustee Seat A,"HILL, JOHN",50
+Precinct 8,School Board Trustee Seat A,"NIELSEN, ARLOW",16
+Precinct 8,School Board Trustee Seat F,"HILLYER, ANDREW C.",34
+Precinct 8,School Board Trustee Seat F,"OKUMA, DEBBIE A.",34
+Precinct 8,Secretary Of State,"HANSEN, JANINE",3
+Precinct 8,Secretary Of State,"MILLER, ROSS",19
+Precinct 8,Secretary Of State,None Of These Candidates,5
+Precinct 8,Secretary Of State,"TARKANIAN, DANNY",54
+Precinct 8,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",34
+Precinct 8,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",45
+Precinct 8,"State Assembly, District 32","MARVEL, JOHN",53
+Precinct 8,"State Assembly, District 32","SPRINKLE, MIKE",10
+Precinct 8,"State Assembly, District 33","CARPENTER, JOHN C.",15
+Precinct 8,State Controller,"FITZGIBBONS, FLOYD",5
+Precinct 8,State Controller,"MARTIN, STEVE",60
+Precinct 8,State Controller,None Of These Candidates,3
+Precinct 8,State Controller,"WALLIN, KIM R.",11
+Precinct 8,State Treasurer,"ANDREWS, MARK",2
+Precinct 8,State Treasurer,"DESTEFANO, MARK",57
+Precinct 8,State Treasurer,"MARSHALL, KATE",19
+Precinct 8,State Treasurer,None Of These Candidates,2
+Precinct 8,"Supreme Court Justice, Seat C","Cherry, Michael A.",51
+Precinct 8,"Supreme Court Justice, Seat C",None Of These Candidates,18
+Precinct 8,"Supreme Court Justice, Seat F","Douglas, Michael L.",34
+Precinct 8,"Supreme Court Justice, Seat F",None Of These Candidates,11
+Precinct 8,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",30
+Precinct 8,"Supreme Court Justice, Seat G","BECKER, NANCY",19
+Precinct 8,"Supreme Court Justice, Seat G",None Of These Candidates,17
+Precinct 8,"Supreme Court Justice, Seat G","Saitta, Nancy M.",36
+Precinct 8,Treasurer,"HOLZEL, DEE A.",14
+Precinct 8,Treasurer,"RACKLEY, GINA",67
+Precinct 8,"U.S. Representative in Congress, District 2","DERBY, JILL",12
+Precinct 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",64
+Precinct 8,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
+Precinct 8,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
+Precinct 8,United States Senator,"CARTER, JACK",10
+Precinct 8,United States Senator,"ENSIGN, JOHN",66
+Precinct 8,United States Senator,None Of These Candidates,0
+Precinct 8,United States Senator,"SCHUMANN, DAVID K.",2
+Precinct 8,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 9,Attorney General,"CHAIREZ, DON",60
+Precinct 9,Attorney General,"CORTEZ  MASTO, CATHERINE",25
+Precinct 9,Attorney General,None Of These Candidates,9
+Precinct 9,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",89
+Precinct 9,COUNTY CLERK (Republican),"SPERO, TAMI RAE",87
+Precinct 9,County Commissioner Seat C,"CASSINELLI, DAN",89
+Precinct 9,County Commissioner Seat E,"GIORDANO, CHARLES ""CHUCK""",86
+Precinct 9,COUNTY RECORDER (Republican),"HAMMOND, MARY ANN",90
+Precinct 9,DISTRICT ATTORNEY,"ARMSTRONG, C. LEE",37
+Precinct 9,DISTRICT ATTORNEY,"SMITH, RUSSELL D.",55
+Precinct 9,Golconda Fire District Seat B,"DORY, EARL E.",51
+Precinct 9,Golconda Fire District Seat B,"MORRISON, GAYLE",40
+Precinct 9,Governor,"BERGLAND, CRAIG O.",0
+Precinct 9,Governor,"GIBBONS, JIM",68
+Precinct 9,Governor,"HANSEN, CHRISTOPHER H.",5
+Precinct 9,Governor,None Of These Candidates,2
+Precinct 9,Governor,"TITUS, DINA",21
+Precinct 9,"Humboldt County Hospital Dist Trustee, Seat B","HANZLIK, MAURICE J. ""MOE""",44
+Precinct 9,"Humboldt County Hospital Dist Trustee, Seat B","HARTLEY, DALE E.",42
+Precinct 9,"Justice of the Peace, UNION Township","JOHNSON, GARY",33
+Precinct 9,"Justice of the Peace, UNION Township","WAMBOLT, GENE",59
+Precinct 9,Lieutenant Governor,"JEFFERSON, THOMAS",5
+Precinct 9,Lieutenant Governor,"KROLICKI, BRIAN K.",64
+Precinct 9,Lieutenant Governor,None Of These Candidates,3
+Precinct 9,Lieutenant Governor,"UNGER, ROBERT ""BOB""",24
+Precinct 9,PUBLIC ADMINISTRATOR,"DUFURRENA, RITA",89
+Precinct 9,School Board Trustee Seat A,"HILL, JOHN",62
+Precinct 9,School Board Trustee Seat A,"NIELSEN, ARLOW",21
+Precinct 9,School Board Trustee Seat F,"HILLYER, ANDREW C.",56
+Precinct 9,School Board Trustee Seat F,"OKUMA, DEBBIE A.",32
+Precinct 9,Secretary Of State,"HANSEN, JANINE",8
+Precinct 9,Secretary Of State,"MILLER, ROSS",22
+Precinct 9,Secretary Of State,None Of These Candidates,6
+Precinct 9,Secretary Of State,"TARKANIAN, DANNY",60
+Precinct 9,Sheriff - HUMBOLDT - NP,"KILGORE, EDWIN R.",50
+Precinct 9,Sheriff - HUMBOLDT - NP,"RAABE, STEVEN E.",44
+Precinct 9,"State Assembly, District 32","MARVEL, JOHN",58
+Precinct 9,"State Assembly, District 32","SPRINKLE, MIKE",13
+Precinct 9,"State Assembly, District 35","GOICOECHEA, PETE",22
+Precinct 9,State Controller,"FITZGIBBONS, FLOYD",11
+Precinct 9,State Controller,"MARTIN, STEVE",62
+Precinct 9,State Controller,None Of These Candidates,5
+Precinct 9,State Controller,"WALLIN, KIM R.",16
+Precinct 9,State Treasurer,"ANDREWS, MARK",9
+Precinct 9,State Treasurer,"DESTEFANO, MARK",58
+Precinct 9,State Treasurer,"MARSHALL, KATE",27
+Precinct 9,State Treasurer,None Of These Candidates,2
+Precinct 9,"Supreme Court Justice, Seat C","Cherry, Michael A.",65
+Precinct 9,"Supreme Court Justice, Seat C",None Of These Candidates,20
+Precinct 9,"Supreme Court Justice, Seat F","Douglas, Michael L.",41
+Precinct 9,"Supreme Court Justice, Seat F",None Of These Candidates,15
+Precinct 9,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",30
+Precinct 9,"Supreme Court Justice, Seat G","BECKER, NANCY",39
+Precinct 9,"Supreme Court Justice, Seat G",None Of These Candidates,19
+Precinct 9,"Supreme Court Justice, Seat G","Saitta, Nancy M.",30
+Precinct 9,Treasurer,"HOLZEL, DEE A.",15
+Precinct 9,Treasurer,"RACKLEY, GINA",80
+Precinct 9,"U.S. Representative in Congress, District 2","DERBY, JILL",22
+Precinct 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",63
+Precinct 9,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
+Precinct 9,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
+Precinct 9,United States Senator,"CARTER, JACK",20
+Precinct 9,United States Senator,"ENSIGN, JOHN",69
+Precinct 9,United States Senator,None Of These Candidates,2
+Precinct 9,United States Senator,"SCHUMANN, DAVID K.",3
+Precinct 9,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+Precinct 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+Precinct 99,United States Senator,"CARTER, JACK",0
+Precinct 99,United States Senator,"ENSIGN, JOHN",0
+Precinct 99,United States Senator,None Of These Candidates,0
+Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 99,United States Senator,"TRAINOR, BRENDAN",0

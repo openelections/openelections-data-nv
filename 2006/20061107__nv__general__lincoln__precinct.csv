@@ -1,0 +1,305 @@
+precinct,office,candidate,votes
+1 - ALAMO,Attorney General,"CHAIREZ, DON",241
+1 - ALAMO,Attorney General,"CORTEZ  MASTO, CATHERINE",148
+1 - ALAMO,Attorney General,None Of These Candidates,41
+1 - ALAMO,COUNTY ASSESSOR,"HULSE, FRANK C.",113
+1 - ALAMO,COUNTY ASSESSOR,"MCBRIDE, MELANIE",317
+1 - ALAMO,COUNTY CLERK (Republican),"LLOYD, LISA C.",300
+1 - ALAMO,COUNTY CLERK (Republican),"SIMKINS, ALICE ""CONNIE""",134
+1 - ALAMO,County Commissioner District B (CW),"LLOYD, BILL",211
+1 - ALAMO,County Commissioner District B (CW),"ZELCH, GLENNON",222
+1 - ALAMO,County Commissioner District D (CW),"HORNBECK, RONDA",394
+1 - ALAMO,County Recorder-Auditor,"BOUCHER, LESLIE",378
+1 - ALAMO,COUNTY TREASURER,"HIATT, KATHY C.",381
+1 - ALAMO,DISTRICT ATTORNEY,"BARLOW, GREGORY J.",254
+1 - ALAMO,DISTRICT ATTORNEY,"DUNLEAVY, PHILIP H.",174
+1 - ALAMO,Governor,"BERGLAND, CRAIG O.",2
+1 - ALAMO,Governor,"GIBBONS, JIM",322
+1 - ALAMO,Governor,"HANSEN, CHRISTOPHER H.",17
+1 - ALAMO,Governor,None Of These Candidates,21
+1 - ALAMO,Governor,"TITUS, DINA",75
+1 - ALAMO,"Justice of the Peace, PAHRANAGAT VALLEY","HOLTON, NOLA",329
+1 - ALAMO,"Justice of the Peace, PAHRANAGAT VALLEY","STEWART, TARA LEE",97
+1 - ALAMO,Lieutenant Governor,"JEFFERSON, THOMAS",11
+1 - ALAMO,Lieutenant Governor,"KROLICKI, BRIAN K.",314
+1 - ALAMO,Lieutenant Governor,None Of These Candidates,27
+1 - ALAMO,Lieutenant Governor,"UNGER, ROBERT ""BOB""",81
+1 - ALAMO,Secretary Of State,"HANSEN, JANINE",44
+1 - ALAMO,Secretary Of State,"MILLER, ROSS",143
+1 - ALAMO,Secretary Of State,None Of These Candidates,28
+1 - ALAMO,Secretary Of State,"TARKANIAN, DANNY",220
+1 - ALAMO,Sheriff - LINCOLN - NP,"BRADSHAW, DARYL",99
+1 - ALAMO,Sheriff - LINCOLN - NP,"LEE, KERRY D.",328
+1 - ALAMO,"State Assembly, District 36","GOEDHART, ED",308
+1 - ALAMO,"State Assembly, District 36","HOLMGREN, DAVID G.",20
+1 - ALAMO,"State Assembly, District 36","MURRAY, LAURAYNE",106
+1 - ALAMO,State Controller,"FITZGIBBONS, FLOYD",19
+1 - ALAMO,State Controller,"MARTIN, STEVE",282
+1 - ALAMO,State Controller,None Of These Candidates,47
+1 - ALAMO,State Controller,"WALLIN, KIM R.",83
+1 - ALAMO,State Treasurer,"ANDREWS, MARK",19
+1 - ALAMO,State Treasurer,"DESTEFANO, MARK",264
+1 - ALAMO,State Treasurer,"MARSHALL, KATE",104
+1 - ALAMO,State Treasurer,None Of These Candidates,43
+1 - ALAMO,"Supreme Court Justice, Seat C","Cherry, Michael A.",315
+1 - ALAMO,"Supreme Court Justice, Seat C",None Of These Candidates,96
+1 - ALAMO,"Supreme Court Justice, Seat F","Douglas, Michael L.",164
+1 - ALAMO,"Supreme Court Justice, Seat F",None Of These Candidates,78
+1 - ALAMO,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",184
+1 - ALAMO,"Supreme Court Justice, Seat G","BECKER, NANCY",181
+1 - ALAMO,"Supreme Court Justice, Seat G",None Of These Candidates,88
+1 - ALAMO,"Supreme Court Justice, Seat G","Saitta, Nancy M.",161
+1 - ALAMO,"U.S. Representative in Congress, District 2","DERBY, JILL",104
+1 - ALAMO,"U.S. Representative in Congress, District 2","HELLER, DEAN",309
+1 - ALAMO,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
+1 - ALAMO,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
+1 - ALAMO,United States Senator,"CARTER, JACK",71
+1 - ALAMO,United States Senator,"ENSIGN, JOHN",350
+1 - ALAMO,United States Senator,None Of These Candidates,10
+1 - ALAMO,United States Senator,"SCHUMANN, DAVID K.",6
+1 - ALAMO,United States Senator,"TRAINOR, BRENDAN",1
+2 - CALIENTE,Attorney General,"CHAIREZ, DON",184
+2 - CALIENTE,Attorney General,"CORTEZ  MASTO, CATHERINE",272
+2 - CALIENTE,Attorney General,None Of These Candidates,50
+2 - CALIENTE,COUNTY ASSESSOR,"HULSE, FRANK C.",96
+2 - CALIENTE,COUNTY ASSESSOR,"MCBRIDE, MELANIE",402
+2 - CALIENTE,COUNTY CLERK (Republican),"LLOYD, LISA C.",273
+2 - CALIENTE,COUNTY CLERK (Republican),"SIMKINS, ALICE ""CONNIE""",232
+2 - CALIENTE,County Commissioner District B (CW),"LLOYD, BILL",336
+2 - CALIENTE,County Commissioner District B (CW),"ZELCH, GLENNON",168
+2 - CALIENTE,County Commissioner District D (CW),"HORNBECK, RONDA",426
+2 - CALIENTE,County Recorder-Auditor,"BOUCHER, LESLIE",461
+2 - CALIENTE,COUNTY TREASURER,"HIATT, KATHY C.",468
+2 - CALIENTE,DISTRICT ATTORNEY,"BARLOW, GREGORY J.",268
+2 - CALIENTE,DISTRICT ATTORNEY,"DUNLEAVY, PHILIP H.",217
+2 - CALIENTE,Governor,"BERGLAND, CRAIG O.",9
+2 - CALIENTE,Governor,"GIBBONS, JIM",276
+2 - CALIENTE,Governor,"HANSEN, CHRISTOPHER H.",35
+2 - CALIENTE,Governor,None Of These Candidates,25
+2 - CALIENTE,Governor,"TITUS, DINA",165
+2 - CALIENTE,Justice of the Peace MEADOW VALLEY,"COWLEY, MIKE D.",223
+2 - CALIENTE,Justice of the Peace MEADOW VALLEY,"LESICKA, LELAND R.",270
+2 - CALIENTE,Lieutenant Governor,"JEFFERSON, THOMAS",43
+2 - CALIENTE,Lieutenant Governor,"KROLICKI, BRIAN K.",242
+2 - CALIENTE,Lieutenant Governor,None Of These Candidates,47
+2 - CALIENTE,Lieutenant Governor,"UNGER, ROBERT ""BOB""",170
+2 - CALIENTE,Secretary Of State,"HANSEN, JANINE",60
+2 - CALIENTE,Secretary Of State,"MILLER, ROSS",208
+2 - CALIENTE,Secretary Of State,None Of These Candidates,29
+2 - CALIENTE,Secretary Of State,"TARKANIAN, DANNY",202
+2 - CALIENTE,Sheriff - LINCOLN - NP,"BRADSHAW, DARYL",110
+2 - CALIENTE,Sheriff - LINCOLN - NP,"LEE, KERRY D.",398
+2 - CALIENTE,"State Assembly, District 36","GOEDHART, ED",247
+2 - CALIENTE,"State Assembly, District 36","HOLMGREN, DAVID G.",43
+2 - CALIENTE,"State Assembly, District 36","MURRAY, LAURAYNE",214
+2 - CALIENTE,State Controller,"FITZGIBBONS, FLOYD",40
+2 - CALIENTE,State Controller,"MARTIN, STEVE",228
+2 - CALIENTE,State Controller,None Of These Candidates,47
+2 - CALIENTE,State Controller,"WALLIN, KIM R.",182
+2 - CALIENTE,State Treasurer,"ANDREWS, MARK",57
+2 - CALIENTE,State Treasurer,"DESTEFANO, MARK",209
+2 - CALIENTE,State Treasurer,"MARSHALL, KATE",188
+2 - CALIENTE,State Treasurer,None Of These Candidates,51
+2 - CALIENTE,"Supreme Court Justice, Seat C","Cherry, Michael A.",359
+2 - CALIENTE,"Supreme Court Justice, Seat C",None Of These Candidates,122
+2 - CALIENTE,"Supreme Court Justice, Seat F","Douglas, Michael L.",137
+2 - CALIENTE,"Supreme Court Justice, Seat F",None Of These Candidates,82
+2 - CALIENTE,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",269
+2 - CALIENTE,"Supreme Court Justice, Seat G","BECKER, NANCY",183
+2 - CALIENTE,"Supreme Court Justice, Seat G",None Of These Candidates,97
+2 - CALIENTE,"Supreme Court Justice, Seat G","Saitta, Nancy M.",217
+2 - CALIENTE,"U.S. Representative in Congress, District 2","DERBY, JILL",184
+2 - CALIENTE,"U.S. Representative in Congress, District 2","HELLER, DEAN",267
+2 - CALIENTE,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",21
+2 - CALIENTE,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",25
+2 - CALIENTE,United States Senator,"CARTER, JACK",150
+2 - CALIENTE,United States Senator,"ENSIGN, JOHN",319
+2 - CALIENTE,United States Senator,None Of These Candidates,13
+2 - CALIENTE,United States Senator,"SCHUMANN, DAVID K.",22
+2 - CALIENTE,United States Senator,"TRAINOR, BRENDAN",6
+3 - PANACA,Attorney General,"CHAIREZ, DON",219
+3 - PANACA,Attorney General,"CORTEZ  MASTO, CATHERINE",138
+3 - PANACA,Attorney General,None Of These Candidates,31
+3 - PANACA,COUNTY ASSESSOR,"HULSE, FRANK C.",116
+3 - PANACA,COUNTY ASSESSOR,"MCBRIDE, MELANIE",275
+3 - PANACA,COUNTY CLERK (Republican),"LLOYD, LISA C.",249
+3 - PANACA,COUNTY CLERK (Republican),"SIMKINS, ALICE ""CONNIE""",144
+3 - PANACA,County Commissioner District B (CW),"LLOYD, BILL",199
+3 - PANACA,County Commissioner District B (CW),"ZELCH, GLENNON",193
+3 - PANACA,County Commissioner District D (CW),"HORNBECK, RONDA",333
+3 - PANACA,County Recorder-Auditor,"BOUCHER, LESLIE",348
+3 - PANACA,COUNTY TREASURER,"HIATT, KATHY C.",350
+3 - PANACA,DISTRICT ATTORNEY,"BARLOW, GREGORY J.",201
+3 - PANACA,DISTRICT ATTORNEY,"DUNLEAVY, PHILIP H.",189
+3 - PANACA,Governor,"BERGLAND, CRAIG O.",3
+3 - PANACA,Governor,"GIBBONS, JIM",274
+3 - PANACA,Governor,"HANSEN, CHRISTOPHER H.",30
+3 - PANACA,Governor,None Of These Candidates,18
+3 - PANACA,Governor,"TITUS, DINA",68
+3 - PANACA,Justice of the Peace MEADOW VALLEY,"COWLEY, MIKE D.",226
+3 - PANACA,Justice of the Peace MEADOW VALLEY,"LESICKA, LELAND R.",158
+3 - PANACA,Lieutenant Governor,"JEFFERSON, THOMAS",35
+3 - PANACA,Lieutenant Governor,"KROLICKI, BRIAN K.",262
+3 - PANACA,Lieutenant Governor,None Of These Candidates,27
+3 - PANACA,Lieutenant Governor,"UNGER, ROBERT ""BOB""",69
+3 - PANACA,Secretary Of State,"HANSEN, JANINE",49
+3 - PANACA,Secretary Of State,"MILLER, ROSS",103
+3 - PANACA,Secretary Of State,None Of These Candidates,20
+3 - PANACA,Secretary Of State,"TARKANIAN, DANNY",212
+3 - PANACA,Sheriff - LINCOLN - NP,"BRADSHAW, DARYL",63
+3 - PANACA,Sheriff - LINCOLN - NP,"LEE, KERRY D.",328
+3 - PANACA,"State Assembly, District 36","GOEDHART, ED",255
+3 - PANACA,"State Assembly, District 36","HOLMGREN, DAVID G.",42
+3 - PANACA,"State Assembly, District 36","MURRAY, LAURAYNE",85
+3 - PANACA,State Controller,"FITZGIBBONS, FLOYD",34
+3 - PANACA,State Controller,"MARTIN, STEVE",246
+3 - PANACA,State Controller,None Of These Candidates,37
+3 - PANACA,State Controller,"WALLIN, KIM R.",70
+3 - PANACA,State Treasurer,"ANDREWS, MARK",44
+3 - PANACA,State Treasurer,"DESTEFANO, MARK",226
+3 - PANACA,State Treasurer,"MARSHALL, KATE",81
+3 - PANACA,State Treasurer,None Of These Candidates,37
+3 - PANACA,"Supreme Court Justice, Seat C","Cherry, Michael A.",275
+3 - PANACA,"Supreme Court Justice, Seat C",None Of These Candidates,78
+3 - PANACA,"Supreme Court Justice, Seat F","Douglas, Michael L.",136
+3 - PANACA,"Supreme Court Justice, Seat F",None Of These Candidates,74
+3 - PANACA,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",167
+3 - PANACA,"Supreme Court Justice, Seat G","BECKER, NANCY",148
+3 - PANACA,"Supreme Court Justice, Seat G",None Of These Candidates,81
+3 - PANACA,"Supreme Court Justice, Seat G","Saitta, Nancy M.",152
+3 - PANACA,"U.S. Representative in Congress, District 2","DERBY, JILL",85
+3 - PANACA,"U.S. Representative in Congress, District 2","HELLER, DEAN",267
+3 - PANACA,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",25
+3 - PANACA,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+3 - PANACA,United States Senator,"CARTER, JACK",61
+3 - PANACA,United States Senator,"ENSIGN, JOHN",308
+3 - PANACA,United States Senator,None Of These Candidates,5
+3 - PANACA,United States Senator,"SCHUMANN, DAVID K.",19
+3 - PANACA,United States Senator,"TRAINOR, BRENDAN",1
+4 - PIOCHE,Attorney General,"CHAIREZ, DON",197
+4 - PIOCHE,Attorney General,"CORTEZ  MASTO, CATHERINE",229
+4 - PIOCHE,Attorney General,None Of These Candidates,50
+4 - PIOCHE,COUNTY ASSESSOR,"HULSE, FRANK C.",97
+4 - PIOCHE,COUNTY ASSESSOR,"MCBRIDE, MELANIE",377
+4 - PIOCHE,COUNTY CLERK (Republican),"LLOYD, LISA C.",290
+4 - PIOCHE,COUNTY CLERK (Republican),"SIMKINS, ALICE ""CONNIE""",190
+4 - PIOCHE,County Commissioner District B (CW),"LLOYD, BILL",227
+4 - PIOCHE,County Commissioner District B (CW),"ZELCH, GLENNON",248
+4 - PIOCHE,County Commissioner District D (CW),"HORNBECK, RONDA",400
+4 - PIOCHE,County Recorder-Auditor,"BOUCHER, LESLIE",419
+4 - PIOCHE,COUNTY TREASURER,"HIATT, KATHY C.",410
+4 - PIOCHE,DISTRICT ATTORNEY,"BARLOW, GREGORY J.",249
+4 - PIOCHE,DISTRICT ATTORNEY,"DUNLEAVY, PHILIP H.",219
+4 - PIOCHE,Governor,"BERGLAND, CRAIG O.",4
+4 - PIOCHE,Governor,"GIBBONS, JIM",276
+4 - PIOCHE,Governor,"HANSEN, CHRISTOPHER H.",23
+4 - PIOCHE,Governor,None Of These Candidates,27
+4 - PIOCHE,Governor,"TITUS, DINA",150
+4 - PIOCHE,Justice of the Peace MEADOW VALLEY,"COWLEY, MIKE D.",269
+4 - PIOCHE,Justice of the Peace MEADOW VALLEY,"LESICKA, LELAND R.",197
+4 - PIOCHE,Lieutenant Governor,"JEFFERSON, THOMAS",39
+4 - PIOCHE,Lieutenant Governor,"KROLICKI, BRIAN K.",255
+4 - PIOCHE,Lieutenant Governor,None Of These Candidates,40
+4 - PIOCHE,Lieutenant Governor,"UNGER, ROBERT ""BOB""",144
+4 - PIOCHE,Secretary Of State,"HANSEN, JANINE",49
+4 - PIOCHE,Secretary Of State,"MILLER, ROSS",169
+4 - PIOCHE,Secretary Of State,None Of These Candidates,29
+4 - PIOCHE,Secretary Of State,"TARKANIAN, DANNY",227
+4 - PIOCHE,Sheriff - LINCOLN - NP,"BRADSHAW, DARYL",148
+4 - PIOCHE,Sheriff - LINCOLN - NP,"LEE, KERRY D.",328
+4 - PIOCHE,"State Assembly, District 36","GOEDHART, ED",290
+4 - PIOCHE,"State Assembly, District 36","HOLMGREN, DAVID G.",31
+4 - PIOCHE,"State Assembly, District 36","MURRAY, LAURAYNE",151
+4 - PIOCHE,State Controller,"FITZGIBBONS, FLOYD",33
+4 - PIOCHE,State Controller,"MARTIN, STEVE",230
+4 - PIOCHE,State Controller,None Of These Candidates,64
+4 - PIOCHE,State Controller,"WALLIN, KIM R.",151
+4 - PIOCHE,State Treasurer,"ANDREWS, MARK",44
+4 - PIOCHE,State Treasurer,"DESTEFANO, MARK",212
+4 - PIOCHE,State Treasurer,"MARSHALL, KATE",156
+4 - PIOCHE,State Treasurer,None Of These Candidates,63
+4 - PIOCHE,"Supreme Court Justice, Seat C","Cherry, Michael A.",287
+4 - PIOCHE,"Supreme Court Justice, Seat C",None Of These Candidates,140
+4 - PIOCHE,"Supreme Court Justice, Seat F","Douglas, Michael L.",151
+4 - PIOCHE,"Supreme Court Justice, Seat F",None Of These Candidates,102
+4 - PIOCHE,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",208
+4 - PIOCHE,"Supreme Court Justice, Seat G","BECKER, NANCY",165
+4 - PIOCHE,"Supreme Court Justice, Seat G",None Of These Candidates,118
+4 - PIOCHE,"Supreme Court Justice, Seat G","Saitta, Nancy M.",187
+4 - PIOCHE,"U.S. Representative in Congress, District 2","DERBY, JILL",167
+4 - PIOCHE,"U.S. Representative in Congress, District 2","HELLER, DEAN",280
+4 - PIOCHE,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
+4 - PIOCHE,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",17
+4 - PIOCHE,United States Senator,"CARTER, JACK",126
+4 - PIOCHE,United States Senator,"ENSIGN, JOHN",329
+4 - PIOCHE,United States Senator,None Of These Candidates,16
+4 - PIOCHE,United States Senator,"SCHUMANN, DAVID K.",10
+4 - PIOCHE,United States Senator,"TRAINOR, BRENDAN",3
+5 - RACHEL,Attorney General,"CHAIREZ, DON",17
+5 - RACHEL,Attorney General,"CORTEZ  MASTO, CATHERINE",5
+5 - RACHEL,Attorney General,None Of These Candidates,2
+5 - RACHEL,COUNTY ASSESSOR,"HULSE, FRANK C.",5
+5 - RACHEL,COUNTY ASSESSOR,"MCBRIDE, MELANIE",20
+5 - RACHEL,COUNTY CLERK (Republican),"LLOYD, LISA C.",8
+5 - RACHEL,COUNTY CLERK (Republican),"SIMKINS, ALICE ""CONNIE""",19
+5 - RACHEL,County Commissioner District B (CW),"LLOYD, BILL",9
+5 - RACHEL,County Commissioner District B (CW),"ZELCH, GLENNON",16
+5 - RACHEL,County Commissioner District D (CW),"HORNBECK, RONDA",22
+5 - RACHEL,County Recorder-Auditor,"BOUCHER, LESLIE",18
+5 - RACHEL,COUNTY TREASURER,"HIATT, KATHY C.",20
+5 - RACHEL,DISTRICT ATTORNEY,"BARLOW, GREGORY J.",18
+5 - RACHEL,DISTRICT ATTORNEY,"DUNLEAVY, PHILIP H.",3
+5 - RACHEL,Governor,"BERGLAND, CRAIG O.",0
+5 - RACHEL,Governor,"GIBBONS, JIM",17
+5 - RACHEL,Governor,"HANSEN, CHRISTOPHER H.",2
+5 - RACHEL,Governor,None Of These Candidates,1
+5 - RACHEL,Governor,"TITUS, DINA",7
+5 - RACHEL,"Justice of the Peace, PAHRANAGAT VALLEY","HOLTON, NOLA",20
+5 - RACHEL,"Justice of the Peace, PAHRANAGAT VALLEY","STEWART, TARA LEE",3
+5 - RACHEL,Lieutenant Governor,"JEFFERSON, THOMAS",2
+5 - RACHEL,Lieutenant Governor,"KROLICKI, BRIAN K.",16
+5 - RACHEL,Lieutenant Governor,None Of These Candidates,1
+5 - RACHEL,Lieutenant Governor,"UNGER, ROBERT ""BOB""",5
+5 - RACHEL,Secretary Of State,"HANSEN, JANINE",3
+5 - RACHEL,Secretary Of State,"MILLER, ROSS",5
+5 - RACHEL,Secretary Of State,None Of These Candidates,5
+5 - RACHEL,Secretary Of State,"TARKANIAN, DANNY",11
+5 - RACHEL,Sheriff - LINCOLN - NP,"BRADSHAW, DARYL",8
+5 - RACHEL,Sheriff - LINCOLN - NP,"LEE, KERRY D.",15
+5 - RACHEL,"State Assembly, District 36","GOEDHART, ED",21
+5 - RACHEL,"State Assembly, District 36","HOLMGREN, DAVID G.",1
+5 - RACHEL,"State Assembly, District 36","MURRAY, LAURAYNE",4
+5 - RACHEL,State Controller,"FITZGIBBONS, FLOYD",3
+5 - RACHEL,State Controller,"MARTIN, STEVE",14
+5 - RACHEL,State Controller,None Of These Candidates,1
+5 - RACHEL,State Controller,"WALLIN, KIM R.",6
+5 - RACHEL,State Treasurer,"ANDREWS, MARK",2
+5 - RACHEL,State Treasurer,"DESTEFANO, MARK",13
+5 - RACHEL,State Treasurer,"MARSHALL, KATE",5
+5 - RACHEL,State Treasurer,None Of These Candidates,4
+5 - RACHEL,"Supreme Court Justice, Seat C","Cherry, Michael A.",16
+5 - RACHEL,"Supreme Court Justice, Seat C",None Of These Candidates,3
+5 - RACHEL,"Supreme Court Justice, Seat F","Douglas, Michael L.",5
+5 - RACHEL,"Supreme Court Justice, Seat F",None Of These Candidates,4
+5 - RACHEL,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",14
+5 - RACHEL,"Supreme Court Justice, Seat G","BECKER, NANCY",10
+5 - RACHEL,"Supreme Court Justice, Seat G",None Of These Candidates,4
+5 - RACHEL,"Supreme Court Justice, Seat G","Saitta, Nancy M.",8
+5 - RACHEL,"U.S. Representative in Congress, District 2","DERBY, JILL",7
+5 - RACHEL,"U.S. Representative in Congress, District 2","HELLER, DEAN",14
+5 - RACHEL,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
+5 - RACHEL,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
+5 - RACHEL,United States Senator,"CARTER, JACK",7
+5 - RACHEL,United States Senator,"ENSIGN, JOHN",17
+5 - RACHEL,United States Senator,None Of These Candidates,1
+5 - RACHEL,United States Senator,"SCHUMANN, DAVID K.",0
+5 - RACHEL,United States Senator,"TRAINOR, BRENDAN",2
+PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 99,United States Senator,"CARTER, JACK",0
+PRECINCT 99,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 99,United States Senator,None Of These Candidates,0
+PRECINCT 99,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 99,United States Senator,"TRAINOR, BRENDAN",0

@@ -1,0 +1,272 @@
+precinct,office,candidate,votes
+Precinct 1,Attorney General,"CHAIREZ, DON",94
+Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",72
+Precinct 1,Attorney General,None Of These Candidates,23
+Precinct 1,Auditor/Recorder,"SCOTT, KAREN",160
+Precinct 1,COUNTY ASSESSOR,"LEE, RUTH P.",170
+Precinct 1,County Clerk/Treasurer,"ELGAN, LACINDA ""CINDY""",164
+Precinct 1,County Commissioner District 1,"FABRIZIO, ROBERT D.",62
+Precinct 1,County Commissioner District 1,"GILLUM, R.J.",124
+Precinct 1,DISTRICT ATTORNEY,"LEVENTHAL, TODD M.",105
+Precinct 1,DISTRICT ATTORNEY,"WHITE, LINDA S.",81
+Precinct 1,Governor,"BERGLAND, CRAIG O.",1
+Precinct 1,Governor,"GIBBONS, JIM",128
+Precinct 1,Governor,"HANSEN, CHRISTOPHER H.",11
+Precinct 1,Governor,None Of These Candidates,9
+Precinct 1,Governor,"TITUS, DINA",47
+Precinct 1,Justice of the Peace - ESMERALDA,"BARNEY, SHARON K.",73
+Precinct 1,Justice of the Peace - ESMERALDA,"COLVIN, JUANITA M.",124
+Precinct 1,Lieutenant Governor,"JEFFERSON, THOMAS",25
+Precinct 1,Lieutenant Governor,"KROLICKI, BRIAN K.",111
+Precinct 1,Lieutenant Governor,None Of These Candidates,14
+Precinct 1,Lieutenant Governor,"UNGER, ROBERT ""BOB""",42
+Precinct 1,PUBLIC ADMINISTRATOR,"DEYMONAZ, LINDA A.",133
+Precinct 1,Secretary Of State,"HANSEN, JANINE",25
+Precinct 1,Secretary Of State,"MILLER, ROSS",61
+Precinct 1,Secretary Of State,None Of These Candidates,18
+Precinct 1,Secretary Of State,"TARKANIAN, DANNY",87
+Precinct 1,"State Assembly, District 36","GOEDHART, ED",103
+Precinct 1,"State Assembly, District 36","HOLMGREN, DAVID G.",21
+Precinct 1,"State Assembly, District 36","MURRAY, LAURAYNE",66
+Precinct 1,State Controller,"FITZGIBBONS, FLOYD",29
+Precinct 1,State Controller,"MARTIN, STEVE",96
+Precinct 1,State Controller,None Of These Candidates,22
+Precinct 1,State Controller,"WALLIN, KIM R.",46
+Precinct 1,State Treasurer,"ANDREWS, MARK",21
+Precinct 1,State Treasurer,"DESTEFANO, MARK",91
+Precinct 1,State Treasurer,"MARSHALL, KATE",65
+Precinct 1,State Treasurer,None Of These Candidates,16
+Precinct 1,"Supreme Court Justice, Seat C","Cherry, Michael A.",111
+Precinct 1,"Supreme Court Justice, Seat C",None Of These Candidates,63
+Precinct 1,"Supreme Court Justice, Seat F","Douglas, Michael L.",58
+Precinct 1,"Supreme Court Justice, Seat F",None Of These Candidates,44
+Precinct 1,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",79
+Precinct 1,"Supreme Court Justice, Seat G","BECKER, NANCY",71
+Precinct 1,"Supreme Court Justice, Seat G",None Of These Candidates,63
+Precinct 1,"Supreme Court Justice, Seat G","Saitta, Nancy M.",50
+Precinct 1,"U.S. Representative in Congress, District 2","DERBY, JILL",53
+Precinct 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",120
+Precinct 1,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
+Precinct 1,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",10
+Precinct 1,United States Senator,"CARTER, JACK",48
+Precinct 1,United States Senator,"ENSIGN, JOHN",125
+Precinct 1,United States Senator,None Of These Candidates,10
+Precinct 1,United States Senator,"SCHUMANN, DAVID K.",8
+Precinct 1,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 2,Attorney General,"CHAIREZ, DON",32
+Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",9
+Precinct 2,Attorney General,None Of These Candidates,12
+Precinct 2,Auditor/Recorder,"SCOTT, KAREN",41
+Precinct 2,COUNTY ASSESSOR,"LEE, RUTH P.",47
+Precinct 2,County Clerk/Treasurer,"ELGAN, LACINDA ""CINDY""",42
+Precinct 2,DISTRICT ATTORNEY,"LEVENTHAL, TODD M.",31
+Precinct 2,DISTRICT ATTORNEY,"WHITE, LINDA S.",20
+Precinct 2,Governor,"BERGLAND, CRAIG O.",2
+Precinct 2,Governor,"GIBBONS, JIM",39
+Precinct 2,Governor,"HANSEN, CHRISTOPHER H.",3
+Precinct 2,Governor,None Of These Candidates,4
+Precinct 2,Governor,"TITUS, DINA",6
+Precinct 2,Justice of the Peace - ESMERALDA,"BARNEY, SHARON K.",13
+Precinct 2,Justice of the Peace - ESMERALDA,"COLVIN, JUANITA M.",41
+Precinct 2,Lieutenant Governor,"JEFFERSON, THOMAS",5
+Precinct 2,Lieutenant Governor,"KROLICKI, BRIAN K.",32
+Precinct 2,Lieutenant Governor,None Of These Candidates,8
+Precinct 2,Lieutenant Governor,"UNGER, ROBERT ""BOB""",8
+Precinct 2,PUBLIC ADMINISTRATOR,"DEYMONAZ, LINDA A.",41
+Precinct 2,Secretary Of State,"HANSEN, JANINE",5
+Precinct 2,Secretary Of State,"MILLER, ROSS",12
+Precinct 2,Secretary Of State,None Of These Candidates,4
+Precinct 2,Secretary Of State,"TARKANIAN, DANNY",32
+Precinct 2,"State Assembly, District 36","GOEDHART, ED",30
+Precinct 2,"State Assembly, District 36","HOLMGREN, DAVID G.",10
+Precinct 2,"State Assembly, District 36","MURRAY, LAURAYNE",10
+Precinct 2,State Controller,"FITZGIBBONS, FLOYD",5
+Precinct 2,State Controller,"MARTIN, STEVE",36
+Precinct 2,State Controller,None Of These Candidates,5
+Precinct 2,State Controller,"WALLIN, KIM R.",7
+Precinct 2,State Treasurer,"ANDREWS, MARK",3
+Precinct 2,State Treasurer,"DESTEFANO, MARK",24
+Precinct 2,State Treasurer,"MARSHALL, KATE",16
+Precinct 2,State Treasurer,None Of These Candidates,11
+Precinct 2,"Supreme Court Justice, Seat C","Cherry, Michael A.",28
+Precinct 2,"Supreme Court Justice, Seat C",None Of These Candidates,23
+Precinct 2,"Supreme Court Justice, Seat F","Douglas, Michael L.",17
+Precinct 2,"Supreme Court Justice, Seat F",None Of These Candidates,19
+Precinct 2,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",17
+Precinct 2,"Supreme Court Justice, Seat G","BECKER, NANCY",16
+Precinct 2,"Supreme Court Justice, Seat G",None Of These Candidates,21
+Precinct 2,"Supreme Court Justice, Seat G","Saitta, Nancy M.",14
+Precinct 2,"U.S. Representative in Congress, District 2","DERBY, JILL",13
+Precinct 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",32
+Precinct 2,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
+Precinct 2,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
+Precinct 2,United States Senator,"CARTER, JACK",9
+Precinct 2,United States Senator,"ENSIGN, JOHN",36
+Precinct 2,United States Senator,None Of These Candidates,5
+Precinct 2,United States Senator,"SCHUMANN, DAVID K.",3
+Precinct 2,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 3,Attorney General,"CHAIREZ, DON",84
+Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",64
+Precinct 3,Attorney General,None Of These Candidates,12
+Precinct 3,Auditor/Recorder,"SCOTT, KAREN",135
+Precinct 3,COUNTY ASSESSOR,"LEE, RUTH P.",150
+Precinct 3,County Clerk/Treasurer,"ELGAN, LACINDA ""CINDY""",145
+Precinct 3,DISTRICT ATTORNEY,"LEVENTHAL, TODD M.",69
+Precinct 3,DISTRICT ATTORNEY,"WHITE, LINDA S.",85
+Precinct 3,Governor,"BERGLAND, CRAIG O.",3
+Precinct 3,Governor,"GIBBONS, JIM",112
+Precinct 3,Governor,"HANSEN, CHRISTOPHER H.",7
+Precinct 3,Governor,None Of These Candidates,5
+Precinct 3,Governor,"TITUS, DINA",33
+Precinct 3,Justice of the Peace - ESMERALDA,"BARNEY, SHARON K.",65
+Precinct 3,Justice of the Peace - ESMERALDA,"COLVIN, JUANITA M.",93
+Precinct 3,Lieutenant Governor,"JEFFERSON, THOMAS",24
+Precinct 3,Lieutenant Governor,"KROLICKI, BRIAN K.",94
+Precinct 3,Lieutenant Governor,None Of These Candidates,8
+Precinct 3,Lieutenant Governor,"UNGER, ROBERT ""BOB""",34
+Precinct 3,PUBLIC ADMINISTRATOR,"DEYMONAZ, LINDA A.",135
+Precinct 3,Secretary Of State,"HANSEN, JANINE",24
+Precinct 3,Secretary Of State,"MILLER, ROSS",47
+Precinct 3,Secretary Of State,None Of These Candidates,8
+Precinct 3,Secretary Of State,"TARKANIAN, DANNY",78
+Precinct 3,"State Assembly, District 36","GOEDHART, ED",91
+Precinct 3,"State Assembly, District 36","HOLMGREN, DAVID G.",17
+Precinct 3,"State Assembly, District 36","MURRAY, LAURAYNE",48
+Precinct 3,State Controller,"FITZGIBBONS, FLOYD",20
+Precinct 3,State Controller,"MARTIN, STEVE",87
+Precinct 3,State Controller,None Of These Candidates,15
+Precinct 3,State Controller,"WALLIN, KIM R.",38
+Precinct 3,State Treasurer,"ANDREWS, MARK",16
+Precinct 3,State Treasurer,"DESTEFANO, MARK",83
+Precinct 3,State Treasurer,"MARSHALL, KATE",50
+Precinct 3,State Treasurer,None Of These Candidates,11
+Precinct 3,"Supreme Court Justice, Seat C","Cherry, Michael A.",100
+Precinct 3,"Supreme Court Justice, Seat C",None Of These Candidates,43
+Precinct 3,"Supreme Court Justice, Seat F","Douglas, Michael L.",61
+Precinct 3,"Supreme Court Justice, Seat F",None Of These Candidates,37
+Precinct 3,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",50
+Precinct 3,"Supreme Court Justice, Seat G","BECKER, NANCY",65
+Precinct 3,"Supreme Court Justice, Seat G",None Of These Candidates,38
+Precinct 3,"Supreme Court Justice, Seat G","Saitta, Nancy M.",45
+Precinct 3,"U.S. Representative in Congress, District 2","DERBY, JILL",42
+Precinct 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",101
+Precinct 3,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+Precinct 3,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+Precinct 3,United States Senator,"CARTER, JACK",30
+Precinct 3,United States Senator,"ENSIGN, JOHN",111
+Precinct 3,United States Senator,None Of These Candidates,9
+Precinct 3,United States Senator,"SCHUMANN, DAVID K.",6
+Precinct 3,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 4,Attorney General,"CHAIREZ, DON",13
+Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",5
+Precinct 4,Attorney General,None Of These Candidates,5
+Precinct 4,Auditor/Recorder,"SCOTT, KAREN",15
+Precinct 4,COUNTY ASSESSOR,"LEE, RUTH P.",23
+Precinct 4,County Clerk/Treasurer,"ELGAN, LACINDA ""CINDY""",21
+Precinct 4,DISTRICT ATTORNEY,"LEVENTHAL, TODD M.",14
+Precinct 4,DISTRICT ATTORNEY,"WHITE, LINDA S.",9
+Precinct 4,Governor,"BERGLAND, CRAIG O.",0
+Precinct 4,Governor,"GIBBONS, JIM",18
+Precinct 4,Governor,"HANSEN, CHRISTOPHER H.",0
+Precinct 4,Governor,None Of These Candidates,0
+Precinct 4,Governor,"TITUS, DINA",6
+Precinct 4,Justice of the Peace - ESMERALDA,"BARNEY, SHARON K.",9
+Precinct 4,Justice of the Peace - ESMERALDA,"COLVIN, JUANITA M.",14
+Precinct 4,Lieutenant Governor,"JEFFERSON, THOMAS",1
+Precinct 4,Lieutenant Governor,"KROLICKI, BRIAN K.",16
+Precinct 4,Lieutenant Governor,None Of These Candidates,2
+Precinct 4,Lieutenant Governor,"UNGER, ROBERT ""BOB""",4
+Precinct 4,PUBLIC ADMINISTRATOR,"DEYMONAZ, LINDA A.",16
+Precinct 4,Secretary Of State,"HANSEN, JANINE",3
+Precinct 4,Secretary Of State,"MILLER, ROSS",3
+Precinct 4,Secretary Of State,None Of These Candidates,2
+Precinct 4,Secretary Of State,"TARKANIAN, DANNY",15
+Precinct 4,"State Assembly, District 36","GOEDHART, ED",17
+Precinct 4,"State Assembly, District 36","HOLMGREN, DAVID G.",2
+Precinct 4,"State Assembly, District 36","MURRAY, LAURAYNE",4
+Precinct 4,State Controller,"FITZGIBBONS, FLOYD",2
+Precinct 4,State Controller,"MARTIN, STEVE",10
+Precinct 4,State Controller,None Of These Candidates,6
+Precinct 4,State Controller,"WALLIN, KIM R.",5
+Precinct 4,State Treasurer,"ANDREWS, MARK",1
+Precinct 4,State Treasurer,"DESTEFANO, MARK",10
+Precinct 4,State Treasurer,"MARSHALL, KATE",5
+Precinct 4,State Treasurer,None Of These Candidates,6
+Precinct 4,"Supreme Court Justice, Seat C","Cherry, Michael A.",11
+Precinct 4,"Supreme Court Justice, Seat C",None Of These Candidates,10
+Precinct 4,"Supreme Court Justice, Seat F","Douglas, Michael L.",7
+Precinct 4,"Supreme Court Justice, Seat F",None Of These Candidates,8
+Precinct 4,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",6
+Precinct 4,"Supreme Court Justice, Seat G","BECKER, NANCY",8
+Precinct 4,"Supreme Court Justice, Seat G",None Of These Candidates,10
+Precinct 4,"Supreme Court Justice, Seat G","Saitta, Nancy M.",3
+Precinct 4,"U.S. Representative in Congress, District 2","DERBY, JILL",5
+Precinct 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",16
+Precinct 4,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
+Precinct 4,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
+Precinct 4,United States Senator,"CARTER, JACK",4
+Precinct 4,United States Senator,"ENSIGN, JOHN",17
+Precinct 4,United States Senator,None Of These Candidates,2
+Precinct 4,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 4,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 5,Attorney General,"CHAIREZ, DON",0
+Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+Precinct 5,Attorney General,None Of These Candidates,0
+Precinct 5,Auditor/Recorder,"SCOTT, KAREN",0
+Precinct 5,COUNTY ASSESSOR,"LEE, RUTH P.",0
+Precinct 5,County Clerk/Treasurer,"ELGAN, LACINDA ""CINDY""",0
+Precinct 5,DISTRICT ATTORNEY,"LEVENTHAL, TODD M.",0
+Precinct 5,DISTRICT ATTORNEY,"WHITE, LINDA S.",0
+Precinct 5,Governor,"BERGLAND, CRAIG O.",0
+Precinct 5,Governor,"GIBBONS, JIM",0
+Precinct 5,Governor,"HANSEN, CHRISTOPHER H.",0
+Precinct 5,Governor,None Of These Candidates,0
+Precinct 5,Governor,"TITUS, DINA",0
+Precinct 5,Justice of the Peace - ESMERALDA,"BARNEY, SHARON K.",0
+Precinct 5,Justice of the Peace - ESMERALDA,"COLVIN, JUANITA M.",0
+Precinct 5,Lieutenant Governor,"JEFFERSON, THOMAS",0
+Precinct 5,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+Precinct 5,Lieutenant Governor,None Of These Candidates,0
+Precinct 5,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+Precinct 5,PUBLIC ADMINISTRATOR,"DEYMONAZ, LINDA A.",0
+Precinct 5,Secretary Of State,"HANSEN, JANINE",0
+Precinct 5,Secretary Of State,"MILLER, ROSS",0
+Precinct 5,Secretary Of State,None Of These Candidates,0
+Precinct 5,Secretary Of State,"TARKANIAN, DANNY",0
+Precinct 5,"State Assembly, District 36","GOEDHART, ED",0
+Precinct 5,"State Assembly, District 36","HOLMGREN, DAVID G.",0
+Precinct 5,"State Assembly, District 36","MURRAY, LAURAYNE",0
+Precinct 5,State Controller,"FITZGIBBONS, FLOYD",0
+Precinct 5,State Controller,"MARTIN, STEVE",0
+Precinct 5,State Controller,None Of These Candidates,0
+Precinct 5,State Controller,"WALLIN, KIM R.",0
+Precinct 5,State Treasurer,"ANDREWS, MARK",0
+Precinct 5,State Treasurer,"DESTEFANO, MARK",0
+Precinct 5,State Treasurer,"MARSHALL, KATE",0
+Precinct 5,State Treasurer,None Of These Candidates,0
+Precinct 5,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+Precinct 5,"Supreme Court Justice, Seat C",None Of These Candidates,0
+Precinct 5,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+Precinct 5,"Supreme Court Justice, Seat F",None Of These Candidates,0
+Precinct 5,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+Precinct 5,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+Precinct 5,"Supreme Court Justice, Seat G",None Of These Candidates,0
+Precinct 5,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+Precinct 5,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+Precinct 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+Precinct 5,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+Precinct 5,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+Precinct 5,United States Senator,"CARTER, JACK",0
+Precinct 5,United States Senator,"ENSIGN, JOHN",0
+Precinct 5,United States Senator,None Of These Candidates,0
+Precinct 5,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 5,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+Precinct 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+Precinct 99,United States Senator,"CARTER, JACK",0
+Precinct 99,United States Senator,"ENSIGN, JOHN",0
+Precinct 99,United States Senator,None Of These Candidates,0
+Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
+Precinct 99,United States Senator,"TRAINOR, BRENDAN",0

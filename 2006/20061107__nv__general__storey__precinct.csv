@@ -1,0 +1,918 @@
+precinct,office,candidate,votes
+PRECINCT 1,Attorney General,"CHAIREZ, DON",72
+PRECINCT 1,Attorney General,"CORTEZ  MASTO, CATHERINE",153
+PRECINCT 1,Attorney General,None Of These Candidates,17
+PRECINCT 1,COUNTY ASSESSOR,"WEEKS, KATHY",204
+PRECINCT 1,County Clerk/Treasurer,"DUFRESNE, LORRAINE",191
+PRECINCT 1,County Clerk/Treasurer,"GIVANT, CRAIG",42
+PRECINCT 1,County Commissioner District ONE (CW),"FLANAGAN, JOHN",171
+PRECINCT 1,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",69
+PRECINCT 1,County Recorder-Auditor,"JENSEN, SARAH S.",206
+PRECINCT 1,DISTRICT ATTORNEY,"LANGER, ANNE",118
+PRECINCT 1,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",125
+PRECINCT 1,Governor,"BERGLAND, CRAIG O.",6
+PRECINCT 1,Governor,"GIBBONS, JIM",131
+PRECINCT 1,Governor,"HANSEN, CHRISTOPHER H.",13
+PRECINCT 1,Governor,None Of These Candidates,5
+PRECINCT 1,Governor,"TITUS, DINA",90
+PRECINCT 1,Justice of the Peace - STOREY,"DANIELS, ANNETTE",209
+PRECINCT 1,Lieutenant Governor,"JEFFERSON, THOMAS",23
+PRECINCT 1,Lieutenant Governor,"KROLICKI, BRIAN K.",145
+PRECINCT 1,Lieutenant Governor,None Of These Candidates,8
+PRECINCT 1,Lieutenant Governor,"UNGER, ROBERT ""BOB""",68
+PRECINCT 1,School Board Trustee Seat 2A,"DOTSON, DENY",183
+PRECINCT 1,School Board Trustee Seat 2B,"SMITH, PAMELA J.",183
+PRECINCT 1,Secretary Of State,"HANSEN, JANINE",24
+PRECINCT 1,Secretary Of State,"MILLER, ROSS",104
+PRECINCT 1,Secretary Of State,None Of These Candidates,9
+PRECINCT 1,Secretary Of State,"TARKANIAN, DANNY",105
+PRECINCT 1,Sheriff - STOREY,"BLOYD, STEPHEN",100
+PRECINCT 1,Sheriff - STOREY,"MILLER, JAMES G.",144
+PRECINCT 1,"State Assembly, District 38","Grady, Tom",120
+PRECINCT 1,"State Assembly, District 38","JAMES, CATHYLEE",115
+PRECINCT 1,State Controller,"FITZGIBBONS, FLOYD",20
+PRECINCT 1,State Controller,"MARTIN, STEVE",113
+PRECINCT 1,State Controller,None Of These Candidates,19
+PRECINCT 1,State Controller,"WALLIN, KIM R.",91
+PRECINCT 1,"State Senate, Capital Senatorial District","AMODEI, MARK E.",181
+PRECINCT 1,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",54
+PRECINCT 1,State Treasurer,"ANDREWS, MARK",20
+PRECINCT 1,State Treasurer,"DESTEFANO, MARK",112
+PRECINCT 1,State Treasurer,"MARSHALL, KATE",97
+PRECINCT 1,State Treasurer,None Of These Candidates,13
+PRECINCT 1,"Supreme Court Justice, Seat C","Cherry, Michael A.",142
+PRECINCT 1,"Supreme Court Justice, Seat C",None Of These Candidates,73
+PRECINCT 1,"Supreme Court Justice, Seat F","Douglas, Michael L.",126
+PRECINCT 1,"Supreme Court Justice, Seat F",None Of These Candidates,48
+PRECINCT 1,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",64
+PRECINCT 1,"Supreme Court Justice, Seat G","BECKER, NANCY",79
+PRECINCT 1,"Supreme Court Justice, Seat G",None Of These Candidates,55
+PRECINCT 1,"Supreme Court Justice, Seat G","Saitta, Nancy M.",102
+PRECINCT 1,"U.S. Representative in Congress, District 2","DERBY, JILL",113
+PRECINCT 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",118
+PRECINCT 1,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
+PRECINCT 1,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
+PRECINCT 1,United States Senator,"CARTER, JACK",86
+PRECINCT 1,United States Senator,"ENSIGN, JOHN",148
+PRECINCT 1,United States Senator,None Of These Candidates,3
+PRECINCT 1,United States Senator,"SCHUMANN, DAVID K.",9
+PRECINCT 1,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",77
+PRECINCT 1,"University Board of Regents, District  9","Knecht, Ron",121
+PRECINCT 10,Attorney General,"CHAIREZ, DON",0
+PRECINCT 10,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 10,Attorney General,None Of These Candidates,0
+PRECINCT 10,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 10,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 10,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 10,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 10,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 10,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 10,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 10,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 10,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 10,Governor,"GIBBONS, JIM",0
+PRECINCT 10,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 10,Governor,None Of These Candidates,0
+PRECINCT 10,Governor,"TITUS, DINA",0
+PRECINCT 10,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 10,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 10,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 10,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 10,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 10,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 10,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 10,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 10,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 10,Secretary Of State,None Of These Candidates,0
+PRECINCT 10,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 10,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 10,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 10,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 10,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 10,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 10,State Controller,"MARTIN, STEVE",0
+PRECINCT 10,State Controller,None Of These Candidates,0
+PRECINCT 10,State Controller,"WALLIN, KIM R.",0
+PRECINCT 10,"State Senate, Capital Senatorial District","AMODEI, MARK E.",0
+PRECINCT 10,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",0
+PRECINCT 10,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 10,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 10,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 10,State Treasurer,None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 10,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 10,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 10,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 10,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 10,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 10,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 10,United States Senator,"CARTER, JACK",0
+PRECINCT 10,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 10,United States Senator,None Of These Candidates,0
+PRECINCT 10,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 10,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 10,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 10,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 11,Attorney General,"CHAIREZ, DON",0
+PRECINCT 11,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 11,Attorney General,None Of These Candidates,0
+PRECINCT 11,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 11,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 11,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 11,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 11,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 11,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 11,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 11,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 11,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 11,Governor,"GIBBONS, JIM",0
+PRECINCT 11,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 11,Governor,None Of These Candidates,0
+PRECINCT 11,Governor,"TITUS, DINA",0
+PRECINCT 11,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 11,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 11,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 11,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 11,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 11,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 11,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 11,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 11,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 11,Secretary Of State,None Of These Candidates,0
+PRECINCT 11,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 11,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 11,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 11,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 11,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 11,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 11,State Controller,"MARTIN, STEVE",0
+PRECINCT 11,State Controller,None Of These Candidates,0
+PRECINCT 11,State Controller,"WALLIN, KIM R.",0
+PRECINCT 11,"State Senate, Washoe District 2","EMERSON, JOHN H.",0
+PRECINCT 11,"State Senate, Washoe District 2","WASHINGTON, MAURICE",0
+PRECINCT 11,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 11,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 11,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 11,State Treasurer,None Of These Candidates,0
+PRECINCT 11,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 11,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 11,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 11,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 11,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 11,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 11,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 11,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 11,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 11,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 11,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 11,United States Senator,"CARTER, JACK",0
+PRECINCT 11,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 11,United States Senator,None Of These Candidates,0
+PRECINCT 11,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 11,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 11,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 11,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 12,Attorney General,"CHAIREZ, DON",39
+PRECINCT 12,Attorney General,"CORTEZ  MASTO, CATHERINE",21
+PRECINCT 12,Attorney General,None Of These Candidates,4
+PRECINCT 12,COUNTY ASSESSOR,"WEEKS, KATHY",57
+PRECINCT 12,County Clerk/Treasurer,"DUFRESNE, LORRAINE",49
+PRECINCT 12,County Clerk/Treasurer,"GIVANT, CRAIG",11
+PRECINCT 12,County Commissioner District ONE (CW),"FLANAGAN, JOHN",49
+PRECINCT 12,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",14
+PRECINCT 12,County Recorder-Auditor,"JENSEN, SARAH S.",56
+PRECINCT 12,DISTRICT ATTORNEY,"LANGER, ANNE",29
+PRECINCT 12,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",35
+PRECINCT 12,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 12,Governor,"GIBBONS, JIM",47
+PRECINCT 12,Governor,"HANSEN, CHRISTOPHER H.",3
+PRECINCT 12,Governor,None Of These Candidates,2
+PRECINCT 12,Governor,"TITUS, DINA",14
+PRECINCT 12,Justice of the Peace - STOREY,"DANIELS, ANNETTE",56
+PRECINCT 12,Lieutenant Governor,"JEFFERSON, THOMAS",5
+PRECINCT 12,Lieutenant Governor,"KROLICKI, BRIAN K.",42
+PRECINCT 12,Lieutenant Governor,None Of These Candidates,2
+PRECINCT 12,Lieutenant Governor,"UNGER, ROBERT ""BOB""",16
+PRECINCT 12,School Board Trustee Seat 2A,"DOTSON, DENY",47
+PRECINCT 12,School Board Trustee Seat 2B,"SMITH, PAMELA J.",48
+PRECINCT 12,Secretary Of State,"HANSEN, JANINE",8
+PRECINCT 12,Secretary Of State,"MILLER, ROSS",16
+PRECINCT 12,Secretary Of State,None Of These Candidates,6
+PRECINCT 12,Secretary Of State,"TARKANIAN, DANNY",35
+PRECINCT 12,Sheriff - STOREY,"BLOYD, STEPHEN",23
+PRECINCT 12,Sheriff - STOREY,"MILLER, JAMES G.",39
+PRECINCT 12,"State Assembly, District 38","Grady, Tom",44
+PRECINCT 12,"State Assembly, District 38","JAMES, CATHYLEE",20
+PRECINCT 12,State Controller,"FITZGIBBONS, FLOYD",5
+PRECINCT 12,State Controller,"MARTIN, STEVE",35
+PRECINCT 12,State Controller,None Of These Candidates,4
+PRECINCT 12,State Controller,"WALLIN, KIM R.",20
+PRECINCT 12,"State Senate, Washoe District 2","EMERSON, JOHN H.",18
+PRECINCT 12,"State Senate, Washoe District 2","WASHINGTON, MAURICE",47
+PRECINCT 12,State Treasurer,"ANDREWS, MARK",4
+PRECINCT 12,State Treasurer,"DESTEFANO, MARK",36
+PRECINCT 12,State Treasurer,"MARSHALL, KATE",21
+PRECINCT 12,State Treasurer,None Of These Candidates,4
+PRECINCT 12,"Supreme Court Justice, Seat C","Cherry, Michael A.",34
+PRECINCT 12,"Supreme Court Justice, Seat C",None Of These Candidates,23
+PRECINCT 12,"Supreme Court Justice, Seat F","Douglas, Michael L.",26
+PRECINCT 12,"Supreme Court Justice, Seat F",None Of These Candidates,16
+PRECINCT 12,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",16
+PRECINCT 12,"Supreme Court Justice, Seat G","BECKER, NANCY",17
+PRECINCT 12,"Supreme Court Justice, Seat G",None Of These Candidates,15
+PRECINCT 12,"Supreme Court Justice, Seat G","Saitta, Nancy M.",25
+PRECINCT 12,"U.S. Representative in Congress, District 2","DERBY, JILL",20
+PRECINCT 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",42
+PRECINCT 12,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",2
+PRECINCT 12,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
+PRECINCT 12,United States Senator,"CARTER, JACK",16
+PRECINCT 12,United States Senator,"ENSIGN, JOHN",46
+PRECINCT 12,United States Senator,None Of These Candidates,1
+PRECINCT 12,United States Senator,"SCHUMANN, DAVID K.",1
+PRECINCT 12,United States Senator,"TRAINOR, BRENDAN",2
+PRECINCT 12,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",25
+PRECINCT 12,"University Board of Regents, District  9","Knecht, Ron",27
+PRECINCT 13,Attorney General,"CHAIREZ, DON",0
+PRECINCT 13,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 13,Attorney General,None Of These Candidates,0
+PRECINCT 13,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 13,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 13,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 13,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 13,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 13,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 13,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 13,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 13,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 13,Governor,"GIBBONS, JIM",0
+PRECINCT 13,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 13,Governor,None Of These Candidates,0
+PRECINCT 13,Governor,"TITUS, DINA",0
+PRECINCT 13,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 13,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 13,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 13,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 13,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 13,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 13,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 13,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 13,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 13,Secretary Of State,None Of These Candidates,0
+PRECINCT 13,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 13,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 13,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 13,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 13,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 13,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 13,State Controller,"MARTIN, STEVE",0
+PRECINCT 13,State Controller,None Of These Candidates,0
+PRECINCT 13,State Controller,"WALLIN, KIM R.",0
+PRECINCT 13,"State Senate, Capital Senatorial District","AMODEI, MARK E.",0
+PRECINCT 13,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",0
+PRECINCT 13,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 13,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 13,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 13,State Treasurer,None Of These Candidates,0
+PRECINCT 13,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 13,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 13,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 13,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 13,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 13,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 13,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 13,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 13,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 13,United States Senator,"CARTER, JACK",0
+PRECINCT 13,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 13,United States Senator,None Of These Candidates,0
+PRECINCT 13,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 13,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 13,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 13,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 14,Attorney General,"CHAIREZ, DON",0
+PRECINCT 14,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 14,Attorney General,None Of These Candidates,0
+PRECINCT 14,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 14,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 14,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 14,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 14,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 14,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 14,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 14,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 14,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 14,Governor,"GIBBONS, JIM",0
+PRECINCT 14,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 14,Governor,None Of These Candidates,0
+PRECINCT 14,Governor,"TITUS, DINA",0
+PRECINCT 14,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 14,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 14,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 14,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 14,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 14,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 14,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 14,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 14,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 14,Secretary Of State,None Of These Candidates,0
+PRECINCT 14,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 14,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 14,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 14,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 14,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 14,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 14,State Controller,"MARTIN, STEVE",0
+PRECINCT 14,State Controller,None Of These Candidates,0
+PRECINCT 14,State Controller,"WALLIN, KIM R.",0
+PRECINCT 14,"State Senate, Capital Senatorial District","AMODEI, MARK E.",0
+PRECINCT 14,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",0
+PRECINCT 14,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 14,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 14,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 14,State Treasurer,None Of These Candidates,0
+PRECINCT 14,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 14,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 14,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 14,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 14,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 14,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 14,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 14,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 14,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 14,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 14,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 14,United States Senator,"CARTER, JACK",0
+PRECINCT 14,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 14,United States Senator,None Of These Candidates,0
+PRECINCT 14,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 14,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 14,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 14,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 15,Attorney General,"CHAIREZ, DON",27
+PRECINCT 15,Attorney General,"CORTEZ  MASTO, CATHERINE",34
+PRECINCT 15,Attorney General,None Of These Candidates,7
+PRECINCT 15,COUNTY ASSESSOR,"WEEKS, KATHY",59
+PRECINCT 15,County Clerk/Treasurer,"DUFRESNE, LORRAINE",53
+PRECINCT 15,County Clerk/Treasurer,"GIVANT, CRAIG",9
+PRECINCT 15,County Commissioner District ONE (CW),"FLANAGAN, JOHN",49
+PRECINCT 15,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",19
+PRECINCT 15,County Recorder-Auditor,"JENSEN, SARAH S.",54
+PRECINCT 15,DISTRICT ATTORNEY,"LANGER, ANNE",41
+PRECINCT 15,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",27
+PRECINCT 15,Governor,"BERGLAND, CRAIG O.",1
+PRECINCT 15,Governor,"GIBBONS, JIM",40
+PRECINCT 15,Governor,"HANSEN, CHRISTOPHER H.",4
+PRECINCT 15,Governor,None Of These Candidates,5
+PRECINCT 15,Governor,"TITUS, DINA",18
+PRECINCT 15,Justice of the Peace - STOREY,"DANIELS, ANNETTE",57
+PRECINCT 15,Lieutenant Governor,"JEFFERSON, THOMAS",10
+PRECINCT 15,Lieutenant Governor,"KROLICKI, BRIAN K.",36
+PRECINCT 15,Lieutenant Governor,None Of These Candidates,5
+PRECINCT 15,Lieutenant Governor,"UNGER, ROBERT ""BOB""",15
+PRECINCT 15,School Board Trustee Seat 2A,"DOTSON, DENY",54
+PRECINCT 15,School Board Trustee Seat 2B,"SMITH, PAMELA J.",51
+PRECINCT 15,Secretary Of State,"HANSEN, JANINE",13
+PRECINCT 15,Secretary Of State,"MILLER, ROSS",24
+PRECINCT 15,Secretary Of State,None Of These Candidates,3
+PRECINCT 15,Secretary Of State,"TARKANIAN, DANNY",28
+PRECINCT 15,Sheriff - STOREY,"BLOYD, STEPHEN",20
+PRECINCT 15,Sheriff - STOREY,"MILLER, JAMES G.",44
+PRECINCT 15,"State Assembly, District 38","Grady, Tom",37
+PRECINCT 15,"State Assembly, District 38","JAMES, CATHYLEE",27
+PRECINCT 15,State Controller,"FITZGIBBONS, FLOYD",11
+PRECINCT 15,State Controller,"MARTIN, STEVE",32
+PRECINCT 15,State Controller,None Of These Candidates,4
+PRECINCT 15,State Controller,"WALLIN, KIM R.",20
+PRECINCT 15,"State Senate, Capital Senatorial District","AMODEI, MARK E.",45
+PRECINCT 15,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",18
+PRECINCT 15,State Treasurer,"ANDREWS, MARK",7
+PRECINCT 15,State Treasurer,"DESTEFANO, MARK",33
+PRECINCT 15,State Treasurer,"MARSHALL, KATE",25
+PRECINCT 15,State Treasurer,None Of These Candidates,2
+PRECINCT 15,"Supreme Court Justice, Seat C","Cherry, Michael A.",42
+PRECINCT 15,"Supreme Court Justice, Seat C",None Of These Candidates,21
+PRECINCT 15,"Supreme Court Justice, Seat F","Douglas, Michael L.",23
+PRECINCT 15,"Supreme Court Justice, Seat F",None Of These Candidates,15
+PRECINCT 15,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",26
+PRECINCT 15,"Supreme Court Justice, Seat G","BECKER, NANCY",23
+PRECINCT 15,"Supreme Court Justice, Seat G",None Of These Candidates,16
+PRECINCT 15,"Supreme Court Justice, Seat G","Saitta, Nancy M.",27
+PRECINCT 15,"U.S. Representative in Congress, District 2","DERBY, JILL",23
+PRECINCT 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",34
+PRECINCT 15,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
+PRECINCT 15,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+PRECINCT 15,United States Senator,"CARTER, JACK",20
+PRECINCT 15,United States Senator,"ENSIGN, JOHN",42
+PRECINCT 15,United States Senator,None Of These Candidates,1
+PRECINCT 15,United States Senator,"SCHUMANN, DAVID K.",3
+PRECINCT 15,United States Senator,"TRAINOR, BRENDAN",2
+PRECINCT 15,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",25
+PRECINCT 15,"University Board of Regents, District  9","Knecht, Ron",31
+PRECINCT 2,Attorney General,"CHAIREZ, DON",69
+PRECINCT 2,Attorney General,"CORTEZ  MASTO, CATHERINE",193
+PRECINCT 2,Attorney General,None Of These Candidates,13
+PRECINCT 2,COUNTY ASSESSOR,"WEEKS, KATHY",241
+PRECINCT 2,County Clerk/Treasurer,"DUFRESNE, LORRAINE",197
+PRECINCT 2,County Clerk/Treasurer,"GIVANT, CRAIG",62
+PRECINCT 2,County Commissioner District ONE (CW),"FLANAGAN, JOHN",197
+PRECINCT 2,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",75
+PRECINCT 2,County Recorder-Auditor,"JENSEN, SARAH S.",242
+PRECINCT 2,DISTRICT ATTORNEY,"LANGER, ANNE",122
+PRECINCT 2,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",151
+PRECINCT 2,Governor,"BERGLAND, CRAIG O.",3
+PRECINCT 2,Governor,"GIBBONS, JIM",140
+PRECINCT 2,Governor,"HANSEN, CHRISTOPHER H.",4
+PRECINCT 2,Governor,None Of These Candidates,11
+PRECINCT 2,Governor,"TITUS, DINA",118
+PRECINCT 2,Justice of the Peace - STOREY,"DANIELS, ANNETTE",241
+PRECINCT 2,Lieutenant Governor,"JEFFERSON, THOMAS",13
+PRECINCT 2,Lieutenant Governor,"KROLICKI, BRIAN K.",159
+PRECINCT 2,Lieutenant Governor,None Of These Candidates,12
+PRECINCT 2,Lieutenant Governor,"UNGER, ROBERT ""BOB""",89
+PRECINCT 2,School Board Trustee Seat 2A,"DOTSON, DENY",229
+PRECINCT 2,School Board Trustee Seat 2B,"SMITH, PAMELA J.",228
+PRECINCT 2,Secretary Of State,"HANSEN, JANINE",15
+PRECINCT 2,Secretary Of State,"MILLER, ROSS",131
+PRECINCT 2,Secretary Of State,None Of These Candidates,21
+PRECINCT 2,Secretary Of State,"TARKANIAN, DANNY",106
+PRECINCT 2,Sheriff - STOREY,"BLOYD, STEPHEN",116
+PRECINCT 2,Sheriff - STOREY,"MILLER, JAMES G.",159
+PRECINCT 2,"State Assembly, District 38","Grady, Tom",122
+PRECINCT 2,"State Assembly, District 38","JAMES, CATHYLEE",153
+PRECINCT 2,State Controller,"FITZGIBBONS, FLOYD",14
+PRECINCT 2,State Controller,"MARTIN, STEVE",115
+PRECINCT 2,State Controller,None Of These Candidates,20
+PRECINCT 2,State Controller,"WALLIN, KIM R.",126
+PRECINCT 2,"State Senate, Capital Senatorial District","AMODEI, MARK E.",209
+PRECINCT 2,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",56
+PRECINCT 2,State Treasurer,"ANDREWS, MARK",10
+PRECINCT 2,State Treasurer,"DESTEFANO, MARK",126
+PRECINCT 2,State Treasurer,"MARSHALL, KATE",125
+PRECINCT 2,State Treasurer,None Of These Candidates,14
+PRECINCT 2,"Supreme Court Justice, Seat C","Cherry, Michael A.",177
+PRECINCT 2,"Supreme Court Justice, Seat C",None Of These Candidates,74
+PRECINCT 2,"Supreme Court Justice, Seat F","Douglas, Michael L.",153
+PRECINCT 2,"Supreme Court Justice, Seat F",None Of These Candidates,50
+PRECINCT 2,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",63
+PRECINCT 2,"Supreme Court Justice, Seat G","BECKER, NANCY",71
+PRECINCT 2,"Supreme Court Justice, Seat G",None Of These Candidates,56
+PRECINCT 2,"Supreme Court Justice, Seat G","Saitta, Nancy M.",142
+PRECINCT 2,"U.S. Representative in Congress, District 2","DERBY, JILL",149
+PRECINCT 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",118
+PRECINCT 2,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
+PRECINCT 2,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
+PRECINCT 2,United States Senator,"CARTER, JACK",121
+PRECINCT 2,United States Senator,"ENSIGN, JOHN",144
+PRECINCT 2,United States Senator,None Of These Candidates,6
+PRECINCT 2,United States Senator,"SCHUMANN, DAVID K.",3
+PRECINCT 2,United States Senator,"TRAINOR, BRENDAN",2
+PRECINCT 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",123
+PRECINCT 2,"University Board of Regents, District  9","Knecht, Ron",122
+PRECINCT 3,Attorney General,"CHAIREZ, DON",0
+PRECINCT 3,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 3,Attorney General,None Of These Candidates,0
+PRECINCT 3,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 3,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 3,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 3,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 3,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 3,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 3,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 3,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 3,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 3,Governor,"GIBBONS, JIM",0
+PRECINCT 3,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 3,Governor,None Of These Candidates,0
+PRECINCT 3,Governor,"TITUS, DINA",0
+PRECINCT 3,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 3,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 3,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 3,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 3,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 3,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 3,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 3,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 3,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 3,Secretary Of State,None Of These Candidates,0
+PRECINCT 3,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 3,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 3,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 3,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 3,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 3,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 3,State Controller,"MARTIN, STEVE",0
+PRECINCT 3,State Controller,None Of These Candidates,0
+PRECINCT 3,State Controller,"WALLIN, KIM R.",0
+PRECINCT 3,"State Senate, Washoe District 2","EMERSON, JOHN H.",0
+PRECINCT 3,"State Senate, Washoe District 2","WASHINGTON, MAURICE",0
+PRECINCT 3,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 3,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 3,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 3,State Treasurer,None Of These Candidates,0
+PRECINCT 3,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 3,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 3,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 3,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 3,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 3,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 3,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 3,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 3,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 3,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 3,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 3,United States Senator,"CARTER, JACK",0
+PRECINCT 3,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 3,United States Senator,None Of These Candidates,0
+PRECINCT 3,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 3,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 3,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 3,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 4,Attorney General,"CHAIREZ, DON",92
+PRECINCT 4,Attorney General,"CORTEZ  MASTO, CATHERINE",153
+PRECINCT 4,Attorney General,None Of These Candidates,21
+PRECINCT 4,COUNTY ASSESSOR,"WEEKS, KATHY",232
+PRECINCT 4,County Clerk/Treasurer,"DUFRESNE, LORRAINE",190
+PRECINCT 4,County Clerk/Treasurer,"GIVANT, CRAIG",53
+PRECINCT 4,County Commissioner District ONE (CW),"FLANAGAN, JOHN",170
+PRECINCT 4,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",91
+PRECINCT 4,County Recorder-Auditor,"JENSEN, SARAH S.",231
+PRECINCT 4,DISTRICT ATTORNEY,"LANGER, ANNE",98
+PRECINCT 4,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",162
+PRECINCT 4,Governor,"BERGLAND, CRAIG O.",1
+PRECINCT 4,Governor,"GIBBONS, JIM",168
+PRECINCT 4,Governor,"HANSEN, CHRISTOPHER H.",16
+PRECINCT 4,Governor,None Of These Candidates,9
+PRECINCT 4,Governor,"TITUS, DINA",72
+PRECINCT 4,Justice of the Peace - STOREY,"DANIELS, ANNETTE",221
+PRECINCT 4,Lieutenant Governor,"JEFFERSON, THOMAS",17
+PRECINCT 4,Lieutenant Governor,"KROLICKI, BRIAN K.",167
+PRECINCT 4,Lieutenant Governor,None Of These Candidates,13
+PRECINCT 4,Lieutenant Governor,"UNGER, ROBERT ""BOB""",69
+PRECINCT 4,School Board Trustee Seat 2A,"DOTSON, DENY",214
+PRECINCT 4,School Board Trustee Seat 2B,"SMITH, PAMELA J.",214
+PRECINCT 4,Secretary Of State,"HANSEN, JANINE",34
+PRECINCT 4,Secretary Of State,"MILLER, ROSS",112
+PRECINCT 4,Secretary Of State,None Of These Candidates,12
+PRECINCT 4,Secretary Of State,"TARKANIAN, DANNY",106
+PRECINCT 4,Sheriff - STOREY,"BLOYD, STEPHEN",123
+PRECINCT 4,Sheriff - STOREY,"MILLER, JAMES G.",134
+PRECINCT 4,"State Assembly, District 38","Grady, Tom",143
+PRECINCT 4,"State Assembly, District 38","JAMES, CATHYLEE",119
+PRECINCT 4,State Controller,"FITZGIBBONS, FLOYD",36
+PRECINCT 4,State Controller,"MARTIN, STEVE",114
+PRECINCT 4,State Controller,None Of These Candidates,21
+PRECINCT 4,State Controller,"WALLIN, KIM R.",93
+PRECINCT 4,"State Senate, Capital Senatorial District","AMODEI, MARK E.",188
+PRECINCT 4,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",70
+PRECINCT 4,State Treasurer,"ANDREWS, MARK",31
+PRECINCT 4,State Treasurer,"DESTEFANO, MARK",117
+PRECINCT 4,State Treasurer,"MARSHALL, KATE",96
+PRECINCT 4,State Treasurer,None Of These Candidates,20
+PRECINCT 4,"Supreme Court Justice, Seat C","Cherry, Michael A.",166
+PRECINCT 4,"Supreme Court Justice, Seat C",None Of These Candidates,76
+PRECINCT 4,"Supreme Court Justice, Seat F","Douglas, Michael L.",128
+PRECINCT 4,"Supreme Court Justice, Seat F",None Of These Candidates,53
+PRECINCT 4,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",75
+PRECINCT 4,"Supreme Court Justice, Seat G","BECKER, NANCY",81
+PRECINCT 4,"Supreme Court Justice, Seat G",None Of These Candidates,49
+PRECINCT 4,"Supreme Court Justice, Seat G","Saitta, Nancy M.",130
+PRECINCT 4,"U.S. Representative in Congress, District 2","DERBY, JILL",110
+PRECINCT 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",137
+PRECINCT 4,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",11
+PRECINCT 4,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
+PRECINCT 4,United States Senator,"CARTER, JACK",75
+PRECINCT 4,United States Senator,"ENSIGN, JOHN",177
+PRECINCT 4,United States Senator,None Of These Candidates,3
+PRECINCT 4,United States Senator,"SCHUMANN, DAVID K.",7
+PRECINCT 4,United States Senator,"TRAINOR, BRENDAN",4
+PRECINCT 4,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",85
+PRECINCT 4,"University Board of Regents, District  9","Knecht, Ron",153
+PRECINCT 5,Attorney General,"CHAIREZ, DON",214
+PRECINCT 5,Attorney General,"CORTEZ  MASTO, CATHERINE",292
+PRECINCT 5,Attorney General,None Of These Candidates,34
+PRECINCT 5,COUNTY ASSESSOR,"WEEKS, KATHY",477
+PRECINCT 5,County Clerk/Treasurer,"DUFRESNE, LORRAINE",333
+PRECINCT 5,County Clerk/Treasurer,"GIVANT, CRAIG",165
+PRECINCT 5,County Commissioner District ONE (CW),"FLANAGAN, JOHN",351
+PRECINCT 5,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",176
+PRECINCT 5,County Recorder-Auditor,"JENSEN, SARAH S.",471
+PRECINCT 5,DISTRICT ATTORNEY,"LANGER, ANNE",262
+PRECINCT 5,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",274
+PRECINCT 5,Governor,"BERGLAND, CRAIG O.",6
+PRECINCT 5,Governor,"GIBBONS, JIM",336
+PRECINCT 5,Governor,"HANSEN, CHRISTOPHER H.",26
+PRECINCT 5,Governor,None Of These Candidates,19
+PRECINCT 5,Governor,"TITUS, DINA",152
+PRECINCT 5,Justice of the Peace - STOREY,"DANIELS, ANNETTE",444
+PRECINCT 5,Lieutenant Governor,"JEFFERSON, THOMAS",30
+PRECINCT 5,Lieutenant Governor,"KROLICKI, BRIAN K.",363
+PRECINCT 5,Lieutenant Governor,None Of These Candidates,18
+PRECINCT 5,Lieutenant Governor,"UNGER, ROBERT ""BOB""",128
+PRECINCT 5,School Board Trustee Seat 2A,"DOTSON, DENY",422
+PRECINCT 5,School Board Trustee Seat 2B,"SMITH, PAMELA J.",418
+PRECINCT 5,Secretary Of State,"HANSEN, JANINE",49
+PRECINCT 5,Secretary Of State,"MILLER, ROSS",211
+PRECINCT 5,Secretary Of State,None Of These Candidates,23
+PRECINCT 5,Secretary Of State,"TARKANIAN, DANNY",252
+PRECINCT 5,Sheriff - STOREY,"BLOYD, STEPHEN",157
+PRECINCT 5,Sheriff - STOREY,"MILLER, JAMES G.",365
+PRECINCT 5,"State Assembly, District 38","Grady, Tom",320
+PRECINCT 5,"State Assembly, District 38","JAMES, CATHYLEE",214
+PRECINCT 5,State Controller,"FITZGIBBONS, FLOYD",39
+PRECINCT 5,State Controller,"MARTIN, STEVE",295
+PRECINCT 5,State Controller,None Of These Candidates,33
+PRECINCT 5,State Controller,"WALLIN, KIM R.",167
+PRECINCT 5,"State Senate, Washoe District 2","EMERSON, JOHN H.",172
+PRECINCT 5,"State Senate, Washoe District 2","WASHINGTON, MAURICE",361
+PRECINCT 5,State Treasurer,"ANDREWS, MARK",33
+PRECINCT 5,State Treasurer,"DESTEFANO, MARK",288
+PRECINCT 5,State Treasurer,"MARSHALL, KATE",178
+PRECINCT 5,State Treasurer,None Of These Candidates,39
+PRECINCT 5,"Supreme Court Justice, Seat C","Cherry, Michael A.",345
+PRECINCT 5,"Supreme Court Justice, Seat C",None Of These Candidates,142
+PRECINCT 5,"Supreme Court Justice, Seat F","Douglas, Michael L.",245
+PRECINCT 5,"Supreme Court Justice, Seat F",None Of These Candidates,115
+PRECINCT 5,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",147
+PRECINCT 5,"Supreme Court Justice, Seat G","BECKER, NANCY",143
+PRECINCT 5,"Supreme Court Justice, Seat G",None Of These Candidates,97
+PRECINCT 5,"Supreme Court Justice, Seat G","Saitta, Nancy M.",273
+PRECINCT 5,"U.S. Representative in Congress, District 2","DERBY, JILL",197
+PRECINCT 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",310
+PRECINCT 5,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",17
+PRECINCT 5,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",10
+PRECINCT 5,United States Senator,"CARTER, JACK",142
+PRECINCT 5,United States Senator,"ENSIGN, JOHN",373
+PRECINCT 5,United States Senator,None Of These Candidates,11
+PRECINCT 5,United States Senator,"SCHUMANN, DAVID K.",6
+PRECINCT 5,United States Senator,"TRAINOR, BRENDAN",8
+PRECINCT 5,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",148
+PRECINCT 5,"University Board of Regents, District  9","Knecht, Ron",281
+PRECINCT 6,Attorney General,"CHAIREZ, DON",121
+PRECINCT 6,Attorney General,"CORTEZ  MASTO, CATHERINE",269
+PRECINCT 6,Attorney General,None Of These Candidates,18
+PRECINCT 6,CANYON G I D,"CLARK, MARVIN I.",258
+PRECINCT 6,CANYON G I D,"CUDWORTH, EDNA",257
+PRECINCT 6,CANYON G I D,"GILBERT, ED",274
+PRECINCT 6,CANYON G I D,"TYLER, BRET",263
+PRECINCT 6,COUNTY ASSESSOR,"WEEKS, KATHY",341
+PRECINCT 6,County Clerk/Treasurer,"DUFRESNE, LORRAINE",285
+PRECINCT 6,County Clerk/Treasurer,"GIVANT, CRAIG",65
+PRECINCT 6,County Commissioner District ONE (CW),"FLANAGAN, JOHN",210
+PRECINCT 6,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",192
+PRECINCT 6,County Recorder-Auditor,"JENSEN, SARAH S.",332
+PRECINCT 6,DISTRICT ATTORNEY,"LANGER, ANNE",219
+PRECINCT 6,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",189
+PRECINCT 6,Governor,"BERGLAND, CRAIG O.",5
+PRECINCT 6,Governor,"GIBBONS, JIM",206
+PRECINCT 6,Governor,"HANSEN, CHRISTOPHER H.",22
+PRECINCT 6,Governor,None Of These Candidates,17
+PRECINCT 6,Governor,"TITUS, DINA",162
+PRECINCT 6,Justice of the Peace - STOREY,"DANIELS, ANNETTE",343
+PRECINCT 6,Lieutenant Governor,"JEFFERSON, THOMAS",26
+PRECINCT 6,Lieutenant Governor,"KROLICKI, BRIAN K.",216
+PRECINCT 6,Lieutenant Governor,None Of These Candidates,14
+PRECINCT 6,Lieutenant Governor,"UNGER, ROBERT ""BOB""",154
+PRECINCT 6,School Board Trustee Seat 2A,"DOTSON, DENY",324
+PRECINCT 6,School Board Trustee Seat 2B,"SMITH, PAMELA J.",325
+PRECINCT 6,Secretary Of State,"HANSEN, JANINE",39
+PRECINCT 6,Secretary Of State,"MILLER, ROSS",198
+PRECINCT 6,Secretary Of State,None Of These Candidates,19
+PRECINCT 6,Secretary Of State,"TARKANIAN, DANNY",149
+PRECINCT 6,Sheriff - STOREY,"BLOYD, STEPHEN",131
+PRECINCT 6,Sheriff - STOREY,"MILLER, JAMES G.",263
+PRECINCT 6,"State Assembly, District 38","Grady, Tom",189
+PRECINCT 6,"State Assembly, District 38","JAMES, CATHYLEE",215
+PRECINCT 6,State Controller,"FITZGIBBONS, FLOYD",32
+PRECINCT 6,State Controller,"MARTIN, STEVE",166
+PRECINCT 6,State Controller,None Of These Candidates,19
+PRECINCT 6,State Controller,"WALLIN, KIM R.",187
+PRECINCT 6,"State Senate, Washoe District 2","EMERSON, JOHN H.",202
+PRECINCT 6,"State Senate, Washoe District 2","WASHINGTON, MAURICE",202
+PRECINCT 6,State Treasurer,"ANDREWS, MARK",21
+PRECINCT 6,State Treasurer,"DESTEFANO, MARK",179
+PRECINCT 6,State Treasurer,"MARSHALL, KATE",189
+PRECINCT 6,State Treasurer,None Of These Candidates,18
+PRECINCT 6,"Supreme Court Justice, Seat C","Cherry, Michael A.",293
+PRECINCT 6,"Supreme Court Justice, Seat C",None Of These Candidates,78
+PRECINCT 6,"Supreme Court Justice, Seat F","Douglas, Michael L.",194
+PRECINCT 6,"Supreme Court Justice, Seat F",None Of These Candidates,63
+PRECINCT 6,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",136
+PRECINCT 6,"Supreme Court Justice, Seat G","BECKER, NANCY",119
+PRECINCT 6,"Supreme Court Justice, Seat G",None Of These Candidates,62
+PRECINCT 6,"Supreme Court Justice, Seat G","Saitta, Nancy M.",215
+PRECINCT 6,"U.S. Representative in Congress, District 2","DERBY, JILL",218
+PRECINCT 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",160
+PRECINCT 6,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",21
+PRECINCT 6,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",12
+PRECINCT 6,United States Senator,"CARTER, JACK",174
+PRECINCT 6,United States Senator,"ENSIGN, JOHN",218
+PRECINCT 6,United States Senator,None Of These Candidates,11
+PRECINCT 6,United States Senator,"SCHUMANN, DAVID K.",6
+PRECINCT 6,United States Senator,"TRAINOR, BRENDAN",5
+PRECINCT 6,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",124
+PRECINCT 6,"University Board of Regents, District  9","Knecht, Ron",206
+PRECINCT 7,Attorney General,"CHAIREZ, DON",0
+PRECINCT 7,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 7,Attorney General,None Of These Candidates,0
+PRECINCT 7,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 7,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 7,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 7,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 7,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 7,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 7,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 7,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 7,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 7,Governor,"GIBBONS, JIM",0
+PRECINCT 7,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 7,Governor,None Of These Candidates,0
+PRECINCT 7,Governor,"TITUS, DINA",0
+PRECINCT 7,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 7,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 7,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 7,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 7,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 7,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 7,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 7,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 7,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 7,Secretary Of State,None Of These Candidates,0
+PRECINCT 7,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 7,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 7,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 7,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 7,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 7,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 7,State Controller,"MARTIN, STEVE",0
+PRECINCT 7,State Controller,None Of These Candidates,0
+PRECINCT 7,State Controller,"WALLIN, KIM R.",0
+PRECINCT 7,"State Senate, Washoe District 2","EMERSON, JOHN H.",0
+PRECINCT 7,"State Senate, Washoe District 2","WASHINGTON, MAURICE",0
+PRECINCT 7,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 7,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 7,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 7,State Treasurer,None Of These Candidates,0
+PRECINCT 7,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 7,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 7,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 7,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 7,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 7,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 7,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 7,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 7,Tahoe Reno Industrial General Improvement District Seat 1A,"BLACKFORD, DAVID L.",0
+PRECINCT 7,Tahoe Reno Industrial General Improvement District Seat 1B,"BLACKFORD, DEBBIE L.",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 7,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 7,United States Senator,"CARTER, JACK",0
+PRECINCT 7,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 7,United States Senator,None Of These Candidates,0
+PRECINCT 7,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 7,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 7,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 7,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 8,Attorney General,"CHAIREZ, DON",
+PRECINCT 8,Attorney General,"CORTEZ  MASTO, CATHERINE",
+PRECINCT 8,Attorney General,None Of These Candidates,
+PRECINCT 8,COUNTY ASSESSOR,"WEEKS, KATHY",
+PRECINCT 8,County Clerk/Treasurer,"DUFRESNE, LORRAINE",
+PRECINCT 8,County Clerk/Treasurer,"GIVANT, CRAIG",
+PRECINCT 8,County Commissioner District ONE (CW),"FLANAGAN, JOHN",
+PRECINCT 8,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",
+PRECINCT 8,County Recorder-Auditor,"JENSEN, SARAH S.",
+PRECINCT 8,DISTRICT ATTORNEY,"LANGER, ANNE",
+PRECINCT 8,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",
+PRECINCT 8,Governor,"BERGLAND, CRAIG O.",
+PRECINCT 8,Governor,"GIBBONS, JIM",
+PRECINCT 8,Governor,"HANSEN, CHRISTOPHER H.",
+PRECINCT 8,Governor,None Of These Candidates,
+PRECINCT 8,Governor,"TITUS, DINA",
+PRECINCT 8,Justice of the Peace - STOREY,"DANIELS, ANNETTE",
+PRECINCT 8,Lieutenant Governor,"JEFFERSON, THOMAS",
+PRECINCT 8,Lieutenant Governor,"KROLICKI, BRIAN K.",
+PRECINCT 8,Lieutenant Governor,None Of These Candidates,
+PRECINCT 8,Lieutenant Governor,"UNGER, ROBERT ""BOB""",
+PRECINCT 8,School Board Trustee Seat 2A,"DOTSON, DENY",
+PRECINCT 8,School Board Trustee Seat 2B,"SMITH, PAMELA J.",
+PRECINCT 8,Secretary Of State,"HANSEN, JANINE",
+PRECINCT 8,Secretary Of State,"MILLER, ROSS",
+PRECINCT 8,Secretary Of State,None Of These Candidates,
+PRECINCT 8,Secretary Of State,"TARKANIAN, DANNY",
+PRECINCT 8,Sheriff - STOREY,"BLOYD, STEPHEN",
+PRECINCT 8,Sheriff - STOREY,"MILLER, JAMES G.",
+PRECINCT 8,"State Assembly, District 38","Grady, Tom",
+PRECINCT 8,"State Assembly, District 38","JAMES, CATHYLEE",
+PRECINCT 8,State Controller,"FITZGIBBONS, FLOYD",
+PRECINCT 8,State Controller,"MARTIN, STEVE",
+PRECINCT 8,State Controller,None Of These Candidates,
+PRECINCT 8,State Controller,"WALLIN, KIM R.",
+PRECINCT 8,"State Senate, Capital Senatorial District","AMODEI, MARK E.",
+PRECINCT 8,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",
+PRECINCT 8,State Treasurer,"ANDREWS, MARK",
+PRECINCT 8,State Treasurer,"DESTEFANO, MARK",
+PRECINCT 8,State Treasurer,"MARSHALL, KATE",
+PRECINCT 8,State Treasurer,None Of These Candidates,
+PRECINCT 8,"Supreme Court Justice, Seat C","Cherry, Michael A.",
+PRECINCT 8,"Supreme Court Justice, Seat C",None Of These Candidates,
+PRECINCT 8,"Supreme Court Justice, Seat F","Douglas, Michael L.",
+PRECINCT 8,"Supreme Court Justice, Seat F",None Of These Candidates,
+PRECINCT 8,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",
+PRECINCT 8,"Supreme Court Justice, Seat G","BECKER, NANCY",
+PRECINCT 8,"Supreme Court Justice, Seat G",None Of These Candidates,
+PRECINCT 8,"Supreme Court Justice, Seat G","Saitta, Nancy M.",
+PRECINCT 8,Tahoe Reno Industrial General Improvement District Seat 1A,"BLACKFORD, DAVID L.",
+PRECINCT 8,Tahoe Reno Industrial General Improvement District Seat 1B,"BLACKFORD, DEBBIE L.",
+PRECINCT 8,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 8,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",
+PRECINCT 8,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",
+PRECINCT 8,United States Senator,"CARTER, JACK",
+PRECINCT 8,United States Senator,"ENSIGN, JOHN",
+PRECINCT 8,United States Senator,None Of These Candidates,
+PRECINCT 8,United States Senator,"SCHUMANN, DAVID K.",
+PRECINCT 8,United States Senator,"TRAINOR, BRENDAN",
+PRECINCT 8,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",
+PRECINCT 8,"University Board of Regents, District  9","Knecht, Ron",
+PRECINCT 9,Attorney General,"CHAIREZ, DON",0
+PRECINCT 9,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 9,Attorney General,None Of These Candidates,0
+PRECINCT 9,COUNTY ASSESSOR,"WEEKS, KATHY",0
+PRECINCT 9,County Clerk/Treasurer,"DUFRESNE, LORRAINE",0
+PRECINCT 9,County Clerk/Treasurer,"GIVANT, CRAIG",0
+PRECINCT 9,County Commissioner District ONE (CW),"FLANAGAN, JOHN",0
+PRECINCT 9,County Commissioner District ONE (CW),"NICOSIA, ""NICK""",0
+PRECINCT 9,County Recorder-Auditor,"JENSEN, SARAH S.",0
+PRECINCT 9,DISTRICT ATTORNEY,"LANGER, ANNE",0
+PRECINCT 9,DISTRICT ATTORNEY,"SWAFFORD, HAROLD",0
+PRECINCT 9,Governor,"BERGLAND, CRAIG O.",0
+PRECINCT 9,Governor,"GIBBONS, JIM",0
+PRECINCT 9,Governor,"HANSEN, CHRISTOPHER H.",0
+PRECINCT 9,Governor,None Of These Candidates,0
+PRECINCT 9,Governor,"TITUS, DINA",0
+PRECINCT 9,Justice of the Peace - STOREY,"DANIELS, ANNETTE",0
+PRECINCT 9,Lieutenant Governor,"JEFFERSON, THOMAS",0
+PRECINCT 9,Lieutenant Governor,"KROLICKI, BRIAN K.",0
+PRECINCT 9,Lieutenant Governor,None Of These Candidates,0
+PRECINCT 9,Lieutenant Governor,"UNGER, ROBERT ""BOB""",0
+PRECINCT 9,School Board Trustee Seat 2A,"DOTSON, DENY",0
+PRECINCT 9,School Board Trustee Seat 2B,"SMITH, PAMELA J.",0
+PRECINCT 9,Secretary Of State,"HANSEN, JANINE",0
+PRECINCT 9,Secretary Of State,"MILLER, ROSS",0
+PRECINCT 9,Secretary Of State,None Of These Candidates,0
+PRECINCT 9,Secretary Of State,"TARKANIAN, DANNY",0
+PRECINCT 9,Sheriff - STOREY,"BLOYD, STEPHEN",0
+PRECINCT 9,Sheriff - STOREY,"MILLER, JAMES G.",0
+PRECINCT 9,"State Assembly, District 38","Grady, Tom",0
+PRECINCT 9,"State Assembly, District 38","JAMES, CATHYLEE",0
+PRECINCT 9,State Controller,"FITZGIBBONS, FLOYD",0
+PRECINCT 9,State Controller,"MARTIN, STEVE",0
+PRECINCT 9,State Controller,None Of These Candidates,0
+PRECINCT 9,State Controller,"WALLIN, KIM R.",0
+PRECINCT 9,"State Senate, Capital Senatorial District","AMODEI, MARK E.",0
+PRECINCT 9,"State Senate, Capital Senatorial District","YOCHUM, MERRIT K. ""IKE""",0
+PRECINCT 9,State Treasurer,"ANDREWS, MARK",0
+PRECINCT 9,State Treasurer,"DESTEFANO, MARK",0
+PRECINCT 9,State Treasurer,"MARSHALL, KATE",0
+PRECINCT 9,State Treasurer,None Of These Candidates,0
+PRECINCT 9,"Supreme Court Justice, Seat C","Cherry, Michael A.",0
+PRECINCT 9,"Supreme Court Justice, Seat C",None Of These Candidates,0
+PRECINCT 9,"Supreme Court Justice, Seat F","Douglas, Michael L.",0
+PRECINCT 9,"Supreme Court Justice, Seat F",None Of These Candidates,0
+PRECINCT 9,"Supreme Court Justice, Seat F","STEEL, CYNTHIA ""DIANNE""",0
+PRECINCT 9,"Supreme Court Justice, Seat G","BECKER, NANCY",0
+PRECINCT 9,"Supreme Court Justice, Seat G",None Of These Candidates,0
+PRECINCT 9,"Supreme Court Justice, Seat G","Saitta, Nancy M.",0
+PRECINCT 9,"U.S. Representative in Congress, District 2","DERBY, JILL",0
+PRECINCT 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
+PRECINCT 9,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
+PRECINCT 9,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
+PRECINCT 9,United States Senator,"CARTER, JACK",0
+PRECINCT 9,United States Senator,"ENSIGN, JOHN",0
+PRECINCT 9,United States Senator,None Of These Candidates,0
+PRECINCT 9,United States Senator,"SCHUMANN, DAVID K.",0
+PRECINCT 9,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 9,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",0
+PRECINCT 9,"University Board of Regents, District  9","Knecht, Ron",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
+PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+PRECINCT 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",
+PRECINCT 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",
+PRECINCT 99,United States Senator,"CARTER, JACK",
+PRECINCT 99,United States Senator,"ENSIGN, JOHN",
+PRECINCT 99,United States Senator,None Of These Candidates,
+PRECINCT 99,United States Senator,"SCHUMANN, DAVID K.",
+PRECINCT 99,United States Senator,"TRAINOR, BRENDAN",

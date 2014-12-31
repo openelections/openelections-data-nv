@@ -1,0 +1,366 @@
+precinct,office,candidate,votes
+PRECINCT 1,Governor (Democratic),"Gibson, James B.",40
+PRECINCT 1,Governor (Democratic),"McConnell, Leola",2
+PRECINCT 1,Governor (Democratic),None Of These Candidates,11
+PRECINCT 1,Governor (Democratic),"Titus, Dina",59
+PRECINCT 1,Governor (Republican),"Beers, Bob",21
+PRECINCT 1,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",3
+PRECINCT 1,Governor (Republican),"GIBBONS, JIM",115
+PRECINCT 1,Governor (Republican),"Hunt, Lorraine T.",49
+PRECINCT 1,Governor (Republican),"Lusak, Stanleigh Harold",1
+PRECINCT 1,Governor (Republican),None Of These Candidates,5
+PRECINCT 1,Justice of the Peace -  PERSHING - NP (Nonpartisan),"NELSEN, CAROL A.",286
+PRECINCT 1,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",10
+PRECINCT 1,Lieutenant Governor (Democratic),"Montgomery, Bill",21
+PRECINCT 1,Lieutenant Governor (Democratic),None Of These Candidates,39
+PRECINCT 1,Lieutenant Governor (Democratic),"Stupak, Bob",20
+PRECINCT 1,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",21
+PRECINCT 1,Lieutenant Governor (Republican),"Hammargren, Lonnie",33
+PRECINCT 1,Lieutenant Governor (Republican),"Kao, George",7
+PRECINCT 1,Lieutenant Governor (Republican),"Krolicki, Brian",96
+PRECINCT 1,Lieutenant Governor (Republican),"Moncrief, Janet",6
+PRECINCT 1,Lieutenant Governor (Republican),None Of These Candidates,16
+PRECINCT 1,Lieutenant Governor (Republican),"Woollen, Barbara Lee",34
+PRECINCT 1,PUBLIC ADMINISTRATOR (Republican),"KEARNS, JEFF",116
+PRECINCT 1,PUBLIC ADMINISTRATOR (Republican),"VAN BLITTERSWYK, BETTY",65
+PRECINCT 1,School District Board of Trustees Seat E (Nonpartisan),"LIST, MELISSA",280
+PRECINCT 1,Secretary Of State (Democratic),"Boyd, Roderick",25
+PRECINCT 1,Secretary Of State (Democratic),"Miller, Ross",40
+PRECINCT 1,Secretary Of State (Democratic),None Of These Candidates,45
+PRECINCT 1,Secretary Of State (Republican),None Of These Candidates,25
+PRECINCT 1,Secretary Of State (Republican),"Scroggins, Brian",48
+PRECINCT 1,Secretary Of State (Republican),"Tarkanian, Danny",121
+PRECINCT 1,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",262
+PRECINCT 1,State Treasurer (Democratic),"Marshall, Kate",65
+PRECINCT 1,State Treasurer (Democratic),None Of These Candidates,28
+PRECINCT 1,State Treasurer (Democratic),"VanderPal, Geoffrey",20
+PRECINCT 1,State Treasurer (Republican),"Augustine, Kathy",39
+PRECINCT 1,State Treasurer (Republican),"DeStefano, Mark",89
+PRECINCT 1,State Treasurer (Republican),None Of These Candidates,33
+PRECINCT 1,State Treasurer (Republican),"Pitts, Joseph",26
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",67
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",64
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,70
+PRECINCT 1,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",116
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",99
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",31
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",55
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,72
+PRECINCT 1,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",62
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",54
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",53
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",79
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
+PRECINCT 1,United States Senator (Democratic),"Carter, Jack",78
+PRECINCT 1,United States Senator (Democratic),None Of These Candidates,18
+PRECINCT 1,United States Senator (Democratic),"Tun, Ruby jee",14
+PRECINCT 1,United States Senator (Republican),"Ensign, John",171
+PRECINCT 1,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",11
+PRECINCT 1,United States Senator (Republican),None Of These Candidates,12
+PRECINCT 3,Governor (Democratic),"Gibson, James B.",52
+PRECINCT 3,Governor (Democratic),"McConnell, Leola",1
+PRECINCT 3,Governor (Democratic),None Of These Candidates,12
+PRECINCT 3,Governor (Democratic),"Titus, Dina",42
+PRECINCT 3,Governor (Republican),"Beers, Bob",17
+PRECINCT 3,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",3
+PRECINCT 3,Governor (Republican),"GIBBONS, JIM",49
+PRECINCT 3,Governor (Republican),"Hunt, Lorraine T.",12
+PRECINCT 3,Governor (Republican),"Lusak, Stanleigh Harold",3
+PRECINCT 3,Governor (Republican),None Of These Candidates,1
+PRECINCT 3,Justice of the Peace -  PERSHING - NP (Nonpartisan),"NELSEN, CAROL A.",185
+PRECINCT 3,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",23
+PRECINCT 3,Lieutenant Governor (Democratic),"Montgomery, Bill",7
+PRECINCT 3,Lieutenant Governor (Democratic),None Of These Candidates,36
+PRECINCT 3,Lieutenant Governor (Democratic),"Stupak, Bob",21
+PRECINCT 3,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",14
+PRECINCT 3,Lieutenant Governor (Republican),"Hammargren, Lonnie",10
+PRECINCT 3,Lieutenant Governor (Republican),"Kao, George",1
+PRECINCT 3,Lieutenant Governor (Republican),"Krolicki, Brian",52
+PRECINCT 3,Lieutenant Governor (Republican),"Moncrief, Janet",1
+PRECINCT 3,Lieutenant Governor (Republican),None Of These Candidates,6
+PRECINCT 3,Lieutenant Governor (Republican),"Woollen, Barbara Lee",16
+PRECINCT 3,PUBLIC ADMINISTRATOR (Republican),"KEARNS, JEFF",47
+PRECINCT 3,PUBLIC ADMINISTRATOR (Republican),"VAN BLITTERSWYK, BETTY",33
+PRECINCT 3,School District Board of Trustees Seat E (Nonpartisan),"LIST, MELISSA",184
+PRECINCT 3,Secretary Of State (Democratic),"Boyd, Roderick",26
+PRECINCT 3,Secretary Of State (Democratic),"Miller, Ross",48
+PRECINCT 3,Secretary Of State (Democratic),None Of These Candidates,29
+PRECINCT 3,Secretary Of State (Republican),None Of These Candidates,7
+PRECINCT 3,Secretary Of State (Republican),"Scroggins, Brian",13
+PRECINCT 3,Secretary Of State (Republican),"Tarkanian, Danny",65
+PRECINCT 3,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",160
+PRECINCT 3,State Treasurer (Democratic),"Marshall, Kate",78
+PRECINCT 3,State Treasurer (Democratic),None Of These Candidates,15
+PRECINCT 3,State Treasurer (Democratic),"VanderPal, Geoffrey",11
+PRECINCT 3,State Treasurer (Republican),"Augustine, Kathy",22
+PRECINCT 3,State Treasurer (Republican),"DeStefano, Mark",34
+PRECINCT 3,State Treasurer (Republican),None Of These Candidates,16
+PRECINCT 3,State Treasurer (Republican),"Pitts, Joseph",10
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",24
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",38
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,43
+PRECINCT 3,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",96
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",81
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",13
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",30
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,35
+PRECINCT 3,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",43
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",14
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",23
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",45
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
+PRECINCT 3,United States Senator (Democratic),"Carter, Jack",82
+PRECINCT 3,United States Senator (Democratic),None Of These Candidates,11
+PRECINCT 3,United States Senator (Democratic),"Tun, Ruby jee",12
+PRECINCT 3,United States Senator (Republican),"Ensign, John",77
+PRECINCT 3,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
+PRECINCT 3,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 4,Governor (Democratic),"Gibson, James B.",17
+PRECINCT 4,Governor (Democratic),"McConnell, Leola",1
+PRECINCT 4,Governor (Democratic),None Of These Candidates,9
+PRECINCT 4,Governor (Democratic),"Titus, Dina",29
+PRECINCT 4,Governor (Republican),"Beers, Bob",9
+PRECINCT 4,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 4,Governor (Republican),"GIBBONS, JIM",33
+PRECINCT 4,Governor (Republican),"Hunt, Lorraine T.",22
+PRECINCT 4,Governor (Republican),"Lusak, Stanleigh Harold",1
+PRECINCT 4,Governor (Republican),None Of These Candidates,0
+PRECINCT 4,Justice of the Peace -  PERSHING - NP (Nonpartisan),"NELSEN, CAROL A.",113
+PRECINCT 4,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",16
+PRECINCT 4,Lieutenant Governor (Democratic),"Montgomery, Bill",8
+PRECINCT 4,Lieutenant Governor (Democratic),None Of These Candidates,16
+PRECINCT 4,Lieutenant Governor (Democratic),"Stupak, Bob",8
+PRECINCT 4,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",8
+PRECINCT 4,Lieutenant Governor (Republican),"Hammargren, Lonnie",3
+PRECINCT 4,Lieutenant Governor (Republican),"Kao, George",4
+PRECINCT 4,Lieutenant Governor (Republican),"Krolicki, Brian",33
+PRECINCT 4,Lieutenant Governor (Republican),"Moncrief, Janet",3
+PRECINCT 4,Lieutenant Governor (Republican),None Of These Candidates,7
+PRECINCT 4,Lieutenant Governor (Republican),"Woollen, Barbara Lee",14
+PRECINCT 4,PUBLIC ADMINISTRATOR (Republican),"KEARNS, JEFF",37
+PRECINCT 4,PUBLIC ADMINISTRATOR (Republican),"VAN BLITTERSWYK, BETTY",23
+PRECINCT 4,School District Board of Trustees Seat E (Nonpartisan),"LIST, MELISSA",118
+PRECINCT 4,Secretary Of State (Democratic),"Boyd, Roderick",9
+PRECINCT 4,Secretary Of State (Democratic),"Miller, Ross",31
+PRECINCT 4,Secretary Of State (Democratic),None Of These Candidates,15
+PRECINCT 4,Secretary Of State (Republican),None Of These Candidates,11
+PRECINCT 4,Secretary Of State (Republican),"Scroggins, Brian",9
+PRECINCT 4,Secretary Of State (Republican),"Tarkanian, Danny",42
+PRECINCT 4,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",111
+PRECINCT 4,State Treasurer (Democratic),"Marshall, Kate",35
+PRECINCT 4,State Treasurer (Democratic),None Of These Candidates,10
+PRECINCT 4,State Treasurer (Democratic),"VanderPal, Geoffrey",10
+PRECINCT 4,State Treasurer (Republican),"Augustine, Kathy",19
+PRECINCT 4,State Treasurer (Republican),"DeStefano, Mark",17
+PRECINCT 4,State Treasurer (Republican),None Of These Candidates,17
+PRECINCT 4,State Treasurer (Republican),"Pitts, Joseph",7
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",17
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",28
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,36
+PRECINCT 4,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",50
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",39
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",5
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",21
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,38
+PRECINCT 4,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",30
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",9
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",17
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",33
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
+PRECINCT 4,United States Senator (Democratic),"Carter, Jack",42
+PRECINCT 4,United States Senator (Democratic),None Of These Candidates,8
+PRECINCT 4,United States Senator (Democratic),"Tun, Ruby jee",5
+PRECINCT 4,United States Senator (Republican),"Ensign, John",60
+PRECINCT 4,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
+PRECINCT 4,United States Senator (Republican),None Of These Candidates,2
+PRECINCT 5,Governor (Democratic),"Gibson, James B.",11
+PRECINCT 5,Governor (Democratic),"McConnell, Leola",3
+PRECINCT 5,Governor (Democratic),None Of These Candidates,2
+PRECINCT 5,Governor (Democratic),"Titus, Dina",8
+PRECINCT 5,Governor (Republican),"Beers, Bob",4
+PRECINCT 5,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 5,Governor (Republican),"GIBBONS, JIM",20
+PRECINCT 5,Governor (Republican),"Hunt, Lorraine T.",3
+PRECINCT 5,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 5,Governor (Republican),None Of These Candidates,1
+PRECINCT 5,Justice of the Peace -  PERSHING - NP (Nonpartisan),"NELSEN, CAROL A.",34
+PRECINCT 5,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+PRECINCT 5,Lieutenant Governor (Democratic),"Montgomery, Bill",7
+PRECINCT 5,Lieutenant Governor (Democratic),None Of These Candidates,7
+PRECINCT 5,Lieutenant Governor (Democratic),"Stupak, Bob",1
+PRECINCT 5,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",5
+PRECINCT 5,Lieutenant Governor (Republican),"Hammargren, Lonnie",3
+PRECINCT 5,Lieutenant Governor (Republican),"Kao, George",1
+PRECINCT 5,Lieutenant Governor (Republican),"Krolicki, Brian",2
+PRECINCT 5,Lieutenant Governor (Republican),"Moncrief, Janet",1
+PRECINCT 5,Lieutenant Governor (Republican),None Of These Candidates,4
+PRECINCT 5,Lieutenant Governor (Republican),"Woollen, Barbara Lee",18
+PRECINCT 5,PUBLIC ADMINISTRATOR (Republican),"KEARNS, JEFF",19
+PRECINCT 5,PUBLIC ADMINISTRATOR (Republican),"VAN BLITTERSWYK, BETTY",10
+PRECINCT 5,School District Board of Trustees Seat E (Nonpartisan),"LIST, MELISSA",34
+PRECINCT 5,Secretary Of State (Democratic),"Boyd, Roderick",5
+PRECINCT 5,Secretary Of State (Democratic),"Miller, Ross",14
+PRECINCT 5,Secretary Of State (Democratic),None Of These Candidates,4
+PRECINCT 5,Secretary Of State (Republican),None Of These Candidates,7
+PRECINCT 5,Secretary Of State (Republican),"Scroggins, Brian",6
+PRECINCT 5,Secretary Of State (Republican),"Tarkanian, Danny",16
+PRECINCT 5,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",34
+PRECINCT 5,State Treasurer (Democratic),"Marshall, Kate",16
+PRECINCT 5,State Treasurer (Democratic),None Of These Candidates,5
+PRECINCT 5,State Treasurer (Democratic),"VanderPal, Geoffrey",3
+PRECINCT 5,State Treasurer (Republican),"Augustine, Kathy",9
+PRECINCT 5,State Treasurer (Republican),"DeStefano, Mark",5
+PRECINCT 5,State Treasurer (Republican),None Of These Candidates,5
+PRECINCT 5,State Treasurer (Republican),"Pitts, Joseph",9
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",7
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",9
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,7
+PRECINCT 5,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",17
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",13
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",6
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",8
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,7
+PRECINCT 5,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",7
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",11
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",3
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
+PRECINCT 5,United States Senator (Democratic),"Carter, Jack",18
+PRECINCT 5,United States Senator (Democratic),None Of These Candidates,5
+PRECINCT 5,United States Senator (Democratic),"Tun, Ruby jee",1
+PRECINCT 5,United States Senator (Republican),"Ensign, John",23
+PRECINCT 5,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
+PRECINCT 5,United States Senator (Republican),None Of These Candidates,4
+PRECINCT 6,Governor (Democratic),"Gibson, James B.",10
+PRECINCT 6,Governor (Democratic),"McConnell, Leola",4
+PRECINCT 6,Governor (Democratic),None Of These Candidates,6
+PRECINCT 6,Governor (Democratic),"Titus, Dina",9
+PRECINCT 6,Governor (Republican),"Beers, Bob",23
+PRECINCT 6,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 6,Governor (Republican),"GIBBONS, JIM",29
+PRECINCT 6,Governor (Republican),"Hunt, Lorraine T.",15
+PRECINCT 6,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 6,Governor (Republican),None Of These Candidates,1
+PRECINCT 6,Justice of the Peace -  PERSHING - NP (Nonpartisan),"NELSEN, CAROL A.",96
+PRECINCT 6,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",2
+PRECINCT 6,Lieutenant Governor (Democratic),"Montgomery, Bill",4
+PRECINCT 6,Lieutenant Governor (Democratic),None Of These Candidates,6
+PRECINCT 6,Lieutenant Governor (Democratic),"Stupak, Bob",7
+PRECINCT 6,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",8
+PRECINCT 6,Lieutenant Governor (Republican),"Hammargren, Lonnie",22
+PRECINCT 6,Lieutenant Governor (Republican),"Kao, George",4
+PRECINCT 6,Lieutenant Governor (Republican),"Krolicki, Brian",19
+PRECINCT 6,Lieutenant Governor (Republican),"Moncrief, Janet",1
+PRECINCT 6,Lieutenant Governor (Republican),None Of These Candidates,4
+PRECINCT 6,Lieutenant Governor (Republican),"Woollen, Barbara Lee",20
+PRECINCT 6,PUBLIC ADMINISTRATOR (Republican),"KEARNS, JEFF",44
+PRECINCT 6,PUBLIC ADMINISTRATOR (Republican),"VAN BLITTERSWYK, BETTY",20
+PRECINCT 6,School District Board of Trustees Seat E (Nonpartisan),"LIST, MELISSA",96
+PRECINCT 6,Secretary Of State (Democratic),"Boyd, Roderick",5
+PRECINCT 6,Secretary Of State (Democratic),"Miller, Ross",15
+PRECINCT 6,Secretary Of State (Democratic),None Of These Candidates,6
+PRECINCT 6,Secretary Of State (Republican),None Of These Candidates,8
+PRECINCT 6,Secretary Of State (Republican),"Scroggins, Brian",24
+PRECINCT 6,Secretary Of State (Republican),"Tarkanian, Danny",37
+PRECINCT 6,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",93
+PRECINCT 6,State Treasurer (Democratic),"Marshall, Kate",19
+PRECINCT 6,State Treasurer (Democratic),None Of These Candidates,4
+PRECINCT 6,State Treasurer (Democratic),"VanderPal, Geoffrey",5
+PRECINCT 6,State Treasurer (Republican),"Augustine, Kathy",12
+PRECINCT 6,State Treasurer (Republican),"DeStefano, Mark",32
+PRECINCT 6,State Treasurer (Republican),None Of These Candidates,11
+PRECINCT 6,State Treasurer (Republican),"Pitts, Joseph",15
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",15
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",42
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,15
+PRECINCT 6,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",32
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",30
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",23
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",22
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,13
+PRECINCT 6,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",14
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",23
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",15
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",26
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
+PRECINCT 6,United States Senator (Democratic),"Carter, Jack",16
+PRECINCT 6,United States Senator (Democratic),None Of These Candidates,6
+PRECINCT 6,United States Senator (Democratic),"Tun, Ruby jee",6
+PRECINCT 6,United States Senator (Republican),"Ensign, John",61
+PRECINCT 6,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
+PRECINCT 6,United States Senator (Republican),None Of These Candidates,3
+PRECINCT 7,Governor (Democratic),"Gibson, James B.",23
+PRECINCT 7,Governor (Democratic),"McConnell, Leola",4
+PRECINCT 7,Governor (Democratic),None Of These Candidates,4
+PRECINCT 7,Governor (Democratic),"Titus, Dina",12
+PRECINCT 7,Governor (Republican),"Beers, Bob",16
+PRECINCT 7,Governor (Republican),"DAMAYO, MELODY ""MIMI MIYAGI""",0
+PRECINCT 7,Governor (Republican),"GIBBONS, JIM",40
+PRECINCT 7,Governor (Republican),"Hunt, Lorraine T.",12
+PRECINCT 7,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 7,Governor (Republican),None Of These Candidates,3
+PRECINCT 7,Justice of the Peace -  PERSHING - NP (Nonpartisan),"NELSEN, CAROL A.",65
+PRECINCT 7,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",13
+PRECINCT 7,Lieutenant Governor (Democratic),"Montgomery, Bill",6
+PRECINCT 7,Lieutenant Governor (Democratic),None Of These Candidates,12
+PRECINCT 7,Lieutenant Governor (Democratic),"Stupak, Bob",3
+PRECINCT 7,Lieutenant Governor (Democratic),"UNGER, ROBERT ""BOB""",8
+PRECINCT 7,Lieutenant Governor (Republican),"Hammargren, Lonnie",11
+PRECINCT 7,Lieutenant Governor (Republican),"Kao, George",2
+PRECINCT 7,Lieutenant Governor (Republican),"Krolicki, Brian",31
+PRECINCT 7,Lieutenant Governor (Republican),"Moncrief, Janet",1
+PRECINCT 7,Lieutenant Governor (Republican),None Of These Candidates,6
+PRECINCT 7,Lieutenant Governor (Republican),"Woollen, Barbara Lee",20
+PRECINCT 7,PUBLIC ADMINISTRATOR (Republican),"KEARNS, JEFF",38
+PRECINCT 7,PUBLIC ADMINISTRATOR (Republican),"VAN BLITTERSWYK, BETTY",25
+PRECINCT 7,School District Board of Trustees Seat E (Nonpartisan),"LIST, MELISSA",56
+PRECINCT 7,Secretary Of State (Democratic),"Boyd, Roderick",9
+PRECINCT 7,Secretary Of State (Democratic),"Miller, Ross",23
+PRECINCT 7,Secretary Of State (Democratic),None Of These Candidates,11
+PRECINCT 7,Secretary Of State (Republican),None Of These Candidates,11
+PRECINCT 7,Secretary Of State (Republican),"Scroggins, Brian",17
+PRECINCT 7,Secretary Of State (Republican),"Tarkanian, Danny",40
+PRECINCT 7,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",62
+PRECINCT 7,State Treasurer (Democratic),"Marshall, Kate",29
+PRECINCT 7,State Treasurer (Democratic),None Of These Candidates,6
+PRECINCT 7,State Treasurer (Democratic),"VanderPal, Geoffrey",8
+PRECINCT 7,State Treasurer (Republican),"Augustine, Kathy",13
+PRECINCT 7,State Treasurer (Republican),"DeStefano, Mark",26
+PRECINCT 7,State Treasurer (Republican),None Of These Candidates,13
+PRECINCT 7,State Treasurer (Republican),"Pitts, Joseph",17
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)","Calvert, John",17
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)","Douglas, Michael L.",22
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)",None Of These Candidates,10
+PRECINCT 7,"Supreme Court Justice, Seat F (Nonpartisan)","STEEL, CYNTHIA ""DIANNE""",24
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Becker, Nancy",26
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Christensen, Thomas F.",10
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Del Vecchio, Nicholas ANTHONY",8
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)",None Of These Candidates,9
+PRECINCT 7,"Supreme Court Justice, Seat G (Nonpartisan)","Saitta, Nancy M.",22
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",28
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",22
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",19
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
+PRECINCT 7,United States Senator (Democratic),"Carter, Jack",29
+PRECINCT 7,United States Senator (Democratic),None Of These Candidates,8
+PRECINCT 7,United States Senator (Democratic),"Tun, Ruby jee",6
+PRECINCT 7,United States Senator (Republican),"Ensign, John",65
+PRECINCT 7,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
+PRECINCT 7,United States Senator (Republican),None Of These Candidates,2
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
+PRECINCT 99,United States Senator (Democratic),"Carter, Jack",0
+PRECINCT 99,United States Senator (Democratic),None Of These Candidates,0
+PRECINCT 99,United States Senator (Democratic),"Tun, Ruby jee",0
+PRECINCT 99,United States Senator (Republican),"Ensign, John",0
+PRECINCT 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 99,United States Senator (Republican),None Of These Candidates,0
