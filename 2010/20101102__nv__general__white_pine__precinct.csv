@@ -1,0 +1,623 @@
+precinct,office,candidate,votes
+Precinct 1,Attorney General,"Barrick, Travis",215
+Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",151
+Precinct 1,Attorney General,"Hansen, Joel F.",48
+Precinct 1,Attorney General,None Of These Candidates,25
+Precinct 1,COUNTY ASSESSOR,"BISHOP, ROBERT L.",381
+Precinct 1,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",270
+Precinct 1,COUNTY CLERK,"MALONE, JOANN",156
+Precinct 1,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",141
+Precinct 1,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",241
+Precinct 1,County Commissioner Seat 1,"WARD, JACK ""J.C.""",58
+Precinct 1,County Commissioner Seat 5,"LAMPROS, JOHN S.",246
+Precinct 1,County Commissioner Seat 5,"MAKLEY, RaLEENE",74
+Precinct 1,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",123
+Precinct 1,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",379
+Precinct 1,COUNTY TREASURER,"CORNUTT, BEVERLY",393
+Precinct 1,DISTRICT ATTORNEY,"BRIGGS, KEVIN",209
+Precinct 1,DISTRICT ATTORNEY,"BROWN, KELLY",226
+Precinct 1,Governor,"Curtis, David Scott",4
+Precinct 1,Governor,"DiSimone, Eugene ""Gino""",15
+Precinct 1,Governor,"Fitzgibbons, Floyd",13
+Precinct 1,Governor,"Honig, Aaron Y.",2
+Precinct 1,Governor,"Lampitt, Jr., Arthur Forest",17
+Precinct 1,Governor,None Of These Candidates,20
+Precinct 1,Governor,"Reid, Rory",68
+Precinct 1,Governor,"Sandoval, Brian",305
+Precinct 1,Lieutenant Governor,"Fitzgibbons, Ryan",42
+Precinct 1,Lieutenant Governor,"KROLICKI, BRIAN K.",278
+Precinct 1,Lieutenant Governor,None Of These Candidates,25
+Precinct 1,Lieutenant Governor,"Sferrazza, Jessica",96
+Precinct 1,Secretary Of State,"Lauer, Rob",212
+Precinct 1,Secretary Of State,"MILLER, ROSS",159
+Precinct 1,Secretary Of State,None Of These Candidates,23
+Precinct 1,Secretary Of State,"Wagner, John",44
+Precinct 1,"State Assembly, District 35","GOICOECHEA, PETE",345
+Precinct 1,"State Assembly, District 35","O'CONNOR, JOHN",96
+Precinct 1,State Controller,"Herr, Barry",220
+Precinct 1,State Controller,"Markowitz, Warren",50
+Precinct 1,State Controller,None Of These Candidates,33
+Precinct 1,State Controller,"WALLIN, KIM R.",130
+Precinct 1,State Treasurer,"Hawkins, Mike",47
+Precinct 1,State Treasurer,"MARSHALL, KATE",137
+Precinct 1,State Treasurer,"Martin, Steven E.",236
+Precinct 1,State Treasurer,None Of These Candidates,19
+Precinct 1,"Supreme Court Justice, Seat A","Hardesty, James W.",323
+Precinct 1,"Supreme Court Justice, Seat A",None Of These Candidates,72
+Precinct 1,"Supreme Court Justice, Seat E",None Of These Candidates,67
+Precinct 1,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",329
+Precinct 1,"U.S. Representative in Congress, District 2","Best, Russell",30
+Precinct 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",326
+Precinct 1,"U.S. Representative in Congress, District 2","Price, Nancy",81
+Precinct 1,United States Senator,"Angle, Sharron",298
+Precinct 1,United States Senator,"Ashjian, Scott",9
+Precinct 1,United States Senator,"Fasano, Tim",5
+Precinct 1,United States Senator,"Haines, Michael L.",5
+Precinct 1,United States Senator,"Holland, Jesse",6
+Precinct 1,United States Senator,None Of These Candidates,18
+Precinct 1,United States Senator,"Reeves, Jeffrey C.",1
+Precinct 1,United States Senator,"REID, HARRY",101
+Precinct 1,United States Senator,"Stand, Wil",2
+Precinct 1,"University Board of Regents, District  8","MELCHER, KEVIN C.",173
+Precinct 1,"University Board of Regents, District  8","PUCCINELLI, MARGARET",224
+Precinct 10,Attorney General,"Barrick, Travis",85
+Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",36
+Precinct 10,Attorney General,"Hansen, Joel F.",21
+Precinct 10,Attorney General,None Of These Candidates,5
+Precinct 10,COUNTY ASSESSOR,"BISHOP, ROBERT L.",112
+Precinct 10,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",84
+Precinct 10,COUNTY CLERK,"MALONE, JOANN",59
+Precinct 10,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",82
+Precinct 10,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",34
+Precinct 10,County Commissioner Seat 1,"WARD, JACK ""J.C.""",32
+Precinct 10,County Commissioner Seat 5,"LAMPROS, JOHN S.",53
+Precinct 10,County Commissioner Seat 5,"MAKLEY, RaLEENE",32
+Precinct 10,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",63
+Precinct 10,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",111
+Precinct 10,COUNTY TREASURER,"CORNUTT, BEVERLY",129
+Precinct 10,DISTRICT ATTORNEY,"BRIGGS, KEVIN",64
+Precinct 10,DISTRICT ATTORNEY,"BROWN, KELLY",76
+Precinct 10,Governor,"Curtis, David Scott",1
+Precinct 10,Governor,"DiSimone, Eugene ""Gino""",2
+Precinct 10,Governor,"Fitzgibbons, Floyd",3
+Precinct 10,Governor,"Honig, Aaron Y.",2
+Precinct 10,Governor,"Lampitt, Jr., Arthur Forest",5
+Precinct 10,Governor,None Of These Candidates,3
+Precinct 10,Governor,"Reid, Rory",15
+Precinct 10,Governor,"Sandoval, Brian",122
+Precinct 10,Lieutenant Governor,"Fitzgibbons, Ryan",13
+Precinct 10,Lieutenant Governor,"KROLICKI, BRIAN K.",114
+Precinct 10,Lieutenant Governor,None Of These Candidates,4
+Precinct 10,Lieutenant Governor,"Sferrazza, Jessica",21
+Precinct 10,Secretary Of State,"Lauer, Rob",93
+Precinct 10,Secretary Of State,"MILLER, ROSS",31
+Precinct 10,Secretary Of State,None Of These Candidates,4
+Precinct 10,Secretary Of State,"Wagner, John",19
+Precinct 10,"State Assembly, District 35","GOICOECHEA, PETE",134
+Precinct 10,"State Assembly, District 35","O'CONNOR, JOHN",17
+Precinct 10,State Controller,"Herr, Barry",88
+Precinct 10,State Controller,"Markowitz, Warren",15
+Precinct 10,State Controller,None Of These Candidates,5
+Precinct 10,State Controller,"WALLIN, KIM R.",36
+Precinct 10,State Treasurer,"Hawkins, Mike",15
+Precinct 10,State Treasurer,"MARSHALL, KATE",30
+Precinct 10,State Treasurer,"Martin, Steven E.",94
+Precinct 10,State Treasurer,None Of These Candidates,6
+Precinct 10,"Supreme Court Justice, Seat A","Hardesty, James W.",96
+Precinct 10,"Supreme Court Justice, Seat A",None Of These Candidates,33
+Precinct 10,"Supreme Court Justice, Seat E",None Of These Candidates,30
+Precinct 10,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",98
+Precinct 10,"U.S. Representative in Congress, District 2","Best, Russell",8
+Precinct 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",125
+Precinct 10,"U.S. Representative in Congress, District 2","Price, Nancy",20
+Precinct 10,United States Senator,"Angle, Sharron",122
+Precinct 10,United States Senator,"Ashjian, Scott",6
+Precinct 10,United States Senator,"Fasano, Tim",1
+Precinct 10,United States Senator,"Haines, Michael L.",0
+Precinct 10,United States Senator,"Holland, Jesse",1
+Precinct 10,United States Senator,None Of These Candidates,2
+Precinct 10,United States Senator,"Reeves, Jeffrey C.",0
+Precinct 10,United States Senator,"REID, HARRY",21
+Precinct 10,United States Senator,"Stand, Wil",0
+Precinct 10,"University Board of Regents, District  8","MELCHER, KEVIN C.",60
+Precinct 10,"University Board of Regents, District  8","PUCCINELLI, MARGARET",66
+Precinct 2,Attorney General,"Barrick, Travis",112
+Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",115
+Precinct 2,Attorney General,"Hansen, Joel F.",25
+Precinct 2,Attorney General,None Of These Candidates,5
+Precinct 2,COUNTY ASSESSOR,"BISHOP, ROBERT L.",237
+Precinct 2,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",159
+Precinct 2,COUNTY CLERK,"MALONE, JOANN",99
+Precinct 2,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",61
+Precinct 2,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",164
+Precinct 2,County Commissioner Seat 1,"WARD, JACK ""J.C.""",39
+Precinct 2,County Commissioner Seat 5,"LAMPROS, JOHN S.",133
+Precinct 2,County Commissioner Seat 5,"MAKLEY, RaLEENE",55
+Precinct 2,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",77
+Precinct 2,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",236
+Precinct 2,COUNTY TREASURER,"CORNUTT, BEVERLY",230
+Precinct 2,DISTRICT ATTORNEY,"BRIGGS, KEVIN",103
+Precinct 2,DISTRICT ATTORNEY,"BROWN, KELLY",139
+Precinct 2,Governor,"Curtis, David Scott",3
+Precinct 2,Governor,"DiSimone, Eugene ""Gino""",9
+Precinct 2,Governor,"Fitzgibbons, Floyd",6
+Precinct 2,Governor,"Honig, Aaron Y.",3
+Precinct 2,Governor,"Lampitt, Jr., Arthur Forest",15
+Precinct 2,Governor,None Of These Candidates,10
+Precinct 2,Governor,"Reid, Rory",54
+Precinct 2,Governor,"Sandoval, Brian",167
+Precinct 2,Lieutenant Governor,"Fitzgibbons, Ryan",15
+Precinct 2,Lieutenant Governor,"KROLICKI, BRIAN K.",147
+Precinct 2,Lieutenant Governor,None Of These Candidates,12
+Precinct 2,Lieutenant Governor,"Sferrazza, Jessica",88
+Precinct 2,Secretary Of State,"Lauer, Rob",112
+Precinct 2,Secretary Of State,"MILLER, ROSS",115
+Precinct 2,Secretary Of State,None Of These Candidates,14
+Precinct 2,Secretary Of State,"Wagner, John",20
+Precinct 2,"State Assembly, District 35","GOICOECHEA, PETE",184
+Precinct 2,"State Assembly, District 35","O'CONNOR, JOHN",80
+Precinct 2,State Controller,"Herr, Barry",122
+Precinct 2,State Controller,"Markowitz, Warren",17
+Precinct 2,State Controller,None Of These Candidates,13
+Precinct 2,State Controller,"WALLIN, KIM R.",105
+Precinct 2,State Treasurer,"Hawkins, Mike",22
+Precinct 2,State Treasurer,"MARSHALL, KATE",105
+Precinct 2,State Treasurer,"Martin, Steven E.",116
+Precinct 2,State Treasurer,None Of These Candidates,13
+Precinct 2,"Supreme Court Justice, Seat A","Hardesty, James W.",198
+Precinct 2,"Supreme Court Justice, Seat A",None Of These Candidates,38
+Precinct 2,"Supreme Court Justice, Seat E",None Of These Candidates,39
+Precinct 2,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",196
+Precinct 2,"U.S. Representative in Congress, District 2","Best, Russell",12
+Precinct 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",174
+Precinct 2,"U.S. Representative in Congress, District 2","Price, Nancy",75
+Precinct 2,United States Senator,"Angle, Sharron",152
+Precinct 2,United States Senator,"Ashjian, Scott",5
+Precinct 2,United States Senator,"Fasano, Tim",6
+Precinct 2,United States Senator,"Haines, Michael L.",3
+Precinct 2,United States Senator,"Holland, Jesse",6
+Precinct 2,United States Senator,None Of These Candidates,16
+Precinct 2,United States Senator,"Reeves, Jeffrey C.",2
+Precinct 2,United States Senator,"REID, HARRY",72
+Precinct 2,United States Senator,"Stand, Wil",7
+Precinct 2,"University Board of Regents, District  8","MELCHER, KEVIN C.",95
+Precinct 2,"University Board of Regents, District  8","PUCCINELLI, MARGARET",143
+Precinct 3,Attorney General,"Barrick, Travis",162
+Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",137
+Precinct 3,Attorney General,"Hansen, Joel F.",43
+Precinct 3,Attorney General,None Of These Candidates,13
+Precinct 3,COUNTY ASSESSOR,"BISHOP, ROBERT L.",311
+Precinct 3,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",228
+Precinct 3,COUNTY CLERK,"MALONE, JOANN",126
+Precinct 3,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",89
+Precinct 3,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",206
+Precinct 3,County Commissioner Seat 1,"WARD, JACK ""J.C.""",61
+Precinct 3,County Commissioner Seat 5,"LAMPROS, JOHN S.",194
+Precinct 3,County Commissioner Seat 5,"MAKLEY, RaLEENE",64
+Precinct 3,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",101
+Precinct 3,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",315
+Precinct 3,COUNTY TREASURER,"CORNUTT, BEVERLY",331
+Precinct 3,DISTRICT ATTORNEY,"BRIGGS, KEVIN",158
+Precinct 3,DISTRICT ATTORNEY,"BROWN, KELLY",194
+Precinct 3,Governor,"Curtis, David Scott",3
+Precinct 3,Governor,"DiSimone, Eugene ""Gino""",10
+Precinct 3,Governor,"Fitzgibbons, Floyd",12
+Precinct 3,Governor,"Honig, Aaron Y.",4
+Precinct 3,Governor,"Lampitt, Jr., Arthur Forest",15
+Precinct 3,Governor,None Of These Candidates,11
+Precinct 3,Governor,"Reid, Rory",71
+Precinct 3,Governor,"Sandoval, Brian",229
+Precinct 3,Lieutenant Governor,"Fitzgibbons, Ryan",36
+Precinct 3,Lieutenant Governor,"KROLICKI, BRIAN K.",198
+Precinct 3,Lieutenant Governor,None Of These Candidates,19
+Precinct 3,Lieutenant Governor,"Sferrazza, Jessica",102
+Precinct 3,Secretary Of State,"Lauer, Rob",162
+Precinct 3,Secretary Of State,"MILLER, ROSS",147
+Precinct 3,Secretary Of State,None Of These Candidates,13
+Precinct 3,Secretary Of State,"Wagner, John",30
+Precinct 3,"State Assembly, District 35","GOICOECHEA, PETE",257
+Precinct 3,"State Assembly, District 35","O'CONNOR, JOHN",101
+Precinct 3,State Controller,"Herr, Barry",160
+Precinct 3,State Controller,"Markowitz, Warren",43
+Precinct 3,State Controller,None Of These Candidates,22
+Precinct 3,State Controller,"WALLIN, KIM R.",124
+Precinct 3,State Treasurer,"Hawkins, Mike",38
+Precinct 3,State Treasurer,"MARSHALL, KATE",129
+Precinct 3,State Treasurer,"Martin, Steven E.",169
+Precinct 3,State Treasurer,None Of These Candidates,15
+Precinct 3,"Supreme Court Justice, Seat A","Hardesty, James W.",257
+Precinct 3,"Supreme Court Justice, Seat A",None Of These Candidates,71
+Precinct 3,"Supreme Court Justice, Seat E",None Of These Candidates,71
+Precinct 3,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",259
+Precinct 3,"U.S. Representative in Congress, District 2","Best, Russell",22
+Precinct 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",234
+Precinct 3,"U.S. Representative in Congress, District 2","Price, Nancy",95
+Precinct 3,United States Senator,"Angle, Sharron",215
+Precinct 3,United States Senator,"Ashjian, Scott",10
+Precinct 3,United States Senator,"Fasano, Tim",9
+Precinct 3,United States Senator,"Haines, Michael L.",6
+Precinct 3,United States Senator,"Holland, Jesse",4
+Precinct 3,United States Senator,None Of These Candidates,21
+Precinct 3,United States Senator,"Reeves, Jeffrey C.",2
+Precinct 3,United States Senator,"REID, HARRY",90
+Precinct 3,United States Senator,"Stand, Wil",3
+Precinct 3,"University Board of Regents, District  8","MELCHER, KEVIN C.",104
+Precinct 3,"University Board of Regents, District  8","PUCCINELLI, MARGARET",219
+Precinct 4,Attorney General,"Barrick, Travis",190
+Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",156
+Precinct 4,Attorney General,"Hansen, Joel F.",42
+Precinct 4,Attorney General,None Of These Candidates,27
+Precinct 4,COUNTY ASSESSOR,"BISHOP, ROBERT L.",360
+Precinct 4,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",235
+Precinct 4,COUNTY CLERK,"MALONE, JOANN",166
+Precinct 4,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",108
+Precinct 4,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",259
+Precinct 4,County Commissioner Seat 1,"WARD, JACK ""J.C.""",52
+Precinct 4,County Commissioner Seat 5,"LAMPROS, JOHN S.",267
+Precinct 4,County Commissioner Seat 5,"MAKLEY, RaLEENE",65
+Precinct 4,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",88
+Precinct 4,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",381
+Precinct 4,COUNTY TREASURER,"CORNUTT, BEVERLY",371
+Precinct 4,DISTRICT ATTORNEY,"BRIGGS, KEVIN",188
+Precinct 4,DISTRICT ATTORNEY,"BROWN, KELLY",217
+Precinct 4,Governor,"Curtis, David Scott",5
+Precinct 4,Governor,"DiSimone, Eugene ""Gino""",10
+Precinct 4,Governor,"Fitzgibbons, Floyd",7
+Precinct 4,Governor,"Honig, Aaron Y.",4
+Precinct 4,Governor,"Lampitt, Jr., Arthur Forest",19
+Precinct 4,Governor,None Of These Candidates,14
+Precinct 4,Governor,"Reid, Rory",64
+Precinct 4,Governor,"Sandoval, Brian",297
+Precinct 4,Lieutenant Governor,"Fitzgibbons, Ryan",37
+Precinct 4,Lieutenant Governor,"KROLICKI, BRIAN K.",270
+Precinct 4,Lieutenant Governor,None Of These Candidates,25
+Precinct 4,Lieutenant Governor,"Sferrazza, Jessica",82
+Precinct 4,Secretary Of State,"Lauer, Rob",189
+Precinct 4,Secretary Of State,"MILLER, ROSS",164
+Precinct 4,Secretary Of State,None Of These Candidates,23
+Precinct 4,Secretary Of State,"Wagner, John",37
+Precinct 4,"State Assembly, District 35","GOICOECHEA, PETE",335
+Precinct 4,"State Assembly, District 35","O'CONNOR, JOHN",83
+Precinct 4,State Controller,"Herr, Barry",208
+Precinct 4,State Controller,"Markowitz, Warren",40
+Precinct 4,State Controller,None Of These Candidates,31
+Precinct 4,State Controller,"WALLIN, KIM R.",134
+Precinct 4,State Treasurer,"Hawkins, Mike",43
+Precinct 4,State Treasurer,"MARSHALL, KATE",138
+Precinct 4,State Treasurer,"Martin, Steven E.",214
+Precinct 4,State Treasurer,None Of These Candidates,22
+Precinct 4,"Supreme Court Justice, Seat A","Hardesty, James W.",320
+Precinct 4,"Supreme Court Justice, Seat A",None Of These Candidates,64
+Precinct 4,"Supreme Court Justice, Seat E",None Of These Candidates,58
+Precinct 4,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",323
+Precinct 4,"U.S. Representative in Congress, District 2","Best, Russell",28
+Precinct 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",303
+Precinct 4,"U.S. Representative in Congress, District 2","Price, Nancy",81
+Precinct 4,United States Senator,"Angle, Sharron",284
+Precinct 4,United States Senator,"Ashjian, Scott",10
+Precinct 4,United States Senator,"Fasano, Tim",5
+Precinct 4,United States Senator,"Haines, Michael L.",7
+Precinct 4,United States Senator,"Holland, Jesse",4
+Precinct 4,United States Senator,None Of These Candidates,13
+Precinct 4,United States Senator,"Reeves, Jeffrey C.",1
+Precinct 4,United States Senator,"REID, HARRY",100
+Precinct 4,United States Senator,"Stand, Wil",0
+Precinct 4,"University Board of Regents, District  8","MELCHER, KEVIN C.",152
+Precinct 4,"University Board of Regents, District  8","PUCCINELLI, MARGARET",229
+Precinct 5,Attorney General,"Barrick, Travis",378
+Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",235
+Precinct 5,Attorney General,"Hansen, Joel F.",83
+Precinct 5,Attorney General,None Of These Candidates,26
+Precinct 5,COUNTY ASSESSOR,"BISHOP, ROBERT L.",592
+Precinct 5,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",451
+Precinct 5,COUNTY CLERK,"MALONE, JOANN",248
+Precinct 5,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",254
+Precinct 5,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",352
+Precinct 5,County Commissioner Seat 1,"WARD, JACK ""J.C.""",122
+Precinct 5,County Commissioner Seat 5,"LAMPROS, JOHN S.",328
+Precinct 5,County Commissioner Seat 5,"MAKLEY, RaLEENE",137
+Precinct 5,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",264
+Precinct 5,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",602
+Precinct 5,COUNTY TREASURER,"CORNUTT, BEVERLY",653
+Precinct 5,DISTRICT ATTORNEY,"BRIGGS, KEVIN",314
+Precinct 5,DISTRICT ATTORNEY,"BROWN, KELLY",390
+Precinct 5,Governor,"Curtis, David Scott",6
+Precinct 5,Governor,"DiSimone, Eugene ""Gino""",12
+Precinct 5,Governor,"Fitzgibbons, Floyd",12
+Precinct 5,Governor,"Honig, Aaron Y.",4
+Precinct 5,Governor,"Lampitt, Jr., Arthur Forest",36
+Precinct 5,Governor,None Of These Candidates,17
+Precinct 5,Governor,"Reid, Rory",100
+Precinct 5,Governor,"Sandoval, Brian",544
+Precinct 5,Lieutenant Governor,"Fitzgibbons, Ryan",58
+Precinct 5,Lieutenant Governor,"KROLICKI, BRIAN K.",485
+Precinct 5,Lieutenant Governor,None Of These Candidates,32
+Precinct 5,Lieutenant Governor,"Sferrazza, Jessica",153
+Precinct 5,Secretary Of State,"Lauer, Rob",382
+Precinct 5,Secretary Of State,"MILLER, ROSS",242
+Precinct 5,Secretary Of State,None Of These Candidates,31
+Precinct 5,Secretary Of State,"Wagner, John",68
+Precinct 5,"State Assembly, District 35","GOICOECHEA, PETE",597
+Precinct 5,"State Assembly, District 35","O'CONNOR, JOHN",128
+Precinct 5,State Controller,"Herr, Barry",401
+Precinct 5,State Controller,"Markowitz, Warren",67
+Precinct 5,State Controller,None Of These Candidates,48
+Precinct 5,State Controller,"WALLIN, KIM R.",198
+Precinct 5,State Treasurer,"Hawkins, Mike",62
+Precinct 5,State Treasurer,"MARSHALL, KATE",202
+Precinct 5,State Treasurer,"Martin, Steven E.",422
+Precinct 5,State Treasurer,None Of These Candidates,34
+Precinct 5,"Supreme Court Justice, Seat A","Hardesty, James W.",534
+Precinct 5,"Supreme Court Justice, Seat A",None Of These Candidates,120
+Precinct 5,"Supreme Court Justice, Seat E",None Of These Candidates,126
+Precinct 5,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",524
+Precinct 5,"U.S. Representative in Congress, District 2","Best, Russell",47
+Precinct 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",552
+Precinct 5,"U.S. Representative in Congress, District 2","Price, Nancy",126
+Precinct 5,United States Senator,"Angle, Sharron",538
+Precinct 5,United States Senator,"Ashjian, Scott",21
+Precinct 5,United States Senator,"Fasano, Tim",11
+Precinct 5,United States Senator,"Haines, Michael L.",6
+Precinct 5,United States Senator,"Holland, Jesse",7
+Precinct 5,United States Senator,None Of These Candidates,12
+Precinct 5,United States Senator,"Reeves, Jeffrey C.",3
+Precinct 5,United States Senator,"REID, HARRY",127
+Precinct 5,United States Senator,"Stand, Wil",5
+Precinct 5,"University Board of Regents, District  8","MELCHER, KEVIN C.",297
+Precinct 5,"University Board of Regents, District  8","PUCCINELLI, MARGARET",360
+Precinct 6,Attorney General,"Barrick, Travis",181
+Precinct 6,Attorney General,"CORTEZ  MASTO, CATHERINE",150
+Precinct 6,Attorney General,"Hansen, Joel F.",63
+Precinct 6,Attorney General,None Of These Candidates,36
+Precinct 6,COUNTY ASSESSOR,"BISHOP, ROBERT L.",361
+Precinct 6,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",250
+Precinct 6,COUNTY CLERK,"MALONE, JOANN",173
+Precinct 6,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",151
+Precinct 6,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",202
+Precinct 6,County Commissioner Seat 1,"WARD, JACK ""J.C.""",81
+Precinct 6,County Commissioner Seat 5,"LAMPROS, JOHN S.",149
+Precinct 6,County Commissioner Seat 5,"MAKLEY, RaLEENE",133
+Precinct 6,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",151
+Precinct 6,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",371
+Precinct 6,COUNTY TREASURER,"CORNUTT, BEVERLY",389
+Precinct 6,DISTRICT ATTORNEY,"BRIGGS, KEVIN",198
+Precinct 6,DISTRICT ATTORNEY,"BROWN, KELLY",216
+Precinct 6,Governor,"Curtis, David Scott",2
+Precinct 6,Governor,"DiSimone, Eugene ""Gino""",14
+Precinct 6,Governor,"Fitzgibbons, Floyd",15
+Precinct 6,Governor,"Honig, Aaron Y.",3
+Precinct 6,Governor,"Lampitt, Jr., Arthur Forest",17
+Precinct 6,Governor,None Of These Candidates,23
+Precinct 6,Governor,"Reid, Rory",92
+Precinct 6,Governor,"Sandoval, Brian",277
+Precinct 6,Lieutenant Governor,"Fitzgibbons, Ryan",56
+Precinct 6,Lieutenant Governor,"KROLICKI, BRIAN K.",214
+Precinct 6,Lieutenant Governor,None Of These Candidates,38
+Precinct 6,Lieutenant Governor,"Sferrazza, Jessica",128
+Precinct 6,Secretary Of State,"Lauer, Rob",170
+Precinct 6,Secretary Of State,"MILLER, ROSS",172
+Precinct 6,Secretary Of State,None Of These Candidates,30
+Precinct 6,Secretary Of State,"Wagner, John",61
+Precinct 6,"State Assembly, District 35","GOICOECHEA, PETE",306
+Precinct 6,"State Assembly, District 35","O'CONNOR, JOHN",123
+Precinct 6,State Controller,"Herr, Barry",190
+Precinct 6,State Controller,"Markowitz, Warren",56
+Precinct 6,State Controller,None Of These Candidates,40
+Precinct 6,State Controller,"WALLIN, KIM R.",145
+Precinct 6,State Treasurer,"Hawkins, Mike",51
+Precinct 6,State Treasurer,"MARSHALL, KATE",162
+Precinct 6,State Treasurer,"Martin, Steven E.",194
+Precinct 6,State Treasurer,None Of These Candidates,27
+Precinct 6,"Supreme Court Justice, Seat A","Hardesty, James W.",298
+Precinct 6,"Supreme Court Justice, Seat A",None Of These Candidates,100
+Precinct 6,"Supreme Court Justice, Seat E",None Of These Candidates,89
+Precinct 6,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",304
+Precinct 6,"U.S. Representative in Congress, District 2","Best, Russell",35
+Precinct 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",268
+Precinct 6,"U.S. Representative in Congress, District 2","Price, Nancy",122
+Precinct 6,United States Senator,"Angle, Sharron",263
+Precinct 6,United States Senator,"Ashjian, Scott",10
+Precinct 6,United States Senator,"Fasano, Tim",8
+Precinct 6,United States Senator,"Haines, Michael L.",5
+Precinct 6,United States Senator,"Holland, Jesse",3
+Precinct 6,United States Senator,None Of These Candidates,22
+Precinct 6,United States Senator,"Reeves, Jeffrey C.",11
+Precinct 6,United States Senator,"REID, HARRY",117
+Precinct 6,United States Senator,"Stand, Wil",1
+Precinct 6,"University Board of Regents, District  8","MELCHER, KEVIN C.",185
+Precinct 6,"University Board of Regents, District  8","PUCCINELLI, MARGARET",207
+Precinct 7,Attorney General,"Barrick, Travis",66
+Precinct 7,Attorney General,"CORTEZ  MASTO, CATHERINE",34
+Precinct 7,Attorney General,"Hansen, Joel F.",17
+Precinct 7,Attorney General,None Of These Candidates,3
+Precinct 7,COUNTY ASSESSOR,"BISHOP, ROBERT L.",98
+Precinct 7,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",66
+Precinct 7,COUNTY CLERK,"MALONE, JOANN",47
+Precinct 7,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",42
+Precinct 7,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",49
+Precinct 7,County Commissioner Seat 1,"WARD, JACK ""J.C.""",27
+Precinct 7,County Commissioner Seat 5,"LAMPROS, JOHN S.",47
+Precinct 7,County Commissioner Seat 5,"MAKLEY, RaLEENE",33
+Precinct 7,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",39
+Precinct 7,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",99
+Precinct 7,COUNTY TREASURER,"CORNUTT, BEVERLY",103
+Precinct 7,DISTRICT ATTORNEY,"BRIGGS, KEVIN",57
+Precinct 7,DISTRICT ATTORNEY,"BROWN, KELLY",55
+Precinct 7,Governor,"Curtis, David Scott",3
+Precinct 7,Governor,"DiSimone, Eugene ""Gino""",3
+Precinct 7,Governor,"Fitzgibbons, Floyd",6
+Precinct 7,Governor,"Honig, Aaron Y.",0
+Precinct 7,Governor,"Lampitt, Jr., Arthur Forest",5
+Precinct 7,Governor,None Of These Candidates,5
+Precinct 7,Governor,"Reid, Rory",22
+Precinct 7,Governor,"Sandoval, Brian",77
+Precinct 7,Lieutenant Governor,"Fitzgibbons, Ryan",18
+Precinct 7,Lieutenant Governor,"KROLICKI, BRIAN K.",67
+Precinct 7,Lieutenant Governor,None Of These Candidates,6
+Precinct 7,Lieutenant Governor,"Sferrazza, Jessica",31
+Precinct 7,Secretary Of State,"Lauer, Rob",61
+Precinct 7,Secretary Of State,"MILLER, ROSS",39
+Precinct 7,Secretary Of State,None Of These Candidates,8
+Precinct 7,Secretary Of State,"Wagner, John",13
+Precinct 7,"State Assembly, District 35","GOICOECHEA, PETE",87
+Precinct 7,"State Assembly, District 35","O'CONNOR, JOHN",33
+Precinct 7,State Controller,"Herr, Barry",57
+Precinct 7,State Controller,"Markowitz, Warren",21
+Precinct 7,State Controller,None Of These Candidates,10
+Precinct 7,State Controller,"WALLIN, KIM R.",33
+Precinct 7,State Treasurer,"Hawkins, Mike",19
+Precinct 7,State Treasurer,"MARSHALL, KATE",33
+Precinct 7,State Treasurer,"Martin, Steven E.",61
+Precinct 7,State Treasurer,None Of These Candidates,8
+Precinct 7,"Supreme Court Justice, Seat A","Hardesty, James W.",80
+Precinct 7,"Supreme Court Justice, Seat A",None Of These Candidates,20
+Precinct 7,"Supreme Court Justice, Seat E",None Of These Candidates,21
+Precinct 7,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",81
+Precinct 7,"U.S. Representative in Congress, District 2","Best, Russell",11
+Precinct 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",82
+Precinct 7,"U.S. Representative in Congress, District 2","Price, Nancy",27
+Precinct 7,United States Senator,"Angle, Sharron",78
+Precinct 7,United States Senator,"Ashjian, Scott",6
+Precinct 7,United States Senator,"Fasano, Tim",3
+Precinct 7,United States Senator,"Haines, Michael L.",2
+Precinct 7,United States Senator,"Holland, Jesse",1
+Precinct 7,United States Senator,None Of These Candidates,2
+Precinct 7,United States Senator,"Reeves, Jeffrey C.",1
+Precinct 7,United States Senator,"REID, HARRY",26
+Precinct 7,United States Senator,"Stand, Wil",3
+Precinct 7,"University Board of Regents, District  8","MELCHER, KEVIN C.",51
+Precinct 7,"University Board of Regents, District  8","PUCCINELLI, MARGARET",52
+Precinct 8,Attorney General,"Barrick, Travis",132
+Precinct 8,Attorney General,"CORTEZ  MASTO, CATHERINE",51
+Precinct 8,Attorney General,"Hansen, Joel F.",36
+Precinct 8,Attorney General,None Of These Candidates,11
+Precinct 8,COUNTY ASSESSOR,"BISHOP, ROBERT L.",206
+Precinct 8,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",133
+Precinct 8,COUNTY CLERK,"MALONE, JOANN",92
+Precinct 8,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",105
+Precinct 8,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",73
+Precinct 8,County Commissioner Seat 1,"WARD, JACK ""J.C.""",56
+Precinct 8,County Commissioner Seat 5,"LAMPROS, JOHN S.",90
+Precinct 8,County Commissioner Seat 5,"MAKLEY, RaLEENE",35
+Precinct 8,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",108
+Precinct 8,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",191
+Precinct 8,COUNTY TREASURER,"CORNUTT, BEVERLY",215
+Precinct 8,DISTRICT ATTORNEY,"BRIGGS, KEVIN",127
+Precinct 8,DISTRICT ATTORNEY,"BROWN, KELLY",99
+Precinct 8,Governor,"Curtis, David Scott",2
+Precinct 8,Governor,"DiSimone, Eugene ""Gino""",7
+Precinct 8,Governor,"Fitzgibbons, Floyd",10
+Precinct 8,Governor,"Honig, Aaron Y.",1
+Precinct 8,Governor,"Lampitt, Jr., Arthur Forest",9
+Precinct 8,Governor,None Of These Candidates,7
+Precinct 8,Governor,"Reid, Rory",14
+Precinct 8,Governor,"Sandoval, Brian",183
+Precinct 8,Lieutenant Governor,"Fitzgibbons, Ryan",30
+Precinct 8,Lieutenant Governor,"KROLICKI, BRIAN K.",175
+Precinct 8,Lieutenant Governor,None Of These Candidates,8
+Precinct 8,Lieutenant Governor,"Sferrazza, Jessica",17
+Precinct 8,Secretary Of State,"Lauer, Rob",143
+Precinct 8,Secretary Of State,"MILLER, ROSS",44
+Precinct 8,Secretary Of State,None Of These Candidates,11
+Precinct 8,Secretary Of State,"Wagner, John",32
+Precinct 8,"State Assembly, District 35","GOICOECHEA, PETE",202
+Precinct 8,"State Assembly, District 35","O'CONNOR, JOHN",28
+Precinct 8,State Controller,"Herr, Barry",154
+Precinct 8,State Controller,"Markowitz, Warren",30
+Precinct 8,State Controller,None Of These Candidates,19
+Precinct 8,State Controller,"WALLIN, KIM R.",28
+Precinct 8,State Treasurer,"Hawkins, Mike",35
+Precinct 8,State Treasurer,"MARSHALL, KATE",31
+Precinct 8,State Treasurer,"Martin, Steven E.",148
+Precinct 8,State Treasurer,None Of These Candidates,15
+Precinct 8,"Supreme Court Justice, Seat A","Hardesty, James W.",181
+Precinct 8,"Supreme Court Justice, Seat A",None Of These Candidates,31
+Precinct 8,"Supreme Court Justice, Seat E",None Of These Candidates,31
+Precinct 8,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",181
+Precinct 8,"U.S. Representative in Congress, District 2","Best, Russell",27
+Precinct 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",180
+Precinct 8,"U.S. Representative in Congress, District 2","Price, Nancy",18
+Precinct 8,United States Senator,"Angle, Sharron",197
+Precinct 8,United States Senator,"Ashjian, Scott",6
+Precinct 8,United States Senator,"Fasano, Tim",3
+Precinct 8,United States Senator,"Haines, Michael L.",2
+Precinct 8,United States Senator,"Holland, Jesse",4
+Precinct 8,United States Senator,None Of These Candidates,4
+Precinct 8,United States Senator,"Reeves, Jeffrey C.",1
+Precinct 8,United States Senator,"REID, HARRY",16
+Precinct 8,United States Senator,"Stand, Wil",1
+Precinct 8,"University Board of Regents, District  8","MELCHER, KEVIN C.",111
+Precinct 8,"University Board of Regents, District  8","PUCCINELLI, MARGARET",91
+Precinct 9,Attorney General,"Barrick, Travis",40
+Precinct 9,Attorney General,"CORTEZ  MASTO, CATHERINE",38
+Precinct 9,Attorney General,"Hansen, Joel F.",5
+Precinct 9,Attorney General,None Of These Candidates,6
+Precinct 9,COUNTY ASSESSOR,"BISHOP, ROBERT L.",71
+Precinct 9,COUNTY CLERK,"BURLEIGH, LINDA ""LIN""",54
+Precinct 9,COUNTY CLERK,"MALONE, JOANN",25
+Precinct 9,County Commissioner Seat 1,"BELL, EDWARD ""ROBIN""",48
+Precinct 9,County Commissioner Seat 1,"LEMICH, MICHAEL ""MIKE""",29
+Precinct 9,County Commissioner Seat 1,"WARD, JACK ""J.C.""",12
+Precinct 9,County Commissioner Seat 5,"LAMPROS, JOHN S.",17
+Precinct 9,County Commissioner Seat 5,"MAKLEY, RaLEENE",30
+Precinct 9,County Commissioner Seat 5,"WARD, WILLIAM ""BILL""",39
+Precinct 9,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",72
+Precinct 9,COUNTY TREASURER,"CORNUTT, BEVERLY",68
+Precinct 9,DISTRICT ATTORNEY,"BRIGGS, KEVIN",43
+Precinct 9,DISTRICT ATTORNEY,"BROWN, KELLY",36
+Precinct 9,Governor,"Curtis, David Scott",5
+Precinct 9,Governor,"DiSimone, Eugene ""Gino""",2
+Precinct 9,Governor,"Fitzgibbons, Floyd",1
+Precinct 9,Governor,"Honig, Aaron Y.",0
+Precinct 9,Governor,"Lampitt, Jr., Arthur Forest",1
+Precinct 9,Governor,None Of These Candidates,3
+Precinct 9,Governor,"Reid, Rory",19
+Precinct 9,Governor,"Sandoval, Brian",60
+Precinct 9,Lieutenant Governor,"Fitzgibbons, Ryan",8
+Precinct 9,Lieutenant Governor,"KROLICKI, BRIAN K.",38
+Precinct 9,Lieutenant Governor,None Of These Candidates,1
+Precinct 9,Lieutenant Governor,"Sferrazza, Jessica",42
+Precinct 9,Secretary Of State,"Lauer, Rob",40
+Precinct 9,Secretary Of State,"MILLER, ROSS",35
+Precinct 9,Secretary Of State,None Of These Candidates,4
+Precinct 9,Secretary Of State,"Wagner, John",10
+Precinct 9,"State Assembly, District 35","GOICOECHEA, PETE",65
+Precinct 9,"State Assembly, District 35","O'CONNOR, JOHN",24
+Precinct 9,State Controller,"Herr, Barry",31
+Precinct 9,State Controller,"Markowitz, Warren",13
+Precinct 9,State Controller,None Of These Candidates,7
+Precinct 9,State Controller,"WALLIN, KIM R.",38
+Precinct 9,State Treasurer,"Hawkins, Mike",14
+Precinct 9,State Treasurer,"MARSHALL, KATE",40
+Precinct 9,State Treasurer,"Martin, Steven E.",29
+Precinct 9,State Treasurer,None Of These Candidates,6
+Precinct 9,"Supreme Court Justice, Seat A","Hardesty, James W.",56
+Precinct 9,"Supreme Court Justice, Seat A",None Of These Candidates,21
+Precinct 9,"Supreme Court Justice, Seat E",None Of These Candidates,22
+Precinct 9,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",52
+Precinct 9,"U.S. Representative in Congress, District 2","Best, Russell",7
+Precinct 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",45
+Precinct 9,"U.S. Representative in Congress, District 2","Price, Nancy",37
+Precinct 9,United States Senator,"Angle, Sharron",53
+Precinct 9,United States Senator,"Ashjian, Scott",1
+Precinct 9,United States Senator,"Fasano, Tim",1
+Precinct 9,United States Senator,"Haines, Michael L.",0
+Precinct 9,United States Senator,"Holland, Jesse",0
+Precinct 9,United States Senator,None Of These Candidates,1
+Precinct 9,United States Senator,"Reeves, Jeffrey C.",1
+Precinct 9,United States Senator,"REID, HARRY",33
+Precinct 9,United States Senator,"Stand, Wil",1
+Precinct 9,"University Board of Regents, District  8","MELCHER, KEVIN C.",20
+Precinct 9,"University Board of Regents, District  8","PUCCINELLI, MARGARET",55
+Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",
+Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
+Precinct 99,"U.S. Representative in Congress, District 2","Price, Nancy",
+Precinct 99,United States Senator,"Angle, Sharron",
+Precinct 99,United States Senator,"Ashjian, Scott",
+Precinct 99,United States Senator,"Fasano, Tim",
+Precinct 99,United States Senator,"Haines, Michael L.",
+Precinct 99,United States Senator,"Holland, Jesse",
+Precinct 99,United States Senator,None Of These Candidates,
+Precinct 99,United States Senator,"Reeves, Jeffrey C.",
+Precinct 99,United States Senator,"REID, HARRY",
+Precinct 99,United States Senator,"Stand, Wil",

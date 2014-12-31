@@ -1,0 +1,390 @@
+precinct,office,candidate,votes
+PRECINCT 1,Attorney General (Republican),"Barrick, Travis",114
+PRECINCT 1,Attorney General (Republican),"Hafter, Jacob",72
+PRECINCT 1,Attorney General (Republican),None Of These Candidates,81
+PRECINCT 1,County Comm. Seat C (Democratic),"ANDERSON, JAMES LYLE ""SAM""",57
+PRECINCT 1,County Comm. Seat C (Democratic),"GILDER, MICHELLE",84
+PRECINCT 1,County Comm. Seat C (Republican),"BENOLKIN, ANDREW C.",69
+PRECINCT 1,County Comm. Seat C (Republican),"SHANK, CAROL A.",101
+PRECINCT 1,County Comm. Seat C (Republican),"WESNER, BING GEORGE",106
+PRECINCT 1,County Sheriff - PERSHING - (Nonpartisan),"BURROWS, ROBERT",24
+PRECINCT 1,County Sheriff - PERSHING - (Nonpartisan),"GREATHOUSE, JORDAN",36
+PRECINCT 1,County Sheriff - PERSHING - (Nonpartisan),"HAHN, TIMOTHY",9
+PRECINCT 1,County Sheriff - PERSHING - (Nonpartisan),"MACHADO, RICHARD",147
+PRECINCT 1,County Sheriff - PERSHING - (Nonpartisan),"MANCEBO, MICHAEL",81
+PRECINCT 1,County Sheriff - PERSHING - (Nonpartisan),"SKINNER, RON",167
+PRECINCT 1,Governor (Democratic),"Conquest, Frederick L.",34
+PRECINCT 1,Governor (Democratic),None Of These Candidates,51
+PRECINCT 1,Governor (Democratic),"Reid, Rory",55
+PRECINCT 1,Governor (Republican),"Atwood, Tony",0
+PRECINCT 1,Governor (Republican),"GIBBONS, JIM",89
+PRECINCT 1,Governor (Republican),"Lusak, Stanleigh Harold",1
+PRECINCT 1,Governor (Republican),"Montandon, Michael L.",34
+PRECINCT 1,Governor (Republican),None Of These Candidates,8
+PRECINCT 1,Governor (Republican),"Sandoval, Brian",145
+PRECINCT 1,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",13
+PRECINCT 1,Lieutenant Governor (Democratic),"Murad, Paul",2
+PRECINCT 1,Lieutenant Governor (Democratic),None Of These Candidates,29
+PRECINCT 1,Lieutenant Governor (Democratic),"Randazzo, Robert S.",11
+PRECINCT 1,Lieutenant Governor (Democratic),"Sferrazza, Jessica",84
+PRECINCT 1,Lieutenant Governor (Republican),"Krolicki, Brian",201
+PRECINCT 1,Lieutenant Governor (Republican),None Of These Candidates,22
+PRECINCT 1,Lieutenant Governor (Republican),"Woollen, Barbara Lee",49
+PRECINCT 1,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",365
+PRECINCT 1,State Controller (Republican),"Dagani, Gregory Nance",77
+PRECINCT 1,State Controller (Republican),"Herr, Barry",89
+PRECINCT 1,State Controller (Republican),None Of These Candidates,100
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",13
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",64
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",44
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",39
+PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",233
+PRECINCT 1,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",8
+PRECINCT 1,United States Senator (Democratic),"Miller, Alex",25
+PRECINCT 1,United States Senator (Democratic),None Of These Candidates,38
+PRECINCT 1,United States Senator (Democratic),"Poliak, Carlo",6
+PRECINCT 1,United States Senator (Democratic),"Reid, Harry",64
+PRECINCT 1,United States Senator (Republican),"Angle, Sharron",57
+PRECINCT 1,United States Senator (Republican),"Bernstein, Gary",0
+PRECINCT 1,United States Senator (Republican),"Chachas, John",33
+PRECINCT 1,United States Senator (Republican),"Christensen, Chad",3
+PRECINCT 1,United States Senator (Republican),"Lowden, Sue",57
+PRECINCT 1,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 1,United States Senator (Republican),"Marinch, Gary",1
+PRECINCT 1,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 1,United States Senator (Republican),None Of These Candidates,7
+PRECINCT 1,United States Senator (Republican),"Parson, Bill",4
+PRECINCT 1,United States Senator (Republican),"Stern, Cecilia",1
+PRECINCT 1,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 1,United States Senator (Republican),"Tarkanian, Danny",111
+PRECINCT 1,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",92
+PRECINCT 1,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",156
+PRECINCT 1,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",156
+PRECINCT 3,Attorney General (Republican),"Barrick, Travis",47
+PRECINCT 3,Attorney General (Republican),"Hafter, Jacob",30
+PRECINCT 3,Attorney General (Republican),None Of These Candidates,49
+PRECINCT 3,County Comm. Seat C (Democratic),"ANDERSON, JAMES LYLE ""SAM""",41
+PRECINCT 3,County Comm. Seat C (Democratic),"GILDER, MICHELLE",72
+PRECINCT 3,County Comm. Seat C (Republican),"BENOLKIN, ANDREW C.",38
+PRECINCT 3,County Comm. Seat C (Republican),"SHANK, CAROL A.",54
+PRECINCT 3,County Comm. Seat C (Republican),"WESNER, BING GEORGE",35
+PRECINCT 3,County Sheriff - PERSHING - (Nonpartisan),"BURROWS, ROBERT",5
+PRECINCT 3,County Sheriff - PERSHING - (Nonpartisan),"GREATHOUSE, JORDAN",24
+PRECINCT 3,County Sheriff - PERSHING - (Nonpartisan),"HAHN, TIMOTHY",15
+PRECINCT 3,County Sheriff - PERSHING - (Nonpartisan),"MACHADO, RICHARD",78
+PRECINCT 3,County Sheriff - PERSHING - (Nonpartisan),"MANCEBO, MICHAEL",74
+PRECINCT 3,County Sheriff - PERSHING - (Nonpartisan),"SKINNER, RON",85
+PRECINCT 3,Governor (Democratic),"Conquest, Frederick L.",16
+PRECINCT 3,Governor (Democratic),None Of These Candidates,39
+PRECINCT 3,Governor (Democratic),"Reid, Rory",56
+PRECINCT 3,Governor (Republican),"Atwood, Tony",1
+PRECINCT 3,Governor (Republican),"GIBBONS, JIM",42
+PRECINCT 3,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 3,Governor (Republican),"Montandon, Michael L.",8
+PRECINCT 3,Governor (Republican),None Of These Candidates,4
+PRECINCT 3,Governor (Republican),"Sandoval, Brian",78
+PRECINCT 3,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",8
+PRECINCT 3,Lieutenant Governor (Democratic),"Murad, Paul",5
+PRECINCT 3,Lieutenant Governor (Democratic),None Of These Candidates,13
+PRECINCT 3,Lieutenant Governor (Democratic),"Randazzo, Robert S.",7
+PRECINCT 3,Lieutenant Governor (Democratic),"Sferrazza, Jessica",79
+PRECINCT 3,Lieutenant Governor (Republican),"Krolicki, Brian",99
+PRECINCT 3,Lieutenant Governor (Republican),None Of These Candidates,13
+PRECINCT 3,Lieutenant Governor (Republican),"Woollen, Barbara Lee",17
+PRECINCT 3,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",220
+PRECINCT 3,State Controller (Republican),"Dagani, Gregory Nance",30
+PRECINCT 3,State Controller (Republican),"Herr, Barry",44
+PRECINCT 3,State Controller (Republican),None Of These Candidates,52
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",11
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",54
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",43
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",19
+PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",113
+PRECINCT 3,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+PRECINCT 3,United States Senator (Democratic),"Miller, Alex",17
+PRECINCT 3,United States Senator (Democratic),None Of These Candidates,27
+PRECINCT 3,United States Senator (Democratic),"Poliak, Carlo",2
+PRECINCT 3,United States Senator (Democratic),"Reid, Harry",63
+PRECINCT 3,United States Senator (Republican),"Angle, Sharron",33
+PRECINCT 3,United States Senator (Republican),"Bernstein, Gary",2
+PRECINCT 3,United States Senator (Republican),"Chachas, John",10
+PRECINCT 3,United States Senator (Republican),"Christensen, Chad",6
+PRECINCT 3,United States Senator (Republican),"Lowden, Sue",17
+PRECINCT 3,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 3,United States Senator (Republican),"Marinch, Gary",0
+PRECINCT 3,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 3,United States Senator (Republican),None Of These Candidates,8
+PRECINCT 3,United States Senator (Republican),"Parson, Bill",1
+PRECINCT 3,United States Senator (Republican),"Stern, Cecilia",0
+PRECINCT 3,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 3,United States Senator (Republican),"Tarkanian, Danny",57
+PRECINCT 3,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",43
+PRECINCT 3,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",95
+PRECINCT 3,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",110
+PRECINCT 4,Attorney General (Republican),"Barrick, Travis",20
+PRECINCT 4,Attorney General (Republican),"Hafter, Jacob",18
+PRECINCT 4,Attorney General (Republican),None Of These Candidates,27
+PRECINCT 4,County Comm. Seat C (Democratic),"ANDERSON, JAMES LYLE ""SAM""",24
+PRECINCT 4,County Comm. Seat C (Democratic),"GILDER, MICHELLE",46
+PRECINCT 4,County Comm. Seat C (Republican),"BENOLKIN, ANDREW C.",13
+PRECINCT 4,County Comm. Seat C (Republican),"SHANK, CAROL A.",37
+PRECINCT 4,County Comm. Seat C (Republican),"WESNER, BING GEORGE",14
+PRECINCT 4,County Sheriff - PERSHING - (Nonpartisan),"BURROWS, ROBERT",8
+PRECINCT 4,County Sheriff - PERSHING - (Nonpartisan),"GREATHOUSE, JORDAN",15
+PRECINCT 4,County Sheriff - PERSHING - (Nonpartisan),"HAHN, TIMOTHY",4
+PRECINCT 4,County Sheriff - PERSHING - (Nonpartisan),"MACHADO, RICHARD",46
+PRECINCT 4,County Sheriff - PERSHING - (Nonpartisan),"MANCEBO, MICHAEL",37
+PRECINCT 4,County Sheriff - PERSHING - (Nonpartisan),"SKINNER, RON",67
+PRECINCT 4,Governor (Democratic),"Conquest, Frederick L.",11
+PRECINCT 4,Governor (Democratic),None Of These Candidates,25
+PRECINCT 4,Governor (Democratic),"Reid, Rory",36
+PRECINCT 4,Governor (Republican),"Atwood, Tony",1
+PRECINCT 4,Governor (Republican),"GIBBONS, JIM",12
+PRECINCT 4,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 4,Governor (Republican),"Montandon, Michael L.",14
+PRECINCT 4,Governor (Republican),None Of These Candidates,10
+PRECINCT 4,Governor (Republican),"Sandoval, Brian",30
+PRECINCT 4,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+PRECINCT 4,Lieutenant Governor (Democratic),"Murad, Paul",6
+PRECINCT 4,Lieutenant Governor (Democratic),None Of These Candidates,9
+PRECINCT 4,Lieutenant Governor (Democratic),"Randazzo, Robert S.",6
+PRECINCT 4,Lieutenant Governor (Democratic),"Sferrazza, Jessica",46
+PRECINCT 4,Lieutenant Governor (Republican),"Krolicki, Brian",45
+PRECINCT 4,Lieutenant Governor (Republican),None Of These Candidates,11
+PRECINCT 4,Lieutenant Governor (Republican),"Woollen, Barbara Lee",9
+PRECINCT 4,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",138
+PRECINCT 4,State Controller (Republican),"Dagani, Gregory Nance",9
+PRECINCT 4,State Controller (Republican),"Herr, Barry",27
+PRECINCT 4,State Controller (Republican),None Of These Candidates,29
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",8
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",39
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",18
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",17
+PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",48
+PRECINCT 4,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+PRECINCT 4,United States Senator (Democratic),"Miller, Alex",9
+PRECINCT 4,United States Senator (Democratic),None Of These Candidates,17
+PRECINCT 4,United States Senator (Democratic),"Poliak, Carlo",1
+PRECINCT 4,United States Senator (Democratic),"Reid, Harry",40
+PRECINCT 4,United States Senator (Republican),"Angle, Sharron",13
+PRECINCT 4,United States Senator (Republican),"Bernstein, Gary",0
+PRECINCT 4,United States Senator (Republican),"Chachas, John",4
+PRECINCT 4,United States Senator (Republican),"Christensen, Chad",2
+PRECINCT 4,United States Senator (Republican),"Lowden, Sue",8
+PRECINCT 4,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 4,United States Senator (Republican),"Marinch, Gary",0
+PRECINCT 4,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 4,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 4,United States Senator (Republican),"Parson, Bill",0
+PRECINCT 4,United States Senator (Republican),"Stern, Cecilia",1
+PRECINCT 4,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 4,United States Senator (Republican),"Tarkanian, Danny",33
+PRECINCT 4,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",33
+PRECINCT 4,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",61
+PRECINCT 4,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",49
+PRECINCT 5,Attorney General (Republican),"Barrick, Travis",19
+PRECINCT 5,Attorney General (Republican),"Hafter, Jacob",14
+PRECINCT 5,Attorney General (Republican),None Of These Candidates,3
+PRECINCT 5,County Comm. Seat C (Democratic),"ANDERSON, JAMES LYLE ""SAM""",12
+PRECINCT 5,County Comm. Seat C (Democratic),"GILDER, MICHELLE",13
+PRECINCT 5,County Comm. Seat C (Republican),"BENOLKIN, ANDREW C.",6
+PRECINCT 5,County Comm. Seat C (Republican),"SHANK, CAROL A.",26
+PRECINCT 5,County Comm. Seat C (Republican),"WESNER, BING GEORGE",5
+PRECINCT 5,County Sheriff - PERSHING - (Nonpartisan),"BURROWS, ROBERT",1
+PRECINCT 5,County Sheriff - PERSHING - (Nonpartisan),"GREATHOUSE, JORDAN",2
+PRECINCT 5,County Sheriff - PERSHING - (Nonpartisan),"HAHN, TIMOTHY",4
+PRECINCT 5,County Sheriff - PERSHING - (Nonpartisan),"MACHADO, RICHARD",20
+PRECINCT 5,County Sheriff - PERSHING - (Nonpartisan),"MANCEBO, MICHAEL",3
+PRECINCT 5,County Sheriff - PERSHING - (Nonpartisan),"SKINNER, RON",54
+PRECINCT 5,Governor (Democratic),"Conquest, Frederick L.",7
+PRECINCT 5,Governor (Democratic),None Of These Candidates,9
+PRECINCT 5,Governor (Democratic),"Reid, Rory",10
+PRECINCT 5,Governor (Republican),"Atwood, Tony",0
+PRECINCT 5,Governor (Republican),"GIBBONS, JIM",25
+PRECINCT 5,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 5,Governor (Republican),"Montandon, Michael L.",3
+PRECINCT 5,Governor (Republican),None Of These Candidates,1
+PRECINCT 5,Governor (Republican),"Sandoval, Brian",8
+PRECINCT 5,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+PRECINCT 5,Lieutenant Governor (Democratic),"Murad, Paul",4
+PRECINCT 5,Lieutenant Governor (Democratic),None Of These Candidates,6
+PRECINCT 5,Lieutenant Governor (Democratic),"Randazzo, Robert S.",5
+PRECINCT 5,Lieutenant Governor (Democratic),"Sferrazza, Jessica",8
+PRECINCT 5,Lieutenant Governor (Republican),"Krolicki, Brian",20
+PRECINCT 5,Lieutenant Governor (Republican),None Of These Candidates,3
+PRECINCT 5,Lieutenant Governor (Republican),"Woollen, Barbara Lee",14
+PRECINCT 5,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",68
+PRECINCT 5,State Controller (Republican),"Dagani, Gregory Nance",11
+PRECINCT 5,State Controller (Republican),"Herr, Barry",23
+PRECINCT 5,State Controller (Republican),None Of These Candidates,2
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",4
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",12
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",8
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",8
+PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",30
+PRECINCT 5,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+PRECINCT 5,United States Senator (Democratic),"Miller, Alex",5
+PRECINCT 5,United States Senator (Democratic),None Of These Candidates,6
+PRECINCT 5,United States Senator (Democratic),"Poliak, Carlo",1
+PRECINCT 5,United States Senator (Democratic),"Reid, Harry",13
+PRECINCT 5,United States Senator (Republican),"Angle, Sharron",12
+PRECINCT 5,United States Senator (Republican),"Bernstein, Gary",0
+PRECINCT 5,United States Senator (Republican),"Chachas, John",4
+PRECINCT 5,United States Senator (Republican),"Christensen, Chad",2
+PRECINCT 5,United States Senator (Republican),"Lowden, Sue",8
+PRECINCT 5,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 5,United States Senator (Republican),"Marinch, Gary",0
+PRECINCT 5,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 5,United States Senator (Republican),None Of These Candidates,0
+PRECINCT 5,United States Senator (Republican),"Parson, Bill",1
+PRECINCT 5,United States Senator (Republican),"Stern, Cecilia",0
+PRECINCT 5,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 5,United States Senator (Republican),"Tarkanian, Danny",11
+PRECINCT 5,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",15
+PRECINCT 5,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",26
+PRECINCT 5,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",34
+PRECINCT 6,Attorney General (Republican),"Barrick, Travis",39
+PRECINCT 6,Attorney General (Republican),"Hafter, Jacob",23
+PRECINCT 6,Attorney General (Republican),None Of These Candidates,24
+PRECINCT 6,County Comm. Seat C (Democratic),"ANDERSON, JAMES LYLE ""SAM""",13
+PRECINCT 6,County Comm. Seat C (Democratic),"GILDER, MICHELLE",16
+PRECINCT 6,County Comm. Seat C (Republican),"BENOLKIN, ANDREW C.",27
+PRECINCT 6,County Comm. Seat C (Republican),"SHANK, CAROL A.",40
+PRECINCT 6,County Comm. Seat C (Republican),"WESNER, BING GEORGE",15
+PRECINCT 6,County Sheriff - PERSHING - (Nonpartisan),"BURROWS, ROBERT",0
+PRECINCT 6,County Sheriff - PERSHING - (Nonpartisan),"GREATHOUSE, JORDAN",0
+PRECINCT 6,County Sheriff - PERSHING - (Nonpartisan),"HAHN, TIMOTHY",1
+PRECINCT 6,County Sheriff - PERSHING - (Nonpartisan),"MACHADO, RICHARD",31
+PRECINCT 6,County Sheriff - PERSHING - (Nonpartisan),"MANCEBO, MICHAEL",13
+PRECINCT 6,County Sheriff - PERSHING - (Nonpartisan),"SKINNER, RON",104
+PRECINCT 6,Governor (Democratic),"Conquest, Frederick L.",11
+PRECINCT 6,Governor (Democratic),None Of These Candidates,7
+PRECINCT 6,Governor (Democratic),"Reid, Rory",14
+PRECINCT 6,Governor (Republican),"Atwood, Tony",2
+PRECINCT 6,Governor (Republican),"GIBBONS, JIM",41
+PRECINCT 6,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 6,Governor (Republican),"Montandon, Michael L.",8
+PRECINCT 6,Governor (Republican),None Of These Candidates,1
+PRECINCT 6,Governor (Republican),"Sandoval, Brian",38
+PRECINCT 6,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",6
+PRECINCT 6,Lieutenant Governor (Democratic),"Murad, Paul",4
+PRECINCT 6,Lieutenant Governor (Democratic),None Of These Candidates,1
+PRECINCT 6,Lieutenant Governor (Democratic),"Randazzo, Robert S.",6
+PRECINCT 6,Lieutenant Governor (Democratic),"Sferrazza, Jessica",14
+PRECINCT 6,Lieutenant Governor (Republican),"Krolicki, Brian",53
+PRECINCT 6,Lieutenant Governor (Republican),None Of These Candidates,11
+PRECINCT 6,Lieutenant Governor (Republican),"Woollen, Barbara Lee",24
+PRECINCT 6,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",116
+PRECINCT 6,State Controller (Republican),"Dagani, Gregory Nance",18
+PRECINCT 6,State Controller (Republican),"Herr, Barry",41
+PRECINCT 6,State Controller (Republican),None Of These Candidates,25
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",7
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",13
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",9
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",15
+PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",74
+PRECINCT 6,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+PRECINCT 6,United States Senator (Democratic),"Miller, Alex",4
+PRECINCT 6,United States Senator (Democratic),None Of These Candidates,1
+PRECINCT 6,United States Senator (Democratic),"Poliak, Carlo",1
+PRECINCT 6,United States Senator (Democratic),"Reid, Harry",21
+PRECINCT 6,United States Senator (Republican),"Angle, Sharron",46
+PRECINCT 6,United States Senator (Republican),"Bernstein, Gary",0
+PRECINCT 6,United States Senator (Republican),"Chachas, John",1
+PRECINCT 6,United States Senator (Republican),"Christensen, Chad",2
+PRECINCT 6,United States Senator (Republican),"Lowden, Sue",16
+PRECINCT 6,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 6,United States Senator (Republican),"Marinch, Gary",0
+PRECINCT 6,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 6,United States Senator (Republican),None Of These Candidates,1
+PRECINCT 6,United States Senator (Republican),"Parson, Bill",2
+PRECINCT 6,United States Senator (Republican),"Stern, Cecilia",0
+PRECINCT 6,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 6,United States Senator (Republican),"Tarkanian, Danny",23
+PRECINCT 6,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",25
+PRECINCT 6,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",51
+PRECINCT 6,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",44
+PRECINCT 7,Attorney General (Republican),"Barrick, Travis",41
+PRECINCT 7,Attorney General (Republican),"Hafter, Jacob",31
+PRECINCT 7,Attorney General (Republican),None Of These Candidates,27
+PRECINCT 7,County Comm. Seat C (Democratic),"ANDERSON, JAMES LYLE ""SAM""",16
+PRECINCT 7,County Comm. Seat C (Democratic),"GILDER, MICHELLE",20
+PRECINCT 7,County Comm. Seat C (Republican),"BENOLKIN, ANDREW C.",27
+PRECINCT 7,County Comm. Seat C (Republican),"SHANK, CAROL A.",42
+PRECINCT 7,County Comm. Seat C (Republican),"WESNER, BING GEORGE",31
+PRECINCT 7,County Sheriff - PERSHING - (Nonpartisan),"BURROWS, ROBERT",7
+PRECINCT 7,County Sheriff - PERSHING - (Nonpartisan),"GREATHOUSE, JORDAN",3
+PRECINCT 7,County Sheriff - PERSHING - (Nonpartisan),"HAHN, TIMOTHY",4
+PRECINCT 7,County Sheriff - PERSHING - (Nonpartisan),"MACHADO, RICHARD",27
+PRECINCT 7,County Sheriff - PERSHING - (Nonpartisan),"MANCEBO, MICHAEL",22
+PRECINCT 7,County Sheriff - PERSHING - (Nonpartisan),"SKINNER, RON",96
+PRECINCT 7,Governor (Democratic),"Conquest, Frederick L.",7
+PRECINCT 7,Governor (Democratic),None Of These Candidates,12
+PRECINCT 7,Governor (Democratic),"Reid, Rory",18
+PRECINCT 7,Governor (Republican),"Atwood, Tony",2
+PRECINCT 7,Governor (Republican),"GIBBONS, JIM",34
+PRECINCT 7,Governor (Republican),"Lusak, Stanleigh Harold",0
+PRECINCT 7,Governor (Republican),"Montandon, Michael L.",8
+PRECINCT 7,Governor (Republican),None Of These Candidates,6
+PRECINCT 7,Governor (Republican),"Sandoval, Brian",51
+PRECINCT 7,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",6
+PRECINCT 7,Lieutenant Governor (Democratic),"Murad, Paul",4
+PRECINCT 7,Lieutenant Governor (Democratic),None Of These Candidates,8
+PRECINCT 7,Lieutenant Governor (Democratic),"Randazzo, Robert S.",4
+PRECINCT 7,Lieutenant Governor (Democratic),"Sferrazza, Jessica",14
+PRECINCT 7,Lieutenant Governor (Republican),"Krolicki, Brian",69
+PRECINCT 7,Lieutenant Governor (Republican),None Of These Candidates,9
+PRECINCT 7,Lieutenant Governor (Republican),"Woollen, Barbara Lee",22
+PRECINCT 7,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",122
+PRECINCT 7,State Controller (Republican),"Dagani, Gregory Nance",19
+PRECINCT 7,State Controller (Republican),"Herr, Barry",52
+PRECINCT 7,State Controller (Republican),None Of These Candidates,25
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",8
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",10
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",16
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",16
+PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",84
+PRECINCT 7,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+PRECINCT 7,United States Senator (Democratic),"Miller, Alex",3
+PRECINCT 7,United States Senator (Democratic),None Of These Candidates,9
+PRECINCT 7,United States Senator (Democratic),"Poliak, Carlo",0
+PRECINCT 7,United States Senator (Democratic),"Reid, Harry",20
+PRECINCT 7,United States Senator (Republican),"Angle, Sharron",37
+PRECINCT 7,United States Senator (Republican),"Bernstein, Gary",1
+PRECINCT 7,United States Senator (Republican),"Chachas, John",9
+PRECINCT 7,United States Senator (Republican),"Christensen, Chad",0
+PRECINCT 7,United States Senator (Republican),"Lowden, Sue",15
+PRECINCT 7,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 7,United States Senator (Republican),"Marinch, Gary",1
+PRECINCT 7,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 7,United States Senator (Republican),None Of These Candidates,1
+PRECINCT 7,United States Senator (Republican),"Parson, Bill",2
+PRECINCT 7,United States Senator (Republican),"Stern, Cecilia",0
+PRECINCT 7,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 7,United States Senator (Republican),"Tarkanian, Danny",34
+PRECINCT 7,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",36
+PRECINCT 7,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",41
+PRECINCT 7,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",53
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+PRECINCT 99,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+PRECINCT 99,United States Senator (Democratic),"Miller, Alex",0
+PRECINCT 99,United States Senator (Democratic),None Of These Candidates,0
+PRECINCT 99,United States Senator (Democratic),"Poliak, Carlo",0
+PRECINCT 99,United States Senator (Democratic),"Reid, Harry",0
+PRECINCT 99,United States Senator (Republican),"Angle, Sharron",0
+PRECINCT 99,United States Senator (Republican),"Bernstein, Gary",0
+PRECINCT 99,United States Senator (Republican),"Chachas, John",0
+PRECINCT 99,United States Senator (Republican),"Christensen, Chad",0
+PRECINCT 99,United States Senator (Republican),"Lowden, Sue",0
+PRECINCT 99,United States Senator (Republican),"Mabey, Garn",0
+PRECINCT 99,United States Senator (Republican),"Marinch, Gary",0
+PRECINCT 99,United States Senator (Republican),"Nadell, Brian",0
+PRECINCT 99,United States Senator (Republican),None Of These Candidates,0
+PRECINCT 99,United States Senator (Republican),"Parson, Bill",0
+PRECINCT 99,United States Senator (Republican),"Stern, Cecilia",0
+PRECINCT 99,United States Senator (Republican),"Suominen, Terry",0
+PRECINCT 99,United States Senator (Republican),"Tarkanian, Danny",0

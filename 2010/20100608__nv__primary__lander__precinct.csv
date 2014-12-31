@@ -1,0 +1,605 @@
+precinct,office,candidate,votes
+Argenta 01,Attorney General (Republican),"Barrick, Travis",85
+Argenta 01,Attorney General (Republican),"Hafter, Jacob",39
+Argenta 01,Attorney General (Republican),None Of These Candidates,37
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",61
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",31
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",3
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",38
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",37
+Argenta 01,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",117
+Argenta 01,DISTRICT ATTORNEY (Republican),"FORGERON, HY",51
+Argenta 01,DISTRICT ATTORNEY (Republican),"TANNER, MILO",2
+Argenta 01,Governor (Democratic),"Conquest, Frederick L.",12
+Argenta 01,Governor (Democratic),None Of These Candidates,24
+Argenta 01,Governor (Democratic),"Reid, Rory",23
+Argenta 01,Governor (Republican),"Atwood, Tony",5
+Argenta 01,Governor (Republican),"GIBBONS, JIM",64
+Argenta 01,Governor (Republican),"Lusak, Stanleigh Harold",1
+Argenta 01,Governor (Republican),"Montandon, Michael L.",12
+Argenta 01,Governor (Republican),None Of These Candidates,5
+Argenta 01,Governor (Republican),"Sandoval, Brian",82
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",222
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",223
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",221
+Argenta 01,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",223
+Argenta 01,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",90
+Argenta 01,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",18
+Argenta 01,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",138
+Argenta 01,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Argenta 01,Lieutenant Governor (Democratic),"Murad, Paul",5
+Argenta 01,Lieutenant Governor (Democratic),None Of These Candidates,8
+Argenta 01,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Argenta 01,Lieutenant Governor (Democratic),"Sferrazza, Jessica",42
+Argenta 01,Lieutenant Governor (Republican),"Krolicki, Brian",107
+Argenta 01,Lieutenant Governor (Republican),None Of These Candidates,21
+Argenta 01,Lieutenant Governor (Republican),"Woollen, Barbara Lee",35
+Argenta 01,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",34
+Argenta 01,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",78
+Argenta 01,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",4
+Argenta 01,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",12
+Argenta 01,Sheriff - LANDER (Nonpartisan),"UNGER, RON",125
+Argenta 01,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",212
+Argenta 01,State Controller (Republican),"Dagani, Gregory Nance",51
+Argenta 01,State Controller (Republican),"Herr, Barry",63
+Argenta 01,State Controller (Republican),None Of These Candidates,45
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",8
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",22
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",23
+Argenta 01,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",32
+Argenta 01,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",130
+Argenta 01,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+Argenta 01,United States Senator (Democratic),"Miller, Alex",9
+Argenta 01,United States Senator (Democratic),None Of These Candidates,19
+Argenta 01,United States Senator (Democratic),"Poliak, Carlo",2
+Argenta 01,United States Senator (Democratic),"Reid, Harry",28
+Argenta 01,United States Senator (Republican),"Angle, Sharron",54
+Argenta 01,United States Senator (Republican),"Bernstein, Gary",1
+Argenta 01,United States Senator (Republican),"Chachas, John",20
+Argenta 01,United States Senator (Republican),"Christensen, Chad",5
+Argenta 01,United States Senator (Republican),"Lowden, Sue",27
+Argenta 01,United States Senator (Republican),"Mabey, Garn",0
+Argenta 01,United States Senator (Republican),"Marinch, Gary",0
+Argenta 01,United States Senator (Republican),"Nadell, Brian",0
+Argenta 01,United States Senator (Republican),None Of These Candidates,6
+Argenta 01,United States Senator (Republican),"Parson, Bill",0
+Argenta 01,United States Senator (Republican),"Stern, Cecilia",0
+Argenta 01,United States Senator (Republican),"Suominen, Terry",0
+Argenta 01,United States Senator (Republican),"Tarkanian, Danny",53
+Argenta 01,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",29
+Argenta 01,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",42
+Argenta 01,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",147
+Argenta 02,Attorney General (Republican),"Barrick, Travis",78
+Argenta 02,Attorney General (Republican),"Hafter, Jacob",39
+Argenta 02,Attorney General (Republican),None Of These Candidates,56
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",48
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",55
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",13
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",31
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",34
+Argenta 02,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",130
+Argenta 02,DISTRICT ATTORNEY (Republican),"FORGERON, HY",42
+Argenta 02,DISTRICT ATTORNEY (Republican),"TANNER, MILO",10
+Argenta 02,Governor (Democratic),"Conquest, Frederick L.",27
+Argenta 02,Governor (Democratic),None Of These Candidates,29
+Argenta 02,Governor (Democratic),"Reid, Rory",25
+Argenta 02,Governor (Republican),"Atwood, Tony",1
+Argenta 02,Governor (Republican),"GIBBONS, JIM",64
+Argenta 02,Governor (Republican),"Lusak, Stanleigh Harold",2
+Argenta 02,Governor (Republican),"Montandon, Michael L.",19
+Argenta 02,Governor (Republican),None Of These Candidates,7
+Argenta 02,Governor (Republican),"Sandoval, Brian",89
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",265
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",263
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",261
+Argenta 02,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",255
+Argenta 02,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",75
+Argenta 02,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",43
+Argenta 02,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",168
+Argenta 02,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Argenta 02,Lieutenant Governor (Democratic),"Murad, Paul",11
+Argenta 02,Lieutenant Governor (Democratic),None Of These Candidates,19
+Argenta 02,Lieutenant Governor (Democratic),"Randazzo, Robert S.",11
+Argenta 02,Lieutenant Governor (Democratic),"Sferrazza, Jessica",27
+Argenta 02,Lieutenant Governor (Republican),"Krolicki, Brian",98
+Argenta 02,Lieutenant Governor (Republican),None Of These Candidates,25
+Argenta 02,Lieutenant Governor (Republican),"Woollen, Barbara Lee",56
+Argenta 02,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",36
+Argenta 02,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",102
+Argenta 02,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",9
+Argenta 02,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",15
+Argenta 02,Sheriff - LANDER (Nonpartisan),"UNGER, RON",131
+Argenta 02,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",242
+Argenta 02,State Controller (Republican),"Dagani, Gregory Nance",54
+Argenta 02,State Controller (Republican),"Herr, Barry",64
+Argenta 02,State Controller (Republican),None Of These Candidates,56
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",5
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",32
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",36
+Argenta 02,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",33
+Argenta 02,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",149
+Argenta 02,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+Argenta 02,United States Senator (Democratic),"Miller, Alex",17
+Argenta 02,United States Senator (Democratic),None Of These Candidates,21
+Argenta 02,United States Senator (Democratic),"Poliak, Carlo",3
+Argenta 02,United States Senator (Democratic),"Reid, Harry",35
+Argenta 02,United States Senator (Republican),"Angle, Sharron",59
+Argenta 02,United States Senator (Republican),"Bernstein, Gary",0
+Argenta 02,United States Senator (Republican),"Chachas, John",19
+Argenta 02,United States Senator (Republican),"Christensen, Chad",7
+Argenta 02,United States Senator (Republican),"Lowden, Sue",38
+Argenta 02,United States Senator (Republican),"Mabey, Garn",1
+Argenta 02,United States Senator (Republican),"Marinch, Gary",0
+Argenta 02,United States Senator (Republican),"Nadell, Brian",0
+Argenta 02,United States Senator (Republican),None Of These Candidates,16
+Argenta 02,United States Senator (Republican),"Parson, Bill",4
+Argenta 02,United States Senator (Republican),"Stern, Cecilia",0
+Argenta 02,United States Senator (Republican),"Suominen, Terry",1
+Argenta 02,United States Senator (Republican),"Tarkanian, Danny",37
+Argenta 02,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",34
+Argenta 02,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",66
+Argenta 02,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",159
+Argenta 03,Attorney General (Republican),"Barrick, Travis",36
+Argenta 03,Attorney General (Republican),"Hafter, Jacob",10
+Argenta 03,Attorney General (Republican),None Of These Candidates,11
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",13
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",9
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",2
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",23
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",11
+Argenta 03,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",56
+Argenta 03,DISTRICT ATTORNEY (Republican),"FORGERON, HY",2
+Argenta 03,DISTRICT ATTORNEY (Republican),"TANNER, MILO",0
+Argenta 03,Governor (Democratic),"Conquest, Frederick L.",4
+Argenta 03,Governor (Democratic),None Of These Candidates,9
+Argenta 03,Governor (Democratic),"Reid, Rory",7
+Argenta 03,Governor (Republican),"Atwood, Tony",0
+Argenta 03,Governor (Republican),"GIBBONS, JIM",20
+Argenta 03,Governor (Republican),"Lusak, Stanleigh Harold",0
+Argenta 03,Governor (Republican),"Montandon, Michael L.",7
+Argenta 03,Governor (Republican),None Of These Candidates,2
+Argenta 03,Governor (Republican),"Sandoval, Brian",29
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",86
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",83
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",85
+Argenta 03,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",79
+Argenta 03,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",22
+Argenta 03,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",8
+Argenta 03,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",59
+Argenta 03,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Argenta 03,Lieutenant Governor (Democratic),"Murad, Paul",1
+Argenta 03,Lieutenant Governor (Democratic),None Of These Candidates,0
+Argenta 03,Lieutenant Governor (Democratic),"Randazzo, Robert S.",4
+Argenta 03,Lieutenant Governor (Democratic),"Sferrazza, Jessica",14
+Argenta 03,Lieutenant Governor (Republican),"Krolicki, Brian",44
+Argenta 03,Lieutenant Governor (Republican),None Of These Candidates,3
+Argenta 03,Lieutenant Governor (Republican),"Woollen, Barbara Lee",11
+Argenta 03,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",20
+Argenta 03,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",32
+Argenta 03,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",0
+Argenta 03,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",3
+Argenta 03,Sheriff - LANDER (Nonpartisan),"UNGER, RON",35
+Argenta 03,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",78
+Argenta 03,State Controller (Republican),"Dagani, Gregory Nance",15
+Argenta 03,State Controller (Republican),"Herr, Barry",30
+Argenta 03,State Controller (Republican),None Of These Candidates,13
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",5
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",9
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",4
+Argenta 03,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",17
+Argenta 03,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",41
+Argenta 03,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Argenta 03,United States Senator (Democratic),"Miller, Alex",5
+Argenta 03,United States Senator (Democratic),None Of These Candidates,5
+Argenta 03,United States Senator (Democratic),"Poliak, Carlo",1
+Argenta 03,United States Senator (Democratic),"Reid, Harry",11
+Argenta 03,United States Senator (Republican),"Angle, Sharron",11
+Argenta 03,United States Senator (Republican),"Bernstein, Gary",0
+Argenta 03,United States Senator (Republican),"Chachas, John",12
+Argenta 03,United States Senator (Republican),"Christensen, Chad",0
+Argenta 03,United States Senator (Republican),"Lowden, Sue",14
+Argenta 03,United States Senator (Republican),"Mabey, Garn",0
+Argenta 03,United States Senator (Republican),"Marinch, Gary",0
+Argenta 03,United States Senator (Republican),"Nadell, Brian",0
+Argenta 03,United States Senator (Republican),None Of These Candidates,6
+Argenta 03,United States Senator (Republican),"Parson, Bill",0
+Argenta 03,United States Senator (Republican),"Stern, Cecilia",0
+Argenta 03,United States Senator (Republican),"Suominen, Terry",0
+Argenta 03,United States Senator (Republican),"Tarkanian, Danny",15
+Argenta 03,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",10
+Argenta 03,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",20
+Argenta 03,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",51
+Argenta 04,Attorney General (Republican),"Barrick, Travis",80
+Argenta 04,Attorney General (Republican),"Hafter, Jacob",64
+Argenta 04,Attorney General (Republican),None Of These Candidates,46
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",44
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",36
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",14
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",50
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",56
+Argenta 04,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",147
+Argenta 04,DISTRICT ATTORNEY (Republican),"FORGERON, HY",51
+Argenta 04,DISTRICT ATTORNEY (Republican),"TANNER, MILO",2
+Argenta 04,Governor (Democratic),"Conquest, Frederick L.",17
+Argenta 04,Governor (Democratic),None Of These Candidates,20
+Argenta 04,Governor (Democratic),"Reid, Rory",20
+Argenta 04,Governor (Republican),"Atwood, Tony",1
+Argenta 04,Governor (Republican),"GIBBONS, JIM",62
+Argenta 04,Governor (Republican),"Lusak, Stanleigh Harold",1
+Argenta 04,Governor (Republican),"Montandon, Michael L.",18
+Argenta 04,Governor (Republican),None Of These Candidates,10
+Argenta 04,Governor (Republican),"Sandoval, Brian",110
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",267
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",264
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",270
+Argenta 04,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",263
+Argenta 04,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",86
+Argenta 04,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",38
+Argenta 04,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",166
+Argenta 04,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",7
+Argenta 04,Lieutenant Governor (Democratic),"Murad, Paul",6
+Argenta 04,Lieutenant Governor (Democratic),None Of These Candidates,13
+Argenta 04,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Argenta 04,Lieutenant Governor (Democratic),"Sferrazza, Jessica",29
+Argenta 04,Lieutenant Governor (Republican),"Krolicki, Brian",122
+Argenta 04,Lieutenant Governor (Republican),None Of These Candidates,20
+Argenta 04,Lieutenant Governor (Republican),"Woollen, Barbara Lee",56
+Argenta 04,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",45
+Argenta 04,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",64
+Argenta 04,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",3
+Argenta 04,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",8
+Argenta 04,Sheriff - LANDER (Nonpartisan),"UNGER, RON",178
+Argenta 04,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",255
+Argenta 04,State Controller (Republican),"Dagani, Gregory Nance",48
+Argenta 04,State Controller (Republican),"Herr, Barry",89
+Argenta 04,State Controller (Republican),None Of These Candidates,54
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",5
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",20
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",30
+Argenta 04,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",48
+Argenta 04,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",152
+Argenta 04,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Argenta 04,United States Senator (Democratic),"Miller, Alex",15
+Argenta 04,United States Senator (Democratic),None Of These Candidates,16
+Argenta 04,United States Senator (Democratic),"Poliak, Carlo",3
+Argenta 04,United States Senator (Democratic),"Reid, Harry",21
+Argenta 04,United States Senator (Republican),"Angle, Sharron",78
+Argenta 04,United States Senator (Republican),"Bernstein, Gary",4
+Argenta 04,United States Senator (Republican),"Chachas, John",19
+Argenta 04,United States Senator (Republican),"Christensen, Chad",7
+Argenta 04,United States Senator (Republican),"Lowden, Sue",36
+Argenta 04,United States Senator (Republican),"Mabey, Garn",0
+Argenta 04,United States Senator (Republican),"Marinch, Gary",0
+Argenta 04,United States Senator (Republican),"Nadell, Brian",0
+Argenta 04,United States Senator (Republican),None Of These Candidates,9
+Argenta 04,United States Senator (Republican),"Parson, Bill",0
+Argenta 04,United States Senator (Republican),"Stern, Cecilia",0
+Argenta 04,United States Senator (Republican),"Suominen, Terry",0
+Argenta 04,United States Senator (Republican),"Tarkanian, Danny",48
+Argenta 04,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",41
+Argenta 04,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",70
+Argenta 04,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",158
+Argenta 05,Attorney General (Republican),"Barrick, Travis",72
+Argenta 05,Attorney General (Republican),"Hafter, Jacob",46
+Argenta 05,Attorney General (Republican),None Of These Candidates,41
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",34
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",28
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",5
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",45
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",54
+Argenta 05,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",119
+Argenta 05,DISTRICT ATTORNEY (Republican),"FORGERON, HY",40
+Argenta 05,DISTRICT ATTORNEY (Republican),"TANNER, MILO",6
+Argenta 05,Governor (Democratic),"Conquest, Frederick L.",27
+Argenta 05,Governor (Democratic),None Of These Candidates,19
+Argenta 05,Governor (Democratic),"Reid, Rory",22
+Argenta 05,Governor (Republican),"Atwood, Tony",2
+Argenta 05,Governor (Republican),"GIBBONS, JIM",61
+Argenta 05,Governor (Republican),"Lusak, Stanleigh Harold",1
+Argenta 05,Governor (Republican),"Montandon, Michael L.",21
+Argenta 05,Governor (Republican),None Of These Candidates,5
+Argenta 05,Governor (Republican),"Sandoval, Brian",71
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",239
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",236
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",237
+Argenta 05,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",226
+Argenta 05,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",75
+Argenta 05,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",29
+Argenta 05,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",152
+Argenta 05,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",13
+Argenta 05,Lieutenant Governor (Democratic),"Murad, Paul",7
+Argenta 05,Lieutenant Governor (Democratic),None Of These Candidates,9
+Argenta 05,Lieutenant Governor (Democratic),"Randazzo, Robert S.",3
+Argenta 05,Lieutenant Governor (Democratic),"Sferrazza, Jessica",36
+Argenta 05,Lieutenant Governor (Republican),"Krolicki, Brian",100
+Argenta 05,Lieutenant Governor (Republican),None Of These Candidates,13
+Argenta 05,Lieutenant Governor (Republican),"Woollen, Barbara Lee",45
+Argenta 05,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",39
+Argenta 05,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",85
+Argenta 05,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",2
+Argenta 05,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",4
+Argenta 05,Sheriff - LANDER (Nonpartisan),"UNGER, RON",134
+Argenta 05,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",224
+Argenta 05,State Controller (Republican),"Dagani, Gregory Nance",44
+Argenta 05,State Controller (Republican),"Herr, Barry",72
+Argenta 05,State Controller (Republican),None Of These Candidates,41
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",7
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",23
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",34
+Argenta 05,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",38
+Argenta 05,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",123
+Argenta 05,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+Argenta 05,United States Senator (Democratic),"Miller, Alex",23
+Argenta 05,United States Senator (Democratic),None Of These Candidates,16
+Argenta 05,United States Senator (Democratic),"Poliak, Carlo",2
+Argenta 05,United States Senator (Democratic),"Reid, Harry",23
+Argenta 05,United States Senator (Republican),"Angle, Sharron",42
+Argenta 05,United States Senator (Republican),"Bernstein, Gary",3
+Argenta 05,United States Senator (Republican),"Chachas, John",12
+Argenta 05,United States Senator (Republican),"Christensen, Chad",13
+Argenta 05,United States Senator (Republican),"Lowden, Sue",41
+Argenta 05,United States Senator (Republican),"Mabey, Garn",0
+Argenta 05,United States Senator (Republican),"Marinch, Gary",0
+Argenta 05,United States Senator (Republican),"Nadell, Brian",0
+Argenta 05,United States Senator (Republican),None Of These Candidates,12
+Argenta 05,United States Senator (Republican),"Parson, Bill",2
+Argenta 05,United States Senator (Republican),"Stern, Cecilia",1
+Argenta 05,United States Senator (Republican),"Suominen, Terry",1
+Argenta 05,United States Senator (Republican),"Tarkanian, Danny",38
+Argenta 05,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",43
+Argenta 05,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",46
+Argenta 05,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",150
+Austin 07,Attorney General (Republican),"Barrick, Travis",35
+Austin 07,Attorney General (Republican),"Hafter, Jacob",17
+Austin 07,Attorney General (Republican),None Of These Candidates,11
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",14
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",11
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",13
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",9
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",14
+Austin 07,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",34
+Austin 07,DISTRICT ATTORNEY (Republican),"FORGERON, HY",28
+Austin 07,DISTRICT ATTORNEY (Republican),"TANNER, MILO",2
+Austin 07,Governor (Democratic),"Conquest, Frederick L.",3
+Austin 07,Governor (Democratic),None Of These Candidates,7
+Austin 07,Governor (Democratic),"Reid, Rory",13
+Austin 07,Governor (Republican),"Atwood, Tony",3
+Austin 07,Governor (Republican),"GIBBONS, JIM",28
+Austin 07,Governor (Republican),"Lusak, Stanleigh Harold",0
+Austin 07,Governor (Republican),"Montandon, Michael L.",0
+Austin 07,Governor (Republican),None Of These Candidates,4
+Austin 07,Governor (Republican),"Sandoval, Brian",29
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",81
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",79
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",79
+Austin 07,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",72
+Austin 07,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",17
+Austin 07,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",24
+Austin 07,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",50
+Austin 07,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",1
+Austin 07,Lieutenant Governor (Democratic),"Murad, Paul",2
+Austin 07,Lieutenant Governor (Democratic),None Of These Candidates,5
+Austin 07,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Austin 07,Lieutenant Governor (Democratic),"Sferrazza, Jessica",13
+Austin 07,Lieutenant Governor (Republican),"Krolicki, Brian",44
+Austin 07,Lieutenant Governor (Republican),None Of These Candidates,6
+Austin 07,Lieutenant Governor (Republican),"Woollen, Barbara Lee",13
+Austin 07,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",2
+Austin 07,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",18
+Austin 07,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",1
+Austin 07,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",3
+Austin 07,Sheriff - LANDER (Nonpartisan),"UNGER, RON",67
+Austin 07,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",78
+Austin 07,State Controller (Republican),"Dagani, Gregory Nance",19
+Austin 07,State Controller (Republican),"Herr, Barry",29
+Austin 07,State Controller (Republican),None Of These Candidates,14
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",5
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",6
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",11
+Austin 07,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",11
+Austin 07,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",52
+Austin 07,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Austin 07,United States Senator (Democratic),"Miller, Alex",3
+Austin 07,United States Senator (Democratic),None Of These Candidates,6
+Austin 07,United States Senator (Democratic),"Poliak, Carlo",1
+Austin 07,United States Senator (Democratic),"Reid, Harry",11
+Austin 07,United States Senator (Republican),"Angle, Sharron",18
+Austin 07,United States Senator (Republican),"Bernstein, Gary",0
+Austin 07,United States Senator (Republican),"Chachas, John",2
+Austin 07,United States Senator (Republican),"Christensen, Chad",1
+Austin 07,United States Senator (Republican),"Lowden, Sue",18
+Austin 07,United States Senator (Republican),"Mabey, Garn",0
+Austin 07,United States Senator (Republican),"Marinch, Gary",1
+Austin 07,United States Senator (Republican),"Nadell, Brian",0
+Austin 07,United States Senator (Republican),None Of These Candidates,2
+Austin 07,United States Senator (Republican),"Parson, Bill",5
+Austin 07,United States Senator (Republican),"Stern, Cecilia",0
+Austin 07,United States Senator (Republican),"Suominen, Terry",0
+Austin 07,United States Senator (Republican),"Tarkanian, Danny",16
+Austin 07,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",10
+Austin 07,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",21
+Austin 07,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",50
+Gillman Springs Ranch 08,Attorney General (Republican),"Barrick, Travis",
+Gillman Springs Ranch 08,Attorney General (Republican),"Hafter, Jacob",
+Gillman Springs Ranch 08,Attorney General (Republican),None Of These Candidates,
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",
+Gillman Springs Ranch 08,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",
+Gillman Springs Ranch 08,DISTRICT ATTORNEY (Republican),"FORGERON, HY",
+Gillman Springs Ranch 08,DISTRICT ATTORNEY (Republican),"TANNER, MILO",
+Gillman Springs Ranch 08,Governor (Democratic),"Conquest, Frederick L.",
+Gillman Springs Ranch 08,Governor (Democratic),None Of These Candidates,
+Gillman Springs Ranch 08,Governor (Democratic),"Reid, Rory",
+Gillman Springs Ranch 08,Governor (Republican),"Atwood, Tony",
+Gillman Springs Ranch 08,Governor (Republican),"GIBBONS, JIM",
+Gillman Springs Ranch 08,Governor (Republican),"Lusak, Stanleigh Harold",
+Gillman Springs Ranch 08,Governor (Republican),"Montandon, Michael L.",
+Gillman Springs Ranch 08,Governor (Republican),None Of These Candidates,
+Gillman Springs Ranch 08,Governor (Republican),"Sandoval, Brian",
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",11
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",2
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",2
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",7
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),"Murad, Paul",
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),None Of These Candidates,
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),"Randazzo, Robert S.",
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),"Sferrazza, Jessica",
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),"Krolicki, Brian",
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),None Of These Candidates,
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),"Woollen, Barbara Lee",
+Gillman Springs Ranch 08,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",3
+Gillman Springs Ranch 08,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",0
+Gillman Springs Ranch 08,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",0
+Gillman Springs Ranch 08,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",0
+Gillman Springs Ranch 08,Sheriff - LANDER (Nonpartisan),"UNGER, RON",9
+Gillman Springs Ranch 08,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",
+Gillman Springs Ranch 08,State Controller (Republican),"Dagani, Gregory Nance",
+Gillman Springs Ranch 08,State Controller (Republican),"Herr, Barry",
+Gillman Springs Ranch 08,State Controller (Republican),None Of These Candidates,
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
+Gillman Springs Ranch 08,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",
+Gillman Springs Ranch 08,United States Senator (Democratic),"Miller, Alex",
+Gillman Springs Ranch 08,United States Senator (Democratic),None Of These Candidates,
+Gillman Springs Ranch 08,United States Senator (Democratic),"Poliak, Carlo",
+Gillman Springs Ranch 08,United States Senator (Democratic),"Reid, Harry",
+Gillman Springs Ranch 08,United States Senator (Republican),"Angle, Sharron",
+Gillman Springs Ranch 08,United States Senator (Republican),"Bernstein, Gary",
+Gillman Springs Ranch 08,United States Senator (Republican),"Chachas, John",
+Gillman Springs Ranch 08,United States Senator (Republican),"Christensen, Chad",
+Gillman Springs Ranch 08,United States Senator (Republican),"Lowden, Sue",
+Gillman Springs Ranch 08,United States Senator (Republican),"Mabey, Garn",
+Gillman Springs Ranch 08,United States Senator (Republican),"Marinch, Gary",
+Gillman Springs Ranch 08,United States Senator (Republican),"Nadell, Brian",
+Gillman Springs Ranch 08,United States Senator (Republican),None Of These Candidates,
+Gillman Springs Ranch 08,United States Senator (Republican),"Parson, Bill",
+Gillman Springs Ranch 08,United States Senator (Republican),"Stern, Cecilia",
+Gillman Springs Ranch 08,United States Senator (Republican),"Suominen, Terry",
+Gillman Springs Ranch 08,United States Senator (Republican),"Tarkanian, Danny",
+Gillman Springs Ranch 08,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",
+Gillman Springs Ranch 08,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",
+Gillman Springs Ranch 08,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",
+Kingston 09,Attorney General (Republican),"Barrick, Travis",19
+Kingston 09,Attorney General (Republican),"Hafter, Jacob",7
+Kingston 09,Attorney General (Republican),None Of These Candidates,3
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",4
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",7
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",3
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",8
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",7
+Kingston 09,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",20
+Kingston 09,DISTRICT ATTORNEY (Republican),"FORGERON, HY",6
+Kingston 09,DISTRICT ATTORNEY (Republican),"TANNER, MILO",6
+Kingston 09,Governor (Democratic),"Conquest, Frederick L.",
+Kingston 09,Governor (Democratic),None Of These Candidates,
+Kingston 09,Governor (Democratic),"Reid, Rory",
+Kingston 09,Governor (Republican),"Atwood, Tony",1
+Kingston 09,Governor (Republican),"GIBBONS, JIM",17
+Kingston 09,Governor (Republican),"Lusak, Stanleigh Harold",0
+Kingston 09,Governor (Republican),"Montandon, Michael L.",3
+Kingston 09,Governor (Republican),None Of These Candidates,2
+Kingston 09,Governor (Republican),"Sandoval, Brian",8
+Kingston 09,KINGSTON TOWN Board - Seat D - town (Nonpartisan),"MANHIRE, JUNE",59
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",53
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",47
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",48
+Kingston 09,"LANDER COUNTY School Trustee, Area FOUR (Nonpartisan)","THOMPSON, W. T.",47
+Kingston 09,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","LAKE, MARK",19
+Kingston 09,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","MCMURTREY, ERIN",14
+Kingston 09,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",19
+Kingston 09,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",
+Kingston 09,Lieutenant Governor (Democratic),"Murad, Paul",
+Kingston 09,Lieutenant Governor (Democratic),None Of These Candidates,
+Kingston 09,Lieutenant Governor (Democratic),"Randazzo, Robert S.",
+Kingston 09,Lieutenant Governor (Democratic),"Sferrazza, Jessica",
+Kingston 09,Lieutenant Governor (Republican),"Krolicki, Brian",20
+Kingston 09,Lieutenant Governor (Republican),None Of These Candidates,2
+Kingston 09,Lieutenant Governor (Republican),"Woollen, Barbara Lee",9
+Kingston 09,Sheriff - LANDER (Nonpartisan),"CASSELL, CHUCK",2
+Kingston 09,Sheriff - LANDER (Nonpartisan),"FLORES, PAT",8
+Kingston 09,Sheriff - LANDER (Nonpartisan),"JENNERJOHN, RICH",1
+Kingston 09,Sheriff - LANDER (Nonpartisan),"PRAWITZ, CHAD E.",3
+Kingston 09,Sheriff - LANDER (Nonpartisan),"UNGER, RON",49
+Kingston 09,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",48
+Kingston 09,State Controller (Republican),"Dagani, Gregory Nance",7
+Kingston 09,State Controller (Republican),"Herr, Barry",18
+Kingston 09,State Controller (Republican),None Of These Candidates,5
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
+Kingston 09,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",6
+Kingston 09,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",26
+Kingston 09,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",
+Kingston 09,United States Senator (Democratic),"Miller, Alex",
+Kingston 09,United States Senator (Democratic),None Of These Candidates,
+Kingston 09,United States Senator (Democratic),"Poliak, Carlo",
+Kingston 09,United States Senator (Democratic),"Reid, Harry",
+Kingston 09,United States Senator (Republican),"Angle, Sharron",7
+Kingston 09,United States Senator (Republican),"Bernstein, Gary",0
+Kingston 09,United States Senator (Republican),"Chachas, John",1
+Kingston 09,United States Senator (Republican),"Christensen, Chad",0
+Kingston 09,United States Senator (Republican),"Lowden, Sue",12
+Kingston 09,United States Senator (Republican),"Mabey, Garn",0
+Kingston 09,United States Senator (Republican),"Marinch, Gary",0
+Kingston 09,United States Senator (Republican),"Nadell, Brian",0
+Kingston 09,United States Senator (Republican),None Of These Candidates,0
+Kingston 09,United States Senator (Republican),"Parson, Bill",1
+Kingston 09,United States Senator (Republican),"Stern, Cecilia",0
+Kingston 09,United States Senator (Republican),"Suominen, Terry",0
+Kingston 09,United States Senator (Republican),"Tarkanian, Danny",11
+Kingston 09,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",9
+Kingston 09,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",23
+Kingston 09,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",21
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+Precinct 99,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 99,United States Senator (Democratic),"Miller, Alex",0
+Precinct 99,United States Senator (Democratic),None Of These Candidates,0
+Precinct 99,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 99,United States Senator (Democratic),"Reid, Harry",0
+Precinct 99,United States Senator (Republican),"Angle, Sharron",0
+Precinct 99,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 99,United States Senator (Republican),"Chachas, John",0
+Precinct 99,United States Senator (Republican),"Christensen, Chad",0
+Precinct 99,United States Senator (Republican),"Lowden, Sue",0
+Precinct 99,United States Senator (Republican),"Mabey, Garn",0
+Precinct 99,United States Senator (Republican),"Marinch, Gary",0
+Precinct 99,United States Senator (Republican),"Nadell, Brian",0
+Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,United States Senator (Republican),"Parson, Bill",0
+Precinct 99,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 99,United States Senator (Republican),"Suominen, Terry",0
+Precinct 99,United States Senator (Republican),"Tarkanian, Danny",0
+Southern Lander County 06,Attorney General (Republican),"Barrick, Travis",17
+Southern Lander County 06,Attorney General (Republican),"Hafter, Jacob",16
+Southern Lander County 06,Attorney General (Republican),None Of These Candidates,10
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",15
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",2
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"RODABOUGH, KELLY RAY",15
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"ROGERS, LARRY",2
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"SCHMIDT, CHRIS",9
+Southern Lander County 06,DISTRICT ATTORNEY (Republican),"ELQUIST, ANGIE M.",32
+Southern Lander County 06,DISTRICT ATTORNEY (Republican),"FORGERON, HY",9
+Southern Lander County 06,DISTRICT ATTORNEY (Republican),"TANNER, MILO",5
+Southern Lander County 06,Governor (Democratic),"Conquest, Frederick L.",
+Southern Lander County 06,Governor (Democratic),None Of These Candidates,
+Southern Lander County 06,Governor (Democratic),"Reid, Rory",
+Southern Lander County 06,Governor (Republican),"Atwood, Tony",0
+Southern Lander County 06,Governor (Republican),"GIBBONS, JIM",27
+Southern Lander County 06,United States Senator (Republican),"Tarkanian, Danny",13
+Southern Lander County 06,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",10
+Southern Lander County 06,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",7
+Southern Lander County 06,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",26

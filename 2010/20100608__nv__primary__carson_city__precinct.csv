@@ -1,0 +1,1806 @@
+precinct,office,candidate,votes
+Precinct 101,Attorney General (Republican),"Barrick, Travis",82
+Precinct 101,Attorney General (Republican),"Hafter, Jacob",50
+Precinct 101,Attorney General (Republican),None Of These Candidates,42
+Precinct 101,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",345
+Precinct 101,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",323
+Precinct 101,Governor (Democratic),"Conquest, Frederick L.",16
+Precinct 101,Governor (Democratic),None Of These Candidates,34
+Precinct 101,Governor (Democratic),"Reid, Rory",102
+Precinct 101,Governor (Republican),"Atwood, Tony",2
+Precinct 101,Governor (Republican),"GIBBONS, JIM",51
+Precinct 101,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 101,Governor (Republican),"Montandon, Michael L.",28
+Precinct 101,Governor (Republican),None Of These Candidates,8
+Precinct 101,Governor (Republican),"Sandoval, Brian",97
+Precinct 101,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",18
+Precinct 101,Lieutenant Governor (Democratic),"Murad, Paul",29
+Precinct 101,Lieutenant Governor (Democratic),None Of These Candidates,15
+Precinct 101,Lieutenant Governor (Democratic),"Randazzo, Robert S.",12
+Precinct 101,Lieutenant Governor (Democratic),"Sferrazza, Jessica",75
+Precinct 101,Lieutenant Governor (Republican),"Krolicki, Brian",148
+Precinct 101,Lieutenant Governor (Republican),None Of These Candidates,9
+Precinct 101,Lieutenant Governor (Republican),"Woollen, Barbara Lee",25
+Precinct 101,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",120
+Precinct 101,School Trustee District 1 (Nonpartisan),"KEETON, TOM",95
+Precinct 101,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",36
+Precinct 101,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",92
+Precinct 101,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",312
+Precinct 101,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",314
+Precinct 101,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",53
+Precinct 101,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",69
+Precinct 101,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",69
+Precinct 101,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",146
+Precinct 101,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",187
+Precinct 101,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",117
+Precinct 101,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",68
+Precinct 101,"State Assembly, District 40 (Republican)","CLEMENS, AMY",36
+Precinct 101,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",97
+Precinct 101,"State Assembly, District 40 (Republican)","UPTON, LYNDA",42
+Precinct 101,State Controller (Republican),"Dagani, Gregory Nance",59
+Precinct 101,State Controller (Republican),"Herr, Barry",67
+Precinct 101,State Controller (Republican),None Of These Candidates,46
+Precinct 101,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",143
+Precinct 101,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",31
+Precinct 101,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",117
+Precinct 101,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",74
+Precinct 101,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",32
+Precinct 101,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",55
+Precinct 101,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",36
+Precinct 101,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",46
+Precinct 101,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",167
+Precinct 103,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",29
+Precinct 103,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",184
+Precinct 103,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",471
+Precinct 103,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",465
+Precinct 103,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",76
+Precinct 103,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",119
+Precinct 103,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",152
+Precinct 103,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",160
+Precinct 103,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",341
+Precinct 103,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",162
+Precinct 103,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",86
+Precinct 103,"State Assembly, District 40 (Republican)","CLEMENS, AMY",66
+Precinct 103,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",176
+Precinct 103,"State Assembly, District 40 (Republican)","UPTON, LYNDA",91
+Precinct 103,State Controller (Republican),"Dagani, Gregory Nance",85
+Precinct 103,State Controller (Republican),"Herr, Barry",125
+Precinct 103,State Controller (Republican),None Of These Candidates,113
+Precinct 103,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",288
+Precinct 103,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",48
+Precinct 103,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",202
+Precinct 103,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",94
+Precinct 103,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",38
+Precinct 103,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",140
+Precinct 103,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",31
+Precinct 103,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",69
+Precinct 103,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",273
+Precinct 103,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",138
+Precinct 103,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",130
+Precinct 103,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",526
+Precinct 103,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",9
+Precinct 103,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",76
+Precinct 103,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",100
+Precinct 103,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",28
+Precinct 103,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",318
+Precinct 103,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+Precinct 103,United States Senator (Democratic),"Miller, Alex",10
+Precinct 103,United States Senator (Democratic),None Of These Candidates,31
+Precinct 103,United States Senator (Democratic),"Poliak, Carlo",2
+Precinct 103,United States Senator (Democratic),"Reid, Harry",163
+Precinct 103,United States Senator (Republican),"Angle, Sharron",122
+Precinct 103,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 103,United States Senator (Republican),"Chachas, John",29
+Precinct 103,United States Senator (Republican),"Christensen, Chad",9
+Precinct 103,United States Senator (Republican),"Lowden, Sue",91
+Precinct 103,United States Senator (Republican),"Mabey, Garn",2
+Precinct 103,United States Senator (Republican),"Marinch, Gary",0
+Precinct 103,United States Senator (Republican),"Nadell, Brian",0
+Precinct 103,United States Senator (Republican),None Of These Candidates,8
+Precinct 103,United States Senator (Republican),"Parson, Bill",2
+Precinct 103,United States Senator (Republican),"Stern, Cecilia",3
+Precinct 103,United States Senator (Republican),"Suominen, Terry",1
+Precinct 103,United States Senator (Republican),"Tarkanian, Danny",84
+Precinct 105,Attorney General (Republican),"Barrick, Travis",184
+Precinct 105,Attorney General (Republican),"Hafter, Jacob",124
+Precinct 105,Attorney General (Republican),None Of These Candidates,115
+Precinct 105,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",621
+Precinct 105,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",589
+Precinct 105,Governor (Democratic),"Conquest, Frederick L.",19
+Precinct 105,Governor (Democratic),None Of These Candidates,23
+Precinct 105,Governor (Democratic),"Reid, Rory",128
+Precinct 105,Governor (Republican),"Atwood, Tony",0
+Precinct 105,Governor (Republican),"GIBBONS, JIM",134
+Precinct 105,Governor (Republican),"Lusak, Stanleigh Harold",2
+Precinct 105,Governor (Republican),"Montandon, Michael L.",53
+Precinct 105,Governor (Republican),None Of These Candidates,7
+Precinct 105,Governor (Republican),"Sandoval, Brian",255
+Precinct 105,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",7
+Precinct 105,Lieutenant Governor (Democratic),"Murad, Paul",39
+Precinct 105,Lieutenant Governor (Democratic),None Of These Candidates,18
+Precinct 105,Lieutenant Governor (Democratic),"Randazzo, Robert S.",15
+Precinct 105,Lieutenant Governor (Democratic),"Sferrazza, Jessica",87
+Precinct 105,Lieutenant Governor (Republican),"Krolicki, Brian",385
+Precinct 105,Lieutenant Governor (Republican),None Of These Candidates,12
+Precinct 105,Lieutenant Governor (Republican),"Woollen, Barbara Lee",54
+Precinct 105,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",172
+Precinct 105,School Trustee District 1 (Nonpartisan),"KEETON, TOM",245
+Precinct 105,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",45
+Precinct 105,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",164
+Precinct 105,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",543
+Precinct 105,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",547
+Precinct 105,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",106
+Precinct 105,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",141
+Precinct 105,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",150
+Precinct 105,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",180
+Precinct 105,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",328
+Precinct 105,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",240
+Precinct 105,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",104
+Precinct 105,"State Assembly, District 40 (Republican)","CLEMENS, AMY",78
+Precinct 105,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",209
+Precinct 105,"State Assembly, District 40 (Republican)","UPTON, LYNDA",155
+Precinct 105,State Controller (Republican),"Dagani, Gregory Nance",91
+Precinct 105,State Controller (Republican),"Herr, Barry",199
+Precinct 105,State Controller (Republican),None Of These Candidates,132
+Precinct 105,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",360
+Precinct 105,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",71
+Precinct 105,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",223
+Precinct 105,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",124
+Precinct 105,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",85
+Precinct 105,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",103
+Precinct 105,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",33
+Precinct 105,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",89
+Precinct 105,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",336
+Precinct 105,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",125
+Precinct 105,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",155
+Precinct 105,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",601
+Precinct 105,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",8
+Precinct 105,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",65
+Precinct 105,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",83
+Precinct 105,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",27
+Precinct 105,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",425
+Precinct 105,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+Precinct 105,United States Senator (Democratic),"Miller, Alex",8
+Precinct 105,United States Senator (Democratic),None Of These Candidates,17
+Precinct 105,United States Senator (Democratic),"Poliak, Carlo",2
+Precinct 105,United States Senator (Democratic),"Reid, Harry",139
+Precinct 105,United States Senator (Republican),"Angle, Sharron",176
+Precinct 105,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 105,United States Senator (Republican),"Chachas, John",26
+Precinct 105,United States Senator (Republican),"Christensen, Chad",8
+Precinct 105,United States Senator (Republican),"Lowden, Sue",121
+Precinct 105,United States Senator (Republican),"Mabey, Garn",0
+Precinct 105,United States Senator (Republican),"Marinch, Gary",0
+Precinct 105,United States Senator (Republican),"Nadell, Brian",0
+Precinct 105,United States Senator (Republican),None Of These Candidates,7
+Precinct 105,United States Senator (Republican),"Parson, Bill",1
+Precinct 105,United States Senator (Republican),"Stern, Cecilia",1
+Precinct 105,United States Senator (Republican),"Suominen, Terry",2
+Precinct 105,United States Senator (Republican),"Tarkanian, Danny",113
+Precinct 107,Attorney General (Republican),"Barrick, Travis",155
+Precinct 107,Attorney General (Republican),"Hafter, Jacob",138
+Precinct 107,Attorney General (Republican),None Of These Candidates,118
+Precinct 107,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",621
+Precinct 107,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",589
+Precinct 107,Governor (Democratic),"Conquest, Frederick L.",20
+Precinct 107,Governor (Democratic),None Of These Candidates,37
+Precinct 107,Governor (Democratic),"Reid, Rory",132
+Precinct 107,Governor (Republican),"Atwood, Tony",1
+Precinct 107,Governor (Republican),"GIBBONS, JIM",164
+Precinct 107,Governor (Republican),"Lusak, Stanleigh Harold",2
+Precinct 107,Governor (Republican),"Montandon, Michael L.",55
+Precinct 107,Governor (Republican),None Of These Candidates,13
+Precinct 107,Governor (Republican),"Sandoval, Brian",224
+Precinct 107,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",9
+Precinct 107,Lieutenant Governor (Democratic),"Murad, Paul",28
+Precinct 107,Lieutenant Governor (Democratic),None Of These Candidates,18
+Precinct 107,Lieutenant Governor (Democratic),"Randazzo, Robert S.",15
+Precinct 107,Lieutenant Governor (Democratic),"Sferrazza, Jessica",112
+Precinct 107,Lieutenant Governor (Republican),"Krolicki, Brian",368
+Precinct 107,Lieutenant Governor (Republican),None Of These Candidates,20
+Precinct 107,Lieutenant Governor (Republican),"Woollen, Barbara Lee",64
+Precinct 107,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",150
+Precinct 107,School Trustee District 1 (Nonpartisan),"KEETON, TOM",197
+Precinct 107,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",49
+Precinct 107,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",220
+Precinct 107,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",550
+Precinct 107,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",546
+Precinct 107,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",104
+Precinct 107,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",151
+Precinct 107,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",116
+Precinct 107,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",207
+Precinct 107,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",321
+Precinct 107,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",241
+Precinct 107,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",138
+Precinct 107,"State Assembly, District 40 (Republican)","CLEMENS, AMY",68
+Precinct 107,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",258
+Precinct 107,"State Assembly, District 40 (Republican)","UPTON, LYNDA",99
+Precinct 107,State Controller (Republican),"Dagani, Gregory Nance",103
+Precinct 107,State Controller (Republican),"Herr, Barry",180
+Precinct 107,State Controller (Republican),None Of These Candidates,124
+Precinct 107,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",367
+Precinct 107,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",61
+Precinct 107,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",231
+Precinct 107,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",163
+Precinct 107,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",53
+Precinct 107,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",111
+Precinct 107,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",60
+Precinct 107,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",59
+Precinct 107,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",289
+Precinct 107,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",168
+Precinct 107,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",152
+Precinct 107,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",600
+Precinct 107,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",10
+Precinct 107,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",61
+Precinct 107,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",86
+Precinct 107,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",34
+Precinct 107,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",416
+Precinct 107,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",10
+Precinct 107,United States Senator (Democratic),"Miller, Alex",6
+Precinct 107,United States Senator (Democratic),None Of These Candidates,25
+Precinct 107,United States Senator (Democratic),"Poliak, Carlo",3
+Precinct 107,United States Senator (Democratic),"Reid, Harry",146
+Precinct 107,United States Senator (Republican),"Angle, Sharron",223
+Precinct 107,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 107,United States Senator (Republican),"Chachas, John",28
+Precinct 107,United States Senator (Republican),"Christensen, Chad",9
+Precinct 107,United States Senator (Republican),"Lowden, Sue",85
+Precinct 107,United States Senator (Republican),"Mabey, Garn",0
+Precinct 107,United States Senator (Republican),"Marinch, Gary",1
+Precinct 107,United States Senator (Republican),"Nadell, Brian",0
+Precinct 107,United States Senator (Republican),None Of These Candidates,9
+Precinct 107,United States Senator (Republican),"Parson, Bill",0
+Precinct 107,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 107,United States Senator (Republican),"Suominen, Terry",0
+Precinct 107,United States Senator (Republican),"Tarkanian, Danny",101
+Precinct 109,Attorney General (Republican),"Barrick, Travis",184
+Precinct 109,Attorney General (Republican),"Hafter, Jacob",89
+Precinct 109,Attorney General (Republican),None Of These Candidates,75
+Precinct 109,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",580
+Precinct 109,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",558
+Precinct 109,Governor (Democratic),"Conquest, Frederick L.",29
+Precinct 109,Governor (Democratic),None Of These Candidates,43
+Precinct 109,Governor (Democratic),"Reid, Rory",136
+Precinct 109,Governor (Republican),"Atwood, Tony",2
+Precinct 109,Governor (Republican),"GIBBONS, JIM",101
+Precinct 109,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 109,Governor (Republican),"Montandon, Michael L.",60
+Precinct 109,Governor (Republican),None Of These Candidates,9
+Precinct 109,Governor (Republican),"Sandoval, Brian",205
+Precinct 109,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",21
+Precinct 109,Lieutenant Governor (Democratic),"Murad, Paul",34
+Precinct 109,Lieutenant Governor (Democratic),None Of These Candidates,24
+Precinct 109,Lieutenant Governor (Democratic),"Randazzo, Robert S.",16
+Precinct 109,Lieutenant Governor (Democratic),"Sferrazza, Jessica",104
+Precinct 109,Lieutenant Governor (Republican),"Krolicki, Brian",306
+Precinct 109,Lieutenant Governor (Republican),None Of These Candidates,16
+Precinct 109,Lieutenant Governor (Republican),"Woollen, Barbara Lee",49
+Precinct 109,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",189
+Precinct 109,School Trustee District 1 (Nonpartisan),"KEETON, TOM",162
+Precinct 109,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",36
+Precinct 109,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",204
+Precinct 109,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",519
+Precinct 109,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",517
+Precinct 109,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",81
+Precinct 109,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",127
+Precinct 109,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",136
+Precinct 109,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",207
+Precinct 109,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",289
+Precinct 109,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",223
+Precinct 109,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",140
+Precinct 109,"State Assembly, District 40 (Republican)","CLEMENS, AMY",100
+Precinct 109,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",170
+Precinct 109,"State Assembly, District 40 (Republican)","UPTON, LYNDA",94
+Precinct 109,State Controller (Republican),"Dagani, Gregory Nance",95
+Precinct 109,State Controller (Republican),"Herr, Barry",151
+Precinct 109,State Controller (Republican),None Of These Candidates,96
+Precinct 109,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",288
+Precinct 109,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",61
+Precinct 109,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",186
+Precinct 109,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",192
+Precinct 109,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",67
+Precinct 111,Lieutenant Governor (Republican),None Of These Candidates,14
+Precinct 111,Lieutenant Governor (Republican),"Woollen, Barbara Lee",52
+Precinct 111,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",136
+Precinct 111,School Trustee District 1 (Nonpartisan),"KEETON, TOM",98
+Precinct 111,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",58
+Precinct 111,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",101
+Precinct 111,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",375
+Precinct 111,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",372
+Precinct 111,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",61
+Precinct 111,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",84
+Precinct 111,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",59
+Precinct 111,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",185
+Precinct 111,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",210
+Precinct 111,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",147
+Precinct 111,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",99
+Precinct 111,"State Assembly, District 40 (Republican)","CLEMENS, AMY",61
+Precinct 111,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",120
+Precinct 111,"State Assembly, District 40 (Republican)","UPTON, LYNDA",50
+Precinct 111,State Controller (Republican),"Dagani, Gregory Nance",89
+Precinct 111,State Controller (Republican),"Herr, Barry",82
+Precinct 111,State Controller (Republican),None Of These Candidates,62
+Precinct 111,"State Senate, Washoe District 4 (Republican)","BAILEY, TODD",36
+Precinct 111,"State Senate, Washoe District 4 (Republican)","COBB, TY",77
+Precinct 111,"State Senate, Washoe District 4 (Republican)","KIECKHEFER, BEN",90
+Precinct 111,"State Senate, Washoe District 4 (Republican)","WRIGHT, FRANK L.",26
+Precinct 111,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",147
+Precinct 111,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",79
+Precinct 111,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",37
+Precinct 111,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",74
+Precinct 111,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",26
+Precinct 111,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",63
+Precinct 111,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",180
+Precinct 111,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",105
+Precinct 111,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",118
+Precinct 111,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",394
+Precinct 111,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",11
+Precinct 111,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",68
+Precinct 111,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",67
+Precinct 111,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",36
+Precinct 111,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",206
+Precinct 111,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+Precinct 111,United States Senator (Democratic),"Miller, Alex",14
+Precinct 111,United States Senator (Democratic),None Of These Candidates,19
+Precinct 111,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 111,United States Senator (Democratic),"Reid, Harry",120
+Precinct 111,United States Senator (Republican),"Angle, Sharron",87
+Precinct 111,United States Senator (Republican),"Bernstein, Gary",2
+Precinct 111,United States Senator (Republican),"Chachas, John",20
+Precinct 111,United States Senator (Republican),"Christensen, Chad",4
+Precinct 111,United States Senator (Republican),"Lowden, Sue",53
+Precinct 111,United States Senator (Republican),"Mabey, Garn",0
+Precinct 111,United States Senator (Republican),"Marinch, Gary",1
+Precinct 111,United States Senator (Republican),"Nadell, Brian",0
+Precinct 111,United States Senator (Republican),None Of These Candidates,5
+Precinct 111,United States Senator (Republican),"Parson, Bill",2
+Precinct 111,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 111,United States Senator (Republican),"Suominen, Terry",0
+Precinct 111,United States Senator (Republican),"Tarkanian, Danny",71
+Precinct 113,Attorney General (Republican),"Barrick, Travis",148
+Precinct 113,Attorney General (Republican),"Hafter, Jacob",115
+Precinct 113,Attorney General (Republican),None Of These Candidates,78
+Precinct 113,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",528
+Precinct 113,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",502
+Precinct 113,Governor (Democratic),"Conquest, Frederick L.",24
+Precinct 113,Governor (Democratic),None Of These Candidates,27
+Precinct 113,Governor (Democratic),"Reid, Rory",121
+Precinct 113,Governor (Republican),"Atwood, Tony",4
+Precinct 113,Governor (Republican),"GIBBONS, JIM",124
+Precinct 113,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 113,Governor (Republican),"Montandon, Michael L.",46
+Precinct 113,Governor (Republican),None Of These Candidates,9
+Precinct 113,Governor (Republican),"Sandoval, Brian",184
+Precinct 113,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",11
+Precinct 113,Lieutenant Governor (Democratic),"Murad, Paul",28
+Precinct 113,Lieutenant Governor (Democratic),None Of These Candidates,16
+Precinct 113,Lieutenant Governor (Democratic),"Randazzo, Robert S.",14
+Precinct 113,Lieutenant Governor (Democratic),"Sferrazza, Jessica",99
+Precinct 113,Lieutenant Governor (Republican),"Krolicki, Brian",286
+Precinct 113,Lieutenant Governor (Republican),None Of These Candidates,23
+Precinct 113,Lieutenant Governor (Republican),"Woollen, Barbara Lee",55
+Precinct 113,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",119
+Precinct 113,School Trustee District 1 (Nonpartisan),"KEETON, TOM",176
+Precinct 113,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",47
+Precinct 113,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",168
+Precinct 113,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",479
+Precinct 113,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",468
+Precinct 113,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",97
+Precinct 113,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",122
+Precinct 113,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",77
+Precinct 113,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",209
+Precinct 113,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",266
+Precinct 113,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",192
+Precinct 113,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",125
+Precinct 113,"State Assembly, District 38 (Republican)","GLADWILL, GARY G.",99
+Precinct 113,"State Assembly, District 38 (Republican)","GRADY, TOM",239
+Precinct 113,State Controller (Republican),"Dagani, Gregory Nance",94
+Precinct 113,State Controller (Republican),"Herr, Barry",158
+Precinct 113,State Controller (Republican),None Of These Candidates,91
+Precinct 113,"State Senate, Washoe District 4 (Republican)","BAILEY, TODD",43
+Precinct 113,"State Senate, Washoe District 4 (Republican)","COBB, TY",130
+Precinct 113,"State Senate, Washoe District 4 (Republican)","KIECKHEFER, BEN",131
+Precinct 113,"State Senate, Washoe District 4 (Republican)","WRIGHT, FRANK L.",39
+Precinct 113,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",169
+Precinct 113,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",127
+Precinct 113,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",61
+Precinct 113,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",89
+Precinct 113,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",33
+Precinct 113,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",73
+Precinct 113,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",257
+Precinct 113,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",142
+Precinct 113,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",127
+Precinct 113,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",517
+Precinct 113,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",9
+Precinct 113,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",83
+Precinct 113,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",67
+Precinct 113,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",43
+Precinct 113,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",325
+Precinct 113,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+Precinct 113,United States Senator (Democratic),"Miller, Alex",11
+Precinct 113,United States Senator (Democratic),None Of These Candidates,22
+Precinct 113,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 113,United States Senator (Democratic),"Reid, Harry",135
+Precinct 113,United States Senator (Republican),"Angle, Sharron",154
+Precinct 113,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 113,United States Senator (Republican),"Chachas, John",18
+Precinct 113,United States Senator (Republican),"Christensen, Chad",9
+Precinct 113,United States Senator (Republican),"Lowden, Sue",68
+Precinct 113,United States Senator (Republican),"Mabey, Garn",3
+Precinct 113,United States Senator (Republican),"Marinch, Gary",0
+Precinct 113,United States Senator (Republican),"Nadell, Brian",1
+Precinct 113,United States Senator (Republican),None Of These Candidates,8
+Precinct 113,United States Senator (Republican),"Parson, Bill",3
+Precinct 113,United States Senator (Republican),"Stern, Cecilia",1
+Precinct 113,United States Senator (Republican),"Suominen, Terry",1
+Precinct 113,United States Senator (Republican),"Tarkanian, Danny",102
+Precinct 201,Attorney General (Republican),"Barrick, Travis",89
+Precinct 201,Attorney General (Republican),"Hafter, Jacob",55
+Precinct 201,Attorney General (Republican),None Of These Candidates,41
+Precinct 201,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",301
+Precinct 201,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",285
+Precinct 201,Governor (Democratic),"Conquest, Frederick L.",13
+Precinct 201,Governor (Democratic),None Of These Candidates,18
+Precinct 201,Governor (Democratic),"Reid, Rory",69
+Precinct 201,Governor (Republican),"Atwood, Tony",7
+Precinct 201,Governor (Republican),"GIBBONS, JIM",53
+Precinct 201,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 201,Governor (Republican),"Montandon, Michael L.",25
+Precinct 201,Governor (Republican),None Of These Candidates,6
+Precinct 201,Governor (Republican),"Sandoval, Brian",102
+Precinct 201,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",10
+Precinct 201,Lieutenant Governor (Democratic),"Murad, Paul",13
+Precinct 201,Lieutenant Governor (Democratic),None Of These Candidates,11
+Precinct 201,Lieutenant Governor (Democratic),"Randazzo, Robert S.",16
+Precinct 201,Lieutenant Governor (Democratic),"Sferrazza, Jessica",48
+Precinct 201,Lieutenant Governor (Republican),"Krolicki, Brian",151
+Precinct 201,Lieutenant Governor (Republican),None Of These Candidates,8
+Precinct 201,Lieutenant Governor (Republican),"Woollen, Barbara Lee",32
+Precinct 201,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",99
+Precinct 201,School Trustee District 1 (Nonpartisan),"KEETON, TOM",77
+Precinct 201,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",30
+Precinct 201,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",78
+Precinct 201,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",263
+Precinct 201,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",261
+Precinct 201,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",54
+Precinct 201,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",62
+Precinct 201,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",53
+Precinct 201,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",116
+Precinct 201,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",138
+Precinct 201,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",97
+Precinct 201,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",93
+Precinct 201,"State Assembly, District 40 (Republican)","CLEMENS, AMY",46
+Precinct 201,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",98
+Precinct 201,"State Assembly, District 40 (Republican)","UPTON, LYNDA",37
+Precinct 201,State Controller (Republican),"Dagani, Gregory Nance",49
+Precinct 201,State Controller (Republican),"Herr, Barry",91
+Precinct 201,State Controller (Republican),None Of These Candidates,45
+Precinct 201,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",138
+Precinct 201,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",41
+Precinct 201,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",106
+Precinct 201,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",48
+Precinct 201,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",20
+Precinct 201,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",57
+Precinct 201,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",24
+Precinct 201,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",50
+Precinct 201,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",166
+Precinct 201,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",62
+Precinct 201,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",68
+Precinct 201,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",293
+Precinct 201,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",8
+Precinct 201,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",47
+Precinct 201,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",41
+Precinct 201,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",22
+Precinct 201,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",170
+Precinct 201,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+Precinct 201,United States Senator (Democratic),"Miller, Alex",8
+Precinct 201,United States Senator (Democratic),None Of These Candidates,12
+Precinct 201,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 201,United States Senator (Democratic),"Reid, Harry",74
+Precinct 201,United States Senator (Republican),"Angle, Sharron",82
+Precinct 201,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 201,United States Senator (Republican),"Chachas, John",14
+Precinct 201,United States Senator (Republican),"Christensen, Chad",2
+Precinct 201,United States Senator (Republican),"Lowden, Sue",42
+Precinct 201,United States Senator (Republican),"Mabey, Garn",0
+Precinct 201,United States Senator (Republican),"Marinch, Gary",0
+Precinct 201,United States Senator (Republican),"Nadell, Brian",0
+Precinct 201,United States Senator (Republican),None Of These Candidates,6
+Precinct 201,United States Senator (Republican),"Parson, Bill",0
+Precinct 201,United States Senator (Republican),"Stern, Cecilia",2
+Precinct 201,United States Senator (Republican),"Suominen, Terry",0
+Precinct 201,United States Senator (Republican),"Tarkanian, Danny",45
+Precinct 203,Attorney General (Republican),"Barrick, Travis",119
+Precinct 203,Attorney General (Republican),"Hafter, Jacob",69
+Precinct 203,Attorney General (Republican),None Of These Candidates,49
+Precinct 203,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",431
+Precinct 203,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",408
+Precinct 203,Governor (Democratic),"Conquest, Frederick L.",21
+Precinct 203,Governor (Democratic),None Of These Candidates,33
+Precinct 203,Governor (Democratic),"Reid, Rory",130
+Precinct 203,Governor (Republican),"Atwood, Tony",3
+Precinct 203,Governor (Republican),"GIBBONS, JIM",72
+Precinct 203,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 203,Governor (Republican),"Montandon, Michael L.",21
+Precinct 203,Governor (Republican),None Of These Candidates,9
+Precinct 203,Governor (Republican),"Sandoval, Brian",139
+Precinct 203,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",17
+Precinct 203,Lieutenant Governor (Democratic),"Murad, Paul",25
+Precinct 203,Lieutenant Governor (Democratic),None Of These Candidates,21
+Precinct 203,Lieutenant Governor (Democratic),"Randazzo, Robert S.",21
+Precinct 203,Lieutenant Governor (Democratic),"Sferrazza, Jessica",93
+Precinct 203,Lieutenant Governor (Republican),"Krolicki, Brian",189
+Precinct 203,Lieutenant Governor (Republican),None Of These Candidates,12
+Precinct 203,Lieutenant Governor (Republican),"Woollen, Barbara Lee",43
+Precinct 203,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",115
+Precinct 203,School Trustee District 1 (Nonpartisan),"KEETON, TOM",124
+Precinct 203,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",41
+Precinct 203,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",134
+Precinct 203,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",391
+Precinct 203,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",391
+Precinct 203,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",63
+Precinct 203,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",103
+Precinct 203,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",84
+Precinct 203,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",157
+Precinct 203,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",244
+Precinct 203,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",135
+Precinct 203,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",86
+Precinct 203,"State Assembly, District 40 (Republican)","CLEMENS, AMY",79
+Precinct 203,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",105
+Precinct 203,"State Assembly, District 40 (Republican)","UPTON, LYNDA",45
+Precinct 203,State Controller (Republican),"Dagani, Gregory Nance",77
+Precinct 203,State Controller (Republican),"Herr, Barry",91
+Precinct 203,State Controller (Republican),None Of These Candidates,65
+Precinct 203,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",183
+Precinct 203,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",48
+Precinct 203,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",146
+Precinct 203,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",65
+Precinct 203,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",46
+Precinct 203,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",70
+Precinct 203,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",19
+Precinct 203,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",95
+Precinct 203,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",211
+Precinct 203,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",100
+Precinct 203,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",104
+Precinct 203,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",409
+Precinct 203,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",16
+Precinct 203,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",76
+Precinct 203,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",70
+Precinct 203,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",28
+Precinct 203,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",216
+Precinct 203,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+Precinct 203,United States Senator (Democratic),"Miller, Alex",10
+Precinct 203,United States Senator (Democratic),None Of These Candidates,22
+Precinct 203,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 203,United States Senator (Democratic),"Reid, Harry",144
+Precinct 203,United States Senator (Republican),"Angle, Sharron",110
+Precinct 203,United States Senator (Republican),"Bernstein, Gary",2
+Precinct 203,United States Senator (Republican),"Chachas, John",12
+Precinct 203,United States Senator (Republican),"Christensen, Chad",6
+Precinct 203,United States Senator (Republican),"Lowden, Sue",41
+Precinct 203,United States Senator (Republican),"Mabey, Garn",0
+Precinct 203,United States Senator (Republican),"Marinch, Gary",0
+Precinct 203,United States Senator (Republican),"Nadell, Brian",0
+Precinct 203,United States Senator (Republican),None Of These Candidates,5
+Precinct 203,United States Senator (Republican),"Parson, Bill",4
+Precinct 203,United States Senator (Republican),"Stern, Cecilia",1
+Precinct 203,United States Senator (Republican),"Suominen, Terry",0
+Precinct 203,United States Senator (Republican),"Tarkanian, Danny",62
+Precinct 205,Attorney General (Republican),"Barrick, Travis",126
+Precinct 205,Attorney General (Republican),"Hafter, Jacob",66
+Precinct 205,Attorney General (Republican),None Of These Candidates,67
+Precinct 205,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",435
+Precinct 205,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",423
+Precinct 205,Governor (Democratic),"Conquest, Frederick L.",15
+Precinct 205,Governor (Democratic),None Of These Candidates,24
+Precinct 205,Governor (Democratic),"Reid, Rory",121
+Precinct 205,Governor (Republican),"Atwood, Tony",7
+Precinct 205,Governor (Republican),"GIBBONS, JIM",96
+Precinct 205,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 205,Governor (Republican),"Montandon, Michael L.",44
+Precinct 205,Governor (Republican),None Of These Candidates,5
+Precinct 205,Governor (Republican),"Sandoval, Brian",121
+Precinct 205,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",13
+Precinct 205,Lieutenant Governor (Democratic),"Murad, Paul",28
+Precinct 205,Lieutenant Governor (Democratic),None Of These Candidates,17
+Precinct 205,Lieutenant Governor (Democratic),"Randazzo, Robert S.",9
+Precinct 205,Lieutenant Governor (Democratic),"Sferrazza, Jessica",89
+Precinct 205,Lieutenant Governor (Republican),"Krolicki, Brian",212
+Precinct 205,Lieutenant Governor (Republican),None Of These Candidates,7
+Precinct 205,Lieutenant Governor (Republican),"Woollen, Barbara Lee",51
+Precinct 205,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",139
+Precinct 205,School Trustee District 1 (Nonpartisan),"KEETON, TOM",117
+Precinct 205,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",50
+Precinct 205,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",118
+Precinct 205,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",412
+Precinct 205,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",415
+Precinct 205,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",81
+Precinct 205,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",75
+Precinct 205,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",104
+Precinct 205,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",162
+Precinct 205,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",239
+Precinct 205,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",152
+Precinct 205,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",95
+Precinct 205,"State Assembly, District 40 (Republican)","CLEMENS, AMY",86
+Precinct 205,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",117
+Precinct 205,"State Assembly, District 40 (Republican)","UPTON, LYNDA",52
+Precinct 205,State Controller (Republican),"Dagani, Gregory Nance",73
+Precinct 205,State Controller (Republican),"Herr, Barry",109
+Precinct 205,State Controller (Republican),None Of These Candidates,77
+Precinct 205,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",204
+Precinct 205,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",52
+Precinct 205,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",132
+Precinct 205,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",73
+Precinct 205,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",73
+Precinct 205,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",67
+Precinct 205,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",32
+Precinct 205,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",74
+Precinct 205,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",224
+Precinct 205,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",110
+Precinct 205,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",106
+Precinct 205,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",427
+Precinct 205,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",6
+Precinct 205,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",67
+Precinct 205,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",75
+Precinct 205,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",28
+Precinct 205,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",246
+Precinct 205,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+Precinct 205,United States Senator (Democratic),"Miller, Alex",15
+Precinct 205,United States Senator (Democratic),None Of These Candidates,17
+Precinct 205,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 205,United States Senator (Democratic),"Reid, Harry",122
+Precinct 205,United States Senator (Republican),"Angle, Sharron",125
+Precinct 205,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 205,United States Senator (Republican),"Chachas, John",16
+Precinct 205,United States Senator (Republican),"Christensen, Chad",7
+Precinct 205,United States Senator (Republican),"Lowden, Sue",41
+Precinct 205,United States Senator (Republican),"Mabey, Garn",1
+Precinct 205,United States Senator (Republican),"Marinch, Gary",1
+Precinct 205,United States Senator (Republican),"Nadell, Brian",1
+Precinct 205,United States Senator (Republican),None Of These Candidates,14
+Precinct 205,United States Senator (Republican),"Parson, Bill",1
+Precinct 205,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 205,United States Senator (Republican),"Suominen, Terry",0
+Precinct 205,United States Senator (Republican),"Tarkanian, Danny",70
+Precinct 207,Attorney General (Republican),"Barrick, Travis",106
+Precinct 207,Attorney General (Republican),"Hafter, Jacob",96
+Precinct 207,Attorney General (Republican),None Of These Candidates,40
+Precinct 207,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",420
+Precinct 207,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",401
+Precinct 207,Governor (Democratic),"Conquest, Frederick L.",24
+Precinct 207,Governor (Democratic),None Of These Candidates,31
+Precinct 207,Governor (Democratic),"Reid, Rory",109
+Precinct 207,Governor (Republican),"Atwood, Tony",2
+Precinct 207,Governor (Republican),"GIBBONS, JIM",77
+Precinct 207,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 207,Governor (Republican),"Montandon, Michael L.",38
+Precinct 207,Governor (Republican),None Of These Candidates,7
+Precinct 207,Governor (Republican),"Sandoval, Brian",134
+Precinct 207,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",9
+Precinct 207,Lieutenant Governor (Democratic),"Murad, Paul",26
+Precinct 207,Lieutenant Governor (Democratic),None Of These Candidates,16
+Precinct 207,Lieutenant Governor (Democratic),"Randazzo, Robert S.",20
+Precinct 207,Lieutenant Governor (Democratic),"Sferrazza, Jessica",88
+Precinct 207,Lieutenant Governor (Republican),"Krolicki, Brian",195
+Precinct 207,Lieutenant Governor (Republican),None Of These Candidates,7
+Precinct 207,Lieutenant Governor (Republican),"Woollen, Barbara Lee",53
+Precinct 207,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",132
+Precinct 207,School Trustee District 1 (Nonpartisan),"KEETON, TOM",120
+Precinct 207,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",39
+Precinct 207,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",120
+Precinct 207,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",382
+Precinct 207,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",385
+Precinct 207,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",54
+Precinct 207,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",90
+Precinct 207,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",61
+Precinct 207,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",197
+Precinct 207,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",222
+Precinct 207,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",129
+Precinct 207,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",119
+Precinct 207,"State Assembly, District 40 (Republican)","CLEMENS, AMY",61
+Precinct 207,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",119
+Precinct 207,"State Assembly, District 40 (Republican)","UPTON, LYNDA",61
+Precinct 207,State Controller (Republican),"Dagani, Gregory Nance",79
+Precinct 207,State Controller (Republican),"Herr, Barry",109
+Precinct 207,State Controller (Republican),None Of These Candidates,55
+Precinct 207,"State Senate, Washoe District 4 (Republican)","BAILEY, TODD",39
+Precinct 207,"State Senate, Washoe District 4 (Republican)","COBB, TY",75
+Precinct 207,"State Senate, Washoe District 4 (Republican)","KIECKHEFER, BEN",90
+Precinct 207,"State Senate, Washoe District 4 (Republican)","WRIGHT, FRANK L.",30
+Precinct 207,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",124
+Precinct 207,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",68
+Precinct 207,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",48
+Precinct 207,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",83
+Precinct 207,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",33
+Precinct 207,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",73
+Precinct 207,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",216
+Precinct 207,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",101
+Precinct 207,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",97
+Precinct 207,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",404
+Precinct 207,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",10
+Precinct 207,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",80
+Precinct 207,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",62
+Precinct 207,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",31
+Precinct 207,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",227
+Precinct 207,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+Precinct 207,United States Senator (Democratic),"Miller, Alex",17
+Precinct 207,United States Senator (Democratic),None Of These Candidates,21
+Precinct 207,United States Senator (Democratic),"Poliak, Carlo",3
+Precinct 207,United States Senator (Democratic),"Reid, Harry",116
+Precinct 207,United States Senator (Republican),"Angle, Sharron",115
+Precinct 207,United States Senator (Republican),"Bernstein, Gary",2
+Precinct 207,United States Senator (Republican),"Chachas, John",10
+Precinct 207,United States Senator (Republican),"Christensen, Chad",4
+Precinct 207,United States Senator (Republican),"Lowden, Sue",51
+Precinct 207,United States Senator (Republican),"Mabey, Garn",0
+Precinct 207,United States Senator (Republican),"Marinch, Gary",0
+Precinct 207,United States Senator (Republican),"Nadell, Brian",2
+Precinct 207,United States Senator (Republican),None Of These Candidates,9
+Precinct 207,United States Senator (Republican),"Parson, Bill",4
+Precinct 207,United States Senator (Republican),"Stern, Cecilia",2
+Precinct 207,United States Senator (Republican),"Suominen, Terry",0
+Precinct 207,United States Senator (Republican),"Tarkanian, Danny",61
+Precinct 209,Attorney General (Republican),"Barrick, Travis",83
+Precinct 209,Attorney General (Republican),"Hafter, Jacob",59
+Precinct 209,Attorney General (Republican),None Of These Candidates,39
+Precinct 209,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",303
+Precinct 209,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",287
+Precinct 209,Governor (Democratic),"Conquest, Frederick L.",20
+Precinct 209,Governor (Democratic),None Of These Candidates,27
+Precinct 209,Governor (Democratic),"Reid, Rory",75
+Precinct 209,Governor (Republican),"Atwood, Tony",7
+Precinct 209,Governor (Republican),"GIBBONS, JIM",57
+Precinct 209,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 209,Governor (Republican),"Montandon, Michael L.",29
+Precinct 209,Governor (Republican),None Of These Candidates,6
+Precinct 209,Governor (Republican),"Sandoval, Brian",91
+Precinct 209,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",11
+Precinct 209,Lieutenant Governor (Democratic),"Murad, Paul",27
+Precinct 209,Lieutenant Governor (Democratic),None Of These Candidates,10
+Precinct 209,Lieutenant Governor (Democratic),"Randazzo, Robert S.",10
+Precinct 209,Lieutenant Governor (Democratic),"Sferrazza, Jessica",60
+Precinct 209,Lieutenant Governor (Republican),"Krolicki, Brian",125
+Precinct 209,Lieutenant Governor (Republican),None Of These Candidates,17
+Precinct 209,Lieutenant Governor (Republican),"Woollen, Barbara Lee",51
+Precinct 209,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",100
+Precinct 209,School Trustee District 1 (Nonpartisan),"KEETON, TOM",79
+Precinct 209,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",41
+Precinct 209,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",86
+Precinct 209,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",286
+Precinct 209,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",278
+Precinct 209,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",53
+Precinct 209,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",67
+Precinct 209,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",40
+Precinct 209,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",143
+Precinct 209,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",156
+Precinct 209,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",134
+Precinct 209,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",54
+Precinct 209,"State Assembly, District 40 (Republican)","CLEMENS, AMY",48
+Precinct 209,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",81
+Precinct 209,"State Assembly, District 40 (Republican)","UPTON, LYNDA",48
+Precinct 209,State Controller (Republican),"Dagani, Gregory Nance",46
+Precinct 209,State Controller (Republican),"Herr, Barry",83
+Precinct 209,State Controller (Republican),None Of These Candidates,55
+Precinct 209,"State Senate, Washoe District 4 (Republican)","BAILEY, TODD",40
+Precinct 209,"State Senate, Washoe District 4 (Republican)","COBB, TY",58
+Precinct 209,"State Senate, Washoe District 4 (Republican)","KIECKHEFER, BEN",67
+Precinct 209,"State Senate, Washoe District 4 (Republican)","WRIGHT, FRANK L.",20
+Precinct 209,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",97
+Precinct 209,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",48
+Precinct 209,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",40
+Precinct 209,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",69
+Precinct 209,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",30
+Precinct 209,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",38
+Precinct 209,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",152
+Precinct 209,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",65
+Precinct 209,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",97
+Precinct 209,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",301
+Precinct 209,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",9
+Precinct 209,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",61
+Precinct 209,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",45
+Precinct 209,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",37
+Precinct 209,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",154
+Precinct 209,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 209,United States Senator (Democratic),"Miller, Alex",16
+Precinct 209,United States Senator (Democratic),None Of These Candidates,25
+Precinct 209,United States Senator (Democratic),"Poliak, Carlo",3
+Precinct 209,United States Senator (Democratic),"Reid, Harry",78
+Precinct 209,United States Senator (Republican),"Angle, Sharron",75
+Precinct 209,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 209,United States Senator (Republican),"Chachas, John",17
+Precinct 209,United States Senator (Republican),"Christensen, Chad",1
+Precinct 209,United States Senator (Republican),"Lowden, Sue",34
+Precinct 209,United States Senator (Republican),"Mabey, Garn",1
+Precinct 209,United States Senator (Republican),"Marinch, Gary",2
+Precinct 209,United States Senator (Republican),"Nadell, Brian",1
+Precinct 209,United States Senator (Republican),None Of These Candidates,5
+Precinct 209,United States Senator (Republican),"Parson, Bill",5
+Precinct 209,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 209,United States Senator (Republican),"Suominen, Terry",0
+Precinct 209,United States Senator (Republican),"Tarkanian, Danny",53
+Precinct 211,Attorney General (Republican),"Barrick, Travis",49
+Precinct 211,Attorney General (Republican),"Hafter, Jacob",25
+Precinct 211,Attorney General (Republican),None Of These Candidates,16
+Precinct 211,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",144
+Precinct 211,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",143
+Precinct 211,Governor (Democratic),"Conquest, Frederick L.",7
+Precinct 211,Governor (Democratic),None Of These Candidates,12
+Precinct 211,Governor (Democratic),"Reid, Rory",18
+Precinct 211,Governor (Republican),"Atwood, Tony",0
+Precinct 211,Governor (Republican),"GIBBONS, JIM",35
+Precinct 211,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 211,Governor (Republican),"Montandon, Michael L.",10
+Precinct 211,Governor (Republican),None Of These Candidates,2
+Precinct 211,Governor (Republican),"Sandoval, Brian",52
+Precinct 211,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Precinct 211,Lieutenant Governor (Democratic),"Murad, Paul",5
+Precinct 211,Lieutenant Governor (Democratic),None Of These Candidates,5
+Precinct 211,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Precinct 211,Lieutenant Governor (Democratic),"Sferrazza, Jessica",23
+Precinct 211,Lieutenant Governor (Republican),"Krolicki, Brian",72
+Precinct 211,Lieutenant Governor (Republican),None Of These Candidates,4
+Precinct 211,Lieutenant Governor (Republican),"Woollen, Barbara Lee",21
+Precinct 211,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",41
+Precinct 211,School Trustee District 1 (Nonpartisan),"KEETON, TOM",42
+Precinct 211,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",17
+Precinct 211,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",39
+Precinct 211,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",128
+Precinct 211,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",127
+Precinct 211,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",26
+Precinct 211,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",27
+Precinct 211,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",26
+Precinct 213,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",267
+Precinct 213,Governor (Democratic),"Conquest, Frederick L.",15
+Precinct 213,Governor (Democratic),None Of These Candidates,24
+Precinct 213,Governor (Democratic),"Reid, Rory",53
+Precinct 213,Governor (Republican),"Atwood, Tony",5
+Precinct 213,Governor (Republican),"GIBBONS, JIM",56
+Precinct 213,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 213,Governor (Republican),"Montandon, Michael L.",27
+Precinct 213,Governor (Republican),None Of These Candidates,4
+Precinct 213,Governor (Republican),"Sandoval, Brian",96
+Precinct 213,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Precinct 213,Lieutenant Governor (Democratic),"Murad, Paul",15
+Precinct 213,Lieutenant Governor (Democratic),None Of These Candidates,11
+Precinct 213,Lieutenant Governor (Democratic),"Randazzo, Robert S.",6
+Precinct 213,Lieutenant Governor (Democratic),"Sferrazza, Jessica",45
+Precinct 213,Lieutenant Governor (Republican),"Krolicki, Brian",152
+Precinct 213,Lieutenant Governor (Republican),None Of These Candidates,6
+Precinct 213,Lieutenant Governor (Republican),"Woollen, Barbara Lee",30
+Precinct 213,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",77
+Precinct 213,School Trustee District 1 (Nonpartisan),"KEETON, TOM",89
+Precinct 213,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",18
+Precinct 213,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",90
+Precinct 213,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",260
+Precinct 213,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",257
+Precinct 213,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",46
+Precinct 213,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",70
+Precinct 213,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",47
+Precinct 213,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",110
+Precinct 213,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",129
+Precinct 213,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",115
+Precinct 213,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",71
+Precinct 213,"State Assembly, District 38 (Republican)","GLADWILL, GARY G.",49
+Precinct 213,"State Assembly, District 38 (Republican)","GRADY, TOM",127
+Precinct 213,State Controller (Republican),"Dagani, Gregory Nance",62
+Precinct 213,State Controller (Republican),"Herr, Barry",65
+Precinct 213,State Controller (Republican),None Of These Candidates,52
+Precinct 213,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",163
+Precinct 213,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",22
+Precinct 213,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",92
+Precinct 213,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",66
+Precinct 213,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",40
+Precinct 213,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",48
+Precinct 213,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",18
+Precinct 213,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",32
+Precinct 213,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",133
+Precinct 213,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",69
+Precinct 213,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",78
+Precinct 213,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",278
+Precinct 213,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",11
+Precinct 213,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",30
+Precinct 213,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",44
+Precinct 213,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",18
+Precinct 213,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",170
+Precinct 213,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 213,United States Senator (Democratic),"Miller, Alex",13
+Precinct 213,United States Senator (Democratic),None Of These Candidates,17
+Precinct 213,United States Senator (Democratic),"Poliak, Carlo",3
+Precinct 213,United States Senator (Democratic),"Reid, Harry",58
+Precinct 213,United States Senator (Republican),"Angle, Sharron",85
+Precinct 213,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 213,United States Senator (Republican),"Chachas, John",10
+Precinct 213,United States Senator (Republican),"Christensen, Chad",5
+Precinct 213,United States Senator (Republican),"Lowden, Sue",35
+Precinct 213,United States Senator (Republican),"Mabey, Garn",0
+Precinct 213,United States Senator (Republican),"Marinch, Gary",0
+Precinct 213,United States Senator (Republican),"Nadell, Brian",0
+Precinct 213,United States Senator (Republican),None Of These Candidates,4
+Precinct 213,United States Senator (Republican),"Parson, Bill",0
+Precinct 213,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 213,United States Senator (Republican),"Suominen, Terry",0
+Precinct 213,United States Senator (Republican),"Tarkanian, Danny",49
+Precinct 301,Attorney General (Republican),"Barrick, Travis",75
+Precinct 301,Attorney General (Republican),"Hafter, Jacob",74
+Precinct 301,Attorney General (Republican),None Of These Candidates,59
+Precinct 301,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",344
+Precinct 301,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",331
+Precinct 301,Governor (Democratic),"Conquest, Frederick L.",11
+Precinct 301,Governor (Democratic),None Of These Candidates,20
+Precinct 301,Governor (Democratic),"Reid, Rory",80
+Precinct 301,Governor (Republican),"Atwood, Tony",1
+Precinct 301,Governor (Republican),"GIBBONS, JIM",63
+Precinct 301,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 301,Governor (Republican),"Montandon, Michael L.",42
+Precinct 301,Governor (Republican),None Of These Candidates,11
+Precinct 301,Governor (Republican),"Sandoval, Brian",110
+Precinct 301,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",8
+Precinct 301,Lieutenant Governor (Democratic),"Murad, Paul",22
+Precinct 301,Lieutenant Governor (Democratic),None Of These Candidates,15
+Precinct 301,Lieutenant Governor (Democratic),"Randazzo, Robert S.",10
+Precinct 301,Lieutenant Governor (Democratic),"Sferrazza, Jessica",56
+Precinct 301,Lieutenant Governor (Republican),"Krolicki, Brian",191
+Precinct 301,Lieutenant Governor (Republican),None Of These Candidates,8
+Precinct 301,Lieutenant Governor (Republican),"Woollen, Barbara Lee",25
+Precinct 301,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",116
+Precinct 301,School Trustee District 1 (Nonpartisan),"KEETON, TOM",68
+Precinct 301,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",56
+Precinct 301,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",88
+Precinct 301,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",321
+Precinct 301,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",317
+Precinct 301,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",64
+Precinct 301,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",77
+Precinct 301,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",54
+Precinct 301,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",126
+Precinct 301,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",170
+Precinct 301,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",141
+Precinct 301,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",60
+Precinct 301,"State Assembly, District 40 (Republican)","CLEMENS, AMY",46
+Precinct 301,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",108
+Precinct 301,"State Assembly, District 40 (Republican)","UPTON, LYNDA",52
+Precinct 301,State Controller (Republican),"Dagani, Gregory Nance",60
+Precinct 301,State Controller (Republican),"Herr, Barry",80
+Precinct 301,State Controller (Republican),None Of These Candidates,68
+Precinct 301,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",178
+Precinct 301,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",34
+Precinct 301,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",116
+Precinct 301,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",62
+Precinct 301,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",38
+Precinct 301,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",61
+Precinct 301,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",30
+Precinct 301,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",41
+Precinct 301,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",152
+Precinct 301,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",85
+Precinct 301,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",107
+Precinct 301,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",329
+Precinct 301,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",10
+Precinct 301,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",51
+Precinct 301,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",45
+Precinct 301,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",24
+Precinct 301,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",199
+Precinct 301,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+Precinct 301,United States Senator (Democratic),"Miller, Alex",7
+Precinct 301,United States Senator (Democratic),None Of These Candidates,10
+Precinct 301,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 301,United States Senator (Democratic),"Reid, Harry",94
+Precinct 301,United States Senator (Republican),"Angle, Sharron",107
+Precinct 301,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 301,United States Senator (Republican),"Chachas, John",14
+Precinct 301,United States Senator (Republican),"Christensen, Chad",5
+Precinct 301,United States Senator (Republican),"Lowden, Sue",33
+Precinct 301,United States Senator (Republican),"Mabey, Garn",2
+Precinct 301,United States Senator (Republican),"Marinch, Gary",0
+Precinct 301,United States Senator (Republican),"Nadell, Brian",1
+Precinct 301,United States Senator (Republican),None Of These Candidates,12
+Precinct 301,United States Senator (Republican),"Parson, Bill",3
+Precinct 301,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 301,United States Senator (Republican),"Suominen, Terry",0
+Precinct 301,United States Senator (Republican),"Tarkanian, Danny",49
+Precinct 303,Attorney General (Republican),"Barrick, Travis",88
+Precinct 303,Attorney General (Republican),"Hafter, Jacob",68
+Precinct 303,Attorney General (Republican),None Of These Candidates,49
+Precinct 303,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",372
+Precinct 303,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",349
+Precinct 303,Governor (Democratic),"Conquest, Frederick L.",16
+Precinct 303,Governor (Democratic),None Of These Candidates,23
+Precinct 303,Governor (Democratic),"Reid, Rory",106
+Precinct 303,Governor (Republican),"Atwood, Tony",0
+Precinct 303,Governor (Republican),"GIBBONS, JIM",55
+Precinct 303,Governor (Republican),"Lusak, Stanleigh Harold",4
+Precinct 303,Governor (Republican),"Montandon, Michael L.",29
+Precinct 303,Governor (Republican),None Of These Candidates,13
+Precinct 303,Governor (Republican),"Sandoval, Brian",118
+Precinct 303,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",15
+Precinct 303,Lieutenant Governor (Democratic),"Murad, Paul",26
+Precinct 303,Lieutenant Governor (Democratic),None Of These Candidates,14
+Precinct 303,Lieutenant Governor (Democratic),"Randazzo, Robert S.",9
+Precinct 303,Lieutenant Governor (Democratic),"Sferrazza, Jessica",77
+Precinct 303,Lieutenant Governor (Republican),"Krolicki, Brian",167
+Precinct 303,Lieutenant Governor (Republican),None Of These Candidates,13
+Precinct 303,Lieutenant Governor (Republican),"Woollen, Barbara Lee",36
+Precinct 303,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",101
+Precinct 303,School Trustee District 1 (Nonpartisan),"KEETON, TOM",89
+Precinct 303,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",39
+Precinct 303,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",126
+Precinct 303,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",333
+Precinct 303,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",335
+Precinct 303,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",42
+Precinct 303,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",90
+Precinct 303,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",55
+Precinct 303,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",165
+Precinct 303,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",213
+Precinct 303,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",119
+Precinct 303,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",67
+Precinct 303,"State Assembly, District 40 (Republican)","CLEMENS, AMY",52
+Precinct 303,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",98
+Precinct 303,"State Assembly, District 40 (Republican)","UPTON, LYNDA",60
+Precinct 303,State Controller (Republican),"Dagani, Gregory Nance",54
+Precinct 303,State Controller (Republican),"Herr, Barry",95
+Precinct 303,State Controller (Republican),None Of These Candidates,55
+Precinct 303,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",163
+Precinct 303,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",45
+Precinct 303,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",98
+Precinct 303,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",68
+Precinct 303,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",47
+Precinct 303,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",68
+Precinct 303,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",24
+Precinct 303,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",66
+Precinct 303,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",160
+Precinct 303,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",97
+Precinct 303,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",113
+Precinct 303,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",357
+Precinct 303,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",12
+Precinct 303,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",54
+Precinct 303,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",66
+Precinct 303,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",18
+Precinct 303,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",200
+Precinct 303,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 303,United States Senator (Democratic),"Miller, Alex",9
+Precinct 303,United States Senator (Democratic),None Of These Candidates,21
+Precinct 303,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 303,United States Senator (Democratic),"Reid, Harry",114
+Precinct 303,United States Senator (Republican),"Angle, Sharron",91
+Precinct 303,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 303,United States Senator (Republican),"Chachas, John",11
+Precinct 303,United States Senator (Republican),"Christensen, Chad",5
+Precinct 303,United States Senator (Republican),"Lowden, Sue",39
+Precinct 303,United States Senator (Republican),"Mabey, Garn",0
+Precinct 303,United States Senator (Republican),"Marinch, Gary",0
+Precinct 303,United States Senator (Republican),"Nadell, Brian",0
+Precinct 303,United States Senator (Republican),None Of These Candidates,1
+Precinct 303,United States Senator (Republican),"Parson, Bill",7
+Precinct 303,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 303,United States Senator (Republican),"Suominen, Terry",1
+Precinct 303,United States Senator (Republican),"Tarkanian, Danny",64
+Precinct 305,Attorney General (Republican),"Barrick, Travis",137
+Precinct 305,Attorney General (Republican),"Hafter, Jacob",87
+Precinct 305,Attorney General (Republican),None Of These Candidates,94
+Precinct 305,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",602
+Precinct 305,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",575
+Precinct 305,Governor (Democratic),"Conquest, Frederick L.",27
+Precinct 305,Governor (Democratic),None Of These Candidates,63
+Precinct 305,Governor (Democratic),"Reid, Rory",145
+Precinct 305,Governor (Republican),"Atwood, Tony",2
+Precinct 305,Governor (Republican),"GIBBONS, JIM",69
+Precinct 305,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 305,Governor (Republican),"Montandon, Michael L.",73
+Precinct 305,Governor (Republican),None Of These Candidates,18
+Precinct 305,Governor (Republican),"Sandoval, Brian",177
+Precinct 305,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Precinct 305,Lieutenant Governor (Democratic),"Murad, Paul",56
+Precinct 305,Lieutenant Governor (Democratic),None Of These Candidates,27
+Precinct 305,Lieutenant Governor (Democratic),"Randazzo, Robert S.",20
+Precinct 305,Lieutenant Governor (Democratic),"Sferrazza, Jessica",120
+Precinct 305,Lieutenant Governor (Republican),"Krolicki, Brian",266
+Precinct 305,Lieutenant Governor (Republican),None Of These Candidates,20
+Precinct 305,Lieutenant Governor (Republican),"Woollen, Barbara Lee",50
+Precinct 305,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",153
+Precinct 305,School Trustee District 1 (Nonpartisan),"KEETON, TOM",174
+Precinct 305,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",40
+Precinct 305,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",212
+Precinct 305,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",552
+Precinct 305,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",546
+Precinct 305,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",121
+Precinct 305,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",119
+Precinct 305,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",96
+Precinct 305,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",246
+Precinct 305,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",314
+Precinct 305,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",248
+Precinct 305,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",95
+Precinct 305,"State Assembly, District 40 (Republican)","CLEMENS, AMY",91
+Precinct 305,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",156
+Precinct 305,"State Assembly, District 40 (Republican)","UPTON, LYNDA",78
+Precinct 305,State Controller (Republican),"Dagani, Gregory Nance",86
+Precinct 305,State Controller (Republican),"Herr, Barry",133
+Precinct 305,State Controller (Republican),None Of These Candidates,97
+Precinct 305,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",274
+Precinct 305,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",46
+Precinct 305,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",186
+Precinct 305,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",91
+Precinct 305,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",87
+Precinct 305,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",129
+Precinct 305,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",40
+Precinct 305,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",89
+Precinct 305,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",274
+Precinct 305,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",137
+Precinct 305,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",205
+Precinct 305,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",585
+Precinct 305,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",21
+Precinct 305,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",111
+Precinct 305,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",90
+Precinct 305,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",40
+Precinct 305,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",303
+Precinct 305,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",11
+Precinct 305,United States Senator (Democratic),"Miller, Alex",21
+Precinct 305,United States Senator (Democratic),None Of These Candidates,39
+Precinct 305,United States Senator (Democratic),"Poliak, Carlo",2
+Precinct 305,United States Senator (Democratic),"Reid, Harry",161
+Precinct 305,United States Senator (Republican),"Angle, Sharron",146
+Precinct 305,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 305,United States Senator (Republican),"Chachas, John",23
+Precinct 305,United States Senator (Republican),"Christensen, Chad",7
+Precinct 305,United States Senator (Republican),"Lowden, Sue",55
+Precinct 305,United States Senator (Republican),"Mabey, Garn",2
+Precinct 305,United States Senator (Republican),"Marinch, Gary",0
+Precinct 305,United States Senator (Republican),"Nadell, Brian",1
+Precinct 305,United States Senator (Republican),None Of These Candidates,5
+Precinct 305,United States Senator (Republican),"Parson, Bill",4
+Precinct 305,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 305,United States Senator (Republican),"Suominen, Terry",0
+Precinct 305,United States Senator (Republican),"Tarkanian, Danny",100
+Precinct 307,Attorney General (Republican),"Barrick, Travis",70
+Precinct 307,Attorney General (Republican),"Hafter, Jacob",39
+Precinct 307,Attorney General (Republican),None Of These Candidates,28
+Precinct 307,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",243
+Precinct 307,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",236
+Precinct 307,Governor (Democratic),"Conquest, Frederick L.",12
+Precinct 307,Governor (Democratic),None Of These Candidates,16
+Precinct 307,Governor (Democratic),"Reid, Rory",54
+Precinct 307,Governor (Republican),"Atwood, Tony",2
+Precinct 307,Governor (Republican),"GIBBONS, JIM",44
+Precinct 307,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 307,Governor (Republican),"Montandon, Michael L.",20
+Precinct 307,Governor (Republican),None Of These Candidates,6
+Precinct 307,Governor (Republican),"Sandoval, Brian",70
+Precinct 307,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",6
+Precinct 307,Lieutenant Governor (Democratic),"Murad, Paul",19
+Precinct 307,Lieutenant Governor (Democratic),None Of These Candidates,12
+Precinct 307,Lieutenant Governor (Democratic),"Randazzo, Robert S.",9
+Precinct 307,Lieutenant Governor (Democratic),"Sferrazza, Jessica",33
+Precinct 307,Lieutenant Governor (Republican),"Krolicki, Brian",91
+Precinct 307,Lieutenant Governor (Republican),None Of These Candidates,13
+Precinct 307,Lieutenant Governor (Republican),"Woollen, Barbara Lee",40
+Precinct 307,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",79
+Precinct 307,School Trustee District 1 (Nonpartisan),"KEETON, TOM",73
+Precinct 307,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",36
+Precinct 307,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",52
+Precinct 307,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",228
+Precinct 307,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",228
+Precinct 307,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",44
+Precinct 307,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",56
+Precinct 307,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",34
+Precinct 307,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",108
+Precinct 307,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",124
+Precinct 307,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",76
+Precinct 307,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",71
+Precinct 307,"State Assembly, District 40 (Republican)","CLEMENS, AMY",33
+Precinct 307,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",68
+Precinct 307,"State Assembly, District 40 (Republican)","UPTON, LYNDA",32
+Precinct 307,State Controller (Republican),"Dagani, Gregory Nance",47
+Precinct 307,State Controller (Republican),"Herr, Barry",59
+Precinct 307,State Controller (Republican),None Of These Candidates,33
+Precinct 307,"State Senate, Washoe District 4 (Republican)","BAILEY, TODD",32
+Precinct 307,"State Senate, Washoe District 4 (Republican)","COBB, TY",43
+Precinct 307,"State Senate, Washoe District 4 (Republican)","KIECKHEFER, BEN",46
+Precinct 307,"State Senate, Washoe District 4 (Republican)","WRIGHT, FRANK L.",14
+Precinct 307,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",58
+Precinct 307,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",37
+Precinct 307,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",36
+Precinct 307,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",46
+Precinct 307,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",26
+Precinct 307,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",45
+Precinct 307,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",118
+Precinct 307,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",62
+Precinct 307,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",67
+Precinct 307,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",239
+Precinct 307,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",9
+Precinct 307,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",37
+Precinct 307,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",27
+Precinct 307,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",24
+Precinct 307,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",121
+Precinct 307,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 307,United States Senator (Democratic),"Miller, Alex",5
+Precinct 307,United States Senator (Democratic),None Of These Candidates,15
+Precinct 307,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 307,United States Senator (Democratic),"Reid, Harry",59
+Precinct 307,United States Senator (Republican),"Angle, Sharron",63
+Precinct 307,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 307,United States Senator (Republican),"Chachas, John",6
+Precinct 307,United States Senator (Republican),"Christensen, Chad",4
+Precinct 307,United States Senator (Republican),"Lowden, Sue",32
+Precinct 307,United States Senator (Republican),"Mabey, Garn",0
+Precinct 307,United States Senator (Republican),"Marinch, Gary",2
+Precinct 307,United States Senator (Republican),"Nadell, Brian",0
+Precinct 307,United States Senator (Republican),None Of These Candidates,7
+Precinct 307,United States Senator (Republican),"Parson, Bill",0
+Precinct 307,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 307,United States Senator (Republican),"Suominen, Terry",1
+Precinct 307,United States Senator (Republican),"Tarkanian, Danny",30
+Precinct 309,Attorney General (Republican),"Barrick, Travis",41
+Precinct 309,Attorney General (Republican),"Hafter, Jacob",30
+Precinct 309,Attorney General (Republican),None Of These Candidates,20
+Precinct 309,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",165
+Precinct 309,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",162
+Precinct 309,Governor (Democratic),"Conquest, Frederick L.",5
+Precinct 309,Governor (Democratic),None Of These Candidates,10
+Precinct 309,Governor (Democratic),"Reid, Rory",39
+Precinct 309,Governor (Republican),"Atwood, Tony",1
+Precinct 309,Governor (Republican),"GIBBONS, JIM",22
+Precinct 309,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 309,Governor (Republican),"Montandon, Michael L.",18
+Precinct 309,Governor (Republican),None Of These Candidates,5
+Precinct 309,Governor (Republican),"Sandoval, Brian",57
+Precinct 309,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",5
+Precinct 309,Lieutenant Governor (Democratic),"Murad, Paul",6
+Precinct 309,Lieutenant Governor (Democratic),None Of These Candidates,11
+Precinct 309,Lieutenant Governor (Democratic),"Randazzo, Robert S.",3
+Precinct 309,Lieutenant Governor (Democratic),"Sferrazza, Jessica",27
+Precinct 309,Lieutenant Governor (Republican),"Krolicki, Brian",76
+Precinct 309,Lieutenant Governor (Republican),None Of These Candidates,4
+Precinct 309,Lieutenant Governor (Republican),"Woollen, Barbara Lee",20
+Precinct 309,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",61
+Precinct 309,School Trustee District 1 (Nonpartisan),"KEETON, TOM",27
+Precinct 309,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",25
+Precinct 309,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",40
+Precinct 309,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",152
+Precinct 309,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",154
+Precinct 309,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",24
+Precinct 309,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",29
+Precinct 309,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",33
+Precinct 309,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",71
+Precinct 309,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",89
+Precinct 309,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",61
+Precinct 309,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",36
+Precinct 309,"State Assembly, District 38 (Republican)","GLADWILL, GARY G.",31
+Precinct 309,"State Assembly, District 38 (Republican)","GRADY, TOM",59
+Precinct 309,State Controller (Republican),"Dagani, Gregory Nance",26
+Precinct 309,State Controller (Republican),"Herr, Barry",41
+Precinct 309,State Controller (Republican),None Of These Candidates,24
+Precinct 309,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",76
+Precinct 309,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",19
+Precinct 309,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",54
+Precinct 309,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",27
+Precinct 309,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",19
+Precinct 309,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",33
+Precinct 309,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",17
+Precinct 309,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",18
+Precinct 309,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",75
+Precinct 309,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",49
+Precinct 309,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",40
+Precinct 309,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",161
+Precinct 309,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",1
+Precinct 309,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",17
+Precinct 309,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",29
+Precinct 309,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",11
+Precinct 309,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",88
+Precinct 309,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 309,United States Senator (Democratic),"Miller, Alex",5
+Precinct 309,United States Senator (Democratic),None Of These Candidates,8
+Precinct 309,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 309,United States Senator (Democratic),"Reid, Harry",40
+Precinct 309,United States Senator (Republican),"Angle, Sharron",38
+Precinct 309,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 309,United States Senator (Republican),"Chachas, John",12
+Precinct 309,United States Senator (Republican),"Christensen, Chad",3
+Precinct 309,United States Senator (Republican),"Lowden, Sue",16
+Precinct 309,United States Senator (Republican),"Mabey, Garn",0
+Precinct 309,United States Senator (Republican),"Marinch, Gary",0
+Precinct 309,United States Senator (Republican),"Nadell, Brian",0
+Precinct 309,United States Senator (Republican),None Of These Candidates,6
+Precinct 309,United States Senator (Republican),"Parson, Bill",0
+Precinct 309,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 309,United States Senator (Republican),"Suominen, Terry",0
+Precinct 309,United States Senator (Republican),"Tarkanian, Danny",27
+Precinct 311,Attorney General (Republican),"Barrick, Travis",207
+Precinct 311,Attorney General (Republican),"Hafter, Jacob",125
+Precinct 311,Attorney General (Republican),None Of These Candidates,122
+Precinct 311,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",682
+Precinct 311,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",648
+Precinct 311,Governor (Democratic),"Conquest, Frederick L.",29
+Precinct 311,Governor (Democratic),None Of These Candidates,37
+Precinct 311,Governor (Democratic),"Reid, Rory",151
+Precinct 311,Governor (Republican),"Atwood, Tony",7
+Precinct 311,Governor (Republican),"GIBBONS, JIM",141
+Precinct 311,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 311,Governor (Republican),"Montandon, Michael L.",71
+Precinct 311,Governor (Republican),None Of These Candidates,16
+Precinct 311,Governor (Republican),"Sandoval, Brian",248
+Precinct 311,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Precinct 311,Lieutenant Governor (Democratic),"Murad, Paul",38
+Precinct 311,Lieutenant Governor (Democratic),None Of These Candidates,22
+Precinct 311,Lieutenant Governor (Democratic),"Randazzo, Robert S.",14
+Precinct 311,Lieutenant Governor (Democratic),"Sferrazza, Jessica",122
+Precinct 311,Lieutenant Governor (Republican),"Krolicki, Brian",395
+Precinct 311,Lieutenant Governor (Republican),None Of These Candidates,15
+Precinct 311,Lieutenant Governor (Republican),"Woollen, Barbara Lee",70
+Precinct 311,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",152
+Precinct 311,School Trustee District 1 (Nonpartisan),"KEETON, TOM",177
+Precinct 311,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",64
+Precinct 311,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",259
+Precinct 311,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",598
+Precinct 311,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",599
+Precinct 311,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",109
+Precinct 311,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",174
+Precinct 311,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",138
+Precinct 311,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",210
+Precinct 311,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",367
+Precinct 311,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",271
+Precinct 311,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",123
+Precinct 311,"State Assembly, District 38 (Republican)","GLADWILL, GARY G.",138
+Precinct 311,"State Assembly, District 38 (Republican)","GRADY, TOM",304
+Precinct 311,State Controller (Republican),"Dagani, Gregory Nance",112
+Precinct 311,State Controller (Republican),"Herr, Barry",197
+Precinct 311,State Controller (Republican),None Of These Candidates,138
+Precinct 311,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",376
+Precinct 311,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",86
+Precinct 311,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",204
+Precinct 311,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",135
+Precinct 311,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",91
+Precinct 311,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",158
+Precinct 311,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",49
+Precinct 311,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",75
+Precinct 311,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",349
+Precinct 311,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",168
+Precinct 311,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",170
+Precinct 311,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",664
+Precinct 311,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",18
+Precinct 311,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",87
+Precinct 311,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",85
+Precinct 311,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",46
+Precinct 311,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",430
+Precinct 311,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",12
+Precinct 311,United States Senator (Democratic),"Miller, Alex",16
+Precinct 311,United States Senator (Democratic),None Of These Candidates,25
+Precinct 311,United States Senator (Democratic),"Poliak, Carlo",3
+Precinct 311,United States Senator (Democratic),"Reid, Harry",162
+Precinct 311,United States Senator (Republican),"Angle, Sharron",213
+Precinct 311,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 311,United States Senator (Republican),"Chachas, John",34
+Precinct 311,United States Senator (Republican),"Christensen, Chad",7
+Precinct 311,United States Senator (Republican),"Lowden, Sue",84
+Precinct 311,United States Senator (Republican),"Mabey, Garn",0
+Precinct 311,United States Senator (Republican),"Marinch, Gary",0
+Precinct 311,United States Senator (Republican),"Nadell, Brian",1
+Precinct 311,United States Senator (Republican),None Of These Candidates,7
+Precinct 311,United States Senator (Republican),"Parson, Bill",3
+Precinct 311,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 311,United States Senator (Republican),"Suominen, Terry",1
+Precinct 311,United States Senator (Republican),"Tarkanian, Danny",133
+Precinct 401,Attorney General (Republican),"Barrick, Travis",74
+Precinct 401,Attorney General (Republican),"Hafter, Jacob",45
+Precinct 401,Attorney General (Republican),None Of These Candidates,33
+Precinct 401,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",275
+Precinct 401,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",268
+Precinct 401,Governor (Democratic),"Conquest, Frederick L.",16
+Precinct 401,Governor (Democratic),None Of These Candidates,30
+Precinct 401,Governor (Democratic),"Reid, Rory",72
+Precinct 401,Governor (Republican),"Atwood, Tony",3
+Precinct 401,Governor (Republican),"GIBBONS, JIM",41
+Precinct 401,Governor (Republican),"Lusak, Stanleigh Harold",2
+Precinct 401,Governor (Republican),"Montandon, Michael L.",32
+Precinct 401,Governor (Republican),None Of These Candidates,6
+Precinct 401,Governor (Republican),"Sandoval, Brian",78
+Precinct 401,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",7
+Precinct 401,Lieutenant Governor (Democratic),"Murad, Paul",22
+Precinct 401,Lieutenant Governor (Democratic),None Of These Candidates,18
+Precinct 401,Lieutenant Governor (Democratic),"Randazzo, Robert S.",7
+Precinct 401,Lieutenant Governor (Democratic),"Sferrazza, Jessica",60
+Precinct 401,Lieutenant Governor (Republican),"Krolicki, Brian",125
+Precinct 401,Lieutenant Governor (Republican),None Of These Candidates,7
+Precinct 401,Lieutenant Governor (Republican),"Woollen, Barbara Lee",28
+Precinct 401,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",65
+Precinct 401,School Trustee District 1 (Nonpartisan),"KEETON, TOM",69
+Precinct 401,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",36
+Precinct 401,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",105
+Precinct 401,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",248
+Precinct 401,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",247
+Precinct 401,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",57
+Precinct 401,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",55
+Precinct 401,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",54
+Precinct 401,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",102
+Precinct 401,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",164
+Precinct 401,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",86
+Precinct 401,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",60
+Precinct 401,"State Assembly, District 40 (Republican)","CLEMENS, AMY",35
+Precinct 401,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",79
+Precinct 401,"State Assembly, District 40 (Republican)","UPTON, LYNDA",41
+Precinct 401,State Controller (Republican),"Dagani, Gregory Nance",55
+Precinct 401,State Controller (Republican),"Herr, Barry",64
+Precinct 401,State Controller (Republican),None Of These Candidates,30
+Precinct 401,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",134
+Precinct 401,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",19
+Precinct 401,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",87
+Precinct 401,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",37
+Precinct 401,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",32
+Precinct 401,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",61
+Precinct 401,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",24
+Precinct 401,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",47
+Precinct 401,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",126
+Precinct 401,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",72
+Precinct 401,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",79
+Precinct 401,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",269
+Precinct 401,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",10
+Precinct 401,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",49
+Precinct 401,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",35
+Precinct 401,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",18
+Precinct 401,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",144
+Precinct 401,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",8
+Precinct 401,United States Senator (Democratic),"Miller, Alex",11
+Precinct 401,United States Senator (Democratic),None Of These Candidates,16
+Precinct 401,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 401,United States Senator (Democratic),"Reid, Harry",82
+Precinct 401,United States Senator (Republican),"Angle, Sharron",76
+Precinct 401,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 401,United States Senator (Republican),"Chachas, John",11
+Precinct 401,United States Senator (Republican),"Christensen, Chad",2
+Precinct 401,United States Senator (Republican),"Lowden, Sue",28
+Precinct 401,United States Senator (Republican),"Mabey, Garn",0
+Precinct 401,United States Senator (Republican),"Marinch, Gary",0
+Precinct 401,United States Senator (Republican),"Nadell, Brian",0
+Precinct 401,United States Senator (Republican),None Of These Candidates,4
+Precinct 401,United States Senator (Republican),"Parson, Bill",0
+Precinct 401,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 401,United States Senator (Republican),"Suominen, Terry",0
+Precinct 401,United States Senator (Republican),"Tarkanian, Danny",43
+Precinct 403,Attorney General (Republican),"Barrick, Travis",140
+Precinct 403,Attorney General (Republican),"Hafter, Jacob",66
+Precinct 403,Attorney General (Republican),None Of These Candidates,54
+Precinct 403,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",499
+Precinct 403,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",491
+Precinct 403,Governor (Democratic),"Conquest, Frederick L.",39
+Precinct 403,Governor (Democratic),None Of These Candidates,42
+Precinct 403,Governor (Democratic),"Reid, Rory",136
+Precinct 403,Governor (Republican),"Atwood, Tony",7
+Precinct 403,Governor (Republican),"GIBBONS, JIM",72
+Precinct 403,Governor (Republican),"Lusak, Stanleigh Harold",2
+Precinct 403,Governor (Republican),"Montandon, Michael L.",30
+Precinct 403,Governor (Republican),None Of These Candidates,7
+Precinct 403,Governor (Republican),"Sandoval, Brian",155
+Precinct 403,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",19
+Precinct 403,Lieutenant Governor (Democratic),"Murad, Paul",39
+Precinct 403,Lieutenant Governor (Democratic),None Of These Candidates,22
+Precinct 403,Lieutenant Governor (Democratic),"Randazzo, Robert S.",24
+Precinct 403,Lieutenant Governor (Democratic),"Sferrazza, Jessica",109
+Precinct 403,Lieutenant Governor (Republican),"Krolicki, Brian",220
+Precinct 403,Lieutenant Governor (Republican),None Of These Candidates,12
+Precinct 403,Lieutenant Governor (Republican),"Woollen, Barbara Lee",36
+Precinct 403,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",182
+Precinct 403,School Trustee District 1 (Nonpartisan),"KEETON, TOM",125
+Precinct 403,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",58
+Precinct 403,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",132
+Precinct 403,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",473
+Precinct 403,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",467
+Precinct 403,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",87
+Precinct 403,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",83
+Precinct 403,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",98
+Precinct 403,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",229
+Precinct 403,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",285
+Precinct 403,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",164
+Precinct 403,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",102
+Precinct 403,"State Assembly, District 40 (Republican)","CLEMENS, AMY",66
+Precinct 403,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",123
+Precinct 403,"State Assembly, District 40 (Republican)","UPTON, LYNDA",69
+Precinct 403,State Controller (Republican),"Dagani, Gregory Nance",89
+Precinct 403,State Controller (Republican),"Herr, Barry",110
+Precinct 403,State Controller (Republican),None Of These Candidates,63
+Precinct 403,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",213
+Precinct 403,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",49
+Precinct 403,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",169
+Precinct 403,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",92
+Precinct 403,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",50
+Precinct 403,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",93
+Precinct 405,Lieutenant Governor (Republican),"Woollen, Barbara Lee",50
+Precinct 405,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",127
+Precinct 405,School Trustee District 1 (Nonpartisan),"KEETON, TOM",122
+Precinct 405,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",40
+Precinct 405,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",133
+Precinct 405,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",383
+Precinct 405,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",386
+Precinct 405,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",55
+Precinct 405,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",94
+Precinct 405,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",77
+Precinct 405,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",180
+Precinct 405,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",212
+Precinct 405,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",196
+Precinct 405,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",70
+Precinct 405,"State Assembly, District 40 (Republican)","CLEMENS, AMY",66
+Precinct 405,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",118
+Precinct 405,"State Assembly, District 40 (Republican)","UPTON, LYNDA",61
+Precinct 405,State Controller (Republican),"Dagani, Gregory Nance",69
+Precinct 405,State Controller (Republican),"Herr, Barry",102
+Precinct 405,State Controller (Republican),None Of These Candidates,69
+Precinct 405,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",203
+Precinct 405,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",38
+Precinct 405,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",146
+Precinct 405,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",77
+Precinct 405,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",53
+Precinct 405,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",82
+Precinct 405,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",26
+Precinct 405,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",60
+Precinct 405,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",199
+Precinct 405,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",130
+Precinct 405,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",99
+Precinct 405,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",417
+Precinct 405,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",17
+Precinct 405,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",78
+Precinct 405,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",63
+Precinct 405,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",32
+Precinct 405,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",224
+Precinct 405,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",10
+Precinct 405,United States Senator (Democratic),"Miller, Alex",15
+Precinct 405,United States Senator (Democratic),None Of These Candidates,25
+Precinct 405,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 405,United States Senator (Democratic),"Reid, Harry",125
+Precinct 405,United States Senator (Republican),"Angle, Sharron",122
+Precinct 405,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 405,United States Senator (Republican),"Chachas, John",11
+Precinct 405,United States Senator (Republican),"Christensen, Chad",4
+Precinct 405,United States Senator (Republican),"Lowden, Sue",41
+Precinct 405,United States Senator (Republican),"Mabey, Garn",1
+Precinct 405,United States Senator (Republican),"Marinch, Gary",0
+Precinct 405,United States Senator (Republican),"Nadell, Brian",0
+Precinct 405,United States Senator (Republican),None Of These Candidates,11
+Precinct 405,United States Senator (Republican),"Parson, Bill",2
+Precinct 405,United States Senator (Republican),"Stern, Cecilia",1
+Precinct 405,United States Senator (Republican),"Suominen, Terry",0
+Precinct 405,United States Senator (Republican),"Tarkanian, Danny",69
+Precinct 407,Attorney General (Republican),"Barrick, Travis",112
+Precinct 407,Attorney General (Republican),"Hafter, Jacob",86
+Precinct 407,Attorney General (Republican),None Of These Candidates,72
+Precinct 407,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",431
+Precinct 407,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",410
+Precinct 407,Governor (Democratic),"Conquest, Frederick L.",23
+Precinct 407,Governor (Democratic),None Of These Candidates,34
+Precinct 407,Governor (Democratic),"Reid, Rory",86
+Precinct 407,Governor (Republican),"Atwood, Tony",0
+Precinct 407,Governor (Republican),"GIBBONS, JIM",86
+Precinct 407,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 407,Governor (Republican),"Montandon, Michael L.",45
+Precinct 407,Governor (Republican),None Of These Candidates,7
+Precinct 407,Governor (Republican),"Sandoval, Brian",146
+Precinct 407,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",7
+Precinct 407,Lieutenant Governor (Democratic),"Murad, Paul",17
+Precinct 407,Lieutenant Governor (Democratic),None Of These Candidates,15
+Precinct 407,Lieutenant Governor (Democratic),"Randazzo, Robert S.",6
+Precinct 407,Lieutenant Governor (Democratic),"Sferrazza, Jessica",99
+Precinct 407,Lieutenant Governor (Republican),"Krolicki, Brian",227
+Precinct 407,Lieutenant Governor (Republican),None Of These Candidates,18
+Precinct 407,Lieutenant Governor (Republican),"Woollen, Barbara Lee",40
+Precinct 407,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",134
+Precinct 407,School Trustee District 1 (Nonpartisan),"KEETON, TOM",128
+Precinct 407,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",36
+Precinct 407,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",123
+Precinct 407,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",392
+Precinct 407,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",383
+Precinct 407,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",55
+Precinct 407,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",104
+Precinct 407,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",78
+Precinct 407,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",179
+Precinct 407,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",231
+Precinct 407,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",138
+Precinct 407,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",105
+Precinct 407,"State Assembly, District 40 (Republican)","CLEMENS, AMY",75
+Precinct 407,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",135
+Precinct 407,"State Assembly, District 40 (Republican)","UPTON, LYNDA",58
+Precinct 407,State Controller (Republican),"Dagani, Gregory Nance",90
+Precinct 407,State Controller (Republican),"Herr, Barry",103
+Precinct 407,State Controller (Republican),None Of These Candidates,73
+Precinct 407,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",235
+Precinct 407,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",39
+Precinct 407,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",108
+Precinct 407,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",78
+Precinct 407,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",67
+Precinct 407,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",77
+Precinct 407,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",46
+Precinct 407,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",67
+Precinct 407,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",172
+Precinct 407,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",128
+Precinct 407,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",131
+Precinct 407,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",420
+Precinct 407,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",13
+Precinct 407,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",64
+Precinct 407,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",55
+Precinct 407,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",27
+Precinct 407,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",259
+Precinct 407,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",11
+Precinct 407,United States Senator (Democratic),"Miller, Alex",10
+Precinct 407,United States Senator (Democratic),None Of These Candidates,22
+Precinct 407,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 407,United States Senator (Democratic),"Reid, Harry",102
+Precinct 407,United States Senator (Republican),"Angle, Sharron",132
+Precinct 407,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 407,United States Senator (Republican),"Chachas, John",8
+Precinct 407,United States Senator (Republican),"Christensen, Chad",4
+Precinct 407,United States Senator (Republican),"Lowden, Sue",61
+Precinct 407,United States Senator (Republican),"Mabey, Garn",0
+Precinct 407,United States Senator (Republican),"Marinch, Gary",0
+Precinct 407,United States Senator (Republican),"Nadell, Brian",0
+Precinct 407,United States Senator (Republican),None Of These Candidates,4
+Precinct 407,United States Senator (Republican),"Parson, Bill",3
+Precinct 407,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 407,United States Senator (Republican),"Suominen, Terry",0
+Precinct 407,United States Senator (Republican),"Tarkanian, Danny",73
+Precinct 409,Attorney General (Republican),"Barrick, Travis",139
+Precinct 409,Attorney General (Republican),"Hafter, Jacob",79
+Precinct 409,Attorney General (Republican),None Of These Candidates,78
+Precinct 409,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",540
+Precinct 409,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",513
+Precinct 409,Governor (Democratic),"Conquest, Frederick L.",18
+Precinct 409,Governor (Democratic),None Of These Candidates,37
+Precinct 409,Governor (Democratic),"Reid, Rory",166
+Precinct 409,Governor (Republican),"Atwood, Tony",4
+Precinct 409,Governor (Republican),"GIBBONS, JIM",94
+Precinct 409,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 409,Governor (Republican),"Montandon, Michael L.",31
+Precinct 409,Governor (Republican),None Of These Candidates,5
+Precinct 409,Governor (Republican),"Sandoval, Brian",181
+Precinct 409,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",17
+Precinct 409,Lieutenant Governor (Democratic),"Murad, Paul",46
+Precinct 409,Lieutenant Governor (Democratic),None Of These Candidates,17
+Precinct 409,Lieutenant Governor (Democratic),"Randazzo, Robert S.",17
+Precinct 409,Lieutenant Governor (Democratic),"Sferrazza, Jessica",119
+Precinct 409,Lieutenant Governor (Republican),"Krolicki, Brian",266
+Precinct 409,Lieutenant Governor (Republican),None Of These Candidates,9
+Precinct 409,Lieutenant Governor (Republican),"Woollen, Barbara Lee",41
+Precinct 409,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",146
+Precinct 409,School Trustee District 1 (Nonpartisan),"KEETON, TOM",165
+Precinct 409,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",37
+Precinct 409,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",187
+Precinct 409,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",483
+Precinct 409,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",480
+Precinct 409,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",86
+Precinct 409,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",126
+Precinct 409,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",166
+Precinct 409,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",154
+Precinct 409,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",333
+Precinct 409,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",163
+Precinct 409,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",96
+Precinct 409,"State Assembly, District 40 (Republican)","CLEMENS, AMY",83
+Precinct 409,"State Assembly, District 40 (Republican)","LIVERMORE, PETE",136
+Precinct 409,"State Assembly, District 40 (Republican)","UPTON, LYNDA",82
+Precinct 409,State Controller (Republican),"Dagani, Gregory Nance",84
+Precinct 409,State Controller (Republican),"Herr, Barry",126
+Precinct 409,State Controller (Republican),None Of These Candidates,87
+Precinct 409,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",267
+Precinct 409,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",39
+Precinct 409,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",216
+Precinct 409,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",78
+Precinct 409,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",51
+Precinct 409,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",94
+Precinct 409,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",34
+Precinct 409,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",95
+Precinct 409,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",233
+Precinct 409,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",158
+Precinct 409,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",138
+Precinct 409,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",521
+Precinct 409,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",17
+Precinct 409,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",81
+Precinct 409,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",94
+Precinct 409,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",32
+Precinct 409,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",283
+Precinct 409,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+Precinct 409,United States Senator (Democratic),"Miller, Alex",12
+Precinct 409,United States Senator (Democratic),None Of These Candidates,21
+Precinct 409,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 409,United States Senator (Democratic),"Reid, Harry",184
+Precinct 409,United States Senator (Republican),"Angle, Sharron",134
+Precinct 409,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 409,United States Senator (Republican),"Chachas, John",17
+Precinct 409,United States Senator (Republican),"Christensen, Chad",7
+Precinct 409,United States Senator (Republican),"Lowden, Sue",54
+Precinct 409,United States Senator (Republican),"Mabey, Garn",0
+Precinct 409,United States Senator (Republican),"Marinch, Gary",0
+Precinct 409,United States Senator (Republican),"Nadell, Brian",1
+Precinct 409,United States Senator (Republican),None Of These Candidates,8
+Precinct 409,United States Senator (Republican),"Parson, Bill",2
+Precinct 409,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 409,United States Senator (Republican),"Suominen, Terry",0
+Precinct 409,United States Senator (Republican),"Tarkanian, Danny",94
+Precinct 411,Attorney General (Republican),"Barrick, Travis",127
+Precinct 411,Attorney General (Republican),"Hafter, Jacob",70
+Precinct 411,Attorney General (Republican),None Of These Candidates,75
+Precinct 411,Clerk-Recorder CARSON CITY - NP (Nonpartisan),"GLOVER, ALAN",417
+Precinct 411,District Attorney - CARSON CITY - NP (Nonpartisan),"ROMBARDO, NEIL A.",399
+Precinct 411,Governor (Democratic),"Conquest, Frederick L.",9
+Precinct 411,Governor (Democratic),None Of These Candidates,21
+Precinct 411,Governor (Democratic),"Reid, Rory",90
+Precinct 411,Governor (Republican),"Atwood, Tony",4
+Precinct 411,Governor (Republican),"GIBBONS, JIM",79
+Precinct 411,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 411,Governor (Republican),"Montandon, Michael L.",66
+Precinct 411,Governor (Republican),None Of These Candidates,8
+Precinct 411,Governor (Republican),"Sandoval, Brian",143
+Precinct 411,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",7
+Precinct 411,Lieutenant Governor (Democratic),"Murad, Paul",26
+Precinct 411,Lieutenant Governor (Democratic),None Of These Candidates,10
+Precinct 411,Lieutenant Governor (Democratic),"Randazzo, Robert S.",8
+Precinct 411,Lieutenant Governor (Democratic),"Sferrazza, Jessica",66
+Precinct 411,Lieutenant Governor (Republican),"Krolicki, Brian",242
+Precinct 411,Lieutenant Governor (Republican),None Of These Candidates,12
+Precinct 411,Lieutenant Governor (Republican),"Woollen, Barbara Lee",44
+Precinct 411,School Trustee District 1 (Nonpartisan),"BUSHNER, JULIE",105
+Precinct 411,School Trustee District 1 (Nonpartisan),"KEETON, TOM",121
+Precinct 411,School Trustee District 1 (Nonpartisan),"PRATER, ROBERT",40
+Precinct 411,School Trustee District 1 (Nonpartisan),"SWIRCZEK, RON",142
+Precinct 411,School Trustee District 3 (Nonpartisan),"WILKE-MCCULLOCH, STACIE",380
+Precinct 411,School Trustee District 4 (Nonpartisan),"CONRAD, LYNNETTE",382
+Precinct 411,School Trustee District 6 - NP (Nonpartisan),"BRUGGER, PAUL R.",82
+Precinct 411,School Trustee District 6 - NP (Nonpartisan),"CARLSON, RANDY",121
+Precinct 411,School Trustee District 6 - NP (Nonpartisan),"CONTINE, DEONNE",53
+Precinct 411,School Trustee District 6 - NP (Nonpartisan),"MYERS, BARBARA J.",138
+Precinct 411,Sheriff - CARSON CITY - NP (Nonpartisan),"FURLONG, KENNY",232
+Precinct 411,Sheriff - CARSON CITY - NP (Nonpartisan),"GUIMONT, BOB",162
+Precinct 411,Sheriff - CARSON CITY - NP (Nonpartisan),"WHITE, BOB",58
+Precinct 411,"State Assembly, District 38 (Republican)","GLADWILL, GARY G.",93
+Precinct 411,"State Assembly, District 38 (Republican)","GRADY, TOM",179
+Precinct 411,State Controller (Republican),"Dagani, Gregory Nance",82
+Precinct 411,State Controller (Republican),"Herr, Barry",116
+Precinct 411,State Controller (Republican),None Of These Candidates,78
+Precinct 411,"State Senate, Capital Senatorial District (Republican)","SETTELMEYER, JAMES ARNOLD",265
+Precinct 411,"State Senate, Capital Senatorial District (Republican)","YEATER, STEVE",26
+Precinct 411,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","ABOWD, KAREN L.",118
+Precinct 411,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","JOINER, ROB",96
+Precinct 411,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","LEHMANN, SEAN L.",37
+Precinct 411,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SAUCEDO, PAUL R.",91
+Precinct 411,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCHULZ, GARY",42
+Precinct 411,"Supervisor, Ward 1 - CARSON CITY - NP (Nonpartisan)","SCOGGIN, NORMAN E.",49
+Precinct 411,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","MCKENNA, JOHN",202
+Precinct 411,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","SATTLER, MARK",122
+Precinct 411,"Supervisor, Ward 3 - CARSON CITY - NP (Nonpartisan)","WILLIAMS, DAY",90
+Precinct 411,Treasurer - CARSON CITY - NP (Nonpartisan),"KRAMER, AL",405
+Precinct 411,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",2
+Precinct 411,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",57
+Precinct 411,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",53
+Precinct 411,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",38
+Precinct 411,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",264
+Precinct 411,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+Precinct 411,United States Senator (Democratic),"Miller, Alex",7
+Precinct 411,United States Senator (Democratic),None Of These Candidates,19
+Precinct 411,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 411,United States Senator (Democratic),"Reid, Harry",89
+Precinct 411,United States Senator (Republican),"Angle, Sharron",148
+Precinct 411,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 411,United States Senator (Republican),"Chachas, John",32
+Precinct 411,United States Senator (Republican),"Christensen, Chad",6
+Precinct 411,United States Senator (Republican),"Lowden, Sue",53
+Precinct 411,United States Senator (Republican),"Mabey, Garn",0
+Precinct 411,United States Senator (Republican),"Marinch, Gary",0
+Precinct 411,United States Senator (Republican),"Nadell, Brian",0
+Precinct 411,United States Senator (Republican),None Of These Candidates,3
+Precinct 411,United States Senator (Republican),"Parson, Bill",2
+Precinct 411,United States Senator (Republican),"Stern, Cecilia",1
+Precinct 411,United States Senator (Republican),"Suominen, Terry",0
+Precinct 411,United States Senator (Republican),"Tarkanian, Danny",58
+Precinct 999,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+Precinct 999,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
+Precinct 999,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
+Precinct 999,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
+Precinct 999,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+Precinct 999,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 999,United States Senator (Democratic),"Miller, Alex",0
+Precinct 999,United States Senator (Democratic),None Of These Candidates,0
+Precinct 999,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 999,United States Senator (Democratic),"Reid, Harry",0
+Precinct 999,United States Senator (Republican),"Angle, Sharron",0
+Precinct 999,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 999,United States Senator (Republican),"Chachas, John",0
+Precinct 999,United States Senator (Republican),"Christensen, Chad",0
+Precinct 999,United States Senator (Republican),"Lowden, Sue",0
+Precinct 999,United States Senator (Republican),"Mabey, Garn",0
+Precinct 999,United States Senator (Republican),"Marinch, Gary",0
+Precinct 999,United States Senator (Republican),"Nadell, Brian",0
+Precinct 999,United States Senator (Republican),None Of These Candidates,0
+Precinct 999,United States Senator (Republican),"Parson, Bill",0
+Precinct 999,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 999,United States Senator (Republican),"Suominen, Terry",0
+Precinct 999,United States Senator (Republican),"Tarkanian, Danny",0

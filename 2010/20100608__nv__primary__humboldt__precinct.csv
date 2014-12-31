@@ -1,0 +1,1041 @@
+precinct,office,candidate,votes
+Precinct 1,Attorney General (Republican),"Barrick, Travis",70
+Precinct 1,Attorney General (Republican),"Hafter, Jacob",33
+Precinct 1,Attorney General (Republican),None Of These Candidates,55
+Precinct 1,"County Commission, Seat E (Republican)","ARANT, JOHN",26
+Precinct 1,"County Commission, Seat E (Republican)","BROWN, RICH",16
+Precinct 1,"County Commission, Seat E (Republican)","DOUGLAS, BILL",7
+Precinct 1,"County Commission, Seat E (Republican)","FRENCH, JIM",58
+Precinct 1,"County Commission, Seat E (Republican)","HUMMEL, MEL",46
+Precinct 1,"County Commission, Seat E (Republican)","KELLER, MARSHALL",5
+Precinct 1,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",84
+Precinct 1,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",67
+Precinct 1,Governor (Democratic),"Conquest, Frederick L.",7
+Precinct 1,Governor (Democratic),None Of These Candidates,26
+Precinct 1,Governor (Democratic),"Reid, Rory",36
+Precinct 1,Governor (Republican),"Atwood, Tony",1
+Precinct 1,Governor (Republican),"GIBBONS, JIM",48
+Precinct 1,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 1,Governor (Republican),"Montandon, Michael L.",14
+Precinct 1,Governor (Republican),None Of These Candidates,7
+Precinct 1,Governor (Republican),"Sandoval, Brian",89
+Precinct 1,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",57
+Precinct 1,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",79
+Precinct 1,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",111
+Precinct 1,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Precinct 1,Lieutenant Governor (Democratic),"Murad, Paul",4
+Precinct 1,Lieutenant Governor (Democratic),None Of These Candidates,13
+Precinct 1,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Precinct 1,Lieutenant Governor (Democratic),"Sferrazza, Jessica",39
+Precinct 1,Lieutenant Governor (Republican),"Krolicki, Brian",112
+Precinct 1,Lieutenant Governor (Republican),None Of These Candidates,19
+Precinct 1,Lieutenant Governor (Republican),"Woollen, Barbara Lee",28
+Precinct 1,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",224
+Precinct 1,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",216
+Precinct 1,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",226
+Precinct 1,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",12
+Precinct 1,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",165
+Precinct 1,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",89
+Precinct 1,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",208
+Precinct 1,State Controller (Republican),"Dagani, Gregory Nance",46
+Precinct 1,State Controller (Republican),"Herr, Barry",51
+Precinct 1,State Controller (Republican),None Of These Candidates,60
+Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",4
+Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",24
+Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",35
+Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",38
+Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",119
+Precinct 1,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+Precinct 1,United States Senator (Democratic),"Miller, Alex",4
+Precinct 1,United States Senator (Democratic),None Of These Candidates,15
+Precinct 1,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 1,United States Senator (Democratic),"Reid, Harry",47
+Precinct 1,United States Senator (Republican),"Angle, Sharron",57
+Precinct 1,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 1,United States Senator (Republican),"Chachas, John",18
+Precinct 1,United States Senator (Republican),"Christensen, Chad",8
+Precinct 1,United States Senator (Republican),"Lowden, Sue",25
+Precinct 1,United States Senator (Republican),"Mabey, Garn",0
+Precinct 1,United States Senator (Republican),"Marinch, Gary",0
+Precinct 1,United States Senator (Republican),"Nadell, Brian",1
+Precinct 1,United States Senator (Republican),None Of These Candidates,4
+Precinct 1,United States Senator (Republican),"Parson, Bill",0
+Precinct 1,United States Senator (Republican),"Stern, Cecilia",1
+Precinct 1,United States Senator (Republican),"Suominen, Terry",1
+Precinct 1,United States Senator (Republican),"Tarkanian, Danny",45
+Precinct 1,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",39
+Precinct 1,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",73
+Precinct 1,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",128
+Precinct 10,Attorney General (Republican),"Barrick, Travis",15
+Precinct 10,Attorney General (Republican),"Hafter, Jacob",7
+Precinct 10,Attorney General (Republican),None Of These Candidates,7
+Precinct 10,"County Commission, Seat E (Republican)","ARANT, JOHN",2
+Precinct 10,"County Commission, Seat E (Republican)","BROWN, RICH",4
+Precinct 10,"County Commission, Seat E (Republican)","DOUGLAS, BILL",2
+Precinct 10,"County Commission, Seat E (Republican)","FRENCH, JIM",4
+Precinct 10,"County Commission, Seat E (Republican)","HUMMEL, MEL",17
+Precinct 10,"County Commission, Seat E (Republican)","KELLER, MARSHALL",1
+Precinct 10,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",20
+Precinct 10,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",8
+Precinct 10,Governor (Democratic),"Conquest, Frederick L.",3
+Precinct 10,Governor (Democratic),None Of These Candidates,17
+Precinct 10,Governor (Democratic),"Reid, Rory",17
+Precinct 10,Governor (Republican),"Atwood, Tony",1
+Precinct 10,Governor (Republican),"GIBBONS, JIM",13
+Precinct 10,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 10,Governor (Republican),"Montandon, Michael L.",0
+Precinct 10,Governor (Republican),None Of These Candidates,1
+Precinct 10,Governor (Republican),"Sandoval, Brian",15
+Precinct 10,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",15
+Precinct 10,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",61
+Precinct 10,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",8
+Precinct 10,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Precinct 10,Lieutenant Governor (Democratic),"Murad, Paul",0
+Precinct 10,Lieutenant Governor (Democratic),None Of These Candidates,12
+Precinct 10,Lieutenant Governor (Democratic),"Randazzo, Robert S.",1
+Precinct 10,Lieutenant Governor (Democratic),"Sferrazza, Jessica",21
+Precinct 10,Lieutenant Governor (Republican),"Krolicki, Brian",16
+Precinct 10,Lieutenant Governor (Republican),None Of These Candidates,4
+Precinct 10,Lieutenant Governor (Republican),"Woollen, Barbara Lee",10
+Precinct 10,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",79
+Precinct 10,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",57
+Precinct 10,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",61
+Precinct 10,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",7
+Precinct 10,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",36
+Precinct 10,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",41
+Precinct 10,"State Assembly, District 33 (Republican)","ANDRUS, DALE E.",8
+Precinct 10,"State Assembly, District 33 (Republican)","ELLISON, JOHN",19
+Precinct 10,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",61
+Precinct 10,State Controller (Republican),"Dagani, Gregory Nance",7
+Precinct 10,State Controller (Republican),"Herr, Barry",11
+Precinct 10,State Controller (Republican),None Of These Candidates,11
+Precinct 10,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",1
+Precinct 10,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",22
+Precinct 10,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",11
+Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",4
+Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",26
+Precinct 10,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+Precinct 10,United States Senator (Democratic),"Miller, Alex",3
+Precinct 10,United States Senator (Democratic),None Of These Candidates,5
+Precinct 10,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 10,United States Senator (Democratic),"Reid, Harry",30
+Precinct 10,United States Senator (Republican),"Angle, Sharron",5
+Precinct 10,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 10,United States Senator (Republican),"Chachas, John",1
+Precinct 10,United States Senator (Republican),"Christensen, Chad",1
+Precinct 10,United States Senator (Republican),"Lowden, Sue",9
+Precinct 10,United States Senator (Republican),"Mabey, Garn",0
+Precinct 10,United States Senator (Republican),"Marinch, Gary",0
+Precinct 10,United States Senator (Republican),"Nadell, Brian",0
+Precinct 10,United States Senator (Republican),None Of These Candidates,0
+Precinct 10,United States Senator (Republican),"Parson, Bill",0
+Precinct 10,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 10,United States Senator (Republican),"Suominen, Terry",0
+Precinct 10,United States Senator (Republican),"Tarkanian, Danny",14
+Precinct 10,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",5
+Precinct 10,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",15
+Precinct 10,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",59
+Precinct 11,Attorney General (Republican),"Barrick, Travis",36
+Precinct 11,Attorney General (Republican),"Hafter, Jacob",26
+Precinct 11,Attorney General (Republican),None Of These Candidates,27
+Precinct 11,"County Commission, Seat E (Republican)","ARANT, JOHN",2
+Precinct 11,"County Commission, Seat E (Republican)","BROWN, RICH",0
+Precinct 11,"County Commission, Seat E (Republican)","DOUGLAS, BILL",2
+Precinct 11,"County Commission, Seat E (Republican)","FRENCH, JIM",10
+Precinct 11,"County Commission, Seat E (Republican)","HUMMEL, MEL",83
+Precinct 11,"County Commission, Seat E (Republican)","KELLER, MARSHALL",2
+Precinct 11,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",70
+Precinct 11,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",25
+Precinct 11,Governor (Democratic),"Conquest, Frederick L.",4
+Precinct 11,Governor (Democratic),None Of These Candidates,4
+Precinct 11,Governor (Democratic),"Reid, Rory",3
+Precinct 11,Governor (Republican),"Atwood, Tony",0
+Precinct 11,Governor (Republican),"GIBBONS, JIM",44
+Precinct 11,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 11,Governor (Republican),"Montandon, Michael L.",7
+Precinct 11,Governor (Republican),None Of These Candidates,0
+Precinct 11,Governor (Republican),"Sandoval, Brian",49
+Precinct 11,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",7
+Precinct 11,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",84
+Precinct 11,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",27
+Precinct 11,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Precinct 11,Lieutenant Governor (Democratic),"Murad, Paul",2
+Precinct 11,Lieutenant Governor (Democratic),None Of These Candidates,1
+Precinct 11,Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
+Precinct 11,Lieutenant Governor (Democratic),"Sferrazza, Jessica",5
+Precinct 11,Lieutenant Governor (Republican),"Krolicki, Brian",64
+Precinct 11,Lieutenant Governor (Republican),None Of These Candidates,11
+Precinct 11,Lieutenant Governor (Republican),"Woollen, Barbara Lee",19
+Precinct 11,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",105
+Precinct 11,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",92
+Precinct 11,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",91
+Precinct 11,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",4
+Precinct 11,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",85
+Precinct 11,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",35
+Precinct 11,"State Assembly, District 33 (Republican)","ANDRUS, DALE E.",30
+Precinct 11,"State Assembly, District 33 (Republican)","ELLISON, JOHN",50
+Precinct 11,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",84
+Precinct 11,State Controller (Republican),"Dagani, Gregory Nance",16
+Precinct 11,State Controller (Republican),"Herr, Barry",39
+Precinct 11,State Controller (Republican),None Of These Candidates,32
+Precinct 11,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",4
+Precinct 11,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",1
+Precinct 11,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",6
+Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",15
+Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",84
+Precinct 11,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+Precinct 11,United States Senator (Democratic),"Miller, Alex",2
+Precinct 11,United States Senator (Democratic),None Of These Candidates,2
+Precinct 11,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 11,United States Senator (Democratic),"Reid, Harry",3
+Precinct 11,United States Senator (Republican),"Angle, Sharron",41
+Precinct 11,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 11,United States Senator (Republican),"Chachas, John",5
+Precinct 11,United States Senator (Republican),"Christensen, Chad",0
+Precinct 11,United States Senator (Republican),"Lowden, Sue",25
+Precinct 11,United States Senator (Republican),"Mabey, Garn",0
+Precinct 11,United States Senator (Republican),"Marinch, Gary",0
+Precinct 11,United States Senator (Republican),"Nadell, Brian",0
+Precinct 11,United States Senator (Republican),None Of These Candidates,2
+Precinct 11,United States Senator (Republican),"Parson, Bill",1
+Precinct 11,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 11,United States Senator (Republican),"Suominen, Terry",1
+Precinct 11,United States Senator (Republican),"Tarkanian, Danny",24
+Precinct 11,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",25
+Precinct 11,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",25
+Precinct 11,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",46
+Precinct 12,Attorney General (Republican),"Barrick, Travis",28
+Precinct 12,Attorney General (Republican),"Hafter, Jacob",18
+Precinct 12,Attorney General (Republican),None Of These Candidates,28
+Precinct 12,"County Commission, Seat E (Republican)","ARANT, JOHN",15
+Precinct 12,"County Commission, Seat E (Republican)","BROWN, RICH",4
+Precinct 12,"County Commission, Seat E (Republican)","DOUGLAS, BILL",2
+Precinct 12,"County Commission, Seat E (Republican)","FRENCH, JIM",10
+Precinct 12,"County Commission, Seat E (Republican)","HUMMEL, MEL",51
+Precinct 12,"County Commission, Seat E (Republican)","KELLER, MARSHALL",2
+Precinct 12,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",59
+Precinct 12,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",15
+Precinct 12,Governor (Democratic),"Conquest, Frederick L.",5
+Precinct 12,Governor (Democratic),None Of These Candidates,3
+Precinct 12,Governor (Democratic),"Reid, Rory",4
+Precinct 12,Governor (Republican),"Atwood, Tony",1
+Precinct 12,Governor (Republican),"GIBBONS, JIM",27
+Precinct 12,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 12,Governor (Republican),"Montandon, Michael L.",6
+Precinct 12,Governor (Republican),None Of These Candidates,4
+Precinct 12,Governor (Republican),"Sandoval, Brian",46
+Precinct 12,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",20
+Precinct 12,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",45
+Precinct 12,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",33
+Precinct 12,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",2
+Precinct 12,Lieutenant Governor (Democratic),"Murad, Paul",1
+Precinct 12,Lieutenant Governor (Democratic),None Of These Candidates,0
+Precinct 12,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Precinct 12,Lieutenant Governor (Democratic),"Sferrazza, Jessica",7
+Precinct 12,Lieutenant Governor (Republican),"Krolicki, Brian",60
+Precinct 12,Lieutenant Governor (Republican),None Of These Candidates,11
+Precinct 12,Lieutenant Governor (Republican),"Woollen, Barbara Lee",11
+Precinct 12,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",77
+Precinct 12,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",72
+Precinct 12,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",74
+Precinct 12,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",1
+Precinct 12,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",81
+Precinct 12,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",22
+Precinct 12,"State Assembly, District 33 (Republican)","ANDRUS, DALE E.",20
+Precinct 12,"State Assembly, District 33 (Republican)","ELLISON, JOHN",55
+Precinct 12,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",67
+Precinct 12,State Controller (Republican),"Dagani, Gregory Nance",20
+Precinct 12,State Controller (Republican),"Herr, Barry",19
+Precinct 12,State Controller (Republican),None Of These Candidates,31
+Precinct 12,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",1
+Precinct 12,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",6
+Precinct 12,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",5
+Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",15
+Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",68
+Precinct 12,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 12,United States Senator (Democratic),"Miller, Alex",3
+Precinct 12,United States Senator (Democratic),None Of These Candidates,4
+Precinct 12,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 12,United States Senator (Democratic),"Reid, Harry",2
+Precinct 12,United States Senator (Republican),"Angle, Sharron",31
+Precinct 12,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 12,United States Senator (Republican),"Chachas, John",11
+Precinct 12,United States Senator (Republican),"Christensen, Chad",2
+Precinct 12,United States Senator (Republican),"Lowden, Sue",22
+Precinct 12,United States Senator (Republican),"Mabey, Garn",0
+Precinct 12,United States Senator (Republican),"Marinch, Gary",0
+Precinct 12,United States Senator (Republican),"Nadell, Brian",0
+Precinct 12,United States Senator (Republican),None Of These Candidates,1
+Precinct 12,United States Senator (Republican),"Parson, Bill",0
+Precinct 12,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 12,United States Senator (Republican),"Suominen, Terry",0
+Precinct 12,United States Senator (Republican),"Tarkanian, Danny",17
+Precinct 12,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",10
+Precinct 12,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",25
+Precinct 12,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",49
+Precinct 13,Attorney General (Republican),"Barrick, Travis",30
+Precinct 13,Attorney General (Republican),"Hafter, Jacob",22
+Precinct 13,Attorney General (Republican),None Of These Candidates,16
+Precinct 13,"County Commission, Seat E (Republican)","ARANT, JOHN",10
+Precinct 13,"County Commission, Seat E (Republican)","BROWN, RICH",4
+Precinct 13,"County Commission, Seat E (Republican)","DOUGLAS, BILL",3
+Precinct 13,"County Commission, Seat E (Republican)","FRENCH, JIM",23
+Precinct 13,"County Commission, Seat E (Republican)","HUMMEL, MEL",27
+Precinct 13,"County Commission, Seat E (Republican)","KELLER, MARSHALL",4
+Precinct 13,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",43
+Precinct 13,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",22
+Precinct 13,Governor (Democratic),"Conquest, Frederick L.",7
+Precinct 13,Governor (Democratic),None Of These Candidates,9
+Precinct 13,Governor (Democratic),"Reid, Rory",14
+Precinct 13,Governor (Republican),"Atwood, Tony",2
+Precinct 13,Governor (Republican),"GIBBONS, JIM",35
+Precinct 13,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 13,Governor (Republican),"Montandon, Michael L.",4
+Precinct 13,Governor (Republican),None Of These Candidates,6
+Precinct 13,Governor (Republican),"Sandoval, Brian",28
+Precinct 13,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",48
+Precinct 13,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",31
+Precinct 13,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",36
+Precinct 13,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",7
+Precinct 13,Lieutenant Governor (Democratic),"Murad, Paul",3
+Precinct 13,Lieutenant Governor (Democratic),None Of These Candidates,4
+Precinct 13,Lieutenant Governor (Democratic),"Randazzo, Robert S.",4
+Precinct 13,Lieutenant Governor (Democratic),"Sferrazza, Jessica",11
+Precinct 13,Lieutenant Governor (Republican),"Krolicki, Brian",39
+Precinct 13,Lieutenant Governor (Republican),None Of These Candidates,7
+Precinct 13,Lieutenant Governor (Republican),"Woollen, Barbara Lee",22
+Precinct 13,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",100
+Precinct 13,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",97
+Precinct 13,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",96
+Precinct 13,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",8
+Precinct 13,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",88
+Precinct 13,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",37
+Precinct 13,"State Assembly, District 33 (Republican)","ANDRUS, DALE E.",16
+Precinct 13,"State Assembly, District 33 (Republican)","ELLISON, JOHN",48
+Precinct 13,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",87
+Precinct 13,State Controller (Republican),"Dagani, Gregory Nance",15
+Precinct 13,State Controller (Republican),"Herr, Barry",32
+Precinct 13,State Controller (Republican),None Of These Candidates,18
+Precinct 13,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",3
+Precinct 13,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",14
+Precinct 13,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",8
+Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",19
+Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",58
+Precinct 13,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+Precinct 13,United States Senator (Democratic),"Miller, Alex",4
+Precinct 13,United States Senator (Democratic),None Of These Candidates,3
+Precinct 13,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 13,United States Senator (Democratic),"Reid, Harry",19
+Precinct 13,United States Senator (Republican),"Angle, Sharron",21
+Precinct 13,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 13,United States Senator (Republican),"Chachas, John",6
+Precinct 13,United States Senator (Republican),"Christensen, Chad",3
+Precinct 13,United States Senator (Republican),"Lowden, Sue",24
+Precinct 13,United States Senator (Republican),"Mabey, Garn",0
+Precinct 13,United States Senator (Republican),"Marinch, Gary",1
+Precinct 13,United States Senator (Republican),"Nadell, Brian",0
+Precinct 13,United States Senator (Republican),None Of These Candidates,7
+Precinct 13,United States Senator (Republican),"Parson, Bill",2
+Precinct 13,United States Senator (Republican),"Stern, Cecilia",2
+Precinct 13,United States Senator (Republican),"Suominen, Terry",0
+Precinct 13,United States Senator (Republican),"Tarkanian, Danny",10
+Precinct 13,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",29
+Precinct 13,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",26
+Precinct 13,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",53
+Precinct 14,Attorney General (Republican),"Barrick, Travis",36
+Precinct 14,Attorney General (Republican),"Hafter, Jacob",24
+Precinct 14,Attorney General (Republican),None Of These Candidates,30
+Precinct 14,"County Commission, Seat E (Republican)","ARANT, JOHN",10
+Precinct 14,"County Commission, Seat E (Republican)","BROWN, RICH",6
+Precinct 14,"County Commission, Seat E (Republican)","DOUGLAS, BILL",5
+Precinct 14,"County Commission, Seat E (Republican)","FRENCH, JIM",28
+Precinct 14,"County Commission, Seat E (Republican)","HUMMEL, MEL",43
+Precinct 14,"County Commission, Seat E (Republican)","KELLER, MARSHALL",2
+Precinct 14,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",57
+Precinct 14,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",33
+Precinct 14,Governor (Democratic),"Conquest, Frederick L.",4
+Precinct 14,Governor (Democratic),None Of These Candidates,7
+Precinct 14,Governor (Democratic),"Reid, Rory",12
+Precinct 14,Governor (Republican),"Atwood, Tony",1
+Precinct 14,Governor (Republican),"GIBBONS, JIM",38
+Precinct 14,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 14,Governor (Republican),"Montandon, Michael L.",11
+Precinct 14,Governor (Republican),None Of These Candidates,6
+Precinct 14,Governor (Republican),"Sandoval, Brian",38
+Precinct 14,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",22
+Precinct 14,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",60
+Precinct 14,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",49
+Precinct 14,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",2
+Precinct 14,Lieutenant Governor (Democratic),"Murad, Paul",0
+Precinct 14,Lieutenant Governor (Democratic),None Of These Candidates,4
+Precinct 14,Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
+Precinct 14,Lieutenant Governor (Democratic),"Sferrazza, Jessica",19
+Precinct 14,Lieutenant Governor (Republican),"Krolicki, Brian",65
+Precinct 14,Lieutenant Governor (Republican),None Of These Candidates,12
+Precinct 14,Lieutenant Governor (Republican),"Woollen, Barbara Lee",16
+Precinct 14,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",122
+Precinct 14,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",120
+Precinct 14,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",121
+Precinct 14,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",7
+Precinct 14,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",87
+Precinct 14,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",45
+Precinct 14,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",111
+Precinct 14,State Controller (Republican),"Dagani, Gregory Nance",17
+Precinct 14,State Controller (Republican),"Herr, Barry",42
+Precinct 14,State Controller (Republican),None Of These Candidates,31
+Precinct 14,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",1
+Precinct 14,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",6
+Precinct 14,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",15
+Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",17
+Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",77
+Precinct 14,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 14,United States Senator (Democratic),"Miller, Alex",2
+Precinct 14,United States Senator (Democratic),None Of These Candidates,5
+Precinct 14,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 14,United States Senator (Democratic),"Reid, Harry",16
+Precinct 14,United States Senator (Republican),"Angle, Sharron",38
+Precinct 14,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 14,United States Senator (Republican),"Chachas, John",5
+Precinct 14,United States Senator (Republican),"Christensen, Chad",5
+Precinct 14,United States Senator (Republican),"Lowden, Sue",16
+Precinct 14,United States Senator (Republican),"Mabey, Garn",0
+Precinct 14,United States Senator (Republican),"Marinch, Gary",0
+Precinct 14,United States Senator (Republican),"Nadell, Brian",0
+Precinct 14,United States Senator (Republican),None Of These Candidates,6
+Precinct 14,United States Senator (Republican),"Parson, Bill",0
+Precinct 14,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 14,United States Senator (Republican),"Suominen, Terry",0
+Precinct 14,United States Senator (Republican),"Tarkanian, Danny",23
+Precinct 14,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",18
+Precinct 14,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",32
+Precinct 14,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",70
+Precinct 15,Attorney General (Republican),"Barrick, Travis",18
+Precinct 15,Attorney General (Republican),"Hafter, Jacob",20
+Precinct 15,Attorney General (Republican),None Of These Candidates,8
+Precinct 15,"County Commission, Seat E (Republican)","ARANT, JOHN",8
+Precinct 15,"County Commission, Seat E (Republican)","BROWN, RICH",19
+Precinct 15,"County Commission, Seat E (Republican)","DOUGLAS, BILL",0
+Precinct 15,"County Commission, Seat E (Republican)","FRENCH, JIM",5
+Precinct 15,"County Commission, Seat E (Republican)","HUMMEL, MEL",14
+Precinct 15,"County Commission, Seat E (Republican)","KELLER, MARSHALL",1
+Precinct 15,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",30
+Precinct 15,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",13
+Precinct 15,Governor (Democratic),"Conquest, Frederick L.",6
+Precinct 15,Governor (Democratic),None Of These Candidates,10
+Precinct 15,Governor (Democratic),"Reid, Rory",5
+Precinct 15,Governor (Republican),"Atwood, Tony",3
+Precinct 15,Governor (Republican),"GIBBONS, JIM",21
+Precinct 15,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 15,Governor (Republican),"Montandon, Michael L.",3
+Precinct 15,Governor (Republican),None Of These Candidates,3
+Precinct 15,Governor (Republican),"Sandoval, Brian",19
+Precinct 15,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",32
+Precinct 15,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",12
+Precinct 15,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",36
+Precinct 15,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",4
+Precinct 15,Lieutenant Governor (Democratic),"Murad, Paul",1
+Precinct 15,Lieutenant Governor (Democratic),None Of These Candidates,4
+Precinct 15,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Precinct 15,Lieutenant Governor (Democratic),"Sferrazza, Jessica",10
+Precinct 15,Lieutenant Governor (Republican),"Krolicki, Brian",20
+Precinct 15,Lieutenant Governor (Republican),None Of These Candidates,7
+Precinct 15,Lieutenant Governor (Republican),"Woollen, Barbara Lee",20
+Precinct 15,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",72
+Precinct 15,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",71
+Precinct 15,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",68
+Precinct 15,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",6
+Precinct 15,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",51
+Precinct 15,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",30
+Precinct 15,"State Assembly, District 33 (Republican)","ANDRUS, DALE E.",17
+Precinct 15,"State Assembly, District 33 (Republican)","ELLISON, JOHN",23
+Precinct 15,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",69
+Precinct 15,State Controller (Republican),"Dagani, Gregory Nance",13
+Precinct 15,State Controller (Republican),"Herr, Barry",23
+Precinct 15,State Controller (Republican),None Of These Candidates,11
+Precinct 15,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+Precinct 15,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",13
+Precinct 15,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",6
+Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",9
+Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",38
+Precinct 15,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 15,United States Senator (Democratic),"Miller, Alex",3
+Precinct 15,United States Senator (Democratic),None Of These Candidates,8
+Precinct 15,United States Senator (Democratic),"Poliak, Carlo",2
+Precinct 15,United States Senator (Democratic),"Reid, Harry",8
+Precinct 15,United States Senator (Republican),"Angle, Sharron",20
+Precinct 15,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 15,United States Senator (Republican),"Chachas, John",2
+Precinct 15,United States Senator (Republican),"Christensen, Chad",3
+Precinct 15,United States Senator (Republican),"Lowden, Sue",14
+Precinct 15,United States Senator (Republican),"Mabey, Garn",0
+Precinct 15,United States Senator (Republican),"Marinch, Gary",0
+Precinct 15,United States Senator (Republican),"Nadell, Brian",0
+Precinct 15,United States Senator (Republican),None Of These Candidates,2
+Precinct 15,United States Senator (Republican),"Parson, Bill",1
+Precinct 15,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 15,United States Senator (Republican),"Suominen, Terry",0
+Precinct 15,United States Senator (Republican),"Tarkanian, Danny",8
+Precinct 15,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",17
+Precinct 15,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",23
+Precinct 15,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",34
+Precinct 2,Attorney General (Republican),"Barrick, Travis",39
+Precinct 2,Attorney General (Republican),"Hafter, Jacob",23
+Precinct 2,Attorney General (Republican),None Of These Candidates,33
+Precinct 2,"County Commission, Seat E (Republican)","ARANT, JOHN",27
+Precinct 2,"County Commission, Seat E (Republican)","BROWN, RICH",5
+Precinct 2,"County Commission, Seat E (Republican)","DOUGLAS, BILL",4
+Precinct 2,"County Commission, Seat E (Republican)","FRENCH, JIM",39
+Precinct 2,"County Commission, Seat E (Republican)","HUMMEL, MEL",26
+Precinct 2,"County Commission, Seat E (Republican)","KELLER, MARSHALL",1
+Precinct 2,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",51
+Precinct 2,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",43
+Precinct 2,Governor (Democratic),"Conquest, Frederick L.",9
+Precinct 2,Governor (Democratic),None Of These Candidates,17
+Precinct 2,Governor (Democratic),"Reid, Rory",45
+Precinct 2,Governor (Republican),"Atwood, Tony",2
+Precinct 2,Governor (Republican),"GIBBONS, JIM",28
+Precinct 2,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 2,Governor (Republican),"Montandon, Michael L.",13
+Precinct 2,Governor (Republican),None Of These Candidates,3
+Precinct 2,Governor (Republican),"Sandoval, Brian",51
+Precinct 2,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",48
+Precinct 2,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",57
+Precinct 2,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",84
+Precinct 2,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Precinct 2,Lieutenant Governor (Democratic),"Murad, Paul",3
+Precinct 2,Lieutenant Governor (Democratic),None Of These Candidates,14
+Precinct 2,Lieutenant Governor (Democratic),"Randazzo, Robert S.",4
+Precinct 2,Lieutenant Governor (Democratic),"Sferrazza, Jessica",46
+Precinct 2,Lieutenant Governor (Republican),"Krolicki, Brian",70
+Precinct 2,Lieutenant Governor (Republican),None Of These Candidates,10
+Precinct 2,Lieutenant Governor (Republican),"Woollen, Barbara Lee",17
+Precinct 2,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",160
+Precinct 2,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",155
+Precinct 2,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",165
+Precinct 2,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",12
+Precinct 2,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",150
+Precinct 2,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",45
+Precinct 2,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",150
+Precinct 2,State Controller (Republican),"Dagani, Gregory Nance",27
+Precinct 2,State Controller (Republican),"Herr, Barry",37
+Precinct 2,State Controller (Republican),None Of These Candidates,32
+Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",10
+Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",28
+Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",20
+Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",23
+Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",75
+Precinct 2,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+Precinct 2,United States Senator (Democratic),"Miller, Alex",5
+Precinct 2,United States Senator (Democratic),None Of These Candidates,15
+Precinct 2,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 2,United States Senator (Democratic),"Reid, Harry",49
+Precinct 2,United States Senator (Republican),"Angle, Sharron",32
+Precinct 2,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 2,United States Senator (Republican),"Chachas, John",14
+Precinct 2,United States Senator (Republican),"Christensen, Chad",2
+Precinct 2,United States Senator (Republican),"Lowden, Sue",14
+Precinct 2,United States Senator (Republican),"Mabey, Garn",0
+Precinct 2,United States Senator (Republican),"Marinch, Gary",0
+Precinct 2,United States Senator (Republican),"Nadell, Brian",0
+Precinct 2,United States Senator (Republican),None Of These Candidates,2
+Precinct 2,United States Senator (Republican),"Parson, Bill",1
+Precinct 2,United States Senator (Republican),"Stern, Cecilia",2
+Precinct 2,United States Senator (Republican),"Suominen, Terry",0
+Precinct 2,United States Senator (Republican),"Tarkanian, Danny",33
+Precinct 2,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",27
+Precinct 2,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",47
+Precinct 2,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",103
+Precinct 3,Attorney General (Republican),"Barrick, Travis",59
+Precinct 3,Attorney General (Republican),"Hafter, Jacob",35
+Precinct 3,Attorney General (Republican),None Of These Candidates,57
+Precinct 3,"County Commission, Seat E (Republican)","ARANT, JOHN",44
+Precinct 3,"County Commission, Seat E (Republican)","BROWN, RICH",20
+Precinct 3,"County Commission, Seat E (Republican)","DOUGLAS, BILL",4
+Precinct 3,"County Commission, Seat E (Republican)","FRENCH, JIM",50
+Precinct 3,"County Commission, Seat E (Republican)","HUMMEL, MEL",35
+Precinct 3,"County Commission, Seat E (Republican)","KELLER, MARSHALL",5
+Precinct 3,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",89
+Precinct 3,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",64
+Precinct 3,Governor (Democratic),"Conquest, Frederick L.",17
+Precinct 3,Governor (Democratic),None Of These Candidates,36
+Precinct 3,Governor (Democratic),"Reid, Rory",54
+Precinct 3,Governor (Republican),"Atwood, Tony",1
+Precinct 3,Governor (Republican),"GIBBONS, JIM",30
+Precinct 3,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 3,Governor (Republican),"Montandon, Michael L.",19
+Precinct 3,Governor (Republican),None Of These Candidates,4
+Precinct 3,Governor (Republican),"Sandoval, Brian",104
+Precinct 3,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",55
+Precinct 3,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",99
+Precinct 3,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",130
+Precinct 3,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",10
+Precinct 3,Lieutenant Governor (Democratic),"Murad, Paul",7
+Precinct 3,Lieutenant Governor (Democratic),None Of These Candidates,11
+Precinct 3,Lieutenant Governor (Democratic),"Randazzo, Robert S.",11
+Precinct 3,Lieutenant Governor (Democratic),"Sferrazza, Jessica",67
+Precinct 3,Lieutenant Governor (Republican),"Krolicki, Brian",115
+Precinct 3,Lieutenant Governor (Republican),None Of These Candidates,21
+Precinct 3,Lieutenant Governor (Republican),"Woollen, Barbara Lee",23
+Precinct 3,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",241
+Precinct 3,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",239
+Precinct 3,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",255
+Precinct 3,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",14
+Precinct 3,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",187
+Precinct 3,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",94
+Precinct 3,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",229
+Precinct 3,State Controller (Republican),"Dagani, Gregory Nance",40
+Precinct 3,State Controller (Republican),"Herr, Barry",55
+Precinct 3,State Controller (Republican),None Of These Candidates,56
+Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",9
+Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",41
+Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",36
+Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",27
+Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",129
+Precinct 3,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+Precinct 3,United States Senator (Democratic),"Miller, Alex",9
+Precinct 3,United States Senator (Democratic),None Of These Candidates,26
+Precinct 3,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 3,United States Senator (Democratic),"Reid, Harry",70
+Precinct 3,United States Senator (Republican),"Angle, Sharron",54
+Precinct 3,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 3,United States Senator (Republican),"Chachas, John",6
+Precinct 3,United States Senator (Republican),"Christensen, Chad",9
+Precinct 3,United States Senator (Republican),"Lowden, Sue",42
+Precinct 3,United States Senator (Republican),"Mabey, Garn",0
+Precinct 3,United States Senator (Republican),"Marinch, Gary",0
+Precinct 3,United States Senator (Republican),"Nadell, Brian",0
+Precinct 3,United States Senator (Republican),None Of These Candidates,3
+Precinct 3,United States Senator (Republican),"Parson, Bill",1
+Precinct 3,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 3,United States Senator (Republican),"Suominen, Terry",0
+Precinct 3,United States Senator (Republican),"Tarkanian, Danny",44
+Precinct 3,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",32
+Precinct 3,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",89
+Precinct 3,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",137
+Precinct 4,Attorney General (Republican),"Barrick, Travis",59
+Precinct 4,Attorney General (Republican),"Hafter, Jacob",30
+Precinct 4,Attorney General (Republican),None Of These Candidates,37
+Precinct 4,"County Commission, Seat E (Republican)","ARANT, JOHN",30
+Precinct 4,"County Commission, Seat E (Republican)","BROWN, RICH",15
+Precinct 4,"County Commission, Seat E (Republican)","DOUGLAS, BILL",7
+Precinct 4,"County Commission, Seat E (Republican)","FRENCH, JIM",47
+Precinct 4,"County Commission, Seat E (Republican)","HUMMEL, MEL",21
+Precinct 4,"County Commission, Seat E (Republican)","KELLER, MARSHALL",7
+Precinct 4,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",81
+Precinct 4,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",41
+Precinct 4,Governor (Democratic),"Conquest, Frederick L.",12
+Precinct 4,Governor (Democratic),None Of These Candidates,26
+Precinct 4,Governor (Democratic),"Reid, Rory",28
+Precinct 4,Governor (Republican),"Atwood, Tony",2
+Precinct 4,Governor (Republican),"GIBBONS, JIM",37
+Precinct 4,Governor (Republican),"Lusak, Stanleigh Harold",1
+Precinct 4,Governor (Republican),"Montandon, Michael L.",10
+Precinct 4,Governor (Republican),None Of These Candidates,7
+Precinct 4,Governor (Republican),"Sandoval, Brian",74
+Precinct 4,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",54
+Precinct 4,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",49
+Precinct 4,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",97
+Precinct 4,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",5
+Precinct 4,Lieutenant Governor (Democratic),"Murad, Paul",8
+Precinct 4,Lieutenant Governor (Democratic),None Of These Candidates,11
+Precinct 4,Lieutenant Governor (Democratic),"Randazzo, Robert S.",7
+Precinct 4,Lieutenant Governor (Democratic),"Sferrazza, Jessica",34
+Precinct 4,Lieutenant Governor (Republican),"Krolicki, Brian",86
+Precinct 4,Lieutenant Governor (Republican),None Of These Candidates,18
+Precinct 4,Lieutenant Governor (Republican),"Woollen, Barbara Lee",25
+Precinct 4,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",182
+Precinct 4,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",183
+Precinct 4,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",188
+Precinct 4,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",11
+Precinct 4,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",139
+Precinct 4,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",60
+Precinct 4,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",179
+Precinct 4,State Controller (Republican),"Dagani, Gregory Nance",39
+Precinct 4,State Controller (Republican),"Herr, Barry",35
+Precinct 4,State Controller (Republican),None Of These Candidates,49
+Precinct 4,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",5
+Precinct 4,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",26
+Precinct 4,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",31
+Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",26
+Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",99
+Precinct 4,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+Precinct 4,United States Senator (Democratic),"Miller, Alex",7
+Precinct 4,United States Senator (Democratic),None Of These Candidates,20
+Precinct 4,United States Senator (Democratic),"Poliak, Carlo",3
+Precinct 4,United States Senator (Democratic),"Reid, Harry",33
+Precinct 4,United States Senator (Republican),"Angle, Sharron",41
+Precinct 4,United States Senator (Republican),"Bernstein, Gary",1
+Precinct 4,United States Senator (Republican),"Chachas, John",11
+Precinct 4,United States Senator (Republican),"Christensen, Chad",10
+Precinct 4,United States Senator (Republican),"Lowden, Sue",22
+Precinct 4,United States Senator (Republican),"Mabey, Garn",0
+Precinct 4,United States Senator (Republican),"Marinch, Gary",0
+Precinct 4,United States Senator (Republican),"Nadell, Brian",0
+Precinct 4,United States Senator (Republican),None Of These Candidates,8
+Precinct 4,United States Senator (Republican),"Parson, Bill",1
+Precinct 4,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 4,United States Senator (Republican),"Suominen, Terry",0
+Precinct 4,United States Senator (Republican),"Tarkanian, Danny",37
+Precinct 4,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",33
+Precinct 4,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",51
+Precinct 4,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",107
+Precinct 5,Attorney General (Republican),"Barrick, Travis",133
+Precinct 5,Attorney General (Republican),"Hafter, Jacob",98
+Precinct 5,Attorney General (Republican),None Of These Candidates,130
+Precinct 5,"County Commission, Seat E (Republican)","ARANT, JOHN",91
+Precinct 5,"County Commission, Seat E (Republican)","BROWN, RICH",22
+Precinct 5,"County Commission, Seat E (Republican)","DOUGLAS, BILL",5
+Precinct 5,"County Commission, Seat E (Republican)","FRENCH, JIM",169
+Precinct 5,"County Commission, Seat E (Republican)","HUMMEL, MEL",77
+Precinct 5,"County Commission, Seat E (Republican)","KELLER, MARSHALL",9
+Precinct 5,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",205
+Precinct 5,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",157
+Precinct 5,Governor (Democratic),"Conquest, Frederick L.",25
+Precinct 5,Governor (Democratic),None Of These Candidates,23
+Precinct 5,Governor (Democratic),"Reid, Rory",72
+Precinct 5,Governor (Republican),"Atwood, Tony",2
+Precinct 5,Governor (Republican),"GIBBONS, JIM",87
+Precinct 5,Governor (Republican),"Lusak, Stanleigh Harold",4
+Precinct 5,Governor (Republican),"Montandon, Michael L.",36
+Precinct 5,Governor (Republican),None Of These Candidates,15
+Precinct 5,Governor (Republican),"Sandoval, Brian",233
+Precinct 5,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",113
+Precinct 5,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",159
+Precinct 5,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",254
+Precinct 5,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Precinct 5,Lieutenant Governor (Democratic),"Murad, Paul",6
+Precinct 5,Lieutenant Governor (Democratic),None Of These Candidates,9
+Precinct 5,Lieutenant Governor (Democratic),"Randazzo, Robert S.",6
+Precinct 5,Lieutenant Governor (Democratic),"Sferrazza, Jessica",88
+Precinct 5,Lieutenant Governor (Republican),"Krolicki, Brian",281
+Precinct 5,Lieutenant Governor (Republican),None Of These Candidates,32
+Precinct 5,Lieutenant Governor (Republican),"Woollen, Barbara Lee",60
+Precinct 5,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",481
+Precinct 5,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",470
+Precinct 5,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",492
+Precinct 5,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",20
+Precinct 5,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",348
+Precinct 5,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",194
+Precinct 5,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",462
+Precinct 5,State Controller (Republican),"Dagani, Gregory Nance",88
+Precinct 5,State Controller (Republican),"Herr, Barry",112
+Precinct 5,State Controller (Republican),None Of These Candidates,159
+Precinct 5,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",15
+Precinct 5,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",45
+Precinct 5,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",53
+Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",68
+Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",304
+Precinct 5,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+Precinct 5,United States Senator (Democratic),"Miller, Alex",17
+Precinct 5,United States Senator (Democratic),None Of These Candidates,20
+Precinct 5,United States Senator (Democratic),"Poliak, Carlo",2
+Precinct 5,United States Senator (Democratic),"Reid, Harry",78
+Precinct 5,United States Senator (Republican),"Angle, Sharron",110
+Precinct 5,United States Senator (Republican),"Bernstein, Gary",2
+Precinct 5,United States Senator (Republican),"Chachas, John",35
+Precinct 5,United States Senator (Republican),"Christensen, Chad",15
+Precinct 5,United States Senator (Republican),"Lowden, Sue",85
+Precinct 5,United States Senator (Republican),"Mabey, Garn",0
+Precinct 5,United States Senator (Republican),"Marinch, Gary",1
+Precinct 5,United States Senator (Republican),"Nadell, Brian",0
+Precinct 5,United States Senator (Republican),None Of These Candidates,23
+Precinct 5,United States Senator (Republican),"Parson, Bill",3
+Precinct 5,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 5,United States Senator (Republican),"Suominen, Terry",1
+Precinct 5,United States Senator (Republican),"Tarkanian, Danny",104
+Precinct 5,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",63
+Precinct 5,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",153
+Precinct 5,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",281
+Precinct 6,Attorney General (Republican),"Barrick, Travis",133
+Precinct 6,Attorney General (Republican),"Hafter, Jacob",62
+Precinct 6,Attorney General (Republican),None Of These Candidates,72
+Precinct 6,"County Commission, Seat E (Republican)","ARANT, JOHN",44
+Precinct 6,"County Commission, Seat E (Republican)","BROWN, RICH",27
+Precinct 6,"County Commission, Seat E (Republican)","DOUGLAS, BILL",21
+Precinct 6,"County Commission, Seat E (Republican)","FRENCH, JIM",106
+Precinct 6,"County Commission, Seat E (Republican)","HUMMEL, MEL",79
+Precinct 6,"County Commission, Seat E (Republican)","KELLER, MARSHALL",3
+Precinct 6,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",176
+Precinct 6,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",95
+Precinct 6,Governor (Democratic),"Conquest, Frederick L.",24
+Precinct 6,Governor (Democratic),None Of These Candidates,22
+Precinct 6,Governor (Democratic),"Reid, Rory",52
+Precinct 6,Governor (Republican),"Atwood, Tony",6
+Precinct 6,Governor (Republican),"GIBBONS, JIM",104
+Precinct 6,Governor (Republican),"Lusak, Stanleigh Harold",3
+Precinct 6,Governor (Republican),"Montandon, Michael L.",24
+Precinct 6,Governor (Republican),None Of These Candidates,10
+Precinct 6,Governor (Republican),"Sandoval, Brian",132
+Precinct 6,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",95
+Precinct 6,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",122
+Precinct 6,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",201
+Precinct 6,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",8
+Precinct 6,Lieutenant Governor (Democratic),"Murad, Paul",9
+Precinct 6,Lieutenant Governor (Democratic),None Of These Candidates,8
+Precinct 6,Lieutenant Governor (Democratic),"Randazzo, Robert S.",8
+Precinct 6,Lieutenant Governor (Democratic),"Sferrazza, Jessica",64
+Precinct 6,Lieutenant Governor (Republican),"Krolicki, Brian",199
+Precinct 6,Lieutenant Governor (Republican),None Of These Candidates,31
+Precinct 6,Lieutenant Governor (Republican),"Woollen, Barbara Lee",49
+Precinct 6,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",374
+Precinct 6,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",373
+Precinct 6,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",381
+Precinct 6,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",16
+Precinct 6,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",276
+Precinct 6,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",141
+Precinct 6,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",364
+Precinct 6,State Controller (Republican),"Dagani, Gregory Nance",74
+Precinct 6,State Controller (Republican),"Herr, Barry",109
+Precinct 6,State Controller (Republican),None Of These Candidates,84
+Precinct 6,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",11
+Precinct 6,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",39
+Precinct 6,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",45
+Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",50
+Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",224
+Precinct 6,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+Precinct 6,United States Senator (Democratic),"Miller, Alex",18
+Precinct 6,United States Senator (Democratic),None Of These Candidates,11
+Precinct 6,United States Senator (Democratic),"Poliak, Carlo",5
+Precinct 6,United States Senator (Democratic),"Reid, Harry",60
+Precinct 6,United States Senator (Republican),"Angle, Sharron",103
+Precinct 6,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 6,United States Senator (Republican),"Chachas, John",20
+Precinct 6,United States Senator (Republican),"Christensen, Chad",3
+Precinct 6,United States Senator (Republican),"Lowden, Sue",67
+Precinct 6,United States Senator (Republican),"Mabey, Garn",1
+Precinct 6,United States Senator (Republican),"Marinch, Gary",0
+Precinct 6,United States Senator (Republican),"Nadell, Brian",0
+Precinct 6,United States Senator (Republican),None Of These Candidates,7
+Precinct 6,United States Senator (Republican),"Parson, Bill",5
+Precinct 6,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 6,United States Senator (Republican),"Suominen, Terry",0
+Precinct 6,United States Senator (Republican),"Tarkanian, Danny",73
+Precinct 6,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",82
+Precinct 6,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",118
+Precinct 6,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",183
+Precinct 7,Attorney General (Republican),"Barrick, Travis",123
+Precinct 7,Attorney General (Republican),"Hafter, Jacob",75
+Precinct 7,Attorney General (Republican),None Of These Candidates,92
+Precinct 7,"County Commission, Seat E (Republican)","ARANT, JOHN",42
+Precinct 7,"County Commission, Seat E (Republican)","BROWN, RICH",38
+Precinct 7,"County Commission, Seat E (Republican)","DOUGLAS, BILL",12
+Precinct 7,"County Commission, Seat E (Republican)","FRENCH, JIM",110
+Precinct 7,"County Commission, Seat E (Republican)","HUMMEL, MEL",85
+Precinct 7,"County Commission, Seat E (Republican)","KELLER, MARSHALL",12
+Precinct 7,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",171
+Precinct 7,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",120
+Precinct 7,Governor (Democratic),"Conquest, Frederick L.",21
+Precinct 7,Governor (Democratic),None Of These Candidates,37
+Precinct 7,Governor (Democratic),"Reid, Rory",28
+Precinct 7,Governor (Republican),"Atwood, Tony",5
+Precinct 7,Governor (Republican),"GIBBONS, JIM",88
+Precinct 7,Governor (Republican),"Lusak, Stanleigh Harold",4
+Precinct 7,Governor (Republican),"Montandon, Michael L.",29
+Precinct 7,Governor (Republican),None Of These Candidates,11
+Precinct 7,Governor (Republican),"Sandoval, Brian",165
+Precinct 7,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",96
+Precinct 7,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",144
+Precinct 7,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",172
+Precinct 7,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",12
+Precinct 7,Lieutenant Governor (Democratic),"Murad, Paul",8
+Precinct 7,Lieutenant Governor (Democratic),None Of These Candidates,15
+Precinct 7,Lieutenant Governor (Democratic),"Randazzo, Robert S.",6
+Precinct 7,Lieutenant Governor (Democratic),"Sferrazza, Jessica",45
+Precinct 7,Lieutenant Governor (Republican),"Krolicki, Brian",199
+Precinct 7,Lieutenant Governor (Republican),None Of These Candidates,32
+Precinct 7,Lieutenant Governor (Republican),"Woollen, Barbara Lee",67
+Precinct 7,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",351
+Precinct 7,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",350
+Precinct 7,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",371
+Precinct 7,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",23
+Precinct 7,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",289
+Precinct 7,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",121
+Precinct 7,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",339
+Precinct 7,State Controller (Republican),"Dagani, Gregory Nance",65
+Precinct 7,State Controller (Republican),"Herr, Barry",120
+Precinct 7,State Controller (Republican),None Of These Candidates,105
+Precinct 7,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",13
+Precinct 7,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",34
+Precinct 7,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",27
+Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",59
+Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",235
+Precinct 7,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+Precinct 7,United States Senator (Democratic),"Miller, Alex",17
+Precinct 7,United States Senator (Democratic),None Of These Candidates,24
+Precinct 7,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 7,United States Senator (Democratic),"Reid, Harry",39
+Precinct 7,United States Senator (Republican),"Angle, Sharron",119
+Precinct 7,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 7,United States Senator (Republican),"Chachas, John",24
+Precinct 7,United States Senator (Republican),"Christensen, Chad",4
+Precinct 7,United States Senator (Republican),"Lowden, Sue",63
+Precinct 7,United States Senator (Republican),"Mabey, Garn",0
+Precinct 7,United States Senator (Republican),"Marinch, Gary",1
+Precinct 7,United States Senator (Republican),"Nadell, Brian",0
+Precinct 7,United States Senator (Republican),None Of These Candidates,8
+Precinct 7,United States Senator (Republican),"Parson, Bill",4
+Precinct 7,United States Senator (Republican),"Stern, Cecilia",2
+Precinct 7,United States Senator (Republican),"Suominen, Terry",0
+Precinct 7,United States Senator (Republican),"Tarkanian, Danny",78
+Precinct 7,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",68
+Precinct 7,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",113
+Precinct 7,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",187
+Precinct 8,Attorney General (Republican),"Barrick, Travis",21
+Precinct 8,Attorney General (Republican),"Hafter, Jacob",13
+Precinct 8,Attorney General (Republican),None Of These Candidates,15
+Precinct 8,"County Commission, Seat E (Republican)","ARANT, JOHN",2
+Precinct 8,"County Commission, Seat E (Republican)","BROWN, RICH",1
+Precinct 8,"County Commission, Seat E (Republican)","DOUGLAS, BILL",0
+Precinct 8,"County Commission, Seat E (Republican)","FRENCH, JIM",1
+Precinct 8,"County Commission, Seat E (Republican)","HUMMEL, MEL",51
+Precinct 8,"County Commission, Seat E (Republican)","KELLER, MARSHALL",0
+Precinct 8,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",32
+Precinct 8,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",17
+Precinct 8,Governor (Democratic),"Conquest, Frederick L.",3
+Precinct 8,Governor (Democratic),None Of These Candidates,4
+Precinct 8,Governor (Democratic),"Reid, Rory",3
+Precinct 8,Governor (Republican),"Atwood, Tony",0
+Precinct 8,Governor (Republican),"GIBBONS, JIM",15
+Precinct 8,Governor (Republican),"Lusak, Stanleigh Harold",2
+Precinct 8,Governor (Republican),"Montandon, Michael L.",3
+Precinct 8,Governor (Republican),None Of These Candidates,0
+Precinct 8,Governor (Republican),"Sandoval, Brian",35
+Precinct 8,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",10
+Precinct 8,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",26
+Precinct 8,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",29
+Precinct 8,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",2
+Precinct 8,Lieutenant Governor (Democratic),"Murad, Paul",1
+Precinct 8,Lieutenant Governor (Democratic),None Of These Candidates,1
+Precinct 8,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Precinct 8,Lieutenant Governor (Democratic),"Sferrazza, Jessica",4
+Precinct 8,Lieutenant Governor (Republican),"Krolicki, Brian",42
+Precinct 8,Lieutenant Governor (Republican),None Of These Candidates,2
+Precinct 8,Lieutenant Governor (Republican),"Woollen, Barbara Lee",10
+Precinct 8,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",50
+Precinct 8,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",47
+Precinct 8,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",53
+Precinct 8,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",4
+Precinct 8,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",64
+Precinct 8,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",3
+Precinct 8,"State Assembly, District 33 (Republican)","ANDRUS, DALE E.",4
+Precinct 8,"State Assembly, District 33 (Republican)","ELLISON, JOHN",8
+Precinct 8,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",40
+Precinct 8,State Controller (Republican),"Dagani, Gregory Nance",5
+Precinct 8,State Controller (Republican),"Herr, Barry",19
+Precinct 8,State Controller (Republican),None Of These Candidates,21
+Precinct 8,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",
+Precinct 8,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",
+Precinct 8,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
+Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",6
+Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",49
+Precinct 8,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 8,United States Senator (Democratic),"Miller, Alex",5
+Precinct 8,United States Senator (Democratic),None Of These Candidates,2
+Precinct 8,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 8,United States Senator (Democratic),"Reid, Harry",3
+Precinct 8,United States Senator (Republican),"Angle, Sharron",24
+Precinct 8,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 8,United States Senator (Republican),"Chachas, John",5
+Precinct 8,United States Senator (Republican),"Christensen, Chad",2
+Precinct 8,United States Senator (Republican),"Lowden, Sue",16
+Precinct 8,United States Senator (Republican),"Mabey, Garn",0
+Precinct 8,United States Senator (Republican),"Marinch, Gary",0
+Precinct 8,United States Senator (Republican),"Nadell, Brian",0
+Precinct 8,United States Senator (Republican),None Of These Candidates,0
+Precinct 8,United States Senator (Republican),"Parson, Bill",0
+Precinct 8,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 8,United States Senator (Republican),"Suominen, Terry",0
+Precinct 8,United States Senator (Republican),"Tarkanian, Danny",7
+Precinct 8,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",6
+Precinct 8,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",11
+Precinct 8,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",40
+Precinct 9,Attorney General (Republican),"Barrick, Travis",15
+Precinct 9,Attorney General (Republican),"Hafter, Jacob",15
+Precinct 9,Attorney General (Republican),None Of These Candidates,11
+Precinct 9,"County Commission, Seat E (Republican)","ARANT, JOHN",4
+Precinct 9,"County Commission, Seat E (Republican)","BROWN, RICH",3
+Precinct 9,"County Commission, Seat E (Republican)","DOUGLAS, BILL",4
+Precinct 9,"County Commission, Seat E (Republican)","FRENCH, JIM",8
+Precinct 9,"County Commission, Seat E (Republican)","HUMMEL, MEL",15
+Precinct 9,"County Commission, Seat E (Republican)","KELLER, MARSHALL",5
+Precinct 9,DISTRICT ATTORNEY (Republican),"SMITH, RUSSELL",18
+Precinct 9,DISTRICT ATTORNEY (Republican),"STERMITZ, MATT",17
+Precinct 9,Governor (Democratic),"Conquest, Frederick L.",5
+Precinct 9,Governor (Democratic),None Of These Candidates,2
+Precinct 9,Governor (Democratic),"Reid, Rory",4
+Precinct 9,Governor (Republican),"Atwood, Tony",0
+Precinct 9,Governor (Republican),"GIBBONS, JIM",17
+Precinct 9,Governor (Republican),"Lusak, Stanleigh Harold",0
+Precinct 9,Governor (Republican),"Montandon, Michael L.",2
+Precinct 9,Governor (Republican),None Of These Candidates,3
+Precinct 9,Governor (Republican),"Sandoval, Brian",20
+Precinct 9,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","ELDRIDGE, JENNIFER",21
+Precinct 9,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","GOURLEY, JOSEPH D. ""DAVE""",20
+Precinct 9,"Humboldt County Hospital District Trustee, Seat A (Nonpartisan)","HAMMARGREN, WILLIAM J. ""BILL""",28
+Precinct 9,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",3
+Precinct 9,Lieutenant Governor (Democratic),"Murad, Paul",1
+Precinct 9,Lieutenant Governor (Democratic),None Of These Candidates,1
+Precinct 9,Lieutenant Governor (Democratic),"Randazzo, Robert S.",2
+Precinct 9,Lieutenant Governor (Democratic),"Sferrazza, Jessica",4
+Precinct 9,Lieutenant Governor (Republican),"Krolicki, Brian",26
+Precinct 9,Lieutenant Governor (Republican),None Of These Candidates,5
+Precinct 9,Lieutenant Governor (Republican),"Woollen, Barbara Lee",11
+Precinct 9,"School Board Trustee, Seat A (Nonpartisan)","HILL, JOHN",60
+Precinct 9,"School Board Trustee, Seat C (Nonpartisan)","BETTERIDGE, BOYD",61
+Precinct 9,"School Board Trustee, Seat G (Nonpartisan)","SEELIGER, JOHN",62
+Precinct 9,Sheriff - HUMBOLDT (Nonpartisan),"DAVIDSON, BOB",8
+Precinct 9,Sheriff - HUMBOLDT (Nonpartisan),"KILGORE, ED",42
+Precinct 9,Sheriff - HUMBOLDT (Nonpartisan),"ROREX, ANDY R.",28
+Precinct 9,"State Board of Education, District 10 (Nonpartisan)","FERRY, CLIFF",54
+Precinct 9,State Controller (Republican),"Dagani, Gregory Nance",9
+Precinct 9,State Controller (Republican),"Herr, Barry",18
+Precinct 9,State Controller (Republican),None Of These Candidates,11
+Precinct 9,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",3
+Precinct 9,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",3
+Precinct 9,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",4
+Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",11
+Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",31
+Precinct 9,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+Precinct 9,United States Senator (Democratic),"Miller, Alex",0
+Precinct 9,United States Senator (Democratic),None Of These Candidates,2
+Precinct 9,United States Senator (Democratic),"Poliak, Carlo",1
+Precinct 9,United States Senator (Democratic),"Reid, Harry",7
+Precinct 9,United States Senator (Republican),"Angle, Sharron",17
+Precinct 9,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 9,United States Senator (Republican),"Chachas, John",2
+Precinct 9,United States Senator (Republican),"Christensen, Chad",0
+Precinct 9,United States Senator (Republican),"Lowden, Sue",10
+Precinct 9,United States Senator (Republican),"Mabey, Garn",0
+Precinct 9,United States Senator (Republican),"Marinch, Gary",0
+Precinct 9,United States Senator (Republican),"Nadell, Brian",0
+Precinct 9,United States Senator (Republican),None Of These Candidates,1
+Precinct 9,United States Senator (Republican),"Parson, Bill",0
+Precinct 9,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 9,United States Senator (Republican),"Suominen, Terry",0
+Precinct 9,United States Senator (Republican),"Tarkanian, Danny",12
+Precinct 9,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",13
+Precinct 9,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",21
+Precinct 9,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",37
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+Precinct 99,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 99,United States Senator (Democratic),"Miller, Alex",0
+Precinct 99,United States Senator (Democratic),None Of These Candidates,0
+Precinct 99,United States Senator (Democratic),"Poliak, Carlo",0
+Precinct 99,United States Senator (Democratic),"Reid, Harry",0
+Precinct 99,United States Senator (Republican),"Angle, Sharron",0
+Precinct 99,United States Senator (Republican),"Bernstein, Gary",0
+Precinct 99,United States Senator (Republican),"Chachas, John",0
+Precinct 99,United States Senator (Republican),"Christensen, Chad",0
+Precinct 99,United States Senator (Republican),"Lowden, Sue",0
+Precinct 99,United States Senator (Republican),"Mabey, Garn",0
+Precinct 99,United States Senator (Republican),"Marinch, Gary",0
+Precinct 99,United States Senator (Republican),"Nadell, Brian",0
+Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,United States Senator (Republican),"Parson, Bill",0
+Precinct 99,United States Senator (Republican),"Stern, Cecilia",0
+Precinct 99,United States Senator (Republican),"Suominen, Terry",0
+Precinct 99,United States Senator (Republican),"Tarkanian, Danny",0
