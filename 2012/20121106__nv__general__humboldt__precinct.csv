@@ -1,0 +1,578 @@
+precinct,office,candidate,votes
+Precinct 1,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",233
+Precinct 1,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",225
+Precinct 1,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",92
+Precinct 1,"City Councilman, WINNEMUCCA Seat 3","HUMMEL, LAURA MERRICK",89
+Precinct 1,"City Councilman, WINNEMUCCA Seat 3","ROMERO, SAL",96
+Precinct 1,"City Councilman, WINNEMUCCA Seat 3","TIPTON, KEN",190
+Precinct 1,"City Councilman, WINNEMUCCA Seat 5","BROOKS, PAIGE L.",212
+Precinct 1,"City Councilman, WINNEMUCCA Seat 5","DOUGLAS, BILL",66
+Precinct 1,"City Councilman, WINNEMUCCA Seat 5","STRINGHAM, CARRIE",191
+Precinct 1,County Comm. Seat A,"BRISSENDEN, MARLENE",239
+Precinct 1,County Comm. Seat A,"SHEEN, JOYCE",240
+Precinct 1,County Comm. Seat B,"BELL, MIKE",360
+Precinct 1,County Comm. Seat B,"VIOLETTE, ALLEN",117
+Precinct 1,County Comm. Seat D,"AMOS, GARLEY JR.",246
+Precinct 1,County Comm. Seat D,"WHITE, JIM",230
+Precinct 1,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",229
+Precinct 1,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",240
+Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",263
+Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",194
+Precinct 1,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",242
+Precinct 1,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",227
+Precinct 1,President and Vice President of the United States,"GOODE, VIRGIL",2
+Precinct 1,President and Vice President of the United States,"JOHNSON, GARY",7
+Precinct 1,President and Vice President of the United States,None Of These Candidates,9
+Precinct 1,President and Vice President of the United States,"Obama, Barack",188
+Precinct 1,President and Vice President of the United States,"Romney, Mitt",299
+Precinct 1,"State Assembly, District 32","Hansen, Ira",423
+Precinct 1,"State Board of Education, District 2","Clontz, Donna",208
+Precinct 1,"State Board of Education, District 2","Cook, Dave",229
+Precinct 1,"Supreme Court Justice, Seat C","Cherry, Michael A.",362
+Precinct 1,"Supreme Court Justice, Seat C",None Of These Candidates,89
+Precinct 1,"Supreme Court Justice, Seat F","Douglas, Michael L.",364
+Precinct 1,"Supreme Court Justice, Seat F",None Of These Candidates,94
+Precinct 1,"Supreme Court Justice, Seat G",None Of These Candidates,100
+Precinct 1,"Supreme Court Justice, Seat G","Saitta, Nancy M.",358
+Precinct 1,"U.S. Representative in Congress, District 2","Amodei, Mark E.",315
+Precinct 1,"U.S. Representative in Congress, District 2","Best, Russell",16
+Precinct 1,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",28
+Precinct 1,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",125
+Precinct 1,United States Senator,"Berkley, Shelley",114
+Precinct 1,United States Senator,"Heller, Dean",315
+Precinct 1,United States Senator,None Of These Candidates,31
+Precinct 1,United States Senator,"VANDERBEEK, DAVID LORY",41
+Precinct 10,County Comm. Seat A,"BRISSENDEN, MARLENE",56
+Precinct 10,County Comm. Seat A,"SHEEN, JOYCE",47
+Precinct 10,County Comm. Seat B,"BELL, MIKE",70
+Precinct 10,County Comm. Seat B,"VIOLETTE, ALLEN",34
+Precinct 10,County Comm. Seat D,"AMOS, GARLEY JR.",56
+Precinct 10,County Comm. Seat D,"WHITE, JIM",46
+Precinct 10,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",33
+Precinct 10,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",75
+Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",32
+Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",66
+Precinct 10,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",49
+Precinct 10,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",54
+Precinct 10,McDermitt Fire District Seat C,"EASTERDAY, BRUCE E.",101
+Precinct 10,McDermitt Fire District Seat C,"HARTLEY, DALE E.",11
+Precinct 10,McDermitt GID BOARD SEAT E,"HARTLEY, DALE E.",7
+Precinct 10,McDermitt GID BOARD SEAT E,"PETERSEN, DONALD",45
+Precinct 10,President and Vice President of the United States,"GOODE, VIRGIL",4
+Precinct 10,President and Vice President of the United States,"JOHNSON, GARY",1
+Precinct 10,President and Vice President of the United States,None Of These Candidates,1
+Precinct 10,President and Vice President of the United States,"Obama, Barack",60
+Precinct 10,President and Vice President of the United States,"Romney, Mitt",48
+Precinct 10,"State Assembly, District 32","Hansen, Ira",90
+Precinct 10,"State Board of Education, District 2","Clontz, Donna",49
+Precinct 10,"State Board of Education, District 2","Cook, Dave",50
+Precinct 10,"Supreme Court Justice, Seat C","Cherry, Michael A.",74
+Precinct 10,"Supreme Court Justice, Seat C",None Of These Candidates,31
+Precinct 10,"Supreme Court Justice, Seat F","Douglas, Michael L.",73
+Precinct 10,"Supreme Court Justice, Seat F",None Of These Candidates,32
+Precinct 10,"Supreme Court Justice, Seat G",None Of These Candidates,32
+Precinct 10,"Supreme Court Justice, Seat G","Saitta, Nancy M.",73
+Precinct 10,"U.S. Representative in Congress, District 2","Amodei, Mark E.",51
+Precinct 10,"U.S. Representative in Congress, District 2","Best, Russell",3
+Precinct 10,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",1
+Precinct 10,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",56
+Precinct 10,United States Senator,"Berkley, Shelley",54
+Precinct 10,United States Senator,"Heller, Dean",47
+Precinct 10,United States Senator,None Of These Candidates,7
+Precinct 10,United States Senator,"VANDERBEEK, DAVID LORY",6
+Precinct 11,County Comm. Seat A,"BRISSENDEN, MARLENE",111
+Precinct 11,County Comm. Seat A,"SHEEN, JOYCE",63
+Precinct 11,County Comm. Seat B,"BELL, MIKE",151
+Precinct 11,County Comm. Seat B,"VIOLETTE, ALLEN",20
+Precinct 11,County Comm. Seat D,"AMOS, GARLEY JR.",113
+Precinct 11,County Comm. Seat D,"WHITE, JIM",65
+Precinct 11,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",77
+Precinct 11,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",91
+Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",86
+Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",66
+Precinct 11,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",74
+Precinct 11,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",99
+Precinct 11,President and Vice President of the United States,"GOODE, VIRGIL",1
+Precinct 11,President and Vice President of the United States,"JOHNSON, GARY",1
+Precinct 11,President and Vice President of the United States,None Of These Candidates,2
+Precinct 11,President and Vice President of the United States,"Obama, Barack",16
+Precinct 11,President and Vice President of the United States,"Romney, Mitt",161
+Precinct 11,"State Assembly, District 32","Hansen, Ira",152
+Precinct 11,"State Board of Education, District 2","Clontz, Donna",47
+Precinct 11,"State Board of Education, District 2","Cook, Dave",108
+Precinct 11,"Supreme Court Justice, Seat C","Cherry, Michael A.",120
+Precinct 11,"Supreme Court Justice, Seat C",None Of These Candidates,35
+Precinct 11,"Supreme Court Justice, Seat F","Douglas, Michael L.",124
+Precinct 11,"Supreme Court Justice, Seat F",None Of These Candidates,29
+Precinct 11,"Supreme Court Justice, Seat G",None Of These Candidates,34
+Precinct 11,"Supreme Court Justice, Seat G","Saitta, Nancy M.",119
+Precinct 11,"U.S. Representative in Congress, District 2","Amodei, Mark E.",156
+Precinct 11,"U.S. Representative in Congress, District 2","Best, Russell",5
+Precinct 11,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",8
+Precinct 11,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",7
+Precinct 11,United States Senator,"Berkley, Shelley",9
+Precinct 11,United States Senator,"Heller, Dean",159
+Precinct 11,United States Senator,None Of These Candidates,5
+Precinct 11,United States Senator,"VANDERBEEK, DAVID LORY",7
+Precinct 12,County Comm. Seat A,"BRISSENDEN, MARLENE",65
+Precinct 12,County Comm. Seat A,"SHEEN, JOYCE",61
+Precinct 12,County Comm. Seat B,"BELL, MIKE",106
+Precinct 12,County Comm. Seat B,"VIOLETTE, ALLEN",16
+Precinct 12,County Comm. Seat D,"AMOS, GARLEY JR.",88
+Precinct 12,County Comm. Seat D,"WHITE, JIM",41
+Precinct 12,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",66
+Precinct 12,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",56
+Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",84
+Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",36
+Precinct 12,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",40
+Precinct 12,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",85
+Precinct 12,President and Vice President of the United States,"GOODE, VIRGIL",1
+Precinct 12,President and Vice President of the United States,"JOHNSON, GARY",1
+Precinct 12,President and Vice President of the United States,None Of These Candidates,0
+Precinct 12,President and Vice President of the United States,"Obama, Barack",22
+Precinct 12,President and Vice President of the United States,"Romney, Mitt",106
+Precinct 12,"State Assembly, District 32","Hansen, Ira",106
+Precinct 12,"State Board of Education, District 2","Clontz, Donna",50
+Precinct 12,"State Board of Education, District 2","Cook, Dave",55
+Precinct 12,"Supreme Court Justice, Seat C","Cherry, Michael A.",85
+Precinct 12,"Supreme Court Justice, Seat C",None Of These Candidates,23
+Precinct 12,"Supreme Court Justice, Seat F","Douglas, Michael L.",87
+Precinct 12,"Supreme Court Justice, Seat F",None Of These Candidates,22
+Precinct 12,"Supreme Court Justice, Seat G",None Of These Candidates,24
+Precinct 12,"Supreme Court Justice, Seat G","Saitta, Nancy M.",84
+Precinct 12,"U.S. Representative in Congress, District 2","Amodei, Mark E.",110
+Precinct 12,"U.S. Representative in Congress, District 2","Best, Russell",2
+Precinct 12,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",3
+Precinct 12,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",11
+Precinct 12,United States Senator,"Berkley, Shelley",12
+Precinct 12,United States Senator,"Heller, Dean",109
+Precinct 12,United States Senator,None Of These Candidates,3
+Precinct 12,United States Senator,"VANDERBEEK, DAVID LORY",5
+Precinct 13,County Comm. Seat A,"BRISSENDEN, MARLENE",106
+Precinct 13,County Comm. Seat A,"SHEEN, JOYCE",71
+Precinct 13,County Comm. Seat B,"BELL, MIKE",136
+Precinct 13,County Comm. Seat B,"VIOLETTE, ALLEN",45
+Precinct 13,County Comm. Seat D,"AMOS, GARLEY JR.",101
+Precinct 13,County Comm. Seat D,"WHITE, JIM",76
+Precinct 13,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",58
+Precinct 13,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",120
+Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",73
+Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",99
+Precinct 13,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",104
+Precinct 13,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",80
+Precinct 13,President and Vice President of the United States,"GOODE, VIRGIL",5
+Precinct 13,President and Vice President of the United States,"JOHNSON, GARY",12
+Precinct 13,President and Vice President of the United States,None Of These Candidates,5
+Precinct 13,President and Vice President of the United States,"Obama, Barack",44
+Precinct 13,President and Vice President of the United States,"Romney, Mitt",121
+Precinct 13,"State Assembly, District 32","Hansen, Ira",161
+Precinct 13,"State Board of Education, District 2","Clontz, Donna",74
+Precinct 13,"State Board of Education, District 2","Cook, Dave",86
+Precinct 13,"Supreme Court Justice, Seat C","Cherry, Michael A.",135
+Precinct 13,"Supreme Court Justice, Seat C",None Of These Candidates,26
+Precinct 13,"Supreme Court Justice, Seat F","Douglas, Michael L.",137
+Precinct 13,"Supreme Court Justice, Seat F",None Of These Candidates,24
+Precinct 13,"Supreme Court Justice, Seat G",None Of These Candidates,35
+Precinct 13,"Supreme Court Justice, Seat G","Saitta, Nancy M.",126
+Precinct 13,"U.S. Representative in Congress, District 2","Amodei, Mark E.",128
+Precinct 13,"U.S. Representative in Congress, District 2","Best, Russell",12
+Precinct 13,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",7
+Precinct 13,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",37
+Precinct 13,United States Senator,"Berkley, Shelley",29
+Precinct 13,United States Senator,"Heller, Dean",130
+Precinct 13,United States Senator,None Of These Candidates,7
+Precinct 13,United States Senator,"VANDERBEEK, DAVID LORY",19
+Precinct 14,County Comm. Seat A,"BRISSENDEN, MARLENE",260
+Precinct 14,County Comm. Seat A,"SHEEN, JOYCE",219
+Precinct 14,County Comm. Seat B,"BELL, MIKE",394
+Precinct 14,County Comm. Seat B,"VIOLETTE, ALLEN",85
+Precinct 14,County Comm. Seat D,"AMOS, GARLEY JR.",278
+Precinct 14,County Comm. Seat D,"WHITE, JIM",203
+Precinct 14,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",219
+Precinct 14,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",265
+Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",280
+Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",185
+Precinct 14,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",206
+Precinct 14,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",267
+Precinct 14,President and Vice President of the United States,"GOODE, VIRGIL",4
+Precinct 14,President and Vice President of the United States,"JOHNSON, GARY",4
+Precinct 14,President and Vice President of the United States,None Of These Candidates,3
+Precinct 14,President and Vice President of the United States,"Obama, Barack",100
+Precinct 14,President and Vice President of the United States,"Romney, Mitt",384
+Precinct 14,"State Assembly, District 32","Hansen, Ira",432
+Precinct 14,"State Board of Education, District 2","Clontz, Donna",177
+Precinct 14,"State Board of Education, District 2","Cook, Dave",265
+Precinct 14,"Supreme Court Justice, Seat C","Cherry, Michael A.",340
+Precinct 14,"Supreme Court Justice, Seat C",None Of These Candidates,108
+Precinct 14,"Supreme Court Justice, Seat F","Douglas, Michael L.",350
+Precinct 14,"Supreme Court Justice, Seat F",None Of These Candidates,101
+Precinct 14,"Supreme Court Justice, Seat G",None Of These Candidates,109
+Precinct 14,"Supreme Court Justice, Seat G","Saitta, Nancy M.",342
+Precinct 14,"U.S. Representative in Congress, District 2","Amodei, Mark E.",390
+Precinct 14,"U.S. Representative in Congress, District 2","Best, Russell",12
+Precinct 14,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",17
+Precinct 14,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",63
+Precinct 14,United States Senator,"Berkley, Shelley",64
+Precinct 14,United States Senator,"Heller, Dean",378
+Precinct 14,United States Senator,None Of These Candidates,22
+Precinct 14,United States Senator,"VANDERBEEK, DAVID LORY",32
+Precinct 15,County Comm. Seat A,"BRISSENDEN, MARLENE",98
+Precinct 15,County Comm. Seat A,"SHEEN, JOYCE",68
+Precinct 15,County Comm. Seat B,"BELL, MIKE",131
+Precinct 15,County Comm. Seat B,"VIOLETTE, ALLEN",34
+Precinct 15,County Comm. Seat D,"AMOS, GARLEY JR.",81
+Precinct 15,County Comm. Seat D,"WHITE, JIM",89
+Precinct 15,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",65
+Precinct 15,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",101
+Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",85
+Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",79
+Precinct 15,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",80
+Precinct 15,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",86
+Precinct 15,President and Vice President of the United States,"GOODE, VIRGIL",8
+Precinct 15,President and Vice President of the United States,"JOHNSON, GARY",4
+Precinct 15,President and Vice President of the United States,None Of These Candidates,2
+Precinct 15,President and Vice President of the United States,"Obama, Barack",50
+Precinct 15,President and Vice President of the United States,"Romney, Mitt",118
+Precinct 15,"State Assembly, District 32","Hansen, Ira",150
+Precinct 15,"State Board of Education, District 2","Clontz, Donna",74
+Precinct 15,"State Board of Education, District 2","Cook, Dave",83
+Precinct 15,"Supreme Court Justice, Seat C","Cherry, Michael A.",135
+Precinct 15,"Supreme Court Justice, Seat C",None Of These Candidates,30
+Precinct 15,"Supreme Court Justice, Seat F","Douglas, Michael L.",136
+Precinct 15,"Supreme Court Justice, Seat F",None Of These Candidates,32
+Precinct 15,"Supreme Court Justice, Seat G",None Of These Candidates,35
+Precinct 15,"Supreme Court Justice, Seat G","Saitta, Nancy M.",132
+Precinct 15,"U.S. Representative in Congress, District 2","Amodei, Mark E.",113
+Precinct 15,"U.S. Representative in Congress, District 2","Best, Russell",14
+Precinct 15,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
+Precinct 15,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",34
+Precinct 15,United States Senator,"Berkley, Shelley",28
+Precinct 15,United States Senator,"Heller, Dean",117
+Precinct 15,United States Senator,None Of These Candidates,11
+Precinct 15,United States Senator,"VANDERBEEK, DAVID LORY",23
+Precinct 2,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",252
+Precinct 2,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",260
+Precinct 2,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",106
+Precinct 2,"City Councilman, WINNEMUCCA Seat 3","HUMMEL, LAURA MERRICK",92
+Precinct 2,"City Councilman, WINNEMUCCA Seat 3","ROMERO, SAL",111
+Precinct 2,"City Councilman, WINNEMUCCA Seat 3","TIPTON, KEN",218
+Precinct 2,"City Councilman, WINNEMUCCA Seat 5","BROOKS, PAIGE L.",248
+Precinct 2,"City Councilman, WINNEMUCCA Seat 5","DOUGLAS, BILL",93
+Precinct 2,"City Councilman, WINNEMUCCA Seat 5","STRINGHAM, CARRIE",192
+Precinct 2,County Comm. Seat A,"BRISSENDEN, MARLENE",302
+Precinct 2,County Comm. Seat A,"SHEEN, JOYCE",232
+Precinct 2,County Comm. Seat B,"BELL, MIKE",401
+Precinct 2,County Comm. Seat B,"VIOLETTE, ALLEN",129
+Precinct 2,County Comm. Seat D,"AMOS, GARLEY JR.",278
+Precinct 2,County Comm. Seat D,"WHITE, JIM",246
+Precinct 2,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",257
+Precinct 2,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",272
+Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",307
+Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",210
+Precinct 2,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",195
+Precinct 2,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",333
+Precinct 2,President and Vice President of the United States,"GOODE, VIRGIL",8
+Precinct 2,President and Vice President of the United States,"JOHNSON, GARY",10
+Precinct 2,President and Vice President of the United States,None Of These Candidates,7
+Precinct 2,President and Vice President of the United States,"Obama, Barack",239
+Precinct 2,President and Vice President of the United States,"Romney, Mitt",304
+Precinct 2,"State Assembly, District 32","Hansen, Ira",459
+Precinct 2,"State Board of Education, District 2","Clontz, Donna",247
+Precinct 2,"State Board of Education, District 2","Cook, Dave",239
+Precinct 2,"Supreme Court Justice, Seat C","Cherry, Michael A.",412
+Precinct 2,"Supreme Court Justice, Seat C",None Of These Candidates,100
+Precinct 2,"Supreme Court Justice, Seat F","Douglas, Michael L.",416
+Precinct 2,"Supreme Court Justice, Seat F",None Of These Candidates,92
+Precinct 2,"Supreme Court Justice, Seat G",None Of These Candidates,100
+Precinct 2,"Supreme Court Justice, Seat G","Saitta, Nancy M.",411
+Precinct 2,"U.S. Representative in Congress, District 2","Amodei, Mark E.",332
+Precinct 2,"U.S. Representative in Congress, District 2","Best, Russell",27
+Precinct 2,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",25
+Precinct 2,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",158
+Precinct 2,United States Senator,"Berkley, Shelley",166
+Precinct 2,United States Senator,"Heller, Dean",319
+Precinct 2,United States Senator,None Of These Candidates,32
+Precinct 2,United States Senator,"VANDERBEEK, DAVID LORY",37
+Precinct 3,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",255
+Precinct 3,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",224
+Precinct 3,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",128
+Precinct 3,"City Councilman, WINNEMUCCA Seat 3","HUMMEL, LAURA MERRICK",67
+Precinct 3,"City Councilman, WINNEMUCCA Seat 3","ROMERO, SAL",103
+Precinct 3,"City Councilman, WINNEMUCCA Seat 3","TIPTON, KEN",188
+Precinct 3,"City Councilman, WINNEMUCCA Seat 5","BROOKS, PAIGE L.",229
+Precinct 3,"City Councilman, WINNEMUCCA Seat 5","DOUGLAS, BILL",70
+Precinct 3,"City Councilman, WINNEMUCCA Seat 5","STRINGHAM, CARRIE",192
+Precinct 3,County Comm. Seat A,"BRISSENDEN, MARLENE",237
+Precinct 3,County Comm. Seat A,"SHEEN, JOYCE",254
+Precinct 3,County Comm. Seat B,"BELL, MIKE",381
+Precinct 3,County Comm. Seat B,"VIOLETTE, ALLEN",101
+Precinct 3,County Comm. Seat D,"AMOS, GARLEY JR.",263
+Precinct 3,County Comm. Seat D,"WHITE, JIM",222
+Precinct 3,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",227
+Precinct 3,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",255
+Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",302
+Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",180
+Precinct 3,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",224
+Precinct 3,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",267
+Precinct 3,President and Vice President of the United States,"GOODE, VIRGIL",1
+Precinct 3,President and Vice President of the United States,"JOHNSON, GARY",5
+Precinct 3,President and Vice President of the United States,None Of These Candidates,14
+Precinct 3,President and Vice President of the United States,"Obama, Barack",206
+Precinct 3,President and Vice President of the United States,"Romney, Mitt",300
+Precinct 3,"State Assembly, District 32","Hansen, Ira",424
+Precinct 3,"State Board of Education, District 2","Clontz, Donna",203
+Precinct 3,"State Board of Education, District 2","Cook, Dave",246
+Precinct 3,"Supreme Court Justice, Seat C","Cherry, Michael A.",365
+Precinct 3,"Supreme Court Justice, Seat C",None Of These Candidates,99
+Precinct 3,"Supreme Court Justice, Seat F","Douglas, Michael L.",371
+Precinct 3,"Supreme Court Justice, Seat F",None Of These Candidates,94
+Precinct 3,"Supreme Court Justice, Seat G",None Of These Candidates,106
+Precinct 3,"Supreme Court Justice, Seat G","Saitta, Nancy M.",361
+Precinct 3,"U.S. Representative in Congress, District 2","Amodei, Mark E.",322
+Precinct 3,"U.S. Representative in Congress, District 2","Best, Russell",20
+Precinct 3,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",22
+Precinct 3,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",134
+Precinct 3,United States Senator,"Berkley, Shelley",114
+Precinct 3,United States Senator,"Heller, Dean",324
+Precinct 3,United States Senator,None Of These Candidates,39
+Precinct 3,United States Senator,"VANDERBEEK, DAVID LORY",41
+Precinct 4,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",172
+Precinct 4,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",151
+Precinct 4,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",69
+Precinct 4,"City Councilman, WINNEMUCCA Seat 3","HUMMEL, LAURA MERRICK",66
+Precinct 4,"City Councilman, WINNEMUCCA Seat 3","ROMERO, SAL",70
+Precinct 4,"City Councilman, WINNEMUCCA Seat 3","TIPTON, KEN",130
+Precinct 4,"City Councilman, WINNEMUCCA Seat 5","BROOKS, PAIGE L.",147
+Precinct 4,"City Councilman, WINNEMUCCA Seat 5","DOUGLAS, BILL",67
+Precinct 4,"City Councilman, WINNEMUCCA Seat 5","STRINGHAM, CARRIE",117
+Precinct 4,County Comm. Seat A,"BRISSENDEN, MARLENE",239
+Precinct 4,County Comm. Seat A,"SHEEN, JOYCE",210
+Precinct 4,County Comm. Seat B,"BELL, MIKE",338
+Precinct 4,County Comm. Seat B,"VIOLETTE, ALLEN",110
+Precinct 4,County Comm. Seat D,"AMOS, GARLEY JR.",251
+Precinct 4,County Comm. Seat D,"WHITE, JIM",201
+Precinct 4,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",215
+Precinct 4,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",245
+Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",250
+Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",194
+Precinct 4,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",227
+Precinct 4,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",234
+Precinct 4,President and Vice President of the United States,"GOODE, VIRGIL",4
+Precinct 4,President and Vice President of the United States,"JOHNSON, GARY",2
+Precinct 4,President and Vice President of the United States,None Of These Candidates,5
+Precinct 4,President and Vice President of the United States,"Obama, Barack",202
+Precinct 4,President and Vice President of the United States,"Romney, Mitt",280
+Precinct 4,"State Assembly, District 32","Hansen, Ira",400
+Precinct 4,"State Board of Education, District 2","Clontz, Donna",187
+Precinct 4,"State Board of Education, District 2","Cook, Dave",243
+Precinct 4,"Supreme Court Justice, Seat C","Cherry, Michael A.",330
+Precinct 4,"Supreme Court Justice, Seat C",None Of These Candidates,118
+Precinct 4,"Supreme Court Justice, Seat F","Douglas, Michael L.",344
+Precinct 4,"Supreme Court Justice, Seat F",None Of These Candidates,104
+Precinct 4,"Supreme Court Justice, Seat G",None Of These Candidates,120
+Precinct 4,"Supreme Court Justice, Seat G","Saitta, Nancy M.",333
+Precinct 4,"U.S. Representative in Congress, District 2","Amodei, Mark E.",279
+Precinct 4,"U.S. Representative in Congress, District 2","Best, Russell",24
+Precinct 4,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",22
+Precinct 4,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",143
+Precinct 4,United States Senator,"Berkley, Shelley",124
+Precinct 4,United States Senator,"Heller, Dean",273
+Precinct 4,United States Senator,None Of These Candidates,39
+Precinct 4,United States Senator,"VANDERBEEK, DAVID LORY",50
+Precinct 5,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",390
+Precinct 5,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",274
+Precinct 5,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",164
+Precinct 5,"City Councilman, WINNEMUCCA Seat 3","HUMMEL, LAURA MERRICK",65
+Precinct 5,"City Councilman, WINNEMUCCA Seat 3","ROMERO, SAL",130
+Precinct 5,"City Councilman, WINNEMUCCA Seat 3","TIPTON, KEN",312
+Precinct 5,"City Councilman, WINNEMUCCA Seat 5","BROOKS, PAIGE L.",305
+Precinct 5,"City Councilman, WINNEMUCCA Seat 5","DOUGLAS, BILL",68
+Precinct 5,"City Councilman, WINNEMUCCA Seat 5","STRINGHAM, CARRIE",306
+Precinct 5,County Comm. Seat A,"BRISSENDEN, MARLENE",336
+Precinct 5,County Comm. Seat A,"SHEEN, JOYCE",344
+Precinct 5,County Comm. Seat B,"BELL, MIKE",575
+Precinct 5,County Comm. Seat B,"VIOLETTE, ALLEN",97
+Precinct 5,County Comm. Seat D,"AMOS, GARLEY JR.",344
+Precinct 5,County Comm. Seat D,"WHITE, JIM",331
+Precinct 5,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",365
+Precinct 5,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",310
+Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",465
+Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",196
+Precinct 5,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",265
+Precinct 5,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",402
+Precinct 5,President and Vice President of the United States,"GOODE, VIRGIL",2
+Precinct 5,President and Vice President of the United States,"JOHNSON, GARY",3
+Precinct 5,President and Vice President of the United States,None Of These Candidates,8
+Precinct 5,President and Vice President of the United States,"Obama, Barack",191
+Precinct 5,President and Vice President of the United States,"Romney, Mitt",495
+Precinct 5,"State Assembly, District 32","Hansen, Ira",609
+Precinct 5,"State Board of Education, District 2","Clontz, Donna",276
+Precinct 5,"State Board of Education, District 2","Cook, Dave",332
+Precinct 5,"Supreme Court Justice, Seat C","Cherry, Michael A.",529
+Precinct 5,"Supreme Court Justice, Seat C",None Of These Candidates,111
+Precinct 5,"Supreme Court Justice, Seat F","Douglas, Michael L.",548
+Precinct 5,"Supreme Court Justice, Seat F",None Of These Candidates,93
+Precinct 5,"Supreme Court Justice, Seat G",None Of These Candidates,107
+Precinct 5,"Supreme Court Justice, Seat G","Saitta, Nancy M.",535
+Precinct 5,"U.S. Representative in Congress, District 2","Amodei, Mark E.",525
+Precinct 5,"U.S. Representative in Congress, District 2","Best, Russell",18
+Precinct 5,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
+Precinct 5,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",116
+Precinct 5,United States Senator,"Berkley, Shelley",133
+Precinct 5,United States Senator,"Heller, Dean",519
+Precinct 5,United States Senator,None Of These Candidates,18
+Precinct 5,United States Senator,"VANDERBEEK, DAVID LORY",28
+Precinct 6,County Comm. Seat A,"BRISSENDEN, MARLENE",466
+Precinct 6,County Comm. Seat A,"SHEEN, JOYCE",312
+Precinct 6,County Comm. Seat B,"BELL, MIKE",601
+Precinct 6,County Comm. Seat B,"VIOLETTE, ALLEN",167
+Precinct 6,County Comm. Seat D,"AMOS, GARLEY JR.",411
+Precinct 6,County Comm. Seat D,"WHITE, JIM",347
+Precinct 6,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",353
+Precinct 6,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",415
+Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",391
+Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",336
+Precinct 6,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",368
+Precinct 6,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",392
+Precinct 6,President and Vice President of the United States,"GOODE, VIRGIL",6
+Precinct 6,President and Vice President of the United States,"JOHNSON, GARY",4
+Precinct 6,President and Vice President of the United States,None Of These Candidates,11
+Precinct 6,President and Vice President of the United States,"Obama, Barack",226
+Precinct 6,President and Vice President of the United States,"Romney, Mitt",559
+Precinct 6,"State Assembly, District 32","Hansen, Ira",696
+Precinct 6,"State Board of Education, District 2","Clontz, Donna",343
+Precinct 6,"State Board of Education, District 2","Cook, Dave",364
+Precinct 6,"Supreme Court Justice, Seat C","Cherry, Michael A.",594
+Precinct 6,"Supreme Court Justice, Seat C",None Of These Candidates,149
+Precinct 6,"Supreme Court Justice, Seat F","Douglas, Michael L.",609
+Precinct 6,"Supreme Court Justice, Seat F",None Of These Candidates,139
+Precinct 6,"Supreme Court Justice, Seat G",None Of These Candidates,146
+Precinct 6,"Supreme Court Justice, Seat G","Saitta, Nancy M.",602
+Precinct 6,"U.S. Representative in Congress, District 2","Amodei, Mark E.",569
+Precinct 6,"U.S. Representative in Congress, District 2","Best, Russell",43
+Precinct 6,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",36
+Precinct 6,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",139
+Precinct 6,United States Senator,"Berkley, Shelley",138
+Precinct 6,United States Senator,"Heller, Dean",566
+Precinct 6,United States Senator,None Of These Candidates,39
+Precinct 6,United States Senator,"VANDERBEEK, DAVID LORY",58
+Precinct 7,County Comm. Seat A,"BRISSENDEN, MARLENE",355
+Precinct 7,County Comm. Seat A,"SHEEN, JOYCE",256
+Precinct 7,County Comm. Seat B,"BELL, MIKE",475
+Precinct 7,County Comm. Seat B,"VIOLETTE, ALLEN",128
+Precinct 7,County Comm. Seat D,"AMOS, GARLEY JR.",329
+Precinct 7,County Comm. Seat D,"WHITE, JIM",263
+Precinct 7,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",282
+Precinct 7,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",307
+Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",323
+Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",239
+Precinct 7,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",261
+Precinct 7,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",331
+Precinct 7,President and Vice President of the United States,"GOODE, VIRGIL",4
+Precinct 7,President and Vice President of the United States,"JOHNSON, GARY",7
+Precinct 7,President and Vice President of the United States,None Of These Candidates,12
+Precinct 7,President and Vice President of the United States,"Obama, Barack",156
+Precinct 7,President and Vice President of the United States,"Romney, Mitt",461
+Precinct 7,"State Assembly, District 32","Hansen, Ira",536
+Precinct 7,"State Board of Education, District 2","Clontz, Donna",229
+Precinct 7,"State Board of Education, District 2","Cook, Dave",311
+Precinct 7,"Supreme Court Justice, Seat C","Cherry, Michael A.",448
+Precinct 7,"Supreme Court Justice, Seat C",None Of These Candidates,122
+Precinct 7,"Supreme Court Justice, Seat F","Douglas, Michael L.",460
+Precinct 7,"Supreme Court Justice, Seat F",None Of These Candidates,108
+Precinct 7,"Supreme Court Justice, Seat G",None Of These Candidates,122
+Precinct 7,"Supreme Court Justice, Seat G","Saitta, Nancy M.",448
+Precinct 7,"U.S. Representative in Congress, District 2","Amodei, Mark E.",458
+Precinct 7,"U.S. Representative in Congress, District 2","Best, Russell",24
+Precinct 7,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",28
+Precinct 7,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",109
+Precinct 7,United States Senator,"Berkley, Shelley",108
+Precinct 7,United States Senator,"Heller, Dean",462
+Precinct 7,United States Senator,None Of These Candidates,20
+Precinct 7,United States Senator,"VANDERBEEK, DAVID LORY",49
+Precinct 8,County Comm. Seat A,"BRISSENDEN, MARLENE",39
+Precinct 8,County Comm. Seat A,"SHEEN, JOYCE",49
+Precinct 8,County Comm. Seat B,"BELL, MIKE",78
+Precinct 8,County Comm. Seat B,"VIOLETTE, ALLEN",7
+Precinct 8,County Comm. Seat D,"AMOS, GARLEY JR.",54
+Precinct 8,County Comm. Seat D,"WHITE, JIM",34
+Precinct 8,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",45
+Precinct 8,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",42
+Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",43
+Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",40
+Precinct 8,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",32
+Precinct 8,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",54
+Precinct 8,President and Vice President of the United States,"GOODE, VIRGIL",0
+Precinct 8,President and Vice President of the United States,"JOHNSON, GARY",0
+Precinct 8,President and Vice President of the United States,None Of These Candidates,1
+Precinct 8,President and Vice President of the United States,"Obama, Barack",7
+Precinct 8,President and Vice President of the United States,"Romney, Mitt",85
+Precinct 8,"State Assembly, District 32","Hansen, Ira",77
+Precinct 8,"State Board of Education, District 2","Clontz, Donna",25
+Precinct 8,"State Board of Education, District 2","Cook, Dave",42
+Precinct 8,"Supreme Court Justice, Seat C","Cherry, Michael A.",64
+Precinct 8,"Supreme Court Justice, Seat C",None Of These Candidates,12
+Precinct 8,"Supreme Court Justice, Seat F","Douglas, Michael L.",65
+Precinct 8,"Supreme Court Justice, Seat F",None Of These Candidates,10
+Precinct 8,"Supreme Court Justice, Seat G",None Of These Candidates,10
+Precinct 8,"Supreme Court Justice, Seat G","Saitta, Nancy M.",63
+Precinct 8,"U.S. Representative in Congress, District 2","Amodei, Mark E.",79
+Precinct 8,"U.S. Representative in Congress, District 2","Best, Russell",2
+Precinct 8,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",1
+Precinct 8,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",9
+Precinct 8,United States Senator,"Berkley, Shelley",9
+Precinct 8,United States Senator,"Heller, Dean",77
+Precinct 8,United States Senator,None Of These Candidates,1
+Precinct 8,United States Senator,"VANDERBEEK, DAVID LORY",5
+Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",
+Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",
+Precinct 88,President and Vice President of the United States,None Of These Candidates,
+Precinct 88,President and Vice President of the United States,"Obama, Barack",
+Precinct 88,President and Vice President of the United States,"Romney, Mitt",
+Precinct 9,County Comm. Seat A,"BRISSENDEN, MARLENE",55
+Precinct 9,County Comm. Seat A,"SHEEN, JOYCE",55
+Precinct 9,County Comm. Seat B,"BELL, MIKE",84
+Precinct 9,County Comm. Seat B,"VIOLETTE, ALLEN",30
+Precinct 9,County Comm. Seat D,"AMOS, GARLEY JR.",64
+Precinct 9,County Comm. Seat D,"WHITE, JIM",47
+Precinct 9,"Humboldt County Hospital Dist Trustee, Seat C","HAMMARGREN, WILLIAM J.",42
+Precinct 9,"Humboldt County Hospital Dist Trustee, Seat C","KIM, SOON",68
+Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",47
+Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",57
+Precinct 9,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",53
+Precinct 9,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",50
+Precinct 9,President and Vice President of the United States,"GOODE, VIRGIL",6
+Precinct 9,President and Vice President of the United States,"JOHNSON, GARY",0
+Precinct 9,President and Vice President of the United States,None Of These Candidates,0
+Precinct 9,President and Vice President of the United States,"Obama, Barack",29
+Precinct 9,President and Vice President of the United States,"Romney, Mitt",84
+Precinct 9,"State Assembly, District 32","Hansen, Ira",104
+Precinct 9,"State Board of Education, District 2","Clontz, Donna",46
+Precinct 9,"State Board of Education, District 2","Cook, Dave",50
+Precinct 9,"Supreme Court Justice, Seat C","Cherry, Michael A.",84
+Precinct 9,"Supreme Court Justice, Seat C",None Of These Candidates,20
+Precinct 9,"Supreme Court Justice, Seat F","Douglas, Michael L.",86
+Precinct 9,"Supreme Court Justice, Seat F",None Of These Candidates,19
+Precinct 9,"Supreme Court Justice, Seat G",None Of These Candidates,19
+Precinct 9,"Supreme Court Justice, Seat G","Saitta, Nancy M.",87
+Precinct 9,"U.S. Representative in Congress, District 2","Amodei, Mark E.",80
+Precinct 9,"U.S. Representative in Congress, District 2","Best, Russell",9
+Precinct 9,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
+Precinct 9,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",19
+Precinct 9,United States Senator,"Berkley, Shelley",22
+Precinct 9,United States Senator,"Heller, Dean",81
+Precinct 9,United States Senator,None Of These Candidates,5
+Precinct 9,United States Senator,"VANDERBEEK, DAVID LORY",11
+Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",0
+Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",0
+Precinct 99,President and Vice President of the United States,None Of These Candidates,0
+Precinct 99,President and Vice President of the United States,"Obama, Barack",0
+Precinct 99,President and Vice President of the United States,"Romney, Mitt",0
+Precinct 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",0
+Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
+Precinct 99,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",0
+Precinct 99,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",0
+Precinct 99,United States Senator,"Berkley, Shelley",0
+Precinct 99,United States Senator,"Heller, Dean",0
+Precinct 99,United States Senator,None Of These Candidates,0
+Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",0
