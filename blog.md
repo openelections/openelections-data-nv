@@ -1,8 +1,8 @@
 Finding precinct-level election results from Nevada isn't the problem. Getting them is the problem.
 
-If you've been writing scrapers long enough, chances are you've come across what could be fairly called "the form from hell." It usually is found on a URL that ends .aspx and features paginated links that have a JavaScript link that performs a postback request to the server. In other words, not something that you can just iterate over using a unique ID for every record.
+If you've been writing scrapers long enough, chances are you've come across what could be fairly called "the form from hell." It usually is found on a URL that ends .aspx and features paginated links that have a JavaScript URL that performs a postback request to the server. In other words, not something that you can just iterate over using a unique ID for every record.
 
-That's the kind of site the Nevada Secretary of State has for its [database of precinct-level election results](http://www.nvsos.gov/electionresults/PrecinctReport.aspx), and this is how I got them for OpenElections. The story goes through some of the usual stages: denial, annoyance and finally acceptance. It ends with a clean copy of every precinct-level result from 2004 through 2012, and I'm hoping the state adds 2014 results soon.
+That's the kind of site the Nevada Secretary of State has for its [database of precinct-level election results](http://www.nvsos.gov/electionresults/PrecinctReport.aspx), and this is the story of how I retrieved them for OpenElections. The story goes through some of the usual stages of scraping: denial, annoyance and finally acceptance. It ends with a clean copy of every precinct-level result from 2004 through 2012, and I'm hoping the state adds 2014 results soon.
 
 ### Denial
 
@@ -55,6 +55,10 @@ So far, so good. I figured I'd take the path of least resistance and grab all of
 
 The other problem only became apparent when I tried parsing the larger jurisdictions, Clark and Washoe counties (Clark is home to Las Vegas). There, for reasons I could not explain, the form began throwing errors on the 657th page of results. I needed to add an additional loop for those two counties and iterate over all of the races in each.
 
+There's one more wrinkle in the data that I had not seen before: in precincts where fewer than 10 people voted, the results were not shown. Fortunately the symbol that Nevada used to display just ends up as a blank space in the scraper's CSV output.
+
 ### Acceptance
 
-Because of my repeated calls to `time.sleep()` and the need to iterate over more parts of the form in the larger jurisdictions, scraping all of the results took a long time - I completed it in about 30 hours, albeit mostly from places with occasionally unreliable WiFi. The [results](https://github.com/openelections/openelections-data-nv)
+Once the pieces were in place, I tested out the precinct scraper for the smaller jurisdictions and then did Clark and Washoe separately. Because of my repeated calls to `time.sleep()` and the need to iterate over more parts of the form in the larger jurisdictions, scraping all of the results took a long time - I completed it in about 30 hours, albeit mostly working from places with less than fiber optic Internet connections. The [results](https://github.com/openelections/openelections-data-nv) are a set of CSV files with precinct-level data going back to 2004 (for good measure, I also scraped county-level results back to 2000). The script to [scrape the precinct-level results](https://github.com/openelections/openelections-data-nv/blob/master/precinct_utils.py) isn't particularly clean and repeats itself in places, but it works. And it's the first public bulk collection of Nevada precinct-level results. The next steps for this data are to get it into OpenElections' data ingestion and parsing process, and then to generate standardized data for the state.
+
+A few days after I finished running the scraper, my colleague Geoff Hing [let me know](https://twitter.com/geoffhing/status/551001501033062400) about [Splinter](https://splinter.readthedocs.org/en/latest/index.html), a Python library that provides a cleaner API for automating browser actions. Were I to start over, I'd definitely try that. More likely is that I'll find another election results site that works the same way as Nevada's, and this time maybe I can avoid some of the denial and annoyance and proceed straight to acceptance.
