@@ -51,7 +51,11 @@ driver.find_element_by_name('btnElectionSearch').click()
 soup = BeautifulSoup(driver.page_source)
 ```
 
-So far, so good. I figured I'd take the path of least resistance and grab all of the results in a jurisdiction for an election, paging through the links at the bottom of the page. Grabbing the links wasn't too hard, but two things made it trickier than I had planned. First, you only get links to 25 pages at a time, and the last link looks like this: "...", meaning I needed a way to keep track of how many pages there would be for all of the results. I decided to use the total number of results and divide by 50, which is how many appear on each page.
+So far, so good. I figured I'd take the path of least resistance and grab all of the results in a jurisdiction for an election, paging through the links at the bottom of the page.
+
+![NV SOS Results](results.png "NV SOS Results")
+
+Grabbing the links wasn't too hard, but two things made it trickier than I had planned. First, you only get links to 25 pages at a time, and the last link looks like this: "...", meaning I needed a way to keep track of how many pages there would be for all of the results. I decided to use the total number of results and divide by 50, which is how many appear on each page.
 
 The other problem only became apparent when I tried parsing the larger jurisdictions, Clark and Washoe counties (Clark is home to Las Vegas). There, for reasons I could not explain, the form began throwing errors on the 657th page of results. I needed to add an additional loop for those two counties and iterate over all of the races in each.
 
