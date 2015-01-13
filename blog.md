@@ -2,7 +2,7 @@ Finding precinct-level election results from Nevada isn't the problem. Getting t
 
 If you've been writing scrapers long enough, chances are you've come across what could be fairly called "the form from hell." It usually is found on a URL that ends .aspx and features paginated links that have a JavaScript URL that performs a postback request to the server. In other words, not something that you can just iterate over using a unique ID for every record.
 
-That's the kind of site the Nevada Secretary of State has for its [database of precinct-level election results](http://www.nvsos.gov/electionresults/PrecinctReport.aspx), and this is the story of how I retrieved them for OpenElections. The story goes through some of the usual stages of scraping: denial, annoyance and finally acceptance. It ends with a clean copy of every precinct-level result from 2004 through 2012, and I'm hoping the state adds 2014 results soon.
+That's the kind of site the Nevada Secretary of State has for its [database of precinct-level election results](http://www.nvsos.gov/electionresults/PrecinctReport.aspx), and this is the story of how I retrieved them for [OpenElections](http://openelections.net/about/), a Knight Foundation-funded project that's building a database of certified election results from all 50 states. The story goes through some of the usual stages of scraping: denial, annoyance and finally acceptance. It ends with a clean copy of every precinct-level result from 2004 through 2012, and I'm hoping the state adds 2014 results soon.
 
 ### Denial
 
