@@ -1,0 +1,514 @@
+precinct,office,candidate,votes
+PRECINCT 1,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",20
+PRECINCT 1,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",52
+PRECINCT 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",104
+PRECINCT 1,Governor (Democratic),"Chang, Charles ""Charlie""",0
+PRECINCT 1,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 1,Governor (Democratic),"Frye, Stephen H.",7
+PRECINCT 1,Governor (Democratic),"Goodman, Robert ""Bob""",4
+PRECINCT 1,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 1,Governor (Democratic),None Of These Candidates,28
+PRECINCT 1,Governor (Democratic),"Rheinhart, Allen",1
+PRECINCT 1,Governor (Democratic),"Rutledge, John",3
+PRECINCT 1,Governor (Democratic),"Shabazz, Abdul H.",2
+PRECINCT 1,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 1,Governor (Republican),"Marinch, Gary",0
+PRECINCT 1,Governor (Republican),None Of These Candidates,1
+PRECINCT 1,Governor (Republican),"Sandoval, Brian",72
+PRECINCT 1,Governor (Republican),"Tarbell, William",2
+PRECINCT 1,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 1,Lieutenant Governor (Democratic),"Flores, Lucy",14
+PRECINCT 1,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",3
+PRECINCT 1,Lieutenant Governor (Democratic),None Of These Candidates,28
+PRECINCT 1,Lieutenant Governor (Republican),"Dyer, Chris",8
+PRECINCT 1,Lieutenant Governor (Republican),"Hutchison, Mark",26
+PRECINCT 1,Lieutenant Governor (Republican),"Lowden, Sue",30
+PRECINCT 1,Lieutenant Governor (Republican),None Of These Candidates,9
+PRECINCT 1,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",115
+PRECINCT 1,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",111
+PRECINCT 1,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",104
+PRECINCT 1,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",103
+PRECINCT 1,State Controller (Republican),"Arlint, Cort R.",2
+PRECINCT 1,State Controller (Republican),"Herr, Barry",10
+PRECINCT 1,State Controller (Republican),"Knecht, Ron",36
+PRECINCT 1,State Controller (Republican),None Of These Candidates,25
+PRECINCT 1,"State Senate, District 14 (Democratic)","HARRISON, K.C.",11
+PRECINCT 1,"State Senate, District 14 (Democratic)","Hunt, Joe",23
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",1
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",35
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",5
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",20
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",31
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",12
+PRECINCT 1,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",2
+PRECINCT 10,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",0
+PRECINCT 10,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",0
+PRECINCT 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",0
+PRECINCT 10,Governor (Democratic),"Chang, Charles ""Charlie""",0
+PRECINCT 10,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 10,Governor (Democratic),"Frye, Stephen H.",1
+PRECINCT 10,Governor (Democratic),"Goodman, Robert ""Bob""",0
+PRECINCT 10,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 10,Governor (Democratic),None Of These Candidates,0
+PRECINCT 10,Governor (Democratic),"Rheinhart, Allen",0
+PRECINCT 10,Governor (Democratic),"Rutledge, John",0
+PRECINCT 10,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 10,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 10,Governor (Republican),"Marinch, Gary",0
+PRECINCT 10,Governor (Republican),None Of These Candidates,0
+PRECINCT 10,Governor (Republican),"Sandoval, Brian",1
+PRECINCT 10,Governor (Republican),"Tarbell, William",0
+PRECINCT 10,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 10,Lieutenant Governor (Democratic),"Flores, Lucy",0
+PRECINCT 10,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",0
+PRECINCT 10,Lieutenant Governor (Democratic),None Of These Candidates,1
+PRECINCT 10,Lieutenant Governor (Republican),"Dyer, Chris",0
+PRECINCT 10,Lieutenant Governor (Republican),"Hutchison, Mark",1
+PRECINCT 10,Lieutenant Governor (Republican),"Lowden, Sue",0
+PRECINCT 10,Lieutenant Governor (Republican),None Of These Candidates,0
+PRECINCT 10,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",1
+PRECINCT 10,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",1
+PRECINCT 10,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",1
+PRECINCT 10,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",1
+PRECINCT 10,State Controller (Republican),"Arlint, Cort R.",0
+PRECINCT 10,State Controller (Republican),"Herr, Barry",0
+PRECINCT 10,State Controller (Republican),"Knecht, Ron",1
+PRECINCT 10,State Controller (Republican),None Of These Candidates,0
+PRECINCT 10,"State Senate, District 14 (Democratic)","HARRISON, K.C.",0
+PRECINCT 10,"State Senate, District 14 (Democratic)","Hunt, Joe",1
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",0
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",1
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",0
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",0
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",0
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",0
+PRECINCT 10,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 11,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",6
+PRECINCT 11,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",8
+PRECINCT 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",49
+PRECINCT 11,Governor (Democratic),"Chang, Charles ""Charlie""",8
+PRECINCT 11,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 11,Governor (Democratic),"Frye, Stephen H.",6
+PRECINCT 11,Governor (Democratic),"Goodman, Robert ""Bob""",3
+PRECINCT 11,Governor (Democratic),"Hyepock, Chris",1
+PRECINCT 11,Governor (Democratic),None Of These Candidates,14
+PRECINCT 11,Governor (Democratic),"Rheinhart, Allen",2
+PRECINCT 11,Governor (Democratic),"Rutledge, John",3
+PRECINCT 11,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 11,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 11,Governor (Republican),"Marinch, Gary",0
+PRECINCT 11,Governor (Republican),None Of These Candidates,0
+PRECINCT 11,Governor (Republican),"Sandoval, Brian",13
+PRECINCT 11,Governor (Republican),"Tarbell, William",1
+PRECINCT 11,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 11,Lieutenant Governor (Democratic),"Flores, Lucy",26
+PRECINCT 11,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",5
+PRECINCT 11,Lieutenant Governor (Democratic),None Of These Candidates,8
+PRECINCT 11,Lieutenant Governor (Republican),"Dyer, Chris",1
+PRECINCT 11,Lieutenant Governor (Republican),"Hutchison, Mark",3
+PRECINCT 11,Lieutenant Governor (Republican),"Lowden, Sue",9
+PRECINCT 11,Lieutenant Governor (Republican),None Of These Candidates,1
+PRECINCT 11,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",48
+PRECINCT 11,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",44
+PRECINCT 11,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",47
+PRECINCT 11,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",51
+PRECINCT 11,State Controller (Republican),"Arlint, Cort R.",5
+PRECINCT 11,State Controller (Republican),"Herr, Barry",5
+PRECINCT 11,State Controller (Republican),"Knecht, Ron",4
+PRECINCT 11,State Controller (Republican),None Of These Candidates,0
+PRECINCT 11,"State Senate, District 14 (Democratic)","HARRISON, K.C.",9
+PRECINCT 11,"State Senate, District 14 (Democratic)","Hunt, Joe",28
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",3
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",36
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",2
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",4
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",5
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",5
+PRECINCT 11,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 12,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",15
+PRECINCT 12,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",25
+PRECINCT 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",66
+PRECINCT 12,Governor (Democratic),"Chang, Charles ""Charlie""",2
+PRECINCT 12,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 12,Governor (Democratic),"Frye, Stephen H.",4
+PRECINCT 12,Governor (Democratic),"Goodman, Robert ""Bob""",2
+PRECINCT 12,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 12,Governor (Democratic),None Of These Candidates,8
+PRECINCT 12,Governor (Democratic),"Rheinhart, Allen",1
+PRECINCT 12,Governor (Democratic),"Rutledge, John",2
+PRECINCT 12,Governor (Democratic),"Shabazz, Abdul H.",1
+PRECINCT 12,Governor (Republican),"Hamilton, Eddie ""In Liberty""",1
+PRECINCT 12,Governor (Republican),"Marinch, Gary",2
+PRECINCT 12,Governor (Republican),None Of These Candidates,2
+PRECINCT 12,Governor (Republican),"Sandoval, Brian",37
+PRECINCT 12,Governor (Republican),"Tarbell, William",0
+PRECINCT 12,Governor (Republican),"Tighe, Thomas J.",2
+PRECINCT 12,Lieutenant Governor (Democratic),"Flores, Lucy",10
+PRECINCT 12,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",5
+PRECINCT 12,Lieutenant Governor (Democratic),None Of These Candidates,4
+PRECINCT 12,Lieutenant Governor (Republican),"Dyer, Chris",1
+PRECINCT 12,Lieutenant Governor (Republican),"Hutchison, Mark",28
+PRECINCT 12,Lieutenant Governor (Republican),"Lowden, Sue",12
+PRECINCT 12,Lieutenant Governor (Republican),None Of These Candidates,4
+PRECINCT 12,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",69
+PRECINCT 12,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",67
+PRECINCT 12,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",63
+PRECINCT 12,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",65
+PRECINCT 12,State Controller (Republican),"Arlint, Cort R.",5
+PRECINCT 12,State Controller (Republican),"Herr, Barry",6
+PRECINCT 12,State Controller (Republican),"Knecht, Ron",24
+PRECINCT 12,State Controller (Republican),None Of These Candidates,5
+PRECINCT 12,"State Senate, District 14 (Democratic)","HARRISON, K.C.",7
+PRECINCT 12,"State Senate, District 14 (Democratic)","Hunt, Joe",12
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",3
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",15
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",3
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",10
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",22
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",10
+PRECINCT 12,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 12,WALKER LAKE Water District 2 yr (Nonpartisan),"HARTMANN, SHELLEY",66
+PRECINCT 12,WALKER LAKE Water District 2 yr (Nonpartisan),"LACROIX, RUSSELL",56
+PRECINCT 2,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",14
+PRECINCT 2,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",44
+PRECINCT 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",105
+PRECINCT 2,Governor (Democratic),"Chang, Charles ""Charlie""",3
+PRECINCT 2,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 2,Governor (Democratic),"Frye, Stephen H.",7
+PRECINCT 2,Governor (Democratic),"Goodman, Robert ""Bob""",11
+PRECINCT 2,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 2,Governor (Democratic),None Of These Candidates,20
+PRECINCT 2,Governor (Democratic),"Rheinhart, Allen",1
+PRECINCT 2,Governor (Democratic),"Rutledge, John",5
+PRECINCT 2,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 2,Governor (Republican),"Hamilton, Eddie ""In Liberty""",1
+PRECINCT 2,Governor (Republican),"Marinch, Gary",0
+PRECINCT 2,Governor (Republican),None Of These Candidates,5
+PRECINCT 2,Governor (Republican),"Sandoval, Brian",55
+PRECINCT 2,Governor (Republican),"Tarbell, William",1
+PRECINCT 2,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 2,Lieutenant Governor (Democratic),"Flores, Lucy",24
+PRECINCT 2,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",8
+PRECINCT 2,Lieutenant Governor (Democratic),None Of These Candidates,15
+PRECINCT 2,Lieutenant Governor (Republican),"Dyer, Chris",1
+PRECINCT 2,Lieutenant Governor (Republican),"Hutchison, Mark",29
+PRECINCT 2,Lieutenant Governor (Republican),"Lowden, Sue",22
+PRECINCT 2,Lieutenant Governor (Republican),None Of These Candidates,8
+PRECINCT 2,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",108
+PRECINCT 2,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",100
+PRECINCT 2,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",95
+PRECINCT 2,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",96
+PRECINCT 2,State Controller (Republican),"Arlint, Cort R.",7
+PRECINCT 2,State Controller (Republican),"Herr, Barry",8
+PRECINCT 2,State Controller (Republican),"Knecht, Ron",33
+PRECINCT 2,State Controller (Republican),None Of These Candidates,11
+PRECINCT 2,"State Senate, District 14 (Democratic)","HARRISON, K.C.",13
+PRECINCT 2,"State Senate, District 14 (Democratic)","Hunt, Joe",29
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",1
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",43
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",2
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",11
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",31
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",12
+PRECINCT 2,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",2
+PRECINCT 3,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",14
+PRECINCT 3,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",24
+PRECINCT 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",63
+PRECINCT 3,Governor (Democratic),"Chang, Charles ""Charlie""",3
+PRECINCT 3,Governor (Democratic),"Conquest, Frederick L.",1
+PRECINCT 3,Governor (Democratic),"Frye, Stephen H.",4
+PRECINCT 3,Governor (Democratic),"Goodman, Robert ""Bob""",5
+PRECINCT 3,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 3,Governor (Democratic),None Of These Candidates,10
+PRECINCT 3,Governor (Democratic),"Rheinhart, Allen",1
+PRECINCT 3,Governor (Democratic),"Rutledge, John",1
+PRECINCT 3,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 3,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 3,Governor (Republican),"Marinch, Gary",0
+PRECINCT 3,Governor (Republican),None Of These Candidates,2
+PRECINCT 3,Governor (Republican),"Sandoval, Brian",37
+PRECINCT 3,Governor (Republican),"Tarbell, William",0
+PRECINCT 3,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 3,Lieutenant Governor (Democratic),"Flores, Lucy",15
+PRECINCT 3,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",3
+PRECINCT 3,Lieutenant Governor (Democratic),None Of These Candidates,7
+PRECINCT 3,Lieutenant Governor (Republican),"Dyer, Chris",7
+PRECINCT 3,Lieutenant Governor (Republican),"Hutchison, Mark",19
+PRECINCT 3,Lieutenant Governor (Republican),"Lowden, Sue",11
+PRECINCT 3,Lieutenant Governor (Republican),None Of These Candidates,2
+PRECINCT 3,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",65
+PRECINCT 3,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",63
+PRECINCT 3,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",60
+PRECINCT 3,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",60
+PRECINCT 3,State Controller (Republican),"Arlint, Cort R.",5
+PRECINCT 3,State Controller (Republican),"Herr, Barry",4
+PRECINCT 3,State Controller (Republican),"Knecht, Ron",20
+PRECINCT 3,State Controller (Republican),None Of These Candidates,9
+PRECINCT 3,"State Senate, District 14 (Democratic)","HARRISON, K.C.",14
+PRECINCT 3,"State Senate, District 14 (Democratic)","Hunt, Joe",10
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",2
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",19
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",4
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",7
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",19
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",10
+PRECINCT 3,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 4,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",6
+PRECINCT 4,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",26
+PRECINCT 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",53
+PRECINCT 4,Governor (Democratic),"Chang, Charles ""Charlie""",1
+PRECINCT 4,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 4,Governor (Democratic),"Frye, Stephen H.",4
+PRECINCT 4,Governor (Democratic),"Goodman, Robert ""Bob""",4
+PRECINCT 4,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 4,Governor (Democratic),None Of These Candidates,6
+PRECINCT 4,Governor (Democratic),"Rheinhart, Allen",3
+PRECINCT 4,Governor (Democratic),"Rutledge, John",5
+PRECINCT 4,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 4,Governor (Republican),"Hamilton, Eddie ""In Liberty""",1
+PRECINCT 4,Governor (Republican),"Marinch, Gary",0
+PRECINCT 4,Governor (Republican),None Of These Candidates,4
+PRECINCT 4,Governor (Republican),"Sandoval, Brian",24
+PRECINCT 4,Governor (Republican),"Tarbell, William",0
+PRECINCT 4,Governor (Republican),"Tighe, Thomas J.",1
+PRECINCT 4,Lieutenant Governor (Democratic),"Flores, Lucy",14
+PRECINCT 4,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",3
+PRECINCT 4,Lieutenant Governor (Democratic),None Of These Candidates,7
+PRECINCT 4,Lieutenant Governor (Republican),"Dyer, Chris",3
+PRECINCT 4,Lieutenant Governor (Republican),"Hutchison, Mark",15
+PRECINCT 4,Lieutenant Governor (Republican),"Lowden, Sue",8
+PRECINCT 4,Lieutenant Governor (Republican),None Of These Candidates,4
+PRECINCT 4,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",54
+PRECINCT 4,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",52
+PRECINCT 4,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",52
+PRECINCT 4,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",51
+PRECINCT 4,State Controller (Republican),"Arlint, Cort R.",4
+PRECINCT 4,State Controller (Republican),"Herr, Barry",2
+PRECINCT 4,State Controller (Republican),"Knecht, Ron",14
+PRECINCT 4,State Controller (Republican),None Of These Candidates,9
+PRECINCT 4,"State Senate, District 14 (Democratic)","HARRISON, K.C.",11
+PRECINCT 4,"State Senate, District 14 (Democratic)","Hunt, Joe",12
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",2
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",17
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",5
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",8
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",12
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",7
+PRECINCT 4,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 5,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",6
+PRECINCT 5,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",29
+PRECINCT 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",75
+PRECINCT 5,Governor (Democratic),"Chang, Charles ""Charlie""",2
+PRECINCT 5,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 5,Governor (Democratic),"Frye, Stephen H.",5
+PRECINCT 5,Governor (Democratic),"Goodman, Robert ""Bob""",6
+PRECINCT 5,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 5,Governor (Democratic),None Of These Candidates,22
+PRECINCT 5,Governor (Democratic),"Rheinhart, Allen",5
+PRECINCT 5,Governor (Democratic),"Rutledge, John",1
+PRECINCT 5,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 5,Governor (Republican),"Hamilton, Eddie ""In Liberty""",1
+PRECINCT 5,Governor (Republican),"Marinch, Gary",0
+PRECINCT 5,Governor (Republican),None Of These Candidates,1
+PRECINCT 5,Governor (Republican),"Sandoval, Brian",31
+PRECINCT 5,Governor (Republican),"Tarbell, William",2
+PRECINCT 5,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 5,Lieutenant Governor (Democratic),"Flores, Lucy",18
+PRECINCT 5,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",6
+PRECINCT 5,Lieutenant Governor (Democratic),None Of These Candidates,19
+PRECINCT 5,Lieutenant Governor (Republican),"Dyer, Chris",3
+PRECINCT 5,Lieutenant Governor (Republican),"Hutchison, Mark",20
+PRECINCT 5,Lieutenant Governor (Republican),"Lowden, Sue",11
+PRECINCT 5,Lieutenant Governor (Republican),None Of These Candidates,1
+PRECINCT 5,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",80
+PRECINCT 5,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",75
+PRECINCT 5,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",72
+PRECINCT 5,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",70
+PRECINCT 5,State Controller (Republican),"Arlint, Cort R.",5
+PRECINCT 5,State Controller (Republican),"Herr, Barry",5
+PRECINCT 5,State Controller (Republican),"Knecht, Ron",19
+PRECINCT 5,State Controller (Republican),None Of These Candidates,4
+PRECINCT 5,"State Senate, District 14 (Democratic)","HARRISON, K.C.",16
+PRECINCT 5,"State Senate, District 14 (Democratic)","Hunt, Joe",19
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",6
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",27
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",5
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",10
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",16
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",9
+PRECINCT 5,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 6,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",22
+PRECINCT 6,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",22
+PRECINCT 6,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",82
+PRECINCT 6,Governor (Democratic),"Chang, Charles ""Charlie""",2
+PRECINCT 6,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 6,Governor (Democratic),"Frye, Stephen H.",5
+PRECINCT 6,Governor (Democratic),"Goodman, Robert ""Bob""",3
+PRECINCT 6,Governor (Democratic),"Hyepock, Chris",5
+PRECINCT 6,Governor (Democratic),None Of These Candidates,8
+PRECINCT 6,Governor (Democratic),"Rheinhart, Allen",3
+PRECINCT 6,Governor (Democratic),"Rutledge, John",3
+PRECINCT 6,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 6,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 6,Governor (Republican),"Marinch, Gary",0
+PRECINCT 6,Governor (Republican),None Of These Candidates,2
+PRECINCT 6,Governor (Republican),"Sandoval, Brian",42
+PRECINCT 6,Governor (Republican),"Tarbell, William",1
+PRECINCT 6,Governor (Republican),"Tighe, Thomas J.",2
+PRECINCT 6,Lieutenant Governor (Democratic),"Flores, Lucy",18
+PRECINCT 6,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",6
+PRECINCT 6,Lieutenant Governor (Democratic),None Of These Candidates,6
+PRECINCT 6,Lieutenant Governor (Republican),"Dyer, Chris",4
+PRECINCT 6,Lieutenant Governor (Republican),"Hutchison, Mark",23
+PRECINCT 6,Lieutenant Governor (Republican),"Lowden, Sue",17
+PRECINCT 6,Lieutenant Governor (Republican),None Of These Candidates,4
+PRECINCT 6,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",80
+PRECINCT 6,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",82
+PRECINCT 6,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",76
+PRECINCT 6,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",77
+PRECINCT 6,State Controller (Republican),"Arlint, Cort R.",10
+PRECINCT 6,State Controller (Republican),"Herr, Barry",8
+PRECINCT 6,State Controller (Republican),"Knecht, Ron",19
+PRECINCT 6,State Controller (Republican),None Of These Candidates,9
+PRECINCT 6,"State Senate, District 14 (Democratic)","HARRISON, K.C.",10
+PRECINCT 6,"State Senate, District 14 (Democratic)","Hunt, Joe",18
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",2
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",28
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",1
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",10
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",22
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",12
+PRECINCT 6,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",1
+PRECINCT 7,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",8
+PRECINCT 7,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",5
+PRECINCT 7,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",17
+PRECINCT 7,Governor (Democratic),"Chang, Charles ""Charlie""",0
+PRECINCT 7,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 7,Governor (Democratic),"Frye, Stephen H.",0
+PRECINCT 7,Governor (Democratic),"Goodman, Robert ""Bob""",1
+PRECINCT 7,Governor (Democratic),"Hyepock, Chris",1
+PRECINCT 7,Governor (Democratic),None Of These Candidates,3
+PRECINCT 7,Governor (Democratic),"Rheinhart, Allen",0
+PRECINCT 7,Governor (Democratic),"Rutledge, John",0
+PRECINCT 7,Governor (Democratic),"Shabazz, Abdul H.",2
+PRECINCT 7,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 7,Governor (Republican),"Marinch, Gary",3
+PRECINCT 7,Governor (Republican),None Of These Candidates,0
+PRECINCT 7,Governor (Republican),"Sandoval, Brian",11
+PRECINCT 7,Governor (Republican),"Tarbell, William",0
+PRECINCT 7,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 7,Lieutenant Governor (Democratic),"Flores, Lucy",3
+PRECINCT 7,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",1
+PRECINCT 7,Lieutenant Governor (Democratic),None Of These Candidates,3
+PRECINCT 7,Lieutenant Governor (Republican),"Dyer, Chris",3
+PRECINCT 7,Lieutenant Governor (Republican),"Hutchison, Mark",8
+PRECINCT 7,Lieutenant Governor (Republican),"Lowden, Sue",3
+PRECINCT 7,Lieutenant Governor (Republican),None Of These Candidates,0
+PRECINCT 7,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",17
+PRECINCT 7,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",16
+PRECINCT 7,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",15
+PRECINCT 7,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",17
+PRECINCT 7,State Controller (Republican),"Arlint, Cort R.",0
+PRECINCT 7,State Controller (Republican),"Herr, Barry",1
+PRECINCT 7,State Controller (Republican),"Knecht, Ron",8
+PRECINCT 7,State Controller (Republican),None Of These Candidates,4
+PRECINCT 7,"State Senate, District 14 (Democratic)","HARRISON, K.C.",4
+PRECINCT 7,"State Senate, District 14 (Democratic)","Hunt, Joe",3
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",1
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",5
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",1
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",3
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",5
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",4
+PRECINCT 7,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",1
+PRECINCT 8,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",0
+PRECINCT 8,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",3
+PRECINCT 8,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",8
+PRECINCT 8,Governor (Democratic),"Chang, Charles ""Charlie""",0
+PRECINCT 8,Governor (Democratic),"Conquest, Frederick L.",0
+PRECINCT 8,Governor (Democratic),"Frye, Stephen H.",2
+PRECINCT 8,Governor (Democratic),"Goodman, Robert ""Bob""",1
+PRECINCT 8,Governor (Democratic),"Hyepock, Chris",0
+PRECINCT 8,Governor (Democratic),None Of These Candidates,0
+PRECINCT 8,Governor (Democratic),"Rheinhart, Allen",0
+PRECINCT 8,Governor (Democratic),"Rutledge, John",0
+PRECINCT 8,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 8,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+PRECINCT 8,Governor (Republican),"Marinch, Gary",0
+PRECINCT 8,Governor (Republican),None Of These Candidates,0
+PRECINCT 8,Governor (Republican),"Sandoval, Brian",3
+PRECINCT 8,Governor (Republican),"Tarbell, William",0
+PRECINCT 8,Governor (Republican),"Tighe, Thomas J.",0
+PRECINCT 8,Lieutenant Governor (Democratic),"Flores, Lucy",4
+PRECINCT 8,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",0
+PRECINCT 8,Lieutenant Governor (Democratic),None Of These Candidates,0
+PRECINCT 8,Lieutenant Governor (Republican),"Dyer, Chris",0
+PRECINCT 8,Lieutenant Governor (Republican),"Hutchison, Mark",1
+PRECINCT 8,Lieutenant Governor (Republican),"Lowden, Sue",1
+PRECINCT 8,Lieutenant Governor (Republican),None Of These Candidates,1
+PRECINCT 8,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",8
+PRECINCT 8,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",8
+PRECINCT 8,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",7
+PRECINCT 8,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",7
+PRECINCT 8,State Controller (Republican),"Arlint, Cort R.",1
+PRECINCT 8,State Controller (Republican),"Herr, Barry",0
+PRECINCT 8,State Controller (Republican),"Knecht, Ron",1
+PRECINCT 8,State Controller (Republican),None Of These Candidates,1
+PRECINCT 8,"State Senate, District 14 (Democratic)","HARRISON, K.C.",0
+PRECINCT 8,"State Senate, District 14 (Democratic)","Hunt, Joe",3
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",0
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",4
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",0
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",1
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",0
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",2
+PRECINCT 8,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 9,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",11
+PRECINCT 9,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",24
+PRECINCT 9,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",51
+PRECINCT 9,Governor (Democratic),"Chang, Charles ""Charlie""",0
+PRECINCT 9,Governor (Democratic),"Conquest, Frederick L.",1
+PRECINCT 9,Governor (Democratic),"Frye, Stephen H.",0
+PRECINCT 9,Governor (Democratic),"Goodman, Robert ""Bob""",4
+PRECINCT 9,Governor (Democratic),"Hyepock, Chris",1
+PRECINCT 9,Governor (Democratic),None Of These Candidates,9
+PRECINCT 9,Governor (Democratic),"Rheinhart, Allen",0
+PRECINCT 9,Governor (Democratic),"Rutledge, John",1
+PRECINCT 9,Governor (Democratic),"Shabazz, Abdul H.",0
+PRECINCT 9,Governor (Republican),"Hamilton, Eddie ""In Liberty""",2
+PRECINCT 9,Governor (Republican),"Marinch, Gary",0
+PRECINCT 9,Governor (Republican),None Of These Candidates,5
+PRECINCT 9,Governor (Republican),"Sandoval, Brian",28
+PRECINCT 9,Governor (Republican),"Tarbell, William",1
+PRECINCT 9,Governor (Republican),"Tighe, Thomas J.",1
+PRECINCT 9,Lieutenant Governor (Democratic),"Flores, Lucy",8
+PRECINCT 9,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",2
+PRECINCT 9,Lieutenant Governor (Democratic),None Of These Candidates,7
+PRECINCT 9,Lieutenant Governor (Republican),"Dyer, Chris",1
+PRECINCT 9,Lieutenant Governor (Republican),"Hutchison, Mark",9
+PRECINCT 9,Lieutenant Governor (Republican),"Lowden, Sue",20
+PRECINCT 9,Lieutenant Governor (Republican),None Of These Candidates,7
+PRECINCT 9,MINERAL COUNTY Hospital Board Trustee (Nonpartisan),"DOCKREY, DONALD",45
+PRECINCT 9,MINERAL COUNTY School Trustee Seat INSIDE 4 yr (Nonpartisan),"NEVILLE, KEITH",48
+PRECINCT 9,MINERAL COUNTY School Trustee Seat OUTSIDE 2 yr (Nonpartisan),"LANCASTER, BARBARA",63
+PRECINCT 9,MINERAL COUNTY School Trustee Seat OUTSIDE 4 yr (Nonpartisan),"MCMINN, BEATRICE",44
+PRECINCT 9,State Controller (Republican),"Arlint, Cort R.",0
+PRECINCT 9,State Controller (Republican),"Herr, Barry",6
+PRECINCT 9,State Controller (Republican),"Knecht, Ron",13
+PRECINCT 9,State Controller (Republican),None Of These Candidates,16
+PRECINCT 9,"State Senate, District 14 (Democratic)","HARRISON, K.C.",4
+PRECINCT 9,"State Senate, District 14 (Democratic)","Hunt, Joe",7
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",2
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",7
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",2
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",5
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",18
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",14
+PRECINCT 9,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Democratic)","Budetich, Mark",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Democratic)","Horsford, Steven A.",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Democratic)","Zeller, Sid",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Republican)","Hardy, Cresent",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Republican)","Innis, Niger",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Republican)","Monroe, Mike",0
+PRECINCT 99,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0

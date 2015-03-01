@@ -1,0 +1,473 @@
+precinct,office,candidate,votes
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",32
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",53
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",39
+Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",8
+Argenta 01,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",89
+Argenta 01,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",15
+Argenta 01,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",27
+Argenta 01,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",52
+Argenta 01,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",45
+Argenta 01,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",87
+Argenta 01,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",167
+Argenta 01,Governor (Democratic),"Chang, Charles ""Charlie""",2
+Argenta 01,Governor (Democratic),"Conquest, Frederick L.",1
+Argenta 01,Governor (Democratic),"Frye, Stephen H.",3
+Argenta 01,Governor (Democratic),"Goodman, Robert ""Bob""",5
+Argenta 01,Governor (Democratic),"Hyepock, Chris",1
+Argenta 01,Governor (Democratic),None Of These Candidates,15
+Argenta 01,Governor (Democratic),"Rheinhart, Allen",2
+Argenta 01,Governor (Democratic),"Rutledge, John",6
+Argenta 01,Governor (Democratic),"Shabazz, Abdul H.",0
+Argenta 01,Governor (Republican),"Hamilton, Eddie ""In Liberty""",4
+Argenta 01,Governor (Republican),"Marinch, Gary",2
+Argenta 01,Governor (Republican),None Of These Candidates,4
+Argenta 01,Governor (Republican),"Sandoval, Brian",120
+Argenta 01,Governor (Republican),"Tarbell, William",0
+Argenta 01,Governor (Republican),"Tighe, Thomas J.",2
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",162
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",170
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",167
+Argenta 01,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",168
+Argenta 01,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",144
+Argenta 01,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",128
+Argenta 01,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",120
+Argenta 01,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",134
+Argenta 01,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",175
+Argenta 01,Lieutenant Governor (Democratic),"Flores, Lucy",18
+Argenta 01,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",7
+Argenta 01,Lieutenant Governor (Democratic),None Of These Candidates,9
+Argenta 01,Lieutenant Governor (Republican),"Dyer, Chris",13
+Argenta 01,Lieutenant Governor (Republican),"Hutchison, Mark",55
+Argenta 01,Lieutenant Governor (Republican),"Lowden, Sue",40
+Argenta 01,Lieutenant Governor (Republican),None Of These Candidates,20
+Argenta 01,State Controller (Republican),"Arlint, Cort R.",11
+Argenta 01,State Controller (Republican),"Herr, Barry",20
+Argenta 01,State Controller (Republican),"Knecht, Ron",59
+Argenta 01,State Controller (Republican),None Of These Candidates,37
+Argenta 01,"State Senate, District 14 (Democratic)","HARRISON, K.C.",17
+Argenta 01,"State Senate, District 14 (Democratic)","Hunt, Joe",16
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",2
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",16
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",7
+Argenta 01,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",9
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",19
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",36
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",38
+Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",20
+Argenta 02,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",58
+Argenta 02,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",23
+Argenta 02,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",30
+Argenta 02,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",49
+Argenta 02,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",47
+Argenta 02,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",84
+Argenta 02,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",163
+Argenta 02,Governor (Democratic),"Chang, Charles ""Charlie""",4
+Argenta 02,Governor (Democratic),"Conquest, Frederick L.",1
+Argenta 02,Governor (Democratic),"Frye, Stephen H.",3
+Argenta 02,Governor (Democratic),"Goodman, Robert ""Bob""",9
+Argenta 02,Governor (Democratic),"Hyepock, Chris",1
+Argenta 02,Governor (Democratic),None Of These Candidates,15
+Argenta 02,Governor (Democratic),"Rheinhart, Allen",11
+Argenta 02,Governor (Democratic),"Rutledge, John",2
+Argenta 02,Governor (Democratic),"Shabazz, Abdul H.",1
+Argenta 02,Governor (Republican),"Hamilton, Eddie ""In Liberty""",4
+Argenta 02,Governor (Republican),"Marinch, Gary",3
+Argenta 02,Governor (Republican),None Of These Candidates,6
+Argenta 02,Governor (Republican),"Sandoval, Brian",92
+Argenta 02,Governor (Republican),"Tarbell, William",1
+Argenta 02,Governor (Republican),"Tighe, Thomas J.",6
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",159
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",175
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",164
+Argenta 02,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",170
+Argenta 02,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",139
+Argenta 02,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",139
+Argenta 02,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",132
+Argenta 02,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",127
+Argenta 02,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",168
+Argenta 02,Lieutenant Governor (Democratic),"Flores, Lucy",24
+Argenta 02,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",11
+Argenta 02,Lieutenant Governor (Democratic),None Of These Candidates,12
+Argenta 02,Lieutenant Governor (Republican),"Dyer, Chris",16
+Argenta 02,Lieutenant Governor (Republican),"Hutchison, Mark",42
+Argenta 02,Lieutenant Governor (Republican),"Lowden, Sue",41
+Argenta 02,Lieutenant Governor (Republican),None Of These Candidates,13
+Argenta 02,State Controller (Republican),"Arlint, Cort R.",13
+Argenta 02,State Controller (Republican),"Herr, Barry",16
+Argenta 02,State Controller (Republican),"Knecht, Ron",59
+Argenta 02,State Controller (Republican),None Of These Candidates,23
+Argenta 02,"State Senate, District 14 (Democratic)","HARRISON, K.C.",19
+Argenta 02,"State Senate, District 14 (Democratic)","Hunt, Joe",27
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",9
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",21
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",7
+Argenta 02,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",9
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",11
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",17
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",14
+Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",2
+Argenta 03,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",29
+Argenta 03,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",7
+Argenta 03,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",9
+Argenta 03,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",27
+Argenta 03,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",20
+Argenta 03,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",18
+Argenta 03,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",60
+Argenta 03,Governor (Democratic),"Chang, Charles ""Charlie""",0
+Argenta 03,Governor (Democratic),"Conquest, Frederick L.",0
+Argenta 03,Governor (Democratic),"Frye, Stephen H.",2
+Argenta 03,Governor (Democratic),"Goodman, Robert ""Bob""",3
+Argenta 03,Governor (Democratic),"Hyepock, Chris",1
+Argenta 03,Governor (Democratic),None Of These Candidates,8
+Argenta 03,Governor (Democratic),"Rheinhart, Allen",3
+Argenta 03,Governor (Democratic),"Rutledge, John",1
+Argenta 03,Governor (Democratic),"Shabazz, Abdul H.",0
+Argenta 03,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+Argenta 03,Governor (Republican),"Marinch, Gary",0
+Argenta 03,Governor (Republican),None Of These Candidates,0
+Argenta 03,Governor (Republican),"Sandoval, Brian",45
+Argenta 03,Governor (Republican),"Tarbell, William",0
+Argenta 03,Governor (Republican),"Tighe, Thomas J.",0
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",60
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",62
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",60
+Argenta 03,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",60
+Argenta 03,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",51
+Argenta 03,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",50
+Argenta 03,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",48
+Argenta 03,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",47
+Argenta 03,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",60
+Argenta 03,Lieutenant Governor (Democratic),"Flores, Lucy",5
+Argenta 03,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",6
+Argenta 03,Lieutenant Governor (Democratic),None Of These Candidates,7
+Argenta 03,Lieutenant Governor (Republican),"Dyer, Chris",4
+Argenta 03,Lieutenant Governor (Republican),"Hutchison, Mark",20
+Argenta 03,Lieutenant Governor (Republican),"Lowden, Sue",16
+Argenta 03,Lieutenant Governor (Republican),None Of These Candidates,5
+Argenta 03,State Controller (Republican),"Arlint, Cort R.",6
+Argenta 03,State Controller (Republican),"Herr, Barry",8
+Argenta 03,State Controller (Republican),"Knecht, Ron",20
+Argenta 03,State Controller (Republican),None Of These Candidates,10
+Argenta 03,"State Senate, District 14 (Democratic)","HARRISON, K.C.",10
+Argenta 03,"State Senate, District 14 (Democratic)","Hunt, Joe",5
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",2
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",9
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",2
+Argenta 03,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",3
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",31
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",50
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",37
+Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",22
+Argenta 04,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",81
+Argenta 04,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",28
+Argenta 04,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",33
+Argenta 04,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",53
+Argenta 04,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",53
+Argenta 04,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",91
+Argenta 04,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",177
+Argenta 04,Governor (Democratic),"Chang, Charles ""Charlie""",3
+Argenta 04,Governor (Democratic),"Conquest, Frederick L.",0
+Argenta 04,Governor (Democratic),"Frye, Stephen H.",3
+Argenta 04,Governor (Democratic),"Goodman, Robert ""Bob""",3
+Argenta 04,Governor (Democratic),"Hyepock, Chris",5
+Argenta 04,Governor (Democratic),None Of These Candidates,8
+Argenta 04,Governor (Democratic),"Rheinhart, Allen",5
+Argenta 04,Governor (Democratic),"Rutledge, John",2
+Argenta 04,Governor (Democratic),"Shabazz, Abdul H.",3
+Argenta 04,Governor (Republican),"Hamilton, Eddie ""In Liberty""",4
+Argenta 04,Governor (Republican),"Marinch, Gary",1
+Argenta 04,Governor (Republican),None Of These Candidates,7
+Argenta 04,Governor (Republican),"Sandoval, Brian",122
+Argenta 04,Governor (Republican),"Tarbell, William",2
+Argenta 04,Governor (Republican),"Tighe, Thomas J.",7
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",177
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",179
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",177
+Argenta 04,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",177
+Argenta 04,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",149
+Argenta 04,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",151
+Argenta 04,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",145
+Argenta 04,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",145
+Argenta 04,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",184
+Argenta 04,Lieutenant Governor (Democratic),"Flores, Lucy",21
+Argenta 04,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",4
+Argenta 04,Lieutenant Governor (Democratic),None Of These Candidates,7
+Argenta 04,Lieutenant Governor (Republican),"Dyer, Chris",13
+Argenta 04,Lieutenant Governor (Republican),"Hutchison, Mark",52
+Argenta 04,Lieutenant Governor (Republican),"Lowden, Sue",56
+Argenta 04,Lieutenant Governor (Republican),None Of These Candidates,21
+Argenta 04,State Controller (Republican),"Arlint, Cort R.",10
+Argenta 04,State Controller (Republican),"Herr, Barry",20
+Argenta 04,State Controller (Republican),"Knecht, Ron",70
+Argenta 04,State Controller (Republican),None Of These Candidates,40
+Argenta 04,"State Senate, District 14 (Democratic)","HARRISON, K.C.",15
+Argenta 04,"State Senate, District 14 (Democratic)","Hunt, Joe",16
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",3
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",11
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",10
+Argenta 04,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",8
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",23
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",45
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",53
+Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",20
+Argenta 05,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",81
+Argenta 05,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",29
+Argenta 05,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",30
+Argenta 05,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",55
+Argenta 05,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",41
+Argenta 05,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",95
+Argenta 05,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",176
+Argenta 05,Governor (Democratic),"Chang, Charles ""Charlie""",1
+Argenta 05,Governor (Democratic),"Conquest, Frederick L.",1
+Argenta 05,Governor (Democratic),"Frye, Stephen H.",3
+Argenta 05,Governor (Democratic),"Goodman, Robert ""Bob""",4
+Argenta 05,Governor (Democratic),"Hyepock, Chris",2
+Argenta 05,Governor (Democratic),None Of These Candidates,16
+Argenta 05,Governor (Democratic),"Rheinhart, Allen",5
+Argenta 05,Governor (Democratic),"Rutledge, John",5
+Argenta 05,Governor (Democratic),"Shabazz, Abdul H.",0
+Argenta 05,Governor (Republican),"Hamilton, Eddie ""In Liberty""",3
+Argenta 05,Governor (Republican),"Marinch, Gary",2
+Argenta 05,Governor (Republican),None Of These Candidates,7
+Argenta 05,Governor (Republican),"Sandoval, Brian",120
+Argenta 05,Governor (Republican),"Tarbell, William",3
+Argenta 05,Governor (Republican),"Tighe, Thomas J.",4
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",174
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",176
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",174
+Argenta 05,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",169
+Argenta 05,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",146
+Argenta 05,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",154
+Argenta 05,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",153
+Argenta 05,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",134
+Argenta 05,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",182
+Argenta 05,Lieutenant Governor (Democratic),"Flores, Lucy",16
+Argenta 05,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",7
+Argenta 05,Lieutenant Governor (Democratic),None Of These Candidates,13
+Argenta 05,Lieutenant Governor (Republican),"Dyer, Chris",8
+Argenta 05,Lieutenant Governor (Republican),"Hutchison, Mark",51
+Argenta 05,Lieutenant Governor (Republican),"Lowden, Sue",66
+Argenta 05,Lieutenant Governor (Republican),None Of These Candidates,14
+Argenta 05,State Controller (Republican),"Arlint, Cort R.",13
+Argenta 05,State Controller (Republican),"Herr, Barry",20
+Argenta 05,State Controller (Republican),"Knecht, Ron",71
+Argenta 05,State Controller (Republican),None Of These Candidates,35
+Argenta 05,"State Senate, District 14 (Democratic)","HARRISON, K.C.",13
+Argenta 05,"State Senate, District 14 (Democratic)","Hunt, Joe",19
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",6
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",15
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",8
+Argenta 05,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",6
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",15
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",11
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",14
+Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",9
+Austin 07,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",27
+Austin 07,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",8
+Austin 07,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",13
+Austin 07,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",21
+Austin 07,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",18
+Austin 07,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",34
+Austin 07,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",56
+Austin 07,Governor (Democratic),"Chang, Charles ""Charlie""",2
+Austin 07,Governor (Democratic),"Conquest, Frederick L.",0
+Austin 07,Governor (Democratic),"Frye, Stephen H.",4
+Austin 07,Governor (Democratic),"Goodman, Robert ""Bob""",3
+Austin 07,Governor (Democratic),"Hyepock, Chris",0
+Austin 07,Governor (Democratic),None Of These Candidates,2
+Austin 07,Governor (Democratic),"Rheinhart, Allen",1
+Austin 07,Governor (Democratic),"Rutledge, John",2
+Austin 07,Governor (Democratic),"Shabazz, Abdul H.",1
+Austin 07,Governor (Republican),"Hamilton, Eddie ""In Liberty""",5
+Austin 07,Governor (Republican),"Marinch, Gary",1
+Austin 07,Governor (Republican),None Of These Candidates,1
+Austin 07,Governor (Republican),"Sandoval, Brian",41
+Austin 07,Governor (Republican),"Tarbell, William",0
+Austin 07,Governor (Republican),"Tighe, Thomas J.",2
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",62
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",65
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",62
+Austin 07,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",60
+Austin 07,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",30
+Austin 07,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",34
+Austin 07,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",39
+Austin 07,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",29
+Austin 07,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",60
+Austin 07,Lieutenant Governor (Democratic),"Flores, Lucy",12
+Austin 07,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",1
+Austin 07,Lieutenant Governor (Democratic),None Of These Candidates,2
+Austin 07,Lieutenant Governor (Republican),"Dyer, Chris",8
+Austin 07,Lieutenant Governor (Republican),"Hutchison, Mark",18
+Austin 07,Lieutenant Governor (Republican),"Lowden, Sue",19
+Austin 07,Lieutenant Governor (Republican),None Of These Candidates,5
+Austin 07,State Controller (Republican),"Arlint, Cort R.",3
+Austin 07,State Controller (Republican),"Herr, Barry",13
+Austin 07,State Controller (Republican),"Knecht, Ron",18
+Austin 07,State Controller (Republican),None Of These Candidates,15
+Austin 07,"State Senate, District 14 (Democratic)","HARRISON, K.C.",3
+Austin 07,"State Senate, District 14 (Democratic)","Hunt, Joe",11
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",1
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",6
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",2
+Austin 07,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",5
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",0
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",3
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",1
+Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",2
+Gillman Springs Ranch 08,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",1
+Gillman Springs Ranch 08,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",1
+Gillman Springs Ranch 08,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",4
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",0
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",4
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",4
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",8
+Gillman Springs Ranch 08,Governor (Democratic),"Chang, Charles ""Charlie""",0
+Gillman Springs Ranch 08,Governor (Democratic),"Conquest, Frederick L.",0
+Gillman Springs Ranch 08,Governor (Democratic),"Frye, Stephen H.",0
+Gillman Springs Ranch 08,Governor (Democratic),"Goodman, Robert ""Bob""",0
+Gillman Springs Ranch 08,Governor (Democratic),"Hyepock, Chris",0
+Gillman Springs Ranch 08,Governor (Democratic),None Of These Candidates,0
+Gillman Springs Ranch 08,Governor (Democratic),"Rheinhart, Allen",0
+Gillman Springs Ranch 08,Governor (Democratic),"Rutledge, John",0
+Gillman Springs Ranch 08,Governor (Democratic),"Shabazz, Abdul H.",0
+Gillman Springs Ranch 08,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+Gillman Springs Ranch 08,Governor (Republican),"Marinch, Gary",2
+Gillman Springs Ranch 08,Governor (Republican),None Of These Candidates,0
+Gillman Springs Ranch 08,Governor (Republican),"Sandoval, Brian",4
+Gillman Springs Ranch 08,Governor (Republican),"Tarbell, William",0
+Gillman Springs Ranch 08,Governor (Republican),"Tighe, Thomas J.",0
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",6
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",9
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",8
+Gillman Springs Ranch 08,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",8
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",0
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",1
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",2
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",4
+Gillman Springs Ranch 08,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",8
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),"Flores, Lucy",0
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",0
+Gillman Springs Ranch 08,Lieutenant Governor (Democratic),None Of These Candidates,0
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),"Dyer, Chris",0
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),"Hutchison, Mark",4
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),"Lowden, Sue",2
+Gillman Springs Ranch 08,Lieutenant Governor (Republican),None Of These Candidates,0
+Gillman Springs Ranch 08,State Controller (Republican),"Arlint, Cort R.",0
+Gillman Springs Ranch 08,State Controller (Republican),"Herr, Barry",0
+Gillman Springs Ranch 08,State Controller (Republican),"Knecht, Ron",4
+Gillman Springs Ranch 08,State Controller (Republican),None Of These Candidates,2
+Gillman Springs Ranch 08,"State Senate, District 14 (Democratic)","HARRISON, K.C.",0
+Gillman Springs Ranch 08,"State Senate, District 14 (Democratic)","Hunt, Joe",0
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",0
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",0
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
+Gillman Springs Ranch 08,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",0
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",2
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",8
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",11
+Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",6
+Kingston 09,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",10
+Kingston 09,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",6
+Kingston 09,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",11
+Kingston 09,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",6
+Kingston 09,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",6
+Kingston 09,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",33
+Kingston 09,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",40
+Kingston 09,Governor (Democratic),"Chang, Charles ""Charlie""",0
+Kingston 09,Governor (Democratic),"Conquest, Frederick L.",0
+Kingston 09,Governor (Democratic),"Frye, Stephen H.",1
+Kingston 09,Governor (Democratic),"Goodman, Robert ""Bob""",1
+Kingston 09,Governor (Democratic),"Hyepock, Chris",0
+Kingston 09,Governor (Democratic),None Of These Candidates,2
+Kingston 09,Governor (Democratic),"Rheinhart, Allen",0
+Kingston 09,Governor (Democratic),"Rutledge, John",1
+Kingston 09,Governor (Democratic),"Shabazz, Abdul H.",0
+Kingston 09,Governor (Republican),"Hamilton, Eddie ""In Liberty""",0
+Kingston 09,Governor (Republican),"Marinch, Gary",0
+Kingston 09,Governor (Republican),None Of These Candidates,0
+Kingston 09,Governor (Republican),"Sandoval, Brian",29
+Kingston 09,Governor (Republican),"Tarbell, William",0
+Kingston 09,Governor (Republican),"Tighe, Thomas J.",0
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",42
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",45
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",41
+Kingston 09,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",40
+Kingston 09,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",21
+Kingston 09,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",19
+Kingston 09,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",20
+Kingston 09,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",27
+Kingston 09,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",40
+Kingston 09,Lieutenant Governor (Democratic),"Flores, Lucy",4
+Kingston 09,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",1
+Kingston 09,Lieutenant Governor (Democratic),None Of These Candidates,0
+Kingston 09,Lieutenant Governor (Republican),"Dyer, Chris",2
+Kingston 09,Lieutenant Governor (Republican),"Hutchison, Mark",15
+Kingston 09,Lieutenant Governor (Republican),"Lowden, Sue",5
+Kingston 09,Lieutenant Governor (Republican),None Of These Candidates,6
+Kingston 09,State Controller (Republican),"Arlint, Cort R.",7
+Kingston 09,State Controller (Republican),"Herr, Barry",5
+Kingston 09,State Controller (Republican),"Knecht, Ron",5
+Kingston 09,State Controller (Republican),None Of These Candidates,9
+Kingston 09,"State Senate, District 14 (Democratic)","HARRISON, K.C.",3
+Kingston 09,"State Senate, District 14 (Democratic)","Hunt, Joe",2
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",0
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",0
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",2
+Kingston 09,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",3
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
+Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",0
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"BROUGHTON, DAVID M.",3
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"BULLOCK, DEAN",31
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"CLARK, ART III",7
+Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",2
+Southern Lander County 06,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",26
+Southern Lander County 06,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",6
+Southern Lander County 06,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",11
+Southern Lander County 06,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",16
+Southern Lander County 06,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",6
+Southern Lander County 06,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",32
+Southern Lander County 06,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",49
+Southern Lander County 06,Governor (Democratic),"Chang, Charles ""Charlie""",0
+Southern Lander County 06,Governor (Democratic),"Conquest, Frederick L.",0
+Southern Lander County 06,Governor (Democratic),"Frye, Stephen H.",0
+Southern Lander County 06,Governor (Democratic),"Goodman, Robert ""Bob""",1
+Southern Lander County 06,Governor (Democratic),"Hyepock, Chris",0
+Southern Lander County 06,Governor (Democratic),None Of These Candidates,3
+Southern Lander County 06,Governor (Democratic),"Rheinhart, Allen",0
+Southern Lander County 06,Governor (Democratic),"Rutledge, John",0
+Southern Lander County 06,Governor (Democratic),"Shabazz, Abdul H.",1
+Southern Lander County 06,Governor (Republican),"Hamilton, Eddie ""In Liberty""",2
+Southern Lander County 06,Governor (Republican),"Marinch, Gary",1
+Southern Lander County 06,Governor (Republican),None Of These Candidates,0
+Southern Lander County 06,Governor (Republican),"Sandoval, Brian",41
+Southern Lander County 06,Governor (Republican),"Tarbell, William",1
+Southern Lander County 06,Governor (Republican),"Tighe, Thomas J.",0
+Southern Lander County 06,"LANDER COUNTY Hospital Dist Trustee, Seat A (Nonpartisan)","SAM, MARLA",49
+Southern Lander County 06,"LANDER COUNTY Hospital Dist Trustee, Seat D (Nonpartisan)","BRICKLEY, PATRICIA",48
+Southern Lander County 06,"LANDER COUNTY Hospital Dist Trustee, Seat E (Nonpartisan)","LAURITZEN, LINDA",48
+Southern Lander County 06,"LANDER COUNTY Hospital Dist Trustee, Seat F (Nonpartisan)","LOCKRIDGE, NANCY",48
+Southern Lander County 06,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, JOHN W.",21
+Southern Lander County 06,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","DAVIS, SUSAN",18
+Southern Lander County 06,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","FORGERON, HY",24
+Southern Lander County 06,"LANDER COUNTY School Trustee, Area ONE (Nonpartisan)","LAKE, MARK",21
+Southern Lander County 06,"LANDER COUNTY School Trustee, Area THREE (Nonpartisan)","PENOLA, ANNA",47
+Southern Lander County 06,Lieutenant Governor (Democratic),"Flores, Lucy",2
+Southern Lander County 06,Lieutenant Governor (Democratic),"Kulkin, Harley Zane",0
+Southern Lander County 06,Lieutenant Governor (Democratic),None Of These Candidates,3
+Southern Lander County 06,Lieutenant Governor (Republican),"Dyer, Chris",4
+Southern Lander County 06,Lieutenant Governor (Republican),"Hutchison, Mark",25
+Southern Lander County 06,Lieutenant Governor (Republican),"Lowden, Sue",13
+Southern Lander County 06,Lieutenant Governor (Republican),None Of These Candidates,3
+Southern Lander County 06,State Controller (Republican),"Arlint, Cort R.",4
+Southern Lander County 06,State Controller (Republican),"Herr, Barry",9
+Southern Lander County 06,State Controller (Republican),"Knecht, Ron",16
+Southern Lander County 06,State Controller (Republican),None Of These Candidates,10
+Southern Lander County 06,"State Senate, District 14 (Democratic)","HARRISON, K.C.",0
+Southern Lander County 06,"State Senate, District 14 (Democratic)","Hunt, Joe",4
+Southern Lander County 06,"U.S. Representative in Congress, District 2 (Democratic)","Alm, Vance",0
+Southern Lander County 06,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",1
+Southern Lander County 06,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
+Southern Lander County 06,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",4
