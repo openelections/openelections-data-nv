@@ -10,6 +10,8 @@ and generates CSV file for a given jurisdiction.
 """
 
 ELECTIONS = [
+    {"year": "2014", "type": "primary", "id": "20", "datestring":"20140610"},
+#    {"year": "2014", "type": "general", "id": "21", "datestring":"20141104"},
     {"year": "2012", "type": "primary", "id": "16", "datestring":"20120712"},
     {"year": "2012", "type": "general", "id": "17", "datestring":"20121106"},
     {"year": "2011", "type": "special__general", "id": "15", "datestring":"20110913"},
