@@ -1,0 +1,326 @@
+precinct,office,candidate,votes
+PRECINCT 1,Assessor,"CERINI-JONES, LAUREEN",479
+PRECINCT 1,Attorney General,"Hansen, Jonathan J",44
+PRECINCT 1,Attorney General,"Laxalt, Adam Paul",311
+PRECINCT 1,Attorney General,"Miller, Ross",139
+PRECINCT 1,Attorney General,None Of These Candidates,35
+PRECINCT 1,Big Meadow Conservation District,"CLINGER, CARL F.",303
+PRECINCT 1,Big Meadow Conservation District,"DEPAOLI, ROBERT R.",396
+PRECINCT 1,Big Meadow Conservation District,"SHANK, JOHN W.",305
+PRECINCT 1,County Clerk-Treasurer,"DONALDSON, LACEY",448
+PRECINCT 1,County Commissioner Seat C,"SHANK, CAROL A.",456
+PRECINCT 1,County Recorder-Auditor,"CHILDS, RENE M.",488
+PRECINCT 1,County Sheriff,"ALLEN, JERRY",299
+PRECINCT 1,County Sheriff,"CARMICHAEL, NATHAN",225
+PRECINCT 1,DISTRICT ATTORNEY,"SHIELDS, BRYCE",455
+PRECINCT 1,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",218
+PRECINCT 1,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",308
+PRECINCT 1,Governor,"Goodman, Robert ""Bob""",51
+PRECINCT 1,Governor,None Of These Candidates,21
+PRECINCT 1,Governor,"Sandoval, Brian",430
+PRECINCT 1,Governor,"VanDerBeek, David Lory",30
+PRECINCT 1,Hospital District PERSHING,"HULTGREN, J. CAROLYN",292
+PRECINCT 1,Hospital District PERSHING,"SAFFORD, CHARLES M.",408
+PRECINCT 1,Hospital District PERSHING,"TUELLER, DANA",319
+PRECINCT 1,Lieutenant Governor,"Flores, Lucy",79
+PRECINCT 1,Lieutenant Governor,"Hutchison, Mark",379
+PRECINCT 1,Lieutenant Governor,"Little, Mike",39
+PRECINCT 1,Lieutenant Governor,None Of These Candidates,36
+PRECINCT 1,PUBLIC ADMINISTRATOR,"KEARNS, JEFFREY",465
+PRECINCT 1,School Dist. Board of Trustees Seat A,"EVANS, JAMES",269
+PRECINCT 1,School Dist. Board of Trustees Seat A,"LUSBY-ANGVICK, HEIDI",236
+PRECINCT 1,Secretary Of State,"Cegavske, Barbara K",305
+PRECINCT 1,Secretary Of State,"Marshall, Kate",176
+PRECINCT 1,Secretary Of State,None Of These Candidates,48
+PRECINCT 1,"State Assembly, District 32","Gabriel, Louis ""Wedge""",47
+PRECINCT 1,"State Assembly, District 32","Hansen, Ira",373
+PRECINCT 1,"State Assembly, District 32","Sampaga, John Sharp",90
+PRECINCT 1,State Controller,"Jones, Tom",58
+PRECINCT 1,State Controller,"Knecht, Ron",310
+PRECINCT 1,State Controller,"Martin, Andrew",93
+PRECINCT 1,State Controller,None Of These Candidates,63
+PRECINCT 1,"State Senate, District 14","Gustavson, Don",391
+PRECINCT 1,"State Senate, District 14","Hunt, Joe",124
+PRECINCT 1,State Treasurer,"Cave, Kress K",33
+PRECINCT 1,State Treasurer,None Of These Candidates,44
+PRECINCT 1,State Treasurer,"Schwartz, Dan",333
+PRECINCT 1,State Treasurer,"Wallin, Kim",118
+PRECINCT 1,"Supreme Court Justice, Seat B",None Of These Candidates,122
+PRECINCT 1,"Supreme Court Justice, Seat B","Pickering, Kristina",351
+PRECINCT 1,"Supreme Court Justice, Seat D","Gibbons, Mark",368
+PRECINCT 1,"Supreme Court Justice, Seat D",None Of These Candidates,107
+PRECINCT 1,"U.S. Representative in Congress, District 2","Amodei, Mark E.",389
+PRECINCT 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",63
+PRECINCT 1,"U.S. Representative in Congress, District 2","Spees, Kristen",70
+PRECINCT 3,Assessor,"CERINI-JONES, LAUREEN",282
+PRECINCT 3,Attorney General,"Hansen, Jonathan J",33
+PRECINCT 3,Attorney General,"Laxalt, Adam Paul",147
+PRECINCT 3,Attorney General,"Miller, Ross",113
+PRECINCT 3,Attorney General,None Of These Candidates,16
+PRECINCT 3,Big Meadow Conservation District,"CLINGER, CARL F.",185
+PRECINCT 3,Big Meadow Conservation District,"DEPAOLI, ROBERT R.",219
+PRECINCT 3,Big Meadow Conservation District,"SHANK, JOHN W.",180
+PRECINCT 3,County Clerk-Treasurer,"DONALDSON, LACEY",281
+PRECINCT 3,County Commissioner Seat C,"SHANK, CAROL A.",258
+PRECINCT 3,County Recorder-Auditor,"CHILDS, RENE M.",277
+PRECINCT 3,County Sheriff,"ALLEN, JERRY",193
+PRECINCT 3,County Sheriff,"CARMICHAEL, NATHAN",117
+PRECINCT 3,DISTRICT ATTORNEY,"SHIELDS, BRYCE",264
+PRECINCT 3,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",132
+PRECINCT 3,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",176
+PRECINCT 3,Governor,"Goodman, Robert ""Bob""",43
+PRECINCT 3,Governor,None Of These Candidates,16
+PRECINCT 3,Governor,"Sandoval, Brian",233
+PRECINCT 3,Governor,"VanDerBeek, David Lory",19
+PRECINCT 3,Hospital District PERSHING,"HULTGREN, J. CAROLYN",181
+PRECINCT 3,Hospital District PERSHING,"SAFFORD, CHARLES M.",228
+PRECINCT 3,Hospital District PERSHING,"TUELLER, DANA",186
+PRECINCT 3,Lieutenant Governor,"Flores, Lucy",80
+PRECINCT 3,Lieutenant Governor,"Hutchison, Mark",195
+PRECINCT 3,Lieutenant Governor,"Little, Mike",21
+PRECINCT 3,Lieutenant Governor,None Of These Candidates,14
+PRECINCT 3,LOVELOCK Council Member Seat C,"ROWE, PAT",191
+PRECINCT 3,LOVELOCK Council Member Seat C,"WILCOX, RODNEY J.",116
+PRECINCT 3,PUBLIC ADMINISTRATOR,"KEARNS, JEFFREY",261
+PRECINCT 3,School Dist. Board of Trustees Seat A,"EVANS, JAMES",189
+PRECINCT 3,School Dist. Board of Trustees Seat A,"LUSBY-ANGVICK, HEIDI",118
+PRECINCT 3,Secretary Of State,"Cegavske, Barbara K",153
+PRECINCT 3,Secretary Of State,"Marshall, Kate",138
+PRECINCT 3,Secretary Of State,None Of These Candidates,21
+PRECINCT 3,"State Assembly, District 32","Gabriel, Louis ""Wedge""",22
+PRECINCT 3,"State Assembly, District 32","Hansen, Ira",190
+PRECINCT 3,"State Assembly, District 32","Sampaga, John Sharp",88
+PRECINCT 3,State Controller,"Jones, Tom",28
+PRECINCT 3,State Controller,"Knecht, Ron",165
+PRECINCT 3,State Controller,"Martin, Andrew",90
+PRECINCT 3,State Controller,None Of These Candidates,25
+PRECINCT 3,"State Senate, District 14","Gustavson, Don",197
+PRECINCT 3,"State Senate, District 14","Hunt, Joe",101
+PRECINCT 3,State Treasurer,"Cave, Kress K",20
+PRECINCT 3,State Treasurer,None Of These Candidates,19
+PRECINCT 3,State Treasurer,"Schwartz, Dan",164
+PRECINCT 3,State Treasurer,"Wallin, Kim",104
+PRECINCT 3,"Supreme Court Justice, Seat B",None Of These Candidates,61
+PRECINCT 3,"Supreme Court Justice, Seat B","Pickering, Kristina",219
+PRECINCT 3,"Supreme Court Justice, Seat D","Gibbons, Mark",228
+PRECINCT 3,"Supreme Court Justice, Seat D",None Of These Candidates,56
+PRECINCT 3,"U.S. Representative in Congress, District 2","Amodei, Mark E.",217
+PRECINCT 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
+PRECINCT 3,"U.S. Representative in Congress, District 2","Spees, Kristen",63
+PRECINCT 4,Assessor,"CERINI-JONES, LAUREEN",199
+PRECINCT 4,Attorney General,"Hansen, Jonathan J",15
+PRECINCT 4,Attorney General,"Laxalt, Adam Paul",103
+PRECINCT 4,Attorney General,"Miller, Ross",78
+PRECINCT 4,Attorney General,None Of These Candidates,21
+PRECINCT 4,Big Meadow Conservation District,"CLINGER, CARL F.",138
+PRECINCT 4,Big Meadow Conservation District,"DEPAOLI, ROBERT R.",144
+PRECINCT 4,Big Meadow Conservation District,"SHANK, JOHN W.",130
+PRECINCT 4,County Clerk-Treasurer,"DONALDSON, LACEY",187
+PRECINCT 4,County Commissioner Seat C,"SHANK, CAROL A.",186
+PRECINCT 4,County Recorder-Auditor,"CHILDS, RENE M.",197
+PRECINCT 4,County Sheriff,"ALLEN, JERRY",128
+PRECINCT 4,County Sheriff,"CARMICHAEL, NATHAN",94
+PRECINCT 4,DISTRICT ATTORNEY,"SHIELDS, BRYCE",184
+PRECINCT 4,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",101
+PRECINCT 4,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",113
+PRECINCT 4,Governor,"Goodman, Robert ""Bob""",32
+PRECINCT 4,Governor,None Of These Candidates,9
+PRECINCT 4,Governor,"Sandoval, Brian",172
+PRECINCT 4,Governor,"VanDerBeek, David Lory",9
+PRECINCT 4,Hospital District PERSHING,"HULTGREN, J. CAROLYN",124
+PRECINCT 4,Hospital District PERSHING,"SAFFORD, CHARLES M.",161
+PRECINCT 4,Hospital District PERSHING,"TUELLER, DANA",129
+PRECINCT 4,Lieutenant Governor,"Flores, Lucy",58
+PRECINCT 4,Lieutenant Governor,"Hutchison, Mark",115
+PRECINCT 4,Lieutenant Governor,"Little, Mike",17
+PRECINCT 4,Lieutenant Governor,None Of These Candidates,30
+PRECINCT 4,LOVELOCK Council Member Seat C,"ROWE, PAT",133
+PRECINCT 4,LOVELOCK Council Member Seat C,"WILCOX, RODNEY J.",82
+PRECINCT 4,PUBLIC ADMINISTRATOR,"KEARNS, JEFFREY",187
+PRECINCT 4,School Dist. Board of Trustees Seat A,"EVANS, JAMES",124
+PRECINCT 4,School Dist. Board of Trustees Seat A,"LUSBY-ANGVICK, HEIDI",87
+PRECINCT 4,Secretary Of State,"Cegavske, Barbara K",88
+PRECINCT 4,Secretary Of State,"Marshall, Kate",101
+PRECINCT 4,Secretary Of State,None Of These Candidates,28
+PRECINCT 4,"State Assembly, District 32","Gabriel, Louis ""Wedge""",14
+PRECINCT 4,"State Assembly, District 32","Hansen, Ira",125
+PRECINCT 4,"State Assembly, District 32","Sampaga, John Sharp",71
+PRECINCT 4,State Controller,"Jones, Tom",31
+PRECINCT 4,State Controller,"Knecht, Ron",87
+PRECINCT 4,State Controller,"Martin, Andrew",65
+PRECINCT 4,State Controller,None Of These Candidates,37
+PRECINCT 4,"State Senate, District 14","Gustavson, Don",136
+PRECINCT 4,"State Senate, District 14","Hunt, Joe",74
+PRECINCT 4,State Treasurer,"Cave, Kress K",19
+PRECINCT 4,State Treasurer,None Of These Candidates,21
+PRECINCT 4,State Treasurer,"Schwartz, Dan",98
+PRECINCT 4,State Treasurer,"Wallin, Kim",79
+PRECINCT 4,"Supreme Court Justice, Seat B",None Of These Candidates,49
+PRECINCT 4,"Supreme Court Justice, Seat B","Pickering, Kristina",154
+PRECINCT 4,"Supreme Court Justice, Seat D","Gibbons, Mark",167
+PRECINCT 4,"Supreme Court Justice, Seat D",None Of These Candidates,34
+PRECINCT 4,"U.S. Representative in Congress, District 2","Amodei, Mark E.",119
+PRECINCT 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
+PRECINCT 4,"U.S. Representative in Congress, District 2","Spees, Kristen",59
+PRECINCT 5,Assessor,"CERINI-JONES, LAUREEN",78
+PRECINCT 5,Attorney General,"Hansen, Jonathan J",25
+PRECINCT 5,Attorney General,"Laxalt, Adam Paul",41
+PRECINCT 5,Attorney General,"Miller, Ross",14
+PRECINCT 5,Attorney General,None Of These Candidates,4
+PRECINCT 5,Big Meadow Conservation District,"CLINGER, CARL F.",32
+PRECINCT 5,Big Meadow Conservation District,"DEPAOLI, ROBERT R.",33
+PRECINCT 5,Big Meadow Conservation District,"SHANK, JOHN W.",48
+PRECINCT 5,County Clerk-Treasurer,"DONALDSON, LACEY",67
+PRECINCT 5,County Commissioner Seat C,"SHANK, CAROL A.",79
+PRECINCT 5,County Recorder-Auditor,"CHILDS, RENE M.",77
+PRECINCT 5,County Sheriff,"ALLEN, JERRY",32
+PRECINCT 5,County Sheriff,"CARMICHAEL, NATHAN",54
+PRECINCT 5,DISTRICT ATTORNEY,"SHIELDS, BRYCE",76
+PRECINCT 5,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",30
+PRECINCT 5,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",55
+PRECINCT 5,Governor,"Goodman, Robert ""Bob""",9
+PRECINCT 5,Governor,None Of These Candidates,2
+PRECINCT 5,Governor,"Sandoval, Brian",63
+PRECINCT 5,Governor,"VanDerBeek, David Lory",12
+PRECINCT 5,Hospital District PERSHING,"HULTGREN, J. CAROLYN",28
+PRECINCT 5,Hospital District PERSHING,"SAFFORD, CHARLES M.",41
+PRECINCT 5,Hospital District PERSHING,"TUELLER, DANA",36
+PRECINCT 5,Lieutenant Governor,"Flores, Lucy",14
+PRECINCT 5,Lieutenant Governor,"Hutchison, Mark",47
+PRECINCT 5,Lieutenant Governor,"Little, Mike",16
+PRECINCT 5,Lieutenant Governor,None Of These Candidates,9
+PRECINCT 5,PUBLIC ADMINISTRATOR,"KEARNS, JEFFREY",75
+PRECINCT 5,School Dist. Board of Trustees Seat A,"EVANS, JAMES",46
+PRECINCT 5,School Dist. Board of Trustees Seat A,"LUSBY-ANGVICK, HEIDI",29
+PRECINCT 5,Secretary Of State,"Cegavske, Barbara K",46
+PRECINCT 5,Secretary Of State,"Marshall, Kate",29
+PRECINCT 5,Secretary Of State,None Of These Candidates,11
+PRECINCT 5,"State Assembly, District 32","Gabriel, Louis ""Wedge""",12
+PRECINCT 5,"State Assembly, District 32","Hansen, Ira",54
+PRECINCT 5,"State Assembly, District 32","Sampaga, John Sharp",17
+PRECINCT 5,State Controller,"Jones, Tom",26
+PRECINCT 5,State Controller,"Knecht, Ron",40
+PRECINCT 5,State Controller,"Martin, Andrew",12
+PRECINCT 5,State Controller,None Of These Candidates,4
+PRECINCT 5,"State Senate, District 14","Gustavson, Don",59
+PRECINCT 5,"State Senate, District 14","Hunt, Joe",24
+PRECINCT 5,State Treasurer,"Cave, Kress K",20
+PRECINCT 5,State Treasurer,None Of These Candidates,7
+PRECINCT 5,State Treasurer,"Schwartz, Dan",45
+PRECINCT 5,State Treasurer,"Wallin, Kim",14
+PRECINCT 5,"Supreme Court Justice, Seat B",None Of These Candidates,17
+PRECINCT 5,"Supreme Court Justice, Seat B","Pickering, Kristina",63
+PRECINCT 5,"Supreme Court Justice, Seat D","Gibbons, Mark",66
+PRECINCT 5,"Supreme Court Justice, Seat D",None Of These Candidates,14
+PRECINCT 5,"U.S. Representative in Congress, District 2","Amodei, Mark E.",46
+PRECINCT 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",24
+PRECINCT 5,"U.S. Representative in Congress, District 2","Spees, Kristen",13
+PRECINCT 6,Assessor,"CERINI-JONES, LAUREEN",203
+PRECINCT 6,Attorney General,"Hansen, Jonathan J",27
+PRECINCT 6,Attorney General,"Laxalt, Adam Paul",153
+PRECINCT 6,Attorney General,"Miller, Ross",38
+PRECINCT 6,Attorney General,None Of These Candidates,6
+PRECINCT 6,Big Meadow Conservation District,"CLINGER, CARL F.",135
+PRECINCT 6,Big Meadow Conservation District,"DEPAOLI, ROBERT R.",141
+PRECINCT 6,Big Meadow Conservation District,"SHANK, JOHN W.",137
+PRECINCT 6,County Clerk-Treasurer,"DONALDSON, LACEY",182
+PRECINCT 6,County Commissioner Seat C,"SHANK, CAROL A.",199
+PRECINCT 6,County Recorder-Auditor,"CHILDS, RENE M.",204
+PRECINCT 6,County Sheriff,"ALLEN, JERRY",89
+PRECINCT 6,County Sheriff,"CARMICHAEL, NATHAN",130
+PRECINCT 6,DISTRICT ATTORNEY,"SHIELDS, BRYCE",195
+PRECINCT 6,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",78
+PRECINCT 6,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",144
+PRECINCT 6,Governor,"Goodman, Robert ""Bob""",15
+PRECINCT 6,Governor,None Of These Candidates,4
+PRECINCT 6,Governor,"Sandoval, Brian",191
+PRECINCT 6,Governor,"VanDerBeek, David Lory",13
+PRECINCT 6,Hospital District PERSHING,"HULTGREN, J. CAROLYN",138
+PRECINCT 6,Hospital District PERSHING,"SAFFORD, CHARLES M.",140
+PRECINCT 6,Hospital District PERSHING,"TUELLER, DANA",127
+PRECINCT 6,Lieutenant Governor,"Flores, Lucy",22
+PRECINCT 6,Lieutenant Governor,"Hutchison, Mark",171
+PRECINCT 6,Lieutenant Governor,"Little, Mike",22
+PRECINCT 6,Lieutenant Governor,None Of These Candidates,8
+PRECINCT 6,PUBLIC ADMINISTRATOR,"KEARNS, JEFFREY",202
+PRECINCT 6,School Dist. Board of Trustees Seat A,"EVANS, JAMES",115
+PRECINCT 6,School Dist. Board of Trustees Seat A,"LUSBY-ANGVICK, HEIDI",81
+PRECINCT 6,Secretary Of State,"Cegavske, Barbara K",154
+PRECINCT 6,Secretary Of State,"Marshall, Kate",54
+PRECINCT 6,Secretary Of State,None Of These Candidates,15
+PRECINCT 6,"State Assembly, District 32","Gabriel, Louis ""Wedge""",12
+PRECINCT 6,"State Assembly, District 32","Hansen, Ira",180
+PRECINCT 6,"State Assembly, District 32","Sampaga, John Sharp",26
+PRECINCT 6,State Controller,"Jones, Tom",32
+PRECINCT 6,State Controller,"Knecht, Ron",152
+PRECINCT 6,State Controller,"Martin, Andrew",29
+PRECINCT 6,State Controller,None Of These Candidates,9
+PRECINCT 6,"State Senate, District 14","Gustavson, Don",184
+PRECINCT 6,"State Senate, District 14","Hunt, Joe",36
+PRECINCT 6,State Treasurer,"Cave, Kress K",20
+PRECINCT 6,State Treasurer,None Of These Candidates,7
+PRECINCT 6,State Treasurer,"Schwartz, Dan",155
+PRECINCT 6,State Treasurer,"Wallin, Kim",42
+PRECINCT 6,"Supreme Court Justice, Seat B",None Of These Candidates,33
+PRECINCT 6,"Supreme Court Justice, Seat B","Pickering, Kristina",173
+PRECINCT 6,"Supreme Court Justice, Seat D","Gibbons, Mark",179
+PRECINCT 6,"Supreme Court Justice, Seat D",None Of These Candidates,29
+PRECINCT 6,"U.S. Representative in Congress, District 2","Amodei, Mark E.",172
+PRECINCT 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",26
+PRECINCT 6,"U.S. Representative in Congress, District 2","Spees, Kristen",25
+PRECINCT 7,Assessor,"CERINI-JONES, LAUREEN",153
+PRECINCT 7,Attorney General,"Hansen, Jonathan J",25
+PRECINCT 7,Attorney General,"Laxalt, Adam Paul",103
+PRECINCT 7,Attorney General,"Miller, Ross",51
+PRECINCT 7,Attorney General,None Of These Candidates,3
+PRECINCT 7,Big Meadow Conservation District,"CLINGER, CARL F.",84
+PRECINCT 7,Big Meadow Conservation District,"DEPAOLI, ROBERT R.",102
+PRECINCT 7,Big Meadow Conservation District,"SHANK, JOHN W.",96
+PRECINCT 7,County Clerk-Treasurer,"DONALDSON, LACEY",123
+PRECINCT 7,County Commissioner Seat C,"SHANK, CAROL A.",153
+PRECINCT 7,County Recorder-Auditor,"CHILDS, RENE M.",155
+PRECINCT 7,County Sheriff,"ALLEN, JERRY",78
+PRECINCT 7,County Sheriff,"CARMICHAEL, NATHAN",102
+PRECINCT 7,DISTRICT ATTORNEY,"SHIELDS, BRYCE",147
+PRECINCT 7,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",70
+PRECINCT 7,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",110
+PRECINCT 7,Governor,"Goodman, Robert ""Bob""",24
+PRECINCT 7,Governor,None Of These Candidates,1
+PRECINCT 7,Governor,"Sandoval, Brian",139
+PRECINCT 7,Governor,"VanDerBeek, David Lory",18
+PRECINCT 7,Hospital District PERSHING,"HULTGREN, J. CAROLYN",86
+PRECINCT 7,Hospital District PERSHING,"SAFFORD, CHARLES M.",98
+PRECINCT 7,Hospital District PERSHING,"TUELLER, DANA",88
+PRECINCT 7,Lieutenant Governor,"Flores, Lucy",25
+PRECINCT 7,Lieutenant Governor,"Hutchison, Mark",126
+PRECINCT 7,Lieutenant Governor,"Little, Mike",24
+PRECINCT 7,Lieutenant Governor,None Of These Candidates,7
+PRECINCT 7,PUBLIC ADMINISTRATOR,"KEARNS, JEFFREY",147
+PRECINCT 7,School Dist. Board of Trustees Seat A,"EVANS, JAMES",93
+PRECINCT 7,School Dist. Board of Trustees Seat A,"LUSBY-ANGVICK, HEIDI",60
+PRECINCT 7,Secretary Of State,"Cegavske, Barbara K",114
+PRECINCT 7,Secretary Of State,"Marshall, Kate",59
+PRECINCT 7,Secretary Of State,None Of These Candidates,8
+PRECINCT 7,"State Assembly, District 32","Gabriel, Louis ""Wedge""",12
+PRECINCT 7,"State Assembly, District 32","Hansen, Ira",130
+PRECINCT 7,"State Assembly, District 32","Sampaga, John Sharp",35
+PRECINCT 7,State Controller,"Jones, Tom",33
+PRECINCT 7,State Controller,"Knecht, Ron",111
+PRECINCT 7,State Controller,"Martin, Andrew",31
+PRECINCT 7,State Controller,None Of These Candidates,5
+PRECINCT 7,"State Senate, District 14","Gustavson, Don",136
+PRECINCT 7,"State Senate, District 14","Hunt, Joe",39
+PRECINCT 7,State Treasurer,"Cave, Kress K",23
+PRECINCT 7,State Treasurer,None Of These Candidates,7
+PRECINCT 7,State Treasurer,"Schwartz, Dan",111
+PRECINCT 7,State Treasurer,"Wallin, Kim",40
+PRECINCT 7,"Supreme Court Justice, Seat B",None Of These Candidates,28
+PRECINCT 7,"Supreme Court Justice, Seat B","Pickering, Kristina",122
+PRECINCT 7,"Supreme Court Justice, Seat D","Gibbons, Mark",123
+PRECINCT 7,"Supreme Court Justice, Seat D",None Of These Candidates,29
+PRECINCT 7,"U.S. Representative in Congress, District 2","Amodei, Mark E.",130
+PRECINCT 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",21
+PRECINCT 7,"U.S. Representative in Congress, District 2","Spees, Kristen",30
+PRECINCT 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
+PRECINCT 99,"U.S. Representative in Congress, District 2","Spees, Kristen",0

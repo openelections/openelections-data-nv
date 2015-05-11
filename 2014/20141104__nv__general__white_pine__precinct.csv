@@ -1,0 +1,535 @@
+precinct,office,candidate,votes
+Precinct 1,Attorney General,"Hansen, Jonathan J",26
+Precinct 1,Attorney General,"Laxalt, Adam Paul",220
+Precinct 1,Attorney General,"Miller, Ross",108
+Precinct 1,Attorney General,None Of These Candidates,12
+Precinct 1,COUNTY ASSESSOR,"HILTON, BURTON",203
+Precinct 1,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",154
+Precinct 1,COUNTY CLERK,"BALDWIN, NICHOLE",231
+Precinct 1,COUNTY CLERK,"RIVERO, DEBRA ANN",136
+Precinct 1,County Commissioner Seat 1,"DAILEY, CHRIS",83
+Precinct 1,County Commissioner Seat 1,"LAMPROS, JOHN S.",144
+Precinct 1,County Commissioner Seat 1,"MCKENZIE, CAROL O.",133
+Precinct 1,County Commissioner Seat 5,"LEMICH, MIKE",133
+Precinct 1,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",223
+Precinct 1,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",331
+Precinct 1,COUNTY TREASURER,"BAKARIC, CATHERINE M.",334
+Precinct 1,DISTRICT ATTORNEY,"BROWN, KELLY",106
+Precinct 1,DISTRICT ATTORNEY,"WHEABLE, MIKE",244
+Precinct 1,Governor,"Goodman, Robert ""Bob""",62
+Precinct 1,Governor,None Of These Candidates,12
+Precinct 1,Governor,"Sandoval, Brian",275
+Precinct 1,Governor,"VanDerBeek, David Lory",18
+Precinct 1,Lieutenant Governor,"Flores, Lucy",82
+Precinct 1,Lieutenant Governor,"Hutchison, Mark",243
+Precinct 1,Lieutenant Governor,"Little, Mike",22
+Precinct 1,Lieutenant Governor,None Of These Candidates,18
+Precinct 1,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",230
+Precinct 1,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",80
+Precinct 1,Secretary Of State,"Cegavske, Barbara K",220
+Precinct 1,Secretary Of State,"Marshall, Kate",118
+Precinct 1,Secretary Of State,None Of These Candidates,27
+Precinct 1,Sheriff,"ROBISON, PENNY JO",184
+Precinct 1,Sheriff,"WATTS, DAN",179
+Precinct 1,"State Assembly, District 33","Ellison, John",327
+Precinct 1,State Controller,"Jones, Tom",28
+Precinct 1,State Controller,"Knecht, Ron",215
+Precinct 1,State Controller,"Martin, Andrew",91
+Precinct 1,State Controller,None Of These Candidates,27
+Precinct 1,State Treasurer,"Cave, Kress K",30
+Precinct 1,State Treasurer,None Of These Candidates,25
+Precinct 1,State Treasurer,"Schwartz, Dan",196
+Precinct 1,State Treasurer,"Wallin, Kim",111
+Precinct 1,"Supreme Court Justice, Seat B",None Of These Candidates,101
+Precinct 1,"Supreme Court Justice, Seat B","Pickering, Kristina",242
+Precinct 1,"Supreme Court Justice, Seat D","Gibbons, Mark",280
+Precinct 1,"Supreme Court Justice, Seat D",None Of These Candidates,56
+Precinct 1,"U.S. Representative in Congress, District 4","Best, Russell",26
+Precinct 1,"U.S. Representative in Congress, District 4","Brown, Steve",12
+Precinct 1,"U.S. Representative in Congress, District 4","Hardy, Cresent",212
+Precinct 1,"U.S. Representative in Congress, District 4","Horsford, Steven A.",113
+Precinct 1,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",277
+Precinct 1,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",76
+Precinct 1,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",156
+Precinct 1,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",187
+Precinct 10,Attorney General,"Hansen, Jonathan J",9
+Precinct 10,Attorney General,"Laxalt, Adam Paul",106
+Precinct 10,Attorney General,"Miller, Ross",26
+Precinct 10,Attorney General,None Of These Candidates,3
+Precinct 10,COUNTY ASSESSOR,"HILTON, BURTON",61
+Precinct 10,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",75
+Precinct 10,COUNTY CLERK,"BALDWIN, NICHOLE",106
+Precinct 10,COUNTY CLERK,"RIVERO, DEBRA ANN",36
+Precinct 10,County Commissioner Seat 1,"DAILEY, CHRIS",29
+Precinct 10,County Commissioner Seat 1,"LAMPROS, JOHN S.",32
+Precinct 10,County Commissioner Seat 1,"MCKENZIE, CAROL O.",81
+Precinct 10,County Commissioner Seat 5,"LEMICH, MIKE",40
+Precinct 10,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",90
+Precinct 10,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",104
+Precinct 10,COUNTY TREASURER,"BAKARIC, CATHERINE M.",125
+Precinct 10,DISTRICT ATTORNEY,"BROWN, KELLY",36
+Precinct 10,DISTRICT ATTORNEY,"WHEABLE, MIKE",99
+Precinct 10,Governor,"Goodman, Robert ""Bob""",22
+Precinct 10,Governor,None Of These Candidates,12
+Precinct 10,Governor,"Sandoval, Brian",102
+Precinct 10,Governor,"VanDerBeek, David Lory",8
+Precinct 10,Lieutenant Governor,"Flores, Lucy",24
+Precinct 10,Lieutenant Governor,"Hutchison, Mark",102
+Precinct 10,Lieutenant Governor,"Little, Mike",13
+Precinct 10,Lieutenant Governor,None Of These Candidates,7
+Precinct 10,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",68
+Precinct 10,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",45
+Precinct 10,Secretary Of State,"Cegavske, Barbara K",101
+Precinct 10,Secretary Of State,"Marshall, Kate",31
+Precinct 10,Secretary Of State,None Of These Candidates,11
+Precinct 10,Sheriff,"ROBISON, PENNY JO",71
+Precinct 10,Sheriff,"WATTS, DAN",72
+Precinct 10,"State Assembly, District 33","Ellison, John",129
+Precinct 10,State Controller,"Jones, Tom",14
+Precinct 10,State Controller,"Knecht, Ron",92
+Precinct 10,State Controller,"Martin, Andrew",25
+Precinct 10,State Controller,None Of These Candidates,11
+Precinct 10,State Treasurer,"Cave, Kress K",9
+Precinct 10,State Treasurer,None Of These Candidates,5
+Precinct 10,State Treasurer,"Schwartz, Dan",99
+Precinct 10,State Treasurer,"Wallin, Kim",32
+Precinct 10,"Supreme Court Justice, Seat B",None Of These Candidates,44
+Precinct 10,"Supreme Court Justice, Seat B","Pickering, Kristina",89
+Precinct 10,"Supreme Court Justice, Seat D","Gibbons, Mark",90
+Precinct 10,"Supreme Court Justice, Seat D",None Of These Candidates,36
+Precinct 10,"U.S. Representative in Congress, District 4","Best, Russell",6
+Precinct 10,"U.S. Representative in Congress, District 4","Brown, Steve",4
+Precinct 10,"U.S. Representative in Congress, District 4","Hardy, Cresent",106
+Precinct 10,"U.S. Representative in Congress, District 4","Horsford, Steven A.",29
+Precinct 10,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",86
+Precinct 10,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",43
+Precinct 10,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",61
+Precinct 10,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",55
+Precinct 2,Attorney General,"Hansen, Jonathan J",19
+Precinct 2,Attorney General,"Laxalt, Adam Paul",136
+Precinct 2,Attorney General,"Miller, Ross",78
+Precinct 2,Attorney General,None Of These Candidates,11
+Precinct 2,COUNTY ASSESSOR,"HILTON, BURTON",124
+Precinct 2,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",108
+Precinct 2,COUNTY CLERK,"BALDWIN, NICHOLE",156
+Precinct 2,COUNTY CLERK,"RIVERO, DEBRA ANN",88
+Precinct 2,County Commissioner Seat 1,"DAILEY, CHRIS",59
+Precinct 2,County Commissioner Seat 1,"LAMPROS, JOHN S.",90
+Precinct 2,County Commissioner Seat 1,"MCKENZIE, CAROL O.",91
+Precinct 2,County Commissioner Seat 5,"LEMICH, MIKE",91
+Precinct 2,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",144
+Precinct 2,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",218
+Precinct 2,COUNTY TREASURER,"BAKARIC, CATHERINE M.",205
+Precinct 2,DISTRICT ATTORNEY,"BROWN, KELLY",67
+Precinct 2,DISTRICT ATTORNEY,"WHEABLE, MIKE",170
+Precinct 2,Governor,"Goodman, Robert ""Bob""",55
+Precinct 2,Governor,None Of These Candidates,9
+Precinct 2,Governor,"Sandoval, Brian",163
+Precinct 2,Governor,"VanDerBeek, David Lory",19
+Precinct 2,Lieutenant Governor,"Flores, Lucy",73
+Precinct 2,Lieutenant Governor,"Hutchison, Mark",135
+Precinct 2,Lieutenant Governor,"Little, Mike",16
+Precinct 2,Lieutenant Governor,None Of These Candidates,19
+Precinct 2,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",141
+Precinct 2,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",65
+Precinct 2,Secretary Of State,"Cegavske, Barbara K",142
+Precinct 2,Secretary Of State,"Marshall, Kate",88
+Precinct 2,Secretary Of State,None Of These Candidates,13
+Precinct 2,Sheriff,"ROBISON, PENNY JO",144
+Precinct 2,Sheriff,"WATTS, DAN",102
+Precinct 2,"State Assembly, District 33","Ellison, John",198
+Precinct 2,State Controller,"Jones, Tom",23
+Precinct 2,State Controller,"Knecht, Ron",128
+Precinct 2,State Controller,"Martin, Andrew",70
+Precinct 2,State Controller,None Of These Candidates,19
+Precinct 2,State Treasurer,"Cave, Kress K",17
+Precinct 2,State Treasurer,None Of These Candidates,19
+Precinct 2,State Treasurer,"Schwartz, Dan",123
+Precinct 2,State Treasurer,"Wallin, Kim",81
+Precinct 2,"Supreme Court Justice, Seat B",None Of These Candidates,60
+Precinct 2,"Supreme Court Justice, Seat B","Pickering, Kristina",161
+Precinct 2,"Supreme Court Justice, Seat D","Gibbons, Mark",167
+Precinct 2,"Supreme Court Justice, Seat D",None Of These Candidates,47
+Precinct 2,"U.S. Representative in Congress, District 4","Best, Russell",22
+Precinct 2,"U.S. Representative in Congress, District 4","Brown, Steve",14
+Precinct 2,"U.S. Representative in Congress, District 4","Hardy, Cresent",118
+Precinct 2,"U.S. Representative in Congress, District 4","Horsford, Steven A.",87
+Precinct 2,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",165
+Precinct 2,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",68
+Precinct 2,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",114
+Precinct 2,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",111
+Precinct 3,Attorney General,"Hansen, Jonathan J",25
+Precinct 3,Attorney General,"Laxalt, Adam Paul",172
+Precinct 3,Attorney General,"Miller, Ross",108
+Precinct 3,Attorney General,None Of These Candidates,12
+Precinct 3,COUNTY ASSESSOR,"HILTON, BURTON",164
+Precinct 3,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",147
+Precinct 3,COUNTY CLERK,"BALDWIN, NICHOLE",190
+Precinct 3,COUNTY CLERK,"RIVERO, DEBRA ANN",123
+Precinct 3,County Commissioner Seat 1,"DAILEY, CHRIS",66
+Precinct 3,County Commissioner Seat 1,"LAMPROS, JOHN S.",125
+Precinct 3,County Commissioner Seat 1,"MCKENZIE, CAROL O.",119
+Precinct 3,County Commissioner Seat 5,"LEMICH, MIKE",118
+Precinct 3,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",184
+Precinct 3,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",285
+Precinct 3,COUNTY TREASURER,"BAKARIC, CATHERINE M.",293
+Precinct 3,DISTRICT ATTORNEY,"BROWN, KELLY",93
+Precinct 3,DISTRICT ATTORNEY,"WHEABLE, MIKE",216
+Precinct 3,Governor,"Goodman, Robert ""Bob""",78
+Precinct 3,Governor,None Of These Candidates,15
+Precinct 3,Governor,"Sandoval, Brian",208
+Precinct 3,Governor,"VanDerBeek, David Lory",14
+Precinct 3,Lieutenant Governor,"Flores, Lucy",91
+Precinct 3,Lieutenant Governor,"Hutchison, Mark",190
+Precinct 3,Lieutenant Governor,"Little, Mike",17
+Precinct 3,Lieutenant Governor,None Of These Candidates,20
+Precinct 3,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",208
+Precinct 3,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",62
+Precinct 3,Secretary Of State,"Cegavske, Barbara K",176
+Precinct 3,Secretary Of State,"Marshall, Kate",121
+Precinct 3,Secretary Of State,None Of These Candidates,21
+Precinct 3,Sheriff,"ROBISON, PENNY JO",168
+Precinct 3,Sheriff,"WATTS, DAN",148
+Precinct 3,"State Assembly, District 33","Ellison, John",277
+Precinct 3,State Controller,"Jones, Tom",35
+Precinct 3,State Controller,"Knecht, Ron",160
+Precinct 3,State Controller,"Martin, Andrew",95
+Precinct 3,State Controller,None Of These Candidates,27
+Precinct 3,State Treasurer,"Cave, Kress K",14
+Precinct 3,State Treasurer,None Of These Candidates,23
+Precinct 3,State Treasurer,"Schwartz, Dan",162
+Precinct 3,State Treasurer,"Wallin, Kim",117
+Precinct 3,"Supreme Court Justice, Seat B",None Of These Candidates,86
+Precinct 3,"Supreme Court Justice, Seat B","Pickering, Kristina",212
+Precinct 3,"Supreme Court Justice, Seat D","Gibbons, Mark",237
+Precinct 3,"Supreme Court Justice, Seat D",None Of These Candidates,61
+Precinct 3,"U.S. Representative in Congress, District 4","Best, Russell",17
+Precinct 3,"U.S. Representative in Congress, District 4","Brown, Steve",18
+Precinct 3,"U.S. Representative in Congress, District 4","Hardy, Cresent",157
+Precinct 3,"U.S. Representative in Congress, District 4","Horsford, Steven A.",121
+Precinct 3,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",217
+Precinct 3,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",84
+Precinct 3,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",131
+Precinct 3,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",166
+Precinct 4,Attorney General,"Hansen, Jonathan J",21
+Precinct 4,Attorney General,"Laxalt, Adam Paul",216
+Precinct 4,Attorney General,"Miller, Ross",102
+Precinct 4,Attorney General,None Of These Candidates,16
+Precinct 4,COUNTY ASSESSOR,"HILTON, BURTON",205
+Precinct 4,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",143
+Precinct 4,COUNTY CLERK,"BALDWIN, NICHOLE",212
+Precinct 4,COUNTY CLERK,"RIVERO, DEBRA ANN",143
+Precinct 4,County Commissioner Seat 1,"DAILEY, CHRIS",64
+Precinct 4,County Commissioner Seat 1,"LAMPROS, JOHN S.",151
+Precinct 4,County Commissioner Seat 1,"MCKENZIE, CAROL O.",132
+Precinct 4,County Commissioner Seat 5,"LEMICH, MIKE",150
+Precinct 4,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",201
+Precinct 4,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",333
+Precinct 4,COUNTY TREASURER,"BAKARIC, CATHERINE M.",330
+Precinct 4,DISTRICT ATTORNEY,"BROWN, KELLY",78
+Precinct 4,DISTRICT ATTORNEY,"WHEABLE, MIKE",268
+Precinct 4,Governor,"Goodman, Robert ""Bob""",64
+Precinct 4,Governor,None Of These Candidates,14
+Precinct 4,Governor,"Sandoval, Brian",263
+Precinct 4,Governor,"VanDerBeek, David Lory",16
+Precinct 4,Lieutenant Governor,"Flores, Lucy",81
+Precinct 4,Lieutenant Governor,"Hutchison, Mark",233
+Precinct 4,Lieutenant Governor,"Little, Mike",23
+Precinct 4,Lieutenant Governor,None Of These Candidates,17
+Precinct 4,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",228
+Precinct 4,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",80
+Precinct 4,Secretary Of State,"Cegavske, Barbara K",212
+Precinct 4,Secretary Of State,"Marshall, Kate",114
+Precinct 4,Secretary Of State,None Of These Candidates,24
+Precinct 4,Sheriff,"ROBISON, PENNY JO",151
+Precinct 4,Sheriff,"WATTS, DAN",206
+Precinct 4,"State Assembly, District 33","Ellison, John",312
+Precinct 4,State Controller,"Jones, Tom",28
+Precinct 4,State Controller,"Knecht, Ron",221
+Precinct 4,State Controller,"Martin, Andrew",76
+Precinct 4,State Controller,None Of These Candidates,28
+Precinct 4,State Treasurer,"Cave, Kress K",17
+Precinct 4,State Treasurer,None Of These Candidates,28
+Precinct 4,State Treasurer,"Schwartz, Dan",207
+Precinct 4,State Treasurer,"Wallin, Kim",98
+Precinct 4,"Supreme Court Justice, Seat B",None Of These Candidates,89
+Precinct 4,"Supreme Court Justice, Seat B","Pickering, Kristina",245
+Precinct 4,"Supreme Court Justice, Seat D","Gibbons, Mark",277
+Precinct 4,"Supreme Court Justice, Seat D",None Of These Candidates,52
+Precinct 4,"U.S. Representative in Congress, District 4","Best, Russell",14
+Precinct 4,"U.S. Representative in Congress, District 4","Brown, Steve",9
+Precinct 4,"U.S. Representative in Congress, District 4","Hardy, Cresent",191
+Precinct 4,"U.S. Representative in Congress, District 4","Horsford, Steven A.",107
+Precinct 4,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",256
+Precinct 4,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",92
+Precinct 4,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",126
+Precinct 4,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",204
+Precinct 5,Attorney General,"Hansen, Jonathan J",51
+Precinct 5,Attorney General,"Laxalt, Adam Paul",437
+Precinct 5,Attorney General,"Miller, Ross",117
+Precinct 5,Attorney General,None Of These Candidates,18
+Precinct 5,COUNTY ASSESSOR,"HILTON, BURTON",295
+Precinct 5,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",319
+Precinct 5,COUNTY CLERK,"BALDWIN, NICHOLE",391
+Precinct 5,COUNTY CLERK,"RIVERO, DEBRA ANN",228
+Precinct 5,County Commissioner Seat 1,"DAILEY, CHRIS",111
+Precinct 5,County Commissioner Seat 1,"LAMPROS, JOHN S.",233
+Precinct 5,County Commissioner Seat 1,"MCKENZIE, CAROL O.",276
+Precinct 5,County Commissioner Seat 5,"LEMICH, MIKE",244
+Precinct 5,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",356
+Precinct 5,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",546
+Precinct 5,COUNTY TREASURER,"BAKARIC, CATHERINE M.",585
+Precinct 5,DISTRICT ATTORNEY,"BROWN, KELLY",162
+Precinct 5,DISTRICT ATTORNEY,"WHEABLE, MIKE",448
+Precinct 5,Governor,"Goodman, Robert ""Bob""",75
+Precinct 5,Governor,None Of These Candidates,31
+Precinct 5,Governor,"Sandoval, Brian",475
+Precinct 5,Governor,"VanDerBeek, David Lory",43
+Precinct 5,Lieutenant Governor,"Flores, Lucy",99
+Precinct 5,Lieutenant Governor,"Hutchison, Mark",432
+Precinct 5,Lieutenant Governor,"Little, Mike",52
+Precinct 5,Lieutenant Governor,None Of These Candidates,38
+Precinct 5,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",379
+Precinct 5,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",167
+Precinct 5,Secretary Of State,"Cegavske, Barbara K",418
+Precinct 5,Secretary Of State,"Marshall, Kate",160
+Precinct 5,Secretary Of State,None Of These Candidates,45
+Precinct 5,Sheriff,"ROBISON, PENNY JO",284
+Precinct 5,Sheriff,"WATTS, DAN",331
+Precinct 5,"State Assembly, District 33","Ellison, John",558
+Precinct 5,State Controller,"Jones, Tom",58
+Precinct 5,State Controller,"Knecht, Ron",396
+Precinct 5,State Controller,"Martin, Andrew",121
+Precinct 5,State Controller,None Of These Candidates,43
+Precinct 5,State Treasurer,"Cave, Kress K",39
+Precinct 5,State Treasurer,None Of These Candidates,44
+Precinct 5,State Treasurer,"Schwartz, Dan",392
+Precinct 5,State Treasurer,"Wallin, Kim",141
+Precinct 5,"Supreme Court Justice, Seat B",None Of These Candidates,172
+Precinct 5,"Supreme Court Justice, Seat B","Pickering, Kristina",414
+Precinct 5,"Supreme Court Justice, Seat D","Gibbons, Mark",475
+Precinct 5,"Supreme Court Justice, Seat D",None Of These Candidates,107
+Precinct 5,"U.S. Representative in Congress, District 4","Best, Russell",38
+Precinct 5,"U.S. Representative in Congress, District 4","Brown, Steve",26
+Precinct 5,"U.S. Representative in Congress, District 4","Hardy, Cresent",401
+Precinct 5,"U.S. Representative in Congress, District 4","Horsford, Steven A.",150
+Precinct 5,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",397
+Precinct 5,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",201
+Precinct 5,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",241
+Precinct 5,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",335
+Precinct 6,Attorney General,"Hansen, Jonathan J",35
+Precinct 6,Attorney General,"Laxalt, Adam Paul",181
+Precinct 6,Attorney General,"Miller, Ross",108
+Precinct 6,Attorney General,None Of These Candidates,19
+Precinct 6,COUNTY ASSESSOR,"HILTON, BURTON",177
+Precinct 6,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",157
+Precinct 6,COUNTY CLERK,"BALDWIN, NICHOLE",206
+Precinct 6,COUNTY CLERK,"RIVERO, DEBRA ANN",139
+Precinct 6,County Commissioner Seat 1,"DAILEY, CHRIS",108
+Precinct 6,County Commissioner Seat 1,"LAMPROS, JOHN S.",85
+Precinct 6,County Commissioner Seat 1,"MCKENZIE, CAROL O.",145
+Precinct 6,County Commissioner Seat 5,"LEMICH, MIKE",130
+Precinct 6,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",191
+Precinct 6,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",303
+Precinct 6,COUNTY TREASURER,"BAKARIC, CATHERINE M.",316
+Precinct 6,DISTRICT ATTORNEY,"BROWN, KELLY",106
+Precinct 6,DISTRICT ATTORNEY,"WHEABLE, MIKE",218
+Precinct 6,Governor,"Goodman, Robert ""Bob""",81
+Precinct 6,Governor,None Of These Candidates,23
+Precinct 6,Governor,"Sandoval, Brian",216
+Precinct 6,Governor,"VanDerBeek, David Lory",24
+Precinct 6,Lieutenant Governor,"Flores, Lucy",92
+Precinct 6,Lieutenant Governor,"Hutchison, Mark",199
+Precinct 6,Lieutenant Governor,"Little, Mike",34
+Precinct 6,Lieutenant Governor,None Of These Candidates,20
+Precinct 6,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",218
+Precinct 6,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",106
+Precinct 6,Secretary Of State,"Cegavske, Barbara K",192
+Precinct 6,Secretary Of State,"Marshall, Kate",127
+Precinct 6,Secretary Of State,None Of These Candidates,25
+Precinct 6,Sheriff,"ROBISON, PENNY JO",185
+Precinct 6,Sheriff,"WATTS, DAN",155
+Precinct 6,"State Assembly, District 33","Ellison, John",290
+Precinct 6,State Controller,"Jones, Tom",39
+Precinct 6,State Controller,"Knecht, Ron",178
+Precinct 6,State Controller,"Martin, Andrew",92
+Precinct 6,State Controller,None Of These Candidates,32
+Precinct 6,State Treasurer,"Cave, Kress K",29
+Precinct 6,State Treasurer,None Of These Candidates,25
+Precinct 6,State Treasurer,"Schwartz, Dan",189
+Precinct 6,State Treasurer,"Wallin, Kim",97
+Precinct 6,"Supreme Court Justice, Seat B",None Of These Candidates,84
+Precinct 6,"Supreme Court Justice, Seat B","Pickering, Kristina",235
+Precinct 6,"Supreme Court Justice, Seat D","Gibbons, Mark",254
+Precinct 6,"Supreme Court Justice, Seat D",None Of These Candidates,59
+Precinct 6,"U.S. Representative in Congress, District 4","Best, Russell",26
+Precinct 6,"U.S. Representative in Congress, District 4","Brown, Steve",19
+Precinct 6,"U.S. Representative in Congress, District 4","Hardy, Cresent",185
+Precinct 6,"U.S. Representative in Congress, District 4","Horsford, Steven A.",107
+Precinct 6,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",204
+Precinct 6,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",115
+Precinct 6,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",145
+Precinct 6,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",165
+Precinct 7,Attorney General,"Hansen, Jonathan J",17
+Precinct 7,Attorney General,"Laxalt, Adam Paul",60
+Precinct 7,Attorney General,"Miller, Ross",19
+Precinct 7,Attorney General,None Of These Candidates,8
+Precinct 7,COUNTY ASSESSOR,"HILTON, BURTON",51
+Precinct 7,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",54
+Precinct 7,COUNTY CLERK,"BALDWIN, NICHOLE",71
+Precinct 7,COUNTY CLERK,"RIVERO, DEBRA ANN",31
+Precinct 7,County Commissioner Seat 1,"DAILEY, CHRIS",21
+Precinct 7,County Commissioner Seat 1,"LAMPROS, JOHN S.",36
+Precinct 7,County Commissioner Seat 1,"MCKENZIE, CAROL O.",48
+Precinct 7,County Commissioner Seat 5,"LEMICH, MIKE",50
+Precinct 7,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",49
+Precinct 7,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",87
+Precinct 7,COUNTY TREASURER,"BAKARIC, CATHERINE M.",87
+Precinct 7,DISTRICT ATTORNEY,"BROWN, KELLY",37
+Precinct 7,DISTRICT ATTORNEY,"WHEABLE, MIKE",64
+Precinct 7,Governor,"Goodman, Robert ""Bob""",19
+Precinct 7,Governor,None Of These Candidates,4
+Precinct 7,Governor,"Sandoval, Brian",72
+Precinct 7,Governor,"VanDerBeek, David Lory",14
+Precinct 7,Lieutenant Governor,"Flores, Lucy",18
+Precinct 7,Lieutenant Governor,"Hutchison, Mark",69
+Precinct 7,Lieutenant Governor,"Little, Mike",19
+Precinct 7,Lieutenant Governor,None Of These Candidates,3
+Precinct 7,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",61
+Precinct 7,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",39
+Precinct 7,Secretary Of State,"Cegavske, Barbara K",66
+Precinct 7,Secretary Of State,"Marshall, Kate",31
+Precinct 7,Secretary Of State,None Of These Candidates,11
+Precinct 7,Sheriff,"ROBISON, PENNY JO",60
+Precinct 7,Sheriff,"WATTS, DAN",45
+Precinct 7,"State Assembly, District 33","Ellison, John",89
+Precinct 7,State Controller,"Jones, Tom",20
+Precinct 7,State Controller,"Knecht, Ron",57
+Precinct 7,State Controller,"Martin, Andrew",22
+Precinct 7,State Controller,None Of These Candidates,7
+Precinct 7,State Treasurer,"Cave, Kress K",15
+Precinct 7,State Treasurer,None Of These Candidates,5
+Precinct 7,State Treasurer,"Schwartz, Dan",63
+Precinct 7,State Treasurer,"Wallin, Kim",21
+Precinct 7,"Supreme Court Justice, Seat B",None Of These Candidates,26
+Precinct 7,"Supreme Court Justice, Seat B","Pickering, Kristina",72
+Precinct 7,"Supreme Court Justice, Seat D","Gibbons, Mark",70
+Precinct 7,"Supreme Court Justice, Seat D",None Of These Candidates,27
+Precinct 7,"U.S. Representative in Congress, District 4","Best, Russell",14
+Precinct 7,"U.S. Representative in Congress, District 4","Brown, Steve",5
+Precinct 7,"U.S. Representative in Congress, District 4","Hardy, Cresent",65
+Precinct 7,"U.S. Representative in Congress, District 4","Horsford, Steven A.",22
+Precinct 7,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",66
+Precinct 7,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",39
+Precinct 7,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",54
+Precinct 7,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",48
+Precinct 8,Attorney General,"Hansen, Jonathan J",19
+Precinct 8,Attorney General,"Laxalt, Adam Paul",165
+Precinct 8,Attorney General,"Miller, Ross",13
+Precinct 8,Attorney General,None Of These Candidates,2
+Precinct 8,COUNTY ASSESSOR,"HILTON, BURTON",76
+Precinct 8,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",116
+Precinct 8,COUNTY CLERK,"BALDWIN, NICHOLE",137
+Precinct 8,COUNTY CLERK,"RIVERO, DEBRA ANN",57
+Precinct 8,County Commissioner Seat 1,"DAILEY, CHRIS",21
+Precinct 8,County Commissioner Seat 1,"LAMPROS, JOHN S.",23
+Precinct 8,County Commissioner Seat 1,"MCKENZIE, CAROL O.",154
+Precinct 8,County Commissioner Seat 5,"LEMICH, MIKE",31
+Precinct 8,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",152
+Precinct 8,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",163
+Precinct 8,COUNTY TREASURER,"BAKARIC, CATHERINE M.",173
+Precinct 8,DISTRICT ATTORNEY,"BROWN, KELLY",37
+Precinct 8,DISTRICT ATTORNEY,"WHEABLE, MIKE",153
+Precinct 8,Governor,"Goodman, Robert ""Bob""",17
+Precinct 8,Governor,None Of These Candidates,9
+Precinct 8,Governor,"Sandoval, Brian",159
+Precinct 8,Governor,"VanDerBeek, David Lory",15
+Precinct 8,Lieutenant Governor,"Flores, Lucy",20
+Precinct 8,Lieutenant Governor,"Hutchison, Mark",146
+Precinct 8,Lieutenant Governor,"Little, Mike",23
+Precinct 8,Lieutenant Governor,None Of These Candidates,9
+Precinct 8,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",106
+Precinct 8,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",43
+Precinct 8,Secretary Of State,"Cegavske, Barbara K",145
+Precinct 8,Secretary Of State,"Marshall, Kate",35
+Precinct 8,Secretary Of State,None Of These Candidates,13
+Precinct 8,Sheriff,"ROBISON, PENNY JO",99
+Precinct 8,Sheriff,"WATTS, DAN",101
+Precinct 8,"State Assembly, District 33","Ellison, John",176
+Precinct 8,State Controller,"Jones, Tom",23
+Precinct 8,State Controller,"Knecht, Ron",139
+Precinct 8,State Controller,"Martin, Andrew",22
+Precinct 8,State Controller,None Of These Candidates,14
+Precinct 8,State Treasurer,"Cave, Kress K",18
+Precinct 8,State Treasurer,None Of These Candidates,11
+Precinct 8,State Treasurer,"Schwartz, Dan",140
+Precinct 8,State Treasurer,"Wallin, Kim",27
+Precinct 8,"Supreme Court Justice, Seat B",None Of These Candidates,33
+Precinct 8,"Supreme Court Justice, Seat B","Pickering, Kristina",143
+Precinct 8,"Supreme Court Justice, Seat D","Gibbons, Mark",154
+Precinct 8,"Supreme Court Justice, Seat D",None Of These Candidates,19
+Precinct 8,"U.S. Representative in Congress, District 4","Best, Russell",15
+Precinct 8,"U.S. Representative in Congress, District 4","Brown, Steve",8
+Precinct 8,"U.S. Representative in Congress, District 4","Hardy, Cresent",148
+Precinct 8,"U.S. Representative in Congress, District 4","Horsford, Steven A.",27
+Precinct 8,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",103
+Precinct 8,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",65
+Precinct 8,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",84
+Precinct 8,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",77
+Precinct 9,Attorney General,"Hansen, Jonathan J",8
+Precinct 9,Attorney General,"Laxalt, Adam Paul",38
+Precinct 9,Attorney General,"Miller, Ross",33
+Precinct 9,Attorney General,None Of These Candidates,2
+Precinct 9,COUNTY ASSESSOR,"HILTON, BURTON",51
+Precinct 9,COUNTY ASSESSOR,"UNDERWOOD, DEBBIE",21
+Precinct 9,COUNTY CLERK,"BALDWIN, NICHOLE",43
+Precinct 9,COUNTY CLERK,"RIVERO, DEBRA ANN",35
+Precinct 9,County Commissioner Seat 1,"DAILEY, CHRIS",16
+Precinct 9,County Commissioner Seat 1,"LAMPROS, JOHN S.",11
+Precinct 9,County Commissioner Seat 1,"MCKENZIE, CAROL O.",47
+Precinct 9,County Commissioner Seat 5,"LEMICH, MIKE",13
+Precinct 9,County Commissioner Seat 5,"PEREA, GARY ALEXANDER",66
+Precinct 9,COUNTY RECORDER,"SINDELAR, MARTHA RIVERA",70
+Precinct 9,COUNTY TREASURER,"BAKARIC, CATHERINE M.",61
+Precinct 9,DISTRICT ATTORNEY,"BROWN, KELLY",20
+Precinct 9,DISTRICT ATTORNEY,"WHEABLE, MIKE",48
+Precinct 9,Governor,"Goodman, Robert ""Bob""",25
+Precinct 9,Governor,None Of These Candidates,6
+Precinct 9,Governor,"Sandoval, Brian",40
+Precinct 9,Governor,"VanDerBeek, David Lory",10
+Precinct 9,Lieutenant Governor,"Flores, Lucy",32
+Precinct 9,Lieutenant Governor,"Hutchison, Mark",39
+Precinct 9,Lieutenant Governor,"Little, Mike",7
+Precinct 9,Lieutenant Governor,None Of These Candidates,1
+Precinct 9,"MCGILL/RUTH Gen Imp Dist, Seat D","BLACKHAM, ELAINE",38
+Precinct 9,"MCGILL/RUTH Gen Imp Dist, Seat D","TEFFT, MARK",14
+Precinct 9,Secretary Of State,"Cegavske, Barbara K",35
+Precinct 9,Secretary Of State,"Marshall, Kate",39
+Precinct 9,Secretary Of State,None Of These Candidates,5
+Precinct 9,Sheriff,"ROBISON, PENNY JO",32
+Precinct 9,Sheriff,"WATTS, DAN",43
+Precinct 9,"State Assembly, District 33","Ellison, John",55
+Precinct 9,State Controller,"Jones, Tom",11
+Precinct 9,State Controller,"Knecht, Ron",32
+Precinct 9,State Controller,"Martin, Andrew",33
+Precinct 9,State Controller,None Of These Candidates,3
+Precinct 9,State Treasurer,"Cave, Kress K",5
+Precinct 9,State Treasurer,None Of These Candidates,3
+Precinct 9,State Treasurer,"Schwartz, Dan",34
+Precinct 9,State Treasurer,"Wallin, Kim",38
+Precinct 9,"Supreme Court Justice, Seat B",None Of These Candidates,9
+Precinct 9,"Supreme Court Justice, Seat B","Pickering, Kristina",62
+Precinct 9,"Supreme Court Justice, Seat D","Gibbons, Mark",58
+Precinct 9,"Supreme Court Justice, Seat D",None Of These Candidates,11
+Precinct 9,"U.S. Representative in Congress, District 4","Best, Russell",5
+Precinct 9,"U.S. Representative in Congress, District 4","Brown, Steve",4
+Precinct 9,"U.S. Representative in Congress, District 4","Hardy, Cresent",35
+Precinct 9,"U.S. Representative in Congress, District 4","Horsford, Steven A.",36
+Precinct 9,"WHITE PINE Hospital Dst, Trustee District 2","HILTON, BURTON",46
+Precinct 9,"WHITE PINE Hospital Dst, Trustee District 2","O""DELL-FLANNERY, VALERIE",25
+Precinct 9,"WHITE PINE Hospital Dst, Trustee District 4","PATRAS, GLADINE",26
+Precinct 9,"WHITE PINE Hospital Dst, Trustee District 4","ROWLEY, RICHARD F.",29
+Precinct 99,"U.S. Representative in Congress, District 4","Best, Russell",0
+Precinct 99,"U.S. Representative in Congress, District 4","Brown, Steve",0
+Precinct 99,"U.S. Representative in Congress, District 4","Hardy, Cresent",0
+Precinct 99,"U.S. Representative in Congress, District 4","Horsford, Steven A.",0

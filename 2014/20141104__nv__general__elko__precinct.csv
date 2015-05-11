@@ -1,0 +1,1900 @@
+precinct,office,candidate,votes
+Precinct 1,Attorney General,"Hansen, Jonathan J",20
+Precinct 1,Attorney General,"Laxalt, Adam Paul",124
+Precinct 1,Attorney General,"Miller, Ross",35
+Precinct 1,Attorney General,None Of These Candidates,6
+Precinct 1,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",173
+Precinct 1,COUNTY CLERK,"FOSMO, CAROL",171
+Precinct 1,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",166
+Precinct 1,County Comm Dist. 4 (CW),"EKLUND, CLIFF",168
+Precinct 1,COUNTY RECORDER,"SMALES, D. MIKE",140
+Precinct 1,COUNTY RECORDER,"SMITH, CHERYL A.",40
+Precinct 1,County Sheriff,"KAHLE, MELINDA ""MINDY""",72
+Precinct 1,County Sheriff,"PITTS, JIM",111
+Precinct 1,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",145
+Precinct 1,COUNTY TREASURER,"JENKINS, KAY DAWN",34
+Precinct 1,DISTRICT ATTORNEY,"TORVINEN, MARK",159
+Precinct 1,"ELKO Council, 2 Seats","HANCE, BILL",52
+Precinct 1,"ELKO Council, 2 Seats","KEENER, REECE",89
+Precinct 1,"ELKO Council, 2 Seats","OWEN, KIMBERLY",106
+Precinct 1,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",73
+Precinct 1,ELKO TV Seat B,"GREER, NORY KAY",67
+Precinct 1,ELKO TV Seat B,"JIMENEZ, RICK",95
+Precinct 1,ELKO TV Seat C,"MCLEOD, CHRIS",90
+Precinct 1,ELKO TV Seat C,"WAHRENBROCK, JON A.",77
+Precinct 1,Governor,"Goodman, Robert ""Bob""",17
+Precinct 1,Governor,None Of These Candidates,8
+Precinct 1,Governor,"Sandoval, Brian",154
+Precinct 1,Governor,"VanDerBeek, David Lory",9
+Precinct 1,Lieutenant Governor,"Flores, Lucy",29
+Precinct 1,Lieutenant Governor,"Hutchison, Mark",125
+Precinct 1,Lieutenant Governor,"Little, Mike",16
+Precinct 1,Lieutenant Governor,None Of These Candidates,17
+Precinct 1,Mayor Elko,"JOHNSON, CHRIS J.",82
+Precinct 1,Mayor Elko,"MYERS, CHARLIE",96
+Precinct 1,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",137
+Precinct 1,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",43
+Precinct 1,Secretary Of State,"Cegavske, Barbara K",124
+Precinct 1,Secretary Of State,"Marshall, Kate",39
+Precinct 1,Secretary Of State,None Of These Candidates,22
+Precinct 1,"State Assembly, District 33","Ellison, John",172
+Precinct 1,State Controller,"Jones, Tom",28
+Precinct 1,State Controller,"Knecht, Ron",117
+Precinct 1,State Controller,"Martin, Andrew",28
+Precinct 1,State Controller,None Of These Candidates,13
+Precinct 1,State Treasurer,"Cave, Kress K",20
+Precinct 1,State Treasurer,None Of These Candidates,10
+Precinct 1,State Treasurer,"Schwartz, Dan",123
+Precinct 1,State Treasurer,"Wallin, Kim",32
+Precinct 1,"Supreme Court Justice, Seat B",None Of These Candidates,48
+Precinct 1,"Supreme Court Justice, Seat B","Pickering, Kristina",128
+Precinct 1,"Supreme Court Justice, Seat D","Gibbons, Mark",152
+Precinct 1,"Supreme Court Justice, Seat D",None Of These Candidates,28
+Precinct 1,"U.S. Representative in Congress, District 2","Amodei, Mark E.",137
+Precinct 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",30
+Precinct 1,"U.S. Representative in Congress, District 2","Spees, Kristen",20
+Precinct 10,Attorney General,"Hansen, Jonathan J",33
+Precinct 10,Attorney General,"Laxalt, Adam Paul",275
+Precinct 10,Attorney General,"Miller, Ross",110
+Precinct 10,Attorney General,None Of These Candidates,12
+Precinct 10,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",395
+Precinct 10,COUNTY CLERK,"FOSMO, CAROL",376
+Precinct 10,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",385
+Precinct 10,County Comm Dist. 4 (CW),"EKLUND, CLIFF",372
+Precinct 10,COUNTY RECORDER,"SMALES, D. MIKE",361
+Precinct 10,COUNTY RECORDER,"SMITH, CHERYL A.",59
+Precinct 10,County Sheriff,"KAHLE, MELINDA ""MINDY""",96
+Precinct 10,County Sheriff,"PITTS, JIM",322
+Precinct 10,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",363
+Precinct 10,COUNTY TREASURER,"JENKINS, KAY DAWN",52
+Precinct 10,DISTRICT ATTORNEY,"TORVINEN, MARK",374
+Precinct 10,"ELKO Council, 2 Seats","HANCE, BILL",105
+Precinct 10,"ELKO Council, 2 Seats","KEENER, REECE",268
+Precinct 10,"ELKO Council, 2 Seats","OWEN, KIMBERLY",170
+Precinct 10,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",200
+Precinct 10,ELKO TV Seat B,"GREER, NORY KAY",139
+Precinct 10,ELKO TV Seat B,"JIMENEZ, RICK",236
+Precinct 10,ELKO TV Seat C,"MCLEOD, CHRIS",141
+Precinct 10,ELKO TV Seat C,"WAHRENBROCK, JON A.",245
+Precinct 10,Governor,"Goodman, Robert ""Bob""",42
+Precinct 10,Governor,None Of These Candidates,17
+Precinct 10,Governor,"Sandoval, Brian",350
+Precinct 10,Governor,"VanDerBeek, David Lory",20
+Precinct 10,Lieutenant Governor,"Flores, Lucy",64
+Precinct 10,Lieutenant Governor,"Hutchison, Mark",338
+Precinct 10,Lieutenant Governor,"Little, Mike",12
+Precinct 10,Lieutenant Governor,None Of These Candidates,17
+Precinct 10,Mayor Elko,"JOHNSON, CHRIS J.",280
+Precinct 10,Mayor Elko,"MYERS, CHARLIE",138
+Precinct 10,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",326
+Precinct 10,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",84
+Precinct 10,Secretary Of State,"Cegavske, Barbara K",307
+Precinct 10,Secretary Of State,"Marshall, Kate",97
+Precinct 10,Secretary Of State,None Of These Candidates,25
+Precinct 10,"State Assembly, District 33","Ellison, John",367
+Precinct 10,State Controller,"Jones, Tom",39
+Precinct 10,State Controller,"Knecht, Ron",285
+Precinct 10,State Controller,"Martin, Andrew",63
+Precinct 10,State Controller,None Of These Candidates,33
+Precinct 10,State Treasurer,"Cave, Kress K",31
+Precinct 10,State Treasurer,None Of These Candidates,21
+Precinct 10,State Treasurer,"Schwartz, Dan",292
+Precinct 10,State Treasurer,"Wallin, Kim",81
+Precinct 10,"Supreme Court Justice, Seat B",None Of These Candidates,81
+Precinct 10,"Supreme Court Justice, Seat B","Pickering, Kristina",309
+Precinct 10,"Supreme Court Justice, Seat D","Gibbons, Mark",321
+Precinct 10,"Supreme Court Justice, Seat D",None Of These Candidates,74
+Precinct 10,"U.S. Representative in Congress, District 2","Amodei, Mark E.",336
+Precinct 10,"U.S. Representative in Congress, District 2","HANSEN, JANINE",48
+Precinct 10,"U.S. Representative in Congress, District 2","Spees, Kristen",45
+Precinct 11,Attorney General,"Hansen, Jonathan J",17
+Precinct 11,Attorney General,"Laxalt, Adam Paul",137
+Precinct 11,Attorney General,"Miller, Ross",50
+Precinct 11,Attorney General,None Of These Candidates,3
+Precinct 11,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",186
+Precinct 11,COUNTY CLERK,"FOSMO, CAROL",185
+Precinct 11,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",181
+Precinct 11,County Comm Dist. 4 (CW),"EKLUND, CLIFF",182
+Precinct 11,COUNTY RECORDER,"SMALES, D. MIKE",161
+Precinct 11,COUNTY RECORDER,"SMITH, CHERYL A.",37
+Precinct 11,County Sheriff,"KAHLE, MELINDA ""MINDY""",53
+Precinct 11,County Sheriff,"PITTS, JIM",151
+Precinct 11,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",167
+Precinct 11,COUNTY TREASURER,"JENKINS, KAY DAWN",32
+Precinct 11,DISTRICT ATTORNEY,"TORVINEN, MARK",178
+Precinct 11,"ELKO Council, 2 Seats","HANCE, BILL",65
+Precinct 11,"ELKO Council, 2 Seats","KEENER, REECE",87
+Precinct 11,"ELKO Council, 2 Seats","OWEN, KIMBERLY",113
+Precinct 11,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",91
+Precinct 11,ELKO TV Seat B,"GREER, NORY KAY",88
+Precinct 11,ELKO TV Seat B,"JIMENEZ, RICK",96
+Precinct 11,ELKO TV Seat C,"MCLEOD, CHRIS",83
+Precinct 11,ELKO TV Seat C,"WAHRENBROCK, JON A.",100
+Precinct 11,Governor,"Goodman, Robert ""Bob""",25
+Precinct 11,Governor,None Of These Candidates,3
+Precinct 11,Governor,"Sandoval, Brian",169
+Precinct 11,Governor,"VanDerBeek, David Lory",11
+Precinct 11,Lieutenant Governor,"Flores, Lucy",46
+Precinct 11,Lieutenant Governor,"Hutchison, Mark",144
+Precinct 11,Lieutenant Governor,"Little, Mike",13
+Precinct 11,Lieutenant Governor,None Of These Candidates,3
+Precinct 11,Mayor Elko,"JOHNSON, CHRIS J.",88
+Precinct 11,Mayor Elko,"MYERS, CHARLIE",115
+Precinct 11,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",146
+Precinct 11,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",46
+Precinct 11,Secretary Of State,"Cegavske, Barbara K",140
+Precinct 11,Secretary Of State,"Marshall, Kate",55
+Precinct 11,Secretary Of State,None Of These Candidates,12
+Precinct 11,"State Assembly, District 33","Ellison, John",188
+Precinct 11,State Controller,"Jones, Tom",20
+Precinct 11,State Controller,"Knecht, Ron",142
+Precinct 11,State Controller,"Martin, Andrew",40
+Precinct 11,State Controller,None Of These Candidates,5
+Precinct 11,State Treasurer,"Cave, Kress K",13
+Precinct 11,State Treasurer,None Of These Candidates,6
+Precinct 11,State Treasurer,"Schwartz, Dan",140
+Precinct 11,State Treasurer,"Wallin, Kim",48
+Precinct 11,"Supreme Court Justice, Seat B",None Of These Candidates,33
+Precinct 11,"Supreme Court Justice, Seat B","Pickering, Kristina",153
+Precinct 11,"Supreme Court Justice, Seat D","Gibbons, Mark",156
+Precinct 11,"Supreme Court Justice, Seat D",None Of These Candidates,30
+Precinct 11,"U.S. Representative in Congress, District 2","Amodei, Mark E.",146
+Precinct 11,"U.S. Representative in Congress, District 2","HANSEN, JANINE",28
+Precinct 11,"U.S. Representative in Congress, District 2","Spees, Kristen",34
+Precinct 12,Attorney General,"Hansen, Jonathan J",52
+Precinct 12,Attorney General,"Laxalt, Adam Paul",370
+Precinct 12,Attorney General,"Miller, Ross",102
+Precinct 12,Attorney General,None Of These Candidates,11
+Precinct 12,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",486
+Precinct 12,COUNTY CLERK,"FOSMO, CAROL",492
+Precinct 12,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",492
+Precinct 12,County Comm Dist. 4 (CW),"EKLUND, CLIFF",479
+Precinct 12,COUNTY RECORDER,"SMALES, D. MIKE",437
+Precinct 12,COUNTY RECORDER,"SMITH, CHERYL A.",90
+Precinct 12,County Sheriff,"KAHLE, MELINDA ""MINDY""",163
+Precinct 12,County Sheriff,"PITTS, JIM",369
+Precinct 12,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",446
+Precinct 12,COUNTY TREASURER,"JENKINS, KAY DAWN",75
+Precinct 12,DISTRICT ATTORNEY,"TORVINEN, MARK",473
+Precinct 12,ELKO TV Seat B,"GREER, NORY KAY",184
+Precinct 12,ELKO TV Seat B,"JIMENEZ, RICK",283
+Precinct 12,ELKO TV Seat C,"MCLEOD, CHRIS",243
+Precinct 12,ELKO TV Seat C,"WAHRENBROCK, JON A.",241
+Precinct 12,Governor,"Goodman, Robert ""Bob""",48
+Precinct 12,Governor,None Of These Candidates,14
+Precinct 12,Governor,"Sandoval, Brian",426
+Precinct 12,Governor,"VanDerBeek, David Lory",50
+Precinct 12,Lieutenant Governor,"Flores, Lucy",67
+Precinct 12,Lieutenant Governor,"Hutchison, Mark",400
+Precinct 12,Lieutenant Governor,"Little, Mike",49
+Precinct 12,Lieutenant Governor,None Of These Candidates,20
+Precinct 12,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",384
+Precinct 12,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",133
+Precinct 12,Secretary Of State,"Cegavske, Barbara K",391
+Precinct 12,Secretary Of State,"Marshall, Kate",98
+Precinct 12,Secretary Of State,None Of These Candidates,42
+Precinct 12,"State Assembly, District 33","Ellison, John",484
+Precinct 12,State Controller,"Jones, Tom",55
+Precinct 12,State Controller,"Knecht, Ron",371
+Precinct 12,State Controller,"Martin, Andrew",67
+Precinct 12,State Controller,None Of These Candidates,39
+Precinct 12,State Treasurer,"Cave, Kress K",46
+Precinct 13,State Treasurer,"Wallin, Kim",25
+Precinct 13,"Supreme Court Justice, Seat B",None Of These Candidates,37
+Precinct 13,"Supreme Court Justice, Seat B","Pickering, Kristina",132
+Precinct 13,"Supreme Court Justice, Seat D","Gibbons, Mark",135
+Precinct 13,"Supreme Court Justice, Seat D",None Of These Candidates,34
+Precinct 13,"U.S. Representative in Congress, District 2","Amodei, Mark E.",144
+Precinct 13,"U.S. Representative in Congress, District 2","HANSEN, JANINE",29
+Precinct 13,"U.S. Representative in Congress, District 2","Spees, Kristen",13
+Precinct 14,Attorney General,"Hansen, Jonathan J",43
+Precinct 14,Attorney General,"Laxalt, Adam Paul",365
+Precinct 14,Attorney General,"Miller, Ross",111
+Precinct 14,Attorney General,None Of These Candidates,15
+Precinct 14,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",498
+Precinct 14,COUNTY CLERK,"FOSMO, CAROL",497
+Precinct 14,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",499
+Precinct 14,County Comm Dist. 4 (CW),"EKLUND, CLIFF",485
+Precinct 14,COUNTY RECORDER,"SMALES, D. MIKE",423
+Precinct 14,COUNTY RECORDER,"SMITH, CHERYL A.",95
+Precinct 14,County Sheriff,"KAHLE, MELINDA ""MINDY""",162
+Precinct 14,County Sheriff,"PITTS, JIM",363
+Precinct 14,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",440
+Precinct 14,COUNTY TREASURER,"JENKINS, KAY DAWN",74
+Precinct 14,DISTRICT ATTORNEY,"TORVINEN, MARK",473
+Precinct 14,"ELKO Council, 2 Seats","HANCE, BILL",131
+Precinct 14,"ELKO Council, 2 Seats","KEENER, REECE",284
+Precinct 14,"ELKO Council, 2 Seats","OWEN, KIMBERLY",269
+Precinct 14,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",249
+Precinct 14,ELKO TV Seat B,"GREER, NORY KAY",231
+Precinct 14,ELKO TV Seat B,"JIMENEZ, RICK",238
+Precinct 14,ELKO TV Seat C,"MCLEOD, CHRIS",239
+Precinct 14,ELKO TV Seat C,"WAHRENBROCK, JON A.",237
+Precinct 14,Governor,"Goodman, Robert ""Bob""",45
+Precinct 14,Governor,None Of These Candidates,10
+Precinct 14,Governor,"Sandoval, Brian",457
+Precinct 14,Governor,"VanDerBeek, David Lory",25
+Precinct 14,Lieutenant Governor,"Flores, Lucy",89
+Precinct 14,Lieutenant Governor,"Hutchison, Mark",398
+Precinct 14,Lieutenant Governor,"Little, Mike",32
+Precinct 14,Lieutenant Governor,None Of These Candidates,16
+Precinct 14,Mayor Elko,"JOHNSON, CHRIS J.",297
+Precinct 14,Mayor Elko,"MYERS, CHARLIE",229
+Precinct 14,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",397
+Precinct 14,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",111
+Precinct 14,Secretary Of State,"Cegavske, Barbara K",382
+Precinct 14,Secretary Of State,"Marshall, Kate",125
+Precinct 14,Secretary Of State,None Of These Candidates,28
+Precinct 14,"State Assembly, District 33","Ellison, John",491
+Precinct 14,State Controller,"Jones, Tom",45
+Precinct 14,State Controller,"Knecht, Ron",378
+Precinct 14,State Controller,"Martin, Andrew",77
+Precinct 14,State Controller,None Of These Candidates,32
+Precinct 14,State Treasurer,"Cave, Kress K",30
+Precinct 14,State Treasurer,None Of These Candidates,24
+Precinct 14,State Treasurer,"Schwartz, Dan",389
+Precinct 14,State Treasurer,"Wallin, Kim",90
+Precinct 14,"Supreme Court Justice, Seat B",None Of These Candidates,100
+Precinct 14,"Supreme Court Justice, Seat B","Pickering, Kristina",394
+Precinct 14,"Supreme Court Justice, Seat D","Gibbons, Mark",415
+Precinct 14,"Supreme Court Justice, Seat D",None Of These Candidates,85
+Precinct 14,"U.S. Representative in Congress, District 2","Amodei, Mark E.",409
+Precinct 14,"U.S. Representative in Congress, District 2","HANSEN, JANINE",65
+Precinct 14,"U.S. Representative in Congress, District 2","Spees, Kristen",57
+Precinct 15,Attorney General,"Hansen, Jonathan J",53
+Precinct 15,Attorney General,"Laxalt, Adam Paul",155
+Precinct 15,Attorney General,"Miller, Ross",56
+Precinct 15,Attorney General,None Of These Candidates,2
+Precinct 15,"CARLIN Council, 2 Seats","GRISWOLD, PATRICIA ""PAM""",202
+Precinct 15,"CARLIN Council, 2 Seats","LITCHFIELD, LINCOLN",121
+Precinct 15,"CARLIN Council, 2 Seats","MONTES DE OCA, FRED",80
+Precinct 15,"CARLIN Council, 2 Seats","TANGREEN, MICHAEL",71
+Precinct 15,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",249
+Precinct 15,COUNTY CLERK,"FOSMO, CAROL",250
+Precinct 15,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",246
+Precinct 15,County Comm Dist. 4 (CW),"EKLUND, CLIFF",223
+Precinct 15,COUNTY RECORDER,"SMALES, D. MIKE",174
+Precinct 15,COUNTY RECORDER,"SMITH, CHERYL A.",91
+Precinct 15,County Sheriff,"KAHLE, MELINDA ""MINDY""",120
+Precinct 15,County Sheriff,"PITTS, JIM",139
+Precinct 15,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",185
+Precinct 15,COUNTY TREASURER,"JENKINS, KAY DAWN",73
+Precinct 15,DISTRICT ATTORNEY,"TORVINEN, MARK",242
+Precinct 15,Governor,"Goodman, Robert ""Bob""",28
+Precinct 15,Governor,None Of These Candidates,2
+Precinct 15,Governor,"Sandoval, Brian",209
+Precinct 15,Governor,"VanDerBeek, David Lory",29
+Precinct 15,Lieutenant Governor,"Flores, Lucy",42
+Precinct 15,Lieutenant Governor,"Hutchison, Mark",174
+Precinct 15,Lieutenant Governor,"Little, Mike",42
+Precinct 15,Lieutenant Governor,None Of These Candidates,9
+Precinct 15,Mayor Carlin,"HOLBROOK, DANA D.",109
+Precinct 15,Mayor Carlin,"SKINNER, DONNETTA",154
+Precinct 15,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",171
+Precinct 15,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",91
+Precinct 15,Secretary Of State,"Cegavske, Barbara K",175
+Precinct 15,Secretary Of State,"Marshall, Kate",71
+Precinct 15,Secretary Of State,None Of These Candidates,20
+Precinct 15,"State Assembly, District 33","Ellison, John",246
+Precinct 15,State Controller,"Jones, Tom",49
+Precinct 15,State Controller,"Knecht, Ron",157
+Precinct 15,State Controller,"Martin, Andrew",47
+Precinct 15,State Controller,None Of These Candidates,12
+Precinct 15,State Treasurer,"Cave, Kress K",43
+Precinct 15,State Treasurer,None Of These Candidates,10
+Precinct 15,State Treasurer,"Schwartz, Dan",165
+Precinct 15,State Treasurer,"Wallin, Kim",45
+Precinct 15,"Supreme Court Justice, Seat B",None Of These Candidates,52
+Precinct 15,"Supreme Court Justice, Seat B","Pickering, Kristina",199
+Precinct 15,"Supreme Court Justice, Seat D","Gibbons, Mark",208
+Precinct 15,"Supreme Court Justice, Seat D",None Of These Candidates,45
+Precinct 15,"U.S. Representative in Congress, District 2","Amodei, Mark E.",161
+Precinct 15,"U.S. Representative in Congress, District 2","HANSEN, JANINE",66
+Precinct 15,"U.S. Representative in Congress, District 2","Spees, Kristen",41
+Precinct 16,Attorney General,"Hansen, Jonathan J",33
+Precinct 16,Attorney General,"Laxalt, Adam Paul",141
+Precinct 16,Attorney General,"Miller, Ross",36
+Precinct 16,Attorney General,None Of These Candidates,5
+Precinct 16,"CARLIN Council, 2 Seats","GRISWOLD, PATRICIA ""PAM""",162
+Precinct 16,"CARLIN Council, 2 Seats","LITCHFIELD, LINCOLN",110
+Precinct 16,"CARLIN Council, 2 Seats","MONTES DE OCA, FRED",71
+Precinct 16,"CARLIN Council, 2 Seats","TANGREEN, MICHAEL",46
+Precinct 16,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",204
+Precinct 16,COUNTY CLERK,"FOSMO, CAROL",203
+Precinct 16,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",201
+Precinct 16,County Comm Dist. 4 (CW),"EKLUND, CLIFF",184
+Precinct 16,COUNTY RECORDER,"SMALES, D. MIKE",157
+Precinct 16,COUNTY RECORDER,"SMITH, CHERYL A.",57
+Precinct 16,County Sheriff,"KAHLE, MELINDA ""MINDY""",83
+Precinct 16,County Sheriff,"PITTS, JIM",131
+Precinct 16,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",166
+Precinct 16,COUNTY TREASURER,"JENKINS, KAY DAWN",46
+Precinct 16,DISTRICT ATTORNEY,"TORVINEN, MARK",194
+Precinct 16,Governor,"Goodman, Robert ""Bob""",20
+Precinct 16,Governor,None Of These Candidates,4
+Precinct 16,Governor,"Sandoval, Brian",177
+Precinct 16,Governor,"VanDerBeek, David Lory",20
+Precinct 16,Lieutenant Governor,"Flores, Lucy",31
+Precinct 16,Lieutenant Governor,"Hutchison, Mark",153
+Precinct 16,Lieutenant Governor,"Little, Mike",28
+Precinct 16,Lieutenant Governor,None Of These Candidates,6
+Precinct 16,Mayor Carlin,"HOLBROOK, DANA D.",108
+Precinct 16,Mayor Carlin,"SKINNER, DONNETTA",111
+Precinct 16,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",148
+Precinct 16,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",61
+Precinct 16,Secretary Of State,"Cegavske, Barbara K",148
+Precinct 16,Secretary Of State,"Marshall, Kate",55
+Precinct 16,Secretary Of State,None Of These Candidates,15
+Precinct 16,"State Assembly, District 33","Ellison, John",203
+Precinct 16,State Controller,"Jones, Tom",41
+Precinct 16,State Controller,"Knecht, Ron",128
+Precinct 16,State Controller,"Martin, Andrew",37
+Precinct 16,State Controller,None Of These Candidates,8
+Precinct 16,State Treasurer,"Cave, Kress K",33
+Precinct 16,State Treasurer,None Of These Candidates,8
+Precinct 16,State Treasurer,"Schwartz, Dan",129
+Precinct 16,State Treasurer,"Wallin, Kim",46
+Precinct 16,"Supreme Court Justice, Seat B",None Of These Candidates,34
+Precinct 16,"Supreme Court Justice, Seat B","Pickering, Kristina",173
+Precinct 16,"Supreme Court Justice, Seat D","Gibbons, Mark",178
+Precinct 16,"Supreme Court Justice, Seat D",None Of These Candidates,30
+Precinct 16,"U.S. Representative in Congress, District 2","Amodei, Mark E.",157
+Precinct 16,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
+Precinct 16,"U.S. Representative in Congress, District 2","Spees, Kristen",26
+Precinct 17,Attorney General,"Hansen, Jonathan J",1
+Precinct 17,Attorney General,"Laxalt, Adam Paul",9
+Precinct 17,Attorney General,"Miller, Ross",1
+Precinct 17,Attorney General,None Of These Candidates,0
+Precinct 17,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",11
+Precinct 17,COUNTY CLERK,"FOSMO, CAROL",11
+Precinct 17,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",10
+Precinct 17,County Comm Dist. 4 (CW),"EKLUND, CLIFF",10
+Precinct 17,COUNTY RECORDER,"SMALES, D. MIKE",
+Precinct 17,COUNTY RECORDER,"SMITH, CHERYL A.",
+Precinct 17,County Sheriff,"KAHLE, MELINDA ""MINDY""",2
+Precinct 17,County Sheriff,"PITTS, JIM",9
+Precinct 17,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",7
+Precinct 17,COUNTY TREASURER,"JENKINS, KAY DAWN",3
+Precinct 17,DISTRICT ATTORNEY,"TORVINEN, MARK",11
+Precinct 17,ELKO TV Seat B,"GREER, NORY KAY",
+Precinct 17,ELKO TV Seat B,"JIMENEZ, RICK",
+Precinct 17,ELKO TV Seat C,"MCLEOD, CHRIS",
+Precinct 17,ELKO TV Seat C,"WAHRENBROCK, JON A.",
+Precinct 17,Governor,"Goodman, Robert ""Bob""",1
+Precinct 17,Governor,None Of These Candidates,1
+Precinct 17,Governor,"Sandoval, Brian",8
+Precinct 17,Governor,"VanDerBeek, David Lory",1
+Precinct 17,Lieutenant Governor,"Flores, Lucy",1
+Precinct 17,Lieutenant Governor,"Hutchison, Mark",8
+Precinct 17,Lieutenant Governor,"Little, Mike",1
+Precinct 17,Lieutenant Governor,None Of These Candidates,1
+Precinct 17,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",8
+Precinct 17,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",2
+Precinct 17,Secretary Of State,"Cegavske, Barbara K",10
+Precinct 17,Secretary Of State,"Marshall, Kate",1
+Precinct 17,Secretary Of State,None Of These Candidates,0
+Precinct 17,"State Assembly, District 33","Ellison, John",11
+Precinct 17,State Controller,"Jones, Tom",1
+Precinct 17,State Controller,"Knecht, Ron",9
+Precinct 17,State Controller,"Martin, Andrew",1
+Precinct 17,State Controller,None Of These Candidates,0
+Precinct 17,State Treasurer,"Cave, Kress K",1
+Precinct 17,State Treasurer,None Of These Candidates,0
+Precinct 17,State Treasurer,"Schwartz, Dan",8
+Precinct 17,State Treasurer,"Wallin, Kim",2
+Precinct 17,"Supreme Court Justice, Seat B",None Of These Candidates,
+Precinct 17,"Supreme Court Justice, Seat B","Pickering, Kristina",
+Precinct 17,"Supreme Court Justice, Seat D","Gibbons, Mark",
+Precinct 17,"Supreme Court Justice, Seat D",None Of These Candidates,
+Precinct 17,"U.S. Representative in Congress, District 2","Amodei, Mark E.",7
+Precinct 17,"U.S. Representative in Congress, District 2","HANSEN, JANINE",3
+Precinct 17,"U.S. Representative in Congress, District 2","Spees, Kristen",1
+Precinct 18,Attorney General,"Hansen, Jonathan J",17
+Precinct 18,Attorney General,"Laxalt, Adam Paul",88
+Precinct 18,Attorney General,"Miller, Ross",32
+Precinct 18,Attorney General,None Of These Candidates,9
+Precinct 18,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",126
+Precinct 18,COUNTY CLERK,"FOSMO, CAROL",120
+Precinct 18,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",127
+Precinct 18,County Comm Dist. 4 (CW),"EKLUND, CLIFF",119
+Precinct 18,COUNTY RECORDER,"SMALES, D. MIKE",98
+Precinct 18,COUNTY RECORDER,"SMITH, CHERYL A.",39
+Precinct 18,County Sheriff,"KAHLE, MELINDA ""MINDY""",84
+Precinct 18,County Sheriff,"PITTS, JIM",62
+Precinct 18,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",114
+Precinct 18,COUNTY TREASURER,"JENKINS, KAY DAWN",24
+Precinct 18,DISTRICT ATTORNEY,"TORVINEN, MARK",121
+Precinct 18,Governor,"Goodman, Robert ""Bob""",18
+Precinct 18,Governor,None Of These Candidates,4
+Precinct 18,Governor,"Sandoval, Brian",109
+Precinct 18,Governor,"VanDerBeek, David Lory",17
+Precinct 18,Lieutenant Governor,"Flores, Lucy",25
+Precinct 18,Lieutenant Governor,"Hutchison, Mark",99
+Precinct 18,Lieutenant Governor,"Little, Mike",15
+Precinct 18,Lieutenant Governor,None Of These Candidates,8
+Precinct 18,Mayor Wells,"ROBINSON, JAYRON ""JAKE""",24
+Precinct 18,Mayor Wells,"SHAMBLIN, VINCE",16
+Precinct 18,Mayor Wells,"WELSH-WALZ, LAYLA",107
+Precinct 18,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",96
+Precinct 18,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",34
+Precinct 18,Secretary Of State,"Cegavske, Barbara K",98
+Precinct 18,Secretary Of State,"Marshall, Kate",31
+Precinct 18,Secretary Of State,None Of These Candidates,16
+Precinct 18,"State Assembly, District 33","Ellison, John",123
+Precinct 18,State Controller,"Jones, Tom",20
+Precinct 18,State Controller,"Knecht, Ron",87
+Precinct 18,State Controller,"Martin, Andrew",24
+Precinct 18,State Controller,None Of These Candidates,14
+Precinct 18,State Treasurer,"Cave, Kress K",17
+Precinct 18,State Treasurer,None Of These Candidates,13
+Precinct 18,State Treasurer,"Schwartz, Dan",84
+Precinct 18,State Treasurer,"Wallin, Kim",31
+Precinct 18,"Supreme Court Justice, Seat B",None Of These Candidates,25
+Precinct 18,"Supreme Court Justice, Seat B","Pickering, Kristina",102
+Precinct 18,"Supreme Court Justice, Seat D","Gibbons, Mark",109
+Precinct 18,"Supreme Court Justice, Seat D",None Of These Candidates,17
+Precinct 18,"U.S. Representative in Congress, District 2","Amodei, Mark E.",102
+Precinct 18,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
+Precinct 18,"U.S. Representative in Congress, District 2","Spees, Kristen",25
+Precinct 18,WELLS Council Seat,"BANKS, ALAN",18
+Precinct 18,WELLS Council Seat,"BRODSHO, RICK",37
+Precinct 18,WELLS Council Seat,"FULLER, CINDY",44
+Precinct 18,WELLS Council Seat,"STUART, YVONNE",46
+Precinct 19,Attorney General,"Hansen, Jonathan J",21
+Precinct 19,Attorney General,"Laxalt, Adam Paul",94
+Precinct 19,Attorney General,"Miller, Ross",40
+Precinct 19,Attorney General,None Of These Candidates,7
+Precinct 19,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",145
+Precinct 19,COUNTY CLERK,"FOSMO, CAROL",141
+Precinct 19,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",147
+Precinct 19,County Comm Dist. 4 (CW),"EKLUND, CLIFF",144
+Precinct 19,COUNTY RECORDER,"SMALES, D. MIKE",123
+Precinct 19,COUNTY RECORDER,"SMITH, CHERYL A.",36
+Precinct 19,County Sheriff,"KAHLE, MELINDA ""MINDY""",75
+Precinct 19,County Sheriff,"PITTS, JIM",83
+Precinct 19,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",134
+Precinct 19,COUNTY TREASURER,"JENKINS, KAY DAWN",26
+Precinct 19,DISTRICT ATTORNEY,"TORVINEN, MARK",142
+Precinct 19,Governor,"Goodman, Robert ""Bob""",19
+Precinct 19,Governor,None Of These Candidates,5
+Precinct 19,Governor,"Sandoval, Brian",126
+Precinct 19,Governor,"VanDerBeek, David Lory",13
+Precinct 19,Lieutenant Governor,"Flores, Lucy",22
+Precinct 19,Lieutenant Governor,"Hutchison, Mark",111
+Precinct 19,Lieutenant Governor,"Little, Mike",22
+Precinct 19,Lieutenant Governor,None Of These Candidates,6
+Precinct 19,Mayor Wells,"ROBINSON, JAYRON ""JAKE""",30
+Precinct 19,Mayor Wells,"SHAMBLIN, VINCE",33
+Precinct 19,Mayor Wells,"WELSH-WALZ, LAYLA",96
+Precinct 19,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",116
+Precinct 19,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",40
+Precinct 19,Secretary Of State,"Cegavske, Barbara K",108
+Precinct 19,Secretary Of State,"Marshall, Kate",41
+Precinct 19,Secretary Of State,None Of These Candidates,11
+Precinct 19,"State Assembly, District 33","Ellison, John",150
+Precinct 19,State Controller,"Jones, Tom",22
+Precinct 19,State Controller,"Knecht, Ron",104
+Precinct 19,State Controller,"Martin, Andrew",25
+Precinct 19,State Controller,None Of These Candidates,11
+Precinct 19,State Treasurer,"Cave, Kress K",16
+Precinct 19,State Treasurer,None Of These Candidates,12
+Precinct 19,State Treasurer,"Schwartz, Dan",105
+Precinct 19,State Treasurer,"Wallin, Kim",28
+Precinct 19,"Supreme Court Justice, Seat B",None Of These Candidates,30
+Precinct 19,"Supreme Court Justice, Seat B","Pickering, Kristina",117
+Precinct 19,"Supreme Court Justice, Seat D","Gibbons, Mark",125
+Precinct 19,"Supreme Court Justice, Seat D",None Of These Candidates,29
+Precinct 19,"U.S. Representative in Congress, District 2","Amodei, Mark E.",118
+Precinct 19,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
+Precinct 19,"U.S. Representative in Congress, District 2","Spees, Kristen",19
+Precinct 19,WELLS Council Seat,"BANKS, ALAN",33
+Precinct 19,WELLS Council Seat,"BRODSHO, RICK",40
+Precinct 19,WELLS Council Seat,"FULLER, CINDY",39
+Precinct 19,WELLS Council Seat,"STUART, YVONNE",46
+Precinct 2,Attorney General,"Hansen, Jonathan J",17
+Precinct 2,Attorney General,"Laxalt, Adam Paul",112
+Precinct 2,Attorney General,"Miller, Ross",51
+Precinct 2,Attorney General,None Of These Candidates,6
+Precinct 2,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",169
+Precinct 2,COUNTY CLERK,"FOSMO, CAROL",173
+Precinct 2,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",172
+Precinct 2,County Comm Dist. 4 (CW),"EKLUND, CLIFF",164
+Precinct 2,COUNTY RECORDER,"SMALES, D. MIKE",135
+Precinct 2,COUNTY RECORDER,"SMITH, CHERYL A.",42
+Precinct 2,County Sheriff,"KAHLE, MELINDA ""MINDY""",89
+Precinct 2,County Sheriff,"PITTS, JIM",93
+Precinct 2,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",138
+Precinct 2,COUNTY TREASURER,"JENKINS, KAY DAWN",39
+Precinct 2,DISTRICT ATTORNEY,"TORVINEN, MARK",158
+Precinct 2,"ELKO Council, 2 Seats","HANCE, BILL",44
+Precinct 2,"ELKO Council, 2 Seats","KEENER, REECE",88
+Precinct 2,"ELKO Council, 2 Seats","OWEN, KIMBERLY",100
+Precinct 2,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",76
+Precinct 2,ELKO TV Seat B,"GREER, NORY KAY",82
+Precinct 2,ELKO TV Seat B,"JIMENEZ, RICK",82
+Precinct 2,ELKO TV Seat C,"MCLEOD, CHRIS",85
+Precinct 2,ELKO TV Seat C,"WAHRENBROCK, JON A.",78
+Precinct 2,Governor,"Goodman, Robert ""Bob""",28
+Precinct 2,Governor,None Of These Candidates,5
+Precinct 2,Governor,"Sandoval, Brian",142
+Precinct 2,Governor,"VanDerBeek, David Lory",13
+Precinct 2,Lieutenant Governor,"Flores, Lucy",41
+Precinct 2,Lieutenant Governor,"Hutchison, Mark",121
+Precinct 2,Lieutenant Governor,"Little, Mike",13
+Precinct 2,Lieutenant Governor,None Of These Candidates,13
+Precinct 2,Mayor Elko,"JOHNSON, CHRIS J.",81
+Precinct 2,Mayor Elko,"MYERS, CHARLIE",98
+Precinct 2,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",128
+Precinct 2,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",47
+Precinct 2,Secretary Of State,"Cegavske, Barbara K",114
+Precinct 2,Secretary Of State,"Marshall, Kate",56
+Precinct 2,Secretary Of State,None Of These Candidates,17
+Precinct 2,"State Assembly, District 33","Ellison, John",169
+Precinct 2,State Controller,"Jones, Tom",21
+Precinct 2,State Controller,"Knecht, Ron",107
+Precinct 2,State Controller,"Martin, Andrew",45
+Precinct 2,State Controller,None Of These Candidates,13
+Precinct 2,State Treasurer,"Cave, Kress K",19
+Precinct 2,State Treasurer,None Of These Candidates,10
+Precinct 2,State Treasurer,"Schwartz, Dan",110
+Precinct 2,State Treasurer,"Wallin, Kim",48
+Precinct 2,"Supreme Court Justice, Seat B",None Of These Candidates,37
+Precinct 2,"Supreme Court Justice, Seat B","Pickering, Kristina",131
+Precinct 2,"Supreme Court Justice, Seat D","Gibbons, Mark",141
+Precinct 2,"Supreme Court Justice, Seat D",None Of These Candidates,27
+Precinct 2,"U.S. Representative in Congress, District 2","Amodei, Mark E.",120
+Precinct 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",29
+Precinct 2,"U.S. Representative in Congress, District 2","Spees, Kristen",39
+Precinct 20,Attorney General,"Hansen, Jonathan J",35
+Precinct 20,Attorney General,"Laxalt, Adam Paul",164
+Precinct 20,Attorney General,"Miller, Ross",108
+Precinct 20,Attorney General,None Of These Candidates,26
+Precinct 20,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",274
+Precinct 20,COUNTY CLERK,"FOSMO, CAROL",265
+Precinct 20,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",271
+Precinct 20,County Comm Dist. 4 (CW),"EKLUND, CLIFF",276
+Precinct 20,COUNTY RECORDER,"SMALES, D. MIKE",185
+Precinct 20,COUNTY RECORDER,"SMITH, CHERYL A.",117
+Precinct 20,County Sheriff,"KAHLE, MELINDA ""MINDY""",162
+Precinct 20,County Sheriff,"PITTS, JIM",148
+Precinct 20,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",214
+Precinct 20,COUNTY TREASURER,"JENKINS, KAY DAWN",95
+Precinct 20,DISTRICT ATTORNEY,"TORVINEN, MARK",265
+Precinct 20,Governor,"Goodman, Robert ""Bob""",80
+Precinct 20,Governor,None Of These Candidates,27
+Precinct 20,Governor,"Sandoval, Brian",199
+Precinct 20,Governor,"VanDerBeek, David Lory",29
+Precinct 20,Lieutenant Governor,"Flores, Lucy",108
+Precinct 20,Lieutenant Governor,"Hutchison, Mark",166
+Precinct 20,Lieutenant Governor,"Little, Mike",33
+Precinct 20,Lieutenant Governor,None Of These Candidates,27
+Precinct 20,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",192
+Precinct 20,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",106
+Precinct 20,Secretary Of State,"Cegavske, Barbara K",166
+Precinct 20,Secretary Of State,"Marshall, Kate",123
+Precinct 20,Secretary Of State,None Of These Candidates,42
+Precinct 20,"State Assembly, District 33","Ellison, John",278
+Precinct 20,State Controller,"Jones, Tom",48
+Precinct 20,State Controller,"Knecht, Ron",154
+Precinct 20,State Controller,"Martin, Andrew",93
+Precinct 20,State Controller,None Of These Candidates,37
+Precinct 20,State Treasurer,"Cave, Kress K",38
+Precinct 20,State Treasurer,None Of These Candidates,35
+Precinct 20,State Treasurer,"Schwartz, Dan",155
+Precinct 20,State Treasurer,"Wallin, Kim",103
+Precinct 20,"Supreme Court Justice, Seat B",None Of These Candidates,65
+Precinct 20,"Supreme Court Justice, Seat B","Pickering, Kristina",232
+Precinct 20,"Supreme Court Justice, Seat D","Gibbons, Mark",231
+Precinct 20,"Supreme Court Justice, Seat D",None Of These Candidates,66
+Precinct 20,"U.S. Representative in Congress, District 2","Amodei, Mark E.",172
+Precinct 20,"U.S. Representative in Congress, District 2","HANSEN, JANINE",57
+Precinct 20,"U.S. Representative in Congress, District 2","Spees, Kristen",92
+Precinct 20,WEST WENDOVER Council Seat 4,"ANDERSEN, KRIS",82
+Precinct 20,WEST WENDOVER Council Seat 4,"ANDERSON, GERALD ""JERRY""",166
+Precinct 20,WEST WENDOVER Council Seat 4,"HANSEN, PETER ""PETE""",85
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","ANDERSEN, DONALD ""DONNIE""",103
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","CHAVEZ, MATTHEW",12
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","DURHAM, JEFF",52
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","FLORES, NICOLAS ""NICK""",82
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","GORUM, JUAN ""JOHNNY""",79
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","GUTIERREZ, ISMAEL ""IZZY""",122
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","HANSON, JOHN B.",122
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","HOLM, JASIE",116
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","MIERA, MICHAEL ""MIKE""",54
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","SERAFINI, DAVID",42
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","SNYDER, CASEY",66
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","TRUJILLO, ROBERTO ""ROBERT""",76
+Precinct 20,"WEST WENDOVER Council Seats 1, 2, 5","WISKERCHEN, DAVID",57
+Precinct 20,WEST WENDOVER REC SEAT 2,"CORONA, GARY",184
+Precinct 20,WEST WENDOVER REC SEAT 2,"ISAACS, STEVEN",143
+Precinct 20,WEST WENDOVER REC SEAT 3,"CROZIER, ARONN",124
+Precinct 20,WEST WENDOVER REC SEAT 3,"LONCAR, ROBERT P.",203
+Precinct 21,Attorney General,"Hansen, Jonathan J",15
+Precinct 21,Attorney General,"Laxalt, Adam Paul",27
+Precinct 21,Attorney General,"Miller, Ross",21
+Precinct 21,Attorney General,None Of These Candidates,3
+Precinct 21,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",53
+Precinct 21,COUNTY CLERK,"FOSMO, CAROL",55
+Precinct 21,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",53
+Precinct 21,County Comm Dist. 4 (CW),"EKLUND, CLIFF",51
+Precinct 21,COUNTY RECORDER,"SMALES, D. MIKE",29
+Precinct 21,COUNTY RECORDER,"SMITH, CHERYL A.",34
+Precinct 21,County Sheriff,"KAHLE, MELINDA ""MINDY""",36
+Precinct 21,County Sheriff,"PITTS, JIM",27
+Precinct 21,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",38
+Precinct 21,COUNTY TREASURER,"JENKINS, KAY DAWN",26
+Precinct 21,DISTRICT ATTORNEY,"TORVINEN, MARK",50
+Precinct 21,Governor,"Goodman, Robert ""Bob""",17
+Precinct 21,Governor,None Of These Candidates,5
+Precinct 21,Governor,"Sandoval, Brian",35
+Precinct 21,Governor,"VanDerBeek, David Lory",10
+Precinct 21,Lieutenant Governor,"Flores, Lucy",24
+Precinct 21,Lieutenant Governor,"Hutchison, Mark",24
+Precinct 21,Lieutenant Governor,"Little, Mike",12
+Precinct 21,Lieutenant Governor,None Of These Candidates,6
+Precinct 21,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",29
+Precinct 21,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",32
+Precinct 21,Secretary Of State,"Cegavske, Barbara K",33
+Precinct 21,Secretary Of State,"Marshall, Kate",26
+Precinct 21,Secretary Of State,None Of These Candidates,7
+Precinct 21,"State Assembly, District 33","Ellison, John",51
+Precinct 21,State Controller,"Jones, Tom",15
+Precinct 21,State Controller,"Knecht, Ron",26
+Precinct 21,State Controller,"Martin, Andrew",20
+Precinct 21,State Controller,None Of These Candidates,5
+Precinct 21,State Treasurer,"Cave, Kress K",10
+Precinct 21,State Treasurer,None Of These Candidates,9
+Precinct 21,State Treasurer,"Schwartz, Dan",28
+Precinct 21,State Treasurer,"Wallin, Kim",19
+Precinct 21,"Supreme Court Justice, Seat B",None Of These Candidates,13
+Precinct 21,"Supreme Court Justice, Seat B","Pickering, Kristina",47
+Precinct 21,"Supreme Court Justice, Seat D","Gibbons, Mark",47
+Precinct 21,"Supreme Court Justice, Seat D",None Of These Candidates,15
+Precinct 21,"U.S. Representative in Congress, District 2","Amodei, Mark E.",24
+Precinct 21,"U.S. Representative in Congress, District 2","HANSEN, JANINE",25
+Precinct 21,"U.S. Representative in Congress, District 2","Spees, Kristen",16
+Precinct 21,WEST WENDOVER Council Seat 4,"ANDERSEN, KRIS",13
+Precinct 21,WEST WENDOVER Council Seat 4,"ANDERSON, GERALD ""JERRY""",33
+Precinct 21,WEST WENDOVER Council Seat 4,"HANSEN, PETER ""PETE""",16
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","ANDERSEN, DONALD ""DONNIE""",20
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","CHAVEZ, MATTHEW",5
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","DURHAM, JEFF",10
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","FLORES, NICOLAS ""NICK""",9
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","GORUM, JUAN ""JOHNNY""",15
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","GUTIERREZ, ISMAEL ""IZZY""",25
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","HANSON, JOHN B.",30
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","HOLM, JASIE",16
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","MIERA, MICHAEL ""MIKE""",12
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","SERAFINI, DAVID",13
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","SNYDER, CASEY",8
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","TRUJILLO, ROBERTO ""ROBERT""",11
+Precinct 21,"WEST WENDOVER Council Seats 1, 2, 5","WISKERCHEN, DAVID",13
+Precinct 21,WEST WENDOVER REC SEAT 2,"CORONA, GARY",31
+Precinct 21,WEST WENDOVER REC SEAT 2,"ISAACS, STEVEN",31
+Precinct 21,WEST WENDOVER REC SEAT 3,"CROZIER, ARONN",31
+Precinct 21,WEST WENDOVER REC SEAT 3,"LONCAR, ROBERT P.",32
+Precinct 22,Attorney General,"Hansen, Jonathan J",72
+Precinct 22,Attorney General,"Laxalt, Adam Paul",418
+Precinct 22,Attorney General,"Miller, Ross",118
+Precinct 22,Attorney General,None Of These Candidates,13
+Precinct 22,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",557
+Precinct 22,COUNTY CLERK,"FOSMO, CAROL",561
+Precinct 22,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",565
+Precinct 22,County Comm Dist. 4 (CW),"EKLUND, CLIFF",543
+Precinct 22,COUNTY RECORDER,"SMALES, D. MIKE",467
+Precinct 22,COUNTY RECORDER,"SMITH, CHERYL A.",139
+Precinct 22,County Sheriff,"KAHLE, MELINDA ""MINDY""",210
+Precinct 22,County Sheriff,"PITTS, JIM",406
+Precinct 22,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",487
+Precinct 22,COUNTY TREASURER,"JENKINS, KAY DAWN",110
+Precinct 22,DISTRICT ATTORNEY,"TORVINEN, MARK",542
+Precinct 22,ELKO TV Seat B,"GREER, NORY KAY",279
+Precinct 22,ELKO TV Seat B,"JIMENEZ, RICK",251
+Precinct 22,ELKO TV Seat C,"MCLEOD, CHRIS",322
+Precinct 22,ELKO TV Seat C,"WAHRENBROCK, JON A.",206
+Precinct 22,Governor,"Goodman, Robert ""Bob""",70
+Precinct 22,Governor,None Of These Candidates,12
+Precinct 22,Governor,"Sandoval, Brian",493
+Precinct 22,Governor,"VanDerBeek, David Lory",49
+Precinct 22,Lieutenant Governor,"Flores, Lucy",89
+Precinct 22,Lieutenant Governor,"Hutchison, Mark",472
+Precinct 22,Lieutenant Governor,"Little, Mike",56
+Precinct 22,Lieutenant Governor,None Of These Candidates,6
+Precinct 22,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",439
+Precinct 22,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",157
+Precinct 22,Secretary Of State,"Cegavske, Barbara K",462
+Precinct 22,Secretary Of State,"Marshall, Kate",129
+Precinct 22,Secretary Of State,None Of These Candidates,31
+Precinct 22,"State Assembly, District 33","Ellison, John",549
+Precinct 22,State Controller,"Jones, Tom",75
+Precinct 22,State Controller,"Knecht, Ron",435
+Precinct 22,State Controller,"Martin, Andrew",76
+Precinct 22,State Controller,None Of These Candidates,25
+Precinct 22,State Treasurer,"Cave, Kress K",68
+Precinct 22,State Treasurer,None Of These Candidates,18
+Precinct 22,State Treasurer,"Schwartz, Dan",440
+Precinct 22,State Treasurer,"Wallin, Kim",86
+Precinct 22,"Supreme Court Justice, Seat B",None Of These Candidates,112
+Precinct 22,"Supreme Court Justice, Seat B","Pickering, Kristina",467
+Precinct 22,"Supreme Court Justice, Seat D","Gibbons, Mark",483
+Precinct 22,"Supreme Court Justice, Seat D",None Of These Candidates,96
+Precinct 22,"U.S. Representative in Congress, District 2","Amodei, Mark E.",453
+Precinct 22,"U.S. Representative in Congress, District 2","HANSEN, JANINE",95
+Precinct 22,"U.S. Representative in Congress, District 2","Spees, Kristen",73
+Precinct 23,Attorney General,"Hansen, Jonathan J",76
+Precinct 23,Attorney General,"Laxalt, Adam Paul",392
+Precinct 23,Attorney General,"Miller, Ross",116
+Precinct 23,Attorney General,None Of These Candidates,10
+Precinct 23,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",536
+Precinct 23,COUNTY CLERK,"FOSMO, CAROL",538
+Precinct 23,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",539
+Precinct 23,County Comm Dist. 4 (CW),"EKLUND, CLIFF",525
+Precinct 23,COUNTY RECORDER,"SMALES, D. MIKE",417
+Precinct 23,COUNTY RECORDER,"SMITH, CHERYL A.",149
+Precinct 23,County Sheriff,"KAHLE, MELINDA ""MINDY""",181
+Precinct 23,County Sheriff,"PITTS, JIM",400
+Precinct 23,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",455
+Precinct 23,COUNTY TREASURER,"JENKINS, KAY DAWN",107
+Precinct 23,DISTRICT ATTORNEY,"TORVINEN, MARK",515
+Precinct 23,ELKO TV Seat B,"GREER, NORY KAY",263
+Precinct 23,ELKO TV Seat B,"JIMENEZ, RICK",227
+Precinct 23,ELKO TV Seat C,"MCLEOD, CHRIS",298
+Precinct 23,ELKO TV Seat C,"WAHRENBROCK, JON A.",210
+Precinct 23,Governor,"Goodman, Robert ""Bob""",66
+Precinct 23,Governor,None Of These Candidates,9
+Precinct 23,Governor,"Sandoval, Brian",477
+Precinct 23,Governor,"VanDerBeek, David Lory",44
+Precinct 23,Lieutenant Governor,"Flores, Lucy",99
+Precinct 23,Lieutenant Governor,"Hutchison, Mark",443
+Precinct 23,Lieutenant Governor,"Little, Mike",41
+Precinct 23,Lieutenant Governor,None Of These Candidates,12
+Precinct 23,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",398
+Precinct 23,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",163
+Precinct 23,Secretary Of State,"Cegavske, Barbara K",449
+Precinct 23,Secretary Of State,"Marshall, Kate",124
+Precinct 23,Secretary Of State,None Of These Candidates,19
+Precinct 23,"State Assembly, District 33","Ellison, John",522
+Precinct 23,State Controller,"Jones, Tom",80
+Precinct 23,State Controller,"Knecht, Ron",397
+Precinct 23,State Controller,"Martin, Andrew",92
+Precinct 23,State Controller,None Of These Candidates,19
+Precinct 23,State Treasurer,"Cave, Kress K",64
+Precinct 23,State Treasurer,None Of These Candidates,12
+Precinct 23,State Treasurer,"Schwartz, Dan",410
+Precinct 23,State Treasurer,"Wallin, Kim",104
+Precinct 23,"Supreme Court Justice, Seat B",None Of These Candidates,99
+Precinct 23,"Supreme Court Justice, Seat B","Pickering, Kristina",454
+Precinct 23,"Supreme Court Justice, Seat D","Gibbons, Mark",456
+Precinct 23,"Supreme Court Justice, Seat D",None Of These Candidates,96
+Precinct 23,"U.S. Representative in Congress, District 2","Amodei, Mark E.",428
+Precinct 23,"U.S. Representative in Congress, District 2","HANSEN, JANINE",90
+Precinct 23,"U.S. Representative in Congress, District 2","Spees, Kristen",77
+Precinct 24,Attorney General,"Hansen, Jonathan J",39
+Precinct 24,Attorney General,"Laxalt, Adam Paul",273
+Precinct 24,Attorney General,"Miller, Ross",65
+Precinct 24,Attorney General,None Of These Candidates,4
+Precinct 24,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",360
+Precinct 24,COUNTY CLERK,"FOSMO, CAROL",354
+Precinct 24,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",361
+Precinct 24,County Comm Dist. 4 (CW),"EKLUND, CLIFF",351
+Precinct 24,COUNTY RECORDER,"SMALES, D. MIKE",288
+Precinct 24,COUNTY RECORDER,"SMITH, CHERYL A.",82
+Precinct 24,County Sheriff,"KAHLE, MELINDA ""MINDY""",148
+Precinct 24,County Sheriff,"PITTS, JIM",227
+Precinct 24,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",309
+Precinct 24,COUNTY TREASURER,"JENKINS, KAY DAWN",66
+Precinct 24,DISTRICT ATTORNEY,"TORVINEN, MARK",338
+Precinct 24,ELKO TV Seat B,"GREER, NORY KAY",184
+Precinct 24,ELKO TV Seat B,"JIMENEZ, RICK",154
+Precinct 24,ELKO TV Seat C,"MCLEOD, CHRIS",227
+Precinct 24,ELKO TV Seat C,"WAHRENBROCK, JON A.",108
+Precinct 24,Governor,"Goodman, Robert ""Bob""",33
+Precinct 24,Governor,None Of These Candidates,10
+Precinct 24,Governor,"Sandoval, Brian",317
+Precinct 24,Governor,"VanDerBeek, David Lory",24
+Precinct 24,Lieutenant Governor,"Flores, Lucy",41
+Precinct 24,Lieutenant Governor,"Hutchison, Mark",308
+Precinct 24,Lieutenant Governor,"Little, Mike",29
+Precinct 24,Lieutenant Governor,None Of These Candidates,3
+Precinct 24,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",283
+Precinct 24,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",86
+Precinct 24,Secretary Of State,"Cegavske, Barbara K",295
+Precinct 24,Secretary Of State,"Marshall, Kate",68
+Precinct 24,Secretary Of State,None Of These Candidates,20
+Precinct 24,"State Assembly, District 33","Ellison, John",359
+Precinct 24,State Controller,"Jones, Tom",51
+Precinct 24,State Controller,"Knecht, Ron",269
+Precinct 24,State Controller,"Martin, Andrew",47
+Precinct 24,State Controller,None Of These Candidates,14
+Precinct 24,State Treasurer,"Cave, Kress K",40
+Precinct 24,State Treasurer,None Of These Candidates,15
+Precinct 24,State Treasurer,"Schwartz, Dan",270
+Precinct 24,State Treasurer,"Wallin, Kim",56
+Precinct 24,"Supreme Court Justice, Seat B",None Of These Candidates,74
+Precinct 24,"Supreme Court Justice, Seat B","Pickering, Kristina",284
+Precinct 24,"Supreme Court Justice, Seat D","Gibbons, Mark",299
+Precinct 24,"Supreme Court Justice, Seat D",None Of These Candidates,57
+Precinct 24,"U.S. Representative in Congress, District 2","Amodei, Mark E.",298
+Precinct 24,"U.S. Representative in Congress, District 2","HANSEN, JANINE",49
+Precinct 24,"U.S. Representative in Congress, District 2","Spees, Kristen",36
+Precinct 25,Attorney General,"Hansen, Jonathan J",40
+Precinct 25,Attorney General,"Laxalt, Adam Paul",257
+Precinct 25,Attorney General,"Miller, Ross",55
+Precinct 25,Attorney General,None Of These Candidates,15
+Precinct 25,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",330
+Precinct 25,COUNTY CLERK,"FOSMO, CAROL",330
+Precinct 25,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",331
+Precinct 25,County Comm Dist. 4 (CW),"EKLUND, CLIFF",327
+Precinct 25,COUNTY RECORDER,"SMALES, D. MIKE",268
+Precinct 25,COUNTY RECORDER,"SMITH, CHERYL A.",91
+Precinct 25,County Sheriff,"KAHLE, MELINDA ""MINDY""",141
+Precinct 25,County Sheriff,"PITTS, JIM",225
+Precinct 25,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",282
+Precinct 25,COUNTY TREASURER,"JENKINS, KAY DAWN",77
+Precinct 25,DISTRICT ATTORNEY,"TORVINEN, MARK",325
+Precinct 25,ELKO TV Seat B,"GREER, NORY KAY",182
+Precinct 25,ELKO TV Seat B,"JIMENEZ, RICK",143
+Precinct 25,ELKO TV Seat C,"MCLEOD, CHRIS",214
+Precinct 25,ELKO TV Seat C,"WAHRENBROCK, JON A.",109
+Precinct 25,Governor,"Goodman, Robert ""Bob""",46
+Precinct 25,Governor,None Of These Candidates,6
+Precinct 25,Governor,"Sandoval, Brian",281
+Precinct 25,Governor,"VanDerBeek, David Lory",34
+Precinct 25,Lieutenant Governor,"Flores, Lucy",51
+Precinct 25,Lieutenant Governor,"Hutchison, Mark",279
+Precinct 25,Lieutenant Governor,"Little, Mike",32
+Precinct 25,Lieutenant Governor,None Of These Candidates,4
+Precinct 25,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",245
+Precinct 25,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",112
+Precinct 25,Secretary Of State,"Cegavske, Barbara K",276
+Precinct 25,Secretary Of State,"Marshall, Kate",66
+Precinct 25,Secretary Of State,None Of These Candidates,25
+Precinct 25,"State Assembly, District 33","Ellison, John",328
+Precinct 25,State Controller,"Jones, Tom",48
+Precinct 25,State Controller,"Knecht, Ron",257
+Precinct 25,State Controller,"Martin, Andrew",49
+Precinct 25,State Controller,None Of These Candidates,12
+Precinct 25,State Treasurer,"Cave, Kress K",32
+Precinct 25,State Treasurer,None Of These Candidates,12
+Precinct 25,State Treasurer,"Schwartz, Dan",264
+Precinct 25,State Treasurer,"Wallin, Kim",58
+Precinct 25,"Supreme Court Justice, Seat B",None Of These Candidates,81
+Precinct 25,"Supreme Court Justice, Seat B","Pickering, Kristina",269
+Precinct 25,"Supreme Court Justice, Seat D","Gibbons, Mark",287
+Precinct 25,"Supreme Court Justice, Seat D",None Of These Candidates,63
+Precinct 25,"U.S. Representative in Congress, District 2","Amodei, Mark E.",277
+Precinct 25,"U.S. Representative in Congress, District 2","HANSEN, JANINE",44
+Precinct 25,"U.S. Representative in Congress, District 2","Spees, Kristen",45
+Precinct 26,Attorney General,"Hansen, Jonathan J",29
+Precinct 26,Attorney General,"Laxalt, Adam Paul",267
+Precinct 26,Attorney General,"Miller, Ross",63
+Precinct 26,Attorney General,None Of These Candidates,8
+Precinct 26,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",335
+Precinct 26,COUNTY CLERK,"FOSMO, CAROL",335
+Precinct 26,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",334
+Precinct 26,County Comm Dist. 4 (CW),"EKLUND, CLIFF",330
+Precinct 26,COUNTY RECORDER,"SMALES, D. MIKE",306
+Precinct 26,COUNTY RECORDER,"SMITH, CHERYL A.",52
+Precinct 26,County Sheriff,"KAHLE, MELINDA ""MINDY""",104
+Precinct 26,County Sheriff,"PITTS, JIM",254
+Precinct 26,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",318
+Precinct 26,COUNTY TREASURER,"JENKINS, KAY DAWN",35
+Precinct 26,DISTRICT ATTORNEY,"TORVINEN, MARK",321
+Precinct 26,ELKO TV Seat B,"GREER, NORY KAY",139
+Precinct 26,ELKO TV Seat B,"JIMENEZ, RICK",138
+Precinct 26,ELKO TV Seat C,"MCLEOD, CHRIS",141
+Precinct 26,ELKO TV Seat C,"WAHRENBROCK, JON A.",146
+Precinct 26,Governor,"Goodman, Robert ""Bob""",34
+Precinct 26,Governor,None Of These Candidates,7
+Precinct 26,Governor,"Sandoval, Brian",311
+Precinct 26,Governor,"VanDerBeek, David Lory",15
+Precinct 26,Lieutenant Governor,"Flores, Lucy",48
+Precinct 26,Lieutenant Governor,"Hutchison, Mark",288
+Precinct 26,Lieutenant Governor,"Little, Mike",19
+Precinct 26,Lieutenant Governor,None Of These Candidates,10
+Precinct 26,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",281
+Precinct 26,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",64
+Precinct 26,Secretary Of State,"Cegavske, Barbara K",279
+Precinct 26,Secretary Of State,"Marshall, Kate",62
+Precinct 26,Secretary Of State,None Of These Candidates,22
+Precinct 26,"State Assembly, District 33","Ellison, John",317
+Precinct 26,State Controller,"Jones, Tom",22
+Precinct 26,State Controller,"Knecht, Ron",279
+Precinct 26,State Controller,"Martin, Andrew",45
+Precinct 26,State Controller,None Of These Candidates,17
+Precinct 26,State Treasurer,"Cave, Kress K",21
+Precinct 26,State Treasurer,None Of These Candidates,16
+Precinct 26,State Treasurer,"Schwartz, Dan",283
+Precinct 26,State Treasurer,"Wallin, Kim",44
+Precinct 26,"Supreme Court Justice, Seat B",None Of These Candidates,62
+Precinct 26,"Supreme Court Justice, Seat B","Pickering, Kristina",252
+Precinct 26,"Supreme Court Justice, Seat D","Gibbons, Mark",263
+Precinct 26,"Supreme Court Justice, Seat D",None Of These Candidates,55
+Precinct 26,"U.S. Representative in Congress, District 2","Amodei, Mark E.",282
+Precinct 26,"U.S. Representative in Congress, District 2","HANSEN, JANINE",47
+Precinct 26,"U.S. Representative in Congress, District 2","Spees, Kristen",36
+Precinct 27,Attorney General,"Hansen, Jonathan J",23
+Precinct 27,Attorney General,"Laxalt, Adam Paul",151
+Precinct 27,Attorney General,"Miller, Ross",28
+Precinct 27,Attorney General,None Of These Candidates,4
+Precinct 27,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",195
+Precinct 27,COUNTY CLERK,"FOSMO, CAROL",192
+Precinct 27,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",195
+Precinct 27,County Comm Dist. 4 (CW),"EKLUND, CLIFF",187
+Precinct 27,COUNTY RECORDER,"SMALES, D. MIKE",154
+Precinct 27,COUNTY RECORDER,"SMITH, CHERYL A.",42
+Precinct 27,County Sheriff,"KAHLE, MELINDA ""MINDY""",67
+Precinct 27,County Sheriff,"PITTS, JIM",134
+Precinct 27,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",174
+Precinct 27,COUNTY TREASURER,"JENKINS, KAY DAWN",24
+Precinct 27,DISTRICT ATTORNEY,"TORVINEN, MARK",177
+Precinct 27,ELKO TV Seat B,"GREER, NORY KAY",83
+Precinct 27,ELKO TV Seat B,"JIMENEZ, RICK",98
+Precinct 27,ELKO TV Seat C,"MCLEOD, CHRIS",85
+Precinct 27,ELKO TV Seat C,"WAHRENBROCK, JON A.",100
+Precinct 27,Governor,"Goodman, Robert ""Bob""",11
+Precinct 27,Governor,None Of These Candidates,3
+Precinct 27,Governor,"Sandoval, Brian",174
+Precinct 27,Governor,"VanDerBeek, David Lory",18
+Precinct 27,Lieutenant Governor,"Flores, Lucy",23
+Precinct 27,Lieutenant Governor,"Hutchison, Mark",162
+Precinct 27,Lieutenant Governor,"Little, Mike",16
+Precinct 27,Lieutenant Governor,None Of These Candidates,5
+Precinct 27,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",150
+Precinct 27,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",48
+Precinct 27,Secretary Of State,"Cegavske, Barbara K",158
+Precinct 27,Secretary Of State,"Marshall, Kate",34
+Precinct 27,Secretary Of State,None Of These Candidates,13
+Precinct 27,"State Assembly, District 33","Ellison, John",180
+Precinct 27,State Controller,"Jones, Tom",27
+Precinct 27,State Controller,"Knecht, Ron",152
+Precinct 27,State Controller,"Martin, Andrew",19
+Precinct 27,State Controller,None Of These Candidates,6
+Precinct 27,State Treasurer,"Cave, Kress K",23
+Precinct 27,State Treasurer,None Of These Candidates,6
+Precinct 27,State Treasurer,"Schwartz, Dan",151
+Precinct 27,State Treasurer,"Wallin, Kim",26
+Precinct 27,"Supreme Court Justice, Seat B",None Of These Candidates,39
+Precinct 27,"Supreme Court Justice, Seat B","Pickering, Kristina",151
+Precinct 27,"Supreme Court Justice, Seat D","Gibbons, Mark",153
+Precinct 27,"Supreme Court Justice, Seat D",None Of These Candidates,37
+Precinct 27,"U.S. Representative in Congress, District 2","Amodei, Mark E.",157
+Precinct 27,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
+Precinct 27,"U.S. Representative in Congress, District 2","Spees, Kristen",13
+Precinct 28,Attorney General,"Hansen, Jonathan J",6
+Precinct 28,Attorney General,"Laxalt, Adam Paul",33
+Precinct 28,Attorney General,"Miller, Ross",11
+Precinct 28,Attorney General,None Of These Candidates,3
+Precinct 28,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",43
+Precinct 28,COUNTY CLERK,"FOSMO, CAROL",44
+Precinct 28,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",46
+Precinct 28,County Comm Dist. 4 (CW),"EKLUND, CLIFF",45
+Precinct 28,COUNTY RECORDER,"SMALES, D. MIKE",44
+Precinct 28,COUNTY RECORDER,"SMITH, CHERYL A.",7
+Precinct 28,County Sheriff,"KAHLE, MELINDA ""MINDY""",6
+Precinct 28,County Sheriff,"PITTS, JIM",44
+Precinct 28,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",43
+Precinct 28,COUNTY TREASURER,"JENKINS, KAY DAWN",7
+Precinct 28,DISTRICT ATTORNEY,"TORVINEN, MARK",42
+Precinct 28,Governor,"Goodman, Robert ""Bob""",3
+Precinct 28,Governor,None Of These Candidates,2
+Precinct 28,Governor,"Sandoval, Brian",43
+Precinct 28,Governor,"VanDerBeek, David Lory",6
+Precinct 28,Lieutenant Governor,"Flores, Lucy",5
+Precinct 28,Lieutenant Governor,"Hutchison, Mark",41
+Precinct 28,Lieutenant Governor,"Little, Mike",4
+Precinct 28,Lieutenant Governor,None Of These Candidates,4
+Precinct 28,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",39
+Precinct 28,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",7
+Precinct 28,Secretary Of State,"Cegavske, Barbara K",37
+Precinct 28,Secretary Of State,"Marshall, Kate",10
+Precinct 28,Secretary Of State,None Of These Candidates,6
+Precinct 28,"State Assembly, District 33","Ellison, John",45
+Precinct 28,State Controller,"Jones, Tom",7
+Precinct 28,State Controller,"Knecht, Ron",35
+Precinct 28,State Controller,"Martin, Andrew",5
+Precinct 28,State Controller,None Of These Candidates,4
+Precinct 28,State Treasurer,"Cave, Kress K",5
+Precinct 28,State Treasurer,None Of These Candidates,3
+Precinct 28,State Treasurer,"Schwartz, Dan",34
+Precinct 28,State Treasurer,"Wallin, Kim",9
+Precinct 28,"Supreme Court Justice, Seat B",None Of These Candidates,9
+Precinct 28,"Supreme Court Justice, Seat B","Pickering, Kristina",35
+Precinct 28,"Supreme Court Justice, Seat D","Gibbons, Mark",31
+Precinct 28,"Supreme Court Justice, Seat D",None Of These Candidates,11
+Precinct 28,"U.S. Representative in Congress, District 2","Amodei, Mark E.",44
+Precinct 28,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
+Precinct 28,"U.S. Representative in Congress, District 2","Spees, Kristen",3
+Precinct 29,Attorney General,"Hansen, Jonathan J",10
+Precinct 29,Attorney General,"Laxalt, Adam Paul",12
+Precinct 29,Attorney General,"Miller, Ross",32
+Precinct 29,Attorney General,None Of These Candidates,1
+Precinct 29,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",41
+Precinct 29,COUNTY CLERK,"FOSMO, CAROL",45
+Precinct 29,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",41
+Precinct 29,County Comm Dist. 4 (CW),"EKLUND, CLIFF",40
+Precinct 29,COUNTY RECORDER,"SMALES, D. MIKE",23
+Precinct 29,COUNTY RECORDER,"SMITH, CHERYL A.",30
+Precinct 29,County Sheriff,"KAHLE, MELINDA ""MINDY""",36
+Precinct 29,County Sheriff,"PITTS, JIM",15
+Precinct 29,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",24
+Precinct 29,COUNTY TREASURER,"JENKINS, KAY DAWN",28
+Precinct 29,DISTRICT ATTORNEY,"TORVINEN, MARK",43
+Precinct 29,Governor,"Goodman, Robert ""Bob""",27
+Precinct 29,Governor,None Of These Candidates,5
+Precinct 29,Governor,"Sandoval, Brian",20
+Precinct 29,Governor,"VanDerBeek, David Lory",4
+Precinct 29,Lieutenant Governor,"Flores, Lucy",33
+Precinct 29,Lieutenant Governor,"Hutchison, Mark",13
+Precinct 29,Lieutenant Governor,"Little, Mike",9
+Precinct 29,Lieutenant Governor,None Of These Candidates,1
+Precinct 29,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",21
+Precinct 29,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",29
+Precinct 29,Secretary Of State,"Cegavske, Barbara K",11
+Precinct 29,Secretary Of State,"Marshall, Kate",42
+Precinct 29,Secretary Of State,None Of These Candidates,2
+Precinct 29,"State Assembly, District 33","Ellison, John",42
+Precinct 29,State Controller,"Jones, Tom",9
+Precinct 29,State Controller,"Knecht, Ron",10
+Precinct 29,State Controller,"Martin, Andrew",35
+Precinct 29,State Controller,None Of These Candidates,2
+Precinct 29,State Treasurer,"Cave, Kress K",9
+Precinct 29,State Treasurer,None Of These Candidates,1
+Precinct 29,State Treasurer,"Schwartz, Dan",11
+Precinct 29,State Treasurer,"Wallin, Kim",34
+Precinct 29,"Supreme Court Justice, Seat B",None Of These Candidates,8
+Precinct 29,"Supreme Court Justice, Seat B","Pickering, Kristina",42
+Precinct 29,"Supreme Court Justice, Seat D","Gibbons, Mark",41
+Precinct 29,"Supreme Court Justice, Seat D",None Of These Candidates,8
+Precinct 29,"U.S. Representative in Congress, District 2","Amodei, Mark E.",11
+Precinct 29,"U.S. Representative in Congress, District 2","HANSEN, JANINE",9
+Precinct 29,"U.S. Representative in Congress, District 2","Spees, Kristen",37
+Precinct 3,Attorney General,"Hansen, Jonathan J",32
+Precinct 3,Attorney General,"Laxalt, Adam Paul",187
+Precinct 3,Attorney General,"Miller, Ross",93
+Precinct 3,Attorney General,None Of These Candidates,7
+Precinct 3,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",287
+Precinct 3,COUNTY CLERK,"FOSMO, CAROL",284
+Precinct 3,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",289
+Precinct 3,County Comm Dist. 4 (CW),"EKLUND, CLIFF",274
+Precinct 3,COUNTY RECORDER,"SMALES, D. MIKE",264
+Precinct 3,COUNTY RECORDER,"SMITH, CHERYL A.",42
+Precinct 3,County Sheriff,"KAHLE, MELINDA ""MINDY""",96
+Precinct 3,County Sheriff,"PITTS, JIM",218
+Precinct 3,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",258
+Precinct 3,COUNTY TREASURER,"JENKINS, KAY DAWN",41
+Precinct 3,DISTRICT ATTORNEY,"TORVINEN, MARK",272
+Precinct 3,"ELKO Council, 2 Seats","HANCE, BILL",71
+Precinct 3,"ELKO Council, 2 Seats","KEENER, REECE",177
+Precinct 3,"ELKO Council, 2 Seats","OWEN, KIMBERLY",147
+Precinct 3,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",165
+Precinct 3,ELKO TV Seat B,"GREER, NORY KAY",96
+Precinct 3,ELKO TV Seat B,"JIMENEZ, RICK",176
+Precinct 3,ELKO TV Seat C,"MCLEOD, CHRIS",98
+Precinct 3,ELKO TV Seat C,"WAHRENBROCK, JON A.",182
+Precinct 3,Governor,"Goodman, Robert ""Bob""",37
+Precinct 3,Governor,None Of These Candidates,21
+Precinct 3,Governor,"Sandoval, Brian",239
+Precinct 3,Governor,"VanDerBeek, David Lory",21
+Precinct 3,Lieutenant Governor,"Flores, Lucy",68
+Precinct 3,Lieutenant Governor,"Hutchison, Mark",209
+Precinct 3,Lieutenant Governor,"Little, Mike",22
+Precinct 3,Lieutenant Governor,None Of These Candidates,19
+Precinct 3,Mayor Elko,"JOHNSON, CHRIS J.",177
+Precinct 3,Mayor Elko,"MYERS, CHARLIE",136
+Precinct 3,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",229
+Precinct 3,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",67
+Precinct 3,Secretary Of State,"Cegavske, Barbara K",197
+Precinct 3,Secretary Of State,"Marshall, Kate",94
+Precinct 3,Secretary Of State,None Of These Candidates,27
+Precinct 3,"State Assembly, District 33","Ellison, John",273
+Precinct 3,State Controller,"Jones, Tom",22
+Precinct 3,State Controller,"Knecht, Ron",206
+Precinct 3,State Controller,"Martin, Andrew",60
+Precinct 3,State Controller,None Of These Candidates,25
+Precinct 3,State Treasurer,"Cave, Kress K",26
+Precinct 3,State Treasurer,None Of These Candidates,19
+Precinct 3,State Treasurer,"Schwartz, Dan",200
+Precinct 3,State Treasurer,"Wallin, Kim",70
+Precinct 3,"Supreme Court Justice, Seat B",None Of These Candidates,56
+Precinct 3,"Supreme Court Justice, Seat B","Pickering, Kristina",230
+Precinct 3,"Supreme Court Justice, Seat D","Gibbons, Mark",237
+Precinct 3,"Supreme Court Justice, Seat D",None Of These Candidates,49
+Precinct 3,"U.S. Representative in Congress, District 2","Amodei, Mark E.",216
+Precinct 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",44
+Precinct 3,"U.S. Representative in Congress, District 2","Spees, Kristen",51
+Precinct 30,Attorney General,"Hansen, Jonathan J",5
+Precinct 30,Attorney General,"Laxalt, Adam Paul",36
+Precinct 30,Attorney General,"Miller, Ross",3
+Precinct 30,Attorney General,None Of These Candidates,1
+Precinct 30,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",39
+Precinct 30,COUNTY CLERK,"FOSMO, CAROL",39
+Precinct 30,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",38
+Precinct 30,County Comm Dist. 4 (CW),"EKLUND, CLIFF",35
+Precinct 30,COUNTY RECORDER,"SMALES, D. MIKE",37
+Precinct 30,COUNTY RECORDER,"SMITH, CHERYL A.",7
+Precinct 30,County Sheriff,"KAHLE, MELINDA ""MINDY""",18
+Precinct 30,County Sheriff,"PITTS, JIM",22
+Precinct 30,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",39
+Precinct 30,COUNTY TREASURER,"JENKINS, KAY DAWN",6
+Precinct 30,DISTRICT ATTORNEY,"TORVINEN, MARK",34
+Precinct 30,Governor,"Goodman, Robert ""Bob""",1
+Precinct 30,Governor,None Of These Candidates,3
+Precinct 30,Governor,"Sandoval, Brian",35
+Precinct 30,Governor,"VanDerBeek, David Lory",7
+Precinct 30,Lieutenant Governor,"Flores, Lucy",4
+Precinct 30,Lieutenant Governor,"Hutchison, Mark",36
+Precinct 30,Lieutenant Governor,"Little, Mike",2
+Precinct 30,Lieutenant Governor,None Of These Candidates,2
+Precinct 30,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",29
+Precinct 30,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",10
+Precinct 30,Secretary Of State,"Cegavske, Barbara K",34
+Precinct 30,Secretary Of State,"Marshall, Kate",5
+Precinct 30,Secretary Of State,None Of These Candidates,2
+Precinct 30,"State Assembly, District 33","Ellison, John",38
+Precinct 30,State Controller,"Jones, Tom",4
+Precinct 30,State Controller,"Knecht, Ron",30
+Precinct 30,State Controller,"Martin, Andrew",3
+Precinct 30,State Controller,None Of These Candidates,4
+Precinct 30,State Treasurer,"Cave, Kress K",5
+Precinct 30,State Treasurer,None Of These Candidates,1
+Precinct 30,State Treasurer,"Schwartz, Dan",33
+Precinct 30,State Treasurer,"Wallin, Kim",2
+Precinct 30,"Supreme Court Justice, Seat B",None Of These Candidates,7
+Precinct 30,"Supreme Court Justice, Seat B","Pickering, Kristina",27
+Precinct 30,"Supreme Court Justice, Seat D","Gibbons, Mark",27
+Precinct 30,"Supreme Court Justice, Seat D",None Of These Candidates,6
+Precinct 30,"U.S. Representative in Congress, District 2","Amodei, Mark E.",37
+Precinct 30,"U.S. Representative in Congress, District 2","HANSEN, JANINE",6
+Precinct 30,"U.S. Representative in Congress, District 2","Spees, Kristen",2
+Precinct 31,Attorney General,"Hansen, Jonathan J",3
+Precinct 31,Attorney General,"Laxalt, Adam Paul",18
+Precinct 31,Attorney General,"Miller, Ross",6
+Precinct 31,Attorney General,None Of These Candidates,2
+Precinct 31,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",23
+Precinct 31,COUNTY CLERK,"FOSMO, CAROL",24
+Precinct 31,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",22
+Precinct 31,County Comm Dist. 4 (CW),"EKLUND, CLIFF",22
+Precinct 31,COUNTY RECORDER,"SMALES, D. MIKE",20
+Precinct 31,COUNTY RECORDER,"SMITH, CHERYL A.",5
+Precinct 31,County Sheriff,"KAHLE, MELINDA ""MINDY""",10
+Precinct 31,County Sheriff,"PITTS, JIM",17
+Precinct 31,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",22
+Precinct 31,COUNTY TREASURER,"JENKINS, KAY DAWN",4
+Precinct 31,DISTRICT ATTORNEY,"TORVINEN, MARK",20
+Precinct 31,Governor,"Goodman, Robert ""Bob""",4
+Precinct 31,Governor,None Of These Candidates,0
+Precinct 31,Governor,"Sandoval, Brian",23
+Precinct 31,Governor,"VanDerBeek, David Lory",2
+Precinct 31,Lieutenant Governor,"Flores, Lucy",6
+Precinct 31,Lieutenant Governor,"Hutchison, Mark",18
+Precinct 31,Lieutenant Governor,"Little, Mike",2
+Precinct 31,Lieutenant Governor,None Of These Candidates,3
+Precinct 31,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",19
+Precinct 31,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",6
+Precinct 31,Secretary Of State,"Cegavske, Barbara K",21
+Precinct 31,Secretary Of State,"Marshall, Kate",4
+Precinct 31,Secretary Of State,None Of These Candidates,2
+Precinct 31,"State Assembly, District 33","Ellison, John",23
+Precinct 31,State Controller,"Jones, Tom",4
+Precinct 31,State Controller,"Knecht, Ron",16
+Precinct 31,State Controller,"Martin, Andrew",3
+Precinct 31,State Controller,None Of These Candidates,3
+Precinct 31,State Treasurer,"Cave, Kress K",2
+Precinct 31,State Treasurer,None Of These Candidates,3
+Precinct 31,State Treasurer,"Schwartz, Dan",18
+Precinct 31,State Treasurer,"Wallin, Kim",5
+Precinct 31,"Supreme Court Justice, Seat B",None Of These Candidates,6
+Precinct 31,"Supreme Court Justice, Seat B","Pickering, Kristina",15
+Precinct 31,"Supreme Court Justice, Seat D","Gibbons, Mark",15
+Precinct 31,"Supreme Court Justice, Seat D",None Of These Candidates,6
+Precinct 31,"U.S. Representative in Congress, District 2","Amodei, Mark E.",20
+Precinct 31,"U.S. Representative in Congress, District 2","HANSEN, JANINE",4
+Precinct 31,"U.S. Representative in Congress, District 2","Spees, Kristen",3
+Precinct 32,Attorney General,"Hansen, Jonathan J",61
+Precinct 32,Attorney General,"Laxalt, Adam Paul",232
+Precinct 32,Attorney General,"Miller, Ross",44
+Precinct 32,Attorney General,None Of These Candidates,5
+Precinct 32,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",319
+Precinct 32,COUNTY CLERK,"FOSMO, CAROL",320
+Precinct 32,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",316
+Precinct 32,County Comm Dist. 4 (CW),"EKLUND, CLIFF",322
+Precinct 32,COUNTY RECORDER,"SMALES, D. MIKE",252
+Precinct 32,COUNTY RECORDER,"SMITH, CHERYL A.",86
+Precinct 32,County Sheriff,"KAHLE, MELINDA ""MINDY""",139
+Precinct 32,County Sheriff,"PITTS, JIM",195
+Precinct 32,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",256
+Precinct 32,COUNTY TREASURER,"JENKINS, KAY DAWN",81
+Precinct 32,DISTRICT ATTORNEY,"TORVINEN, MARK",309
+Precinct 32,ELKO TV Seat B,"GREER, NORY KAY",169
+Precinct 32,ELKO TV Seat B,"JIMENEZ, RICK",136
+Precinct 32,ELKO TV Seat C,"MCLEOD, CHRIS",185
+Precinct 32,ELKO TV Seat C,"WAHRENBROCK, JON A.",119
+Precinct 32,Governor,"Goodman, Robert ""Bob""",20
+Precinct 32,Governor,None Of These Candidates,8
+Precinct 32,Governor,"Sandoval, Brian",260
+Precinct 32,Governor,"VanDerBeek, David Lory",53
+Precinct 32,Lieutenant Governor,"Flores, Lucy",27
+Precinct 32,Lieutenant Governor,"Hutchison, Mark",253
+Precinct 32,Lieutenant Governor,"Little, Mike",53
+Precinct 32,Lieutenant Governor,None Of These Candidates,8
+Precinct 32,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",243
+Precinct 32,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",95
+Precinct 32,Secretary Of State,"Cegavske, Barbara K",268
+Precinct 32,Secretary Of State,"Marshall, Kate",49
+Precinct 32,Secretary Of State,None Of These Candidates,24
+Precinct 32,"State Assembly, District 33","Ellison, John",322
+Precinct 32,State Controller,"Jones, Tom",68
+Precinct 32,State Controller,"Knecht, Ron",231
+Precinct 32,State Controller,"Martin, Andrew",30
+Precinct 32,State Controller,None Of These Candidates,13
+Precinct 32,State Treasurer,"Cave, Kress K",65
+Precinct 32,State Treasurer,None Of These Candidates,11
+Precinct 32,State Treasurer,"Schwartz, Dan",233
+Precinct 32,State Treasurer,"Wallin, Kim",31
+Precinct 32,"Supreme Court Justice, Seat B",None Of These Candidates,76
+Precinct 32,"Supreme Court Justice, Seat B","Pickering, Kristina",247
+Precinct 32,"Supreme Court Justice, Seat D","Gibbons, Mark",269
+Precinct 32,"Supreme Court Justice, Seat D",None Of These Candidates,58
+Precinct 32,"U.S. Representative in Congress, District 2","Amodei, Mark E.",242
+Precinct 32,"U.S. Representative in Congress, District 2","HANSEN, JANINE",77
+Precinct 32,"U.S. Representative in Congress, District 2","Spees, Kristen",23
+Precinct 33,Attorney General,"Hansen, Jonathan J",10
+Precinct 33,Attorney General,"Laxalt, Adam Paul",48
+Precinct 33,Attorney General,"Miller, Ross",18
+Precinct 33,Attorney General,None Of These Candidates,0
+Precinct 33,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",68
+Precinct 33,COUNTY CLERK,"FOSMO, CAROL",66
+Precinct 33,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",66
+Precinct 33,County Comm Dist. 4 (CW),"EKLUND, CLIFF",64
+Precinct 33,COUNTY RECORDER,"SMALES, D. MIKE",51
+Precinct 33,COUNTY RECORDER,"SMITH, CHERYL A.",18
+Precinct 33,County Sheriff,"KAHLE, MELINDA ""MINDY""",22
+Precinct 33,County Sheriff,"PITTS, JIM",48
+Precinct 33,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",59
+Precinct 33,COUNTY TREASURER,"JENKINS, KAY DAWN",12
+Precinct 33,DISTRICT ATTORNEY,"TORVINEN, MARK",63
+Precinct 33,ELKO TV Seat B,"GREER, NORY KAY",27
+Precinct 33,ELKO TV Seat B,"JIMENEZ, RICK",17
+Precinct 33,ELKO TV Seat C,"MCLEOD, CHRIS",28
+Precinct 33,ELKO TV Seat C,"WAHRENBROCK, JON A.",19
+Precinct 33,Governor,"Goodman, Robert ""Bob""",8
+Precinct 33,Governor,None Of These Candidates,2
+Precinct 33,Governor,"Sandoval, Brian",58
+Precinct 33,Governor,"VanDerBeek, David Lory",9
+Precinct 33,Lieutenant Governor,"Flores, Lucy",10
+Precinct 33,Lieutenant Governor,"Hutchison, Mark",57
+Precinct 33,Lieutenant Governor,"Little, Mike",10
+Precinct 33,Lieutenant Governor,None Of These Candidates,0
+Precinct 33,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",47
+Precinct 33,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",21
+Precinct 33,Secretary Of State,"Cegavske, Barbara K",57
+Precinct 33,Secretary Of State,"Marshall, Kate",16
+Precinct 33,Secretary Of State,None Of These Candidates,4
+Precinct 33,"State Assembly, District 33","Ellison, John",67
+Precinct 33,State Controller,"Jones, Tom",13
+Precinct 33,State Controller,"Knecht, Ron",48
+Precinct 33,State Controller,"Martin, Andrew",11
+Precinct 33,State Controller,None Of These Candidates,1
+Precinct 33,State Treasurer,"Cave, Kress K",12
+Precinct 33,State Treasurer,None Of These Candidates,0
+Precinct 33,State Treasurer,"Schwartz, Dan",48
+Precinct 33,State Treasurer,"Wallin, Kim",13
+Precinct 33,"Supreme Court Justice, Seat B",None Of These Candidates,13
+Precinct 33,"Supreme Court Justice, Seat B","Pickering, Kristina",49
+Precinct 33,"Supreme Court Justice, Seat D","Gibbons, Mark",46
+Precinct 33,"Supreme Court Justice, Seat D",None Of These Candidates,16
+Precinct 33,"U.S. Representative in Congress, District 2","Amodei, Mark E.",54
+Precinct 33,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
+Precinct 33,"U.S. Representative in Congress, District 2","Spees, Kristen",7
+Precinct 34,Attorney General,"Hansen, Jonathan J",13
+Precinct 34,Attorney General,"Laxalt, Adam Paul",68
+Precinct 34,Attorney General,"Miller, Ross",13
+Precinct 34,Attorney General,None Of These Candidates,2
+Precinct 34,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",87
+Precinct 34,COUNTY CLERK,"FOSMO, CAROL",83
+Precinct 34,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",81
+Precinct 34,County Comm Dist. 4 (CW),"EKLUND, CLIFF",76
+Precinct 34,COUNTY RECORDER,"SMALES, D. MIKE",70
+Precinct 34,COUNTY RECORDER,"SMITH, CHERYL A.",17
+Precinct 34,County Sheriff,"KAHLE, MELINDA ""MINDY""",30
+Precinct 34,County Sheriff,"PITTS, JIM",62
+Precinct 34,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",74
+Precinct 34,COUNTY TREASURER,"JENKINS, KAY DAWN",15
+Precinct 34,DISTRICT ATTORNEY,"TORVINEN, MARK",77
+Precinct 34,ELKO TV Seat B,"GREER, NORY KAY",28
+Precinct 34,ELKO TV Seat B,"JIMENEZ, RICK",21
+Precinct 34,ELKO TV Seat C,"MCLEOD, CHRIS",27
+Precinct 34,ELKO TV Seat C,"WAHRENBROCK, JON A.",26
+Precinct 34,Governor,"Goodman, Robert ""Bob""",9
+Precinct 34,Governor,None Of These Candidates,5
+Precinct 34,Governor,"Sandoval, Brian",77
+Precinct 34,Governor,"VanDerBeek, David Lory",4
+Precinct 34,Lieutenant Governor,"Flores, Lucy",10
+Precinct 34,Lieutenant Governor,"Hutchison, Mark",75
+Precinct 34,Lieutenant Governor,"Little, Mike",4
+Precinct 34,Lieutenant Governor,None Of These Candidates,6
+Precinct 34,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",57
+Precinct 34,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",20
+Precinct 34,Secretary Of State,"Cegavske, Barbara K",69
+Precinct 34,Secretary Of State,"Marshall, Kate",15
+Precinct 34,Secretary Of State,None Of These Candidates,8
+Precinct 34,"State Assembly, District 33","Ellison, John",81
+Precinct 34,State Controller,"Jones, Tom",10
+Precinct 34,State Controller,"Knecht, Ron",61
+Precinct 34,State Controller,"Martin, Andrew",11
+Precinct 34,State Controller,None Of These Candidates,4
+Precinct 34,State Treasurer,"Cave, Kress K",9
+Precinct 34,State Treasurer,None Of These Candidates,4
+Precinct 34,State Treasurer,"Schwartz, Dan",65
+Precinct 34,State Treasurer,"Wallin, Kim",11
+Precinct 34,"Supreme Court Justice, Seat B",None Of These Candidates,13
+Precinct 36,Attorney General,"Hansen, Jonathan J",9
+Precinct 36,Attorney General,"Laxalt, Adam Paul",52
+Precinct 36,Attorney General,"Miller, Ross",22
+Precinct 36,Attorney General,None Of These Candidates,3
+Precinct 36,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",81
+Precinct 36,COUNTY CLERK,"FOSMO, CAROL",76
+Precinct 36,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",76
+Precinct 36,County Comm Dist. 4 (CW),"EKLUND, CLIFF",73
+Precinct 36,COUNTY RECORDER,"SMALES, D. MIKE",55
+Precinct 36,COUNTY RECORDER,"SMITH, CHERYL A.",26
+Precinct 36,County Sheriff,"KAHLE, MELINDA ""MINDY""",24
+Precinct 36,County Sheriff,"PITTS, JIM",62
+Precinct 36,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",69
+Precinct 36,COUNTY TREASURER,"JENKINS, KAY DAWN",12
+Precinct 36,DISTRICT ATTORNEY,"TORVINEN, MARK",78
+Precinct 36,Governor,"Goodman, Robert ""Bob""",12
+Precinct 36,Governor,None Of These Candidates,3
+Precinct 36,Governor,"Sandoval, Brian",64
+Precinct 36,Governor,"VanDerBeek, David Lory",5
+Precinct 36,Lieutenant Governor,"Flores, Lucy",18
+Precinct 36,Lieutenant Governor,"Hutchison, Mark",56
+Precinct 36,Lieutenant Governor,"Little, Mike",10
+Precinct 36,Lieutenant Governor,None Of These Candidates,2
+Precinct 36,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",58
+Precinct 36,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",24
+Precinct 36,Secretary Of State,"Cegavske, Barbara K",60
+Precinct 36,Secretary Of State,"Marshall, Kate",19
+Precinct 36,Secretary Of State,None Of These Candidates,6
+Precinct 36,"State Assembly, District 33","Ellison, John",79
+Precinct 36,State Controller,"Jones, Tom",11
+Precinct 36,State Controller,"Knecht, Ron",48
+Precinct 36,State Controller,"Martin, Andrew",19
+Precinct 36,State Controller,None Of These Candidates,7
+Precinct 36,State Treasurer,"Cave, Kress K",10
+Precinct 36,State Treasurer,None Of These Candidates,5
+Precinct 36,State Treasurer,"Schwartz, Dan",51
+Precinct 36,State Treasurer,"Wallin, Kim",18
+Precinct 36,"Supreme Court Justice, Seat B",None Of These Candidates,10
+Precinct 36,"Supreme Court Justice, Seat B","Pickering, Kristina",67
+Precinct 36,"Supreme Court Justice, Seat D","Gibbons, Mark",69
+Precinct 36,"Supreme Court Justice, Seat D",None Of These Candidates,10
+Precinct 36,"U.S. Representative in Congress, District 2","Amodei, Mark E.",58
+Precinct 36,"U.S. Representative in Congress, District 2","HANSEN, JANINE",11
+Precinct 36,"U.S. Representative in Congress, District 2","Spees, Kristen",15
+Precinct 37,Attorney General,"Hansen, Jonathan J",12
+Precinct 37,Attorney General,"Laxalt, Adam Paul",31
+Precinct 37,Attorney General,"Miller, Ross",10
+Precinct 37,Attorney General,None Of These Candidates,3
+Precinct 37,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",49
+Precinct 37,COUNTY CLERK,"FOSMO, CAROL",48
+Precinct 37,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",45
+Precinct 37,County Comm Dist. 4 (CW),"EKLUND, CLIFF",48
+Precinct 37,COUNTY RECORDER,"SMALES, D. MIKE",35
+Precinct 37,COUNTY RECORDER,"SMITH, CHERYL A.",14
+Precinct 37,County Sheriff,"KAHLE, MELINDA ""MINDY""",22
+Precinct 37,County Sheriff,"PITTS, JIM",30
+Precinct 37,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",33
+Precinct 37,COUNTY TREASURER,"JENKINS, KAY DAWN",16
+Precinct 37,DISTRICT ATTORNEY,"TORVINEN, MARK",46
+Precinct 37,Governor,"Goodman, Robert ""Bob""",9
+Precinct 37,Governor,None Of These Candidates,3
+Precinct 37,Governor,"Sandoval, Brian",39
+Precinct 37,Governor,"VanDerBeek, David Lory",5
+Precinct 37,Lieutenant Governor,"Flores, Lucy",8
+Precinct 37,Lieutenant Governor,"Hutchison, Mark",35
+Precinct 37,Lieutenant Governor,"Little, Mike",10
+Precinct 37,Lieutenant Governor,None Of These Candidates,3
+Precinct 37,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",36
+Precinct 37,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",14
+Precinct 37,Secretary Of State,"Cegavske, Barbara K",37
+Precinct 37,Secretary Of State,"Marshall, Kate",14
+Precinct 37,Secretary Of State,None Of These Candidates,4
+Precinct 37,"State Assembly, District 33","Ellison, John",48
+Precinct 37,State Controller,"Jones, Tom",13
+Precinct 37,State Controller,"Knecht, Ron",31
+Precinct 37,State Controller,"Martin, Andrew",9
+Precinct 37,State Controller,None Of These Candidates,3
+Precinct 37,State Treasurer,"Cave, Kress K",11
+Precinct 37,State Treasurer,None Of These Candidates,3
+Precinct 37,State Treasurer,"Schwartz, Dan",28
+Precinct 37,State Treasurer,"Wallin, Kim",13
+Precinct 37,"Supreme Court Justice, Seat B",None Of These Candidates,12
+Precinct 37,"Supreme Court Justice, Seat B","Pickering, Kristina",39
+Precinct 37,"Supreme Court Justice, Seat D","Gibbons, Mark",43
+Precinct 37,"Supreme Court Justice, Seat D",None Of These Candidates,8
+Precinct 37,"U.S. Representative in Congress, District 2","Amodei, Mark E.",30
+Precinct 37,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
+Precinct 37,"U.S. Representative in Congress, District 2","Spees, Kristen",10
+Precinct 38,Attorney General,"Hansen, Jonathan J",11
+Precinct 38,Attorney General,"Laxalt, Adam Paul",19
+Precinct 38,Attorney General,"Miller, Ross",26
+Precinct 38,Attorney General,None Of These Candidates,4
+Precinct 38,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",49
+Precinct 38,COUNTY CLERK,"FOSMO, CAROL",51
+Precinct 38,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",49
+Precinct 38,County Comm Dist. 4 (CW),"EKLUND, CLIFF",46
+Precinct 38,COUNTY RECORDER,"SMALES, D. MIKE",27
+Precinct 38,COUNTY RECORDER,"SMITH, CHERYL A.",29
+Precinct 38,County Sheriff,"KAHLE, MELINDA ""MINDY""",32
+Precinct 38,County Sheriff,"PITTS, JIM",24
+Precinct 38,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",28
+Precinct 38,COUNTY TREASURER,"JENKINS, KAY DAWN",28
+Precinct 38,DISTRICT ATTORNEY,"TORVINEN, MARK",46
+Precinct 38,Governor,"Goodman, Robert ""Bob""",26
+Precinct 38,Governor,None Of These Candidates,2
+Precinct 38,Governor,"Sandoval, Brian",23
+Precinct 38,Governor,"VanDerBeek, David Lory",9
+Precinct 38,Lieutenant Governor,"Flores, Lucy",26
+Precinct 38,Lieutenant Governor,"Hutchison, Mark",20
+Precinct 38,Lieutenant Governor,"Little, Mike",12
+Precinct 38,Lieutenant Governor,None Of These Candidates,2
+Precinct 38,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",27
+Precinct 38,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",29
+Precinct 38,Secretary Of State,"Cegavske, Barbara K",23
+Precinct 38,Secretary Of State,"Marshall, Kate",29
+Precinct 38,Secretary Of State,None Of These Candidates,7
+Precinct 38,"State Assembly, District 33","Ellison, John",50
+Precinct 38,State Controller,"Jones, Tom",12
+Precinct 38,State Controller,"Knecht, Ron",18
+Precinct 38,State Controller,"Martin, Andrew",26
+Precinct 38,State Controller,None Of These Candidates,2
+Precinct 38,State Treasurer,"Cave, Kress K",14
+Precinct 38,State Treasurer,None Of These Candidates,1
+Precinct 38,State Treasurer,"Schwartz, Dan",18
+Precinct 38,State Treasurer,"Wallin, Kim",27
+Precinct 38,"Supreme Court Justice, Seat B",None Of These Candidates,14
+Precinct 38,"Supreme Court Justice, Seat B","Pickering, Kristina",42
+Precinct 38,"Supreme Court Justice, Seat D","Gibbons, Mark",46
+Precinct 38,"Supreme Court Justice, Seat D",None Of These Candidates,10
+Precinct 38,"U.S. Representative in Congress, District 2","Amodei, Mark E.",21
+Precinct 38,"U.S. Representative in Congress, District 2","HANSEN, JANINE",14
+Precinct 38,"U.S. Representative in Congress, District 2","Spees, Kristen",24
+Precinct 39,Attorney General,"Hansen, Jonathan J",19
+Precinct 39,Attorney General,"Laxalt, Adam Paul",30
+Precinct 39,Attorney General,"Miller, Ross",15
+Precinct 39,Attorney General,None Of These Candidates,0
+Precinct 39,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",55
+Precinct 39,COUNTY CLERK,"FOSMO, CAROL",56
+Precinct 39,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",56
+Precinct 39,County Comm Dist. 4 (CW),"EKLUND, CLIFF",53
+Precinct 39,COUNTY RECORDER,"SMALES, D. MIKE",37
+Precinct 39,COUNTY RECORDER,"SMITH, CHERYL A.",23
+Precinct 39,County Sheriff,"KAHLE, MELINDA ""MINDY""",33
+Precinct 39,County Sheriff,"PITTS, JIM",26
+Precinct 39,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",39
+Precinct 39,COUNTY TREASURER,"JENKINS, KAY DAWN",23
+Precinct 39,DISTRICT ATTORNEY,"TORVINEN, MARK",54
+Precinct 39,Governor,"Goodman, Robert ""Bob""",10
+Precinct 39,Governor,None Of These Candidates,1
+Precinct 39,Governor,"Sandoval, Brian",37
+Precinct 39,Governor,"VanDerBeek, David Lory",15
+Precinct 39,Lieutenant Governor,"Flores, Lucy",14
+Precinct 39,Lieutenant Governor,"Hutchison, Mark",33
+Precinct 39,Lieutenant Governor,"Little, Mike",15
+Precinct 39,Lieutenant Governor,None Of These Candidates,2
+Precinct 39,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",35
+Precinct 39,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",28
+Precinct 39,Secretary Of State,"Cegavske, Barbara K",41
+Precinct 39,Secretary Of State,"Marshall, Kate",15
+Precinct 39,Secretary Of State,None Of These Candidates,7
+Precinct 39,"State Assembly, District 33","Ellison, John",54
+Precinct 39,State Controller,"Jones, Tom",21
+Precinct 39,State Controller,"Knecht, Ron",28
+Precinct 39,State Controller,"Martin, Andrew",11
+Precinct 39,State Controller,None Of These Candidates,1
+Precinct 39,State Treasurer,"Cave, Kress K",18
+Precinct 39,State Treasurer,None Of These Candidates,1
+Precinct 39,State Treasurer,"Schwartz, Dan",32
+Precinct 39,State Treasurer,"Wallin, Kim",12
+Precinct 39,"Supreme Court Justice, Seat B",None Of These Candidates,18
+Precinct 39,"Supreme Court Justice, Seat B","Pickering, Kristina",39
+Precinct 39,"Supreme Court Justice, Seat D","Gibbons, Mark",40
+Precinct 39,"Supreme Court Justice, Seat D",None Of These Candidates,17
+Precinct 39,"U.S. Representative in Congress, District 2","Amodei, Mark E.",29
+Precinct 39,"U.S. Representative in Congress, District 2","HANSEN, JANINE",23
+Precinct 39,"U.S. Representative in Congress, District 2","Spees, Kristen",10
+Precinct 4,Attorney General,"Hansen, Jonathan J",31
+Precinct 4,Attorney General,"Laxalt, Adam Paul",175
+Precinct 4,Attorney General,"Miller, Ross",85
+Precinct 4,Attorney General,None Of These Candidates,6
+Precinct 4,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",265
+Precinct 4,COUNTY CLERK,"FOSMO, CAROL",260
+Precinct 4,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",266
+Precinct 4,County Comm Dist. 4 (CW),"EKLUND, CLIFF",251
+Precinct 4,COUNTY RECORDER,"SMALES, D. MIKE",228
+Precinct 4,COUNTY RECORDER,"SMITH, CHERYL A.",60
+Precinct 4,County Sheriff,"KAHLE, MELINDA ""MINDY""",103
+Precinct 4,County Sheriff,"PITTS, JIM",190
+Precinct 4,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",224
+Precinct 4,COUNTY TREASURER,"JENKINS, KAY DAWN",61
+Precinct 4,DISTRICT ATTORNEY,"TORVINEN, MARK",249
+Precinct 4,"ELKO Council, 2 Seats","HANCE, BILL",89
+Precinct 4,"ELKO Council, 2 Seats","KEENER, REECE",135
+Precinct 4,"ELKO Council, 2 Seats","OWEN, KIMBERLY",124
+Precinct 4,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",151
+Precinct 4,ELKO TV Seat B,"GREER, NORY KAY",101
+Precinct 4,ELKO TV Seat B,"JIMENEZ, RICK",165
+Precinct 4,ELKO TV Seat C,"MCLEOD, CHRIS",119
+Precinct 4,ELKO TV Seat C,"WAHRENBROCK, JON A.",149
+Precinct 4,Governor,"Goodman, Robert ""Bob""",44
+Precinct 4,Governor,None Of These Candidates,16
+Precinct 4,Governor,"Sandoval, Brian",227
+Precinct 4,Governor,"VanDerBeek, David Lory",14
+Precinct 4,Lieutenant Governor,"Flores, Lucy",67
+Precinct 4,Lieutenant Governor,"Hutchison, Mark",193
+Precinct 4,Lieutenant Governor,"Little, Mike",25
+Precinct 4,Lieutenant Governor,None Of These Candidates,13
+Precinct 4,Mayor Elko,"JOHNSON, CHRIS J.",176
+Precinct 4,Mayor Elko,"MYERS, CHARLIE",114
+Precinct 4,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",188
+Precinct 4,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",93
+Precinct 4,Secretary Of State,"Cegavske, Barbara K",172
+Precinct 4,Secretary Of State,"Marshall, Kate",101
+Precinct 4,Secretary Of State,None Of These Candidates,23
+Precinct 4,"State Assembly, District 33","Ellison, John",246
+Precinct 4,State Controller,"Jones, Tom",39
+Precinct 4,State Controller,"Knecht, Ron",173
+Precinct 4,State Controller,"Martin, Andrew",56
+Precinct 4,State Controller,None Of These Candidates,28
+Precinct 4,State Treasurer,"Cave, Kress K",28
+Precinct 4,State Treasurer,None Of These Candidates,18
+Precinct 4,State Treasurer,"Schwartz, Dan",174
+Precinct 4,State Treasurer,"Wallin, Kim",75
+Precinct 4,"Supreme Court Justice, Seat B",None Of These Candidates,59
+Precinct 4,"Supreme Court Justice, Seat B","Pickering, Kristina",213
+Precinct 4,"Supreme Court Justice, Seat D","Gibbons, Mark",213
+Precinct 4,"Supreme Court Justice, Seat D",None Of These Candidates,59
+Precinct 4,"U.S. Representative in Congress, District 2","Amodei, Mark E.",201
+Precinct 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",40
+Precinct 4,"U.S. Representative in Congress, District 2","Spees, Kristen",57
+Precinct 40,Attorney General,"Hansen, Jonathan J",39
+Precinct 40,Attorney General,"Laxalt, Adam Paul",416
+Precinct 40,Attorney General,"Miller, Ross",90
+Precinct 40,Attorney General,None Of These Candidates,10
+Precinct 40,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",515
+Precinct 40,COUNTY CLERK,"FOSMO, CAROL",512
+Precinct 40,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",507
+Precinct 40,County Comm Dist. 4 (CW),"EKLUND, CLIFF",503
+Precinct 40,COUNTY RECORDER,"SMALES, D. MIKE",448
+Precinct 40,COUNTY RECORDER,"SMITH, CHERYL A.",91
+Precinct 40,County Sheriff,"KAHLE, MELINDA ""MINDY""",169
+Precinct 40,County Sheriff,"PITTS, JIM",380
+Precinct 40,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",476
+Precinct 40,COUNTY TREASURER,"JENKINS, KAY DAWN",58
+Precinct 40,DISTRICT ATTORNEY,"TORVINEN, MARK",490
+Precinct 40,ELKO TV Seat B,"GREER, NORY KAY",252
+Precinct 40,ELKO TV Seat B,"JIMENEZ, RICK",198
+Precinct 40,ELKO TV Seat C,"MCLEOD, CHRIS",285
+Precinct 40,ELKO TV Seat C,"WAHRENBROCK, JON A.",178
+Precinct 40,Governor,"Goodman, Robert ""Bob""",52
+Precinct 40,Governor,None Of These Candidates,9
+Precinct 40,Governor,"Sandoval, Brian",468
+Precinct 40,Governor,"VanDerBeek, David Lory",28
+Precinct 40,Lieutenant Governor,"Flores, Lucy",70
+Precinct 40,Lieutenant Governor,"Hutchison, Mark",443
+Precinct 40,Lieutenant Governor,"Little, Mike",34
+Precinct 40,Lieutenant Governor,None Of These Candidates,7
+Precinct 40,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",416
+Precinct 40,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",110
+Precinct 40,Secretary Of State,"Cegavske, Barbara K",436
+Precinct 40,Secretary Of State,"Marshall, Kate",98
+Precinct 40,Secretary Of State,None Of These Candidates,18
+Precinct 40,"State Assembly, District 33","Ellison, John",511
+Precinct 40,State Controller,"Jones, Tom",51
+Precinct 40,State Controller,"Knecht, Ron",411
+Precinct 40,State Controller,"Martin, Andrew",70
+Precinct 40,State Controller,None Of These Candidates,20
+Precinct 40,State Treasurer,"Cave, Kress K",34
+Precinct 40,State Treasurer,None Of These Candidates,12
+Precinct 40,State Treasurer,"Schwartz, Dan",418
+Precinct 40,State Treasurer,"Wallin, Kim",86
+Precinct 40,"Supreme Court Justice, Seat B",None Of These Candidates,97
+Precinct 40,"Supreme Court Justice, Seat B","Pickering, Kristina",416
+Precinct 40,"Supreme Court Justice, Seat D","Gibbons, Mark",425
+Precinct 40,"Supreme Court Justice, Seat D",None Of These Candidates,88
+Precinct 40,"U.S. Representative in Congress, District 2","Amodei, Mark E.",432
+Precinct 40,"U.S. Representative in Congress, District 2","HANSEN, JANINE",58
+Precinct 40,"U.S. Representative in Congress, District 2","Spees, Kristen",67
+Precinct 41,Attorney General,"Hansen, Jonathan J",52
+Precinct 41,Attorney General,"Laxalt, Adam Paul",348
+Precinct 41,Attorney General,"Miller, Ross",100
+Precinct 41,Attorney General,None Of These Candidates,15
+Precinct 41,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",476
+Precinct 41,COUNTY CLERK,"FOSMO, CAROL",466
+Precinct 41,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",475
+Precinct 41,County Comm Dist. 4 (CW),"EKLUND, CLIFF",462
+Precinct 41,COUNTY RECORDER,"SMALES, D. MIKE",385
+Precinct 41,COUNTY RECORDER,"SMITH, CHERYL A.",109
+Precinct 41,County Sheriff,"KAHLE, MELINDA ""MINDY""",160
+Precinct 41,County Sheriff,"PITTS, JIM",337
+Precinct 41,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",413
+Precinct 41,COUNTY TREASURER,"JENKINS, KAY DAWN",70
+Precinct 41,DISTRICT ATTORNEY,"TORVINEN, MARK",456
+Precinct 41,ELKO TV Seat B,"GREER, NORY KAY",202
+Precinct 41,ELKO TV Seat B,"JIMENEZ, RICK",212
+Precinct 41,ELKO TV Seat C,"MCLEOD, CHRIS",236
+Precinct 41,ELKO TV Seat C,"WAHRENBROCK, JON A.",185
+Precinct 41,Governor,"Goodman, Robert ""Bob""",41
+Precinct 41,Governor,None Of These Candidates,13
+Precinct 41,Governor,"Sandoval, Brian",427
+Precinct 41,Governor,"VanDerBeek, David Lory",34
+Precinct 41,Lieutenant Governor,"Flores, Lucy",69
+Precinct 41,Lieutenant Governor,"Hutchison, Mark",398
+Precinct 41,Lieutenant Governor,"Little, Mike",40
+Precinct 41,Lieutenant Governor,None Of These Candidates,9
+Precinct 41,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",379
+Precinct 41,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",107
+Precinct 41,Secretary Of State,"Cegavske, Barbara K",386
+Precinct 41,Secretary Of State,"Marshall, Kate",97
+Precinct 41,Secretary Of State,None Of These Candidates,27
+Precinct 41,"State Assembly, District 33","Ellison, John",465
+Precinct 41,State Controller,"Jones, Tom",55
+Precinct 41,State Controller,"Knecht, Ron",366
+Precinct 41,State Controller,"Martin, Andrew",65
+Precinct 41,State Controller,None Of These Candidates,22
+Precinct 41,State Treasurer,"Cave, Kress K",40
+Precinct 41,State Treasurer,None Of These Candidates,19
+Precinct 41,State Treasurer,"Schwartz, Dan",368
+Precinct 41,State Treasurer,"Wallin, Kim",85
+Precinct 41,"Supreme Court Justice, Seat B",None Of These Candidates,108
+Precinct 41,"Supreme Court Justice, Seat B","Pickering, Kristina",368
+Precinct 41,"Supreme Court Justice, Seat D","Gibbons, Mark",388
+Precinct 41,"Supreme Court Justice, Seat D",None Of These Candidates,83
+Precinct 41,"U.S. Representative in Congress, District 2","Amodei, Mark E.",405
+Precinct 41,"U.S. Representative in Congress, District 2","HANSEN, JANINE",59
+Precinct 41,"U.S. Representative in Congress, District 2","Spees, Kristen",49
+Precinct 5,Attorney General,"Hansen, Jonathan J",26
+Precinct 5,Attorney General,"Laxalt, Adam Paul",196
+Precinct 5,Attorney General,"Miller, Ross",71
+Precinct 5,Attorney General,None Of These Candidates,10
+Precinct 5,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",274
+Precinct 5,COUNTY CLERK,"FOSMO, CAROL",270
+Precinct 5,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",271
+Precinct 5,County Comm Dist. 4 (CW),"EKLUND, CLIFF",263
+Precinct 5,COUNTY RECORDER,"SMALES, D. MIKE",253
+Precinct 5,COUNTY RECORDER,"SMITH, CHERYL A.",46
+Precinct 5,County Sheriff,"KAHLE, MELINDA ""MINDY""",85
+Precinct 5,County Sheriff,"PITTS, JIM",214
+Precinct 5,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",247
+Precinct 5,COUNTY TREASURER,"JENKINS, KAY DAWN",46
+Precinct 5,DISTRICT ATTORNEY,"TORVINEN, MARK",257
+Precinct 5,"ELKO Council, 2 Seats","HANCE, BILL",90
+Precinct 5,"ELKO Council, 2 Seats","KEENER, REECE",174
+Precinct 5,"ELKO Council, 2 Seats","OWEN, KIMBERLY",129
+Precinct 5,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",134
+Precinct 5,ELKO TV Seat B,"GREER, NORY KAY",97
+Precinct 5,ELKO TV Seat B,"JIMENEZ, RICK",159
+Precinct 5,ELKO TV Seat C,"MCLEOD, CHRIS",109
+Precinct 5,ELKO TV Seat C,"WAHRENBROCK, JON A.",163
+Precinct 5,Governor,"Goodman, Robert ""Bob""",28
+Precinct 5,Governor,None Of These Candidates,12
+Precinct 5,Governor,"Sandoval, Brian",244
+Precinct 5,Governor,"VanDerBeek, David Lory",21
+Precinct 5,Lieutenant Governor,"Flores, Lucy",51
+Precinct 5,Lieutenant Governor,"Hutchison, Mark",224
+Precinct 5,Lieutenant Governor,"Little, Mike",20
+Precinct 5,Lieutenant Governor,None Of These Candidates,10
+Precinct 5,Mayor Elko,"JOHNSON, CHRIS J.",183
+Precinct 5,Mayor Elko,"MYERS, CHARLIE",116
+Precinct 5,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",211
+Precinct 5,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",78
+Precinct 5,Secretary Of State,"Cegavske, Barbara K",206
+Precinct 5,Secretary Of State,"Marshall, Kate",72
+Precinct 5,Secretary Of State,None Of These Candidates,24
+Precinct 5,"State Assembly, District 33","Ellison, John",253
+Precinct 5,State Controller,"Jones, Tom",30
+Precinct 5,State Controller,"Knecht, Ron",199
+Precinct 5,State Controller,"Martin, Andrew",52
+Precinct 5,State Controller,None Of These Candidates,21
+Precinct 5,State Treasurer,"Cave, Kress K",28
+Precinct 5,State Treasurer,None Of These Candidates,23
+Precinct 5,State Treasurer,"Schwartz, Dan",183
+Precinct 5,State Treasurer,"Wallin, Kim",64
+Precinct 5,"Supreme Court Justice, Seat B",None Of These Candidates,51
+Precinct 5,"Supreme Court Justice, Seat B","Pickering, Kristina",216
+Precinct 5,"Supreme Court Justice, Seat D","Gibbons, Mark",221
+Precinct 5,"Supreme Court Justice, Seat D",None Of These Candidates,49
+Precinct 5,"U.S. Representative in Congress, District 2","Amodei, Mark E.",230
+Precinct 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",38
+Precinct 5,"U.S. Representative in Congress, District 2","Spees, Kristen",36
+Precinct 6,Attorney General,"Hansen, Jonathan J",28
+Precinct 6,Attorney General,"Laxalt, Adam Paul",164
+Precinct 6,Attorney General,"Miller, Ross",56
+Precinct 6,Attorney General,None Of These Candidates,5
+Precinct 6,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",249
+Precinct 6,COUNTY CLERK,"FOSMO, CAROL",241
+Precinct 6,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",247
+Precinct 6,County Comm Dist. 4 (CW),"EKLUND, CLIFF",240
+Precinct 6,COUNTY RECORDER,"SMALES, D. MIKE",204
+Precinct 6,COUNTY RECORDER,"SMITH, CHERYL A.",48
+Precinct 6,County Sheriff,"KAHLE, MELINDA ""MINDY""",98
+Precinct 6,County Sheriff,"PITTS, JIM",155
+Precinct 6,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",206
+Precinct 6,COUNTY TREASURER,"JENKINS, KAY DAWN",43
+Precinct 6,DISTRICT ATTORNEY,"TORVINEN, MARK",234
+Precinct 6,"ELKO Council, 2 Seats","HANCE, BILL",73
+Precinct 6,"ELKO Council, 2 Seats","KEENER, REECE",123
+Precinct 6,"ELKO Council, 2 Seats","OWEN, KIMBERLY",129
+Precinct 6,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",117
+Precinct 6,ELKO TV Seat B,"GREER, NORY KAY",113
+Precinct 6,ELKO TV Seat B,"JIMENEZ, RICK",109
+Precinct 6,ELKO TV Seat C,"MCLEOD, CHRIS",109
+Precinct 6,ELKO TV Seat C,"WAHRENBROCK, JON A.",118
+Precinct 6,Governor,"Goodman, Robert ""Bob""",24
+Precinct 6,Governor,None Of These Candidates,6
+Precinct 6,Governor,"Sandoval, Brian",210
+Precinct 6,Governor,"VanDerBeek, David Lory",16
+Precinct 6,Lieutenant Governor,"Flores, Lucy",43
+Precinct 6,Lieutenant Governor,"Hutchison, Mark",186
+Precinct 6,Lieutenant Governor,"Little, Mike",20
+Precinct 6,Lieutenant Governor,None Of These Candidates,7
+Precinct 6,Mayor Elko,"JOHNSON, CHRIS J.",158
+Precinct 6,Mayor Elko,"MYERS, CHARLIE",92
+Precinct 6,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",191
+Precinct 6,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",57
+Precinct 6,Secretary Of State,"Cegavske, Barbara K",187
+Precinct 6,Secretary Of State,"Marshall, Kate",54
+Precinct 6,Secretary Of State,None Of These Candidates,13
+Precinct 6,"State Assembly, District 33","Ellison, John",240
+Precinct 6,State Controller,"Jones, Tom",34
+Precinct 6,State Controller,"Knecht, Ron",169
+Precinct 6,State Controller,"Martin, Andrew",34
+Precinct 6,State Controller,None Of These Candidates,15
+Precinct 6,State Treasurer,"Cave, Kress K",25
+Precinct 6,State Treasurer,None Of These Candidates,10
+Precinct 6,State Treasurer,"Schwartz, Dan",174
+Precinct 6,State Treasurer,"Wallin, Kim",43
+Precinct 6,"Supreme Court Justice, Seat B",None Of These Candidates,54
+Precinct 6,"Supreme Court Justice, Seat B","Pickering, Kristina",186
+Precinct 6,"Supreme Court Justice, Seat D","Gibbons, Mark",193
+Precinct 6,"Supreme Court Justice, Seat D",None Of These Candidates,49
+Precinct 6,"U.S. Representative in Congress, District 2","Amodei, Mark E.",169
+Precinct 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",45
+Precinct 6,"U.S. Representative in Congress, District 2","Spees, Kristen",41
+Precinct 7,Attorney General,"Hansen, Jonathan J",15
+Precinct 7,Attorney General,"Laxalt, Adam Paul",184
+Precinct 7,Attorney General,"Miller, Ross",40
+Precinct 7,Attorney General,None Of These Candidates,11
+Precinct 7,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",231
+Precinct 7,COUNTY CLERK,"FOSMO, CAROL",227
+Precinct 7,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",228
+Precinct 7,County Comm Dist. 4 (CW),"EKLUND, CLIFF",222
+Precinct 7,COUNTY RECORDER,"SMALES, D. MIKE",201
+Precinct 7,COUNTY RECORDER,"SMITH, CHERYL A.",38
+Precinct 7,County Sheriff,"KAHLE, MELINDA ""MINDY""",72
+Precinct 7,County Sheriff,"PITTS, JIM",171
+Precinct 7,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",201
+Precinct 7,COUNTY TREASURER,"JENKINS, KAY DAWN",37
+Precinct 7,DISTRICT ATTORNEY,"TORVINEN, MARK",227
+Precinct 7,"ELKO Council, 2 Seats","HANCE, BILL",54
+Precinct 7,"ELKO Council, 2 Seats","KEENER, REECE",139
+Precinct 7,"ELKO Council, 2 Seats","OWEN, KIMBERLY",125
+Precinct 7,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",108
+Precinct 7,ELKO TV Seat B,"GREER, NORY KAY",105
+Precinct 7,ELKO TV Seat B,"JIMENEZ, RICK",99
+Precinct 7,ELKO TV Seat C,"MCLEOD, CHRIS",94
+Precinct 7,ELKO TV Seat C,"WAHRENBROCK, JON A.",119
+Precinct 7,Governor,"Goodman, Robert ""Bob""",16
+Precinct 7,Governor,None Of These Candidates,12
+Precinct 7,Governor,"Sandoval, Brian",214
+Precinct 7,Governor,"VanDerBeek, David Lory",10
+Precinct 7,Lieutenant Governor,"Flores, Lucy",26
+Precinct 7,Lieutenant Governor,"Hutchison, Mark",193
+Precinct 7,Lieutenant Governor,"Little, Mike",19
+Precinct 7,Lieutenant Governor,None Of These Candidates,12
+Precinct 7,Mayor Elko,"JOHNSON, CHRIS J.",124
+Precinct 7,Mayor Elko,"MYERS, CHARLIE",121
+Precinct 7,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",188
+Precinct 7,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",50
+Precinct 7,Secretary Of State,"Cegavske, Barbara K",203
+Precinct 7,Secretary Of State,"Marshall, Kate",32
+Precinct 7,Secretary Of State,None Of These Candidates,16
+Precinct 7,"State Assembly, District 33","Ellison, John",224
+Precinct 7,State Controller,"Jones, Tom",19
+Precinct 7,State Controller,"Knecht, Ron",180
+Precinct 7,State Controller,"Martin, Andrew",28
+Precinct 7,State Controller,None Of These Candidates,22
+Precinct 7,State Treasurer,"Cave, Kress K",15
+Precinct 7,State Treasurer,None Of These Candidates,20
+Precinct 7,State Treasurer,"Schwartz, Dan",186
+Precinct 7,State Treasurer,"Wallin, Kim",29
+Precinct 7,"Supreme Court Justice, Seat B",None Of These Candidates,55
+Precinct 7,"Supreme Court Justice, Seat B","Pickering, Kristina",182
+Precinct 7,"Supreme Court Justice, Seat D","Gibbons, Mark",183
+Precinct 7,"Supreme Court Justice, Seat D",None Of These Candidates,54
+Precinct 7,"U.S. Representative in Congress, District 2","Amodei, Mark E.",201
+Precinct 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
+Precinct 7,"U.S. Representative in Congress, District 2","Spees, Kristen",23
+Precinct 8,Attorney General,"Hansen, Jonathan J",27
+Precinct 8,Attorney General,"Laxalt, Adam Paul",233
+Precinct 8,Attorney General,"Miller, Ross",105
+Precinct 8,Attorney General,None Of These Candidates,10
+Precinct 8,COUNTY ASSESSOR,"RUSSELL, KATRINKA S.",333
+Precinct 8,COUNTY CLERK,"FOSMO, CAROL",329
+Precinct 8,County Comm Dist. 2 (CW),"ANDREOZZI, DELMO",344
+Precinct 8,County Comm Dist. 4 (CW),"EKLUND, CLIFF",320
+Precinct 8,COUNTY RECORDER,"SMALES, D. MIKE",301
+Precinct 8,COUNTY RECORDER,"SMITH, CHERYL A.",64
+Precinct 8,County Sheriff,"KAHLE, MELINDA ""MINDY""",104
+Precinct 8,County Sheriff,"PITTS, JIM",260
+Precinct 9,COUNTY RECORDER,"SMALES, D. MIKE",189
+Precinct 9,COUNTY RECORDER,"SMITH, CHERYL A.",49
+Precinct 9,County Sheriff,"KAHLE, MELINDA ""MINDY""",81
+Precinct 9,County Sheriff,"PITTS, JIM",156
+Precinct 9,COUNTY TREASURER,"ERICKSON, REBECCA ""BECKY""",197
+Precinct 9,COUNTY TREASURER,"JENKINS, KAY DAWN",38
+Precinct 9,DISTRICT ATTORNEY,"TORVINEN, MARK",218
+Precinct 9,"ELKO Council, 2 Seats","HANCE, BILL",52
+Precinct 9,"ELKO Council, 2 Seats","KEENER, REECE",140
+Precinct 9,"ELKO Council, 2 Seats","OWEN, KIMBERLY",109
+Precinct 9,"ELKO Council, 2 Seats","RICE, JOHN PATRICK",132
+Precinct 9,ELKO TV Seat B,"GREER, NORY KAY",80
+Precinct 9,ELKO TV Seat B,"JIMENEZ, RICK",139
+Precinct 9,ELKO TV Seat C,"MCLEOD, CHRIS",91
+Precinct 9,ELKO TV Seat C,"WAHRENBROCK, JON A.",137
+Precinct 9,Governor,"Goodman, Robert ""Bob""",32
+Precinct 9,Governor,None Of These Candidates,9
+Precinct 9,Governor,"Sandoval, Brian",187
+Precinct 9,Governor,"VanDerBeek, David Lory",16
+Precinct 9,Lieutenant Governor,"Flores, Lucy",48
+Precinct 9,Lieutenant Governor,"Hutchison, Mark",163
+Precinct 9,Lieutenant Governor,"Little, Mike",22
+Precinct 9,Lieutenant Governor,None Of These Candidates,12
+Precinct 9,Mayor Elko,"JOHNSON, CHRIS J.",128
+Precinct 9,Mayor Elko,"MYERS, CHARLIE",115
+Precinct 9,PUBLIC ADMINISTRATOR,"JENKINS, JANYCE",179
+Precinct 9,PUBLIC ADMINISTRATOR,"SMITH, MICHAEL L.",57
+Precinct 9,Secretary Of State,"Cegavske, Barbara K",155
+Precinct 9,Secretary Of State,"Marshall, Kate",78
+Precinct 9,Secretary Of State,None Of These Candidates,9
+Precinct 9,"State Assembly, District 33","Ellison, John",225
+Precinct 9,State Controller,"Jones, Tom",29
+Precinct 9,State Controller,"Knecht, Ron",147
+Precinct 9,State Controller,"Martin, Andrew",57
+Precinct 9,State Controller,None Of These Candidates,11
+Precinct 9,State Treasurer,"Cave, Kress K",27
+Precinct 9,State Treasurer,None Of These Candidates,10
+Precinct 9,State Treasurer,"Schwartz, Dan",149
+Precinct 9,State Treasurer,"Wallin, Kim",57
+Precinct 9,"Supreme Court Justice, Seat B",None Of These Candidates,37
+Precinct 9,"Supreme Court Justice, Seat B","Pickering, Kristina",185
+Precinct 9,"Supreme Court Justice, Seat D","Gibbons, Mark",186
+Precinct 9,"Supreme Court Justice, Seat D",None Of These Candidates,39
+Precinct 9,"U.S. Representative in Congress, District 2","Amodei, Mark E.",170
+Precinct 9,"U.S. Representative in Congress, District 2","HANSEN, JANINE",32
+Precinct 9,"U.S. Representative in Congress, District 2","Spees, Kristen",41
+Precinct 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",
+Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
+Precinct 99,"U.S. Representative in Congress, District 2","Spees, Kristen",
