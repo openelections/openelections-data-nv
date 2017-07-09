@@ -8,7 +8,8 @@ import pandas as pd
 from nameparser import HumanName
 
 positions = ['President', 'U.S. Senate', 'U.S. House',
-            'State Senate','State House', 'Governor']
+            'State Senate','State House', 'Governor', 'Secretary of State',
+            'Attorney General']
 
 header_map = {'jurisdiction':'county', 'precinct':'precinct',
             'contest':'office', 'district':'district', 'party':'party',
@@ -66,16 +67,31 @@ if __name__ == '__main__':
     df.to_csv('2016/20161108__nv__general__precinct.csv',
         index=False, float_format='%.0f')
 
+    file = 'http://nvsos.gov/sos/home/showdocument?id=3651'
+    df = parser(file, skiprows=[0,1,2], header=0)
+    df.to_csv('2014/20141104__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
+
     file = 'http://nvsos.gov/sos/home/showdocument?id=3660'
     df = parser(file, skiprows=[0,1,2], header=0)
     df.to_csv('2012/20121106__nv__general__precinct.csv',
         index=False, float_format='%.0f')
-    #
+
+    file = 'http://nvsos.gov/sos/home/showdocument?id=3674'
+    df = parser(file, skiprows=[0,1,2], header=0)
+    df.to_csv('2010/20101102__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
+
     file = 'http://nvsos.gov/sos/home/showdocument?id=3680'
     df = parser(file, skiprows=[0,1,2], header=0)
     df.to_csv('2008/20081104__nv__general__precinct.csv',
         index=False, float_format='%.0f')
-    #
+
+    file = 'http://nvsos.gov/sos/home/showdocument?id=3688'
+    df = parser(file, skiprows=[0,1,2], header=0)
+    df.to_csv('2006/20061107__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
+
     file = 'http://nvsos.gov/sos/home/showdocument?id=3694'
     df = parser(file, skiprows=[0,1,2], header=0)
     df.to_csv('2004/20041102__nv__general__precinct.csv',
