@@ -24,8 +24,6 @@ def parser(file, **kwargs):
 
     # assign headers in lowercase
     df.columns = [x.lower() for x in df.columns]
-    # drop the poorly formed CSV headers
-    df = df.drop(df.index[0:2])
 
     # extract district information from the contest column
     df['district'] = df['contest'].str.extract('(\d{1,3})', expand=True)
