@@ -1,5 +1,8 @@
 from __future__ import division, print_function
-""" Parse Nevada election results into OpenElection format"""
+""" Parse Nevada election results into OpenElection format
+    available here:
+    http://nvsos.gov/sos/elections/election-information/precinct-level-results
+"""
 import pandas as pd
 
 from nameparser import HumanName
@@ -12,20 +15,15 @@ header_map = {'jurisdiction':'county', 'precinct':'precinct',
             'selection':'candidate', 'votes':'votes'}
 
 
-def parser(file):
+def parser(file, **kwargs):
     """ Generic parser for NV election results
     """
 
     # read in the file
-    df = pd.read_csv(file)
+    df = pd.read_csv(file, **kwargs)
 
-    # extract the header information from the poorly formed CSV
-    headers = []
-    for row in df.iloc[[1]].iterrows():
-        index, data = row
-        headers.append(data.tolist())
     # assign headers in lowercase
-    df.columns = [x.lower() for x in headers[0]]
+    df.columns = [x.lower() for x in df.columns]
     # drop the poorly formed CSV headers
     df = df.drop(df.index[0:2])
 
@@ -36,7 +34,7 @@ def parser(file):
 
     # clean up office descriptions
     df.loc[df['contest'].str.contains(
-        'PRESIDENT', case=False), 'contest'] = 'President'
+        'PRESIDENT AND VICE', case=False), 'contest'] = 'President'
     df.loc[df['contest'].str.contains(
         'UNITED STATES SENATOR', case=False), 'contest'] = 'U.S. Senate'
     df.loc[df['contest'].str.contains(
@@ -68,5 +66,17 @@ def parser(file):
 
 if __name__ == '__main__':
     file = 'http://www.nvsos.gov/sos/home/showdocument?id=4615'
-    df = parser(file)
+    df = parser(file, skiprows=[0,1], header=0)
     df.to_csv('2016/20161108__nv__general__precinct.csv', index=False)
+
+    file = 'http://nvsos.gov/sos/home/showdocument?id=3660'
+    df = parser(file, skiprows=[0,1,2], header=0)
+    df.to_csv('2012/20121106__nv__general__precinct.csv', index=False)
+    #
+    file = 'http://nvsos.gov/sos/home/showdocument?id=3680'
+    df = parser(file, skiprows=[0,1,2], header=0)
+    df.to_csv('2008/20081104__nv__general__precinct.csv', index=False)
+    #
+    file = 'http://nvsos.gov/sos/home/showdocument?id=3694'
+    df = parser(file, skiprows=[0,1,2], header=0)
+    df.to_csv('2004/20041102__nv__general__precinct.csv', index=False)
