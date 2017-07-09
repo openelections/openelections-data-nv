@@ -44,9 +44,7 @@ def parser(file, **kwargs):
 
     # select only the positions of interest
     df = df[df['contest'].isin(positions)].copy()
-    df.votes = pd.to_numeric(df.votes, errors='coerce', downcast='integer')
-    df.votes = df.votes.fillna(0)
-    df.votes = df.votes.astype(int)
+    df.votes = pd.to_numeric(df.votes, errors='coerce')
 
     # reverse naming convention from last, first to first last
     names = []
@@ -65,16 +63,20 @@ def parser(file, **kwargs):
 if __name__ == '__main__':
     file = 'http://www.nvsos.gov/sos/home/showdocument?id=4615'
     df = parser(file, skiprows=[0,1], header=0)
-    df.to_csv('2016/20161108__nv__general__precinct.csv', index=False)
+    df.to_csv('2016/20161108__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
 
     file = 'http://nvsos.gov/sos/home/showdocument?id=3660'
     df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2012/20121106__nv__general__precinct.csv', index=False)
+    df.to_csv('2012/20121106__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
     #
     file = 'http://nvsos.gov/sos/home/showdocument?id=3680'
     df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2008/20081104__nv__general__precinct.csv', index=False)
+    df.to_csv('2008/20081104__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
     #
     file = 'http://nvsos.gov/sos/home/showdocument?id=3694'
     df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2004/20041102__nv__general__precinct.csv', index=False)
+    df.to_csv('2004/20041102__nv__general__precinct.csv',
+        index=False, float_format='%.0f')
