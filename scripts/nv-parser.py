@@ -4,6 +4,7 @@ from __future__ import division, print_function
     http://nvsos.gov/sos/elections/election-information/precinct-level-results
 """
 import pandas as pd
+import requests
 
 from nameparser import HumanName
 
@@ -29,15 +30,29 @@ def parser(file, **kwargs):
     # extract district information from the contest column
     df['district'] = df['contest'].str.extract('(\d{1,3})', expand=True)
     df['precinct'] = df['precinct'].str.extract('(\d{1,3})', expand=False)
+    df.loc[df['contest'].str.contains(
+        '(Republican)', case=False), 'party'] = 'Republican'
+    df.loc[df['contest'].str.contains(
+        '(Democratic)', case=False), 'party'] = 'Democratic'
     df.contest.unique()
 
     # clean up office descriptions
     df.loc[df['contest'].str.contains(
         'PRESIDENT AND VICE', case=False), 'contest'] = 'President'
     df.loc[df['contest'].str.contains(
+        'Governor', case=False), 'contest'] = 'Governor'
+    df.loc[df['contest'].str.contains(
         'UNITED STATES SENATOR', case=False), 'contest'] = 'U.S. Senate'
     df.loc[df['contest'].str.contains(
         'U.S. REPRESENTATIVE', case=False), 'contest'] = 'U.S. House'
+    df.loc[df['contest'].str.contains(
+        'Lieutenant Governor', case=False), 'contest'] = 'Lieutenant Governor'
+    df.loc[df['contest'].str.contains(
+        'Governor', case=False), 'contest'] = 'Governor'
+    df.loc[df['contest'].str.contains(
+        'Attorney General', case=False), 'contest'] = 'Attorney General'
+    df.loc[df['contest'].str.contains(
+        'Secretary Of State', case=False), 'contest'] = 'Secretary of State'
     df.loc[df['contest'].str.contains(
         'STATE ASSEMBLY', case=False), 'contest'] = 'State House'
     df.loc[df['contest'].str.contains(
@@ -62,37 +77,6 @@ def parser(file, **kwargs):
     return df
 
 if __name__ == '__main__':
-    file = 'http://www.nvsos.gov/sos/home/showdocument?id=4615'
-    df = parser(file, skiprows=[0,1], header=0)
-    df.to_csv('2016/20161108__nv__general__precinct.csv',
-        index=False, float_format='%.0f')
-
-    file = 'http://nvsos.gov/sos/home/showdocument?id=3651'
-    df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2014/20141104__nv__general__precinct.csv',
-        index=False, float_format='%.0f')
-
-    file = 'http://nvsos.gov/sos/home/showdocument?id=3660'
-    df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2012/20121106__nv__general__precinct.csv',
-        index=False, float_format='%.0f')
-
-    file = 'http://nvsos.gov/sos/home/showdocument?id=3674'
-    df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2010/20101102__nv__general__precinct.csv',
-        index=False, float_format='%.0f')
-
-    file = 'http://nvsos.gov/sos/home/showdocument?id=3680'
-    df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2008/20081104__nv__general__precinct.csv',
-        index=False, float_format='%.0f')
-
-    file = 'http://nvsos.gov/sos/home/showdocument?id=3688'
-    df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2006/20061107__nv__general__precinct.csv',
-        index=False, float_format='%.0f')
-
-    file = 'http://nvsos.gov/sos/home/showdocument?id=3694'
-    df = parser(file, skiprows=[0,1,2], header=0)
-    df.to_csv('2004/20041102__nv__general__precinct.csv',
+    df = parser('scripts/primary_2018.csv')
+    df.to_csv('2018/20180612__nv__primary__precinct.csv',
         index=False, float_format='%.0f')
