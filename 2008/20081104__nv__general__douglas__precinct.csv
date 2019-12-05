@@ -8,13 +8,13 @@ precinct,office,candidate,votes
 01-Centerville,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",62
 01-Centerville,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",45
 01-Centerville,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",41
-01-Centerville,President and Vice President of the United States,"Baldwin, Chuck",1
-01-Centerville,President and Vice President of the United States,"Barr, Bob",2
-01-Centerville,President and Vice President of the United States,"McCain, John",364
-01-Centerville,President and Vice President of the United States,"McKinney, Cynthia",1
-01-Centerville,President and Vice President of the United States,"NADER, RALPH",2
-01-Centerville,President and Vice President of the United States,None Of These Candidates,1
-01-Centerville,President and Vice President of the United States,"Obama, Barack",196
+01-Centerville,President,"Baldwin, Chuck",1
+01-Centerville,President,"Barr, Bob",2
+01-Centerville,President,"McCain, John",364
+01-Centerville,President,"McKinney, Cynthia",1
+01-Centerville,President,"NADER, RALPH",2
+01-Centerville,President,None Of These Candidates,1
+01-Centerville,President,"Obama, Barack",196
 01-Centerville,School Board Trustee - Area 1,"CHESSELL, KAREN H.",214
 01-Centerville,School Board Trustee - Area 1,"SWANSON, CHARLES H.",174
 01-Centerville,School Board Trustee - Area 3,"FELTON, GREG",188
@@ -41,13 +41,13 @@ precinct,office,candidate,votes
 02-Fish Springs,County Commissioner District 3,"RIEMAN, ERIC",317
 02-Fish Springs,County Commissioner District 5,"EPSTEIN, NANCY",374
 02-Fish Springs,County Commissioner District 5,"OLSON, MICHAEL",532
-02-Fish Springs,President and Vice President of the United States,"Baldwin, Chuck",6
-02-Fish Springs,President and Vice President of the United States,"Barr, Bob",2
-02-Fish Springs,President and Vice President of the United States,"McCain, John",568
-02-Fish Springs,President and Vice President of the United States,"McKinney, Cynthia",2
-02-Fish Springs,President and Vice President of the United States,"NADER, RALPH",5
-02-Fish Springs,President and Vice President of the United States,None Of These Candidates,5
-02-Fish Springs,President and Vice President of the United States,"Obama, Barack",375
+02-Fish Springs,President,"Baldwin, Chuck",6
+02-Fish Springs,President,"Barr, Bob",2
+02-Fish Springs,President,"McCain, John",568
+02-Fish Springs,President,"McKinney, Cynthia",2
+02-Fish Springs,President,"NADER, RALPH",5
+02-Fish Springs,President,None Of These Candidates,5
+02-Fish Springs,President,"Obama, Barack",375
 02-Fish Springs,School Board Trustee - Area 1,"CHESSELL, KAREN H.",371
 02-Fish Springs,School Board Trustee - Area 1,"SWANSON, CHARLES H.",340
 02-Fish Springs,School Board Trustee - Area 3,"FELTON, GREG",312
@@ -78,13 +78,13 @@ precinct,office,candidate,votes
 03-Gardnerville,County Commissioner District 3,"RIEMAN, ERIC",281
 03-Gardnerville,County Commissioner District 5,"EPSTEIN, NANCY",388
 03-Gardnerville,County Commissioner District 5,"OLSON, MICHAEL",478
-03-Gardnerville,President and Vice President of the United States,"Baldwin, Chuck",4
-03-Gardnerville,President and Vice President of the United States,"Barr, Bob",3
-03-Gardnerville,President and Vice President of the United States,"McCain, John",521
-03-Gardnerville,President and Vice President of the United States,"McKinney, Cynthia",0
-03-Gardnerville,President and Vice President of the United States,"NADER, RALPH",2
-03-Gardnerville,President and Vice President of the United States,None Of These Candidates,11
-03-Gardnerville,President and Vice President of the United States,"Obama, Barack",405
+03-Gardnerville,President,"Baldwin, Chuck",4
+03-Gardnerville,President,"Barr, Bob",3
+03-Gardnerville,President,"McCain, John",521
+03-Gardnerville,President,"McKinney, Cynthia",0
+03-Gardnerville,President,"NADER, RALPH",2
+03-Gardnerville,President,None Of These Candidates,11
+03-Gardnerville,President,"Obama, Barack",405
 03-Gardnerville,School Board Trustee - Area 1,"CHESSELL, KAREN H.",411
 03-Gardnerville,School Board Trustee - Area 1,"SWANSON, CHARLES H.",302
 03-Gardnerville,School Board Trustee - Area 3,"FELTON, GREG",390
@@ -115,13 +115,13 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,County Commissioner District 3,"RIEMAN, ERIC",222
 04-Carson Valley Estates,County Commissioner District 5,"EPSTEIN, NANCY",274
 04-Carson Valley Estates,County Commissioner District 5,"OLSON, MICHAEL",309
-04-Carson Valley Estates,President and Vice President of the United States,"Baldwin, Chuck",3
-04-Carson Valley Estates,President and Vice President of the United States,"Barr, Bob",3
-04-Carson Valley Estates,President and Vice President of the United States,"McCain, John",328
-04-Carson Valley Estates,President and Vice President of the United States,"McKinney, Cynthia",0
-04-Carson Valley Estates,President and Vice President of the United States,"NADER, RALPH",4
-04-Carson Valley Estates,President and Vice President of the United States,None Of These Candidates,3
-04-Carson Valley Estates,President and Vice President of the United States,"Obama, Barack",298
+04-Carson Valley Estates,President,"Baldwin, Chuck",3
+04-Carson Valley Estates,President,"Barr, Bob",3
+04-Carson Valley Estates,President,"McCain, John",328
+04-Carson Valley Estates,President,"McKinney, Cynthia",0
+04-Carson Valley Estates,President,"NADER, RALPH",4
+04-Carson Valley Estates,President,None Of These Candidates,3
+04-Carson Valley Estates,President,"Obama, Barack",298
 04-Carson Valley Estates,School Board Trustee - Area 1,"CHESSELL, KAREN H.",294
 04-Carson Valley Estates,School Board Trustee - Area 1,"SWANSON, CHARLES H.",209
 04-Carson Valley Estates,School Board Trustee - Area 3,"FELTON, GREG",241
@@ -152,13 +152,13 @@ precinct,office,candidate,votes
 05-Genoa,County Commissioner District 3,"RIEMAN, ERIC",114
 05-Genoa,County Commissioner District 5,"EPSTEIN, NANCY",195
 05-Genoa,County Commissioner District 5,"OLSON, MICHAEL",416
-05-Genoa,President and Vice President of the United States,"Baldwin, Chuck",4
-05-Genoa,President and Vice President of the United States,"Barr, Bob",6
-05-Genoa,President and Vice President of the United States,"McCain, John",419
-05-Genoa,President and Vice President of the United States,"McKinney, Cynthia",2
-05-Genoa,President and Vice President of the United States,"NADER, RALPH",0
-05-Genoa,President and Vice President of the United States,None Of These Candidates,3
-05-Genoa,President and Vice President of the United States,"Obama, Barack",206
+05-Genoa,President,"Baldwin, Chuck",4
+05-Genoa,President,"Barr, Bob",6
+05-Genoa,President,"McCain, John",419
+05-Genoa,President,"McKinney, Cynthia",2
+05-Genoa,President,"NADER, RALPH",0
+05-Genoa,President,None Of These Candidates,3
+05-Genoa,President,"Obama, Barack",206
 05-Genoa,School Board Trustee - Area 1,"CHESSELL, KAREN H.",252
 05-Genoa,School Board Trustee - Area 1,"SWANSON, CHARLES H.",199
 05-Genoa,School Board Trustee - Area 3,"FELTON, GREG",243
@@ -189,13 +189,13 @@ precinct,office,candidate,votes
 06-Jacks Valley,Indian Hills G I D - 2 Seats,"BUFFO, BRIAN",69
 06-Jacks Valley,Indian Hills G I D - 2 Seats,"HUMBLE, DIANNE",94
 06-Jacks Valley,Indian Hills G I D - 2 Seats,"LAU, LAURA J.",104
-06-Jacks Valley,President and Vice President of the United States,"Baldwin, Chuck",0
-06-Jacks Valley,President and Vice President of the United States,"Barr, Bob",6
-06-Jacks Valley,President and Vice President of the United States,"McCain, John",437
-06-Jacks Valley,President and Vice President of the United States,"McKinney, Cynthia",2
-06-Jacks Valley,President and Vice President of the United States,"NADER, RALPH",8
-06-Jacks Valley,President and Vice President of the United States,None Of These Candidates,3
-06-Jacks Valley,President and Vice President of the United States,"Obama, Barack",349
+06-Jacks Valley,President,"Baldwin, Chuck",0
+06-Jacks Valley,President,"Barr, Bob",6
+06-Jacks Valley,President,"McCain, John",437
+06-Jacks Valley,President,"McKinney, Cynthia",2
+06-Jacks Valley,President,"NADER, RALPH",8
+06-Jacks Valley,President,None Of These Candidates,3
+06-Jacks Valley,President,"Obama, Barack",349
 06-Jacks Valley,School Board Trustee - Area 1,"CHESSELL, KAREN H.",346
 06-Jacks Valley,School Board Trustee - Area 1,"SWANSON, CHARLES H.",264
 06-Jacks Valley,School Board Trustee - Area 3,"FELTON, GREG",278
@@ -222,13 +222,13 @@ precinct,office,candidate,votes
 07-Minden,County Commissioner District 3,"RIEMAN, ERIC",182
 07-Minden,County Commissioner District 5,"EPSTEIN, NANCY",331
 07-Minden,County Commissioner District 5,"OLSON, MICHAEL",358
-07-Minden,President and Vice President of the United States,"Baldwin, Chuck",4
-07-Minden,President and Vice President of the United States,"Barr, Bob",6
-07-Minden,President and Vice President of the United States,"McCain, John",393
-07-Minden,President and Vice President of the United States,"McKinney, Cynthia",2
-07-Minden,President and Vice President of the United States,"NADER, RALPH",5
-07-Minden,President and Vice President of the United States,None Of These Candidates,7
-07-Minden,President and Vice President of the United States,"Obama, Barack",309
+07-Minden,President,"Baldwin, Chuck",4
+07-Minden,President,"Barr, Bob",6
+07-Minden,President,"McCain, John",393
+07-Minden,President,"McKinney, Cynthia",2
+07-Minden,President,"NADER, RALPH",5
+07-Minden,President,None Of These Candidates,7
+07-Minden,President,"Obama, Barack",309
 07-Minden,School Board Trustee - Area 1,"CHESSELL, KAREN H.",316
 07-Minden,School Board Trustee - Area 1,"SWANSON, CHARLES H.",221
 07-Minden,School Board Trustee - Area 3,"FELTON, GREG",294
@@ -259,13 +259,13 @@ precinct,office,candidate,votes
 08-Ranchos I,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",251
 08-Ranchos I,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",239
 08-Ranchos I,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",148
-08-Ranchos I,President and Vice President of the United States,"Baldwin, Chuck",1
-08-Ranchos I,President and Vice President of the United States,"Barr, Bob",1
-08-Ranchos I,President and Vice President of the United States,"McCain, John",301
-08-Ranchos I,President and Vice President of the United States,"McKinney, Cynthia",1
-08-Ranchos I,President and Vice President of the United States,"NADER, RALPH",5
-08-Ranchos I,President and Vice President of the United States,None Of These Candidates,4
-08-Ranchos I,President and Vice President of the United States,"Obama, Barack",235
+08-Ranchos I,President,"Baldwin, Chuck",1
+08-Ranchos I,President,"Barr, Bob",1
+08-Ranchos I,President,"McCain, John",301
+08-Ranchos I,President,"McKinney, Cynthia",1
+08-Ranchos I,President,"NADER, RALPH",5
+08-Ranchos I,President,None Of These Candidates,4
+08-Ranchos I,President,"Obama, Barack",235
 08-Ranchos I,School Board Trustee - Area 1,"CHESSELL, KAREN H.",230
 08-Ranchos I,School Board Trustee - Area 1,"SWANSON, CHARLES H.",195
 08-Ranchos I,School Board Trustee - Area 3,"FELTON, GREG",209
@@ -295,13 +295,13 @@ precinct,office,candidate,votes
 09-Ranchos II,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",391
 09-Ranchos II,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",365
 09-Ranchos II,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",285
-09-Ranchos II,President and Vice President of the United States,"Baldwin, Chuck",3
-09-Ranchos II,President and Vice President of the United States,"Barr, Bob",4
-09-Ranchos II,President and Vice President of the United States,"McCain, John",369
-09-Ranchos II,President and Vice President of the United States,"McKinney, Cynthia",1
-09-Ranchos II,President and Vice President of the United States,"NADER, RALPH",3
-09-Ranchos II,President and Vice President of the United States,None Of These Candidates,6
-09-Ranchos II,President and Vice President of the United States,"Obama, Barack",360
+09-Ranchos II,President,"Baldwin, Chuck",3
+09-Ranchos II,President,"Barr, Bob",4
+09-Ranchos II,President,"McCain, John",369
+09-Ranchos II,President,"McKinney, Cynthia",1
+09-Ranchos II,President,"NADER, RALPH",3
+09-Ranchos II,President,None Of These Candidates,6
+09-Ranchos II,President,"Obama, Barack",360
 09-Ranchos II,School Board Trustee - Area 1,"CHESSELL, KAREN H.",341
 09-Ranchos II,School Board Trustee - Area 1,"SWANSON, CHARLES H.",280
 09-Ranchos II,School Board Trustee - Area 3,"FELTON, GREG",248
@@ -328,13 +328,13 @@ precinct,office,candidate,votes
 10-TRE,County Commissioner District 3,"RIEMAN, ERIC",305
 10-TRE,County Commissioner District 5,"EPSTEIN, NANCY",333
 10-TRE,County Commissioner District 5,"OLSON, MICHAEL",464
-10-TRE,President and Vice President of the United States,"Baldwin, Chuck",10
-10-TRE,President and Vice President of the United States,"Barr, Bob",9
-10-TRE,President and Vice President of the United States,"McCain, John",489
-10-TRE,President and Vice President of the United States,"McKinney, Cynthia",1
-10-TRE,President and Vice President of the United States,"NADER, RALPH",5
-10-TRE,President and Vice President of the United States,None Of These Candidates,8
-10-TRE,President and Vice President of the United States,"Obama, Barack",327
+10-TRE,President,"Baldwin, Chuck",10
+10-TRE,President,"Barr, Bob",9
+10-TRE,President,"McCain, John",489
+10-TRE,President,"McKinney, Cynthia",1
+10-TRE,President,"NADER, RALPH",5
+10-TRE,President,None Of These Candidates,8
+10-TRE,President,"Obama, Barack",327
 10-TRE,School Board Trustee - Area 1,"CHESSELL, KAREN H.",363
 10-TRE,School Board Trustee - Area 1,"SWANSON, CHARLES H.",290
 10-TRE,School Board Trustee - Area 3,"FELTON, GREG",302
@@ -362,13 +362,13 @@ precinct,office,candidate,votes
 11-Johnson Lane,County Commissioner District 3,"RIEMAN, ERIC",278
 11-Johnson Lane,County Commissioner District 5,"EPSTEIN, NANCY",391
 11-Johnson Lane,County Commissioner District 5,"OLSON, MICHAEL",488
-11-Johnson Lane,President and Vice President of the United States,"Baldwin, Chuck",1
-11-Johnson Lane,President and Vice President of the United States,"Barr, Bob",1
-11-Johnson Lane,President and Vice President of the United States,"McCain, John",526
-11-Johnson Lane,President and Vice President of the United States,"McKinney, Cynthia",0
-11-Johnson Lane,President and Vice President of the United States,"NADER, RALPH",6
-11-Johnson Lane,President and Vice President of the United States,None Of These Candidates,3
-11-Johnson Lane,President and Vice President of the United States,"Obama, Barack",385
+11-Johnson Lane,President,"Baldwin, Chuck",1
+11-Johnson Lane,President,"Barr, Bob",1
+11-Johnson Lane,President,"McCain, John",526
+11-Johnson Lane,President,"McKinney, Cynthia",0
+11-Johnson Lane,President,"NADER, RALPH",6
+11-Johnson Lane,President,None Of These Candidates,3
+11-Johnson Lane,President,"Obama, Barack",385
 11-Johnson Lane,School Board Trustee - Area 1,"CHESSELL, KAREN H.",425
 11-Johnson Lane,School Board Trustee - Area 1,"SWANSON, CHARLES H.",306
 11-Johnson Lane,School Board Trustee - Area 3,"FELTON, GREG",324
@@ -395,13 +395,13 @@ precinct,office,candidate,votes
 12-Dresslerville,County Commissioner District 3,"RIEMAN, ERIC",67
 12-Dresslerville,County Commissioner District 5,"EPSTEIN, NANCY",76
 12-Dresslerville,County Commissioner District 5,"OLSON, MICHAEL",16
-12-Dresslerville,President and Vice President of the United States,"Baldwin, Chuck",0
-12-Dresslerville,President and Vice President of the United States,"Barr, Bob",0
-12-Dresslerville,President and Vice President of the United States,"McCain, John",19
-12-Dresslerville,President and Vice President of the United States,"McKinney, Cynthia",0
-12-Dresslerville,President and Vice President of the United States,"NADER, RALPH",0
-12-Dresslerville,President and Vice President of the United States,None Of These Candidates,2
-12-Dresslerville,President and Vice President of the United States,"Obama, Barack",83
+12-Dresslerville,President,"Baldwin, Chuck",0
+12-Dresslerville,President,"Barr, Bob",0
+12-Dresslerville,President,"McCain, John",19
+12-Dresslerville,President,"McKinney, Cynthia",0
+12-Dresslerville,President,"NADER, RALPH",0
+12-Dresslerville,President,None Of These Candidates,2
+12-Dresslerville,President,"Obama, Barack",83
 12-Dresslerville,School Board Trustee - Area 1,"CHESSELL, KAREN H.",57
 12-Dresslerville,School Board Trustee - Area 1,"SWANSON, CHARLES H.",28
 12-Dresslerville,School Board Trustee - Area 3,"FELTON, GREG",30
@@ -433,13 +433,13 @@ precinct,office,candidate,votes
 13-Indian Hills - West,Indian Hills G I D - 2 Seats,"BUFFO, BRIAN",217
 13-Indian Hills - West,Indian Hills G I D - 2 Seats,"HUMBLE, DIANNE",255
 13-Indian Hills - West,Indian Hills G I D - 2 Seats,"LAU, LAURA J.",293
-13-Indian Hills - West,President and Vice President of the United States,"Baldwin, Chuck",2
-13-Indian Hills - West,President and Vice President of the United States,"Barr, Bob",6
-13-Indian Hills - West,President and Vice President of the United States,"McCain, John",478
-13-Indian Hills - West,President and Vice President of the United States,"McKinney, Cynthia",2
-13-Indian Hills - West,President and Vice President of the United States,"NADER, RALPH",5
-13-Indian Hills - West,President and Vice President of the United States,None Of These Candidates,8
-13-Indian Hills - West,President and Vice President of the United States,"Obama, Barack",484
+13-Indian Hills - West,President,"Baldwin, Chuck",2
+13-Indian Hills - West,President,"Barr, Bob",6
+13-Indian Hills - West,President,"McCain, John",478
+13-Indian Hills - West,President,"McKinney, Cynthia",2
+13-Indian Hills - West,President,"NADER, RALPH",5
+13-Indian Hills - West,President,None Of These Candidates,8
+13-Indian Hills - West,President,"Obama, Barack",484
 13-Indian Hills - West,School Board Trustee - Area 1,"CHESSELL, KAREN H.",427
 13-Indian Hills - West,School Board Trustee - Area 1,"SWANSON, CHARLES H.",330
 13-Indian Hills - West,School Board Trustee - Area 3,"FELTON, GREG",347
@@ -466,13 +466,13 @@ precinct,office,candidate,votes
 14-Pinenut,County Commissioner District 3,"RIEMAN, ERIC",169
 14-Pinenut,County Commissioner District 5,"EPSTEIN, NANCY",226
 14-Pinenut,County Commissioner District 5,"OLSON, MICHAEL",424
-14-Pinenut,President and Vice President of the United States,"Baldwin, Chuck",8
-14-Pinenut,President and Vice President of the United States,"Barr, Bob",5
-14-Pinenut,President and Vice President of the United States,"McCain, John",472
-14-Pinenut,President and Vice President of the United States,"McKinney, Cynthia",0
-14-Pinenut,President and Vice President of the United States,"NADER, RALPH",6
-14-Pinenut,President and Vice President of the United States,None Of These Candidates,5
-14-Pinenut,President and Vice President of the United States,"Obama, Barack",192
+14-Pinenut,President,"Baldwin, Chuck",8
+14-Pinenut,President,"Barr, Bob",5
+14-Pinenut,President,"McCain, John",472
+14-Pinenut,President,"McKinney, Cynthia",0
+14-Pinenut,President,"NADER, RALPH",6
+14-Pinenut,President,None Of These Candidates,5
+14-Pinenut,President,"Obama, Barack",192
 14-Pinenut,School Board Trustee - Area 1,"CHESSELL, KAREN H.",255
 14-Pinenut,School Board Trustee - Area 1,"SWANSON, CHARLES H.",216
 14-Pinenut,School Board Trustee - Area 3,"FELTON, GREG",241
@@ -500,13 +500,13 @@ precinct,office,candidate,votes
 15-Valley,County Commissioner District 3,"RIEMAN, ERIC",81
 15-Valley,County Commissioner District 5,"EPSTEIN, NANCY",122
 15-Valley,County Commissioner District 5,"OLSON, MICHAEL",197
-15-Valley,President and Vice President of the United States,"Baldwin, Chuck",1
-15-Valley,President and Vice President of the United States,"Barr, Bob",3
-15-Valley,President and Vice President of the United States,"McCain, John",218
-15-Valley,President and Vice President of the United States,"McKinney, Cynthia",0
-15-Valley,President and Vice President of the United States,"NADER, RALPH",1
-15-Valley,President and Vice President of the United States,None Of These Candidates,0
-15-Valley,President and Vice President of the United States,"Obama, Barack",111
+15-Valley,President,"Baldwin, Chuck",1
+15-Valley,President,"Barr, Bob",3
+15-Valley,President,"McCain, John",218
+15-Valley,President,"McKinney, Cynthia",0
+15-Valley,President,"NADER, RALPH",1
+15-Valley,President,None Of These Candidates,0
+15-Valley,President,"Obama, Barack",111
 15-Valley,School Board Trustee - Area 1,"CHESSELL, KAREN H.",127
 15-Valley,School Board Trustee - Area 1,"SWANSON, CHARLES H.",124
 15-Valley,School Board Trustee - Area 3,"FELTON, GREG",141
@@ -533,13 +533,13 @@ precinct,office,candidate,votes
 16-Mottsville,County Commissioner District 3,"RIEMAN, ERIC",161
 16-Mottsville,County Commissioner District 5,"EPSTEIN, NANCY",235
 16-Mottsville,County Commissioner District 5,"OLSON, MICHAEL",362
-16-Mottsville,President and Vice President of the United States,"Baldwin, Chuck",1
-16-Mottsville,President and Vice President of the United States,"Barr, Bob",2
-16-Mottsville,President and Vice President of the United States,"McCain, John",397
-16-Mottsville,President and Vice President of the United States,"McKinney, Cynthia",0
-16-Mottsville,President and Vice President of the United States,"NADER, RALPH",1
-16-Mottsville,President and Vice President of the United States,None Of These Candidates,6
-16-Mottsville,President and Vice President of the United States,"Obama, Barack",227
+16-Mottsville,President,"Baldwin, Chuck",1
+16-Mottsville,President,"Barr, Bob",2
+16-Mottsville,President,"McCain, John",397
+16-Mottsville,President,"McKinney, Cynthia",0
+16-Mottsville,President,"NADER, RALPH",1
+16-Mottsville,President,None Of These Candidates,6
+16-Mottsville,President,"Obama, Barack",227
 16-Mottsville,School Board Trustee - Area 1,"CHESSELL, KAREN H.",249
 16-Mottsville,School Board Trustee - Area 1,"SWANSON, CHARLES H.",196
 16-Mottsville,School Board Trustee - Area 3,"FELTON, GREG",218
@@ -566,13 +566,13 @@ precinct,office,candidate,votes
 17-Ruhenstroth,County Commissioner District 3,"RIEMAN, ERIC",327
 17-Ruhenstroth,County Commissioner District 5,"EPSTEIN, NANCY",370
 17-Ruhenstroth,County Commissioner District 5,"OLSON, MICHAEL",682
-17-Ruhenstroth,President and Vice President of the United States,"Baldwin, Chuck",2
-17-Ruhenstroth,President and Vice President of the United States,"Barr, Bob",4
-17-Ruhenstroth,President and Vice President of the United States,"McCain, John",701
-17-Ruhenstroth,President and Vice President of the United States,"McKinney, Cynthia",1
-17-Ruhenstroth,President and Vice President of the United States,"NADER, RALPH",3
-17-Ruhenstroth,President and Vice President of the United States,None Of These Candidates,9
-17-Ruhenstroth,President and Vice President of the United States,"Obama, Barack",404
+17-Ruhenstroth,President,"Baldwin, Chuck",2
+17-Ruhenstroth,President,"Barr, Bob",4
+17-Ruhenstroth,President,"McCain, John",701
+17-Ruhenstroth,President,"McKinney, Cynthia",1
+17-Ruhenstroth,President,"NADER, RALPH",3
+17-Ruhenstroth,President,None Of These Candidates,9
+17-Ruhenstroth,President,"Obama, Barack",404
 17-Ruhenstroth,School Board Trustee - Area 1,"CHESSELL, KAREN H.",447
 17-Ruhenstroth,School Board Trustee - Area 1,"SWANSON, CHARLES H.",390
 17-Ruhenstroth,School Board Trustee - Area 3,"FELTON, GREG",442
@@ -603,13 +603,13 @@ precinct,office,candidate,votes
 18-Ranchos III,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",424
 18-Ranchos III,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",406
 18-Ranchos III,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",270
-18-Ranchos III,President and Vice President of the United States,"Baldwin, Chuck",2
-18-Ranchos III,President and Vice President of the United States,"Barr, Bob",5
-18-Ranchos III,President and Vice President of the United States,"McCain, John",461
-18-Ranchos III,President and Vice President of the United States,"McKinney, Cynthia",1
-18-Ranchos III,President and Vice President of the United States,"NADER, RALPH",7
-18-Ranchos III,President and Vice President of the United States,None Of These Candidates,6
-18-Ranchos III,President and Vice President of the United States,"Obama, Barack",358
+18-Ranchos III,President,"Baldwin, Chuck",2
+18-Ranchos III,President,"Barr, Bob",5
+18-Ranchos III,President,"McCain, John",461
+18-Ranchos III,President,"McKinney, Cynthia",1
+18-Ranchos III,President,"NADER, RALPH",7
+18-Ranchos III,President,None Of These Candidates,6
+18-Ranchos III,President,"Obama, Barack",358
 18-Ranchos III,School Board Trustee - Area 1,"CHESSELL, KAREN H.",366
 18-Ranchos III,School Board Trustee - Area 1,"SWANSON, CHARLES H.",315
 18-Ranchos III,School Board Trustee - Area 3,"FELTON, GREG",303
@@ -639,13 +639,13 @@ precinct,office,candidate,votes
 19-Ranchos IV,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",428
 19-Ranchos IV,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",426
 19-Ranchos IV,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",266
-19-Ranchos IV,President and Vice President of the United States,"Baldwin, Chuck",1
-19-Ranchos IV,President and Vice President of the United States,"Barr, Bob",3
-19-Ranchos IV,President and Vice President of the United States,"McCain, John",438
-19-Ranchos IV,President and Vice President of the United States,"McKinney, Cynthia",1
-19-Ranchos IV,President and Vice President of the United States,"NADER, RALPH",4
-19-Ranchos IV,President and Vice President of the United States,None Of These Candidates,6
-19-Ranchos IV,President and Vice President of the United States,"Obama, Barack",387
+19-Ranchos IV,President,"Baldwin, Chuck",1
+19-Ranchos IV,President,"Barr, Bob",3
+19-Ranchos IV,President,"McCain, John",438
+19-Ranchos IV,President,"McKinney, Cynthia",1
+19-Ranchos IV,President,"NADER, RALPH",4
+19-Ranchos IV,President,None Of These Candidates,6
+19-Ranchos IV,President,"Obama, Barack",387
 19-Ranchos IV,School Board Trustee - Area 1,"CHESSELL, KAREN H.",367
 19-Ranchos IV,School Board Trustee - Area 1,"SWANSON, CHARLES H.",301
 19-Ranchos IV,School Board Trustee - Area 3,"FELTON, GREG",298
@@ -676,13 +676,13 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",426
 20-Birch/Ranchos,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",379
 20-Birch/Ranchos,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",292
-20-Birch/Ranchos,President and Vice President of the United States,"Baldwin, Chuck",11
-20-Birch/Ranchos,President and Vice President of the United States,"Barr, Bob",7
-20-Birch/Ranchos,President and Vice President of the United States,"McCain, John",396
-20-Birch/Ranchos,President and Vice President of the United States,"McKinney, Cynthia",1
-20-Birch/Ranchos,President and Vice President of the United States,"NADER, RALPH",4
-20-Birch/Ranchos,President and Vice President of the United States,None Of These Candidates,6
-20-Birch/Ranchos,President and Vice President of the United States,"Obama, Barack",417
+20-Birch/Ranchos,President,"Baldwin, Chuck",11
+20-Birch/Ranchos,President,"Barr, Bob",7
+20-Birch/Ranchos,President,"McCain, John",396
+20-Birch/Ranchos,President,"McKinney, Cynthia",1
+20-Birch/Ranchos,President,"NADER, RALPH",4
+20-Birch/Ranchos,President,None Of These Candidates,6
+20-Birch/Ranchos,President,"Obama, Barack",417
 20-Birch/Ranchos,School Board Trustee - Area 1,"CHESSELL, KAREN H.",373
 20-Birch/Ranchos,School Board Trustee - Area 1,"SWANSON, CHARLES H.",280
 20-Birch/Ranchos,School Board Trustee - Area 3,"FELTON, GREG",283
@@ -710,13 +710,13 @@ precinct,office,candidate,votes
 21-Wildhorse,County Commissioner District 3,"RIEMAN, ERIC",261
 21-Wildhorse,County Commissioner District 5,"EPSTEIN, NANCY",378
 21-Wildhorse,County Commissioner District 5,"OLSON, MICHAEL",524
-21-Wildhorse,President and Vice President of the United States,"Baldwin, Chuck",4
-21-Wildhorse,President and Vice President of the United States,"Barr, Bob",3
-21-Wildhorse,President and Vice President of the United States,"McCain, John",590
-21-Wildhorse,President and Vice President of the United States,"McKinney, Cynthia",4
-21-Wildhorse,President and Vice President of the United States,"NADER, RALPH",4
-21-Wildhorse,President and Vice President of the United States,None Of These Candidates,11
-21-Wildhorse,President and Vice President of the United States,"Obama, Barack",348
+21-Wildhorse,President,"Baldwin, Chuck",4
+21-Wildhorse,President,"Barr, Bob",3
+21-Wildhorse,President,"McCain, John",590
+21-Wildhorse,President,"McKinney, Cynthia",4
+21-Wildhorse,President,"NADER, RALPH",4
+21-Wildhorse,President,None Of These Candidates,11
+21-Wildhorse,President,"Obama, Barack",348
 21-Wildhorse,School Board Trustee - Area 1,"CHESSELL, KAREN H.",406
 21-Wildhorse,School Board Trustee - Area 1,"SWANSON, CHARLES H.",328
 21-Wildhorse,School Board Trustee - Area 3,"FELTON, GREG",345
@@ -743,13 +743,13 @@ precinct,office,candidate,votes
 22-Saratoga,County Commissioner District 3,"RIEMAN, ERIC",238
 22-Saratoga,County Commissioner District 5,"EPSTEIN, NANCY",356
 22-Saratoga,County Commissioner District 5,"OLSON, MICHAEL",579
-22-Saratoga,President and Vice President of the United States,"Baldwin, Chuck",2
-22-Saratoga,President and Vice President of the United States,"Barr, Bob",4
-22-Saratoga,President and Vice President of the United States,"McCain, John",617
-22-Saratoga,President and Vice President of the United States,"McKinney, Cynthia",1
-22-Saratoga,President and Vice President of the United States,"NADER, RALPH",4
-22-Saratoga,President and Vice President of the United States,None Of These Candidates,7
-22-Saratoga,President and Vice President of the United States,"Obama, Barack",350
+22-Saratoga,President,"Baldwin, Chuck",2
+22-Saratoga,President,"Barr, Bob",4
+22-Saratoga,President,"McCain, John",617
+22-Saratoga,President,"McKinney, Cynthia",1
+22-Saratoga,President,"NADER, RALPH",4
+22-Saratoga,President,None Of These Candidates,7
+22-Saratoga,President,"Obama, Barack",350
 22-Saratoga,School Board Trustee - Area 1,"CHESSELL, KAREN H.",424
 22-Saratoga,School Board Trustee - Area 1,"SWANSON, CHARLES H.",319
 22-Saratoga,School Board Trustee - Area 3,"FELTON, GREG",444
@@ -780,13 +780,13 @@ precinct,office,candidate,votes
 23-Indian Hills - East,Indian Hills G I D - 2 Seats,"BUFFO, BRIAN",167
 23-Indian Hills - East,Indian Hills G I D - 2 Seats,"HUMBLE, DIANNE",241
 23-Indian Hills - East,Indian Hills G I D - 2 Seats,"LAU, LAURA J.",265
-23-Indian Hills - East,President and Vice President of the United States,"Baldwin, Chuck",0
-23-Indian Hills - East,President and Vice President of the United States,"Barr, Bob",2
-23-Indian Hills - East,President and Vice President of the United States,"McCain, John",334
-23-Indian Hills - East,President and Vice President of the United States,"McKinney, Cynthia",1
-23-Indian Hills - East,President and Vice President of the United States,"NADER, RALPH",5
-23-Indian Hills - East,President and Vice President of the United States,None Of These Candidates,0
-23-Indian Hills - East,President and Vice President of the United States,"Obama, Barack",273
+23-Indian Hills - East,President,"Baldwin, Chuck",0
+23-Indian Hills - East,President,"Barr, Bob",2
+23-Indian Hills - East,President,"McCain, John",334
+23-Indian Hills - East,President,"McKinney, Cynthia",1
+23-Indian Hills - East,President,"NADER, RALPH",5
+23-Indian Hills - East,President,None Of These Candidates,0
+23-Indian Hills - East,President,"Obama, Barack",273
 23-Indian Hills - East,School Board Trustee - Area 1,"CHESSELL, KAREN H.",274
 23-Indian Hills - East,School Board Trustee - Area 1,"SWANSON, CHARLES H.",201
 23-Indian Hills - East,School Board Trustee - Area 3,"FELTON, GREG",217
@@ -813,13 +813,13 @@ precinct,office,candidate,votes
 24-Topaz Lake,County Commissioner District 3,"RIEMAN, ERIC",105
 24-Topaz Lake,County Commissioner District 5,"EPSTEIN, NANCY",127
 24-Topaz Lake,County Commissioner District 5,"OLSON, MICHAEL",211
-24-Topaz Lake,President and Vice President of the United States,"Baldwin, Chuck",2
-24-Topaz Lake,President and Vice President of the United States,"Barr, Bob",0
-24-Topaz Lake,President and Vice President of the United States,"McCain, John",231
-24-Topaz Lake,President and Vice President of the United States,"McKinney, Cynthia",1
-24-Topaz Lake,President and Vice President of the United States,"NADER, RALPH",3
-24-Topaz Lake,President and Vice President of the United States,None Of These Candidates,1
-24-Topaz Lake,President and Vice President of the United States,"Obama, Barack",125
+24-Topaz Lake,President,"Baldwin, Chuck",2
+24-Topaz Lake,President,"Barr, Bob",0
+24-Topaz Lake,President,"McCain, John",231
+24-Topaz Lake,President,"McKinney, Cynthia",1
+24-Topaz Lake,President,"NADER, RALPH",3
+24-Topaz Lake,President,None Of These Candidates,1
+24-Topaz Lake,President,"Obama, Barack",125
 24-Topaz Lake,School Board Trustee - Area 1,"CHESSELL, KAREN H.",144
 24-Topaz Lake,School Board Trustee - Area 1,"SWANSON, CHARLES H.",117
 24-Topaz Lake,School Board Trustee - Area 3,"FELTON, GREG",108
@@ -850,13 +850,13 @@ precinct,office,candidate,votes
 25-Pleasantview,Gardnerville Ranchos G I D - 2 Seats,"BALIGAD, CADE S.",503
 25-Pleasantview,Gardnerville Ranchos G I D - 2 Seats,"BOURNE, DAVID",505
 25-Pleasantview,Gardnerville Ranchos G I D - 2 Seats,"DAVIDSON, JEREMY",417
-25-Pleasantview,President and Vice President of the United States,"Baldwin, Chuck",3
-25-Pleasantview,President and Vice President of the United States,"Barr, Bob",6
-25-Pleasantview,President and Vice President of the United States,"McCain, John",658
-25-Pleasantview,President and Vice President of the United States,"McKinney, Cynthia",0
-25-Pleasantview,President and Vice President of the United States,"NADER, RALPH",5
-25-Pleasantview,President and Vice President of the United States,None Of These Candidates,7
-25-Pleasantview,President and Vice President of the United States,"Obama, Barack",452
+25-Pleasantview,President,"Baldwin, Chuck",3
+25-Pleasantview,President,"Barr, Bob",6
+25-Pleasantview,President,"McCain, John",658
+25-Pleasantview,President,"McKinney, Cynthia",0
+25-Pleasantview,President,"NADER, RALPH",5
+25-Pleasantview,President,None Of These Candidates,7
+25-Pleasantview,President,"Obama, Barack",452
 25-Pleasantview,School Board Trustee - Area 1,"CHESSELL, KAREN H.",503
 25-Pleasantview,School Board Trustee - Area 1,"SWANSON, CHARLES H.",390
 25-Pleasantview,School Board Trustee - Area 3,"FELTON, GREG",450
@@ -883,13 +883,13 @@ precinct,office,candidate,votes
 26-Westwood,County Commissioner District 3,"RIEMAN, ERIC",125
 26-Westwood,County Commissioner District 5,"EPSTEIN, NANCY",194
 26-Westwood,County Commissioner District 5,"OLSON, MICHAEL",289
-26-Westwood,President and Vice President of the United States,"Baldwin, Chuck",1
-26-Westwood,President and Vice President of the United States,"Barr, Bob",2
-26-Westwood,President and Vice President of the United States,"McCain, John",306
-26-Westwood,President and Vice President of the United States,"McKinney, Cynthia",0
-26-Westwood,President and Vice President of the United States,"NADER, RALPH",7
-26-Westwood,President and Vice President of the United States,None Of These Candidates,1
-26-Westwood,President and Vice President of the United States,"Obama, Barack",202
+26-Westwood,President,"Baldwin, Chuck",1
+26-Westwood,President,"Barr, Bob",2
+26-Westwood,President,"McCain, John",306
+26-Westwood,President,"McKinney, Cynthia",0
+26-Westwood,President,"NADER, RALPH",7
+26-Westwood,President,None Of These Candidates,1
+26-Westwood,President,"Obama, Barack",202
 26-Westwood,School Board Trustee - Area 1,"CHESSELL, KAREN H.",223
 26-Westwood,School Board Trustee - Area 1,"SWANSON, CHARLES H.",154
 26-Westwood,School Board Trustee - Area 3,"FELTON, GREG",178
@@ -917,13 +917,13 @@ precinct,office,candidate,votes
 27-Winhaven,County Commissioner District 3,"RIEMAN, ERIC",144
 27-Winhaven,County Commissioner District 5,"EPSTEIN, NANCY",268
 27-Winhaven,County Commissioner District 5,"OLSON, MICHAEL",379
-27-Winhaven,President and Vice President of the United States,"Baldwin, Chuck",0
-27-Winhaven,President and Vice President of the United States,"Barr, Bob",9
-27-Winhaven,President and Vice President of the United States,"McCain, John",409
-27-Winhaven,President and Vice President of the United States,"McKinney, Cynthia",0
-27-Winhaven,President and Vice President of the United States,"NADER, RALPH",4
-27-Winhaven,President and Vice President of the United States,None Of These Candidates,1
-27-Winhaven,President and Vice President of the United States,"Obama, Barack",258
+27-Winhaven,President,"Baldwin, Chuck",0
+27-Winhaven,President,"Barr, Bob",9
+27-Winhaven,President,"McCain, John",409
+27-Winhaven,President,"McKinney, Cynthia",0
+27-Winhaven,President,"NADER, RALPH",4
+27-Winhaven,President,None Of These Candidates,1
+27-Winhaven,President,"Obama, Barack",258
 27-Winhaven,School Board Trustee - Area 1,"CHESSELL, KAREN H.",274
 27-Winhaven,School Board Trustee - Area 1,"SWANSON, CHARLES H.",209
 27-Winhaven,School Board Trustee - Area 3,"FELTON, GREG",248
@@ -951,13 +951,13 @@ precinct,office,candidate,votes
 28-Orchard Road,County Commissioner District 3,"RIEMAN, ERIC",61
 28-Orchard Road,County Commissioner District 5,"EPSTEIN, NANCY",94
 28-Orchard Road,County Commissioner District 5,"OLSON, MICHAEL",176
-28-Orchard Road,President and Vice President of the United States,"Baldwin, Chuck",0
-28-Orchard Road,President and Vice President of the United States,"Barr, Bob",4
-28-Orchard Road,President and Vice President of the United States,"McCain, John",188
-28-Orchard Road,President and Vice President of the United States,"McKinney, Cynthia",0
-28-Orchard Road,President and Vice President of the United States,"NADER, RALPH",1
-28-Orchard Road,President and Vice President of the United States,None Of These Candidates,6
-28-Orchard Road,President and Vice President of the United States,"Obama, Barack",90
+28-Orchard Road,President,"Baldwin, Chuck",0
+28-Orchard Road,President,"Barr, Bob",4
+28-Orchard Road,President,"McCain, John",188
+28-Orchard Road,President,"McKinney, Cynthia",0
+28-Orchard Road,President,"NADER, RALPH",1
+28-Orchard Road,President,None Of These Candidates,6
+28-Orchard Road,President,"Obama, Barack",90
 28-Orchard Road,School Board Trustee - Area 1,"CHESSELL, KAREN H.",105
 28-Orchard Road,School Board Trustee - Area 1,"SWANSON, CHARLES H.",88
 28-Orchard Road,School Board Trustee - Area 3,"FELTON, GREG",105
@@ -985,13 +985,13 @@ precinct,office,candidate,votes
 29-Autumn Hils,County Commissioner District 3,"RIEMAN, ERIC",118
 29-Autumn Hils,County Commissioner District 5,"EPSTEIN, NANCY",198
 29-Autumn Hils,County Commissioner District 5,"OLSON, MICHAEL",311
-29-Autumn Hils,President and Vice President of the United States,"Baldwin, Chuck",1
-29-Autumn Hils,President and Vice President of the United States,"Barr, Bob",0
-29-Autumn Hils,President and Vice President of the United States,"McCain, John",370
-29-Autumn Hils,President and Vice President of the United States,"McKinney, Cynthia",0
-29-Autumn Hils,President and Vice President of the United States,"NADER, RALPH",3
-29-Autumn Hils,President and Vice President of the United States,None Of These Candidates,4
-29-Autumn Hils,President and Vice President of the United States,"Obama, Barack",173
+29-Autumn Hils,President,"Baldwin, Chuck",1
+29-Autumn Hils,President,"Barr, Bob",0
+29-Autumn Hils,President,"McCain, John",370
+29-Autumn Hils,President,"McKinney, Cynthia",0
+29-Autumn Hils,President,"NADER, RALPH",3
+29-Autumn Hils,President,None Of These Candidates,4
+29-Autumn Hils,President,"Obama, Barack",173
 29-Autumn Hils,School Board Trustee - Area 1,"CHESSELL, KAREN H.",176
 29-Autumn Hils,School Board Trustee - Area 1,"SWANSON, CHARLES H.",181
 29-Autumn Hils,School Board Trustee - Area 3,"FELTON, GREG",186
@@ -1018,13 +1018,13 @@ precinct,office,candidate,votes
 30-East Fork,County Commissioner District 3,"RIEMAN, ERIC",
 30-East Fork,County Commissioner District 5,"EPSTEIN, NANCY",
 30-East Fork,County Commissioner District 5,"OLSON, MICHAEL",
-30-East Fork,President and Vice President of the United States,"Baldwin, Chuck",
-30-East Fork,President and Vice President of the United States,"Barr, Bob",
-30-East Fork,President and Vice President of the United States,"McCain, John",
-30-East Fork,President and Vice President of the United States,"McKinney, Cynthia",
-30-East Fork,President and Vice President of the United States,"NADER, RALPH",
-30-East Fork,President and Vice President of the United States,None Of These Candidates,
-30-East Fork,President and Vice President of the United States,"Obama, Barack",
+30-East Fork,President,"Baldwin, Chuck",
+30-East Fork,President,"Barr, Bob",
+30-East Fork,President,"McCain, John",
+30-East Fork,President,"McKinney, Cynthia",
+30-East Fork,President,"NADER, RALPH",
+30-East Fork,President,None Of These Candidates,
+30-East Fork,President,"Obama, Barack",
 30-East Fork,School Board Trustee - Area 1,"CHESSELL, KAREN H.",
 30-East Fork,School Board Trustee - Area 1,"SWANSON, CHARLES H.",
 30-East Fork,School Board Trustee - Area 3,"FELTON, GREG",
@@ -1052,13 +1052,13 @@ precinct,office,candidate,votes
 31-Chichester,County Commissioner District 3,"RIEMAN, ERIC",143
 31-Chichester,County Commissioner District 5,"EPSTEIN, NANCY",198
 31-Chichester,County Commissioner District 5,"OLSON, MICHAEL",312
-31-Chichester,President and Vice President of the United States,"Baldwin, Chuck",4
-31-Chichester,President and Vice President of the United States,"Barr, Bob",0
-31-Chichester,President and Vice President of the United States,"McCain, John",346
-31-Chichester,President and Vice President of the United States,"McKinney, Cynthia",0
-31-Chichester,President and Vice President of the United States,"NADER, RALPH",4
-31-Chichester,President and Vice President of the United States,None Of These Candidates,1
-31-Chichester,President and Vice President of the United States,"Obama, Barack",188
+31-Chichester,President,"Baldwin, Chuck",4
+31-Chichester,President,"Barr, Bob",0
+31-Chichester,President,"McCain, John",346
+31-Chichester,President,"McKinney, Cynthia",0
+31-Chichester,President,"NADER, RALPH",4
+31-Chichester,President,None Of These Candidates,1
+31-Chichester,President,"Obama, Barack",188
 31-Chichester,School Board Trustee - Area 1,"CHESSELL, KAREN H.",229
 31-Chichester,School Board Trustee - Area 1,"SWANSON, CHARLES H.",169
 31-Chichester,School Board Trustee - Area 3,"FELTON, GREG",187
@@ -1089,13 +1089,13 @@ precinct,office,candidate,votes
 32-East Valley,County Commissioner District 3,"RIEMAN, ERIC",96
 32-East Valley,County Commissioner District 5,"EPSTEIN, NANCY",153
 32-East Valley,County Commissioner District 5,"OLSON, MICHAEL",226
-32-East Valley,President and Vice President of the United States,"Baldwin, Chuck",3
-32-East Valley,President and Vice President of the United States,"Barr, Bob",3
-32-East Valley,President and Vice President of the United States,"McCain, John",268
-32-East Valley,President and Vice President of the United States,"McKinney, Cynthia",0
-32-East Valley,President and Vice President of the United States,"NADER, RALPH",1
-32-East Valley,President and Vice President of the United States,None Of These Candidates,3
-32-East Valley,President and Vice President of the United States,"Obama, Barack",124
+32-East Valley,President,"Baldwin, Chuck",3
+32-East Valley,President,"Barr, Bob",3
+32-East Valley,President,"McCain, John",268
+32-East Valley,President,"McKinney, Cynthia",0
+32-East Valley,President,"NADER, RALPH",1
+32-East Valley,President,None Of These Candidates,3
+32-East Valley,President,"Obama, Barack",124
 32-East Valley,School Board Trustee - Area 1,"CHESSELL, KAREN H.",163
 32-East Valley,School Board Trustee - Area 1,"SWANSON, CHARLES H.",107
 32-East Valley,School Board Trustee - Area 3,"FELTON, GREG",119
@@ -1122,13 +1122,13 @@ precinct,office,candidate,votes
 33-Hot Springs,County Commissioner District 3,"RIEMAN, ERIC",106
 33-Hot Springs,County Commissioner District 5,"EPSTEIN, NANCY",192
 33-Hot Springs,County Commissioner District 5,"OLSON, MICHAEL",222
-33-Hot Springs,President and Vice President of the United States,"Baldwin, Chuck",2
-33-Hot Springs,President and Vice President of the United States,"Barr, Bob",3
-33-Hot Springs,President and Vice President of the United States,"McCain, John",252
-33-Hot Springs,President and Vice President of the United States,"McKinney, Cynthia",1
-33-Hot Springs,President and Vice President of the United States,"NADER, RALPH",5
-33-Hot Springs,President and Vice President of the United States,None Of These Candidates,4
-33-Hot Springs,President and Vice President of the United States,"Obama, Barack",162
+33-Hot Springs,President,"Baldwin, Chuck",2
+33-Hot Springs,President,"Barr, Bob",3
+33-Hot Springs,President,"McCain, John",252
+33-Hot Springs,President,"McKinney, Cynthia",1
+33-Hot Springs,President,"NADER, RALPH",5
+33-Hot Springs,President,None Of These Candidates,4
+33-Hot Springs,President,"Obama, Barack",162
 33-Hot Springs,School Board Trustee - Area 1,"CHESSELL, KAREN H.",186
 33-Hot Springs,School Board Trustee - Area 1,"SWANSON, CHARLES H.",147
 33-Hot Springs,School Board Trustee - Area 3,"FELTON, GREG",157
@@ -1159,13 +1159,13 @@ precinct,office,candidate,votes
 34-Sundridge,Indian Hills G I D - 2 Seats,"BUFFO, BRIAN",109
 34-Sundridge,Indian Hills G I D - 2 Seats,"HUMBLE, DIANNE",141
 34-Sundridge,Indian Hills G I D - 2 Seats,"LAU, LAURA J.",154
-34-Sundridge,President and Vice President of the United States,"Baldwin, Chuck",3
-34-Sundridge,President and Vice President of the United States,"Barr, Bob",1
-34-Sundridge,President and Vice President of the United States,"McCain, John",194
-34-Sundridge,President and Vice President of the United States,"McKinney, Cynthia",1
-34-Sundridge,President and Vice President of the United States,"NADER, RALPH",0
-34-Sundridge,President and Vice President of the United States,None Of These Candidates,0
-34-Sundridge,President and Vice President of the United States,"Obama, Barack",162
+34-Sundridge,President,"Baldwin, Chuck",3
+34-Sundridge,President,"Barr, Bob",1
+34-Sundridge,President,"McCain, John",194
+34-Sundridge,President,"McKinney, Cynthia",1
+34-Sundridge,President,"NADER, RALPH",0
+34-Sundridge,President,None Of These Candidates,0
+34-Sundridge,President,"Obama, Barack",162
 34-Sundridge,School Board Trustee - Area 1,"CHESSELL, KAREN H.",149
 34-Sundridge,School Board Trustee - Area 1,"SWANSON, CHARLES H.",115
 34-Sundridge,School Board Trustee - Area 3,"FELTON, GREG",104
@@ -1192,13 +1192,13 @@ precinct,office,candidate,votes
 35-Glenbrook,County Commissioner District 3,"RIEMAN, ERIC",80
 35-Glenbrook,County Commissioner District 5,"EPSTEIN, NANCY",88
 35-Glenbrook,County Commissioner District 5,"OLSON, MICHAEL",233
-35-Glenbrook,President and Vice President of the United States,"Baldwin, Chuck",1
-35-Glenbrook,President and Vice President of the United States,"Barr, Bob",1
-35-Glenbrook,President and Vice President of the United States,"McCain, John",227
-35-Glenbrook,President and Vice President of the United States,"McKinney, Cynthia",0
-35-Glenbrook,President and Vice President of the United States,"NADER, RALPH",0
-35-Glenbrook,President and Vice President of the United States,None Of These Candidates,1
-35-Glenbrook,President and Vice President of the United States,"Obama, Barack",116
+35-Glenbrook,President,"Baldwin, Chuck",1
+35-Glenbrook,President,"Barr, Bob",1
+35-Glenbrook,President,"McCain, John",227
+35-Glenbrook,President,"McKinney, Cynthia",0
+35-Glenbrook,President,"NADER, RALPH",0
+35-Glenbrook,President,None Of These Candidates,1
+35-Glenbrook,President,"Obama, Barack",116
 35-Glenbrook,School Board Trustee - Area 1,"CHESSELL, KAREN H.",111
 35-Glenbrook,School Board Trustee - Area 1,"SWANSON, CHARLES H.",96
 35-Glenbrook,School Board Trustee - Area 3,"FELTON, GREG",124
@@ -1225,13 +1225,13 @@ precinct,office,candidate,votes
 36-Skyland,County Commissioner District 3,"RIEMAN, ERIC",74
 36-Skyland,County Commissioner District 5,"EPSTEIN, NANCY",108
 36-Skyland,County Commissioner District 5,"OLSON, MICHAEL",264
-36-Skyland,President and Vice President of the United States,"Baldwin, Chuck",3
-36-Skyland,President and Vice President of the United States,"Barr, Bob",3
-36-Skyland,President and Vice President of the United States,"McCain, John",274
-36-Skyland,President and Vice President of the United States,"McKinney, Cynthia",0
-36-Skyland,President and Vice President of the United States,"NADER, RALPH",1
-36-Skyland,President and Vice President of the United States,None Of These Candidates,3
-36-Skyland,President and Vice President of the United States,"Obama, Barack",126
+36-Skyland,President,"Baldwin, Chuck",3
+36-Skyland,President,"Barr, Bob",3
+36-Skyland,President,"McCain, John",274
+36-Skyland,President,"McKinney, Cynthia",0
+36-Skyland,President,"NADER, RALPH",1
+36-Skyland,President,None Of These Candidates,3
+36-Skyland,President,"Obama, Barack",126
 36-Skyland,School Board Trustee - Area 1,"CHESSELL, KAREN H.",127
 36-Skyland,School Board Trustee - Area 1,"SWANSON, CHARLES H.",127
 36-Skyland,School Board Trustee - Area 3,"FELTON, GREG",213
@@ -1258,13 +1258,13 @@ precinct,office,candidate,votes
 37-Zephyr Cove,County Commissioner District 3,"RIEMAN, ERIC",102
 37-Zephyr Cove,County Commissioner District 5,"EPSTEIN, NANCY",154
 37-Zephyr Cove,County Commissioner District 5,"OLSON, MICHAEL",208
-37-Zephyr Cove,President and Vice President of the United States,"Baldwin, Chuck",0
-37-Zephyr Cove,President and Vice President of the United States,"Barr, Bob",1
-37-Zephyr Cove,President and Vice President of the United States,"McCain, John",196
-37-Zephyr Cove,President and Vice President of the United States,"McKinney, Cynthia",3
-37-Zephyr Cove,President and Vice President of the United States,"NADER, RALPH",2
-37-Zephyr Cove,President and Vice President of the United States,None Of These Candidates,5
-37-Zephyr Cove,President and Vice President of the United States,"Obama, Barack",199
+37-Zephyr Cove,President,"Baldwin, Chuck",0
+37-Zephyr Cove,President,"Barr, Bob",1
+37-Zephyr Cove,President,"McCain, John",196
+37-Zephyr Cove,President,"McKinney, Cynthia",3
+37-Zephyr Cove,President,"NADER, RALPH",2
+37-Zephyr Cove,President,None Of These Candidates,5
+37-Zephyr Cove,President,"Obama, Barack",199
 37-Zephyr Cove,Round Hill G I D - 2 Seats,"DORTON, BRAD",15
 37-Zephyr Cove,Round Hill G I D - 2 Seats,"FAGEN, CHUCK",6
 37-Zephyr Cove,Round Hill G I D - 2 Seats,"RICE, WES",9
@@ -1295,13 +1295,13 @@ precinct,office,candidate,votes
 38-Round Hill,County Commissioner District 3,"RIEMAN, ERIC",140
 38-Round Hill,County Commissioner District 5,"EPSTEIN, NANCY",203
 38-Round Hill,County Commissioner District 5,"OLSON, MICHAEL",264
-38-Round Hill,President and Vice President of the United States,"Baldwin, Chuck",1
-38-Round Hill,President and Vice President of the United States,"Barr, Bob",5
-38-Round Hill,President and Vice President of the United States,"McCain, John",242
-38-Round Hill,President and Vice President of the United States,"McKinney, Cynthia",1
-38-Round Hill,President and Vice President of the United States,"NADER, RALPH",3
-38-Round Hill,President and Vice President of the United States,None Of These Candidates,2
-38-Round Hill,President and Vice President of the United States,"Obama, Barack",259
+38-Round Hill,President,"Baldwin, Chuck",1
+38-Round Hill,President,"Barr, Bob",5
+38-Round Hill,President,"McCain, John",242
+38-Round Hill,President,"McKinney, Cynthia",1
+38-Round Hill,President,"NADER, RALPH",3
+38-Round Hill,President,None Of These Candidates,2
+38-Round Hill,President,"Obama, Barack",259
 38-Round Hill,Round Hill G I D - 2 Seats,"DORTON, BRAD",88
 38-Round Hill,Round Hill G I D - 2 Seats,"FAGEN, CHUCK",94
 38-Round Hill,Round Hill G I D - 2 Seats,"RICE, WES",133
@@ -1332,13 +1332,13 @@ precinct,office,candidate,votes
 39-Edgewood,County Commissioner District 3,"RIEMAN, ERIC",108
 39-Edgewood,County Commissioner District 5,"EPSTEIN, NANCY",135
 39-Edgewood,County Commissioner District 5,"OLSON, MICHAEL",75
-39-Edgewood,President and Vice President of the United States,"Baldwin, Chuck",3
-39-Edgewood,President and Vice President of the United States,"Barr, Bob",1
-39-Edgewood,President and Vice President of the United States,"McCain, John",78
-39-Edgewood,President and Vice President of the United States,"McKinney, Cynthia",1
-39-Edgewood,President and Vice President of the United States,"NADER, RALPH",0
-39-Edgewood,President and Vice President of the United States,None Of These Candidates,2
-39-Edgewood,President and Vice President of the United States,"Obama, Barack",143
+39-Edgewood,President,"Baldwin, Chuck",3
+39-Edgewood,President,"Barr, Bob",1
+39-Edgewood,President,"McCain, John",78
+39-Edgewood,President,"McKinney, Cynthia",1
+39-Edgewood,President,"NADER, RALPH",0
+39-Edgewood,President,None Of These Candidates,2
+39-Edgewood,President,"Obama, Barack",143
 39-Edgewood,School Board Trustee - Area 1,"CHESSELL, KAREN H.",101
 39-Edgewood,School Board Trustee - Area 1,"SWANSON, CHARLES H.",69
 39-Edgewood,School Board Trustee - Area 3,"FELTON, GREG",81
@@ -1365,13 +1365,13 @@ precinct,office,candidate,votes
 40-Kingsbury,County Commissioner District 3,"RIEMAN, ERIC",228
 40-Kingsbury,County Commissioner District 5,"EPSTEIN, NANCY",317
 40-Kingsbury,County Commissioner District 5,"OLSON, MICHAEL",342
-40-Kingsbury,President and Vice President of the United States,"Baldwin, Chuck",0
-40-Kingsbury,President and Vice President of the United States,"Barr, Bob",7
-40-Kingsbury,President and Vice President of the United States,"McCain, John",321
-40-Kingsbury,President and Vice President of the United States,"McKinney, Cynthia",2
-40-Kingsbury,President and Vice President of the United States,"NADER, RALPH",4
-40-Kingsbury,President and Vice President of the United States,None Of These Candidates,3
-40-Kingsbury,President and Vice President of the United States,"Obama, Barack",383
+40-Kingsbury,President,"Baldwin, Chuck",0
+40-Kingsbury,President,"Barr, Bob",7
+40-Kingsbury,President,"McCain, John",321
+40-Kingsbury,President,"McKinney, Cynthia",2
+40-Kingsbury,President,"NADER, RALPH",4
+40-Kingsbury,President,None Of These Candidates,3
+40-Kingsbury,President,"Obama, Barack",383
 40-Kingsbury,School Board Trustee - Area 1,"CHESSELL, KAREN H.",283
 40-Kingsbury,School Board Trustee - Area 1,"SWANSON, CHARLES H.",220
 40-Kingsbury,School Board Trustee - Area 3,"FELTON, GREG",311
@@ -1398,13 +1398,13 @@ precinct,office,candidate,votes
 41-Daggett,County Commissioner District 3,"RIEMAN, ERIC",264
 41-Daggett,County Commissioner District 5,"EPSTEIN, NANCY",355
 41-Daggett,County Commissioner District 5,"OLSON, MICHAEL",262
-41-Daggett,President and Vice President of the United States,"Baldwin, Chuck",0
-41-Daggett,President and Vice President of the United States,"Barr, Bob",6
-41-Daggett,President and Vice President of the United States,"McCain, John",249
-41-Daggett,President and Vice President of the United States,"McKinney, Cynthia",0
-41-Daggett,President and Vice President of the United States,"NADER, RALPH",3
-41-Daggett,President and Vice President of the United States,None Of These Candidates,2
-41-Daggett,President and Vice President of the United States,"Obama, Barack",429
+41-Daggett,President,"Baldwin, Chuck",0
+41-Daggett,President,"Barr, Bob",6
+41-Daggett,President,"McCain, John",249
+41-Daggett,President,"McKinney, Cynthia",0
+41-Daggett,President,"NADER, RALPH",3
+41-Daggett,President,None Of These Candidates,2
+41-Daggett,President,"Obama, Barack",429
 41-Daggett,School Board Trustee - Area 1,"CHESSELL, KAREN H.",261
 41-Daggett,School Board Trustee - Area 1,"SWANSON, CHARLES H.",199
 41-Daggett,School Board Trustee - Area 3,"FELTON, GREG",253
@@ -1425,20 +1425,20 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2","Everhart, John",18
 41-Daggett,"U.S. Representative in Congress, District 2","HELLER, DEAN",262
 41-Daggett,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",20
-Precinct 88,President and Vice President of the United States,"Baldwin, Chuck",
-Precinct 88,President and Vice President of the United States,"Barr, Bob",
-Precinct 88,President and Vice President of the United States,"McCain, John",
-Precinct 88,President and Vice President of the United States,"McKinney, Cynthia",
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"Obama, Barack",
-Precinct 999,President and Vice President of the United States,"Baldwin, Chuck",
-Precinct 999,President and Vice President of the United States,"Barr, Bob",
-Precinct 999,President and Vice President of the United States,"McCain, John",
-Precinct 999,President and Vice President of the United States,"McKinney, Cynthia",
-Precinct 999,President and Vice President of the United States,"NADER, RALPH",
-Precinct 999,President and Vice President of the United States,None Of These Candidates,
-Precinct 999,President and Vice President of the United States,"Obama, Barack",
+Precinct 88,President,"Baldwin, Chuck",
+Precinct 88,President,"Barr, Bob",
+Precinct 88,President,"McCain, John",
+Precinct 88,President,"McKinney, Cynthia",
+Precinct 88,President,"NADER, RALPH",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"Obama, Barack",
+Precinct 999,President,"Baldwin, Chuck",
+Precinct 999,President,"Barr, Bob",
+Precinct 999,President,"McCain, John",
+Precinct 999,President,"McKinney, Cynthia",
+Precinct 999,President,"NADER, RALPH",
+Precinct 999,President,None Of These Candidates,
+Precinct 999,President,"Obama, Barack",
 Precinct 999,"U.S. Representative in Congress, District 2","Bergland, Craig",
 Precinct 999,"U.S. Representative in Congress, District 2","DERBY, JILL",
 Precinct 999,"U.S. Representative in Congress, District 2","Everhart, John",

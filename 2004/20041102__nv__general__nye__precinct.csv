@@ -1,12 +1,12 @@
 precinct,office,candidate,votes
 AMARGOSA VLY O6,County Commissioner District II,"EASTLEY, JONI",272
-AMARGOSA VLY O6,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-AMARGOSA VLY O6,President and Vice President of the United States,"BUSH, GEORGE W.",215
-AMARGOSA VLY O6,President and Vice President of the United States,"COBB, DAVID",0
-AMARGOSA VLY O6,President and Vice President of the United States,"KERRY, JOHN F.",104
-AMARGOSA VLY O6,President and Vice President of the United States,"NADER, RALPH",2
-AMARGOSA VLY O6,President and Vice President of the United States,None Of These Candidates,2
-AMARGOSA VLY O6,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+AMARGOSA VLY O6,President,"BADNARIK, MICHAEL",1
+AMARGOSA VLY O6,President,"BUSH, GEORGE W.",215
+AMARGOSA VLY O6,President,"COBB, DAVID",0
+AMARGOSA VLY O6,President,"KERRY, JOHN F.",104
+AMARGOSA VLY O6,President,"NADER, RALPH",2
+AMARGOSA VLY O6,President,None Of These Candidates,2
+AMARGOSA VLY O6,President,"PEROUTKA, MICHAEL A.",3
 AMARGOSA VLY O6,"State Assembly, District 36","HOLMGREN, JACKIE A.",77
 AMARGOSA VLY O6,"State Assembly, District 36","SHERERH, RODERICK ""R",227
 AMARGOSA VLY O6,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",18
@@ -25,22 +25,22 @@ AMARGOSA VLY O6,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2","GIBBONS, JIM",204
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",26
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-AMARGOSA VLY O6,United States Senator,"HURST, THOMAS L.",4
-AMARGOSA VLY O6,United States Senator,"MARINCH, GARY",3
-AMARGOSA VLY O6,United States Senator,None Of These Candidates,9
-AMARGOSA VLY O6,United States Senator,"REID, HARRY",139
-AMARGOSA VLY O6,United States Senator,"SCHUMANN, DAVID K.",8
-AMARGOSA VLY O6,United States Senator,"ZISER, RICHARD",158
+AMARGOSA VLY O6,U.S. Senate,"HURST, THOMAS L.",4
+AMARGOSA VLY O6,U.S. Senate,"MARINCH, GARY",3
+AMARGOSA VLY O6,U.S. Senate,None Of These Candidates,9
+AMARGOSA VLY O6,U.S. Senate,"REID, HARRY",139
+AMARGOSA VLY O6,U.S. Senate,"SCHUMANN, DAVID K.",8
+AMARGOSA VLY O6,U.S. Senate,"ZISER, RICHARD",158
 AMARGOSA VLY O6,"University Board of Regents, District  8","AIAZZI, STAN",88
 AMARGOSA VLY O6,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",192
 BEATTY 01,County Commissioner District II,"EASTLEY, JONI",340
-BEATTY 01,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-BEATTY 01,President and Vice President of the United States,"BUSH, GEORGE W.",261
-BEATTY 01,President and Vice President of the United States,"COBB, DAVID",0
-BEATTY 01,President and Vice President of the United States,"KERRY, JOHN F.",115
-BEATTY 01,President and Vice President of the United States,"NADER, RALPH",3
-BEATTY 01,President and Vice President of the United States,None Of These Candidates,5
-BEATTY 01,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+BEATTY 01,President,"BADNARIK, MICHAEL",6
+BEATTY 01,President,"BUSH, GEORGE W.",261
+BEATTY 01,President,"COBB, DAVID",0
+BEATTY 01,President,"KERRY, JOHN F.",115
+BEATTY 01,President,"NADER, RALPH",3
+BEATTY 01,President,None Of These Candidates,5
+BEATTY 01,President,"PEROUTKA, MICHAEL A.",2
 BEATTY 01,"State Assembly, District 36","HOLMGREN, JACKIE A.",119
 BEATTY 01,"State Assembly, District 36","SHERERH, RODERICK ""R",245
 BEATTY 01,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",28
@@ -59,23 +59,23 @@ BEATTY 01,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",93
 BEATTY 01,"U.S. Representative in Congress, District 2","GIBBONS, JIM",251
 BEATTY 01,"U.S. Representative in Congress, District 2","HANSEN, JANINE",30
 BEATTY 01,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-BEATTY 01,United States Senator,"HURST, THOMAS L.",9
-BEATTY 01,United States Senator,"MARINCH, GARY",1
-BEATTY 01,United States Senator,None Of These Candidates,5
-BEATTY 01,United States Senator,"REID, HARRY",162
-BEATTY 01,United States Senator,"SCHUMANN, DAVID K.",18
-BEATTY 01,United States Senator,"ZISER, RICHARD",189
+BEATTY 01,U.S. Senate,"HURST, THOMAS L.",9
+BEATTY 01,U.S. Senate,"MARINCH, GARY",1
+BEATTY 01,U.S. Senate,None Of These Candidates,5
+BEATTY 01,U.S. Senate,"REID, HARRY",162
+BEATTY 01,U.S. Senate,"SCHUMANN, DAVID K.",18
+BEATTY 01,U.S. Senate,"ZISER, RICHARD",189
 BEATTY 01,"University Board of Regents, District  8","AIAZZI, STAN",89
 BEATTY 01,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",239
 CURRANT 02,County Commissioner District I,"CARVER, MIDGE",43
 CURRANT 02,County Commissioner District I,"KULKIN, HARLEY Z.",2
-CURRANT 02,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-CURRANT 02,President and Vice President of the United States,"BUSH, GEORGE W.",36
-CURRANT 02,President and Vice President of the United States,"COBB, DAVID",0
-CURRANT 02,President and Vice President of the United States,"KERRY, JOHN F.",8
-CURRANT 02,President and Vice President of the United States,"NADER, RALPH",0
-CURRANT 02,President and Vice President of the United States,None Of These Candidates,1
-CURRANT 02,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+CURRANT 02,President,"BADNARIK, MICHAEL",0
+CURRANT 02,President,"BUSH, GEORGE W.",36
+CURRANT 02,President,"COBB, DAVID",0
+CURRANT 02,President,"KERRY, JOHN F.",8
+CURRANT 02,President,"NADER, RALPH",0
+CURRANT 02,President,None Of These Candidates,1
+CURRANT 02,President,"PEROUTKA, MICHAEL A.",0
 CURRANT 02,"State Assembly, District 36","HOLMGREN, JACKIE A.",11
 CURRANT 02,"State Assembly, District 36","SHERERH, RODERICK ""R",31
 CURRANT 02,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",10
@@ -93,23 +93,23 @@ CURRANT 02,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 CURRANT 02,"U.S. Representative in Congress, District 2","GIBBONS, JIM",40
 CURRANT 02,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 CURRANT 02,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-CURRANT 02,United States Senator,"HURST, THOMAS L.",4
-CURRANT 02,United States Senator,"MARINCH, GARY",0
-CURRANT 02,United States Senator,None Of These Candidates,1
-CURRANT 02,United States Senator,"REID, HARRY",9
-CURRANT 02,United States Senator,"SCHUMANN, DAVID K.",2
-CURRANT 02,United States Senator,"ZISER, RICHARD",29
+CURRANT 02,U.S. Senate,"HURST, THOMAS L.",4
+CURRANT 02,U.S. Senate,"MARINCH, GARY",0
+CURRANT 02,U.S. Senate,None Of These Candidates,1
+CURRANT 02,U.S. Senate,"REID, HARRY",9
+CURRANT 02,U.S. Senate,"SCHUMANN, DAVID K.",2
+CURRANT 02,U.S. Senate,"ZISER, RICHARD",29
 CURRANT 02,"University Board of Regents, District  8","AIAZZI, STAN",12
 CURRANT 02,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",28
 DUCKWATER 03,County Commissioner District I,"CARVER, MIDGE",29
 DUCKWATER 03,County Commissioner District I,"KULKIN, HARLEY Z.",8
-DUCKWATER 03,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-DUCKWATER 03,President and Vice President of the United States,"BUSH, GEORGE W.",23
-DUCKWATER 03,President and Vice President of the United States,"COBB, DAVID",0
-DUCKWATER 03,President and Vice President of the United States,"KERRY, JOHN F.",15
-DUCKWATER 03,President and Vice President of the United States,"NADER, RALPH",0
-DUCKWATER 03,President and Vice President of the United States,None Of These Candidates,0
-DUCKWATER 03,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+DUCKWATER 03,President,"BADNARIK, MICHAEL",0
+DUCKWATER 03,President,"BUSH, GEORGE W.",23
+DUCKWATER 03,President,"COBB, DAVID",0
+DUCKWATER 03,President,"KERRY, JOHN F.",15
+DUCKWATER 03,President,"NADER, RALPH",0
+DUCKWATER 03,President,None Of These Candidates,0
+DUCKWATER 03,President,"PEROUTKA, MICHAEL A.",0
 DUCKWATER 03,"State Assembly, District 36","HOLMGREN, JACKIE A.",19
 DUCKWATER 03,"State Assembly, District 36","SHERERH, RODERICK ""R",19
 DUCKWATER 03,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",19
@@ -127,23 +127,23 @@ DUCKWATER 03,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 DUCKWATER 03,"U.S. Representative in Congress, District 2","GIBBONS, JIM",24
 DUCKWATER 03,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 DUCKWATER 03,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-DUCKWATER 03,United States Senator,"HURST, THOMAS L.",0
-DUCKWATER 03,United States Senator,"MARINCH, GARY",0
-DUCKWATER 03,United States Senator,None Of These Candidates,2
-DUCKWATER 03,United States Senator,"REID, HARRY",28
-DUCKWATER 03,United States Senator,"SCHUMANN, DAVID K.",0
-DUCKWATER 03,United States Senator,"ZISER, RICHARD",8
+DUCKWATER 03,U.S. Senate,"HURST, THOMAS L.",0
+DUCKWATER 03,U.S. Senate,"MARINCH, GARY",0
+DUCKWATER 03,U.S. Senate,None Of These Candidates,2
+DUCKWATER 03,U.S. Senate,"REID, HARRY",28
+DUCKWATER 03,U.S. Senate,"SCHUMANN, DAVID K.",0
+DUCKWATER 03,U.S. Senate,"ZISER, RICHARD",8
 DUCKWATER 03,"University Board of Regents, District  8","AIAZZI, STAN",13
 DUCKWATER 03,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",23
 FORTY BAR 18,County Commissioner District I,"CARVER, MIDGE",27
 FORTY BAR 18,County Commissioner District I,"KULKIN, HARLEY Z.",15
-FORTY BAR 18,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-FORTY BAR 18,President and Vice President of the United States,"BUSH, GEORGE W.",21
-FORTY BAR 18,President and Vice President of the United States,"COBB, DAVID",0
-FORTY BAR 18,President and Vice President of the United States,"KERRY, JOHN F.",19
-FORTY BAR 18,President and Vice President of the United States,"NADER, RALPH",0
-FORTY BAR 18,President and Vice President of the United States,None Of These Candidates,2
-FORTY BAR 18,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+FORTY BAR 18,President,"BADNARIK, MICHAEL",2
+FORTY BAR 18,President,"BUSH, GEORGE W.",21
+FORTY BAR 18,President,"COBB, DAVID",0
+FORTY BAR 18,President,"KERRY, JOHN F.",19
+FORTY BAR 18,President,"NADER, RALPH",0
+FORTY BAR 18,President,None Of These Candidates,2
+FORTY BAR 18,President,"PEROUTKA, MICHAEL A.",0
 FORTY BAR 18,"State Assembly, District 36","HOLMGREN, JACKIE A.",13
 FORTY BAR 18,"State Assembly, District 36","SHERERH, RODERICK ""R",25
 FORTY BAR 18,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",6
@@ -162,23 +162,23 @@ FORTY BAR 18,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 FORTY BAR 18,"U.S. Representative in Congress, District 2","GIBBONS, JIM",18
 FORTY BAR 18,"U.S. Representative in Congress, District 2","HANSEN, JANINE",3
 FORTY BAR 18,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-FORTY BAR 18,United States Senator,"HURST, THOMAS L.",2
-FORTY BAR 18,United States Senator,"MARINCH, GARY",1
-FORTY BAR 18,United States Senator,None Of These Candidates,2
-FORTY BAR 18,United States Senator,"REID, HARRY",24
-FORTY BAR 18,United States Senator,"SCHUMANN, DAVID K.",0
-FORTY BAR 18,United States Senator,"ZISER, RICHARD",15
+FORTY BAR 18,U.S. Senate,"HURST, THOMAS L.",2
+FORTY BAR 18,U.S. Senate,"MARINCH, GARY",1
+FORTY BAR 18,U.S. Senate,None Of These Candidates,2
+FORTY BAR 18,U.S. Senate,"REID, HARRY",24
+FORTY BAR 18,U.S. Senate,"SCHUMANN, DAVID K.",0
+FORTY BAR 18,U.S. Senate,"ZISER, RICHARD",15
 FORTY BAR 18,"University Board of Regents, District  8","AIAZZI, STAN",13
 FORTY BAR 18,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",18
 GABBS 04,County Commissioner District I,"CARVER, MIDGE",81
 GABBS 04,County Commissioner District I,"KULKIN, HARLEY Z.",37
-GABBS 04,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-GABBS 04,President and Vice President of the United States,"BUSH, GEORGE W.",74
-GABBS 04,President and Vice President of the United States,"COBB, DAVID",0
-GABBS 04,President and Vice President of the United States,"KERRY, JOHN F.",40
-GABBS 04,President and Vice President of the United States,"NADER, RALPH",1
-GABBS 04,President and Vice President of the United States,None Of These Candidates,3
-GABBS 04,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+GABBS 04,President,"BADNARIK, MICHAEL",1
+GABBS 04,President,"BUSH, GEORGE W.",74
+GABBS 04,President,"COBB, DAVID",0
+GABBS 04,President,"KERRY, JOHN F.",40
+GABBS 04,President,"NADER, RALPH",1
+GABBS 04,President,None Of These Candidates,3
+GABBS 04,President,"PEROUTKA, MICHAEL A.",1
 GABBS 04,"State Assembly, District 36","HOLMGREN, JACKIE A.",49
 GABBS 04,"State Assembly, District 36","SHERERH, RODERICK ""R",66
 GABBS 04,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",7
@@ -197,23 +197,23 @@ GABBS 04,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",38
 GABBS 04,"U.S. Representative in Congress, District 2","GIBBONS, JIM",73
 GABBS 04,"U.S. Representative in Congress, District 2","HANSEN, JANINE",6
 GABBS 04,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-GABBS 04,United States Senator,"HURST, THOMAS L.",1
-GABBS 04,United States Senator,"MARINCH, GARY",0
-GABBS 04,United States Senator,None Of These Candidates,3
-GABBS 04,United States Senator,"REID, HARRY",60
-GABBS 04,United States Senator,"SCHUMANN, DAVID K.",4
-GABBS 04,United States Senator,"ZISER, RICHARD",52
+GABBS 04,U.S. Senate,"HURST, THOMAS L.",1
+GABBS 04,U.S. Senate,"MARINCH, GARY",0
+GABBS 04,U.S. Senate,None Of These Candidates,3
+GABBS 04,U.S. Senate,"REID, HARRY",60
+GABBS 04,U.S. Senate,"SCHUMANN, DAVID K.",4
+GABBS 04,U.S. Senate,"ZISER, RICHARD",52
 GABBS 04,"University Board of Regents, District  8","AIAZZI, STAN",37
 GABBS 04,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",71
 IONE 05,County Commissioner District I,"CARVER, MIDGE",13
 IONE 05,County Commissioner District I,"KULKIN, HARLEY Z.",0
-IONE 05,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-IONE 05,President and Vice President of the United States,"BUSH, GEORGE W.",8
-IONE 05,President and Vice President of the United States,"COBB, DAVID",0
-IONE 05,President and Vice President of the United States,"KERRY, JOHN F.",5
-IONE 05,President and Vice President of the United States,"NADER, RALPH",0
-IONE 05,President and Vice President of the United States,None Of These Candidates,0
-IONE 05,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+IONE 05,President,"BADNARIK, MICHAEL",0
+IONE 05,President,"BUSH, GEORGE W.",8
+IONE 05,President,"COBB, DAVID",0
+IONE 05,President,"KERRY, JOHN F.",5
+IONE 05,President,"NADER, RALPH",0
+IONE 05,President,None Of These Candidates,0
+IONE 05,President,"PEROUTKA, MICHAEL A.",0
 IONE 05,"State Assembly, District 36","HOLMGREN, JACKIE A.",8
 IONE 05,"State Assembly, District 36","SHERERH, RODERICK ""R",5
 IONE 05,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",5
@@ -231,23 +231,23 @@ IONE 05,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",3
 IONE 05,"U.S. Representative in Congress, District 2","GIBBONS, JIM",10
 IONE 05,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 IONE 05,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-IONE 05,United States Senator,"HURST, THOMAS L.",2
-IONE 05,United States Senator,"MARINCH, GARY",0
-IONE 05,United States Senator,None Of These Candidates,1
-IONE 05,United States Senator,"REID, HARRY",4
-IONE 05,United States Senator,"SCHUMANN, DAVID K.",0
-IONE 05,United States Senator,"ZISER, RICHARD",6
+IONE 05,U.S. Senate,"HURST, THOMAS L.",2
+IONE 05,U.S. Senate,"MARINCH, GARY",0
+IONE 05,U.S. Senate,None Of These Candidates,1
+IONE 05,U.S. Senate,"REID, HARRY",4
+IONE 05,U.S. Senate,"SCHUMANN, DAVID K.",0
+IONE 05,U.S. Senate,"ZISER, RICHARD",6
 IONE 05,"University Board of Regents, District  8","AIAZZI, STAN",5
 IONE 05,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",6
 MANHATTAN 07,County Commissioner District I,"CARVER, MIDGE",48
 MANHATTAN 07,County Commissioner District I,"KULKIN, HARLEY Z.",3
-MANHATTAN 07,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-MANHATTAN 07,President and Vice President of the United States,"BUSH, GEORGE W.",42
-MANHATTAN 07,President and Vice President of the United States,"COBB, DAVID",0
-MANHATTAN 07,President and Vice President of the United States,"KERRY, JOHN F.",7
-MANHATTAN 07,President and Vice President of the United States,"NADER, RALPH",0
-MANHATTAN 07,President and Vice President of the United States,None Of These Candidates,2
-MANHATTAN 07,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+MANHATTAN 07,President,"BADNARIK, MICHAEL",0
+MANHATTAN 07,President,"BUSH, GEORGE W.",42
+MANHATTAN 07,President,"COBB, DAVID",0
+MANHATTAN 07,President,"KERRY, JOHN F.",7
+MANHATTAN 07,President,"NADER, RALPH",0
+MANHATTAN 07,President,None Of These Candidates,2
+MANHATTAN 07,President,"PEROUTKA, MICHAEL A.",0
 MANHATTAN 07,"State Assembly, District 36","HOLMGREN, JACKIE A.",13
 MANHATTAN 07,"State Assembly, District 36","SHERERH, RODERICK ""R",37
 MANHATTAN 07,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",13
@@ -265,23 +265,23 @@ MANHATTAN 07,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",4
 MANHATTAN 07,"U.S. Representative in Congress, District 2","GIBBONS, JIM",46
 MANHATTAN 07,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 MANHATTAN 07,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-MANHATTAN 07,United States Senator,"HURST, THOMAS L.",0
-MANHATTAN 07,United States Senator,"MARINCH, GARY",0
-MANHATTAN 07,United States Senator,None Of These Candidates,3
-MANHATTAN 07,United States Senator,"REID, HARRY",22
-MANHATTAN 07,United States Senator,"SCHUMANN, DAVID K.",3
-MANHATTAN 07,United States Senator,"ZISER, RICHARD",23
+MANHATTAN 07,U.S. Senate,"HURST, THOMAS L.",0
+MANHATTAN 07,U.S. Senate,"MARINCH, GARY",0
+MANHATTAN 07,U.S. Senate,None Of These Candidates,3
+MANHATTAN 07,U.S. Senate,"REID, HARRY",22
+MANHATTAN 07,U.S. Senate,"SCHUMANN, DAVID K.",3
+MANHATTAN 07,U.S. Senate,"ZISER, RICHARD",23
 MANHATTAN 07,"University Board of Regents, District  8","AIAZZI, STAN",17
 MANHATTAN 07,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",28
 MERCURY 08,County Commissioner District I,"CARVER, MIDGE",
 MERCURY 08,County Commissioner District I,"KULKIN, HARLEY Z.",
-MERCURY 08,President and Vice President of the United States,"BADNARIK, MICHAEL",
-MERCURY 08,President and Vice President of the United States,"BUSH, GEORGE W.",
-MERCURY 08,President and Vice President of the United States,"COBB, DAVID",
-MERCURY 08,President and Vice President of the United States,"KERRY, JOHN F.",
-MERCURY 08,President and Vice President of the United States,"NADER, RALPH",
-MERCURY 08,President and Vice President of the United States,None Of These Candidates,
-MERCURY 08,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+MERCURY 08,President,"BADNARIK, MICHAEL",
+MERCURY 08,President,"BUSH, GEORGE W.",
+MERCURY 08,President,"COBB, DAVID",
+MERCURY 08,President,"KERRY, JOHN F.",
+MERCURY 08,President,"NADER, RALPH",
+MERCURY 08,President,None Of These Candidates,
+MERCURY 08,President,"PEROUTKA, MICHAEL A.",
 MERCURY 08,"State Assembly, District 36","HOLMGREN, JACKIE A.",
 MERCURY 08,"State Assembly, District 36","SHERERH, RODERICK ""R",
 MERCURY 08,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",
@@ -300,12 +300,12 @@ MERCURY 08,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
 MERCURY 08,"U.S. Representative in Congress, District 2","GIBBONS, JIM",
 MERCURY 08,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
 MERCURY 08,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",
-MERCURY 08,United States Senator,"HURST, THOMAS L.",
-MERCURY 08,United States Senator,"MARINCH, GARY",
-MERCURY 08,United States Senator,None Of These Candidates,
-MERCURY 08,United States Senator,"REID, HARRY",
-MERCURY 08,United States Senator,"SCHUMANN, DAVID K.",
-MERCURY 08,United States Senator,"ZISER, RICHARD",
+MERCURY 08,U.S. Senate,"HURST, THOMAS L.",
+MERCURY 08,U.S. Senate,"MARINCH, GARY",
+MERCURY 08,U.S. Senate,None Of These Candidates,
+MERCURY 08,U.S. Senate,"REID, HARRY",
+MERCURY 08,U.S. Senate,"SCHUMANN, DAVID K.",
+MERCURY 08,U.S. Senate,"ZISER, RICHARD",
 MERCURY 08,"University Board of Regents, District  8","AIAZZI, STAN",
 MERCURY 08,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",
 PAHRUMP 09,County Commissioner District III,"ELEFANTE, PAULA J.",319
@@ -314,13 +314,13 @@ PAHRUMP 09,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",414
 PAHRUMP 09,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",302
 PAHRUMP 09,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",338
 PAHRUMP 09,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",266
-PAHRUMP 09,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-PAHRUMP 09,President and Vice President of the United States,"BUSH, GEORGE W.",458
-PAHRUMP 09,President and Vice President of the United States,"COBB, DAVID",1
-PAHRUMP 09,President and Vice President of the United States,"KERRY, JOHN F.",330
-PAHRUMP 09,President and Vice President of the United States,"NADER, RALPH",8
-PAHRUMP 09,President and Vice President of the United States,None Of These Candidates,7
-PAHRUMP 09,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+PAHRUMP 09,President,"BADNARIK, MICHAEL",5
+PAHRUMP 09,President,"BUSH, GEORGE W.",458
+PAHRUMP 09,President,"COBB, DAVID",1
+PAHRUMP 09,President,"KERRY, JOHN F.",330
+PAHRUMP 09,President,"NADER, RALPH",8
+PAHRUMP 09,President,None Of These Candidates,7
+PAHRUMP 09,President,"PEROUTKA, MICHAEL A.",3
 PAHRUMP 09,"State Assembly, District 36","HOLMGREN, JACKIE A.",174
 PAHRUMP 09,"State Assembly, District 36","SHERERH, RODERICK ""R",579
 PAHRUMP 09,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",69
@@ -339,25 +339,25 @@ PAHRUMP 09,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",221
 PAHRUMP 09,"U.S. Representative in Congress, District 2","GIBBONS, JIM",482
 PAHRUMP 09,"U.S. Representative in Congress, District 2","HANSEN, JANINE",57
 PAHRUMP 09,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",20
-PAHRUMP 09,United States Senator,"HURST, THOMAS L.",19
-PAHRUMP 09,United States Senator,"MARINCH, GARY",2
-PAHRUMP 09,United States Senator,None Of These Candidates,12
-PAHRUMP 09,United States Senator,"REID, HARRY",442
-PAHRUMP 09,United States Senator,"SCHUMANN, DAVID K.",11
-PAHRUMP 09,United States Senator,"ZISER, RICHARD",310
+PAHRUMP 09,U.S. Senate,"HURST, THOMAS L.",19
+PAHRUMP 09,U.S. Senate,"MARINCH, GARY",2
+PAHRUMP 09,U.S. Senate,None Of These Candidates,12
+PAHRUMP 09,U.S. Senate,"REID, HARRY",442
+PAHRUMP 09,U.S. Senate,"SCHUMANN, DAVID K.",11
+PAHRUMP 09,U.S. Senate,"ZISER, RICHARD",310
 PAHRUMP 09,"University Board of Regents, District  8","AIAZZI, STAN",236
 PAHRUMP 09,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",462
 PAHRUMP 10,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",459
 PAHRUMP 10,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",303
 PAHRUMP 10,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",384
 PAHRUMP 10,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",300
-PAHRUMP 10,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-PAHRUMP 10,President and Vice President of the United States,"BUSH, GEORGE W.",487
-PAHRUMP 10,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 10,President and Vice President of the United States,"KERRY, JOHN F.",431
-PAHRUMP 10,President and Vice President of the United States,"NADER, RALPH",12
-PAHRUMP 10,President and Vice President of the United States,None Of These Candidates,9
-PAHRUMP 10,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+PAHRUMP 10,President,"BADNARIK, MICHAEL",2
+PAHRUMP 10,President,"BUSH, GEORGE W.",487
+PAHRUMP 10,President,"COBB, DAVID",0
+PAHRUMP 10,President,"KERRY, JOHN F.",431
+PAHRUMP 10,President,"NADER, RALPH",12
+PAHRUMP 10,President,None Of These Candidates,9
+PAHRUMP 10,President,"PEROUTKA, MICHAEL A.",2
 PAHRUMP 10,"State Assembly, District 36","HOLMGREN, JACKIE A.",225
 PAHRUMP 10,"State Assembly, District 36","SHERERH, RODERICK ""R",654
 PAHRUMP 10,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",50
@@ -376,25 +376,25 @@ PAHRUMP 10,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",311
 PAHRUMP 10,"U.S. Representative in Congress, District 2","GIBBONS, JIM",542
 PAHRUMP 10,"U.S. Representative in Congress, District 2","HANSEN, JANINE",42
 PAHRUMP 10,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",14
-PAHRUMP 10,United States Senator,"HURST, THOMAS L.",4
-PAHRUMP 10,United States Senator,"MARINCH, GARY",2
-PAHRUMP 10,United States Senator,None Of These Candidates,20
-PAHRUMP 10,United States Senator,"REID, HARRY",543
-PAHRUMP 10,United States Senator,"SCHUMANN, DAVID K.",11
-PAHRUMP 10,United States Senator,"ZISER, RICHARD",342
+PAHRUMP 10,U.S. Senate,"HURST, THOMAS L.",4
+PAHRUMP 10,U.S. Senate,"MARINCH, GARY",2
+PAHRUMP 10,U.S. Senate,None Of These Candidates,20
+PAHRUMP 10,U.S. Senate,"REID, HARRY",543
+PAHRUMP 10,U.S. Senate,"SCHUMANN, DAVID K.",11
+PAHRUMP 10,U.S. Senate,"ZISER, RICHARD",342
 PAHRUMP 10,"University Board of Regents, District  8","AIAZZI, STAN",232
 PAHRUMP 10,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",550
 PAHRUMP 11,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",277
 PAHRUMP 11,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",183
 PAHRUMP 11,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",237
 PAHRUMP 11,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",125
-PAHRUMP 11,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-PAHRUMP 11,President and Vice President of the United States,"BUSH, GEORGE W.",294
-PAHRUMP 11,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 11,President and Vice President of the United States,"KERRY, JOHN F.",212
-PAHRUMP 11,President and Vice President of the United States,"NADER, RALPH",1
-PAHRUMP 11,President and Vice President of the United States,None Of These Candidates,0
-PAHRUMP 11,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PAHRUMP 11,President,"BADNARIK, MICHAEL",3
+PAHRUMP 11,President,"BUSH, GEORGE W.",294
+PAHRUMP 11,President,"COBB, DAVID",0
+PAHRUMP 11,President,"KERRY, JOHN F.",212
+PAHRUMP 11,President,"NADER, RALPH",1
+PAHRUMP 11,President,None Of These Candidates,0
+PAHRUMP 11,President,"PEROUTKA, MICHAEL A.",0
 PAHRUMP 11,"State Assembly, District 36","HOLMGREN, JACKIE A.",118
 PAHRUMP 11,"State Assembly, District 36","SHERERH, RODERICK ""R",366
 PAHRUMP 11,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",14
@@ -413,12 +413,12 @@ PAHRUMP 11,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",151
 PAHRUMP 11,"U.S. Representative in Congress, District 2","GIBBONS, JIM",309
 PAHRUMP 11,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
 PAHRUMP 11,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-PAHRUMP 11,United States Senator,"HURST, THOMAS L.",4
-PAHRUMP 11,United States Senator,"MARINCH, GARY",1
-PAHRUMP 11,United States Senator,None Of These Candidates,8
-PAHRUMP 11,United States Senator,"REID, HARRY",270
-PAHRUMP 11,United States Senator,"SCHUMANN, DAVID K.",3
-PAHRUMP 11,United States Senator,"ZISER, RICHARD",218
+PAHRUMP 11,U.S. Senate,"HURST, THOMAS L.",4
+PAHRUMP 11,U.S. Senate,"MARINCH, GARY",1
+PAHRUMP 11,U.S. Senate,None Of These Candidates,8
+PAHRUMP 11,U.S. Senate,"REID, HARRY",270
+PAHRUMP 11,U.S. Senate,"SCHUMANN, DAVID K.",3
+PAHRUMP 11,U.S. Senate,"ZISER, RICHARD",218
 PAHRUMP 11,"University Board of Regents, District  8","AIAZZI, STAN",121
 PAHRUMP 11,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",311
 PAHRUMP 19,County Commissioner District I,"CARVER, MIDGE",387
@@ -427,13 +427,13 @@ PAHRUMP 19,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",337
 PAHRUMP 19,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",208
 PAHRUMP 19,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",298
 PAHRUMP 19,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",207
-PAHRUMP 19,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-PAHRUMP 19,President and Vice President of the United States,"BUSH, GEORGE W.",405
-PAHRUMP 19,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 19,President and Vice President of the United States,"KERRY, JOHN F.",241
-PAHRUMP 19,President and Vice President of the United States,"NADER, RALPH",5
-PAHRUMP 19,President and Vice President of the United States,None Of These Candidates,4
-PAHRUMP 19,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+PAHRUMP 19,President,"BADNARIK, MICHAEL",6
+PAHRUMP 19,President,"BUSH, GEORGE W.",405
+PAHRUMP 19,President,"COBB, DAVID",0
+PAHRUMP 19,President,"KERRY, JOHN F.",241
+PAHRUMP 19,President,"NADER, RALPH",5
+PAHRUMP 19,President,None Of These Candidates,4
+PAHRUMP 19,President,"PEROUTKA, MICHAEL A.",4
 PAHRUMP 19,"State Assembly, District 36","HOLMGREN, JACKIE A.",151
 PAHRUMP 19,"State Assembly, District 36","SHERERH, RODERICK ""R",489
 PAHRUMP 19,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",27
@@ -452,25 +452,25 @@ PAHRUMP 19,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",193
 PAHRUMP 19,"U.S. Representative in Congress, District 2","GIBBONS, JIM",413
 PAHRUMP 19,"U.S. Representative in Congress, District 2","HANSEN, JANINE",35
 PAHRUMP 19,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-PAHRUMP 19,United States Senator,"HURST, THOMAS L.",8
-PAHRUMP 19,United States Senator,"MARINCH, GARY",4
-PAHRUMP 19,United States Senator,None Of These Candidates,13
-PAHRUMP 19,United States Senator,"REID, HARRY",313
-PAHRUMP 19,United States Senator,"SCHUMANN, DAVID K.",3
-PAHRUMP 19,United States Senator,"ZISER, RICHARD",313
+PAHRUMP 19,U.S. Senate,"HURST, THOMAS L.",8
+PAHRUMP 19,U.S. Senate,"MARINCH, GARY",4
+PAHRUMP 19,U.S. Senate,None Of These Candidates,13
+PAHRUMP 19,U.S. Senate,"REID, HARRY",313
+PAHRUMP 19,U.S. Senate,"SCHUMANN, DAVID K.",3
+PAHRUMP 19,U.S. Senate,"ZISER, RICHARD",313
 PAHRUMP 19,"University Board of Regents, District  8","AIAZZI, STAN",162
 PAHRUMP 19,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",396
 PAHRUMP 20,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",209
 PAHRUMP 20,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",143
 PAHRUMP 20,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",131
 PAHRUMP 20,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",128
-PAHRUMP 20,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-PAHRUMP 20,President and Vice President of the United States,"BUSH, GEORGE W.",228
-PAHRUMP 20,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 20,President and Vice President of the United States,"KERRY, JOHN F.",152
-PAHRUMP 20,President and Vice President of the United States,"NADER, RALPH",11
-PAHRUMP 20,President and Vice President of the United States,None Of These Candidates,0
-PAHRUMP 20,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PAHRUMP 20,President,"BADNARIK, MICHAEL",3
+PAHRUMP 20,President,"BUSH, GEORGE W.",228
+PAHRUMP 20,President,"COBB, DAVID",0
+PAHRUMP 20,President,"KERRY, JOHN F.",152
+PAHRUMP 20,President,"NADER, RALPH",11
+PAHRUMP 20,President,None Of These Candidates,0
+PAHRUMP 20,President,"PEROUTKA, MICHAEL A.",0
 PAHRUMP 20,"State Assembly, District 36","HOLMGREN, JACKIE A.",93
 PAHRUMP 20,"State Assembly, District 36","SHERERH, RODERICK ""R",271
 PAHRUMP 20,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",25
@@ -489,12 +489,12 @@ PAHRUMP 20,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",111
 PAHRUMP 20,"U.S. Representative in Congress, District 2","GIBBONS, JIM",247
 PAHRUMP 20,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
 PAHRUMP 20,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-PAHRUMP 20,United States Senator,"HURST, THOMAS L.",4
-PAHRUMP 20,United States Senator,"MARINCH, GARY",1
-PAHRUMP 20,United States Senator,None Of These Candidates,10
-PAHRUMP 20,United States Senator,"REID, HARRY",202
-PAHRUMP 20,United States Senator,"SCHUMANN, DAVID K.",7
-PAHRUMP 20,United States Senator,"ZISER, RICHARD",166
+PAHRUMP 20,U.S. Senate,"HURST, THOMAS L.",4
+PAHRUMP 20,U.S. Senate,"MARINCH, GARY",1
+PAHRUMP 20,U.S. Senate,None Of These Candidates,10
+PAHRUMP 20,U.S. Senate,"REID, HARRY",202
+PAHRUMP 20,U.S. Senate,"SCHUMANN, DAVID K.",7
+PAHRUMP 20,U.S. Senate,"ZISER, RICHARD",166
 PAHRUMP 20,"University Board of Regents, District  8","AIAZZI, STAN",117
 PAHRUMP 20,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",209
 PAHRUMP 21,County Commissioner District III,"ELEFANTE, PAULA J.",358
@@ -503,13 +503,13 @@ PAHRUMP 21,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",378
 PAHRUMP 21,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",271
 PAHRUMP 21,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",357
 PAHRUMP 21,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",264
-PAHRUMP 21,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-PAHRUMP 21,President and Vice President of the United States,"BUSH, GEORGE W.",389
-PAHRUMP 21,President and Vice President of the United States,"COBB, DAVID",2
-PAHRUMP 21,President and Vice President of the United States,"KERRY, JOHN F.",427
-PAHRUMP 21,President and Vice President of the United States,"NADER, RALPH",6
-PAHRUMP 21,President and Vice President of the United States,None Of These Candidates,4
-PAHRUMP 21,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+PAHRUMP 21,President,"BADNARIK, MICHAEL",5
+PAHRUMP 21,President,"BUSH, GEORGE W.",389
+PAHRUMP 21,President,"COBB, DAVID",2
+PAHRUMP 21,President,"KERRY, JOHN F.",427
+PAHRUMP 21,President,"NADER, RALPH",6
+PAHRUMP 21,President,None Of These Candidates,4
+PAHRUMP 21,President,"PEROUTKA, MICHAEL A.",1
 PAHRUMP 21,School Board Trustee Area IV,"ESPANA, JOHN S.",176
 PAHRUMP 21,School Board Trustee Area IV,"WARD, TRACIE",545
 PAHRUMP 21,"State Assembly, District 36","HOLMGREN, JACKIE A.",231
@@ -530,25 +530,25 @@ PAHRUMP 21,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",304
 PAHRUMP 21,"U.S. Representative in Congress, District 2","GIBBONS, JIM",449
 PAHRUMP 21,"U.S. Representative in Congress, District 2","HANSEN, JANINE",39
 PAHRUMP 21,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",14
-PAHRUMP 21,United States Senator,"HURST, THOMAS L.",13
-PAHRUMP 21,United States Senator,"MARINCH, GARY",6
-PAHRUMP 21,United States Senator,None Of These Candidates,9
-PAHRUMP 21,United States Senator,"REID, HARRY",515
-PAHRUMP 21,United States Senator,"SCHUMANN, DAVID K.",12
-PAHRUMP 21,United States Senator,"ZISER, RICHARD",265
+PAHRUMP 21,U.S. Senate,"HURST, THOMAS L.",13
+PAHRUMP 21,U.S. Senate,"MARINCH, GARY",6
+PAHRUMP 21,U.S. Senate,None Of These Candidates,9
+PAHRUMP 21,U.S. Senate,"REID, HARRY",515
+PAHRUMP 21,U.S. Senate,"SCHUMANN, DAVID K.",12
+PAHRUMP 21,U.S. Senate,"ZISER, RICHARD",265
 PAHRUMP 21,"University Board of Regents, District  8","AIAZZI, STAN",182
 PAHRUMP 21,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",538
 PAHRUMP 22,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",419
 PAHRUMP 22,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",303
 PAHRUMP 22,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",356
 PAHRUMP 22,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",244
-PAHRUMP 22,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-PAHRUMP 22,President and Vice President of the United States,"BUSH, GEORGE W.",453
-PAHRUMP 22,President and Vice President of the United States,"COBB, DAVID",3
-PAHRUMP 22,President and Vice President of the United States,"KERRY, JOHN F.",356
-PAHRUMP 22,President and Vice President of the United States,"NADER, RALPH",4
-PAHRUMP 22,President and Vice President of the United States,None Of These Candidates,6
-PAHRUMP 22,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+PAHRUMP 22,President,"BADNARIK, MICHAEL",3
+PAHRUMP 22,President,"BUSH, GEORGE W.",453
+PAHRUMP 22,President,"COBB, DAVID",3
+PAHRUMP 22,President,"KERRY, JOHN F.",356
+PAHRUMP 22,President,"NADER, RALPH",4
+PAHRUMP 22,President,None Of These Candidates,6
+PAHRUMP 22,President,"PEROUTKA, MICHAEL A.",2
 PAHRUMP 22,"State Assembly, District 36","HOLMGREN, JACKIE A.",208
 PAHRUMP 22,"State Assembly, District 36","SHERERH, RODERICK ""R",557
 PAHRUMP 22,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",49
@@ -567,12 +567,12 @@ PAHRUMP 22,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",254
 PAHRUMP 22,"U.S. Representative in Congress, District 2","GIBBONS, JIM",500
 PAHRUMP 22,"U.S. Representative in Congress, District 2","HANSEN, JANINE",28
 PAHRUMP 22,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",15
-PAHRUMP 22,United States Senator,"HURST, THOMAS L.",6
-PAHRUMP 22,United States Senator,"MARINCH, GARY",2
-PAHRUMP 22,United States Senator,None Of These Candidates,13
-PAHRUMP 22,United States Senator,"REID, HARRY",459
-PAHRUMP 22,United States Senator,"SCHUMANN, DAVID K.",12
-PAHRUMP 22,United States Senator,"ZISER, RICHARD",326
+PAHRUMP 22,U.S. Senate,"HURST, THOMAS L.",6
+PAHRUMP 22,U.S. Senate,"MARINCH, GARY",2
+PAHRUMP 22,U.S. Senate,None Of These Candidates,13
+PAHRUMP 22,U.S. Senate,"REID, HARRY",459
+PAHRUMP 22,U.S. Senate,"SCHUMANN, DAVID K.",12
+PAHRUMP 22,U.S. Senate,"ZISER, RICHARD",326
 PAHRUMP 22,"University Board of Regents, District  8","AIAZZI, STAN",195
 PAHRUMP 22,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",486
 PAHRUMP 23,County Commissioner District I,"CARVER, MIDGE",606
@@ -581,13 +581,13 @@ PAHRUMP 23,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",556
 PAHRUMP 23,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",419
 PAHRUMP 23,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",457
 PAHRUMP 23,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",372
-PAHRUMP 23,President and Vice President of the United States,"BADNARIK, MICHAEL",7
-PAHRUMP 23,President and Vice President of the United States,"BUSH, GEORGE W.",649
-PAHRUMP 23,President and Vice President of the United States,"COBB, DAVID",3
-PAHRUMP 23,President and Vice President of the United States,"KERRY, JOHN F.",465
-PAHRUMP 23,President and Vice President of the United States,"NADER, RALPH",13
-PAHRUMP 23,President and Vice President of the United States,None Of These Candidates,11
-PAHRUMP 23,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+PAHRUMP 23,President,"BADNARIK, MICHAEL",7
+PAHRUMP 23,President,"BUSH, GEORGE W.",649
+PAHRUMP 23,President,"COBB, DAVID",3
+PAHRUMP 23,President,"KERRY, JOHN F.",465
+PAHRUMP 23,President,"NADER, RALPH",13
+PAHRUMP 23,President,None Of These Candidates,11
+PAHRUMP 23,President,"PEROUTKA, MICHAEL A.",1
 PAHRUMP 23,"State Assembly, District 36","HOLMGREN, JACKIE A.",262
 PAHRUMP 23,"State Assembly, District 36","SHERERH, RODERICK ""R",830
 PAHRUMP 23,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",77
@@ -606,25 +606,25 @@ PAHRUMP 23,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",348
 PAHRUMP 23,"U.S. Representative in Congress, District 2","GIBBONS, JIM",691
 PAHRUMP 23,"U.S. Representative in Congress, District 2","HANSEN, JANINE",57
 PAHRUMP 23,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",19
-PAHRUMP 23,United States Senator,"HURST, THOMAS L.",9
-PAHRUMP 23,United States Senator,"MARINCH, GARY",4
-PAHRUMP 23,United States Senator,None Of These Candidates,25
-PAHRUMP 23,United States Senator,"REID, HARRY",630
-PAHRUMP 23,United States Senator,"SCHUMANN, DAVID K.",16
-PAHRUMP 23,United States Senator,"ZISER, RICHARD",448
+PAHRUMP 23,U.S. Senate,"HURST, THOMAS L.",9
+PAHRUMP 23,U.S. Senate,"MARINCH, GARY",4
+PAHRUMP 23,U.S. Senate,None Of These Candidates,25
+PAHRUMP 23,U.S. Senate,"REID, HARRY",630
+PAHRUMP 23,U.S. Senate,"SCHUMANN, DAVID K.",16
+PAHRUMP 23,U.S. Senate,"ZISER, RICHARD",448
 PAHRUMP 23,"University Board of Regents, District  8","AIAZZI, STAN",322
 PAHRUMP 23,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",667
 PAHRUMP 24,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",305
 PAHRUMP 24,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",187
 PAHRUMP 24,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",262
 PAHRUMP 24,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",173
-PAHRUMP 24,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-PAHRUMP 24,President and Vice President of the United States,"BUSH, GEORGE W.",330
-PAHRUMP 24,President and Vice President of the United States,"COBB, DAVID",1
-PAHRUMP 24,President and Vice President of the United States,"KERRY, JOHN F.",248
-PAHRUMP 24,President and Vice President of the United States,"NADER, RALPH",9
-PAHRUMP 24,President and Vice President of the United States,None Of These Candidates,6
-PAHRUMP 24,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+PAHRUMP 24,President,"BADNARIK, MICHAEL",2
+PAHRUMP 24,President,"BUSH, GEORGE W.",330
+PAHRUMP 24,President,"COBB, DAVID",1
+PAHRUMP 24,President,"KERRY, JOHN F.",248
+PAHRUMP 24,President,"NADER, RALPH",9
+PAHRUMP 24,President,None Of These Candidates,6
+PAHRUMP 24,President,"PEROUTKA, MICHAEL A.",1
 PAHRUMP 24,"State Assembly, District 36","HOLMGREN, JACKIE A.",150
 PAHRUMP 24,"State Assembly, District 36","SHERERH, RODERICK ""R",418
 PAHRUMP 24,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",43
@@ -643,12 +643,12 @@ PAHRUMP 24,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",170
 PAHRUMP 24,"U.S. Representative in Congress, District 2","GIBBONS, JIM",348
 PAHRUMP 24,"U.S. Representative in Congress, District 2","HANSEN, JANINE",45
 PAHRUMP 24,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",13
-PAHRUMP 24,United States Senator,"HURST, THOMAS L.",11
-PAHRUMP 24,United States Senator,"MARINCH, GARY",2
-PAHRUMP 24,United States Senator,None Of These Candidates,11
-PAHRUMP 24,United States Senator,"REID, HARRY",326
-PAHRUMP 24,United States Senator,"SCHUMANN, DAVID K.",14
-PAHRUMP 24,United States Senator,"ZISER, RICHARD",224
+PAHRUMP 24,U.S. Senate,"HURST, THOMAS L.",11
+PAHRUMP 24,U.S. Senate,"MARINCH, GARY",2
+PAHRUMP 24,U.S. Senate,None Of These Candidates,11
+PAHRUMP 24,U.S. Senate,"REID, HARRY",326
+PAHRUMP 24,U.S. Senate,"SCHUMANN, DAVID K.",14
+PAHRUMP 24,U.S. Senate,"ZISER, RICHARD",224
 PAHRUMP 24,"University Board of Regents, District  8","AIAZZI, STAN",148
 PAHRUMP 24,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",360
 PAHRUMP 25,County Commissioner District III,"ELEFANTE, PAULA J.",336
@@ -657,13 +657,13 @@ PAHRUMP 25,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",344
 PAHRUMP 25,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",203
 PAHRUMP 25,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",270
 PAHRUMP 25,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",199
-PAHRUMP 25,President and Vice President of the United States,"BADNARIK, MICHAEL",7
-PAHRUMP 25,President and Vice President of the United States,"BUSH, GEORGE W.",374
-PAHRUMP 25,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 25,President and Vice President of the United States,"KERRY, JOHN F.",256
-PAHRUMP 25,President and Vice President of the United States,"NADER, RALPH",8
-PAHRUMP 25,President and Vice President of the United States,None Of These Candidates,3
-PAHRUMP 25,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PAHRUMP 25,President,"BADNARIK, MICHAEL",7
+PAHRUMP 25,President,"BUSH, GEORGE W.",374
+PAHRUMP 25,President,"COBB, DAVID",0
+PAHRUMP 25,President,"KERRY, JOHN F.",256
+PAHRUMP 25,President,"NADER, RALPH",8
+PAHRUMP 25,President,None Of These Candidates,3
+PAHRUMP 25,President,"PEROUTKA, MICHAEL A.",0
 PAHRUMP 25,School Board Trustee Area IV,"ESPANA, JOHN S.",133
 PAHRUMP 25,School Board Trustee Area IV,"WARD, TRACIE",408
 PAHRUMP 25,"State Assembly, District 36","HOLMGREN, JACKIE A.",138
@@ -684,12 +684,12 @@ PAHRUMP 25,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",178
 PAHRUMP 25,"U.S. Representative in Congress, District 2","GIBBONS, JIM",405
 PAHRUMP 25,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
 PAHRUMP 25,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-PAHRUMP 25,United States Senator,"HURST, THOMAS L.",6
-PAHRUMP 25,United States Senator,"MARINCH, GARY",1
-PAHRUMP 25,United States Senator,None Of These Candidates,12
-PAHRUMP 25,United States Senator,"REID, HARRY",354
-PAHRUMP 25,United States Senator,"SCHUMANN, DAVID K.",10
-PAHRUMP 25,United States Senator,"ZISER, RICHARD",250
+PAHRUMP 25,U.S. Senate,"HURST, THOMAS L.",6
+PAHRUMP 25,U.S. Senate,"MARINCH, GARY",1
+PAHRUMP 25,U.S. Senate,None Of These Candidates,12
+PAHRUMP 25,U.S. Senate,"REID, HARRY",354
+PAHRUMP 25,U.S. Senate,"SCHUMANN, DAVID K.",10
+PAHRUMP 25,U.S. Senate,"ZISER, RICHARD",250
 PAHRUMP 25,"University Board of Regents, District  8","AIAZZI, STAN",189
 PAHRUMP 25,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",350
 PAHRUMP 26,County Commissioner District II,"EASTLEY, JONI",484
@@ -697,13 +697,13 @@ PAHRUMP 26,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",317
 PAHRUMP 26,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",213
 PAHRUMP 26,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",233
 PAHRUMP 26,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",224
-PAHRUMP 26,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-PAHRUMP 26,President and Vice President of the United States,"BUSH, GEORGE W.",347
-PAHRUMP 26,President and Vice President of the United States,"COBB, DAVID",2
-PAHRUMP 26,President and Vice President of the United States,"KERRY, JOHN F.",259
-PAHRUMP 26,President and Vice President of the United States,"NADER, RALPH",6
-PAHRUMP 26,President and Vice President of the United States,None Of These Candidates,4
-PAHRUMP 26,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+PAHRUMP 26,President,"BADNARIK, MICHAEL",5
+PAHRUMP 26,President,"BUSH, GEORGE W.",347
+PAHRUMP 26,President,"COBB, DAVID",2
+PAHRUMP 26,President,"KERRY, JOHN F.",259
+PAHRUMP 26,President,"NADER, RALPH",6
+PAHRUMP 26,President,None Of These Candidates,4
+PAHRUMP 26,President,"PEROUTKA, MICHAEL A.",2
 PAHRUMP 26,"State Assembly, District 36","HOLMGREN, JACKIE A.",161
 PAHRUMP 26,"State Assembly, District 36","SHERERH, RODERICK ""R",419
 PAHRUMP 26,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",44
@@ -722,12 +722,12 @@ PAHRUMP 26,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",192
 PAHRUMP 26,"U.S. Representative in Congress, District 2","GIBBONS, JIM",362
 PAHRUMP 26,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
 PAHRUMP 26,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",13
-PAHRUMP 26,United States Senator,"HURST, THOMAS L.",11
-PAHRUMP 26,United States Senator,"MARINCH, GARY",4
-PAHRUMP 26,United States Senator,None Of These Candidates,10
-PAHRUMP 26,United States Senator,"REID, HARRY",332
-PAHRUMP 26,United States Senator,"SCHUMANN, DAVID K.",12
-PAHRUMP 26,United States Senator,"ZISER, RICHARD",243
+PAHRUMP 26,U.S. Senate,"HURST, THOMAS L.",11
+PAHRUMP 26,U.S. Senate,"MARINCH, GARY",4
+PAHRUMP 26,U.S. Senate,None Of These Candidates,10
+PAHRUMP 26,U.S. Senate,"REID, HARRY",332
+PAHRUMP 26,U.S. Senate,"SCHUMANN, DAVID K.",12
+PAHRUMP 26,U.S. Senate,"ZISER, RICHARD",243
 PAHRUMP 26,"University Board of Regents, District  8","AIAZZI, STAN",172
 PAHRUMP 26,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",354
 PAHRUMP 27,County Commissioner District III,"ELEFANTE, PAULA J.",325
@@ -736,13 +736,13 @@ PAHRUMP 27,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",376
 PAHRUMP 27,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",251
 PAHRUMP 27,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",286
 PAHRUMP 27,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",247
-PAHRUMP 27,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-PAHRUMP 27,President and Vice President of the United States,"BUSH, GEORGE W.",374
-PAHRUMP 27,President and Vice President of the United States,"COBB, DAVID",1
-PAHRUMP 27,President and Vice President of the United States,"KERRY, JOHN F.",313
-PAHRUMP 27,President and Vice President of the United States,"NADER, RALPH",7
-PAHRUMP 27,President and Vice President of the United States,None Of These Candidates,8
-PAHRUMP 27,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+PAHRUMP 27,President,"BADNARIK, MICHAEL",2
+PAHRUMP 27,President,"BUSH, GEORGE W.",374
+PAHRUMP 27,President,"COBB, DAVID",1
+PAHRUMP 27,President,"KERRY, JOHN F.",313
+PAHRUMP 27,President,"NADER, RALPH",7
+PAHRUMP 27,President,None Of These Candidates,8
+PAHRUMP 27,President,"PEROUTKA, MICHAEL A.",3
 PAHRUMP 27,"State Assembly, District 36","HOLMGREN, JACKIE A.",150
 PAHRUMP 27,"State Assembly, District 36","SHERERH, RODERICK ""R",521
 PAHRUMP 27,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",37
@@ -761,25 +761,25 @@ PAHRUMP 27,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",245
 PAHRUMP 27,"U.S. Representative in Congress, District 2","GIBBONS, JIM",406
 PAHRUMP 27,"U.S. Representative in Congress, District 2","HANSEN, JANINE",30
 PAHRUMP 27,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-PAHRUMP 27,United States Senator,"HURST, THOMAS L.",6
-PAHRUMP 27,United States Senator,"MARINCH, GARY",2
-PAHRUMP 27,United States Senator,None Of These Candidates,7
-PAHRUMP 27,United States Senator,"REID, HARRY",416
-PAHRUMP 27,United States Senator,"SCHUMANN, DAVID K.",6
-PAHRUMP 27,United States Senator,"ZISER, RICHARD",261
+PAHRUMP 27,U.S. Senate,"HURST, THOMAS L.",6
+PAHRUMP 27,U.S. Senate,"MARINCH, GARY",2
+PAHRUMP 27,U.S. Senate,None Of These Candidates,7
+PAHRUMP 27,U.S. Senate,"REID, HARRY",416
+PAHRUMP 27,U.S. Senate,"SCHUMANN, DAVID K.",6
+PAHRUMP 27,U.S. Senate,"ZISER, RICHARD",261
 PAHRUMP 27,"University Board of Regents, District  8","AIAZZI, STAN",182
 PAHRUMP 27,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",437
 PAHRUMP 28,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",468
 PAHRUMP 28,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",312
 PAHRUMP 28,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",383
 PAHRUMP 28,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",242
-PAHRUMP 28,President and Vice President of the United States,"BADNARIK, MICHAEL",8
-PAHRUMP 28,President and Vice President of the United States,"BUSH, GEORGE W.",519
-PAHRUMP 28,President and Vice President of the United States,"COBB, DAVID",1
-PAHRUMP 28,President and Vice President of the United States,"KERRY, JOHN F.",341
-PAHRUMP 28,President and Vice President of the United States,"NADER, RALPH",5
-PAHRUMP 28,President and Vice President of the United States,None Of These Candidates,7
-PAHRUMP 28,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",6
+PAHRUMP 28,President,"BADNARIK, MICHAEL",8
+PAHRUMP 28,President,"BUSH, GEORGE W.",519
+PAHRUMP 28,President,"COBB, DAVID",1
+PAHRUMP 28,President,"KERRY, JOHN F.",341
+PAHRUMP 28,President,"NADER, RALPH",5
+PAHRUMP 28,President,None Of These Candidates,7
+PAHRUMP 28,President,"PEROUTKA, MICHAEL A.",6
 PAHRUMP 28,"State Assembly, District 36","HOLMGREN, JACKIE A.",176
 PAHRUMP 28,"State Assembly, District 36","SHERERH, RODERICK ""R",672
 PAHRUMP 28,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",60
@@ -798,25 +798,25 @@ PAHRUMP 28,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",250
 PAHRUMP 28,"U.S. Representative in Congress, District 2","GIBBONS, JIM",559
 PAHRUMP 28,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 PAHRUMP 28,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",18
-PAHRUMP 28,United States Senator,"HURST, THOMAS L.",7
-PAHRUMP 28,United States Senator,"MARINCH, GARY",3
-PAHRUMP 28,United States Senator,None Of These Candidates,16
-PAHRUMP 28,United States Senator,"REID, HARRY",478
-PAHRUMP 28,United States Senator,"SCHUMANN, DAVID K.",6
-PAHRUMP 28,United States Senator,"ZISER, RICHARD",361
+PAHRUMP 28,U.S. Senate,"HURST, THOMAS L.",7
+PAHRUMP 28,U.S. Senate,"MARINCH, GARY",3
+PAHRUMP 28,U.S. Senate,None Of These Candidates,16
+PAHRUMP 28,U.S. Senate,"REID, HARRY",478
+PAHRUMP 28,U.S. Senate,"SCHUMANN, DAVID K.",6
+PAHRUMP 28,U.S. Senate,"ZISER, RICHARD",361
 PAHRUMP 28,"University Board of Regents, District  8","AIAZZI, STAN",258
 PAHRUMP 28,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",506
 PAHRUMP 29,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",407
 PAHRUMP 29,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",240
 PAHRUMP 29,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",394
 PAHRUMP 29,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",213
-PAHRUMP 29,President and Vice President of the United States,"BADNARIK, MICHAEL",11
-PAHRUMP 29,President and Vice President of the United States,"BUSH, GEORGE W.",436
-PAHRUMP 29,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 29,President and Vice President of the United States,"KERRY, JOHN F.",362
-PAHRUMP 29,President and Vice President of the United States,"NADER, RALPH",4
-PAHRUMP 29,President and Vice President of the United States,None Of These Candidates,5
-PAHRUMP 29,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+PAHRUMP 29,President,"BADNARIK, MICHAEL",11
+PAHRUMP 29,President,"BUSH, GEORGE W.",436
+PAHRUMP 29,President,"COBB, DAVID",0
+PAHRUMP 29,President,"KERRY, JOHN F.",362
+PAHRUMP 29,President,"NADER, RALPH",4
+PAHRUMP 29,President,None Of These Candidates,5
+PAHRUMP 29,President,"PEROUTKA, MICHAEL A.",4
 PAHRUMP 29,"State Assembly, District 36","HOLMGREN, JACKIE A.",213
 PAHRUMP 29,"State Assembly, District 36","SHERERH, RODERICK ""R",542
 PAHRUMP 29,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",46
@@ -835,25 +835,25 @@ PAHRUMP 29,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",277
 PAHRUMP 29,"U.S. Representative in Congress, District 2","GIBBONS, JIM",458
 PAHRUMP 29,"U.S. Representative in Congress, District 2","HANSEN, JANINE",32
 PAHRUMP 29,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",20
-PAHRUMP 29,United States Senator,"HURST, THOMAS L.",11
-PAHRUMP 29,United States Senator,"MARINCH, GARY",3
-PAHRUMP 29,United States Senator,None Of These Candidates,13
-PAHRUMP 29,United States Senator,"REID, HARRY",449
-PAHRUMP 29,United States Senator,"SCHUMANN, DAVID K.",8
-PAHRUMP 29,United States Senator,"ZISER, RICHARD",318
+PAHRUMP 29,U.S. Senate,"HURST, THOMAS L.",11
+PAHRUMP 29,U.S. Senate,"MARINCH, GARY",3
+PAHRUMP 29,U.S. Senate,None Of These Candidates,13
+PAHRUMP 29,U.S. Senate,"REID, HARRY",449
+PAHRUMP 29,U.S. Senate,"SCHUMANN, DAVID K.",8
+PAHRUMP 29,U.S. Senate,"ZISER, RICHARD",318
 PAHRUMP 29,"University Board of Regents, District  8","AIAZZI, STAN",189
 PAHRUMP 29,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",474
 PAHRUMP 30,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",327
 PAHRUMP 30,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",221
 PAHRUMP 30,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",301
 PAHRUMP 30,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",205
-PAHRUMP 30,President and Vice President of the United States,"BADNARIK, MICHAEL",9
-PAHRUMP 30,President and Vice President of the United States,"BUSH, GEORGE W.",359
-PAHRUMP 30,President and Vice President of the United States,"COBB, DAVID",0
-PAHRUMP 30,President and Vice President of the United States,"KERRY, JOHN F.",298
-PAHRUMP 30,President and Vice President of the United States,"NADER, RALPH",1
-PAHRUMP 30,President and Vice President of the United States,None Of These Candidates,9
-PAHRUMP 30,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+PAHRUMP 30,President,"BADNARIK, MICHAEL",9
+PAHRUMP 30,President,"BUSH, GEORGE W.",359
+PAHRUMP 30,President,"COBB, DAVID",0
+PAHRUMP 30,President,"KERRY, JOHN F.",298
+PAHRUMP 30,President,"NADER, RALPH",1
+PAHRUMP 30,President,None Of These Candidates,9
+PAHRUMP 30,President,"PEROUTKA, MICHAEL A.",4
 PAHRUMP 30,"State Assembly, District 36","HOLMGREN, JACKIE A.",155
 PAHRUMP 30,"State Assembly, District 36","SHERERH, RODERICK ""R",482
 PAHRUMP 30,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",41
@@ -872,25 +872,25 @@ PAHRUMP 30,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",215
 PAHRUMP 30,"U.S. Representative in Congress, District 2","GIBBONS, JIM",382
 PAHRUMP 30,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
 PAHRUMP 30,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",24
-PAHRUMP 30,United States Senator,"HURST, THOMAS L.",12
-PAHRUMP 30,United States Senator,"MARINCH, GARY",4
-PAHRUMP 30,United States Senator,None Of These Candidates,9
-PAHRUMP 30,United States Senator,"REID, HARRY",376
-PAHRUMP 30,United States Senator,"SCHUMANN, DAVID K.",6
-PAHRUMP 30,United States Senator,"ZISER, RICHARD",254
+PAHRUMP 30,U.S. Senate,"HURST, THOMAS L.",12
+PAHRUMP 30,U.S. Senate,"MARINCH, GARY",4
+PAHRUMP 30,U.S. Senate,None Of These Candidates,9
+PAHRUMP 30,U.S. Senate,"REID, HARRY",376
+PAHRUMP 30,U.S. Senate,"SCHUMANN, DAVID K.",6
+PAHRUMP 30,U.S. Senate,"ZISER, RICHARD",254
 PAHRUMP 30,"University Board of Regents, District  8","AIAZZI, STAN",187
 PAHRUMP 30,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",379
 PAHRUMP 31,PAHRUMP TOWN Board - vf 2 - town,"BISHOPI, EDWARD",304
 PAHRUMP 31,PAHRUMP TOWN Board - vf 2 - town,"BOBECK, JEFF",199
 PAHRUMP 31,PAHRUMP TOWN Board - vf 2 - town,"MURRAY, LAURAYNE",263
 PAHRUMP 31,PAHRUMP TOWN Board - vf 2 - town,"PATTI, CHUCK",212
-PAHRUMP 31,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-PAHRUMP 31,President and Vice President of the United States,"BUSH, GEORGE W.",391
-PAHRUMP 31,President and Vice President of the United States,"COBB, DAVID",1
-PAHRUMP 31,President and Vice President of the United States,"KERRY, JOHN F.",234
-PAHRUMP 31,President and Vice President of the United States,"NADER, RALPH",7
-PAHRUMP 31,President and Vice President of the United States,None Of These Candidates,1
-PAHRUMP 31,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+PAHRUMP 31,President,"BADNARIK, MICHAEL",4
+PAHRUMP 31,President,"BUSH, GEORGE W.",391
+PAHRUMP 31,President,"COBB, DAVID",1
+PAHRUMP 31,President,"KERRY, JOHN F.",234
+PAHRUMP 31,President,"NADER, RALPH",7
+PAHRUMP 31,President,None Of These Candidates,1
+PAHRUMP 31,President,"PEROUTKA, MICHAEL A.",2
 PAHRUMP 31,School Board Trustee Area IV,"ESPANA, JOHN S.",94
 PAHRUMP 31,School Board Trustee Area IV,"WARD, TRACIE",431
 PAHRUMP 31,"State Assembly, District 36","HOLMGREN, JACKIE A.",162
@@ -911,47 +911,47 @@ PAHRUMP 31,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",183
 PAHRUMP 31,"U.S. Representative in Congress, District 2","GIBBONS, JIM",389
 PAHRUMP 31,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
 PAHRUMP 31,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-PAHRUMP 31,United States Senator,"HURST, THOMAS L.",5
-PAHRUMP 31,United States Senator,"MARINCH, GARY",0
-PAHRUMP 31,United States Senator,None Of These Candidates,11
-PAHRUMP 31,United States Senator,"REID, HARRY",328
-PAHRUMP 31,United States Senator,"SCHUMANN, DAVID K.",12
-PAHRUMP 31,United States Senator,"ZISER, RICHARD",270
+PAHRUMP 31,U.S. Senate,"HURST, THOMAS L.",5
+PAHRUMP 31,U.S. Senate,"MARINCH, GARY",0
+PAHRUMP 31,U.S. Senate,None Of These Candidates,11
+PAHRUMP 31,U.S. Senate,"REID, HARRY",328
+PAHRUMP 31,U.S. Senate,"SCHUMANN, DAVID K.",12
+PAHRUMP 31,U.S. Senate,"ZISER, RICHARD",270
 PAHRUMP 31,"University Board of Regents, District  8","AIAZZI, STAN",147
 PAHRUMP 31,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",365
-Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",130
-Precinct 88,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",71
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
-Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",11
-Precinct 99,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",10
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 88,President,"BADNARIK, MICHAEL",0
+Precinct 88,President,"BUSH, GEORGE W.",130
+Precinct 88,President,"COBB, DAVID",0
+Precinct 88,President,"KERRY, JOHN F.",71
+Precinct 88,President,"NADER, RALPH",3
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"PEROUTKA, MICHAEL A.",0
+Precinct 99,President,"BADNARIK, MICHAEL",0
+Precinct 99,President,"BUSH, GEORGE W.",11
+Precinct 99,President,"COBB, DAVID",0
+Precinct 99,President,"KERRY, JOHN F.",10
+Precinct 99,President,"NADER, RALPH",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"PEROUTKA, MICHAEL A.",0
 Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",6
 Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",12
 Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",2
 Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-Precinct 99,United States Senator,"HURST, THOMAS L.",0
-Precinct 99,United States Senator,"MARINCH, GARY",0
-Precinct 99,United States Senator,None Of These Candidates,1
-Precinct 99,United States Senator,"REID, HARRY",10
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 99,United States Senator,"ZISER, RICHARD",8
+Precinct 99,U.S. Senate,"HURST, THOMAS L.",0
+Precinct 99,U.S. Senate,"MARINCH, GARY",0
+Precinct 99,U.S. Senate,None Of These Candidates,1
+Precinct 99,U.S. Senate,"REID, HARRY",10
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 99,U.S. Senate,"ZISER, RICHARD",8
 ROUND MTN 12,County Commissioner District I,"CARVER, MIDGE",275
 ROUND MTN 12,County Commissioner District I,"KULKIN, HARLEY Z.",21
-ROUND MTN 12,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-ROUND MTN 12,President and Vice President of the United States,"BUSH, GEORGE W.",249
-ROUND MTN 12,President and Vice President of the United States,"COBB, DAVID",0
-ROUND MTN 12,President and Vice President of the United States,"KERRY, JOHN F.",42
-ROUND MTN 12,President and Vice President of the United States,"NADER, RALPH",1
-ROUND MTN 12,President and Vice President of the United States,None Of These Candidates,0
-ROUND MTN 12,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+ROUND MTN 12,President,"BADNARIK, MICHAEL",3
+ROUND MTN 12,President,"BUSH, GEORGE W.",249
+ROUND MTN 12,President,"COBB, DAVID",0
+ROUND MTN 12,President,"KERRY, JOHN F.",42
+ROUND MTN 12,President,"NADER, RALPH",1
+ROUND MTN 12,President,None Of These Candidates,0
+ROUND MTN 12,President,"PEROUTKA, MICHAEL A.",3
 ROUND MTN 12,"State Assembly, District 36","HOLMGREN, JACKIE A.",54
 ROUND MTN 12,"State Assembly, District 36","SHERERH, RODERICK ""R",234
 ROUND MTN 12,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",61
@@ -969,23 +969,23 @@ ROUND MTN 12,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",3
 ROUND MTN 12,"U.S. Representative in Congress, District 2","GIBBONS, JIM",241
 ROUND MTN 12,"U.S. Representative in Congress, District 2","HANSEN, JANINE",19
 ROUND MTN 12,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-ROUND MTN 12,United States Senator,"HURST, THOMAS L.",6
-ROUND MTN 12,United States Senator,"MARINCH, GARY",3
-ROUND MTN 12,United States Senator,None Of These Candidates,11
-ROUND MTN 12,United States Senator,"REID, HARRY",110
-ROUND MTN 12,United States Senator,"SCHUMANN, DAVID K.",6
-ROUND MTN 12,United States Senator,"ZISER, RICHARD",158
+ROUND MTN 12,U.S. Senate,"HURST, THOMAS L.",6
+ROUND MTN 12,U.S. Senate,"MARINCH, GARY",3
+ROUND MTN 12,U.S. Senate,None Of These Candidates,11
+ROUND MTN 12,U.S. Senate,"REID, HARRY",110
+ROUND MTN 12,U.S. Senate,"SCHUMANN, DAVID K.",6
+ROUND MTN 12,U.S. Senate,"ZISER, RICHARD",158
 ROUND MTN 12,"University Board of Regents, District  8","AIAZZI, STAN",84
 ROUND MTN 12,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",193
 SMOKY VALLEY 35,County Commissioner District I,"CARVER, MIDGE",226
 SMOKY VALLEY 35,County Commissioner District I,"KULKIN, HARLEY Z.",11
-SMOKY VALLEY 35,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-SMOKY VALLEY 35,President and Vice President of the United States,"BUSH, GEORGE W.",210
-SMOKY VALLEY 35,President and Vice President of the United States,"COBB, DAVID",0
-SMOKY VALLEY 35,President and Vice President of the United States,"KERRY, JOHN F.",30
-SMOKY VALLEY 35,President and Vice President of the United States,"NADER, RALPH",1
-SMOKY VALLEY 35,President and Vice President of the United States,None Of These Candidates,2
-SMOKY VALLEY 35,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+SMOKY VALLEY 35,President,"BADNARIK, MICHAEL",0
+SMOKY VALLEY 35,President,"BUSH, GEORGE W.",210
+SMOKY VALLEY 35,President,"COBB, DAVID",0
+SMOKY VALLEY 35,President,"KERRY, JOHN F.",30
+SMOKY VALLEY 35,President,"NADER, RALPH",1
+SMOKY VALLEY 35,President,None Of These Candidates,2
+SMOKY VALLEY 35,President,"PEROUTKA, MICHAEL A.",1
 SMOKY VALLEY 35,"State Assembly, District 36","HOLMGREN, JACKIE A.",69
 SMOKY VALLEY 35,"State Assembly, District 36","SHERERH, RODERICK ""R",159
 SMOKY VALLEY 35,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",60
@@ -1003,23 +1003,23 @@ SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","GIBBONS, JIM",189
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-SMOKY VALLEY 35,United States Senator,"HURST, THOMAS L.",3
-SMOKY VALLEY 35,United States Senator,"MARINCH, GARY",0
-SMOKY VALLEY 35,United States Senator,None Of These Candidates,7
-SMOKY VALLEY 35,United States Senator,"REID, HARRY",87
-SMOKY VALLEY 35,United States Senator,"SCHUMANN, DAVID K.",9
-SMOKY VALLEY 35,United States Senator,"ZISER, RICHARD",136
+SMOKY VALLEY 35,U.S. Senate,"HURST, THOMAS L.",3
+SMOKY VALLEY 35,U.S. Senate,"MARINCH, GARY",0
+SMOKY VALLEY 35,U.S. Senate,None Of These Candidates,7
+SMOKY VALLEY 35,U.S. Senate,"REID, HARRY",87
+SMOKY VALLEY 35,U.S. Senate,"SCHUMANN, DAVID K.",9
+SMOKY VALLEY 35,U.S. Senate,"ZISER, RICHARD",136
 SMOKY VALLEY 35,"University Board of Regents, District  8","AIAZZI, STAN",84
 SMOKY VALLEY 35,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",121
 SUNNYSIDE 13,County Commissioner District I,"CARVER, MIDGE",
 SUNNYSIDE 13,County Commissioner District I,"KULKIN, HARLEY Z.",
-SUNNYSIDE 13,President and Vice President of the United States,"BADNARIK, MICHAEL",
-SUNNYSIDE 13,President and Vice President of the United States,"BUSH, GEORGE W.",
-SUNNYSIDE 13,President and Vice President of the United States,"COBB, DAVID",
-SUNNYSIDE 13,President and Vice President of the United States,"KERRY, JOHN F.",
-SUNNYSIDE 13,President and Vice President of the United States,"NADER, RALPH",
-SUNNYSIDE 13,President and Vice President of the United States,None Of These Candidates,
-SUNNYSIDE 13,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+SUNNYSIDE 13,President,"BADNARIK, MICHAEL",
+SUNNYSIDE 13,President,"BUSH, GEORGE W.",
+SUNNYSIDE 13,President,"COBB, DAVID",
+SUNNYSIDE 13,President,"KERRY, JOHN F.",
+SUNNYSIDE 13,President,"NADER, RALPH",
+SUNNYSIDE 13,President,None Of These Candidates,
+SUNNYSIDE 13,President,"PEROUTKA, MICHAEL A.",
 SUNNYSIDE 13,"State Assembly, District 36","HOLMGREN, JACKIE A.",
 SUNNYSIDE 13,"State Assembly, District 36","SHERERH, RODERICK ""R",
 SUNNYSIDE 13,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",
@@ -1037,22 +1037,22 @@ SUNNYSIDE 13,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","GIBBONS, JIM",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",
-SUNNYSIDE 13,United States Senator,"HURST, THOMAS L.",
-SUNNYSIDE 13,United States Senator,"MARINCH, GARY",
-SUNNYSIDE 13,United States Senator,None Of These Candidates,
-SUNNYSIDE 13,United States Senator,"REID, HARRY",
-SUNNYSIDE 13,United States Senator,"SCHUMANN, DAVID K.",
-SUNNYSIDE 13,United States Senator,"ZISER, RICHARD",
+SUNNYSIDE 13,U.S. Senate,"HURST, THOMAS L.",
+SUNNYSIDE 13,U.S. Senate,"MARINCH, GARY",
+SUNNYSIDE 13,U.S. Senate,None Of These Candidates,
+SUNNYSIDE 13,U.S. Senate,"REID, HARRY",
+SUNNYSIDE 13,U.S. Senate,"SCHUMANN, DAVID K.",
+SUNNYSIDE 13,U.S. Senate,"ZISER, RICHARD",
 SUNNYSIDE 13,"University Board of Regents, District  8","AIAZZI, STAN",
 SUNNYSIDE 13,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",
 TONOPAH 14,County Commissioner District II,"EASTLEY, JONI",345
-TONOPAH 14,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-TONOPAH 14,President and Vice President of the United States,"BUSH, GEORGE W.",292
-TONOPAH 14,President and Vice President of the United States,"COBB, DAVID",0
-TONOPAH 14,President and Vice President of the United States,"KERRY, JOHN F.",78
-TONOPAH 14,President and Vice President of the United States,"NADER, RALPH",1
-TONOPAH 14,President and Vice President of the United States,None Of These Candidates,1
-TONOPAH 14,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+TONOPAH 14,President,"BADNARIK, MICHAEL",2
+TONOPAH 14,President,"BUSH, GEORGE W.",292
+TONOPAH 14,President,"COBB, DAVID",0
+TONOPAH 14,President,"KERRY, JOHN F.",78
+TONOPAH 14,President,"NADER, RALPH",1
+TONOPAH 14,President,None Of These Candidates,1
+TONOPAH 14,President,"PEROUTKA, MICHAEL A.",1
 TONOPAH 14,"State Assembly, District 36","HOLMGREN, JACKIE A.",81
 TONOPAH 14,"State Assembly, District 36","SHERERH, RODERICK ""R",279
 TONOPAH 14,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",12
@@ -1075,22 +1075,22 @@ TONOPAH 14,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",53
 TONOPAH 14,"U.S. Representative in Congress, District 2","GIBBONS, JIM",290
 TONOPAH 14,"U.S. Representative in Congress, District 2","HANSEN, JANINE",19
 TONOPAH 14,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-TONOPAH 14,United States Senator,"HURST, THOMAS L.",6
-TONOPAH 14,United States Senator,"MARINCH, GARY",4
-TONOPAH 14,United States Senator,None Of These Candidates,13
-TONOPAH 14,United States Senator,"REID, HARRY",151
-TONOPAH 14,United States Senator,"SCHUMANN, DAVID K.",7
-TONOPAH 14,United States Senator,"ZISER, RICHARD",189
+TONOPAH 14,U.S. Senate,"HURST, THOMAS L.",6
+TONOPAH 14,U.S. Senate,"MARINCH, GARY",4
+TONOPAH 14,U.S. Senate,None Of These Candidates,13
+TONOPAH 14,U.S. Senate,"REID, HARRY",151
+TONOPAH 14,U.S. Senate,"SCHUMANN, DAVID K.",7
+TONOPAH 14,U.S. Senate,"ZISER, RICHARD",189
 TONOPAH 14,"University Board of Regents, District  8","AIAZZI, STAN",127
 TONOPAH 14,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",196
 TONOPAH 15,County Commissioner District II,"EASTLEY, JONI",145
-TONOPAH 15,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-TONOPAH 15,President and Vice President of the United States,"BUSH, GEORGE W.",102
-TONOPAH 15,President and Vice President of the United States,"COBB, DAVID",2
-TONOPAH 15,President and Vice President of the United States,"KERRY, JOHN F.",42
-TONOPAH 15,President and Vice President of the United States,"NADER, RALPH",5
-TONOPAH 15,President and Vice President of the United States,None Of These Candidates,5
-TONOPAH 15,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+TONOPAH 15,President,"BADNARIK, MICHAEL",3
+TONOPAH 15,President,"BUSH, GEORGE W.",102
+TONOPAH 15,President,"COBB, DAVID",2
+TONOPAH 15,President,"KERRY, JOHN F.",42
+TONOPAH 15,President,"NADER, RALPH",5
+TONOPAH 15,President,None Of These Candidates,5
+TONOPAH 15,President,"PEROUTKA, MICHAEL A.",1
 TONOPAH 15,"State Assembly, District 36","HOLMGREN, JACKIE A.",56
 TONOPAH 15,"State Assembly, District 36","SHERERH, RODERICK ""R",91
 TONOPAH 15,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",15
@@ -1113,22 +1113,22 @@ TONOPAH 15,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",32
 TONOPAH 15,"U.S. Representative in Congress, District 2","GIBBONS, JIM",112
 TONOPAH 15,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
 TONOPAH 15,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-TONOPAH 15,United States Senator,"HURST, THOMAS L.",4
-TONOPAH 15,United States Senator,"MARINCH, GARY",1
-TONOPAH 15,United States Senator,None Of These Candidates,4
-TONOPAH 15,United States Senator,"REID, HARRY",87
-TONOPAH 15,United States Senator,"SCHUMANN, DAVID K.",4
-TONOPAH 15,United States Senator,"ZISER, RICHARD",57
+TONOPAH 15,U.S. Senate,"HURST, THOMAS L.",4
+TONOPAH 15,U.S. Senate,"MARINCH, GARY",1
+TONOPAH 15,U.S. Senate,None Of These Candidates,4
+TONOPAH 15,U.S. Senate,"REID, HARRY",87
+TONOPAH 15,U.S. Senate,"SCHUMANN, DAVID K.",4
+TONOPAH 15,U.S. Senate,"ZISER, RICHARD",57
 TONOPAH 15,"University Board of Regents, District  8","AIAZZI, STAN",71
 TONOPAH 15,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",64
 TONOPAH 16,County Commissioner District II,"EASTLEY, JONI",152
-TONOPAH 16,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-TONOPAH 16,President and Vice President of the United States,"BUSH, GEORGE W.",132
-TONOPAH 16,President and Vice President of the United States,"COBB, DAVID",0
-TONOPAH 16,President and Vice President of the United States,"KERRY, JOHN F.",36
-TONOPAH 16,President and Vice President of the United States,"NADER, RALPH",2
-TONOPAH 16,President and Vice President of the United States,None Of These Candidates,3
-TONOPAH 16,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+TONOPAH 16,President,"BADNARIK, MICHAEL",0
+TONOPAH 16,President,"BUSH, GEORGE W.",132
+TONOPAH 16,President,"COBB, DAVID",0
+TONOPAH 16,President,"KERRY, JOHN F.",36
+TONOPAH 16,President,"NADER, RALPH",2
+TONOPAH 16,President,None Of These Candidates,3
+TONOPAH 16,President,"PEROUTKA, MICHAEL A.",0
 TONOPAH 16,"State Assembly, District 36","HOLMGREN, JACKIE A.",43
 TONOPAH 16,"State Assembly, District 36","SHERERH, RODERICK ""R",120
 TONOPAH 16,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",9
@@ -1151,22 +1151,22 @@ TONOPAH 16,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",28
 TONOPAH 16,"U.S. Representative in Congress, District 2","GIBBONS, JIM",134
 TONOPAH 16,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 TONOPAH 16,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-TONOPAH 16,United States Senator,"HURST, THOMAS L.",0
-TONOPAH 16,United States Senator,"MARINCH, GARY",1
-TONOPAH 16,United States Senator,None Of These Candidates,7
-TONOPAH 16,United States Senator,"REID, HARRY",71
-TONOPAH 16,United States Senator,"SCHUMANN, DAVID K.",4
-TONOPAH 16,United States Senator,"ZISER, RICHARD",86
+TONOPAH 16,U.S. Senate,"HURST, THOMAS L.",0
+TONOPAH 16,U.S. Senate,"MARINCH, GARY",1
+TONOPAH 16,U.S. Senate,None Of These Candidates,7
+TONOPAH 16,U.S. Senate,"REID, HARRY",71
+TONOPAH 16,U.S. Senate,"SCHUMANN, DAVID K.",4
+TONOPAH 16,U.S. Senate,"ZISER, RICHARD",86
 TONOPAH 16,"University Board of Regents, District  8","AIAZZI, STAN",70
 TONOPAH 16,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",84
 TONOPAH 17,County Commissioner District II,"EASTLEY, JONI",237
-TONOPAH 17,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-TONOPAH 17,President and Vice President of the United States,"BUSH, GEORGE W.",185
-TONOPAH 17,President and Vice President of the United States,"COBB, DAVID",0
-TONOPAH 17,President and Vice President of the United States,"KERRY, JOHN F.",76
-TONOPAH 17,President and Vice President of the United States,"NADER, RALPH",2
-TONOPAH 17,President and Vice President of the United States,None Of These Candidates,2
-TONOPAH 17,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+TONOPAH 17,President,"BADNARIK, MICHAEL",1
+TONOPAH 17,President,"BUSH, GEORGE W.",185
+TONOPAH 17,President,"COBB, DAVID",0
+TONOPAH 17,President,"KERRY, JOHN F.",76
+TONOPAH 17,President,"NADER, RALPH",2
+TONOPAH 17,President,None Of These Candidates,2
+TONOPAH 17,President,"PEROUTKA, MICHAEL A.",2
 TONOPAH 17,"State Assembly, District 36","HOLMGREN, JACKIE A.",70
 TONOPAH 17,"State Assembly, District 36","SHERERH, RODERICK ""R",176
 TONOPAH 17,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",15
@@ -1189,11 +1189,11 @@ TONOPAH 17,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",52
 TONOPAH 17,"U.S. Representative in Congress, District 2","GIBBONS, JIM",187
 TONOPAH 17,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 TONOPAH 17,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-TONOPAH 17,United States Senator,"HURST, THOMAS L.",1
-TONOPAH 17,United States Senator,"MARINCH, GARY",5
-TONOPAH 17,United States Senator,None Of These Candidates,5
-TONOPAH 17,United States Senator,"REID, HARRY",130
-TONOPAH 17,United States Senator,"SCHUMANN, DAVID K.",9
-TONOPAH 17,United States Senator,"ZISER, RICHARD",112
+TONOPAH 17,U.S. Senate,"HURST, THOMAS L.",1
+TONOPAH 17,U.S. Senate,"MARINCH, GARY",5
+TONOPAH 17,U.S. Senate,None Of These Candidates,5
+TONOPAH 17,U.S. Senate,"REID, HARRY",130
+TONOPAH 17,U.S. Senate,"SCHUMANN, DAVID K.",9
+TONOPAH 17,U.S. Senate,"ZISER, RICHARD",112
 TONOPAH 17,"University Board of Regents, District  8","AIAZZI, STAN",104
 TONOPAH 17,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",136

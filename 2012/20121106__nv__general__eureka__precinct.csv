@@ -3,11 +3,11 @@ Precinct 1,County Commissioner District 1,"FIORENZI, LEONARD",155
 Precinct 1,County Commissioner District 1,"GOICOECHEA, J.J.",144
 Precinct 1,County Commissioner District 3,"DEMPSEY, PATRICK",131
 Precinct 1,County Commissioner District 3,"PAGE, MIKE",158
-Precinct 1,President and Vice President of the United States,"GOODE, VIRGIL",3
-Precinct 1,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 1,President and Vice President of the United States,None Of These Candidates,4
-Precinct 1,President and Vice President of the United States,"Obama, Barack",38
-Precinct 1,President and Vice President of the United States,"Romney, Mitt",257
+Precinct 1,President,"GOODE, VIRGIL",3
+Precinct 1,President,"JOHNSON, GARY",1
+Precinct 1,President,None Of These Candidates,4
+Precinct 1,President,"Obama, Barack",38
+Precinct 1,President,"Romney, Mitt",257
 Precinct 1,School Board Trustee Seat 1A,"NORRIS, DAN",156
 Precinct 1,School Board Trustee Seat 1A,"SIMMONS, SARA",123
 Precinct 1,School Board Trustee Seat 1B,"BROWN, TERRILYNN",187
@@ -30,19 +30,19 @@ Precinct 1,"U.S. Representative in Congress, District 2","Amodei, Mark E.",242
 Precinct 1,"U.S. Representative in Congress, District 2","Best, Russell",13
 Precinct 1,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",8
 Precinct 1,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",34
-Precinct 1,United States Senator,"Berkley, Shelley",26
-Precinct 1,United States Senator,"Heller, Dean",246
-Precinct 1,United States Senator,None Of These Candidates,10
-Precinct 1,United States Senator,"VANDERBEEK, DAVID LORY",21
+Precinct 1,U.S. Senate,"Berkley, Shelley",26
+Precinct 1,U.S. Senate,"Heller, Dean",246
+Precinct 1,U.S. Senate,None Of These Candidates,10
+Precinct 1,U.S. Senate,"VANDERBEEK, DAVID LORY",21
 Precinct 2,County Commissioner District 1,"FIORENZI, LEONARD",89
 Precinct 2,County Commissioner District 1,"GOICOECHEA, J.J.",175
 Precinct 2,County Commissioner District 3,"DEMPSEY, PATRICK",169
 Precinct 2,County Commissioner District 3,"PAGE, MIKE",85
-Precinct 2,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 2,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 2,President and Vice President of the United States,None Of These Candidates,6
-Precinct 2,President and Vice President of the United States,"Obama, Barack",36
-Precinct 2,President and Vice President of the United States,"Romney, Mitt",219
+Precinct 2,President,"GOODE, VIRGIL",4
+Precinct 2,President,"JOHNSON, GARY",4
+Precinct 2,President,None Of These Candidates,6
+Precinct 2,President,"Obama, Barack",36
+Precinct 2,President,"Romney, Mitt",219
 Precinct 2,School Board Trustee Seat 1A,"NORRIS, DAN",120
 Precinct 2,School Board Trustee Seat 1A,"SIMMONS, SARA",131
 Precinct 2,School Board Trustee Seat 1B,"BROWN, TERRILYNN",191
@@ -65,19 +65,19 @@ Precinct 2,"U.S. Representative in Congress, District 2","Amodei, Mark E.",211
 Precinct 2,"U.S. Representative in Congress, District 2","Best, Russell",12
 Precinct 2,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",13
 Precinct 2,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",24
-Precinct 2,United States Senator,"Berkley, Shelley",29
-Precinct 2,United States Senator,"Heller, Dean",211
-Precinct 2,United States Senator,None Of These Candidates,15
-Precinct 2,United States Senator,"VANDERBEEK, DAVID LORY",13
+Precinct 2,U.S. Senate,"Berkley, Shelley",29
+Precinct 2,U.S. Senate,"Heller, Dean",211
+Precinct 2,U.S. Senate,None Of These Candidates,15
+Precinct 2,U.S. Senate,"VANDERBEEK, DAVID LORY",13
 Precinct 3,County Commissioner District 1,"FIORENZI, LEONARD",42
 Precinct 3,County Commissioner District 1,"GOICOECHEA, J.J.",65
 Precinct 3,County Commissioner District 3,"DEMPSEY, PATRICK",54
 Precinct 3,County Commissioner District 3,"PAGE, MIKE",51
-Precinct 3,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 3,President and Vice President of the United States,"JOHNSON, GARY",3
-Precinct 3,President and Vice President of the United States,None Of These Candidates,0
-Precinct 3,President and Vice President of the United States,"Obama, Barack",13
-Precinct 3,President and Vice President of the United States,"Romney, Mitt",95
+Precinct 3,President,"GOODE, VIRGIL",2
+Precinct 3,President,"JOHNSON, GARY",3
+Precinct 3,President,None Of These Candidates,0
+Precinct 3,President,"Obama, Barack",13
+Precinct 3,President,"Romney, Mitt",95
 Precinct 3,School Board Trustee Seat 1A,"NORRIS, DAN",45
 Precinct 3,School Board Trustee Seat 1A,"SIMMONS, SARA",51
 Precinct 3,School Board Trustee Seat 1B,"BROWN, TERRILYNN",63
@@ -100,19 +100,19 @@ Precinct 3,"U.S. Representative in Congress, District 2","Amodei, Mark E.",91
 Precinct 3,"U.S. Representative in Congress, District 2","Best, Russell",4
 Precinct 3,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",2
 Precinct 3,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",15
-Precinct 3,United States Senator,"Berkley, Shelley",12
-Precinct 3,United States Senator,"Heller, Dean",92
-Precinct 3,United States Senator,None Of These Candidates,1
-Precinct 3,United States Senator,"VANDERBEEK, DAVID LORY",7
+Precinct 3,U.S. Senate,"Berkley, Shelley",12
+Precinct 3,U.S. Senate,"Heller, Dean",92
+Precinct 3,U.S. Senate,None Of These Candidates,1
+Precinct 3,U.S. Senate,"VANDERBEEK, DAVID LORY",7
 Precinct 4,County Commissioner District 1,"FIORENZI, LEONARD",30
 Precinct 4,County Commissioner District 1,"GOICOECHEA, J.J.",85
 Precinct 4,County Commissioner District 3,"DEMPSEY, PATRICK",93
 Precinct 4,County Commissioner District 3,"PAGE, MIKE",25
-Precinct 4,President and Vice President of the United States,"GOODE, VIRGIL",1
-Precinct 4,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 4,President and Vice President of the United States,None Of These Candidates,9
-Precinct 4,President and Vice President of the United States,"Obama, Barack",20
-Precinct 4,President and Vice President of the United States,"Romney, Mitt",92
+Precinct 4,President,"GOODE, VIRGIL",1
+Precinct 4,President,"JOHNSON, GARY",1
+Precinct 4,President,None Of These Candidates,9
+Precinct 4,President,"Obama, Barack",20
+Precinct 4,President,"Romney, Mitt",92
 Precinct 4,School Board Trustee Seat 1A,"NORRIS, DAN",43
 Precinct 4,School Board Trustee Seat 1A,"SIMMONS, SARA",70
 Precinct 4,School Board Trustee Seat 1B,"BROWN, TERRILYNN",45
@@ -135,25 +135,25 @@ Precinct 4,"U.S. Representative in Congress, District 2","Amodei, Mark E.",84
 Precinct 4,"U.S. Representative in Congress, District 2","Best, Russell",7
 Precinct 4,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",7
 Precinct 4,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",23
-Precinct 4,United States Senator,"Berkley, Shelley",20
-Precinct 4,United States Senator,"Heller, Dean",87
-Precinct 4,United States Senator,None Of These Candidates,7
-Precinct 4,United States Senator,"VANDERBEEK, DAVID LORY",7
-Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"Obama, Barack",0
-Precinct 88,President and Vice President of the United States,"Romney, Mitt",0
-Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"Obama, Barack",0
-Precinct 99,President and Vice President of the United States,"Romney, Mitt",0
+Precinct 4,U.S. Senate,"Berkley, Shelley",20
+Precinct 4,U.S. Senate,"Heller, Dean",87
+Precinct 4,U.S. Senate,None Of These Candidates,7
+Precinct 4,U.S. Senate,"VANDERBEEK, DAVID LORY",7
+Precinct 88,President,"GOODE, VIRGIL",0
+Precinct 88,President,"JOHNSON, GARY",0
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"Obama, Barack",0
+Precinct 88,President,"Romney, Mitt",0
+Precinct 99,President,"GOODE, VIRGIL",0
+Precinct 99,President,"JOHNSON, GARY",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"Obama, Barack",0
+Precinct 99,President,"Romney, Mitt",0
 Precinct 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",0
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",0
 Precinct 99,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",0
-Precinct 99,United States Senator,"Berkley, Shelley",0
-Precinct 99,United States Senator,"Heller, Dean",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",0
+Precinct 99,U.S. Senate,"Berkley, Shelley",0
+Precinct 99,U.S. Senate,"Heller, Dean",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"VANDERBEEK, DAVID LORY",0

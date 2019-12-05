@@ -39,24 +39,24 @@ PRECINCT 1,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",24
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",13
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",94
-PRECINCT 1,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-PRECINCT 1,United States Senator (Democratic),"Miller, Alex",12
-PRECINCT 1,United States Senator (Democratic),None Of These Candidates,30
-PRECINCT 1,United States Senator (Democratic),"Poliak, Carlo",6
-PRECINCT 1,United States Senator (Democratic),"Reid, Harry",37
-PRECINCT 1,United States Senator (Republican),"Angle, Sharron",33
-PRECINCT 1,United States Senator (Republican),"Bernstein, Gary",2
-PRECINCT 1,United States Senator (Republican),"Chachas, John",5
-PRECINCT 1,United States Senator (Republican),"Christensen, Chad",1
-PRECINCT 1,United States Senator (Republican),"Lowden, Sue",25
-PRECINCT 1,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 1,United States Senator (Republican),"Marinch, Gary",1
-PRECINCT 1,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 1,United States Senator (Republican),None Of These Candidates,5
-PRECINCT 1,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 1,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 1,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 1,United States Senator (Republican),"Tarkanian, Danny",37
+PRECINCT 1,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+PRECINCT 1,U.S. Senate (Democratic),"Miller, Alex",12
+PRECINCT 1,U.S. Senate (Democratic),None Of These Candidates,30
+PRECINCT 1,U.S. Senate (Democratic),"Poliak, Carlo",6
+PRECINCT 1,U.S. Senate (Democratic),"Reid, Harry",37
+PRECINCT 1,U.S. Senate (Republican),"Angle, Sharron",33
+PRECINCT 1,U.S. Senate (Republican),"Bernstein, Gary",2
+PRECINCT 1,U.S. Senate (Republican),"Chachas, John",5
+PRECINCT 1,U.S. Senate (Republican),"Christensen, Chad",1
+PRECINCT 1,U.S. Senate (Republican),"Lowden, Sue",25
+PRECINCT 1,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 1,U.S. Senate (Republican),"Marinch, Gary",1
+PRECINCT 1,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 1,U.S. Senate (Republican),None Of These Candidates,5
+PRECINCT 1,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 1,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 1,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 1,U.S. Senate (Republican),"Tarkanian, Danny",37
 PRECINCT 1,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",37
 PRECINCT 1,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",58
 PRECINCT 1,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",73
@@ -100,24 +100,24 @@ PRECINCT 10 (MB),"U.S. Representative in Congress, District 2 (Democratic)","McK
 PRECINCT 10 (MB),"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 PRECINCT 10 (MB),"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",
 PRECINCT 10 (MB),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
-PRECINCT 10 (MB),United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-PRECINCT 10 (MB),United States Senator (Democratic),"Miller, Alex",0
-PRECINCT 10 (MB),United States Senator (Democratic),None Of These Candidates,0
-PRECINCT 10 (MB),United States Senator (Democratic),"Poliak, Carlo",0
-PRECINCT 10 (MB),United States Senator (Democratic),"Reid, Harry",0
-PRECINCT 10 (MB),United States Senator (Republican),"Angle, Sharron",
-PRECINCT 10 (MB),United States Senator (Republican),"Bernstein, Gary",
-PRECINCT 10 (MB),United States Senator (Republican),"Chachas, John",
-PRECINCT 10 (MB),United States Senator (Republican),"Christensen, Chad",
-PRECINCT 10 (MB),United States Senator (Republican),"Lowden, Sue",
-PRECINCT 10 (MB),United States Senator (Republican),"Mabey, Garn",
-PRECINCT 10 (MB),United States Senator (Republican),"Marinch, Gary",
-PRECINCT 10 (MB),United States Senator (Republican),"Nadell, Brian",
-PRECINCT 10 (MB),United States Senator (Republican),None Of These Candidates,
-PRECINCT 10 (MB),United States Senator (Republican),"Parson, Bill",
-PRECINCT 10 (MB),United States Senator (Republican),"Stern, Cecilia",
-PRECINCT 10 (MB),United States Senator (Republican),"Suominen, Terry",
-PRECINCT 10 (MB),United States Senator (Republican),"Tarkanian, Danny",
+PRECINCT 10 (MB),U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+PRECINCT 10 (MB),U.S. Senate (Democratic),"Miller, Alex",0
+PRECINCT 10 (MB),U.S. Senate (Democratic),None Of These Candidates,0
+PRECINCT 10 (MB),U.S. Senate (Democratic),"Poliak, Carlo",0
+PRECINCT 10 (MB),U.S. Senate (Democratic),"Reid, Harry",0
+PRECINCT 10 (MB),U.S. Senate (Republican),"Angle, Sharron",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Bernstein, Gary",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Chachas, John",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Christensen, Chad",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Lowden, Sue",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Mabey, Garn",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Marinch, Gary",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Nadell, Brian",
+PRECINCT 10 (MB),U.S. Senate (Republican),None Of These Candidates,
+PRECINCT 10 (MB),U.S. Senate (Republican),"Parson, Bill",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Stern, Cecilia",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Suominen, Terry",
+PRECINCT 10 (MB),U.S. Senate (Republican),"Tarkanian, Danny",
 PRECINCT 10 (MB),"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",
 PRECINCT 10 (MB),"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",
 PRECINCT 10 (MB),"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",
@@ -161,24 +161,24 @@ PRECINCT 11,"U.S. Representative in Congress, District 2 (Democratic)","McKenna,
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",21
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",6
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",9
-PRECINCT 11,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-PRECINCT 11,United States Senator (Democratic),"Miller, Alex",10
-PRECINCT 11,United States Senator (Democratic),None Of These Candidates,4
-PRECINCT 11,United States Senator (Democratic),"Poliak, Carlo",0
-PRECINCT 11,United States Senator (Democratic),"Reid, Harry",49
-PRECINCT 11,United States Senator (Republican),"Angle, Sharron",2
-PRECINCT 11,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 11,United States Senator (Republican),"Chachas, John",0
-PRECINCT 11,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 11,United States Senator (Republican),"Lowden, Sue",6
-PRECINCT 11,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 11,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 11,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 11,United States Senator (Republican),None Of These Candidates,1
-PRECINCT 11,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 11,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 11,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 11,United States Senator (Republican),"Tarkanian, Danny",7
+PRECINCT 11,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+PRECINCT 11,U.S. Senate (Democratic),"Miller, Alex",10
+PRECINCT 11,U.S. Senate (Democratic),None Of These Candidates,4
+PRECINCT 11,U.S. Senate (Democratic),"Poliak, Carlo",0
+PRECINCT 11,U.S. Senate (Democratic),"Reid, Harry",49
+PRECINCT 11,U.S. Senate (Republican),"Angle, Sharron",2
+PRECINCT 11,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 11,U.S. Senate (Republican),"Chachas, John",0
+PRECINCT 11,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 11,U.S. Senate (Republican),"Lowden, Sue",6
+PRECINCT 11,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 11,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 11,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 11,U.S. Senate (Republican),None Of These Candidates,1
+PRECINCT 11,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 11,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 11,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 11,U.S. Senate (Republican),"Tarkanian, Danny",7
 PRECINCT 11,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",13
 PRECINCT 11,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",23
 PRECINCT 11,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",42
@@ -222,24 +222,24 @@ PRECINCT 12,"U.S. Representative in Congress, District 2 (Democratic)","McKenna,
 PRECINCT 12,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",14
 PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",12
 PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",51
-PRECINCT 12,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
-PRECINCT 12,United States Senator (Democratic),"Miller, Alex",4
-PRECINCT 12,United States Senator (Democratic),None Of These Candidates,8
-PRECINCT 12,United States Senator (Democratic),"Poliak, Carlo",1
-PRECINCT 12,United States Senator (Democratic),"Reid, Harry",15
-PRECINCT 12,United States Senator (Republican),"Angle, Sharron",20
-PRECINCT 12,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 12,United States Senator (Republican),"Chachas, John",1
-PRECINCT 12,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 12,United States Senator (Republican),"Lowden, Sue",13
-PRECINCT 12,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 12,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 12,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 12,United States Senator (Republican),None Of These Candidates,6
-PRECINCT 12,United States Senator (Republican),"Parson, Bill",2
-PRECINCT 12,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 12,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 12,United States Senator (Republican),"Tarkanian, Danny",20
+PRECINCT 12,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+PRECINCT 12,U.S. Senate (Democratic),"Miller, Alex",4
+PRECINCT 12,U.S. Senate (Democratic),None Of These Candidates,8
+PRECINCT 12,U.S. Senate (Democratic),"Poliak, Carlo",1
+PRECINCT 12,U.S. Senate (Democratic),"Reid, Harry",15
+PRECINCT 12,U.S. Senate (Republican),"Angle, Sharron",20
+PRECINCT 12,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 12,U.S. Senate (Republican),"Chachas, John",1
+PRECINCT 12,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 12,U.S. Senate (Republican),"Lowden, Sue",13
+PRECINCT 12,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 12,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 12,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 12,U.S. Senate (Republican),None Of These Candidates,6
+PRECINCT 12,U.S. Senate (Republican),"Parson, Bill",2
+PRECINCT 12,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 12,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 12,U.S. Senate (Republican),"Tarkanian, Danny",20
 PRECINCT 12,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",14
 PRECINCT 12,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",25
 PRECINCT 12,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",37
@@ -283,35 +283,35 @@ PRECINCT 2,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",34
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",21
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",74
-PRECINCT 2,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",10
-PRECINCT 2,United States Senator (Democratic),"Miller, Alex",7
-PRECINCT 2,United States Senator (Democratic),None Of These Candidates,26
-PRECINCT 2,United States Senator (Democratic),"Poliak, Carlo",3
-PRECINCT 2,United States Senator (Democratic),"Reid, Harry",42
-PRECINCT 2,United States Senator (Republican),"Angle, Sharron",29
-PRECINCT 2,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 2,United States Senator (Republican),"Chachas, John",2
-PRECINCT 2,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 2,United States Senator (Republican),"Lowden, Sue",26
-PRECINCT 2,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 2,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 2,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 2,United States Senator (Republican),None Of These Candidates,4
-PRECINCT 2,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 2,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 3,United States Senator (Republican),"Angle, Sharron",27
-PRECINCT 3,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 3,United States Senator (Republican),"Chachas, John",3
-PRECINCT 3,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 3,United States Senator (Republican),"Lowden, Sue",10
-PRECINCT 3,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 3,United States Senator (Republican),"Marinch, Gary",1
-PRECINCT 3,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 3,United States Senator (Republican),None Of These Candidates,1
-PRECINCT 3,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 3,United States Senator (Republican),"Stern, Cecilia",1
-PRECINCT 3,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 3,United States Senator (Republican),"Tarkanian, Danny",25
+PRECINCT 2,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",10
+PRECINCT 2,U.S. Senate (Democratic),"Miller, Alex",7
+PRECINCT 2,U.S. Senate (Democratic),None Of These Candidates,26
+PRECINCT 2,U.S. Senate (Democratic),"Poliak, Carlo",3
+PRECINCT 2,U.S. Senate (Democratic),"Reid, Harry",42
+PRECINCT 2,U.S. Senate (Republican),"Angle, Sharron",29
+PRECINCT 2,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 2,U.S. Senate (Republican),"Chachas, John",2
+PRECINCT 2,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 2,U.S. Senate (Republican),"Lowden, Sue",26
+PRECINCT 2,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 2,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 2,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 2,U.S. Senate (Republican),None Of These Candidates,4
+PRECINCT 2,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 2,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 3,U.S. Senate (Republican),"Angle, Sharron",27
+PRECINCT 3,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 3,U.S. Senate (Republican),"Chachas, John",3
+PRECINCT 3,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 3,U.S. Senate (Republican),"Lowden, Sue",10
+PRECINCT 3,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 3,U.S. Senate (Republican),"Marinch, Gary",1
+PRECINCT 3,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 3,U.S. Senate (Republican),None Of These Candidates,1
+PRECINCT 3,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 3,U.S. Senate (Republican),"Stern, Cecilia",1
+PRECINCT 3,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 3,U.S. Senate (Republican),"Tarkanian, Danny",25
 PRECINCT 3,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",20
 PRECINCT 3,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",36
 PRECINCT 3,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",56
@@ -355,24 +355,24 @@ PRECINCT 4,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",17
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",6
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",33
-PRECINCT 4,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-PRECINCT 4,United States Senator (Democratic),"Miller, Alex",12
-PRECINCT 4,United States Senator (Democratic),None Of These Candidates,16
-PRECINCT 4,United States Senator (Democratic),"Poliak, Carlo",0
-PRECINCT 4,United States Senator (Democratic),"Reid, Harry",22
-PRECINCT 4,United States Senator (Republican),"Angle, Sharron",13
-PRECINCT 4,United States Senator (Republican),"Bernstein, Gary",1
-PRECINCT 4,United States Senator (Republican),"Chachas, John",0
-PRECINCT 4,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 4,United States Senator (Republican),"Lowden, Sue",10
-PRECINCT 4,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 4,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 4,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 4,United States Senator (Republican),None Of These Candidates,1
-PRECINCT 4,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 4,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 4,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 4,United States Senator (Republican),"Tarkanian, Danny",14
+PRECINCT 4,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+PRECINCT 4,U.S. Senate (Democratic),"Miller, Alex",12
+PRECINCT 4,U.S. Senate (Democratic),None Of These Candidates,16
+PRECINCT 4,U.S. Senate (Democratic),"Poliak, Carlo",0
+PRECINCT 4,U.S. Senate (Democratic),"Reid, Harry",22
+PRECINCT 4,U.S. Senate (Republican),"Angle, Sharron",13
+PRECINCT 4,U.S. Senate (Republican),"Bernstein, Gary",1
+PRECINCT 4,U.S. Senate (Republican),"Chachas, John",0
+PRECINCT 4,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 4,U.S. Senate (Republican),"Lowden, Sue",10
+PRECINCT 4,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 4,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 4,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 4,U.S. Senate (Republican),None Of These Candidates,1
+PRECINCT 4,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 4,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 4,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 4,U.S. Senate (Republican),"Tarkanian, Danny",14
 PRECINCT 4,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",16
 PRECINCT 4,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",20
 PRECINCT 4,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",41
@@ -416,24 +416,24 @@ PRECINCT 5,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",24
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",12
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",36
-PRECINCT 5,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-PRECINCT 5,United States Senator (Democratic),"Miller, Alex",13
-PRECINCT 5,United States Senator (Democratic),None Of These Candidates,23
-PRECINCT 5,United States Senator (Democratic),"Poliak, Carlo",1
-PRECINCT 5,United States Senator (Democratic),"Reid, Harry",37
-PRECINCT 5,United States Senator (Republican),"Angle, Sharron",20
-PRECINCT 5,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 5,United States Senator (Republican),"Chachas, John",4
-PRECINCT 5,United States Senator (Republican),"Christensen, Chad",2
-PRECINCT 5,United States Senator (Republican),"Lowden, Sue",7
-PRECINCT 5,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 5,United States Senator (Republican),"Marinch, Gary",1
-PRECINCT 5,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 5,United States Senator (Republican),None Of These Candidates,2
-PRECINCT 5,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 5,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 5,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 5,United States Senator (Republican),"Tarkanian, Danny",14
+PRECINCT 5,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+PRECINCT 5,U.S. Senate (Democratic),"Miller, Alex",13
+PRECINCT 5,U.S. Senate (Democratic),None Of These Candidates,23
+PRECINCT 5,U.S. Senate (Democratic),"Poliak, Carlo",1
+PRECINCT 5,U.S. Senate (Democratic),"Reid, Harry",37
+PRECINCT 5,U.S. Senate (Republican),"Angle, Sharron",20
+PRECINCT 5,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 5,U.S. Senate (Republican),"Chachas, John",4
+PRECINCT 5,U.S. Senate (Republican),"Christensen, Chad",2
+PRECINCT 5,U.S. Senate (Republican),"Lowden, Sue",7
+PRECINCT 5,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 5,U.S. Senate (Republican),"Marinch, Gary",1
+PRECINCT 5,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 5,U.S. Senate (Republican),None Of These Candidates,2
+PRECINCT 5,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 5,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 5,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 5,U.S. Senate (Republican),"Tarkanian, Danny",14
 PRECINCT 5,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",22
 PRECINCT 5,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",35
 PRECINCT 5,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",60
@@ -477,24 +477,24 @@ PRECINCT 6,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",25
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",16
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",54
-PRECINCT 6,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
-PRECINCT 6,United States Senator (Democratic),"Miller, Alex",13
-PRECINCT 6,United States Senator (Democratic),None Of These Candidates,19
-PRECINCT 6,United States Senator (Democratic),"Poliak, Carlo",5
-PRECINCT 6,United States Senator (Democratic),"Reid, Harry",41
-PRECINCT 6,United States Senator (Republican),"Angle, Sharron",12
-PRECINCT 6,United States Senator (Republican),"Bernstein, Gary",1
-PRECINCT 6,United States Senator (Republican),"Chachas, John",1
-PRECINCT 6,United States Senator (Republican),"Christensen, Chad",2
-PRECINCT 6,United States Senator (Republican),"Lowden, Sue",22
-PRECINCT 6,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 6,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 6,United States Senator (Republican),"Nadell, Brian",1
-PRECINCT 6,United States Senator (Republican),None Of These Candidates,5
-PRECINCT 6,United States Senator (Republican),"Parson, Bill",2
-PRECINCT 6,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 6,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 6,United States Senator (Republican),"Tarkanian, Danny",27
+PRECINCT 6,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+PRECINCT 6,U.S. Senate (Democratic),"Miller, Alex",13
+PRECINCT 6,U.S. Senate (Democratic),None Of These Candidates,19
+PRECINCT 6,U.S. Senate (Democratic),"Poliak, Carlo",5
+PRECINCT 6,U.S. Senate (Democratic),"Reid, Harry",41
+PRECINCT 6,U.S. Senate (Republican),"Angle, Sharron",12
+PRECINCT 6,U.S. Senate (Republican),"Bernstein, Gary",1
+PRECINCT 6,U.S. Senate (Republican),"Chachas, John",1
+PRECINCT 6,U.S. Senate (Republican),"Christensen, Chad",2
+PRECINCT 6,U.S. Senate (Republican),"Lowden, Sue",22
+PRECINCT 6,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 6,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 6,U.S. Senate (Republican),"Nadell, Brian",1
+PRECINCT 6,U.S. Senate (Republican),None Of These Candidates,5
+PRECINCT 6,U.S. Senate (Republican),"Parson, Bill",2
+PRECINCT 6,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 6,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 6,U.S. Senate (Republican),"Tarkanian, Danny",27
 PRECINCT 6,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",30
 PRECINCT 6,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",50
 PRECINCT 6,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",67
@@ -538,24 +538,24 @@ PRECINCT 7,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",6
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",17
-PRECINCT 7,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-PRECINCT 7,United States Senator (Democratic),"Miller, Alex",2
-PRECINCT 7,United States Senator (Democratic),None Of These Candidates,2
-PRECINCT 7,United States Senator (Democratic),"Poliak, Carlo",1
-PRECINCT 7,United States Senator (Democratic),"Reid, Harry",5
-PRECINCT 7,United States Senator (Republican),"Angle, Sharron",7
-PRECINCT 7,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 7,United States Senator (Republican),"Chachas, John",2
-PRECINCT 7,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 7,United States Senator (Republican),"Lowden, Sue",4
-PRECINCT 7,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 7,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 7,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 7,United States Senator (Republican),None Of These Candidates,1
-PRECINCT 7,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 7,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 7,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 7,United States Senator (Republican),"Tarkanian, Danny",9
+PRECINCT 7,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+PRECINCT 7,U.S. Senate (Democratic),"Miller, Alex",2
+PRECINCT 7,U.S. Senate (Democratic),None Of These Candidates,2
+PRECINCT 7,U.S. Senate (Democratic),"Poliak, Carlo",1
+PRECINCT 7,U.S. Senate (Democratic),"Reid, Harry",5
+PRECINCT 7,U.S. Senate (Republican),"Angle, Sharron",7
+PRECINCT 7,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 7,U.S. Senate (Republican),"Chachas, John",2
+PRECINCT 7,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 7,U.S. Senate (Republican),"Lowden, Sue",4
+PRECINCT 7,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 7,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 7,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 7,U.S. Senate (Republican),None Of These Candidates,1
+PRECINCT 7,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 7,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 7,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 7,U.S. Senate (Republican),"Tarkanian, Danny",9
 PRECINCT 7,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",9
 PRECINCT 7,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",10
 PRECINCT 7,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",12
@@ -599,24 +599,24 @@ PRECINCT 8,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
-PRECINCT 8,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",
-PRECINCT 8,United States Senator (Democratic),"Miller, Alex",
-PRECINCT 8,United States Senator (Democratic),None Of These Candidates,
-PRECINCT 8,United States Senator (Democratic),"Poliak, Carlo",
-PRECINCT 8,United States Senator (Democratic),"Reid, Harry",
-PRECINCT 8,United States Senator (Republican),"Angle, Sharron",
-PRECINCT 8,United States Senator (Republican),"Bernstein, Gary",
-PRECINCT 8,United States Senator (Republican),"Chachas, John",
-PRECINCT 8,United States Senator (Republican),"Christensen, Chad",
-PRECINCT 8,United States Senator (Republican),"Lowden, Sue",
-PRECINCT 8,United States Senator (Republican),"Mabey, Garn",
-PRECINCT 8,United States Senator (Republican),"Marinch, Gary",
-PRECINCT 8,United States Senator (Republican),"Nadell, Brian",
-PRECINCT 8,United States Senator (Republican),None Of These Candidates,
-PRECINCT 8,United States Senator (Republican),"Parson, Bill",
-PRECINCT 8,United States Senator (Republican),"Stern, Cecilia",
-PRECINCT 8,United States Senator (Republican),"Suominen, Terry",
-PRECINCT 8,United States Senator (Republican),"Tarkanian, Danny",
+PRECINCT 8,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",
+PRECINCT 8,U.S. Senate (Democratic),"Miller, Alex",
+PRECINCT 8,U.S. Senate (Democratic),None Of These Candidates,
+PRECINCT 8,U.S. Senate (Democratic),"Poliak, Carlo",
+PRECINCT 8,U.S. Senate (Democratic),"Reid, Harry",
+PRECINCT 8,U.S. Senate (Republican),"Angle, Sharron",
+PRECINCT 8,U.S. Senate (Republican),"Bernstein, Gary",
+PRECINCT 8,U.S. Senate (Republican),"Chachas, John",
+PRECINCT 8,U.S. Senate (Republican),"Christensen, Chad",
+PRECINCT 8,U.S. Senate (Republican),"Lowden, Sue",
+PRECINCT 8,U.S. Senate (Republican),"Mabey, Garn",
+PRECINCT 8,U.S. Senate (Republican),"Marinch, Gary",
+PRECINCT 8,U.S. Senate (Republican),"Nadell, Brian",
+PRECINCT 8,U.S. Senate (Republican),None Of These Candidates,
+PRECINCT 8,U.S. Senate (Republican),"Parson, Bill",
+PRECINCT 8,U.S. Senate (Republican),"Stern, Cecilia",
+PRECINCT 8,U.S. Senate (Republican),"Suominen, Terry",
+PRECINCT 8,U.S. Senate (Republican),"Tarkanian, Danny",
 PRECINCT 8,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",4
 PRECINCT 8,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",1
 PRECINCT 8,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",11
@@ -660,24 +660,24 @@ PRECINCT 9,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, 
 PRECINCT 9,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",6
 PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",5
 PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",31
-PRECINCT 9,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-PRECINCT 9,United States Senator (Democratic),"Miller, Alex",1
-PRECINCT 9,United States Senator (Democratic),None Of These Candidates,3
-PRECINCT 9,United States Senator (Democratic),"Poliak, Carlo",1
-PRECINCT 9,United States Senator (Democratic),"Reid, Harry",13
-PRECINCT 9,United States Senator (Republican),"Angle, Sharron",11
-PRECINCT 9,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 9,United States Senator (Republican),"Chachas, John",2
-PRECINCT 9,United States Senator (Republican),"Christensen, Chad",1
-PRECINCT 9,United States Senator (Republican),"Lowden, Sue",17
-PRECINCT 9,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 9,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 9,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 9,United States Senator (Republican),None Of These Candidates,0
-PRECINCT 9,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 9,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 9,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 9,United States Senator (Republican),"Tarkanian, Danny",5
+PRECINCT 9,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+PRECINCT 9,U.S. Senate (Democratic),"Miller, Alex",1
+PRECINCT 9,U.S. Senate (Democratic),None Of These Candidates,3
+PRECINCT 9,U.S. Senate (Democratic),"Poliak, Carlo",1
+PRECINCT 9,U.S. Senate (Democratic),"Reid, Harry",13
+PRECINCT 9,U.S. Senate (Republican),"Angle, Sharron",11
+PRECINCT 9,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 9,U.S. Senate (Republican),"Chachas, John",2
+PRECINCT 9,U.S. Senate (Republican),"Christensen, Chad",1
+PRECINCT 9,U.S. Senate (Republican),"Lowden, Sue",17
+PRECINCT 9,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 9,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 9,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 9,U.S. Senate (Republican),None Of These Candidates,0
+PRECINCT 9,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 9,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 9,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 9,U.S. Senate (Republican),"Tarkanian, Danny",5
 PRECINCT 9,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",7
 PRECINCT 9,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",23
 PRECINCT 9,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",22
@@ -686,21 +686,21 @@ PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna,
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
-PRECINCT 99,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-PRECINCT 99,United States Senator (Democratic),"Miller, Alex",0
-PRECINCT 99,United States Senator (Democratic),None Of These Candidates,0
-PRECINCT 99,United States Senator (Democratic),"Poliak, Carlo",0
-PRECINCT 99,United States Senator (Democratic),"Reid, Harry",0
-PRECINCT 99,United States Senator (Republican),"Angle, Sharron",0
-PRECINCT 99,United States Senator (Republican),"Bernstein, Gary",0
-PRECINCT 99,United States Senator (Republican),"Chachas, John",0
-PRECINCT 99,United States Senator (Republican),"Christensen, Chad",0
-PRECINCT 99,United States Senator (Republican),"Lowden, Sue",0
-PRECINCT 99,United States Senator (Republican),"Mabey, Garn",0
-PRECINCT 99,United States Senator (Republican),"Marinch, Gary",0
-PRECINCT 99,United States Senator (Republican),"Nadell, Brian",0
-PRECINCT 99,United States Senator (Republican),None Of These Candidates,0
-PRECINCT 99,United States Senator (Republican),"Parson, Bill",0
-PRECINCT 99,United States Senator (Republican),"Stern, Cecilia",0
-PRECINCT 99,United States Senator (Republican),"Suominen, Terry",0
-PRECINCT 99,United States Senator (Republican),"Tarkanian, Danny",0
+PRECINCT 99,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+PRECINCT 99,U.S. Senate (Democratic),"Miller, Alex",0
+PRECINCT 99,U.S. Senate (Democratic),None Of These Candidates,0
+PRECINCT 99,U.S. Senate (Democratic),"Poliak, Carlo",0
+PRECINCT 99,U.S. Senate (Democratic),"Reid, Harry",0
+PRECINCT 99,U.S. Senate (Republican),"Angle, Sharron",0
+PRECINCT 99,U.S. Senate (Republican),"Bernstein, Gary",0
+PRECINCT 99,U.S. Senate (Republican),"Chachas, John",0
+PRECINCT 99,U.S. Senate (Republican),"Christensen, Chad",0
+PRECINCT 99,U.S. Senate (Republican),"Lowden, Sue",0
+PRECINCT 99,U.S. Senate (Republican),"Mabey, Garn",0
+PRECINCT 99,U.S. Senate (Republican),"Marinch, Gary",0
+PRECINCT 99,U.S. Senate (Republican),"Nadell, Brian",0
+PRECINCT 99,U.S. Senate (Republican),None Of These Candidates,0
+PRECINCT 99,U.S. Senate (Republican),"Parson, Bill",0
+PRECINCT 99,U.S. Senate (Republican),"Stern, Cecilia",0
+PRECINCT 99,U.S. Senate (Republican),"Suominen, Terry",0
+PRECINCT 99,U.S. Senate (Republican),"Tarkanian, Danny",0

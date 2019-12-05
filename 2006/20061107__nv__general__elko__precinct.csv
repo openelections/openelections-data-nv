@@ -54,11 +54,11 @@ Precinct 1,"U.S. Representative in Congress, District 2","DERBY, JILL",96
 Precinct 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",156
 Precinct 1,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",14
 Precinct 1,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-Precinct 1,United States Senator,"CARTER, JACK",75
-Precinct 1,United States Senator,"ENSIGN, JOHN",173
-Precinct 1,United States Senator,None Of These Candidates,7
-Precinct 1,United States Senator,"SCHUMANN, DAVID K.",16
-Precinct 1,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 1,U.S. Senate,"CARTER, JACK",75
+Precinct 1,U.S. Senate,"ENSIGN, JOHN",173
+Precinct 1,U.S. Senate,None Of These Candidates,7
+Precinct 1,U.S. Senate,"SCHUMANN, DAVID K.",16
+Precinct 1,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 10,Attorney General,"CHAIREZ, DON",260
 Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",173
 Precinct 10,Attorney General,None Of These Candidates,34
@@ -114,11 +114,11 @@ Precinct 10,"U.S. Representative in Congress, District 2","DERBY, JILL",133
 Precinct 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",306
 Precinct 10,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",20
 Precinct 10,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",12
-Precinct 10,United States Senator,"CARTER, JACK",111
-Precinct 10,United States Senator,"ENSIGN, JOHN",338
-Precinct 10,United States Senator,None Of These Candidates,7
-Precinct 10,United States Senator,"SCHUMANN, DAVID K.",17
-Precinct 10,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 10,U.S. Senate,"CARTER, JACK",111
+Precinct 10,U.S. Senate,"ENSIGN, JOHN",338
+Precinct 10,U.S. Senate,None Of These Candidates,7
+Precinct 10,U.S. Senate,"SCHUMANN, DAVID K.",17
+Precinct 10,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 11,Attorney General,"CHAIREZ, DON",137
 Precinct 11,Attorney General,"CORTEZ  MASTO, CATHERINE",116
 Precinct 11,Attorney General,None Of These Candidates,17
@@ -184,11 +184,11 @@ Precinct 12,"U.S. Representative in Congress, District 2","DERBY, JILL",169
 Precinct 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",395
 Precinct 12,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",17
 Precinct 12,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-Precinct 12,United States Senator,"CARTER, JACK",135
-Precinct 12,United States Senator,"ENSIGN, JOHN",426
-Precinct 12,United States Senator,None Of These Candidates,12
-Precinct 12,United States Senator,"SCHUMANN, DAVID K.",17
-Precinct 12,United States Senator,"TRAINOR, BRENDAN",5
+Precinct 12,U.S. Senate,"CARTER, JACK",135
+Precinct 12,U.S. Senate,"ENSIGN, JOHN",426
+Precinct 12,U.S. Senate,None Of These Candidates,12
+Precinct 12,U.S. Senate,"SCHUMANN, DAVID K.",17
+Precinct 12,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 13,Attorney General,"CHAIREZ, DON",96
 Precinct 13,Attorney General,"CORTEZ  MASTO, CATHERINE",46
 Precinct 13,Attorney General,None Of These Candidates,11
@@ -244,11 +244,11 @@ Precinct 13,"U.S. Representative in Congress, District 2","DERBY, JILL",32
 Precinct 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",113
 Precinct 13,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 Precinct 13,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-Precinct 13,United States Senator,"CARTER, JACK",23
-Precinct 13,United States Senator,"ENSIGN, JOHN",125
-Precinct 13,United States Senator,None Of These Candidates,1
-Precinct 13,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 13,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 13,U.S. Senate,"CARTER, JACK",23
+Precinct 13,U.S. Senate,"ENSIGN, JOHN",125
+Precinct 13,U.S. Senate,None Of These Candidates,1
+Precinct 13,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 13,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 14,Attorney General,"CHAIREZ, DON",330
 Precinct 14,Attorney General,"CORTEZ  MASTO, CATHERINE",170
 Precinct 14,Attorney General,None Of These Candidates,31
@@ -304,11 +304,11 @@ Precinct 14,"U.S. Representative in Congress, District 2","DERBY, JILL",139
 Precinct 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",381
 Precinct 14,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 Precinct 14,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-Precinct 14,United States Senator,"CARTER, JACK",108
-Precinct 14,United States Senator,"ENSIGN, JOHN",409
-Precinct 14,United States Senator,None Of These Candidates,7
-Precinct 14,United States Senator,"SCHUMANN, DAVID K.",11
-Precinct 14,United States Senator,"TRAINOR, BRENDAN",1
+Precinct 14,U.S. Senate,"CARTER, JACK",108
+Precinct 14,U.S. Senate,"ENSIGN, JOHN",409
+Precinct 14,U.S. Senate,None Of These Candidates,7
+Precinct 14,U.S. Senate,"SCHUMANN, DAVID K.",11
+Precinct 14,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 15,Attorney General,"CHAIREZ, DON",124
 Precinct 15,Attorney General,"CORTEZ  MASTO, CATHERINE",134
 Precinct 15,Attorney General,None Of These Candidates,19
@@ -364,11 +364,11 @@ Precinct 15,"U.S. Representative in Congress, District 2","DERBY, JILL",110
 Precinct 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",137
 Precinct 15,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",16
 Precinct 15,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",14
-Precinct 15,United States Senator,"CARTER, JACK",84
-Precinct 15,United States Senator,"ENSIGN, JOHN",168
-Precinct 15,United States Senator,None Of These Candidates,3
-Precinct 15,United States Senator,"SCHUMANN, DAVID K.",15
-Precinct 15,United States Senator,"TRAINOR, BRENDAN",6
+Precinct 15,U.S. Senate,"CARTER, JACK",84
+Precinct 15,U.S. Senate,"ENSIGN, JOHN",168
+Precinct 15,U.S. Senate,None Of These Candidates,3
+Precinct 15,U.S. Senate,"SCHUMANN, DAVID K.",15
+Precinct 15,U.S. Senate,"TRAINOR, BRENDAN",6
 Precinct 16,Attorney General,"CHAIREZ, DON",113
 Precinct 16,Attorney General,"CORTEZ  MASTO, CATHERINE",88
 Precinct 16,Attorney General,None Of These Candidates,12
@@ -424,11 +424,11 @@ Precinct 16,"U.S. Representative in Congress, District 2","DERBY, JILL",69
 Precinct 16,"U.S. Representative in Congress, District 2","HELLER, DEAN",118
 Precinct 16,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",15
 Precinct 16,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",10
-Precinct 16,United States Senator,"CARTER, JACK",43
-Precinct 16,United States Senator,"ENSIGN, JOHN",149
-Precinct 16,United States Senator,None Of These Candidates,3
-Precinct 16,United States Senator,"SCHUMANN, DAVID K.",13
-Precinct 16,United States Senator,"TRAINOR, BRENDAN",6
+Precinct 16,U.S. Senate,"CARTER, JACK",43
+Precinct 16,U.S. Senate,"ENSIGN, JOHN",149
+Precinct 16,U.S. Senate,None Of These Candidates,3
+Precinct 16,U.S. Senate,"SCHUMANN, DAVID K.",13
+Precinct 16,U.S. Senate,"TRAINOR, BRENDAN",6
 Precinct 17,Attorney General,"CHAIREZ, DON",7
 Precinct 17,Attorney General,"CORTEZ  MASTO, CATHERINE",2
 Precinct 17,Attorney General,None Of These Candidates,3
@@ -484,11 +484,11 @@ Precinct 17,"U.S. Representative in Congress, District 2","DERBY, JILL",3
 Precinct 17,"U.S. Representative in Congress, District 2","HELLER, DEAN",9
 Precinct 17,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 Precinct 17,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Precinct 17,United States Senator,"CARTER, JACK",3
-Precinct 17,United States Senator,"ENSIGN, JOHN",9
-Precinct 17,United States Senator,None Of These Candidates,0
-Precinct 17,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 17,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 17,U.S. Senate,"CARTER, JACK",3
+Precinct 17,U.S. Senate,"ENSIGN, JOHN",9
+Precinct 17,U.S. Senate,None Of These Candidates,0
+Precinct 17,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 17,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 18,Attorney General,"CHAIREZ, DON",74
 Precinct 18,Attorney General,"CORTEZ  MASTO, CATHERINE",72
 Precinct 18,Attorney General,None Of These Candidates,24
@@ -542,11 +542,11 @@ Precinct 18,"U.S. Representative in Congress, District 2","DERBY, JILL",69
 Precinct 18,"U.S. Representative in Congress, District 2","HELLER, DEAN",90
 Precinct 18,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
 Precinct 18,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
-Precinct 18,United States Senator,"CARTER, JACK",67
-Precinct 18,United States Senator,"ENSIGN, JOHN",99
-Precinct 18,United States Senator,None Of These Candidates,3
-Precinct 18,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 18,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 18,U.S. Senate,"CARTER, JACK",67
+Precinct 18,U.S. Senate,"ENSIGN, JOHN",99
+Precinct 18,U.S. Senate,None Of These Candidates,3
+Precinct 18,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 18,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 19,Attorney General,"CHAIREZ, DON",97
 Precinct 19,Attorney General,"CORTEZ  MASTO, CATHERINE",80
 Precinct 19,Attorney General,None Of These Candidates,21
@@ -600,11 +600,11 @@ Precinct 19,"U.S. Representative in Congress, District 2","DERBY, JILL",78
 Precinct 19,"U.S. Representative in Congress, District 2","HELLER, DEAN",104
 Precinct 19,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 Precinct 19,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-Precinct 19,United States Senator,"CARTER, JACK",69
-Precinct 19,United States Senator,"ENSIGN, JOHN",127
-Precinct 19,United States Senator,None Of These Candidates,2
-Precinct 19,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 19,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 19,U.S. Senate,"CARTER, JACK",69
+Precinct 19,U.S. Senate,"ENSIGN, JOHN",127
+Precinct 19,U.S. Senate,None Of These Candidates,2
+Precinct 19,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 19,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 2,Attorney General,"CHAIREZ, DON",118
 Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",112
 Precinct 2,Attorney General,None Of These Candidates,28
@@ -660,11 +660,11 @@ Precinct 2,"U.S. Representative in Congress, District 2","DERBY, JILL",108
 Precinct 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",129
 Precinct 2,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
 Precinct 2,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-Precinct 2,United States Senator,"CARTER, JACK",96
-Precinct 2,United States Senator,"ENSIGN, JOHN",144
-Precinct 2,United States Senator,None Of These Candidates,11
-Precinct 2,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 2,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 2,U.S. Senate,"CARTER, JACK",96
+Precinct 2,U.S. Senate,"ENSIGN, JOHN",144
+Precinct 2,U.S. Senate,None Of These Candidates,11
+Precinct 2,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 2,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 20,Attorney General,"CHAIREZ, DON",135
 Precinct 20,Attorney General,"CORTEZ  MASTO, CATHERINE",155
 Precinct 20,Attorney General,None Of These Candidates,34
@@ -726,11 +726,11 @@ Precinct 20,"U.S. Representative in Congress, District 2","DERBY, JILL",141
 Precinct 20,"U.S. Representative in Congress, District 2","HELLER, DEAN",141
 Precinct 20,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",16
 Precinct 20,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",21
-Precinct 20,United States Senator,"CARTER, JACK",148
-Precinct 20,United States Senator,"ENSIGN, JOHN",141
-Precinct 20,United States Senator,None Of These Candidates,16
-Precinct 20,United States Senator,"SCHUMANN, DAVID K.",17
-Precinct 20,United States Senator,"TRAINOR, BRENDAN",5
+Precinct 20,U.S. Senate,"CARTER, JACK",148
+Precinct 20,U.S. Senate,"ENSIGN, JOHN",141
+Precinct 20,U.S. Senate,None Of These Candidates,16
+Precinct 20,U.S. Senate,"SCHUMANN, DAVID K.",17
+Precinct 20,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 21,Attorney General,"CHAIREZ, DON",49
 Precinct 21,Attorney General,"CORTEZ  MASTO, CATHERINE",48
 Precinct 21,Attorney General,None Of These Candidates,13
@@ -792,11 +792,11 @@ Precinct 21,"U.S. Representative in Congress, District 2","DERBY, JILL",39
 Precinct 21,"U.S. Representative in Congress, District 2","HELLER, DEAN",48
 Precinct 21,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",13
 Precinct 21,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-Precinct 21,United States Senator,"CARTER, JACK",48
-Precinct 21,United States Senator,"ENSIGN, JOHN",44
-Precinct 21,United States Senator,None Of These Candidates,7
-Precinct 21,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 21,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 21,U.S. Senate,"CARTER, JACK",48
+Precinct 21,U.S. Senate,"ENSIGN, JOHN",44
+Precinct 21,U.S. Senate,None Of These Candidates,7
+Precinct 21,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 21,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 22,Attorney General,"CHAIREZ, DON",423
 Precinct 22,Attorney General,"CORTEZ  MASTO, CATHERINE",220
 Precinct 22,Attorney General,None Of These Candidates,40
@@ -852,11 +852,11 @@ Precinct 22,"U.S. Representative in Congress, District 2","DERBY, JILL",206
 Precinct 22,"U.S. Representative in Congress, District 2","HELLER, DEAN",446
 Precinct 22,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",18
 Precinct 22,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",14
-Precinct 22,United States Senator,"CARTER, JACK",161
-Precinct 22,United States Senator,"ENSIGN, JOHN",498
-Precinct 22,United States Senator,None Of These Candidates,6
-Precinct 22,United States Senator,"SCHUMANN, DAVID K.",21
-Precinct 22,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 22,U.S. Senate,"CARTER, JACK",161
+Precinct 22,U.S. Senate,"ENSIGN, JOHN",498
+Precinct 22,U.S. Senate,None Of These Candidates,6
+Precinct 22,U.S. Senate,"SCHUMANN, DAVID K.",21
+Precinct 22,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 23,Attorney General,"CHAIREZ, DON",402
 Precinct 23,Attorney General,"CORTEZ  MASTO, CATHERINE",210
 Precinct 23,Attorney General,None Of These Candidates,56
@@ -912,11 +912,11 @@ Precinct 23,"U.S. Representative in Congress, District 2","DERBY, JILL",181
 Precinct 23,"U.S. Representative in Congress, District 2","HELLER, DEAN",459
 Precinct 23,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",15
 Precinct 23,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",15
-Precinct 23,United States Senator,"CARTER, JACK",149
-Precinct 23,United States Senator,"ENSIGN, JOHN",502
-Precinct 23,United States Senator,None Of These Candidates,10
-Precinct 23,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 23,United States Senator,"TRAINOR, BRENDAN",5
+Precinct 23,U.S. Senate,"CARTER, JACK",149
+Precinct 23,U.S. Senate,"ENSIGN, JOHN",502
+Precinct 23,U.S. Senate,None Of These Candidates,10
+Precinct 23,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 23,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 24,Attorney General,"CHAIREZ, DON",268
 Precinct 24,Attorney General,"CORTEZ  MASTO, CATHERINE",183
 Precinct 24,Attorney General,None Of These Candidates,30
@@ -972,11 +972,11 @@ Precinct 24,"U.S. Representative in Congress, District 2","DERBY, JILL",149
 Precinct 24,"U.S. Representative in Congress, District 2","HELLER, DEAN",297
 Precinct 24,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",21
 Precinct 24,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",14
-Precinct 24,United States Senator,"CARTER, JACK",123
-Precinct 24,United States Senator,"ENSIGN, JOHN",347
-Precinct 24,United States Senator,None Of These Candidates,4
-Precinct 24,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 24,United States Senator,"TRAINOR, BRENDAN",1
+Precinct 24,U.S. Senate,"CARTER, JACK",123
+Precinct 24,U.S. Senate,"ENSIGN, JOHN",347
+Precinct 24,U.S. Senate,None Of These Candidates,4
+Precinct 24,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 24,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 25,Attorney General,"CHAIREZ, DON",276
 Precinct 25,Attorney General,"CORTEZ  MASTO, CATHERINE",162
 Precinct 25,Attorney General,None Of These Candidates,40
@@ -1032,11 +1032,11 @@ Precinct 25,"U.S. Representative in Congress, District 2","DERBY, JILL",141
 Precinct 25,"U.S. Representative in Congress, District 2","HELLER, DEAN",304
 Precinct 25,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",20
 Precinct 25,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-Precinct 25,United States Senator,"CARTER, JACK",114
-Precinct 25,United States Senator,"ENSIGN, JOHN",342
-Precinct 25,United States Senator,None Of These Candidates,5
-Precinct 25,United States Senator,"SCHUMANN, DAVID K.",14
-Precinct 25,United States Senator,"TRAINOR, BRENDAN",5
+Precinct 25,U.S. Senate,"CARTER, JACK",114
+Precinct 25,U.S. Senate,"ENSIGN, JOHN",342
+Precinct 25,U.S. Senate,None Of These Candidates,5
+Precinct 25,U.S. Senate,"SCHUMANN, DAVID K.",14
+Precinct 25,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 26,Attorney General,"CHAIREZ, DON",246
 Precinct 26,Attorney General,"CORTEZ  MASTO, CATHERINE",105
 Precinct 26,Attorney General,None Of These Candidates,27
@@ -1092,11 +1092,11 @@ Precinct 26,"U.S. Representative in Congress, District 2","DERBY, JILL",93
 Precinct 26,"U.S. Representative in Congress, District 2","HELLER, DEAN",268
 Precinct 26,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",12
 Precinct 26,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-Precinct 26,United States Senator,"CARTER, JACK",71
-Precinct 26,United States Senator,"ENSIGN, JOHN",303
-Precinct 26,United States Senator,None Of These Candidates,2
-Precinct 26,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 26,United States Senator,"TRAINOR, BRENDAN",1
+Precinct 26,U.S. Senate,"CARTER, JACK",71
+Precinct 26,U.S. Senate,"ENSIGN, JOHN",303
+Precinct 26,U.S. Senate,None Of These Candidates,2
+Precinct 26,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 26,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 27,Attorney General,"CHAIREZ, DON",120
 Precinct 27,Attorney General,"CORTEZ  MASTO, CATHERINE",66
 Precinct 27,Attorney General,None Of These Candidates,24
@@ -1152,11 +1152,11 @@ Precinct 27,"U.S. Representative in Congress, District 2","DERBY, JILL",45
 Precinct 27,"U.S. Representative in Congress, District 2","HELLER, DEAN",153
 Precinct 27,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
 Precinct 27,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-Precinct 27,United States Senator,"CARTER, JACK",41
-Precinct 27,United States Senator,"ENSIGN, JOHN",165
-Precinct 27,United States Senator,None Of These Candidates,3
-Precinct 27,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 27,United States Senator,"TRAINOR, BRENDAN",1
+Precinct 27,U.S. Senate,"CARTER, JACK",41
+Precinct 27,U.S. Senate,"ENSIGN, JOHN",165
+Precinct 27,U.S. Senate,None Of These Candidates,3
+Precinct 27,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 27,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 28,Attorney General,"CHAIREZ, DON",38
 Precinct 28,Attorney General,"CORTEZ  MASTO, CATHERINE",24
 Precinct 28,Attorney General,None Of These Candidates,7
@@ -1212,11 +1212,11 @@ Precinct 28,"U.S. Representative in Congress, District 2","DERBY, JILL",15
 Precinct 28,"U.S. Representative in Congress, District 2","HELLER, DEAN",49
 Precinct 28,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 Precinct 28,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
-Precinct 28,United States Senator,"CARTER, JACK",10
-Precinct 28,United States Senator,"ENSIGN, JOHN",52
-Precinct 28,United States Senator,None Of These Candidates,2
-Precinct 28,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 28,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 28,U.S. Senate,"CARTER, JACK",10
+Precinct 28,U.S. Senate,"ENSIGN, JOHN",52
+Precinct 28,U.S. Senate,None Of These Candidates,2
+Precinct 28,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 28,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 29,Attorney General,"CHAIREZ, DON",12
 Precinct 29,Attorney General,"CORTEZ  MASTO, CATHERINE",52
 Precinct 29,Attorney General,None Of These Candidates,2
@@ -1272,11 +1272,11 @@ Precinct 29,"U.S. Representative in Congress, District 2","DERBY, JILL",45
 Precinct 29,"U.S. Representative in Congress, District 2","HELLER, DEAN",16
 Precinct 29,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",2
 Precinct 29,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-Precinct 29,United States Senator,"CARTER, JACK",45
-Precinct 29,United States Senator,"ENSIGN, JOHN",20
-Precinct 29,United States Senator,None Of These Candidates,0
-Precinct 29,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 29,United States Senator,"TRAINOR, BRENDAN",1
+Precinct 29,U.S. Senate,"CARTER, JACK",45
+Precinct 29,U.S. Senate,"ENSIGN, JOHN",20
+Precinct 29,U.S. Senate,None Of These Candidates,0
+Precinct 29,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 29,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 3,Attorney General,"CHAIREZ, DON",228
 Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",179
 Precinct 3,Attorney General,None Of These Candidates,35
@@ -1332,11 +1332,11 @@ Precinct 3,"U.S. Representative in Congress, District 2","DERBY, JILL",163
 Precinct 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",267
 Precinct 3,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 Precinct 3,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-Precinct 3,United States Senator,"CARTER, JACK",125
-Precinct 3,United States Senator,"ENSIGN, JOHN",305
-Precinct 3,United States Senator,None Of These Candidates,9
-Precinct 3,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 3,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 3,U.S. Senate,"CARTER, JACK",125
+Precinct 3,U.S. Senate,"ENSIGN, JOHN",305
+Precinct 3,U.S. Senate,None Of These Candidates,9
+Precinct 3,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 3,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 30,Attorney General,"CHAIREZ, DON",24
 Precinct 30,Attorney General,"CORTEZ  MASTO, CATHERINE",17
 Precinct 30,Attorney General,None Of These Candidates,11
@@ -1392,11 +1392,11 @@ Precinct 30,"U.S. Representative in Congress, District 2","DERBY, JILL",14
 Precinct 30,"U.S. Representative in Congress, District 2","HELLER, DEAN",36
 Precinct 30,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",2
 Precinct 30,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-Precinct 30,United States Senator,"CARTER, JACK",11
-Precinct 30,United States Senator,"ENSIGN, JOHN",40
-Precinct 30,United States Senator,None Of These Candidates,3
-Precinct 30,United States Senator,"SCHUMANN, DAVID K.",4
-Precinct 30,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 30,U.S. Senate,"CARTER, JACK",11
+Precinct 30,U.S. Senate,"ENSIGN, JOHN",40
+Precinct 30,U.S. Senate,None Of These Candidates,3
+Precinct 30,U.S. Senate,"SCHUMANN, DAVID K.",4
+Precinct 30,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 31,Attorney General,"CHAIREZ, DON",34
 Precinct 31,Attorney General,"CORTEZ  MASTO, CATHERINE",14
 Precinct 31,Attorney General,None Of These Candidates,7
@@ -1452,11 +1452,11 @@ Precinct 31,"U.S. Representative in Congress, District 2","DERBY, JILL",18
 Precinct 31,"U.S. Representative in Congress, District 2","HELLER, DEAN",36
 Precinct 31,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 Precinct 31,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Precinct 31,United States Senator,"CARTER, JACK",10
-Precinct 31,United States Senator,"ENSIGN, JOHN",44
-Precinct 31,United States Senator,None Of These Candidates,1
-Precinct 31,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 31,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 31,U.S. Senate,"CARTER, JACK",10
+Precinct 31,U.S. Senate,"ENSIGN, JOHN",44
+Precinct 31,U.S. Senate,None Of These Candidates,1
+Precinct 31,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 31,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 32,Attorney General,"CHAIREZ, DON",234
 Precinct 32,Attorney General,"CORTEZ  MASTO, CATHERINE",96
 Precinct 32,Attorney General,None Of These Candidates,31
@@ -1512,11 +1512,11 @@ Precinct 32,"U.S. Representative in Congress, District 2","DERBY, JILL",95
 Precinct 32,"U.S. Representative in Congress, District 2","HELLER, DEAN",227
 Precinct 32,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",26
 Precinct 32,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-Precinct 32,United States Senator,"CARTER, JACK",69
-Precinct 32,United States Senator,"ENSIGN, JOHN",261
-Precinct 32,United States Senator,None Of These Candidates,3
-Precinct 32,United States Senator,"SCHUMANN, DAVID K.",22
-Precinct 32,United States Senator,"TRAINOR, BRENDAN",7
+Precinct 32,U.S. Senate,"CARTER, JACK",69
+Precinct 32,U.S. Senate,"ENSIGN, JOHN",261
+Precinct 32,U.S. Senate,None Of These Candidates,3
+Precinct 32,U.S. Senate,"SCHUMANN, DAVID K.",22
+Precinct 32,U.S. Senate,"TRAINOR, BRENDAN",7
 Precinct 33,Attorney General,"CHAIREZ, DON",43
 Precinct 33,Attorney General,"CORTEZ  MASTO, CATHERINE",18
 Precinct 33,Attorney General,None Of These Candidates,7
@@ -1570,11 +1570,11 @@ Precinct 33,"U.S. Representative in Congress, District 2","DERBY, JILL",23
 Precinct 33,"U.S. Representative in Congress, District 2","HELLER, DEAN",42
 Precinct 33,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
 Precinct 33,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-Precinct 33,United States Senator,"CARTER, JACK",16
-Precinct 33,United States Senator,"ENSIGN, JOHN",49
-Precinct 33,United States Senator,None Of These Candidates,1
-Precinct 33,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 33,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 33,U.S. Senate,"CARTER, JACK",16
+Precinct 33,U.S. Senate,"ENSIGN, JOHN",49
+Precinct 33,U.S. Senate,None Of These Candidates,1
+Precinct 33,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 33,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 34,Attorney General,"CHAIREZ, DON",66
 Precinct 34,Attorney General,"CORTEZ  MASTO, CATHERINE",27
 Precinct 34,Attorney General,None Of These Candidates,14
@@ -1628,11 +1628,11 @@ Precinct 34,"U.S. Representative in Congress, District 2","DERBY, JILL",27
 Precinct 34,"U.S. Representative in Congress, District 2","HELLER, DEAN",81
 Precinct 34,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
 Precinct 34,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-Precinct 34,United States Senator,"CARTER, JACK",13
-Precinct 34,United States Senator,"ENSIGN, JOHN",93
-Precinct 34,United States Senator,None Of These Candidates,3
-Precinct 34,United States Senator,"SCHUMANN, DAVID K.",4
-Precinct 34,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 34,U.S. Senate,"CARTER, JACK",13
+Precinct 34,U.S. Senate,"ENSIGN, JOHN",93
+Precinct 34,U.S. Senate,None Of These Candidates,3
+Precinct 34,U.S. Senate,"SCHUMANN, DAVID K.",4
+Precinct 34,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 35,Attorney General,"CHAIREZ, DON",64
 Precinct 35,Attorney General,"CORTEZ  MASTO, CATHERINE",12
 Precinct 35,Attorney General,None Of These Candidates,14
@@ -1686,11 +1686,11 @@ Precinct 35,"U.S. Representative in Congress, District 2","DERBY, JILL",13
 Precinct 35,"U.S. Representative in Congress, District 2","HELLER, DEAN",74
 Precinct 35,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
 Precinct 35,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-Precinct 35,United States Senator,"CARTER, JACK",12
-Precinct 35,United States Senator,"ENSIGN, JOHN",74
-Precinct 35,United States Senator,None Of These Candidates,4
-Precinct 35,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 35,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 35,U.S. Senate,"CARTER, JACK",12
+Precinct 35,U.S. Senate,"ENSIGN, JOHN",74
+Precinct 35,U.S. Senate,None Of These Candidates,4
+Precinct 35,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 35,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 36,Attorney General,"CHAIREZ, DON",60
 Precinct 36,Attorney General,"CORTEZ  MASTO, CATHERINE",26
 Precinct 36,Attorney General,None Of These Candidates,7
@@ -1744,11 +1744,11 @@ Precinct 36,"U.S. Representative in Congress, District 2","DERBY, JILL",22
 Precinct 36,"U.S. Representative in Congress, District 2","HELLER, DEAN",68
 Precinct 36,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",2
 Precinct 36,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Precinct 36,United States Senator,"CARTER, JACK",20
-Precinct 36,United States Senator,"ENSIGN, JOHN",66
-Precinct 36,United States Senator,None Of These Candidates,2
-Precinct 36,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 36,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 36,U.S. Senate,"CARTER, JACK",20
+Precinct 36,U.S. Senate,"ENSIGN, JOHN",66
+Precinct 36,U.S. Senate,None Of These Candidates,2
+Precinct 36,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 36,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 37,Attorney General,"CHAIREZ, DON",37
 Precinct 37,Attorney General,"CORTEZ  MASTO, CATHERINE",14
 Precinct 37,Attorney General,None Of These Candidates,6
@@ -1802,11 +1802,11 @@ Precinct 37,"U.S. Representative in Congress, District 2","DERBY, JILL",13
 Precinct 37,"U.S. Representative in Congress, District 2","HELLER, DEAN",34
 Precinct 37,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 Precinct 37,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-Precinct 37,United States Senator,"CARTER, JACK",16
-Precinct 37,United States Senator,"ENSIGN, JOHN",35
-Precinct 37,United States Senator,None Of These Candidates,2
-Precinct 37,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 37,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 37,U.S. Senate,"CARTER, JACK",16
+Precinct 37,U.S. Senate,"ENSIGN, JOHN",35
+Precinct 37,U.S. Senate,None Of These Candidates,2
+Precinct 37,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 37,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 38,Attorney General,"CHAIREZ, DON",50
 Precinct 38,Attorney General,"CORTEZ  MASTO, CATHERINE",50
 Precinct 38,Attorney General,None Of These Candidates,11
@@ -1860,11 +1860,11 @@ Precinct 38,"U.S. Representative in Congress, District 2","DERBY, JILL",55
 Precinct 38,"U.S. Representative in Congress, District 2","HELLER, DEAN",49
 Precinct 38,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
 Precinct 38,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-Precinct 38,United States Senator,"CARTER, JACK",46
-Precinct 38,United States Senator,"ENSIGN, JOHN",57
-Precinct 38,United States Senator,None Of These Candidates,4
-Precinct 38,United States Senator,"SCHUMANN, DAVID K.",3
-Precinct 38,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 38,U.S. Senate,"CARTER, JACK",46
+Precinct 38,U.S. Senate,"ENSIGN, JOHN",57
+Precinct 38,U.S. Senate,None Of These Candidates,4
+Precinct 38,U.S. Senate,"SCHUMANN, DAVID K.",3
+Precinct 38,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 39,Attorney General,"CHAIREZ, DON",32
 Precinct 39,Attorney General,"CORTEZ  MASTO, CATHERINE",27
 Precinct 39,Attorney General,None Of These Candidates,10
@@ -1918,11 +1918,11 @@ Precinct 39,"U.S. Representative in Congress, District 2","DERBY, JILL",19
 Precinct 39,"U.S. Representative in Congress, District 2","HELLER, DEAN",33
 Precinct 39,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 Precinct 39,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
-Precinct 39,United States Senator,"CARTER, JACK",25
-Precinct 39,United States Senator,"ENSIGN, JOHN",34
-Precinct 39,United States Senator,None Of These Candidates,3
-Precinct 39,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 39,United States Senator,"TRAINOR, BRENDAN",1
+Precinct 39,U.S. Senate,"CARTER, JACK",25
+Precinct 39,U.S. Senate,"ENSIGN, JOHN",34
+Precinct 39,U.S. Senate,None Of These Candidates,3
+Precinct 39,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 39,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 4,Attorney General,"CHAIREZ, DON",196
 Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",161
 Precinct 4,Attorney General,None Of These Candidates,47
@@ -1978,11 +1978,11 @@ Precinct 4,"U.S. Representative in Congress, District 2","DERBY, JILL",151
 Precinct 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",231
 Precinct 4,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 Precinct 4,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",11
-Precinct 4,United States Senator,"CARTER, JACK",118
-Precinct 4,United States Senator,"ENSIGN, JOHN",274
-Precinct 4,United States Senator,None Of These Candidates,10
-Precinct 4,United States Senator,"SCHUMANN, DAVID K.",9
-Precinct 4,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 4,U.S. Senate,"CARTER, JACK",118
+Precinct 4,U.S. Senate,"ENSIGN, JOHN",274
+Precinct 4,U.S. Senate,None Of These Candidates,10
+Precinct 4,U.S. Senate,"SCHUMANN, DAVID K.",9
+Precinct 4,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 40,Attorney General,"CHAIREZ, DON",331
 Precinct 40,Attorney General,"CORTEZ  MASTO, CATHERINE",164
 Precinct 40,Attorney General,None Of These Candidates,25
@@ -2038,11 +2038,11 @@ Precinct 40,"U.S. Representative in Congress, District 2","DERBY, JILL",127
 Precinct 40,"U.S. Representative in Congress, District 2","HELLER, DEAN",374
 Precinct 40,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",11
 Precinct 40,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",10
-Precinct 40,United States Senator,"CARTER, JACK",110
-Precinct 40,United States Senator,"ENSIGN, JOHN",397
-Precinct 40,United States Senator,None Of These Candidates,6
-Precinct 40,United States Senator,"SCHUMANN, DAVID K.",12
-Precinct 40,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 40,U.S. Senate,"CARTER, JACK",110
+Precinct 40,U.S. Senate,"ENSIGN, JOHN",397
+Precinct 40,U.S. Senate,None Of These Candidates,6
+Precinct 40,U.S. Senate,"SCHUMANN, DAVID K.",12
+Precinct 40,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 41,Attorney General,"CHAIREZ, DON",350
 Precinct 41,Attorney General,"CORTEZ  MASTO, CATHERINE",166
 Precinct 41,Attorney General,None Of These Candidates,38
@@ -2098,11 +2098,11 @@ Precinct 41,"U.S. Representative in Congress, District 2","DERBY, JILL",158
 Precinct 41,"U.S. Representative in Congress, District 2","HELLER, DEAN",379
 Precinct 41,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",18
 Precinct 41,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-Precinct 41,United States Senator,"CARTER, JACK",134
-Precinct 41,United States Senator,"ENSIGN, JOHN",409
-Precinct 41,United States Senator,None Of These Candidates,8
-Precinct 41,United States Senator,"SCHUMANN, DAVID K.",9
-Precinct 41,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 41,U.S. Senate,"CARTER, JACK",134
+Precinct 41,U.S. Senate,"ENSIGN, JOHN",409
+Precinct 41,U.S. Senate,None Of These Candidates,8
+Precinct 41,U.S. Senate,"SCHUMANN, DAVID K.",9
+Precinct 41,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 5,Attorney General,"CHAIREZ, DON",204
 Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",135
 Precinct 5,Attorney General,None Of These Candidates,34
@@ -2158,11 +2158,11 @@ Precinct 5,"U.S. Representative in Congress, District 2","DERBY, JILL",120
 Precinct 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",232
 Precinct 5,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",14
 Precinct 5,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-Precinct 5,United States Senator,"CARTER, JACK",91
-Precinct 5,United States Senator,"ENSIGN, JOHN",271
-Precinct 5,United States Senator,None Of These Candidates,6
-Precinct 5,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 5,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 5,U.S. Senate,"CARTER, JACK",91
+Precinct 5,U.S. Senate,"ENSIGN, JOHN",271
+Precinct 5,U.S. Senate,None Of These Candidates,6
+Precinct 5,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 5,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 6,Attorney General,"CHAIREZ, DON",224
 Precinct 6,Attorney General,"CORTEZ  MASTO, CATHERINE",91
 Precinct 6,Attorney General,None Of These Candidates,26
@@ -2218,11 +2218,11 @@ Precinct 6,"U.S. Representative in Congress, District 2","DERBY, JILL",95
 Precinct 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",233
 Precinct 6,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 Precinct 6,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-Precinct 6,United States Senator,"CARTER, JACK",65
-Precinct 6,United States Senator,"ENSIGN, JOHN",259
-Precinct 6,United States Senator,None Of These Candidates,5
-Precinct 6,United States Senator,"SCHUMANN, DAVID K.",11
-Precinct 6,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 6,U.S. Senate,"CARTER, JACK",65
+Precinct 6,U.S. Senate,"ENSIGN, JOHN",259
+Precinct 6,U.S. Senate,None Of These Candidates,5
+Precinct 6,U.S. Senate,"SCHUMANN, DAVID K.",11
+Precinct 6,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 7,Attorney General,"CHAIREZ, DON",202
 Precinct 7,Attorney General,"CORTEZ  MASTO, CATHERINE",88
 Precinct 7,Attorney General,None Of These Candidates,24
@@ -2278,11 +2278,11 @@ Precinct 7,"U.S. Representative in Congress, District 2","DERBY, JILL",75
 Precinct 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",223
 Precinct 7,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
 Precinct 7,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-Precinct 7,United States Senator,"CARTER, JACK",61
-Precinct 7,United States Senator,"ENSIGN, JOHN",245
-Precinct 7,United States Senator,None Of These Candidates,3
-Precinct 7,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 7,United States Senator,"TRAINOR, BRENDAN",2
+Precinct 7,U.S. Senate,"CARTER, JACK",61
+Precinct 7,U.S. Senate,"ENSIGN, JOHN",245
+Precinct 7,U.S. Senate,None Of These Candidates,3
+Precinct 7,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 7,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 8,Attorney General,"CHAIREZ, DON",255
 Precinct 8,Attorney General,"CORTEZ  MASTO, CATHERINE",161
 Precinct 8,Attorney General,None Of These Candidates,47
@@ -2338,11 +2338,11 @@ Precinct 8,"U.S. Representative in Congress, District 2","DERBY, JILL",146
 Precinct 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",297
 Precinct 8,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
 Precinct 8,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-Precinct 8,United States Senator,"CARTER, JACK",105
-Precinct 8,United States Senator,"ENSIGN, JOHN",342
-Precinct 8,United States Senator,None Of These Candidates,9
-Precinct 8,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 8,United States Senator,"TRAINOR, BRENDAN",4
+Precinct 8,U.S. Senate,"CARTER, JACK",105
+Precinct 8,U.S. Senate,"ENSIGN, JOHN",342
+Precinct 8,U.S. Senate,None Of These Candidates,9
+Precinct 8,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 8,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 9,Attorney General,"CHAIREZ, DON",165
 Precinct 9,Attorney General,"CORTEZ  MASTO, CATHERINE",117
 Precinct 9,Attorney General,None Of These Candidates,28
@@ -2398,17 +2398,17 @@ Precinct 9,"U.S. Representative in Congress, District 2","DERBY, JILL",109
 Precinct 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",179
 Precinct 9,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",13
 Precinct 9,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-Precinct 9,United States Senator,"CARTER, JACK",86
-Precinct 9,United States Senator,"ENSIGN, JOHN",207
-Precinct 9,United States Senator,None Of These Candidates,6
-Precinct 9,United States Senator,"SCHUMANN, DAVID K.",13
-Precinct 9,United States Senator,"TRAINOR, BRENDAN",3
+Precinct 9,U.S. Senate,"CARTER, JACK",86
+Precinct 9,U.S. Senate,"ENSIGN, JOHN",207
+Precinct 9,U.S. Senate,None Of These Candidates,6
+Precinct 9,U.S. Senate,"SCHUMANN, DAVID K.",13
+Precinct 9,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 Precinct 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Precinct 99,United States Senator,"CARTER, JACK",0
-Precinct 99,United States Senator,"ENSIGN, JOHN",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 99,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 99,U.S. Senate,"CARTER, JACK",0
+Precinct 99,U.S. Senate,"ENSIGN, JOHN",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 99,U.S. Senate,"TRAINOR, BRENDAN",0

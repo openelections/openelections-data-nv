@@ -5,13 +5,13 @@ Precinct 1,County Commissioner Seat 3,"SWETICH, BOB",544
 Precinct 1,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",501
 Precinct 1,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",702
 Precinct 1,County Commissioner Seat 4,"NORCROSSO, JOHNNY",349
-Precinct 1,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-Precinct 1,President and Vice President of the United States,"BUSH, GEORGE W.",756
-Precinct 1,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 1,President and Vice President of the United States,"KERRY, JOHN F.",297
-Precinct 1,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 1,President and Vice President of the United States,None Of These Candidates,11
-Precinct 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 1,President,"BADNARIK, MICHAEL",5
+Precinct 1,President,"BUSH, GEORGE W.",756
+Precinct 1,President,"COBB, DAVID",0
+Precinct 1,President,"KERRY, JOHN F.",297
+Precinct 1,President,"NADER, RALPH",3
+Precinct 1,President,None Of These Candidates,11
+Precinct 1,President,"PEROUTKA, MICHAEL A.",2
 Precinct 1,"State Assembly, District 35","DeBRAGA, MARCIA",525
 Precinct 1,"State Assembly, District 35","GOICOECHEA, PETE",507
 Precinct 1,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",24
@@ -30,12 +30,12 @@ Precinct 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",217
 Precinct 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",773
 Precinct 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",47
 Precinct 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-Precinct 1,United States Senator,"HURST, THOMAS L.",10
-Precinct 1,United States Senator,"MARINCH, GARY",7
-Precinct 1,United States Senator,None Of These Candidates,36
-Precinct 1,United States Senator,"REID, HARRY",599
-Precinct 1,United States Senator,"SCHUMANN, DAVID K.",17
-Precinct 1,United States Senator,"ZISER, RICHARD",392
+Precinct 1,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 1,U.S. Senate,"MARINCH, GARY",7
+Precinct 1,U.S. Senate,None Of These Candidates,36
+Precinct 1,U.S. Senate,"REID, HARRY",599
+Precinct 1,U.S. Senate,"SCHUMANN, DAVID K.",17
+Precinct 1,U.S. Senate,"ZISER, RICHARD",392
 Precinct 1,"University Board of Regents, District  8","AIAZZI, STAN",257
 Precinct 1,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",665
 Precinct 1,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",433
@@ -46,13 +46,13 @@ Precinct 10,County Commissioner Seat 3,"SWETICH, BOB",40
 Precinct 10,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",121
 Precinct 10,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",130
 Precinct 10,County Commissioner Seat 4,"NORCROSSO, JOHNNY",38
-Precinct 10,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 10,President and Vice President of the United States,"BUSH, GEORGE W.",139
-Precinct 10,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 10,President and Vice President of the United States,"KERRY, JOHN F.",26
-Precinct 10,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 10,President and Vice President of the United States,None Of These Candidates,1
-Precinct 10,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 10,President,"BADNARIK, MICHAEL",2
+Precinct 10,President,"BUSH, GEORGE W.",139
+Precinct 10,President,"COBB, DAVID",0
+Precinct 10,President,"KERRY, JOHN F.",26
+Precinct 10,President,"NADER, RALPH",0
+Precinct 10,President,None Of These Candidates,1
+Precinct 10,President,"PEROUTKA, MICHAEL A.",0
 Precinct 10,"State Assembly, District 35","DeBRAGA, MARCIA",39
 Precinct 10,"State Assembly, District 35","GOICOECHEA, PETE",122
 Precinct 10,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",5
@@ -71,12 +71,12 @@ Precinct 10,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",22
 Precinct 10,"U.S. Representative in Congress, District 2","GIBBONS, JIM",130
 Precinct 10,"U.S. Representative in Congress, District 2","HANSEN, JANINE",4
 Precinct 10,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 10,United States Senator,"HURST, THOMAS L.",5
-Precinct 10,United States Senator,"MARINCH, GARY",1
-Precinct 10,United States Senator,None Of These Candidates,8
-Precinct 10,United States Senator,"REID, HARRY",55
-Precinct 10,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 10,United States Senator,"ZISER, RICHARD",96
+Precinct 10,U.S. Senate,"HURST, THOMAS L.",5
+Precinct 10,U.S. Senate,"MARINCH, GARY",1
+Precinct 10,U.S. Senate,None Of These Candidates,8
+Precinct 10,U.S. Senate,"REID, HARRY",55
+Precinct 10,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 10,U.S. Senate,"ZISER, RICHARD",96
 Precinct 10,"University Board of Regents, District  8","AIAZZI, STAN",52
 Precinct 10,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",82
 Precinct 10,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",65
@@ -87,13 +87,13 @@ Precinct 2,County Commissioner Seat 3,"SWETICH, BOB",171
 Precinct 2,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",130
 Precinct 2,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",199
 Precinct 2,County Commissioner Seat 4,"NORCROSSO, JOHNNY",101
-Precinct 2,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 2,President and Vice President of the United States,"BUSH, GEORGE W.",190
-Precinct 2,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 2,President and Vice President of the United States,"KERRY, JOHN F.",106
-Precinct 2,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 2,President and Vice President of the United States,None Of These Candidates,1
-Precinct 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 2,President,"BADNARIK, MICHAEL",1
+Precinct 2,President,"BUSH, GEORGE W.",190
+Precinct 2,President,"COBB, DAVID",2
+Precinct 2,President,"KERRY, JOHN F.",106
+Precinct 2,President,"NADER, RALPH",5
+Precinct 2,President,None Of These Candidates,1
+Precinct 2,President,"PEROUTKA, MICHAEL A.",1
 Precinct 2,"State Assembly, District 35","DeBRAGA, MARCIA",163
 Precinct 2,"State Assembly, District 35","GOICOECHEA, PETE",125
 Precinct 2,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",14
@@ -112,12 +112,12 @@ Precinct 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",87
 Precinct 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",189
 Precinct 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 Precinct 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Precinct 2,United States Senator,"HURST, THOMAS L.",6
-Precinct 2,United States Senator,"MARINCH, GARY",1
-Precinct 2,United States Senator,None Of These Candidates,10
-Precinct 2,United States Senator,"REID, HARRY",196
-Precinct 2,United States Senator,"SCHUMANN, DAVID K.",9
-Precinct 2,United States Senator,"ZISER, RICHARD",80
+Precinct 2,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 2,U.S. Senate,"MARINCH, GARY",1
+Precinct 2,U.S. Senate,None Of These Candidates,10
+Precinct 2,U.S. Senate,"REID, HARRY",196
+Precinct 2,U.S. Senate,"SCHUMANN, DAVID K.",9
+Precinct 2,U.S. Senate,"ZISER, RICHARD",80
 Precinct 2,"University Board of Regents, District  8","AIAZZI, STAN",94
 Precinct 2,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",180
 Precinct 2,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",148
@@ -128,13 +128,13 @@ Precinct 3,County Commissioner Seat 3,"SWETICH, BOB",192
 Precinct 3,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",149
 Precinct 3,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",239
 Precinct 3,County Commissioner Seat 4,"NORCROSSO, JOHNNY",103
-Precinct 3,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 3,President and Vice President of the United States,"BUSH, GEORGE W.",216
-Precinct 3,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 3,President and Vice President of the United States,"KERRY, JOHN F.",120
-Precinct 3,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 3,President and Vice President of the United States,None Of These Candidates,5
-Precinct 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 3,President,"BADNARIK, MICHAEL",2
+Precinct 3,President,"BUSH, GEORGE W.",216
+Precinct 3,President,"COBB, DAVID",0
+Precinct 3,President,"KERRY, JOHN F.",120
+Precinct 3,President,"NADER, RALPH",5
+Precinct 3,President,None Of These Candidates,5
+Precinct 3,President,"PEROUTKA, MICHAEL A.",2
 Precinct 3,"State Assembly, District 35","DeBRAGA, MARCIA",183
 Precinct 3,"State Assembly, District 35","GOICOECHEA, PETE",153
 Precinct 3,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",8
@@ -153,12 +153,12 @@ Precinct 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",101
 Precinct 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",220
 Precinct 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 Precinct 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-Precinct 3,United States Senator,"HURST, THOMAS L.",7
-Precinct 3,United States Senator,"MARINCH, GARY",7
-Precinct 3,United States Senator,None Of These Candidates,16
-Precinct 3,United States Senator,"REID, HARRY",209
-Precinct 3,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 3,United States Senator,"ZISER, RICHARD",103
+Precinct 3,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 3,U.S. Senate,"MARINCH, GARY",7
+Precinct 3,U.S. Senate,None Of These Candidates,16
+Precinct 3,U.S. Senate,"REID, HARRY",209
+Precinct 3,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 3,U.S. Senate,"ZISER, RICHARD",103
 Precinct 3,"University Board of Regents, District  8","AIAZZI, STAN",74
 Precinct 3,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",233
 Precinct 3,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",161
@@ -169,13 +169,13 @@ Precinct 4,County Commissioner Seat 3,"SWETICH, BOB",220
 Precinct 4,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",163
 Precinct 4,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",267
 Precinct 4,County Commissioner Seat 4,"NORCROSSO, JOHNNY",115
-Precinct 4,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 4,President and Vice President of the United States,"BUSH, GEORGE W.",266
-Precinct 4,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 4,President and Vice President of the United States,"KERRY, JOHN F.",112
-Precinct 4,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 4,President and Vice President of the United States,None Of These Candidates,2
-Precinct 4,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 4,President,"BADNARIK, MICHAEL",4
+Precinct 4,President,"BUSH, GEORGE W.",266
+Precinct 4,President,"COBB, DAVID",2
+Precinct 4,President,"KERRY, JOHN F.",112
+Precinct 4,President,"NADER, RALPH",2
+Precinct 4,President,None Of These Candidates,2
+Precinct 4,President,"PEROUTKA, MICHAEL A.",2
 Precinct 4,"State Assembly, District 35","DeBRAGA, MARCIA",216
 Precinct 4,"State Assembly, District 35","GOICOECHEA, PETE",159
 Precinct 4,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",11
@@ -194,12 +194,12 @@ Precinct 4,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",76
 Precinct 4,"U.S. Representative in Congress, District 2","GIBBONS, JIM",272
 Precinct 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",17
 Precinct 4,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 4,United States Senator,"HURST, THOMAS L.",8
-Precinct 4,United States Senator,"MARINCH, GARY",4
-Precinct 4,United States Senator,None Of These Candidates,9
-Precinct 4,United States Senator,"REID, HARRY",234
-Precinct 4,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 4,United States Senator,"ZISER, RICHARD",118
+Precinct 4,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 4,U.S. Senate,"MARINCH, GARY",4
+Precinct 4,U.S. Senate,None Of These Candidates,9
+Precinct 4,U.S. Senate,"REID, HARRY",234
+Precinct 4,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 4,U.S. Senate,"ZISER, RICHARD",118
 Precinct 4,"University Board of Regents, District  8","AIAZZI, STAN",91
 Precinct 4,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",244
 Precinct 4,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",166
@@ -210,13 +210,13 @@ Precinct 5,County Commissioner Seat 3,"SWETICH, BOB",287
 Precinct 5,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",299
 Precinct 5,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",434
 Precinct 5,County Commissioner Seat 4,"NORCROSSO, JOHNNY",151
-Precinct 5,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 5,President and Vice President of the United States,"BUSH, GEORGE W.",460
-Precinct 5,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 5,President and Vice President of the United States,"KERRY, JOHN F.",123
-Precinct 5,President and Vice President of the United States,"NADER, RALPH",7
-Precinct 5,President and Vice President of the United States,None Of These Candidates,5
-Precinct 5,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 5,President,"BADNARIK, MICHAEL",0
+Precinct 5,President,"BUSH, GEORGE W.",460
+Precinct 5,President,"COBB, DAVID",2
+Precinct 5,President,"KERRY, JOHN F.",123
+Precinct 5,President,"NADER, RALPH",7
+Precinct 5,President,None Of These Candidates,5
+Precinct 5,President,"PEROUTKA, MICHAEL A.",1
 Precinct 5,"State Assembly, District 35","DeBRAGA, MARCIA",284
 Precinct 5,"State Assembly, District 35","GOICOECHEA, PETE",293
 Precinct 5,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",14
@@ -235,12 +235,12 @@ Precinct 5,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",116
 Precinct 5,"U.S. Representative in Congress, District 2","GIBBONS, JIM",444
 Precinct 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",17
 Precinct 5,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Precinct 5,United States Senator,"HURST, THOMAS L.",8
-Precinct 5,United States Senator,"MARINCH, GARY",6
-Precinct 5,United States Senator,None Of These Candidates,13
-Precinct 5,United States Senator,"REID, HARRY",330
-Precinct 5,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 5,United States Senator,"ZISER, RICHARD",225
+Precinct 5,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 5,U.S. Senate,"MARINCH, GARY",6
+Precinct 5,U.S. Senate,None Of These Candidates,13
+Precinct 5,U.S. Senate,"REID, HARRY",330
+Precinct 5,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 5,U.S. Senate,"ZISER, RICHARD",225
 Precinct 5,"University Board of Regents, District  8","AIAZZI, STAN",130
 Precinct 5,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",378
 Precinct 5,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",270
@@ -251,13 +251,13 @@ Precinct 6,County Commissioner Seat 3,"SWETICH, BOB",227
 Precinct 6,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",217
 Precinct 6,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",290
 Precinct 6,County Commissioner Seat 4,"NORCROSSO, JOHNNY",161
-Precinct 6,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 6,President and Vice President of the United States,"BUSH, GEORGE W.",259
-Precinct 6,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 6,President and Vice President of the United States,"KERRY, JOHN F.",178
-Precinct 6,President and Vice President of the United States,"NADER, RALPH",10
-Precinct 6,President and Vice President of the United States,None Of These Candidates,5
-Precinct 6,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",8
+Precinct 6,President,"BADNARIK, MICHAEL",1
+Precinct 6,President,"BUSH, GEORGE W.",259
+Precinct 6,President,"COBB, DAVID",0
+Precinct 6,President,"KERRY, JOHN F.",178
+Precinct 6,President,"NADER, RALPH",10
+Precinct 6,President,None Of These Candidates,5
+Precinct 6,President,"PEROUTKA, MICHAEL A.",8
 Precinct 6,"State Assembly, District 35","DeBRAGA, MARCIA",277
 Precinct 6,"State Assembly, District 35","GOICOECHEA, PETE",161
 Precinct 6,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",15
@@ -276,12 +276,12 @@ Precinct 6,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",161
 Precinct 6,"U.S. Representative in Congress, District 2","GIBBONS, JIM",242
 Precinct 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",32
 Precinct 6,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 6,United States Senator,"HURST, THOMAS L.",8
-Precinct 6,United States Senator,"MARINCH, GARY",5
-Precinct 6,United States Senator,None Of These Candidates,11
-Precinct 6,United States Senator,"REID, HARRY",288
-Precinct 6,United States Senator,"SCHUMANN, DAVID K.",11
-Precinct 6,United States Senator,"ZISER, RICHARD",132
+Precinct 6,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 6,U.S. Senate,"MARINCH, GARY",5
+Precinct 6,U.S. Senate,None Of These Candidates,11
+Precinct 6,U.S. Senate,"REID, HARRY",288
+Precinct 6,U.S. Senate,"SCHUMANN, DAVID K.",11
+Precinct 6,U.S. Senate,"ZISER, RICHARD",132
 Precinct 6,"University Board of Regents, District  8","AIAZZI, STAN",126
 Precinct 6,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",271
 Precinct 6,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",216
@@ -292,13 +292,13 @@ Precinct 7,County Commissioner Seat 3,"SWETICH, BOB",76
 Precinct 7,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",58
 Precinct 7,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",96
 Precinct 7,County Commissioner Seat 4,"NORCROSSO, JOHNNY",39
-Precinct 7,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-Precinct 7,President and Vice President of the United States,"BUSH, GEORGE W.",83
-Precinct 7,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 7,President and Vice President of the United States,"KERRY, JOHN F.",49
-Precinct 7,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 7,President and Vice President of the United States,None Of These Candidates,0
-Precinct 7,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 7,President,"BADNARIK, MICHAEL",5
+Precinct 7,President,"BUSH, GEORGE W.",83
+Precinct 7,President,"COBB, DAVID",1
+Precinct 7,President,"KERRY, JOHN F.",49
+Precinct 7,President,"NADER, RALPH",1
+Precinct 7,President,None Of These Candidates,0
+Precinct 7,President,"PEROUTKA, MICHAEL A.",0
 Precinct 7,"State Assembly, District 35","DeBRAGA, MARCIA",73
 Precinct 7,"State Assembly, District 35","GOICOECHEA, PETE",56
 Precinct 7,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",8
@@ -317,12 +317,12 @@ Precinct 7,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",37
 Precinct 7,"U.S. Representative in Congress, District 2","GIBBONS, JIM",81
 Precinct 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
 Precinct 7,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 7,United States Senator,"HURST, THOMAS L.",3
-Precinct 7,United States Senator,"MARINCH, GARY",3
-Precinct 7,United States Senator,None Of These Candidates,0
-Precinct 7,United States Senator,"REID, HARRY",76
-Precinct 7,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 7,United States Senator,"ZISER, RICHARD",53
+Precinct 7,U.S. Senate,"HURST, THOMAS L.",3
+Precinct 7,U.S. Senate,"MARINCH, GARY",3
+Precinct 7,U.S. Senate,None Of These Candidates,0
+Precinct 7,U.S. Senate,"REID, HARRY",76
+Precinct 7,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 7,U.S. Senate,"ZISER, RICHARD",53
 Precinct 7,"University Board of Regents, District  8","AIAZZI, STAN",23
 Precinct 7,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",89
 Precinct 7,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",57
@@ -333,13 +333,13 @@ Precinct 8,County Commissioner Seat 3,"SWETICH, BOB",55
 Precinct 8,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",150
 Precinct 8,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",167
 Precinct 8,County Commissioner Seat 4,"NORCROSSO, JOHNNY",40
-Precinct 8,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 8,President and Vice President of the United States,"BUSH, GEORGE W.",181
-Precinct 8,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 8,President and Vice President of the United States,"KERRY, JOHN F.",22
-Precinct 8,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 8,President and Vice President of the United States,None Of These Candidates,2
-Precinct 8,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 8,President,"BADNARIK, MICHAEL",2
+Precinct 8,President,"BUSH, GEORGE W.",181
+Precinct 8,President,"COBB, DAVID",0
+Precinct 8,President,"KERRY, JOHN F.",22
+Precinct 8,President,"NADER, RALPH",3
+Precinct 8,President,None Of These Candidates,2
+Precinct 8,President,"PEROUTKA, MICHAEL A.",0
 Precinct 8,"State Assembly, District 35","DeBRAGA, MARCIA",85
 Precinct 8,"State Assembly, District 35","GOICOECHEA, PETE",121
 Precinct 8,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",5
@@ -358,36 +358,36 @@ Precinct 8,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",19
 Precinct 8,"U.S. Representative in Congress, District 2","GIBBONS, JIM",163
 Precinct 8,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
 Precinct 8,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-Precinct 8,United States Senator,"HURST, THOMAS L.",1
-Precinct 8,United States Senator,"MARINCH, GARY",2
-Precinct 8,United States Senator,None Of These Candidates,13
-Precinct 8,United States Senator,"REID, HARRY",83
-Precinct 8,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 8,United States Senator,"ZISER, RICHARD",104
+Precinct 8,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 8,U.S. Senate,"MARINCH, GARY",2
+Precinct 8,U.S. Senate,None Of These Candidates,13
+Precinct 8,U.S. Senate,"REID, HARRY",83
+Precinct 8,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 8,U.S. Senate,"ZISER, RICHARD",104
 Precinct 8,"University Board of Regents, District  8","AIAZZI, STAN",66
 Precinct 8,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",111
 Precinct 8,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",96
 Precinct 8,WHITE PINE TV Seat B,"WILLIAMSI, ROLAND J.",80
-Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",0
-Precinct 88,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",0
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 88,President,"BADNARIK, MICHAEL",0
+Precinct 88,President,"BUSH, GEORGE W.",0
+Precinct 88,President,"COBB, DAVID",0
+Precinct 88,President,"KERRY, JOHN F.",0
+Precinct 88,President,"NADER, RALPH",0
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"PEROUTKA, MICHAEL A.",0
 Precinct 9,County Commissioner Seat 2,"NELSON, MARGARET",57
 Precinct 9,County Commissioner Seat 2,"POUND, DAVID A.",40
 Precinct 9,County Commissioner Seat 3,"SWETICH, BOB",35
 Precinct 9,County Commissioner Seat 3,"URRIZAGAR, RAYMOND",59
 Precinct 9,County Commissioner Seat 4,"ELDRIDGEL, CLINTON",83
 Precinct 9,County Commissioner Seat 4,"NORCROSSO, JOHNNY",18
-Precinct 9,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 9,President and Vice President of the United States,"BUSH, GEORGE W.",54
-Precinct 9,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 9,President and Vice President of the United States,"KERRY, JOHN F.",49
-Precinct 9,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 9,President and Vice President of the United States,None Of These Candidates,0
-Precinct 9,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 9,President,"BADNARIK, MICHAEL",1
+Precinct 9,President,"BUSH, GEORGE W.",54
+Precinct 9,President,"COBB, DAVID",0
+Precinct 9,President,"KERRY, JOHN F.",49
+Precinct 9,President,"NADER, RALPH",2
+Precinct 9,President,None Of These Candidates,0
+Precinct 9,President,"PEROUTKA, MICHAEL A.",0
 Precinct 9,"State Assembly, District 35","DeBRAGA, MARCIA",55
 Precinct 9,"State Assembly, District 35","GOICOECHEA, PETE",43
 Precinct 9,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",5
@@ -406,30 +406,30 @@ Precinct 9,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",32
 Precinct 9,"U.S. Representative in Congress, District 2","GIBBONS, JIM",59
 Precinct 9,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
 Precinct 9,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 9,United States Senator,"HURST, THOMAS L.",1
-Precinct 9,United States Senator,"MARINCH, GARY",0
-Precinct 9,United States Senator,None Of These Candidates,5
-Precinct 9,United States Senator,"REID, HARRY",58
-Precinct 9,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 9,United States Senator,"ZISER, RICHARD",39
+Precinct 9,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 9,U.S. Senate,"MARINCH, GARY",0
+Precinct 9,U.S. Senate,None Of These Candidates,5
+Precinct 9,U.S. Senate,"REID, HARRY",58
+Precinct 9,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 9,U.S. Senate,"ZISER, RICHARD",39
 Precinct 9,"University Board of Regents, District  8","AIAZZI, STAN",12
 Precinct 9,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",63
 Precinct 9,WHITE PINE TV Seat B,"FLANGAS, ERNEST A.",26
 Precinct 9,WHITE PINE TV Seat B,"WILLIAMSI, ROLAND J.",38
-Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",0
-Precinct 99,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",0
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 99,President,"BADNARIK, MICHAEL",0
+Precinct 99,President,"BUSH, GEORGE W.",0
+Precinct 99,President,"COBB, DAVID",0
+Precinct 99,President,"KERRY, JOHN F.",0
+Precinct 99,President,"NADER, RALPH",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"PEROUTKA, MICHAEL A.",0
 Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",0
 Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",0
 Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-Precinct 99,United States Senator,"HURST, THOMAS L.",0
-Precinct 99,United States Senator,"MARINCH, GARY",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"REID, HARRY",0
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 99,United States Senator,"ZISER, RICHARD",0
+Precinct 99,U.S. Senate,"HURST, THOMAS L.",0
+Precinct 99,U.S. Senate,"MARINCH, GARY",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"REID, HARRY",0
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 99,U.S. Senate,"ZISER, RICHARD",0

@@ -5,13 +5,13 @@ PRECINCT 1,County Comm. Seat B,"BRYANT, RICHARD D.",176
 PRECINCT 1,County Comm. Seat B,"ESSENPREIS, JAMES A.",179
 PRECINCT 1,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",242
 PRECINCT 1,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",103
-PRECINCT 1,President and Vice President of the United States,"Baldwin, Chuck",4
-PRECINCT 1,President and Vice President of the United States,"Barr, Bob",3
-PRECINCT 1,President and Vice President of the United States,"McCain, John",214
-PRECINCT 1,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 1,President and Vice President of the United States,"NADER, RALPH",1
-PRECINCT 1,President and Vice President of the United States,None Of These Candidates,5
-PRECINCT 1,President and Vice President of the United States,"Obama, Barack",137
+PRECINCT 1,President,"Baldwin, Chuck",4
+PRECINCT 1,President,"Barr, Bob",3
+PRECINCT 1,President,"McCain, John",214
+PRECINCT 1,President,"McKinney, Cynthia",0
+PRECINCT 1,President,"NADER, RALPH",1
+PRECINCT 1,President,None Of These Candidates,5
+PRECINCT 1,President,"Obama, Barack",137
 PRECINCT 1,"State Assembly, District 36","BABB, SCOTTY",114
 PRECINCT 1,"State Assembly, District 36","GOEDHART, ED",223
 PRECINCT 1,"State Senate, Central Senatorial District","McGINNESS, MIKE",292
@@ -32,13 +32,13 @@ PRECINCT 10,County Comm. Seat B,"BRYANT, RICHARD D.",
 PRECINCT 10,County Comm. Seat B,"ESSENPREIS, JAMES A.",
 PRECINCT 10,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
 PRECINCT 10,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
-PRECINCT 10,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 10,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 10,President and Vice President of the United States,"McCain, John",
-PRECINCT 10,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 10,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 10,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 10,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 10,President,"Baldwin, Chuck",
+PRECINCT 10,President,"Barr, Bob",
+PRECINCT 10,President,"McCain, John",
+PRECINCT 10,President,"McKinney, Cynthia",
+PRECINCT 10,President,"NADER, RALPH",
+PRECINCT 10,President,None Of These Candidates,
+PRECINCT 10,President,"Obama, Barack",
 PRECINCT 10,"State Assembly, District 36","BABB, SCOTTY",
 PRECINCT 10,"State Assembly, District 36","GOEDHART, ED",
 PRECINCT 10,"State Senate, Central Senatorial District","McGINNESS, MIKE",
@@ -59,13 +59,13 @@ PRECINCT 11,County Comm. Seat B,"BRYANT, RICHARD D.",218
 PRECINCT 11,County Comm. Seat B,"ESSENPREIS, JAMES A.",65
 PRECINCT 11,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",184
 PRECINCT 11,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",71
-PRECINCT 11,President and Vice President of the United States,"Baldwin, Chuck",2
-PRECINCT 11,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 11,President and Vice President of the United States,"McCain, John",61
-PRECINCT 11,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 11,President and Vice President of the United States,"NADER, RALPH",1
-PRECINCT 11,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 11,President and Vice President of the United States,"Obama, Barack",237
+PRECINCT 11,President,"Baldwin, Chuck",2
+PRECINCT 11,President,"Barr, Bob",0
+PRECINCT 11,President,"McCain, John",61
+PRECINCT 11,President,"McKinney, Cynthia",0
+PRECINCT 11,President,"NADER, RALPH",1
+PRECINCT 11,President,None Of These Candidates,1
+PRECINCT 11,President,"Obama, Barack",237
 PRECINCT 11,"State Assembly, District 36","BABB, SCOTTY",199
 PRECINCT 11,"State Assembly, District 36","GOEDHART, ED",73
 PRECINCT 11,"State Senate, Central Senatorial District","McGINNESS, MIKE",222
@@ -86,13 +86,13 @@ PRECINCT 12,County Comm. Seat B,"BRYANT, RICHARD D.",49
 PRECINCT 12,County Comm. Seat B,"ESSENPREIS, JAMES A.",110
 PRECINCT 12,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",110
 PRECINCT 12,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",48
-PRECINCT 12,President and Vice President of the United States,"Baldwin, Chuck",1
-PRECINCT 12,President and Vice President of the United States,"Barr, Bob",1
-PRECINCT 12,President and Vice President of the United States,"McCain, John",102
-PRECINCT 12,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 12,President and Vice President of the United States,"NADER, RALPH",3
-PRECINCT 12,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 12,President and Vice President of the United States,"Obama, Barack",61
+PRECINCT 12,President,"Baldwin, Chuck",1
+PRECINCT 12,President,"Barr, Bob",1
+PRECINCT 12,President,"McCain, John",102
+PRECINCT 12,President,"McKinney, Cynthia",0
+PRECINCT 12,President,"NADER, RALPH",3
+PRECINCT 12,President,None Of These Candidates,1
+PRECINCT 12,President,"Obama, Barack",61
 PRECINCT 12,"State Assembly, District 36","BABB, SCOTTY",53
 PRECINCT 12,"State Assembly, District 36","GOEDHART, ED",104
 PRECINCT 12,"State Senate, Central Senatorial District","McGINNESS, MIKE",130
@@ -113,13 +113,13 @@ PRECINCT 2,County Comm. Seat B,"BRYANT, RICHARD D.",135
 PRECINCT 2,County Comm. Seat B,"ESSENPREIS, JAMES A.",185
 PRECINCT 2,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",229
 PRECINCT 2,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",79
-PRECINCT 2,President and Vice President of the United States,"Baldwin, Chuck",2
-PRECINCT 2,President and Vice President of the United States,"Barr, Bob",2
-PRECINCT 2,President and Vice President of the United States,"McCain, John",169
-PRECINCT 2,President and Vice President of the United States,"McKinney, Cynthia",2
-PRECINCT 2,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 2,President and Vice President of the United States,None Of These Candidates,8
-PRECINCT 2,President and Vice President of the United States,"Obama, Barack",151
+PRECINCT 2,President,"Baldwin, Chuck",2
+PRECINCT 2,President,"Barr, Bob",2
+PRECINCT 2,President,"McCain, John",169
+PRECINCT 2,President,"McKinney, Cynthia",2
+PRECINCT 2,President,"NADER, RALPH",0
+PRECINCT 2,President,None Of These Candidates,8
+PRECINCT 2,President,"Obama, Barack",151
 PRECINCT 2,"State Assembly, District 36","BABB, SCOTTY",122
 PRECINCT 2,"State Assembly, District 36","GOEDHART, ED",184
 PRECINCT 2,"State Senate, Central Senatorial District","McGINNESS, MIKE",252
@@ -140,13 +140,13 @@ PRECINCT 3,County Comm. Seat B,"BRYANT, RICHARD D.",93
 PRECINCT 3,County Comm. Seat B,"ESSENPREIS, JAMES A.",106
 PRECINCT 3,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",142
 PRECINCT 3,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",44
-PRECINCT 3,President and Vice President of the United States,"Baldwin, Chuck",1
-PRECINCT 3,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 3,President and Vice President of the United States,"McCain, John",120
-PRECINCT 3,President and Vice President of the United States,"McKinney, Cynthia",1
-PRECINCT 3,President and Vice President of the United States,"NADER, RALPH",4
-PRECINCT 3,President and Vice President of the United States,None Of These Candidates,2
-PRECINCT 3,President and Vice President of the United States,"Obama, Barack",75
+PRECINCT 3,President,"Baldwin, Chuck",1
+PRECINCT 3,President,"Barr, Bob",0
+PRECINCT 3,President,"McCain, John",120
+PRECINCT 3,President,"McKinney, Cynthia",1
+PRECINCT 3,President,"NADER, RALPH",4
+PRECINCT 3,President,None Of These Candidates,2
+PRECINCT 3,President,"Obama, Barack",75
 PRECINCT 3,"State Assembly, District 36","BABB, SCOTTY",62
 PRECINCT 3,"State Assembly, District 36","GOEDHART, ED",128
 PRECINCT 3,"State Senate, Central Senatorial District","McGINNESS, MIKE",161
@@ -167,13 +167,13 @@ PRECINCT 4,County Comm. Seat B,"BRYANT, RICHARD D.",83
 PRECINCT 4,County Comm. Seat B,"ESSENPREIS, JAMES A.",98
 PRECINCT 4,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",118
 PRECINCT 4,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",44
-PRECINCT 4,President and Vice President of the United States,"Baldwin, Chuck",2
-PRECINCT 4,President and Vice President of the United States,"Barr, Bob",2
-PRECINCT 4,President and Vice President of the United States,"McCain, John",92
-PRECINCT 4,President and Vice President of the United States,"McKinney, Cynthia",1
-PRECINCT 4,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 4,President and Vice President of the United States,None Of These Candidates,4
-PRECINCT 4,President and Vice President of the United States,"Obama, Barack",88
+PRECINCT 4,President,"Baldwin, Chuck",2
+PRECINCT 4,President,"Barr, Bob",2
+PRECINCT 4,President,"McCain, John",92
+PRECINCT 4,President,"McKinney, Cynthia",1
+PRECINCT 4,President,"NADER, RALPH",0
+PRECINCT 4,President,None Of These Candidates,4
+PRECINCT 4,President,"Obama, Barack",88
 PRECINCT 4,"State Assembly, District 36","BABB, SCOTTY",82
 PRECINCT 4,"State Assembly, District 36","GOEDHART, ED",96
 PRECINCT 4,"State Senate, Central Senatorial District","McGINNESS, MIKE",136
@@ -194,13 +194,13 @@ PRECINCT 5,County Comm. Seat B,"BRYANT, RICHARD D.",111
 PRECINCT 5,County Comm. Seat B,"ESSENPREIS, JAMES A.",123
 PRECINCT 5,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",170
 PRECINCT 5,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",49
-PRECINCT 5,President and Vice President of the United States,"Baldwin, Chuck",5
-PRECINCT 5,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 5,President and Vice President of the United States,"McCain, John",107
-PRECINCT 5,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 5,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 5,President and Vice President of the United States,None Of These Candidates,8
-PRECINCT 5,President and Vice President of the United States,"Obama, Barack",115
+PRECINCT 5,President,"Baldwin, Chuck",5
+PRECINCT 5,President,"Barr, Bob",0
+PRECINCT 5,President,"McCain, John",107
+PRECINCT 5,President,"McKinney, Cynthia",0
+PRECINCT 5,President,"NADER, RALPH",2
+PRECINCT 5,President,None Of These Candidates,8
+PRECINCT 5,President,"Obama, Barack",115
 PRECINCT 5,"State Assembly, District 36","BABB, SCOTTY",94
 PRECINCT 5,"State Assembly, District 36","GOEDHART, ED",129
 PRECINCT 5,"State Senate, Central Senatorial District","McGINNESS, MIKE",196
@@ -221,13 +221,13 @@ PRECINCT 6,County Comm. Seat B,"BRYANT, RICHARD D.",117
 PRECINCT 6,County Comm. Seat B,"ESSENPREIS, JAMES A.",149
 PRECINCT 6,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",189
 PRECINCT 6,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",66
-PRECINCT 6,President and Vice President of the United States,"Baldwin, Chuck",2
-PRECINCT 6,President and Vice President of the United States,"Barr, Bob",2
-PRECINCT 6,President and Vice President of the United States,"McCain, John",125
-PRECINCT 6,President and Vice President of the United States,"McKinney, Cynthia",2
-PRECINCT 6,President and Vice President of the United States,"NADER, RALPH",6
-PRECINCT 6,President and Vice President of the United States,None Of These Candidates,4
-PRECINCT 6,President and Vice President of the United States,"Obama, Barack",140
+PRECINCT 6,President,"Baldwin, Chuck",2
+PRECINCT 6,President,"Barr, Bob",2
+PRECINCT 6,President,"McCain, John",125
+PRECINCT 6,President,"McKinney, Cynthia",2
+PRECINCT 6,President,"NADER, RALPH",6
+PRECINCT 6,President,None Of These Candidates,4
+PRECINCT 6,President,"Obama, Barack",140
 PRECINCT 6,"State Assembly, District 36","BABB, SCOTTY",109
 PRECINCT 6,"State Assembly, District 36","GOEDHART, ED",148
 PRECINCT 6,"State Senate, Central Senatorial District","McGINNESS, MIKE",212
@@ -248,13 +248,13 @@ PRECINCT 7,County Comm. Seat B,"BRYANT, RICHARD D.",38
 PRECINCT 7,County Comm. Seat B,"ESSENPREIS, JAMES A.",48
 PRECINCT 7,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",52
 PRECINCT 7,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",30
-PRECINCT 7,President and Vice President of the United States,"Baldwin, Chuck",1
-PRECINCT 7,President and Vice President of the United States,"Barr, Bob",1
-PRECINCT 7,President and Vice President of the United States,"McCain, John",58
-PRECINCT 7,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 7,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 7,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 7,President and Vice President of the United States,"Obama, Barack",29
+PRECINCT 7,President,"Baldwin, Chuck",1
+PRECINCT 7,President,"Barr, Bob",1
+PRECINCT 7,President,"McCain, John",58
+PRECINCT 7,President,"McKinney, Cynthia",0
+PRECINCT 7,President,"NADER, RALPH",2
+PRECINCT 7,President,None Of These Candidates,0
+PRECINCT 7,President,"Obama, Barack",29
 PRECINCT 7,"State Assembly, District 36","BABB, SCOTTY",18
 PRECINCT 7,"State Assembly, District 36","GOEDHART, ED",69
 PRECINCT 7,"State Senate, Central Senatorial District","McGINNESS, MIKE",78
@@ -275,13 +275,13 @@ PRECINCT 8,County Comm. Seat B,"BRYANT, RICHARD D.",11
 PRECINCT 8,County Comm. Seat B,"ESSENPREIS, JAMES A.",14
 PRECINCT 8,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",21
 PRECINCT 8,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",4
-PRECINCT 8,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 8,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 8,President and Vice President of the United States,"McCain, John",16
-PRECINCT 8,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 8,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 8,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 8,President and Vice President of the United States,"Obama, Barack",10
+PRECINCT 8,President,"Baldwin, Chuck",0
+PRECINCT 8,President,"Barr, Bob",0
+PRECINCT 8,President,"McCain, John",16
+PRECINCT 8,President,"McKinney, Cynthia",0
+PRECINCT 8,President,"NADER, RALPH",0
+PRECINCT 8,President,None Of These Candidates,0
+PRECINCT 8,President,"Obama, Barack",10
 PRECINCT 8,"State Assembly, District 36","BABB, SCOTTY",9
 PRECINCT 8,"State Assembly, District 36","GOEDHART, ED",16
 PRECINCT 8,"State Senate, Central Senatorial District","McGINNESS, MIKE",24
@@ -296,26 +296,26 @@ PRECINCT 8,"U.S. Representative in Congress, District 2","DERBY, JILL",9
 PRECINCT 8,"U.S. Representative in Congress, District 2","Everhart, John",1
 PRECINCT 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",15
 PRECINCT 8,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
-PRECINCT 88,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 88,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 88,President and Vice President of the United States,"McCain, John",
-PRECINCT 88,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 88,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 88,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 88,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 88,President,"Baldwin, Chuck",
+PRECINCT 88,President,"Barr, Bob",
+PRECINCT 88,President,"McCain, John",
+PRECINCT 88,President,"McKinney, Cynthia",
+PRECINCT 88,President,"NADER, RALPH",
+PRECINCT 88,President,None Of These Candidates,
+PRECINCT 88,President,"Obama, Barack",
 PRECINCT 9,County Comm. Seat A,"BLACK, NANCY J.",55
 PRECINCT 9,County Comm. Seat A,"JOHNSON, JONI D.",48
 PRECINCT 9,County Comm. Seat B,"BRYANT, RICHARD D.",41
 PRECINCT 9,County Comm. Seat B,"ESSENPREIS, JAMES A.",62
 PRECINCT 9,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",77
 PRECINCT 9,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",20
-PRECINCT 9,President and Vice President of the United States,"Baldwin, Chuck",2
-PRECINCT 9,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 9,President and Vice President of the United States,"McCain, John",64
-PRECINCT 9,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 9,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 9,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 9,President and Vice President of the United States,"Obama, Barack",38
+PRECINCT 9,President,"Baldwin, Chuck",2
+PRECINCT 9,President,"Barr, Bob",0
+PRECINCT 9,President,"McCain, John",64
+PRECINCT 9,President,"McKinney, Cynthia",0
+PRECINCT 9,President,"NADER, RALPH",2
+PRECINCT 9,President,None Of These Candidates,1
+PRECINCT 9,President,"Obama, Barack",38
 PRECINCT 9,"State Assembly, District 36","BABB, SCOTTY",37
 PRECINCT 9,"State Assembly, District 36","GOEDHART, ED",63
 PRECINCT 9,"State Senate, Central Senatorial District","McGINNESS, MIKE",84
@@ -330,13 +330,13 @@ PRECINCT 9,"U.S. Representative in Congress, District 2","DERBY, JILL",35
 PRECINCT 9,"U.S. Representative in Congress, District 2","Everhart, John",7
 PRECINCT 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",56
 PRECINCT 9,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",2
-PRECINCT 99,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 99,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 99,President and Vice President of the United States,"McCain, John",0
-PRECINCT 99,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 99,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 99,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 99,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 99,President,"Baldwin, Chuck",0
+PRECINCT 99,President,"Barr, Bob",0
+PRECINCT 99,President,"McCain, John",0
+PRECINCT 99,President,"McKinney, Cynthia",0
+PRECINCT 99,President,"NADER, RALPH",0
+PRECINCT 99,President,None Of These Candidates,0
+PRECINCT 99,President,"Obama, Barack",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","Bergland, Craig",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","Everhart, John",0

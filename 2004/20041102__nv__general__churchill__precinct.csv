@@ -9,13 +9,13 @@ Precinct 01,County Commissioner District 1 (CW),"FREY, NORMAN W.",269
 Precinct 01,County Commissioner District 1 (CW),"MELLO, DON",251
 Precinct 01,County Commissioner District 3 (CW),"KELSEY, FRED A.",131
 Precinct 01,County Commissioner District 3 (CW),"PEARCE, LYNN",389
-Precinct 01,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 01,President and Vice President of the United States,"BUSH, GEORGE W.",361
-Precinct 01,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 01,President and Vice President of the United States,"KERRY, JOHN F.",177
-Precinct 01,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 01,President and Vice President of the United States,None Of These Candidates,5
-Precinct 01,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 01,President,"BADNARIK, MICHAEL",1
+Precinct 01,President,"BUSH, GEORGE W.",361
+Precinct 01,President,"COBB, DAVID",2
+Precinct 01,President,"KERRY, JOHN F.",177
+Precinct 01,President,"NADER, RALPH",2
+Precinct 01,President,None Of These Candidates,5
+Precinct 01,President,"PEROUTKA, MICHAEL A.",0
 Precinct 01,"State Assembly, District 35","DeBRAGA, MARCIA",258
 Precinct 01,"State Assembly, District 35","GOICOECHEA, PETE",263
 Precinct 01,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",16
@@ -35,12 +35,12 @@ Precinct 01,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",11
 Precinct 01,"U.S. Representative in Congress, District 2","GIBBONS, JIM",398
 Precinct 01,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
 Precinct 01,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 01,United States Senator,"HURST, THOMAS L.",7
-Precinct 01,United States Senator,"MARINCH, GARY",2
-Precinct 01,United States Senator,None Of These Candidates,12
-Precinct 01,United States Senator,"REID, HARRY",255
-Precinct 01,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 01,United States Senator,"ZISER, RICHARD",254
+Precinct 01,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 01,U.S. Senate,"MARINCH, GARY",2
+Precinct 01,U.S. Senate,None Of These Candidates,12
+Precinct 01,U.S. Senate,"REID, HARRY",255
+Precinct 01,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 01,U.S. Senate,"ZISER, RICHARD",254
 Precinct 01,"University Board of Regents, District  8","AIAZZI, STAN",190
 Precinct 01,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",305
 Precinct 02,Board of School Trustees - Vote for 4,"ASH, DAVE",245
@@ -53,13 +53,13 @@ Precinct 02,County Commissioner District 1 (CW),"FREY, NORMAN W.",164
 Precinct 02,County Commissioner District 1 (CW),"MELLO, DON",200
 Precinct 02,County Commissioner District 3 (CW),"KELSEY, FRED A.",106
 Precinct 02,County Commissioner District 3 (CW),"PEARCE, LYNN",270
-Precinct 02,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 02,President and Vice President of the United States,"BUSH, GEORGE W.",264
-Precinct 02,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 02,President and Vice President of the United States,"KERRY, JOHN F.",120
-Precinct 02,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 02,President and Vice President of the United States,None Of These Candidates,0
-Precinct 02,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 02,President,"BADNARIK, MICHAEL",1
+Precinct 02,President,"BUSH, GEORGE W.",264
+Precinct 02,President,"COBB, DAVID",0
+Precinct 02,President,"KERRY, JOHN F.",120
+Precinct 02,President,"NADER, RALPH",5
+Precinct 02,President,None Of These Candidates,0
+Precinct 02,President,"PEROUTKA, MICHAEL A.",1
 Precinct 02,"State Assembly, District 35","DeBRAGA, MARCIA",178
 Precinct 02,"State Assembly, District 35","GOICOECHEA, PETE",191
 Precinct 02,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",15
@@ -79,12 +79,12 @@ Precinct 02,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",75
 Precinct 02,"U.S. Representative in Congress, District 2","GIBBONS, JIM",285
 Precinct 02,"U.S. Representative in Congress, District 2","HANSEN, JANINE",19
 Precinct 02,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-Precinct 02,United States Senator,"HURST, THOMAS L.",4
-Precinct 02,United States Senator,"MARINCH, GARY",7
-Precinct 02,United States Senator,None Of These Candidates,7
-Precinct 02,United States Senator,"REID, HARRY",186
-Precinct 02,United States Senator,"SCHUMANN, DAVID K.",4
-Precinct 02,United States Senator,"ZISER, RICHARD",181
+Precinct 02,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 02,U.S. Senate,"MARINCH, GARY",7
+Precinct 02,U.S. Senate,None Of These Candidates,7
+Precinct 02,U.S. Senate,"REID, HARRY",186
+Precinct 02,U.S. Senate,"SCHUMANN, DAVID K.",4
+Precinct 02,U.S. Senate,"ZISER, RICHARD",181
 Precinct 02,"University Board of Regents, District  8","AIAZZI, STAN",116
 Precinct 02,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",222
 Precinct 03,Board of School Trustees - Vote for 4,"ASH, DAVE",368
@@ -97,13 +97,13 @@ Precinct 03,County Commissioner District 1 (CW),"FREY, NORMAN W.",266
 Precinct 03,County Commissioner District 1 (CW),"MELLO, DON",234
 Precinct 03,County Commissioner District 3 (CW),"KELSEY, FRED A.",130
 Precinct 03,County Commissioner District 3 (CW),"PEARCE, LYNN",373
-Precinct 03,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 03,President and Vice President of the United States,"BUSH, GEORGE W.",354
-Precinct 03,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 03,President and Vice President of the United States,"KERRY, JOHN F.",156
-Precinct 03,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 03,President and Vice President of the United States,None Of These Candidates,3
-Precinct 03,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+Precinct 03,President,"BADNARIK, MICHAEL",2
+Precinct 03,President,"BUSH, GEORGE W.",354
+Precinct 03,President,"COBB, DAVID",1
+Precinct 03,President,"KERRY, JOHN F.",156
+Precinct 03,President,"NADER, RALPH",0
+Precinct 03,President,None Of These Candidates,3
+Precinct 03,President,"PEROUTKA, MICHAEL A.",3
 Precinct 03,"State Assembly, District 35","DeBRAGA, MARCIA",221
 Precinct 03,"State Assembly, District 35","GOICOECHEA, PETE",280
 Precinct 03,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",11
@@ -123,12 +123,12 @@ Precinct 03,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",10
 Precinct 03,"U.S. Representative in Congress, District 2","GIBBONS, JIM",384
 Precinct 03,"U.S. Representative in Congress, District 2","HANSEN, JANINE",23
 Precinct 03,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-Precinct 03,United States Senator,"HURST, THOMAS L.",7
-Precinct 03,United States Senator,"MARINCH, GARY",2
-Precinct 03,United States Senator,None Of These Candidates,17
-Precinct 03,United States Senator,"REID, HARRY",215
-Precinct 03,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 03,United States Senator,"ZISER, RICHARD",266
+Precinct 03,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 03,U.S. Senate,"MARINCH, GARY",2
+Precinct 03,U.S. Senate,None Of These Candidates,17
+Precinct 03,U.S. Senate,"REID, HARRY",215
+Precinct 03,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 03,U.S. Senate,"ZISER, RICHARD",266
 Precinct 03,"University Board of Regents, District  8","AIAZZI, STAN",218
 Precinct 03,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",251
 Precinct 04,Board of School Trustees - Vote for 4,"ASH, DAVE",288
@@ -141,13 +141,13 @@ Precinct 04,County Commissioner District 1 (CW),"FREY, NORMAN W.",227
 Precinct 04,County Commissioner District 1 (CW),"MELLO, DON",194
 Precinct 04,County Commissioner District 3 (CW),"KELSEY, FRED A.",124
 Precinct 04,County Commissioner District 3 (CW),"PEARCE, LYNN",299
-Precinct 04,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 04,President and Vice President of the United States,"BUSH, GEORGE W.",296
-Precinct 04,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 04,President and Vice President of the United States,"KERRY, JOHN F.",134
-Precinct 04,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 04,President and Vice President of the United States,None Of These Candidates,3
-Precinct 04,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 04,President,"BADNARIK, MICHAEL",2
+Precinct 04,President,"BUSH, GEORGE W.",296
+Precinct 04,President,"COBB, DAVID",0
+Precinct 04,President,"KERRY, JOHN F.",134
+Precinct 04,President,"NADER, RALPH",2
+Precinct 04,President,None Of These Candidates,3
+Precinct 04,President,"PEROUTKA, MICHAEL A.",0
 Precinct 04,"State Assembly, District 35","DeBRAGA, MARCIA",204
 Precinct 04,"State Assembly, District 35","GOICOECHEA, PETE",211
 Precinct 04,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",18
@@ -167,12 +167,12 @@ Precinct 04,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",87
 Precinct 04,"U.S. Representative in Congress, District 2","GIBBONS, JIM",313
 Precinct 04,"U.S. Representative in Congress, District 2","HANSEN, JANINE",23
 Precinct 04,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",8
-Precinct 04,United States Senator,"HURST, THOMAS L.",9
-Precinct 04,United States Senator,"MARINCH, GARY",2
-Precinct 04,United States Senator,None Of These Candidates,9
-Precinct 04,United States Senator,"REID, HARRY",209
-Precinct 04,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 04,United States Senator,"ZISER, RICHARD",198
+Precinct 04,U.S. Senate,"HURST, THOMAS L.",9
+Precinct 04,U.S. Senate,"MARINCH, GARY",2
+Precinct 04,U.S. Senate,None Of These Candidates,9
+Precinct 04,U.S. Senate,"REID, HARRY",209
+Precinct 04,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 04,U.S. Senate,"ZISER, RICHARD",198
 Precinct 04,"University Board of Regents, District  8","AIAZZI, STAN",147
 Precinct 04,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",243
 Precinct 05,Board of School Trustees - Vote for 4,"ASH, DAVE",324
@@ -185,13 +185,13 @@ Precinct 05,County Commissioner District 1 (CW),"FREY, NORMAN W.",263
 Precinct 05,County Commissioner District 1 (CW),"MELLO, DON",207
 Precinct 05,County Commissioner District 3 (CW),"KELSEY, FRED A.",146
 Precinct 05,County Commissioner District 3 (CW),"PEARCE, LYNN",332
-Precinct 05,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 05,President and Vice President of the United States,"BUSH, GEORGE W.",310
-Precinct 05,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 05,President and Vice President of the United States,"KERRY, JOHN F.",167
-Precinct 05,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 05,President and Vice President of the United States,None Of These Candidates,7
-Precinct 05,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 05,President,"BADNARIK, MICHAEL",3
+Precinct 05,President,"BUSH, GEORGE W.",310
+Precinct 05,President,"COBB, DAVID",1
+Precinct 05,President,"KERRY, JOHN F.",167
+Precinct 05,President,"NADER, RALPH",4
+Precinct 05,President,None Of These Candidates,7
+Precinct 05,President,"PEROUTKA, MICHAEL A.",0
 Precinct 05,"State Assembly, District 35","DeBRAGA, MARCIA",263
 Precinct 05,"State Assembly, District 35","GOICOECHEA, PETE",205
 Precinct 05,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",15
@@ -211,12 +211,12 @@ Precinct 05,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",11
 Precinct 05,"U.S. Representative in Congress, District 2","GIBBONS, JIM",337
 Precinct 05,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
 Precinct 05,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Precinct 05,United States Senator,"HURST, THOMAS L.",6
-Precinct 05,United States Senator,"MARINCH, GARY",4
-Precinct 05,United States Senator,None Of These Candidates,7
-Precinct 05,United States Senator,"REID, HARRY",253
-Precinct 05,United States Senator,"SCHUMANN, DAVID K.",9
-Precinct 05,United States Senator,"ZISER, RICHARD",209
+Precinct 05,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 05,U.S. Senate,"MARINCH, GARY",4
+Precinct 05,U.S. Senate,None Of These Candidates,7
+Precinct 05,U.S. Senate,"REID, HARRY",253
+Precinct 05,U.S. Senate,"SCHUMANN, DAVID K.",9
+Precinct 05,U.S. Senate,"ZISER, RICHARD",209
 Precinct 05,"University Board of Regents, District  8","AIAZZI, STAN",182
 Precinct 05,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",253
 Precinct 06,Board of School Trustees - Vote for 4,"ASH, DAVE",367
@@ -229,13 +229,13 @@ Precinct 06,County Commissioner District 1 (CW),"FREY, NORMAN W.",253
 Precinct 06,County Commissioner District 1 (CW),"MELLO, DON",251
 Precinct 06,County Commissioner District 3 (CW),"KELSEY, FRED A.",87
 Precinct 06,County Commissioner District 3 (CW),"PEARCE, LYNN",413
-Precinct 06,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 06,President and Vice President of the United States,"BUSH, GEORGE W.",361
-Precinct 06,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 06,President and Vice President of the United States,"KERRY, JOHN F.",146
-Precinct 06,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 06,President and Vice President of the United States,None Of These Candidates,2
-Precinct 06,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 06,President,"BADNARIK, MICHAEL",3
+Precinct 06,President,"BUSH, GEORGE W.",361
+Precinct 06,President,"COBB, DAVID",0
+Precinct 06,President,"KERRY, JOHN F.",146
+Precinct 06,President,"NADER, RALPH",2
+Precinct 06,President,None Of These Candidates,2
+Precinct 06,President,"PEROUTKA, MICHAEL A.",1
 Precinct 06,"State Assembly, District 35","DeBRAGA, MARCIA",261
 Precinct 06,"State Assembly, District 35","GOICOECHEA, PETE",244
 Precinct 06,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",7
@@ -249,12 +249,12 @@ Precinct 06,"Supreme Court Justice, Seat E","MASON, JOHN E.",186
 Precinct 06,"Supreme Court Justice, Seat E",None Of These Candidates,77
 Precinct 06,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",232
 Precinct 06,"Supreme Court Justice, Seat F","Douglas, Michael L.",204
-Precinct 07,United States Senator,"HURST, THOMAS L.",8
-Precinct 07,United States Senator,"MARINCH, GARY",3
-Precinct 07,United States Senator,None Of These Candidates,11
-Precinct 07,United States Senator,"REID, HARRY",257
-Precinct 07,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 07,United States Senator,"ZISER, RICHARD",394
+Precinct 07,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 07,U.S. Senate,"MARINCH, GARY",3
+Precinct 07,U.S. Senate,None Of These Candidates,11
+Precinct 07,U.S. Senate,"REID, HARRY",257
+Precinct 07,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 07,U.S. Senate,"ZISER, RICHARD",394
 Precinct 07,"University Board of Regents, District  8","AIAZZI, STAN",279
 Precinct 07,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",334
 Precinct 08,Board of School Trustees - Vote for 4,"ASH, DAVE",229
@@ -267,13 +267,13 @@ Precinct 08,County Commissioner District 1 (CW),"FREY, NORMAN W.",163
 Precinct 08,County Commissioner District 1 (CW),"MELLO, DON",170
 Precinct 08,County Commissioner District 3 (CW),"KELSEY, FRED A.",73
 Precinct 08,County Commissioner District 3 (CW),"PEARCE, LYNN",258
-Precinct 08,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 08,President and Vice President of the United States,"BUSH, GEORGE W.",257
-Precinct 08,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 08,President and Vice President of the United States,"KERRY, JOHN F.",85
-Precinct 08,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 08,President and Vice President of the United States,None Of These Candidates,4
-Precinct 08,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 08,President,"BADNARIK, MICHAEL",2
+Precinct 08,President,"BUSH, GEORGE W.",257
+Precinct 08,President,"COBB, DAVID",0
+Precinct 08,President,"KERRY, JOHN F.",85
+Precinct 08,President,"NADER, RALPH",3
+Precinct 08,President,None Of These Candidates,4
+Precinct 08,President,"PEROUTKA, MICHAEL A.",0
 Precinct 08,"State Assembly, District 35","DeBRAGA, MARCIA",154
 Precinct 08,"State Assembly, District 35","GOICOECHEA, PETE",184
 Precinct 08,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",5
@@ -293,12 +293,12 @@ Precinct 08,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",52
 Precinct 08,"U.S. Representative in Congress, District 2","GIBBONS, JIM",276
 Precinct 08,"U.S. Representative in Congress, District 2","HANSEN, JANINE",10
 Precinct 08,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 08,United States Senator,"HURST, THOMAS L.",1
-Precinct 08,United States Senator,"MARINCH, GARY",1
-Precinct 08,United States Senator,None Of These Candidates,6
-Precinct 08,United States Senator,"REID, HARRY",145
-Precinct 08,United States Senator,"SCHUMANN, DAVID K.",4
-Precinct 08,United States Senator,"ZISER, RICHARD",187
+Precinct 08,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 08,U.S. Senate,"MARINCH, GARY",1
+Precinct 08,U.S. Senate,None Of These Candidates,6
+Precinct 08,U.S. Senate,"REID, HARRY",145
+Precinct 08,U.S. Senate,"SCHUMANN, DAVID K.",4
+Precinct 08,U.S. Senate,"ZISER, RICHARD",187
 Precinct 08,"University Board of Regents, District  8","AIAZZI, STAN",124
 Precinct 08,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",200
 Precinct 09,Board of School Trustees - Vote for 4,"ASH, DAVE",295
@@ -311,13 +311,13 @@ Precinct 09,County Commissioner District 1 (CW),"FREY, NORMAN W.",205
 Precinct 09,County Commissioner District 1 (CW),"MELLO, DON",205
 Precinct 09,County Commissioner District 3 (CW),"KELSEY, FRED A.",81
 Precinct 09,County Commissioner District 3 (CW),"PEARCE, LYNN",327
-Precinct 09,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 09,President and Vice President of the United States,"BUSH, GEORGE W.",317
-Precinct 09,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 09,President and Vice President of the United States,"KERRY, JOHN F.",93
-Precinct 09,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 09,President and Vice President of the United States,None Of These Candidates,4
-Precinct 09,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 09,President,"BADNARIK, MICHAEL",2
+Precinct 09,President,"BUSH, GEORGE W.",317
+Precinct 09,President,"COBB, DAVID",0
+Precinct 09,President,"KERRY, JOHN F.",93
+Precinct 09,President,"NADER, RALPH",2
+Precinct 09,President,None Of These Candidates,4
+Precinct 09,President,"PEROUTKA, MICHAEL A.",0
 Precinct 09,"State Assembly, District 35","DeBRAGA, MARCIA",152
 Precinct 09,"State Assembly, District 35","GOICOECHEA, PETE",260
 Precinct 09,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",7
@@ -337,25 +337,25 @@ Precinct 09,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",56
 Precinct 09,"U.S. Representative in Congress, District 2","GIBBONS, JIM",337
 Precinct 09,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 Precinct 09,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 09,United States Senator,"HURST, THOMAS L.",4
-Precinct 09,United States Senator,"MARINCH, GARY",2
-Precinct 09,United States Senator,None Of These Candidates,8
-Precinct 09,United States Senator,"REID, HARRY",141
-Precinct 09,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 09,United States Senator,"ZISER, RICHARD",258
+Precinct 09,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 09,U.S. Senate,"MARINCH, GARY",2
+Precinct 09,U.S. Senate,None Of These Candidates,8
+Precinct 09,U.S. Senate,"REID, HARRY",141
+Precinct 09,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 09,U.S. Senate,"ZISER, RICHARD",258
 Precinct 09,"University Board of Regents, District  8","AIAZZI, STAN",191
 Precinct 09,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",189
 Precinct 10,Board of School Trustees - Vote for 4,"ASH, DAVE",485
 Precinct 10,Board of School Trustees - Vote for 4,"HINZ, PAUL",228
 Precinct 10,Board of School Trustees - Vote for 4,"KOENIG, GREGORY S.",431
 Precinct 10,Board of School Trustees - Vote for 4,"SEVON, SUE",218
-Precinct 11,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 11,President and Vice President of the United States,"BUSH, GEORGE W.",512
-Precinct 11,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 11,President and Vice President of the United States,"KERRY, JOHN F.",153
-Precinct 11,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 11,President and Vice President of the United States,None Of These Candidates,4
-Precinct 11,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 11,President,"BADNARIK, MICHAEL",1
+Precinct 11,President,"BUSH, GEORGE W.",512
+Precinct 11,President,"COBB, DAVID",1
+Precinct 11,President,"KERRY, JOHN F.",153
+Precinct 11,President,"NADER, RALPH",5
+Precinct 11,President,None Of These Candidates,4
+Precinct 11,President,"PEROUTKA, MICHAEL A.",0
 Precinct 11,"State Assembly, District 35","DeBRAGA, MARCIA",265
 Precinct 11,"State Assembly, District 35","GOICOECHEA, PETE",389
 Precinct 11,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",19
@@ -375,12 +375,12 @@ Precinct 11,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",99
 Precinct 11,"U.S. Representative in Congress, District 2","GIBBONS, JIM",550
 Precinct 11,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
 Precinct 11,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 11,United States Senator,"HURST, THOMAS L.",2
-Precinct 11,United States Senator,"MARINCH, GARY",0
-Precinct 11,United States Senator,None Of These Candidates,10
-Precinct 11,United States Senator,"REID, HARRY",269
-Precinct 11,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 11,United States Senator,"ZISER, RICHARD",386
+Precinct 11,U.S. Senate,"HURST, THOMAS L.",2
+Precinct 11,U.S. Senate,"MARINCH, GARY",0
+Precinct 11,U.S. Senate,None Of These Candidates,10
+Precinct 11,U.S. Senate,"REID, HARRY",269
+Precinct 11,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 11,U.S. Senate,"ZISER, RICHARD",386
 Precinct 11,"University Board of Regents, District  8","AIAZZI, STAN",253
 Precinct 11,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",349
 Precinct 12,Board of School Trustees - Vote for 4,"ASH, DAVE",236
@@ -393,13 +393,13 @@ Precinct 12,County Commissioner District 1 (CW),"FREY, NORMAN W.",162
 Precinct 12,County Commissioner District 1 (CW),"MELLO, DON",199
 Precinct 12,County Commissioner District 3 (CW),"KELSEY, FRED A.",80
 Precinct 12,County Commissioner District 3 (CW),"PEARCE, LYNN",290
-Precinct 12,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 12,President and Vice President of the United States,"BUSH, GEORGE W.",311
-Precinct 12,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 12,President and Vice President of the United States,"KERRY, JOHN F.",78
-Precinct 12,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 12,President and Vice President of the United States,None Of These Candidates,0
-Precinct 12,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 12,President,"BADNARIK, MICHAEL",2
+Precinct 12,President,"BUSH, GEORGE W.",311
+Precinct 12,President,"COBB, DAVID",1
+Precinct 12,President,"KERRY, JOHN F.",78
+Precinct 12,President,"NADER, RALPH",1
+Precinct 12,President,None Of These Candidates,0
+Precinct 12,President,"PEROUTKA, MICHAEL A.",2
 Precinct 12,"State Assembly, District 36","HOLMGREN, JACKIE A.",81
 Precinct 12,"State Assembly, District 36","SHERERH, RODERICK ""R",279
 Precinct 12,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",26
@@ -418,12 +418,12 @@ Precinct 12,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",52
 Precinct 12,"U.S. Representative in Congress, District 2","GIBBONS, JIM",308
 Precinct 12,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
 Precinct 12,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-Precinct 12,United States Senator,"HURST, THOMAS L.",0
-Precinct 12,United States Senator,"MARINCH, GARY",2
-Precinct 12,United States Senator,None Of These Candidates,17
-Precinct 12,United States Senator,"REID, HARRY",93
-Precinct 12,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 12,United States Senator,"ZISER, RICHARD",264
+Precinct 12,U.S. Senate,"HURST, THOMAS L.",0
+Precinct 12,U.S. Senate,"MARINCH, GARY",2
+Precinct 12,U.S. Senate,None Of These Candidates,17
+Precinct 12,U.S. Senate,"REID, HARRY",93
+Precinct 12,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 12,U.S. Senate,"ZISER, RICHARD",264
 Precinct 12,"University Board of Regents, District  8","AIAZZI, STAN",144
 Precinct 12,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",192
 Precinct 13,Board of School Trustees - Vote for 4,"ASH, DAVE",244
@@ -436,13 +436,13 @@ Precinct 13,County Commissioner District 1 (CW),"FREY, NORMAN W.",200
 Precinct 13,County Commissioner District 1 (CW),"MELLO, DON",162
 Precinct 13,County Commissioner District 3 (CW),"KELSEY, FRED A.",66
 Precinct 13,County Commissioner District 3 (CW),"PEARCE, LYNN",290
-Precinct 13,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 13,President and Vice President of the United States,"BUSH, GEORGE W.",288
-Precinct 13,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 13,President and Vice President of the United States,"KERRY, JOHN F.",76
-Precinct 13,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 13,President and Vice President of the United States,None Of These Candidates,2
-Precinct 13,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 13,President,"BADNARIK, MICHAEL",3
+Precinct 13,President,"BUSH, GEORGE W.",288
+Precinct 13,President,"COBB, DAVID",0
+Precinct 13,President,"KERRY, JOHN F.",76
+Precinct 13,President,"NADER, RALPH",3
+Precinct 13,President,None Of These Candidates,2
+Precinct 13,President,"PEROUTKA, MICHAEL A.",2
 Precinct 13,"State Assembly, District 36","HOLMGREN, JACKIE A.",75
 Precinct 13,"State Assembly, District 36","SHERERH, RODERICK ""R",270
 Precinct 13,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",24
@@ -461,12 +461,12 @@ Precinct 13,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",37
 Precinct 13,"U.S. Representative in Congress, District 2","GIBBONS, JIM",308
 Precinct 13,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 Precinct 13,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-Precinct 13,United States Senator,"HURST, THOMAS L.",6
-Precinct 13,United States Senator,"MARINCH, GARY",0
-Precinct 13,United States Senator,None Of These Candidates,6
-Precinct 13,United States Senator,"REID, HARRY",108
-Precinct 13,United States Senator,"SCHUMANN, DAVID K.",11
-Precinct 13,United States Senator,"ZISER, RICHARD",242
+Precinct 13,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 13,U.S. Senate,"MARINCH, GARY",0
+Precinct 13,U.S. Senate,None Of These Candidates,6
+Precinct 13,U.S. Senate,"REID, HARRY",108
+Precinct 13,U.S. Senate,"SCHUMANN, DAVID K.",11
+Precinct 13,U.S. Senate,"ZISER, RICHARD",242
 Precinct 13,"University Board of Regents, District  8","AIAZZI, STAN",159
 Precinct 13,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",171
 Precinct 14,Board of School Trustees - Vote for 4,"ASH, DAVE",313
@@ -479,13 +479,13 @@ Precinct 14,County Commissioner District 1 (CW),"FREY, NORMAN W.",262
 Precinct 14,County Commissioner District 1 (CW),"MELLO, DON",225
 Precinct 14,County Commissioner District 3 (CW),"KELSEY, FRED A.",99
 Precinct 14,County Commissioner District 3 (CW),"PEARCE, LYNN",382
-Precinct 14,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 14,President and Vice President of the United States,"BUSH, GEORGE W.",401
-Precinct 14,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 14,President and Vice President of the United States,"KERRY, JOHN F.",87
-Precinct 14,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 14,President and Vice President of the United States,None Of These Candidates,1
-Precinct 14,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+Precinct 14,President,"BADNARIK, MICHAEL",2
+Precinct 14,President,"BUSH, GEORGE W.",401
+Precinct 14,President,"COBB, DAVID",0
+Precinct 14,President,"KERRY, JOHN F.",87
+Precinct 14,President,"NADER, RALPH",4
+Precinct 14,President,None Of These Candidates,1
+Precinct 14,President,"PEROUTKA, MICHAEL A.",3
 Precinct 14,"State Assembly, District 36","HOLMGREN, JACKIE A.",108
 Precinct 14,"State Assembly, District 36","SHERERH, RODERICK ""R",369
 Precinct 14,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",34
@@ -504,12 +504,12 @@ Precinct 14,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",59
 Precinct 14,"U.S. Representative in Congress, District 2","GIBBONS, JIM",405
 Precinct 14,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
 Precinct 14,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-Precinct 14,United States Senator,"HURST, THOMAS L.",4
-Precinct 14,United States Senator,"MARINCH, GARY",1
-Precinct 14,United States Senator,None Of These Candidates,6
-Precinct 14,United States Senator,"REID, HARRY",145
-Precinct 14,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 14,United States Senator,"ZISER, RICHARD",327
+Precinct 14,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 14,U.S. Senate,"MARINCH, GARY",1
+Precinct 14,U.S. Senate,None Of These Candidates,6
+Precinct 14,U.S. Senate,"REID, HARRY",145
+Precinct 14,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 14,U.S. Senate,"ZISER, RICHARD",327
 Precinct 14,"University Board of Regents, District  8","AIAZZI, STAN",198
 Precinct 14,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",236
 Precinct 15,Board of School Trustees - Vote for 4,"ASH, DAVE",409
@@ -522,13 +522,13 @@ Precinct 15,County Commissioner District 1 (CW),"FREY, NORMAN W.",310
 Precinct 15,County Commissioner District 1 (CW),"MELLO, DON",283
 Precinct 15,County Commissioner District 3 (CW),"KELSEY, FRED A.",120
 Precinct 15,County Commissioner District 3 (CW),"PEARCE, LYNN",472
-Precinct 15,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 15,President and Vice President of the United States,"BUSH, GEORGE W.",466
-Precinct 15,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 15,President and Vice President of the United States,"KERRY, JOHN F.",144
-Precinct 15,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 15,President and Vice President of the United States,None Of These Candidates,3
-Precinct 15,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 15,President,"BADNARIK, MICHAEL",1
+Precinct 15,President,"BUSH, GEORGE W.",466
+Precinct 15,President,"COBB, DAVID",1
+Precinct 15,President,"KERRY, JOHN F.",144
+Precinct 15,President,"NADER, RALPH",3
+Precinct 15,President,None Of These Candidates,3
+Precinct 15,President,"PEROUTKA, MICHAEL A.",2
 Precinct 15,"State Assembly, District 36","HOLMGREN, JACKIE A.",149
 Precinct 15,"State Assembly, District 36","SHERERH, RODERICK ""R",423
 Precinct 15,"State Senate, Central Senatorial District","GREENWELL, KENNETH E.",49
@@ -547,12 +547,12 @@ Precinct 15,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",80
 Precinct 15,"U.S. Representative in Congress, District 2","GIBBONS, JIM",476
 Precinct 15,"U.S. Representative in Congress, District 2","HANSEN, JANINE",40
 Precinct 15,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",13
-Precinct 15,United States Senator,"HURST, THOMAS L.",6
-Precinct 15,United States Senator,"MARINCH, GARY",4
-Precinct 15,United States Senator,None Of These Candidates,24
-Precinct 15,United States Senator,"REID, HARRY",191
-Precinct 15,United States Senator,"SCHUMANN, DAVID K.",11
-Precinct 15,United States Senator,"ZISER, RICHARD",378
+Precinct 15,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 15,U.S. Senate,"MARINCH, GARY",4
+Precinct 15,U.S. Senate,None Of These Candidates,24
+Precinct 15,U.S. Senate,"REID, HARRY",191
+Precinct 15,U.S. Senate,"SCHUMANN, DAVID K.",11
+Precinct 15,U.S. Senate,"ZISER, RICHARD",378
 Precinct 15,"University Board of Regents, District  8","AIAZZI, STAN",257
 Precinct 15,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",292
 Precinct 16,Board of School Trustees - Vote for 4,"ASH, DAVE",267
@@ -565,13 +565,13 @@ Precinct 16,County Commissioner District 1 (CW),"FREY, NORMAN W.",201
 Precinct 16,County Commissioner District 1 (CW),"MELLO, DON",206
 Precinct 16,County Commissioner District 3 (CW),"KELSEY, FRED A.",128
 Precinct 16,County Commissioner District 3 (CW),"PEARCE, LYNN",283
-Precinct 16,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 16,President and Vice President of the United States,"BUSH, GEORGE W.",244
-Precinct 16,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 16,President and Vice President of the United States,"KERRY, JOHN F.",176
-Precinct 16,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 16,President and Vice President of the United States,None Of These Candidates,1
-Precinct 16,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 16,President,"BADNARIK, MICHAEL",1
+Precinct 16,President,"BUSH, GEORGE W.",244
+Precinct 16,President,"COBB, DAVID",0
+Precinct 16,President,"KERRY, JOHN F.",176
+Precinct 16,President,"NADER, RALPH",5
+Precinct 16,President,None Of These Candidates,1
+Precinct 16,President,"PEROUTKA, MICHAEL A.",1
 Precinct 16,"State Assembly, District 35","DeBRAGA, MARCIA",220
 Precinct 16,"State Assembly, District 35","GOICOECHEA, PETE",178
 Precinct 16,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",24
@@ -591,12 +591,12 @@ Precinct 16,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",81
 Precinct 16,"U.S. Representative in Congress, District 2","GIBBONS, JIM",309
 Precinct 16,"U.S. Representative in Congress, District 2","HANSEN, JANINE",29
 Precinct 16,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 16,United States Senator,"HURST, THOMAS L.",2
-Precinct 16,United States Senator,"MARINCH, GARY",2
-Precinct 16,United States Senator,None Of These Candidates,9
-Precinct 16,United States Senator,"REID, HARRY",215
-Precinct 16,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 16,United States Senator,"ZISER, RICHARD",194
+Precinct 16,U.S. Senate,"HURST, THOMAS L.",2
+Precinct 16,U.S. Senate,"MARINCH, GARY",2
+Precinct 16,U.S. Senate,None Of These Candidates,9
+Precinct 16,U.S. Senate,"REID, HARRY",215
+Precinct 16,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 16,U.S. Senate,"ZISER, RICHARD",194
 Precinct 16,"University Board of Regents, District  8","AIAZZI, STAN",172
 Precinct 16,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",220
 Precinct 17,Board of School Trustees - Vote for 4,"ASH, DAVE",451
@@ -609,13 +609,13 @@ Precinct 17,County Commissioner District 1 (CW),"FREY, NORMAN W.",388
 Precinct 17,County Commissioner District 1 (CW),"MELLO, DON",351
 Precinct 17,County Commissioner District 3 (CW),"KELSEY, FRED A.",184
 Precinct 17,County Commissioner District 3 (CW),"PEARCE, LYNN",559
-Precinct 17,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 17,President and Vice President of the United States,"BUSH, GEORGE W.",554
-Precinct 17,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 17,President and Vice President of the United States,"KERRY, JOHN F.",208
-Precinct 17,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 17,President and Vice President of the United States,None Of These Candidates,7
-Precinct 17,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 17,President,"BADNARIK, MICHAEL",3
+Precinct 17,President,"BUSH, GEORGE W.",554
+Precinct 17,President,"COBB, DAVID",0
+Precinct 17,President,"KERRY, JOHN F.",208
+Precinct 17,President,"NADER, RALPH",4
+Precinct 17,President,None Of These Candidates,7
+Precinct 17,President,"PEROUTKA, MICHAEL A.",1
 Precinct 17,"State Assembly, District 38","GOMEZ, DENNIS C.",33
 Precinct 17,"State Assembly, District 38","Grady, Tom",474
 Precinct 17,"State Assembly, District 38","JAMES, CATHYLEE",238
@@ -635,12 +635,12 @@ Precinct 17,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",15
 Precinct 17,"U.S. Representative in Congress, District 2","GIBBONS, JIM",579
 Precinct 17,"U.S. Representative in Congress, District 2","HANSEN, JANINE",24
 Precinct 17,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 17,United States Senator,"HURST, THOMAS L.",9
-Precinct 17,United States Senator,"MARINCH, GARY",0
-Precinct 17,United States Senator,None Of These Candidates,21
-Precinct 17,United States Senator,"REID, HARRY",322
-Precinct 17,United States Senator,"SCHUMANN, DAVID K.",9
-Precinct 17,United States Senator,"ZISER, RICHARD",401
+Precinct 17,U.S. Senate,"HURST, THOMAS L.",9
+Precinct 17,U.S. Senate,"MARINCH, GARY",0
+Precinct 17,U.S. Senate,None Of These Candidates,21
+Precinct 17,U.S. Senate,"REID, HARRY",322
+Precinct 17,U.S. Senate,"SCHUMANN, DAVID K.",9
+Precinct 17,U.S. Senate,"ZISER, RICHARD",401
 Precinct 17,"University Board of Regents, District  8","AIAZZI, STAN",258
 Precinct 17,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",438
 Precinct 18,Board of School Trustees - Vote for 4,"ASH, DAVE",561
@@ -653,13 +653,13 @@ Precinct 18,County Commissioner District 1 (CW),"FREY, NORMAN W.",458
 Precinct 18,County Commissioner District 1 (CW),"MELLO, DON",369
 Precinct 18,County Commissioner District 3 (CW),"KELSEY, FRED A.",214
 Precinct 18,County Commissioner District 3 (CW),"PEARCE, LYNN",621
-Precinct 18,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 18,President and Vice President of the United States,"BUSH, GEORGE W.",621
-Precinct 18,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 18,President and Vice President of the United States,"KERRY, JOHN F.",233
-Precinct 18,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 18,President and Vice President of the United States,None Of These Candidates,6
-Precinct 18,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+Precinct 18,President,"BADNARIK, MICHAEL",3
+Precinct 18,President,"BUSH, GEORGE W.",621
+Precinct 18,President,"COBB, DAVID",2
+Precinct 18,President,"KERRY, JOHN F.",233
+Precinct 18,President,"NADER, RALPH",5
+Precinct 18,President,None Of These Candidates,6
+Precinct 18,President,"PEROUTKA, MICHAEL A.",3
 Precinct 18,"State Assembly, District 35","DeBRAGA, MARCIA",329
 Precinct 18,"State Assembly, District 35","GOICOECHEA, PETE",505
 Precinct 18,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",22
@@ -679,12 +679,12 @@ Precinct 18,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",15
 Precinct 18,"U.S. Representative in Congress, District 2","GIBBONS, JIM",657
 Precinct 18,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
 Precinct 18,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-Precinct 18,United States Senator,"HURST, THOMAS L.",10
-Precinct 18,United States Senator,"MARINCH, GARY",2
-Precinct 18,United States Senator,None Of These Candidates,13
-Precinct 18,United States Senator,"REID, HARRY",336
-Precinct 18,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 18,United States Senator,"ZISER, RICHARD",492
+Precinct 18,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 18,U.S. Senate,"MARINCH, GARY",2
+Precinct 18,U.S. Senate,None Of These Candidates,13
+Precinct 18,U.S. Senate,"REID, HARRY",336
+Precinct 18,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 18,U.S. Senate,"ZISER, RICHARD",492
 Precinct 18,"University Board of Regents, District  8","AIAZZI, STAN",336
 Precinct 18,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",414
 Precinct 19,Board of School Trustees - Vote for 4,"ASH, DAVE",302
@@ -697,13 +697,13 @@ Precinct 19,County Commissioner District 1 (CW),"FREY, NORMAN W.",279
 Precinct 19,County Commissioner District 1 (CW),"MELLO, DON",215
 Precinct 19,County Commissioner District 3 (CW),"KELSEY, FRED A.",119
 Precinct 19,County Commissioner District 3 (CW),"PEARCE, LYNN",382
-Precinct 19,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 19,President and Vice President of the United States,"BUSH, GEORGE W.",376
-Precinct 19,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 19,President and Vice President of the United States,"KERRY, JOHN F.",127
-Precinct 19,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 19,President and Vice President of the United States,None Of These Candidates,1
-Precinct 19,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 19,President,"BADNARIK, MICHAEL",3
+Precinct 19,President,"BUSH, GEORGE W.",376
+Precinct 19,President,"COBB, DAVID",1
+Precinct 19,President,"KERRY, JOHN F.",127
+Precinct 19,President,"NADER, RALPH",4
+Precinct 19,President,None Of These Candidates,1
+Precinct 19,President,"PEROUTKA, MICHAEL A.",1
 Precinct 19,"State Assembly, District 38","GOMEZ, DENNIS C.",22
 Precinct 19,"State Assembly, District 38","Grady, Tom",345
 Precinct 19,"State Assembly, District 38","JAMES, CATHYLEE",131
@@ -723,35 +723,35 @@ Precinct 19,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",74
 Precinct 19,"U.S. Representative in Congress, District 2","GIBBONS, JIM",413
 Precinct 19,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
 Precinct 19,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-Precinct 19,United States Senator,"HURST, THOMAS L.",7
-Precinct 19,United States Senator,"MARINCH, GARY",2
-Precinct 19,United States Senator,None Of These Candidates,8
-Precinct 19,United States Senator,"REID, HARRY",157
-Precinct 19,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 19,United States Senator,"ZISER, RICHARD",329
+Precinct 19,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 19,U.S. Senate,"MARINCH, GARY",2
+Precinct 19,U.S. Senate,None Of These Candidates,8
+Precinct 19,U.S. Senate,"REID, HARRY",157
+Precinct 19,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 19,U.S. Senate,"ZISER, RICHARD",329
 Precinct 19,"University Board of Regents, District  8","AIAZZI, STAN",187
 Precinct 19,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",254
-Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",
-Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",
-Precinct 88,President and Vice President of the United States,"COBB, DAVID",
-Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
-Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",0
-Precinct 99,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",0
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 88,President,"BADNARIK, MICHAEL",
+Precinct 88,President,"BUSH, GEORGE W.",
+Precinct 88,President,"COBB, DAVID",
+Precinct 88,President,"KERRY, JOHN F.",
+Precinct 88,President,"NADER, RALPH",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"PEROUTKA, MICHAEL A.",
+Precinct 99,President,"BADNARIK, MICHAEL",0
+Precinct 99,President,"BUSH, GEORGE W.",0
+Precinct 99,President,"COBB, DAVID",0
+Precinct 99,President,"KERRY, JOHN F.",0
+Precinct 99,President,"NADER, RALPH",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"PEROUTKA, MICHAEL A.",0
 Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",0
 Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",0
 Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-Precinct 99,United States Senator,"HURST, THOMAS L.",0
-Precinct 99,United States Senator,"MARINCH, GARY",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"REID, HARRY",0
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 99,United States Senator,"ZISER, RICHARD",0
+Precinct 99,U.S. Senate,"HURST, THOMAS L.",0
+Precinct 99,U.S. Senate,"MARINCH, GARY",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"REID, HARRY",0
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 99,U.S. Senate,"ZISER, RICHARD",0

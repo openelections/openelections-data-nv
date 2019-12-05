@@ -14,18 +14,18 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",12
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",17
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",17
-01-Centerville,United States Senator (Democratic),"Berkley, Shelley",42
-01-Centerville,United States Senator (Democratic),"Brown, Steve",1
-01-Centerville,United States Senator (Democratic),"Ellsworth, Barry",2
-01-Centerville,United States Senator (Democratic),"Macias, Louis",0
-01-Centerville,United States Senator (Democratic),None Of These Candidates,0
-01-Centerville,United States Senator (Democratic),"Price, Nancy",2
-01-Centerville,United States Senator (Republican),"Brooks, Sherry",5
-01-Centerville,United States Senator (Republican),"Charles, Richard",1
-01-Centerville,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-01-Centerville,United States Senator (Republican),"Heller, Dean",172
-01-Centerville,United States Senator (Republican),None Of These Candidates,4
-01-Centerville,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+01-Centerville,U.S. Senate (Democratic),"Berkley, Shelley",42
+01-Centerville,U.S. Senate (Democratic),"Brown, Steve",1
+01-Centerville,U.S. Senate (Democratic),"Ellsworth, Barry",2
+01-Centerville,U.S. Senate (Democratic),"Macias, Louis",0
+01-Centerville,U.S. Senate (Democratic),None Of These Candidates,0
+01-Centerville,U.S. Senate (Democratic),"Price, Nancy",2
+01-Centerville,U.S. Senate (Republican),"Brooks, Sherry",5
+01-Centerville,U.S. Senate (Republican),"Charles, Richard",1
+01-Centerville,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+01-Centerville,U.S. Senate (Republican),"Heller, Dean",172
+01-Centerville,U.S. Senate (Republican),None Of These Candidates,4
+01-Centerville,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",138
 01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",37
 01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",29
@@ -44,18 +44,18 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",18
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",21
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",12
-02-Fish Springs,United States Senator (Democratic),"Berkley, Shelley",49
-02-Fish Springs,United States Senator (Democratic),"Brown, Steve",2
-02-Fish Springs,United States Senator (Democratic),"Ellsworth, Barry",2
-02-Fish Springs,United States Senator (Democratic),"Macias, Louis",0
-02-Fish Springs,United States Senator (Democratic),None Of These Candidates,3
-02-Fish Springs,United States Senator (Democratic),"Price, Nancy",9
-02-Fish Springs,United States Senator (Republican),"Brooks, Sherry",6
-02-Fish Springs,United States Senator (Republican),"Charles, Richard",3
-02-Fish Springs,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-02-Fish Springs,United States Senator (Republican),"Heller, Dean",216
-02-Fish Springs,United States Senator (Republican),None Of These Candidates,5
-02-Fish Springs,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+02-Fish Springs,U.S. Senate (Democratic),"Berkley, Shelley",49
+02-Fish Springs,U.S. Senate (Democratic),"Brown, Steve",2
+02-Fish Springs,U.S. Senate (Democratic),"Ellsworth, Barry",2
+02-Fish Springs,U.S. Senate (Democratic),"Macias, Louis",0
+02-Fish Springs,U.S. Senate (Democratic),None Of These Candidates,3
+02-Fish Springs,U.S. Senate (Democratic),"Price, Nancy",9
+02-Fish Springs,U.S. Senate (Republican),"Brooks, Sherry",6
+02-Fish Springs,U.S. Senate (Republican),"Charles, Richard",3
+02-Fish Springs,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+02-Fish Springs,U.S. Senate (Republican),"Heller, Dean",216
+02-Fish Springs,U.S. Senate (Republican),None Of These Candidates,5
+02-Fish Springs,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",184
 02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",67
 02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",28
@@ -74,18 +74,18 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",21
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",44
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",15
-03-Gardnerville,United States Senator (Democratic),"Berkley, Shelley",66
-03-Gardnerville,United States Senator (Democratic),"Brown, Steve",10
-03-Gardnerville,United States Senator (Democratic),"Ellsworth, Barry",3
-03-Gardnerville,United States Senator (Democratic),"Macias, Louis",0
-03-Gardnerville,United States Senator (Democratic),None Of These Candidates,4
-03-Gardnerville,United States Senator (Democratic),"Price, Nancy",3
-03-Gardnerville,United States Senator (Republican),"Brooks, Sherry",7
-03-Gardnerville,United States Senator (Republican),"Charles, Richard",2
-03-Gardnerville,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",6
-03-Gardnerville,United States Senator (Republican),"Heller, Dean",176
-03-Gardnerville,United States Senator (Republican),None Of These Candidates,5
-03-Gardnerville,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+03-Gardnerville,U.S. Senate (Democratic),"Berkley, Shelley",66
+03-Gardnerville,U.S. Senate (Democratic),"Brown, Steve",10
+03-Gardnerville,U.S. Senate (Democratic),"Ellsworth, Barry",3
+03-Gardnerville,U.S. Senate (Democratic),"Macias, Louis",0
+03-Gardnerville,U.S. Senate (Democratic),None Of These Candidates,4
+03-Gardnerville,U.S. Senate (Democratic),"Price, Nancy",3
+03-Gardnerville,U.S. Senate (Republican),"Brooks, Sherry",7
+03-Gardnerville,U.S. Senate (Republican),"Charles, Richard",2
+03-Gardnerville,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",6
+03-Gardnerville,U.S. Senate (Republican),"Heller, Dean",176
+03-Gardnerville,U.S. Senate (Republican),None Of These Candidates,5
+03-Gardnerville,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",167
 03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",66
 03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",29
@@ -104,18 +104,18 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",12
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",17
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",14
-04-Carson Valley Estates,United States Senator (Democratic),"Berkley, Shelley",39
-04-Carson Valley Estates,United States Senator (Democratic),"Brown, Steve",1
-04-Carson Valley Estates,United States Senator (Democratic),"Ellsworth, Barry",2
-04-Carson Valley Estates,United States Senator (Democratic),"Macias, Louis",0
-04-Carson Valley Estates,United States Senator (Democratic),None Of These Candidates,4
-04-Carson Valley Estates,United States Senator (Democratic),"Price, Nancy",4
-04-Carson Valley Estates,United States Senator (Republican),"Brooks, Sherry",8
-04-Carson Valley Estates,United States Senator (Republican),"Charles, Richard",3
-04-Carson Valley Estates,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-04-Carson Valley Estates,United States Senator (Republican),"Heller, Dean",92
-04-Carson Valley Estates,United States Senator (Republican),None Of These Candidates,2
-04-Carson Valley Estates,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+04-Carson Valley Estates,U.S. Senate (Democratic),"Berkley, Shelley",39
+04-Carson Valley Estates,U.S. Senate (Democratic),"Brown, Steve",1
+04-Carson Valley Estates,U.S. Senate (Democratic),"Ellsworth, Barry",2
+04-Carson Valley Estates,U.S. Senate (Democratic),"Macias, Louis",0
+04-Carson Valley Estates,U.S. Senate (Democratic),None Of These Candidates,4
+04-Carson Valley Estates,U.S. Senate (Democratic),"Price, Nancy",4
+04-Carson Valley Estates,U.S. Senate (Republican),"Brooks, Sherry",8
+04-Carson Valley Estates,U.S. Senate (Republican),"Charles, Richard",3
+04-Carson Valley Estates,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Heller, Dean",92
+04-Carson Valley Estates,U.S. Senate (Republican),None Of These Candidates,2
+04-Carson Valley Estates,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",84
 04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",39
 04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",22
@@ -134,18 +134,18 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",7
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",16
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",13
-05-Genoa,United States Senator (Democratic),"Berkley, Shelley",33
-05-Genoa,United States Senator (Democratic),"Brown, Steve",0
-05-Genoa,United States Senator (Democratic),"Ellsworth, Barry",0
-05-Genoa,United States Senator (Democratic),"Macias, Louis",0
-05-Genoa,United States Senator (Democratic),None Of These Candidates,2
-05-Genoa,United States Senator (Democratic),"Price, Nancy",5
-05-Genoa,United States Senator (Republican),"Brooks, Sherry",4
-05-Genoa,United States Senator (Republican),"Charles, Richard",2
-05-Genoa,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",5
-05-Genoa,United States Senator (Republican),"Heller, Dean",181
-05-Genoa,United States Senator (Republican),None Of These Candidates,2
-05-Genoa,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+05-Genoa,U.S. Senate (Democratic),"Berkley, Shelley",33
+05-Genoa,U.S. Senate (Democratic),"Brown, Steve",0
+05-Genoa,U.S. Senate (Democratic),"Ellsworth, Barry",0
+05-Genoa,U.S. Senate (Democratic),"Macias, Louis",0
+05-Genoa,U.S. Senate (Democratic),None Of These Candidates,2
+05-Genoa,U.S. Senate (Democratic),"Price, Nancy",5
+05-Genoa,U.S. Senate (Republican),"Brooks, Sherry",4
+05-Genoa,U.S. Senate (Republican),"Charles, Richard",2
+05-Genoa,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",5
+05-Genoa,U.S. Senate (Republican),"Heller, Dean",181
+05-Genoa,U.S. Senate (Republican),None Of These Candidates,2
+05-Genoa,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",155
 05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",57
 05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",22
@@ -164,18 +164,18 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",18
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",29
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",34
-06-Jacks Valley,United States Senator (Democratic),"Berkley, Shelley",78
-06-Jacks Valley,United States Senator (Democratic),"Brown, Steve",3
-06-Jacks Valley,United States Senator (Democratic),"Ellsworth, Barry",3
-06-Jacks Valley,United States Senator (Democratic),"Macias, Louis",3
-06-Jacks Valley,United States Senator (Democratic),None Of These Candidates,5
-06-Jacks Valley,United States Senator (Democratic),"Price, Nancy",4
-06-Jacks Valley,United States Senator (Republican),"Brooks, Sherry",7
-06-Jacks Valley,United States Senator (Republican),"Charles, Richard",3
-06-Jacks Valley,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-06-Jacks Valley,United States Senator (Republican),"Heller, Dean",160
-06-Jacks Valley,United States Senator (Republican),None Of These Candidates,3
-06-Jacks Valley,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+06-Jacks Valley,U.S. Senate (Democratic),"Berkley, Shelley",78
+06-Jacks Valley,U.S. Senate (Democratic),"Brown, Steve",3
+06-Jacks Valley,U.S. Senate (Democratic),"Ellsworth, Barry",3
+06-Jacks Valley,U.S. Senate (Democratic),"Macias, Louis",3
+06-Jacks Valley,U.S. Senate (Democratic),None Of These Candidates,5
+06-Jacks Valley,U.S. Senate (Democratic),"Price, Nancy",4
+06-Jacks Valley,U.S. Senate (Republican),"Brooks, Sherry",7
+06-Jacks Valley,U.S. Senate (Republican),"Charles, Richard",3
+06-Jacks Valley,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+06-Jacks Valley,U.S. Senate (Republican),"Heller, Dean",160
+06-Jacks Valley,U.S. Senate (Republican),None Of These Candidates,3
+06-Jacks Valley,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",159
 06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",73
 06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",25
@@ -194,18 +194,18 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",9
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",26
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",17
-07-Minden,United States Senator (Democratic),"Berkley, Shelley",49
-07-Minden,United States Senator (Democratic),"Brown, Steve",3
-07-Minden,United States Senator (Democratic),"Ellsworth, Barry",1
-07-Minden,United States Senator (Democratic),"Macias, Louis",0
-07-Minden,United States Senator (Democratic),None Of These Candidates,2
-07-Minden,United States Senator (Democratic),"Price, Nancy",5
-07-Minden,United States Senator (Republican),"Brooks, Sherry",8
-07-Minden,United States Senator (Republican),"Charles, Richard",2
-07-Minden,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-07-Minden,United States Senator (Republican),"Heller, Dean",180
-07-Minden,United States Senator (Republican),None Of These Candidates,8
-07-Minden,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+07-Minden,U.S. Senate (Democratic),"Berkley, Shelley",49
+07-Minden,U.S. Senate (Democratic),"Brown, Steve",3
+07-Minden,U.S. Senate (Democratic),"Ellsworth, Barry",1
+07-Minden,U.S. Senate (Democratic),"Macias, Louis",0
+07-Minden,U.S. Senate (Democratic),None Of These Candidates,2
+07-Minden,U.S. Senate (Democratic),"Price, Nancy",5
+07-Minden,U.S. Senate (Republican),"Brooks, Sherry",8
+07-Minden,U.S. Senate (Republican),"Charles, Richard",2
+07-Minden,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+07-Minden,U.S. Senate (Republican),"Heller, Dean",180
+07-Minden,U.S. Senate (Republican),None Of These Candidates,8
+07-Minden,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 07-Minden,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",123
 07-Minden,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",81
 07-Minden,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",28
@@ -224,18 +224,18 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",27
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",35
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",11
-08-Ranchos I,United States Senator (Democratic),"Berkley, Shelley",52
-08-Ranchos I,United States Senator (Democratic),"Brown, Steve",11
-08-Ranchos I,United States Senator (Democratic),"Ellsworth, Barry",0
-08-Ranchos I,United States Senator (Democratic),"Macias, Louis",0
-08-Ranchos I,United States Senator (Democratic),None Of These Candidates,5
-08-Ranchos I,United States Senator (Democratic),"Price, Nancy",10
-08-Ranchos I,United States Senator (Republican),"Brooks, Sherry",16
-08-Ranchos I,United States Senator (Republican),"Charles, Richard",4
-08-Ranchos I,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
-08-Ranchos I,United States Senator (Republican),"Heller, Dean",164
-08-Ranchos I,United States Senator (Republican),None Of These Candidates,5
-08-Ranchos I,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",2
+08-Ranchos I,U.S. Senate (Democratic),"Berkley, Shelley",52
+08-Ranchos I,U.S. Senate (Democratic),"Brown, Steve",11
+08-Ranchos I,U.S. Senate (Democratic),"Ellsworth, Barry",0
+08-Ranchos I,U.S. Senate (Democratic),"Macias, Louis",0
+08-Ranchos I,U.S. Senate (Democratic),None Of These Candidates,5
+08-Ranchos I,U.S. Senate (Democratic),"Price, Nancy",10
+08-Ranchos I,U.S. Senate (Republican),"Brooks, Sherry",16
+08-Ranchos I,U.S. Senate (Republican),"Charles, Richard",4
+08-Ranchos I,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
+08-Ranchos I,U.S. Senate (Republican),"Heller, Dean",164
+08-Ranchos I,U.S. Senate (Republican),None Of These Candidates,5
+08-Ranchos I,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",2
 08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",148
 08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",63
 08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",42
@@ -254,18 +254,18 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",13
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",20
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",13
-09-Ranchos II,United States Senator (Democratic),"Berkley, Shelley",28
-09-Ranchos II,United States Senator (Democratic),"Brown, Steve",3
-09-Ranchos II,United States Senator (Democratic),"Ellsworth, Barry",7
-09-Ranchos II,United States Senator (Democratic),"Macias, Louis",0
-09-Ranchos II,United States Senator (Democratic),None Of These Candidates,2
-09-Ranchos II,United States Senator (Democratic),"Price, Nancy",8
-09-Ranchos II,United States Senator (Republican),"Brooks, Sherry",2
-09-Ranchos II,United States Senator (Republican),"Charles, Richard",1
-09-Ranchos II,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-09-Ranchos II,United States Senator (Republican),"Heller, Dean",90
-09-Ranchos II,United States Senator (Republican),None Of These Candidates,3
-09-Ranchos II,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+09-Ranchos II,U.S. Senate (Democratic),"Berkley, Shelley",28
+09-Ranchos II,U.S. Senate (Democratic),"Brown, Steve",3
+09-Ranchos II,U.S. Senate (Democratic),"Ellsworth, Barry",7
+09-Ranchos II,U.S. Senate (Democratic),"Macias, Louis",0
+09-Ranchos II,U.S. Senate (Democratic),None Of These Candidates,2
+09-Ranchos II,U.S. Senate (Democratic),"Price, Nancy",8
+09-Ranchos II,U.S. Senate (Republican),"Brooks, Sherry",2
+09-Ranchos II,U.S. Senate (Republican),"Charles, Richard",1
+09-Ranchos II,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+09-Ranchos II,U.S. Senate (Republican),"Heller, Dean",90
+09-Ranchos II,U.S. Senate (Republican),None Of These Candidates,3
+09-Ranchos II,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",82
 09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",35
 09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",26
@@ -284,18 +284,18 @@ precinct,office,candidate,votes
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",14
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",24
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",18
-10-TRE,United States Senator (Democratic),"Berkley, Shelley",45
-10-TRE,United States Senator (Democratic),"Brown, Steve",5
-10-TRE,United States Senator (Democratic),"Ellsworth, Barry",2
-10-TRE,United States Senator (Democratic),"Macias, Louis",1
-10-TRE,United States Senator (Democratic),None Of These Candidates,6
-10-TRE,United States Senator (Democratic),"Price, Nancy",4
-10-TRE,United States Senator (Republican),"Brooks, Sherry",10
-10-TRE,United States Senator (Republican),"Charles, Richard",5
-10-TRE,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-10-TRE,United States Senator (Republican),"Heller, Dean",139
-10-TRE,United States Senator (Republican),None Of These Candidates,6
-10-TRE,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",2
+10-TRE,U.S. Senate (Democratic),"Berkley, Shelley",45
+10-TRE,U.S. Senate (Democratic),"Brown, Steve",5
+10-TRE,U.S. Senate (Democratic),"Ellsworth, Barry",2
+10-TRE,U.S. Senate (Democratic),"Macias, Louis",1
+10-TRE,U.S. Senate (Democratic),None Of These Candidates,6
+10-TRE,U.S. Senate (Democratic),"Price, Nancy",4
+10-TRE,U.S. Senate (Republican),"Brooks, Sherry",10
+10-TRE,U.S. Senate (Republican),"Charles, Richard",5
+10-TRE,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+10-TRE,U.S. Senate (Republican),"Heller, Dean",139
+10-TRE,U.S. Senate (Republican),None Of These Candidates,6
+10-TRE,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",2
 10-TRE,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",120
 10-TRE,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",36
 10-TRE,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",42
@@ -314,18 +314,18 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",19
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",25
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",22
-11-Johnson Lane,United States Senator (Democratic),"Berkley, Shelley",47
-11-Johnson Lane,United States Senator (Democratic),"Brown, Steve",3
-11-Johnson Lane,United States Senator (Democratic),"Ellsworth, Barry",5
-11-Johnson Lane,United States Senator (Democratic),"Macias, Louis",0
-11-Johnson Lane,United States Senator (Democratic),None Of These Candidates,6
-11-Johnson Lane,United States Senator (Democratic),"Price, Nancy",9
-11-Johnson Lane,United States Senator (Republican),"Brooks, Sherry",9
-11-Johnson Lane,United States Senator (Republican),"Charles, Richard",2
-11-Johnson Lane,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-11-Johnson Lane,United States Senator (Republican),"Heller, Dean",148
-11-Johnson Lane,United States Senator (Republican),None Of These Candidates,7
-11-Johnson Lane,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+11-Johnson Lane,U.S. Senate (Democratic),"Berkley, Shelley",47
+11-Johnson Lane,U.S. Senate (Democratic),"Brown, Steve",3
+11-Johnson Lane,U.S. Senate (Democratic),"Ellsworth, Barry",5
+11-Johnson Lane,U.S. Senate (Democratic),"Macias, Louis",0
+11-Johnson Lane,U.S. Senate (Democratic),None Of These Candidates,6
+11-Johnson Lane,U.S. Senate (Democratic),"Price, Nancy",9
+11-Johnson Lane,U.S. Senate (Republican),"Brooks, Sherry",9
+11-Johnson Lane,U.S. Senate (Republican),"Charles, Richard",2
+11-Johnson Lane,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+11-Johnson Lane,U.S. Senate (Republican),"Heller, Dean",148
+11-Johnson Lane,U.S. Senate (Republican),None Of These Candidates,7
+11-Johnson Lane,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",138
 11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",63
 11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",32
@@ -344,18 +344,18 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",2
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",3
-12-Dresslerville,United States Senator (Democratic),"Berkley, Shelley",8
-12-Dresslerville,United States Senator (Democratic),"Brown, Steve",1
-12-Dresslerville,United States Senator (Democratic),"Ellsworth, Barry",0
-12-Dresslerville,United States Senator (Democratic),"Macias, Louis",0
-12-Dresslerville,United States Senator (Democratic),None Of These Candidates,1
-12-Dresslerville,United States Senator (Democratic),"Price, Nancy",1
-12-Dresslerville,United States Senator (Republican),"Brooks, Sherry",
-12-Dresslerville,United States Senator (Republican),"Charles, Richard",
-12-Dresslerville,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
-12-Dresslerville,United States Senator (Republican),"Heller, Dean",
-12-Dresslerville,United States Senator (Republican),None Of These Candidates,
-12-Dresslerville,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",
+12-Dresslerville,U.S. Senate (Democratic),"Berkley, Shelley",8
+12-Dresslerville,U.S. Senate (Democratic),"Brown, Steve",1
+12-Dresslerville,U.S. Senate (Democratic),"Ellsworth, Barry",0
+12-Dresslerville,U.S. Senate (Democratic),"Macias, Louis",0
+12-Dresslerville,U.S. Senate (Democratic),None Of These Candidates,1
+12-Dresslerville,U.S. Senate (Democratic),"Price, Nancy",1
+12-Dresslerville,U.S. Senate (Republican),"Brooks, Sherry",
+12-Dresslerville,U.S. Senate (Republican),"Charles, Richard",
+12-Dresslerville,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
+12-Dresslerville,U.S. Senate (Republican),"Heller, Dean",
+12-Dresslerville,U.S. Senate (Republican),None Of These Candidates,
+12-Dresslerville,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
 12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",8
 12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",6
 12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",1
@@ -374,18 +374,18 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",23
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",17
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",13
-13-Indian Hills - West,United States Senator (Democratic),"Berkley, Shelley",37
-13-Indian Hills - West,United States Senator (Democratic),"Brown, Steve",7
-13-Indian Hills - West,United States Senator (Democratic),"Ellsworth, Barry",2
-13-Indian Hills - West,United States Senator (Democratic),"Macias, Louis",0
-13-Indian Hills - West,United States Senator (Democratic),None Of These Candidates,3
-13-Indian Hills - West,United States Senator (Democratic),"Price, Nancy",4
-13-Indian Hills - West,United States Senator (Republican),"Brooks, Sherry",9
-13-Indian Hills - West,United States Senator (Republican),"Charles, Richard",0
-13-Indian Hills - West,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-13-Indian Hills - West,United States Senator (Republican),"Heller, Dean",109
-13-Indian Hills - West,United States Senator (Republican),None Of These Candidates,1
-13-Indian Hills - West,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+13-Indian Hills - West,U.S. Senate (Democratic),"Berkley, Shelley",37
+13-Indian Hills - West,U.S. Senate (Democratic),"Brown, Steve",7
+13-Indian Hills - West,U.S. Senate (Democratic),"Ellsworth, Barry",2
+13-Indian Hills - West,U.S. Senate (Democratic),"Macias, Louis",0
+13-Indian Hills - West,U.S. Senate (Democratic),None Of These Candidates,3
+13-Indian Hills - West,U.S. Senate (Democratic),"Price, Nancy",4
+13-Indian Hills - West,U.S. Senate (Republican),"Brooks, Sherry",9
+13-Indian Hills - West,U.S. Senate (Republican),"Charles, Richard",0
+13-Indian Hills - West,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+13-Indian Hills - West,U.S. Senate (Republican),"Heller, Dean",109
+13-Indian Hills - West,U.S. Senate (Republican),None Of These Candidates,1
+13-Indian Hills - West,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",115
 13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",34
 13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",13
@@ -404,18 +404,18 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",6
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",19
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",11
-14-Pinenut,United States Senator (Democratic),"Berkley, Shelley",27
-14-Pinenut,United States Senator (Democratic),"Brown, Steve",2
-14-Pinenut,United States Senator (Democratic),"Ellsworth, Barry",2
-14-Pinenut,United States Senator (Democratic),"Macias, Louis",0
-14-Pinenut,United States Senator (Democratic),None Of These Candidates,3
-14-Pinenut,United States Senator (Democratic),"Price, Nancy",5
-14-Pinenut,United States Senator (Republican),"Brooks, Sherry",6
-14-Pinenut,United States Senator (Republican),"Charles, Richard",3
-14-Pinenut,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-14-Pinenut,United States Senator (Republican),"Heller, Dean",194
-14-Pinenut,United States Senator (Republican),None Of These Candidates,7
-14-Pinenut,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+14-Pinenut,U.S. Senate (Democratic),"Berkley, Shelley",27
+14-Pinenut,U.S. Senate (Democratic),"Brown, Steve",2
+14-Pinenut,U.S. Senate (Democratic),"Ellsworth, Barry",2
+14-Pinenut,U.S. Senate (Democratic),"Macias, Louis",0
+14-Pinenut,U.S. Senate (Democratic),None Of These Candidates,3
+14-Pinenut,U.S. Senate (Democratic),"Price, Nancy",5
+14-Pinenut,U.S. Senate (Republican),"Brooks, Sherry",6
+14-Pinenut,U.S. Senate (Republican),"Charles, Richard",3
+14-Pinenut,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+14-Pinenut,U.S. Senate (Republican),"Heller, Dean",194
+14-Pinenut,U.S. Senate (Republican),None Of These Candidates,7
+14-Pinenut,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",148
 14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",44
 14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",26
@@ -434,18 +434,18 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",11
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",6
-15-Valley,United States Senator (Democratic),"Berkley, Shelley",15
-15-Valley,United States Senator (Democratic),"Brown, Steve",2
-15-Valley,United States Senator (Democratic),"Ellsworth, Barry",5
-15-Valley,United States Senator (Democratic),"Macias, Louis",0
-15-Valley,United States Senator (Democratic),None Of These Candidates,1
-15-Valley,United States Senator (Democratic),"Price, Nancy",0
-15-Valley,United States Senator (Republican),"Brooks, Sherry",2
-15-Valley,United States Senator (Republican),"Charles, Richard",0
-15-Valley,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-15-Valley,United States Senator (Republican),"Heller, Dean",80
-15-Valley,United States Senator (Republican),None Of These Candidates,1
-15-Valley,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+15-Valley,U.S. Senate (Democratic),"Berkley, Shelley",15
+15-Valley,U.S. Senate (Democratic),"Brown, Steve",2
+15-Valley,U.S. Senate (Democratic),"Ellsworth, Barry",5
+15-Valley,U.S. Senate (Democratic),"Macias, Louis",0
+15-Valley,U.S. Senate (Democratic),None Of These Candidates,1
+15-Valley,U.S. Senate (Democratic),"Price, Nancy",0
+15-Valley,U.S. Senate (Republican),"Brooks, Sherry",2
+15-Valley,U.S. Senate (Republican),"Charles, Richard",0
+15-Valley,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+15-Valley,U.S. Senate (Republican),"Heller, Dean",80
+15-Valley,U.S. Senate (Republican),None Of These Candidates,1
+15-Valley,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 15-Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",69
 15-Valley,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",14
 15-Valley,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",7
@@ -464,18 +464,18 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",4
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",3
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",8
-16-Mottsville,United States Senator (Democratic),"Berkley, Shelley",13
-16-Mottsville,United States Senator (Democratic),"Brown, Steve",0
-16-Mottsville,United States Senator (Democratic),"Ellsworth, Barry",0
-16-Mottsville,United States Senator (Democratic),"Macias, Louis",0
-16-Mottsville,United States Senator (Democratic),None Of These Candidates,1
-16-Mottsville,United States Senator (Democratic),"Price, Nancy",3
-16-Mottsville,United States Senator (Republican),"Brooks, Sherry",6
-16-Mottsville,United States Senator (Republican),"Charles, Richard",2
-16-Mottsville,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
-16-Mottsville,United States Senator (Republican),"Heller, Dean",179
-16-Mottsville,United States Senator (Republican),None Of These Candidates,2
-16-Mottsville,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+16-Mottsville,U.S. Senate (Democratic),"Berkley, Shelley",13
+16-Mottsville,U.S. Senate (Democratic),"Brown, Steve",0
+16-Mottsville,U.S. Senate (Democratic),"Ellsworth, Barry",0
+16-Mottsville,U.S. Senate (Democratic),"Macias, Louis",0
+16-Mottsville,U.S. Senate (Democratic),None Of These Candidates,1
+16-Mottsville,U.S. Senate (Democratic),"Price, Nancy",3
+16-Mottsville,U.S. Senate (Republican),"Brooks, Sherry",6
+16-Mottsville,U.S. Senate (Republican),"Charles, Richard",2
+16-Mottsville,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
+16-Mottsville,U.S. Senate (Republican),"Heller, Dean",179
+16-Mottsville,U.S. Senate (Republican),None Of These Candidates,2
+16-Mottsville,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",127
 16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",27
 16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",26
@@ -494,18 +494,18 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",3
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",25
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",26
-17-Ruhenstroth,United States Senator (Democratic),"Berkley, Shelley",53
-17-Ruhenstroth,United States Senator (Democratic),"Brown, Steve",1
-17-Ruhenstroth,United States Senator (Democratic),"Ellsworth, Barry",0
-17-Ruhenstroth,United States Senator (Democratic),"Macias, Louis",0
-17-Ruhenstroth,United States Senator (Democratic),None Of These Candidates,5
-17-Ruhenstroth,United States Senator (Democratic),"Price, Nancy",3
-17-Ruhenstroth,United States Senator (Republican),"Brooks, Sherry",12
-17-Ruhenstroth,United States Senator (Republican),"Charles, Richard",3
-17-Ruhenstroth,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",6
-17-Ruhenstroth,United States Senator (Republican),"Heller, Dean",259
-17-Ruhenstroth,United States Senator (Republican),None Of These Candidates,12
-17-Ruhenstroth,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+17-Ruhenstroth,U.S. Senate (Democratic),"Berkley, Shelley",53
+17-Ruhenstroth,U.S. Senate (Democratic),"Brown, Steve",1
+17-Ruhenstroth,U.S. Senate (Democratic),"Ellsworth, Barry",0
+17-Ruhenstroth,U.S. Senate (Democratic),"Macias, Louis",0
+17-Ruhenstroth,U.S. Senate (Democratic),None Of These Candidates,5
+17-Ruhenstroth,U.S. Senate (Democratic),"Price, Nancy",3
+17-Ruhenstroth,U.S. Senate (Republican),"Brooks, Sherry",12
+17-Ruhenstroth,U.S. Senate (Republican),"Charles, Richard",3
+17-Ruhenstroth,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",6
+17-Ruhenstroth,U.S. Senate (Republican),"Heller, Dean",259
+17-Ruhenstroth,U.S. Senate (Republican),None Of These Candidates,12
+17-Ruhenstroth,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",207
 17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",74
 17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",51
@@ -524,18 +524,18 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",2
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",17
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",9
-18-Ranchos III,United States Senator (Democratic),"Berkley, Shelley",19
-18-Ranchos III,United States Senator (Democratic),"Brown, Steve",2
-18-Ranchos III,United States Senator (Democratic),"Ellsworth, Barry",1
-18-Ranchos III,United States Senator (Democratic),"Macias, Louis",0
-18-Ranchos III,United States Senator (Democratic),None Of These Candidates,3
-18-Ranchos III,United States Senator (Democratic),"Price, Nancy",6
-18-Ranchos III,United States Senator (Republican),"Brooks, Sherry",2
-18-Ranchos III,United States Senator (Republican),"Charles, Richard",3
-18-Ranchos III,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-18-Ranchos III,United States Senator (Republican),"Heller, Dean",82
-18-Ranchos III,United States Senator (Republican),None Of These Candidates,3
-18-Ranchos III,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+18-Ranchos III,U.S. Senate (Democratic),"Berkley, Shelley",19
+18-Ranchos III,U.S. Senate (Democratic),"Brown, Steve",2
+18-Ranchos III,U.S. Senate (Democratic),"Ellsworth, Barry",1
+18-Ranchos III,U.S. Senate (Democratic),"Macias, Louis",0
+18-Ranchos III,U.S. Senate (Democratic),None Of These Candidates,3
+18-Ranchos III,U.S. Senate (Democratic),"Price, Nancy",6
+18-Ranchos III,U.S. Senate (Republican),"Brooks, Sherry",2
+18-Ranchos III,U.S. Senate (Republican),"Charles, Richard",3
+18-Ranchos III,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+18-Ranchos III,U.S. Senate (Republican),"Heller, Dean",82
+18-Ranchos III,U.S. Senate (Republican),None Of These Candidates,3
+18-Ranchos III,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",82
 18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",18
 18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",11
@@ -554,18 +554,18 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",10
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",12
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",14
-19-Ranchos IV,United States Senator (Democratic),"Berkley, Shelley",31
-19-Ranchos IV,United States Senator (Democratic),"Brown, Steve",3
-19-Ranchos IV,United States Senator (Democratic),"Ellsworth, Barry",6
-19-Ranchos IV,United States Senator (Democratic),"Macias, Louis",0
-19-Ranchos IV,United States Senator (Democratic),None Of These Candidates,2
-19-Ranchos IV,United States Senator (Democratic),"Price, Nancy",3
-19-Ranchos IV,United States Senator (Republican),"Brooks, Sherry",1
-19-Ranchos IV,United States Senator (Republican),"Charles, Richard",1
-19-Ranchos IV,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-19-Ranchos IV,United States Senator (Republican),"Heller, Dean",142
-19-Ranchos IV,United States Senator (Republican),None Of These Candidates,2
-19-Ranchos IV,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+19-Ranchos IV,U.S. Senate (Democratic),"Berkley, Shelley",31
+19-Ranchos IV,U.S. Senate (Democratic),"Brown, Steve",3
+19-Ranchos IV,U.S. Senate (Democratic),"Ellsworth, Barry",6
+19-Ranchos IV,U.S. Senate (Democratic),"Macias, Louis",0
+19-Ranchos IV,U.S. Senate (Democratic),None Of These Candidates,2
+19-Ranchos IV,U.S. Senate (Democratic),"Price, Nancy",3
+19-Ranchos IV,U.S. Senate (Republican),"Brooks, Sherry",1
+19-Ranchos IV,U.S. Senate (Republican),"Charles, Richard",1
+19-Ranchos IV,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+19-Ranchos IV,U.S. Senate (Republican),"Heller, Dean",142
+19-Ranchos IV,U.S. Senate (Republican),None Of These Candidates,2
+19-Ranchos IV,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",129
 19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",38
 19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",15
@@ -584,18 +584,18 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",11
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",22
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",16
-20-Birch/Ranchos,United States Senator (Democratic),"Berkley, Shelley",41
-20-Birch/Ranchos,United States Senator (Democratic),"Brown, Steve",4
-20-Birch/Ranchos,United States Senator (Democratic),"Ellsworth, Barry",4
-20-Birch/Ranchos,United States Senator (Democratic),"Macias, Louis",0
-20-Birch/Ranchos,United States Senator (Democratic),None Of These Candidates,4
-20-Birch/Ranchos,United States Senator (Democratic),"Price, Nancy",4
-20-Birch/Ranchos,United States Senator (Republican),"Brooks, Sherry",6
-20-Birch/Ranchos,United States Senator (Republican),"Charles, Richard",0
-20-Birch/Ranchos,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
-20-Birch/Ranchos,United States Senator (Republican),"Heller, Dean",84
-20-Birch/Ranchos,United States Senator (Republican),None Of These Candidates,0
-20-Birch/Ranchos,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+20-Birch/Ranchos,U.S. Senate (Democratic),"Berkley, Shelley",41
+20-Birch/Ranchos,U.S. Senate (Democratic),"Brown, Steve",4
+20-Birch/Ranchos,U.S. Senate (Democratic),"Ellsworth, Barry",4
+20-Birch/Ranchos,U.S. Senate (Democratic),"Macias, Louis",0
+20-Birch/Ranchos,U.S. Senate (Democratic),None Of These Candidates,4
+20-Birch/Ranchos,U.S. Senate (Democratic),"Price, Nancy",4
+20-Birch/Ranchos,U.S. Senate (Republican),"Brooks, Sherry",6
+20-Birch/Ranchos,U.S. Senate (Republican),"Charles, Richard",0
+20-Birch/Ranchos,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
+20-Birch/Ranchos,U.S. Senate (Republican),"Heller, Dean",84
+20-Birch/Ranchos,U.S. Senate (Republican),None Of These Candidates,0
+20-Birch/Ranchos,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",91
 20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",27
 20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",19
@@ -614,18 +614,18 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",18
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",26
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",9
-21-Wildhorse,United States Senator (Democratic),"Berkley, Shelley",43
-21-Wildhorse,United States Senator (Democratic),"Brown, Steve",3
-21-Wildhorse,United States Senator (Democratic),"Ellsworth, Barry",1
-21-Wildhorse,United States Senator (Democratic),"Macias, Louis",0
-21-Wildhorse,United States Senator (Democratic),None Of These Candidates,2
-21-Wildhorse,United States Senator (Democratic),"Price, Nancy",6
-21-Wildhorse,United States Senator (Republican),"Brooks, Sherry",9
-21-Wildhorse,United States Senator (Republican),"Charles, Richard",4
-21-Wildhorse,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-21-Wildhorse,United States Senator (Republican),"Heller, Dean",214
-21-Wildhorse,United States Senator (Republican),None Of These Candidates,6
-21-Wildhorse,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+21-Wildhorse,U.S. Senate (Democratic),"Berkley, Shelley",43
+21-Wildhorse,U.S. Senate (Democratic),"Brown, Steve",3
+21-Wildhorse,U.S. Senate (Democratic),"Ellsworth, Barry",1
+21-Wildhorse,U.S. Senate (Democratic),"Macias, Louis",0
+21-Wildhorse,U.S. Senate (Democratic),None Of These Candidates,2
+21-Wildhorse,U.S. Senate (Democratic),"Price, Nancy",6
+21-Wildhorse,U.S. Senate (Republican),"Brooks, Sherry",9
+21-Wildhorse,U.S. Senate (Republican),"Charles, Richard",4
+21-Wildhorse,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+21-Wildhorse,U.S. Senate (Republican),"Heller, Dean",214
+21-Wildhorse,U.S. Senate (Republican),None Of These Candidates,6
+21-Wildhorse,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",168
 21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",61
 21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",41
@@ -644,18 +644,18 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",15
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",37
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",29
-22-Saratoga,United States Senator (Democratic),"Berkley, Shelley",64
-22-Saratoga,United States Senator (Democratic),"Brown, Steve",1
-22-Saratoga,United States Senator (Democratic),"Ellsworth, Barry",2
-22-Saratoga,United States Senator (Democratic),"Macias, Louis",1
-22-Saratoga,United States Senator (Democratic),None Of These Candidates,6
-22-Saratoga,United States Senator (Democratic),"Price, Nancy",11
-22-Saratoga,United States Senator (Republican),"Brooks, Sherry",6
-22-Saratoga,United States Senator (Republican),"Charles, Richard",3
-22-Saratoga,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",8
-22-Saratoga,United States Senator (Republican),"Heller, Dean",235
-22-Saratoga,United States Senator (Republican),None Of These Candidates,2
-22-Saratoga,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+22-Saratoga,U.S. Senate (Democratic),"Berkley, Shelley",64
+22-Saratoga,U.S. Senate (Democratic),"Brown, Steve",1
+22-Saratoga,U.S. Senate (Democratic),"Ellsworth, Barry",2
+22-Saratoga,U.S. Senate (Democratic),"Macias, Louis",1
+22-Saratoga,U.S. Senate (Democratic),None Of These Candidates,6
+22-Saratoga,U.S. Senate (Democratic),"Price, Nancy",11
+22-Saratoga,U.S. Senate (Republican),"Brooks, Sherry",6
+22-Saratoga,U.S. Senate (Republican),"Charles, Richard",3
+22-Saratoga,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",8
+22-Saratoga,U.S. Senate (Republican),"Heller, Dean",235
+22-Saratoga,U.S. Senate (Republican),None Of These Candidates,2
+22-Saratoga,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",222
 22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",75
 22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",28
@@ -674,18 +674,18 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",17
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",24
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",15
-23-Indian Hills - East,United States Senator (Democratic),"Berkley, Shelley",40
-23-Indian Hills - East,United States Senator (Democratic),"Brown, Steve",4
-23-Indian Hills - East,United States Senator (Democratic),"Ellsworth, Barry",5
-23-Indian Hills - East,United States Senator (Democratic),"Macias, Louis",2
-23-Indian Hills - East,United States Senator (Democratic),None Of These Candidates,2
-23-Indian Hills - East,United States Senator (Democratic),"Price, Nancy",4
-23-Indian Hills - East,United States Senator (Republican),"Brooks, Sherry",5
-23-Indian Hills - East,United States Senator (Republican),"Charles, Richard",0
-23-Indian Hills - East,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
-23-Indian Hills - East,United States Senator (Republican),"Heller, Dean",113
-23-Indian Hills - East,United States Senator (Republican),None Of These Candidates,5
-23-Indian Hills - East,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+23-Indian Hills - East,U.S. Senate (Democratic),"Berkley, Shelley",40
+23-Indian Hills - East,U.S. Senate (Democratic),"Brown, Steve",4
+23-Indian Hills - East,U.S. Senate (Democratic),"Ellsworth, Barry",5
+23-Indian Hills - East,U.S. Senate (Democratic),"Macias, Louis",2
+23-Indian Hills - East,U.S. Senate (Democratic),None Of These Candidates,2
+23-Indian Hills - East,U.S. Senate (Democratic),"Price, Nancy",4
+23-Indian Hills - East,U.S. Senate (Republican),"Brooks, Sherry",5
+23-Indian Hills - East,U.S. Senate (Republican),"Charles, Richard",0
+23-Indian Hills - East,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
+23-Indian Hills - East,U.S. Senate (Republican),"Heller, Dean",113
+23-Indian Hills - East,U.S. Senate (Republican),None Of These Candidates,5
+23-Indian Hills - East,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",119
 23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",30
 23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",28
@@ -704,18 +704,18 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",4
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",4
-24-Topaz Lake,United States Senator (Democratic),"Berkley, Shelley",10
-24-Topaz Lake,United States Senator (Democratic),"Brown, Steve",3
-24-Topaz Lake,United States Senator (Democratic),"Ellsworth, Barry",0
-24-Topaz Lake,United States Senator (Democratic),"Macias, Louis",0
-24-Topaz Lake,United States Senator (Democratic),None Of These Candidates,2
-24-Topaz Lake,United States Senator (Democratic),"Price, Nancy",1
-24-Topaz Lake,United States Senator (Republican),"Brooks, Sherry",5
-24-Topaz Lake,United States Senator (Republican),"Charles, Richard",7
-24-Topaz Lake,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
-24-Topaz Lake,United States Senator (Republican),"Heller, Dean",116
-24-Topaz Lake,United States Senator (Republican),None Of These Candidates,3
-24-Topaz Lake,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+24-Topaz Lake,U.S. Senate (Democratic),"Berkley, Shelley",10
+24-Topaz Lake,U.S. Senate (Democratic),"Brown, Steve",3
+24-Topaz Lake,U.S. Senate (Democratic),"Ellsworth, Barry",0
+24-Topaz Lake,U.S. Senate (Democratic),"Macias, Louis",0
+24-Topaz Lake,U.S. Senate (Democratic),None Of These Candidates,2
+24-Topaz Lake,U.S. Senate (Democratic),"Price, Nancy",1
+24-Topaz Lake,U.S. Senate (Republican),"Brooks, Sherry",5
+24-Topaz Lake,U.S. Senate (Republican),"Charles, Richard",7
+24-Topaz Lake,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
+24-Topaz Lake,U.S. Senate (Republican),"Heller, Dean",116
+24-Topaz Lake,U.S. Senate (Republican),None Of These Candidates,3
+24-Topaz Lake,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",86
 24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",25
 24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",24
@@ -734,18 +734,18 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",13
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",40
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",23
-25-Pleasantview,United States Senator (Democratic),"Berkley, Shelley",67
-25-Pleasantview,United States Senator (Democratic),"Brown, Steve",7
-25-Pleasantview,United States Senator (Democratic),"Ellsworth, Barry",3
-25-Pleasantview,United States Senator (Democratic),"Macias, Louis",2
-25-Pleasantview,United States Senator (Democratic),None Of These Candidates,2
-25-Pleasantview,United States Senator (Democratic),"Price, Nancy",4
-25-Pleasantview,United States Senator (Republican),"Brooks, Sherry",7
-25-Pleasantview,United States Senator (Republican),"Charles, Richard",3
-25-Pleasantview,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-25-Pleasantview,United States Senator (Republican),"Heller, Dean",301
-25-Pleasantview,United States Senator (Republican),None Of These Candidates,12
-25-Pleasantview,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+25-Pleasantview,U.S. Senate (Democratic),"Berkley, Shelley",67
+25-Pleasantview,U.S. Senate (Democratic),"Brown, Steve",7
+25-Pleasantview,U.S. Senate (Democratic),"Ellsworth, Barry",3
+25-Pleasantview,U.S. Senate (Democratic),"Macias, Louis",2
+25-Pleasantview,U.S. Senate (Democratic),None Of These Candidates,2
+25-Pleasantview,U.S. Senate (Democratic),"Price, Nancy",4
+25-Pleasantview,U.S. Senate (Republican),"Brooks, Sherry",7
+25-Pleasantview,U.S. Senate (Republican),"Charles, Richard",3
+25-Pleasantview,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+25-Pleasantview,U.S. Senate (Republican),"Heller, Dean",301
+25-Pleasantview,U.S. Senate (Republican),None Of These Candidates,12
+25-Pleasantview,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",234
 25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",80
 25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",44
@@ -764,18 +764,18 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",8
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",17
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",10
-26-Westwood,United States Senator (Democratic),"Berkley, Shelley",31
-26-Westwood,United States Senator (Democratic),"Brown, Steve",1
-26-Westwood,United States Senator (Democratic),"Ellsworth, Barry",2
-26-Westwood,United States Senator (Democratic),"Macias, Louis",0
-26-Westwood,United States Senator (Democratic),None Of These Candidates,1
-26-Westwood,United States Senator (Democratic),"Price, Nancy",2
-26-Westwood,United States Senator (Republican),"Brooks, Sherry",4
-26-Westwood,United States Senator (Republican),"Charles, Richard",2
-26-Westwood,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-26-Westwood,United States Senator (Republican),"Heller, Dean",119
-26-Westwood,United States Senator (Republican),None Of These Candidates,2
-26-Westwood,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+26-Westwood,U.S. Senate (Democratic),"Berkley, Shelley",31
+26-Westwood,U.S. Senate (Democratic),"Brown, Steve",1
+26-Westwood,U.S. Senate (Democratic),"Ellsworth, Barry",2
+26-Westwood,U.S. Senate (Democratic),"Macias, Louis",0
+26-Westwood,U.S. Senate (Democratic),None Of These Candidates,1
+26-Westwood,U.S. Senate (Democratic),"Price, Nancy",2
+26-Westwood,U.S. Senate (Republican),"Brooks, Sherry",4
+26-Westwood,U.S. Senate (Republican),"Charles, Richard",2
+26-Westwood,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+26-Westwood,U.S. Senate (Republican),"Heller, Dean",119
+26-Westwood,U.S. Senate (Republican),None Of These Candidates,2
+26-Westwood,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",97
 26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",38
 26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",13
@@ -794,18 +794,18 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",8
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",21
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",8
-27-Winhaven,United States Senator (Democratic),"Berkley, Shelley",30
-27-Winhaven,United States Senator (Democratic),"Brown, Steve",2
-27-Winhaven,United States Senator (Democratic),"Ellsworth, Barry",0
-27-Winhaven,United States Senator (Democratic),"Macias, Louis",0
-27-Winhaven,United States Senator (Democratic),None Of These Candidates,6
-27-Winhaven,United States Senator (Democratic),"Price, Nancy",5
-27-Winhaven,United States Senator (Republican),"Brooks, Sherry",9
-27-Winhaven,United States Senator (Republican),"Charles, Richard",0
-27-Winhaven,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-27-Winhaven,United States Senator (Republican),"Heller, Dean",207
-27-Winhaven,United States Senator (Republican),None Of These Candidates,6
-27-Winhaven,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+27-Winhaven,U.S. Senate (Democratic),"Berkley, Shelley",30
+27-Winhaven,U.S. Senate (Democratic),"Brown, Steve",2
+27-Winhaven,U.S. Senate (Democratic),"Ellsworth, Barry",0
+27-Winhaven,U.S. Senate (Democratic),"Macias, Louis",0
+27-Winhaven,U.S. Senate (Democratic),None Of These Candidates,6
+27-Winhaven,U.S. Senate (Democratic),"Price, Nancy",5
+27-Winhaven,U.S. Senate (Republican),"Brooks, Sherry",9
+27-Winhaven,U.S. Senate (Republican),"Charles, Richard",0
+27-Winhaven,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+27-Winhaven,U.S. Senate (Republican),"Heller, Dean",207
+27-Winhaven,U.S. Senate (Republican),None Of These Candidates,6
+27-Winhaven,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",173
 27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",43
 27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",19
@@ -824,18 +824,18 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",
-28-Orchard Road,United States Senator (Democratic),"Berkley, Shelley",
-28-Orchard Road,United States Senator (Democratic),"Brown, Steve",
-28-Orchard Road,United States Senator (Democratic),"Ellsworth, Barry",
-28-Orchard Road,United States Senator (Democratic),"Macias, Louis",
-28-Orchard Road,United States Senator (Democratic),None Of These Candidates,
-28-Orchard Road,United States Senator (Democratic),"Price, Nancy",
-28-Orchard Road,United States Senator (Republican),"Brooks, Sherry",1
-28-Orchard Road,United States Senator (Republican),"Charles, Richard",0
-28-Orchard Road,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-28-Orchard Road,United States Senator (Republican),"Heller, Dean",93
-28-Orchard Road,United States Senator (Republican),None Of These Candidates,4
-28-Orchard Road,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+28-Orchard Road,U.S. Senate (Democratic),"Berkley, Shelley",
+28-Orchard Road,U.S. Senate (Democratic),"Brown, Steve",
+28-Orchard Road,U.S. Senate (Democratic),"Ellsworth, Barry",
+28-Orchard Road,U.S. Senate (Democratic),"Macias, Louis",
+28-Orchard Road,U.S. Senate (Democratic),None Of These Candidates,
+28-Orchard Road,U.S. Senate (Democratic),"Price, Nancy",
+28-Orchard Road,U.S. Senate (Republican),"Brooks, Sherry",1
+28-Orchard Road,U.S. Senate (Republican),"Charles, Richard",0
+28-Orchard Road,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+28-Orchard Road,U.S. Senate (Republican),"Heller, Dean",93
+28-Orchard Road,U.S. Senate (Republican),None Of These Candidates,4
+28-Orchard Road,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",65
 28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",19
 28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",9
@@ -854,18 +854,18 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",3
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",15
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",14
-29-Autumn Hils,United States Senator (Democratic),"Berkley, Shelley",26
-29-Autumn Hils,United States Senator (Democratic),"Brown, Steve",2
-29-Autumn Hils,United States Senator (Democratic),"Ellsworth, Barry",2
-29-Autumn Hils,United States Senator (Democratic),"Macias, Louis",0
-29-Autumn Hils,United States Senator (Democratic),None Of These Candidates,1
-29-Autumn Hils,United States Senator (Democratic),"Price, Nancy",5
-29-Autumn Hils,United States Senator (Republican),"Brooks, Sherry",5
-29-Autumn Hils,United States Senator (Republican),"Charles, Richard",0
-29-Autumn Hils,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",7
-29-Autumn Hils,United States Senator (Republican),"Heller, Dean",164
-29-Autumn Hils,United States Senator (Republican),None Of These Candidates,2
-29-Autumn Hils,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+29-Autumn Hils,U.S. Senate (Democratic),"Berkley, Shelley",26
+29-Autumn Hils,U.S. Senate (Democratic),"Brown, Steve",2
+29-Autumn Hils,U.S. Senate (Democratic),"Ellsworth, Barry",2
+29-Autumn Hils,U.S. Senate (Democratic),"Macias, Louis",0
+29-Autumn Hils,U.S. Senate (Democratic),None Of These Candidates,1
+29-Autumn Hils,U.S. Senate (Democratic),"Price, Nancy",5
+29-Autumn Hils,U.S. Senate (Republican),"Brooks, Sherry",5
+29-Autumn Hils,U.S. Senate (Republican),"Charles, Richard",0
+29-Autumn Hils,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",7
+29-Autumn Hils,U.S. Senate (Republican),"Heller, Dean",164
+29-Autumn Hils,U.S. Senate (Republican),None Of These Candidates,2
+29-Autumn Hils,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",127
 29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",41
 29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",20
@@ -884,18 +884,18 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",0
-30-East Fork,United States Senator (Democratic),"Berkley, Shelley",0
-30-East Fork,United States Senator (Democratic),"Brown, Steve",0
-30-East Fork,United States Senator (Democratic),"Ellsworth, Barry",0
-30-East Fork,United States Senator (Democratic),"Macias, Louis",0
-30-East Fork,United States Senator (Democratic),None Of These Candidates,0
-30-East Fork,United States Senator (Democratic),"Price, Nancy",0
-30-East Fork,United States Senator (Republican),"Brooks, Sherry",
-30-East Fork,United States Senator (Republican),"Charles, Richard",
-30-East Fork,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
-30-East Fork,United States Senator (Republican),"Heller, Dean",
-30-East Fork,United States Senator (Republican),None Of These Candidates,
-30-East Fork,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",
+30-East Fork,U.S. Senate (Democratic),"Berkley, Shelley",0
+30-East Fork,U.S. Senate (Democratic),"Brown, Steve",0
+30-East Fork,U.S. Senate (Democratic),"Ellsworth, Barry",0
+30-East Fork,U.S. Senate (Democratic),"Macias, Louis",0
+30-East Fork,U.S. Senate (Democratic),None Of These Candidates,0
+30-East Fork,U.S. Senate (Democratic),"Price, Nancy",0
+30-East Fork,U.S. Senate (Republican),"Brooks, Sherry",
+30-East Fork,U.S. Senate (Republican),"Charles, Richard",
+30-East Fork,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
+30-East Fork,U.S. Senate (Republican),"Heller, Dean",
+30-East Fork,U.S. Senate (Republican),None Of These Candidates,
+30-East Fork,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
 30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
 30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",
 30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
@@ -914,18 +914,18 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",5
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",24
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",13
-31-Chichester,United States Senator (Democratic),"Berkley, Shelley",32
-31-Chichester,United States Senator (Democratic),"Brown, Steve",4
-31-Chichester,United States Senator (Democratic),"Ellsworth, Barry",1
-31-Chichester,United States Senator (Democratic),"Macias, Louis",0
-31-Chichester,United States Senator (Democratic),None Of These Candidates,3
-31-Chichester,United States Senator (Democratic),"Price, Nancy",2
-31-Chichester,United States Senator (Republican),"Brooks, Sherry",2
-31-Chichester,United States Senator (Republican),"Charles, Richard",0
-31-Chichester,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-31-Chichester,United States Senator (Republican),"Heller, Dean",90
-31-Chichester,United States Senator (Republican),None Of These Candidates,2
-31-Chichester,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+31-Chichester,U.S. Senate (Democratic),"Berkley, Shelley",32
+31-Chichester,U.S. Senate (Democratic),"Brown, Steve",4
+31-Chichester,U.S. Senate (Democratic),"Ellsworth, Barry",1
+31-Chichester,U.S. Senate (Democratic),"Macias, Louis",0
+31-Chichester,U.S. Senate (Democratic),None Of These Candidates,3
+31-Chichester,U.S. Senate (Democratic),"Price, Nancy",2
+31-Chichester,U.S. Senate (Republican),"Brooks, Sherry",2
+31-Chichester,U.S. Senate (Republican),"Charles, Richard",0
+31-Chichester,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+31-Chichester,U.S. Senate (Republican),"Heller, Dean",90
+31-Chichester,U.S. Senate (Republican),None Of These Candidates,2
+31-Chichester,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",80
 31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",27
 31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",16
@@ -944,18 +944,18 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",4
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",8
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",14
-32-East Valley,United States Senator (Democratic),"Berkley, Shelley",26
-32-East Valley,United States Senator (Democratic),"Brown, Steve",1
-32-East Valley,United States Senator (Democratic),"Ellsworth, Barry",1
-32-East Valley,United States Senator (Democratic),"Macias, Louis",0
-32-East Valley,United States Senator (Democratic),None Of These Candidates,7
-32-East Valley,United States Senator (Democratic),"Price, Nancy",2
-32-East Valley,United States Senator (Republican),"Brooks, Sherry",1
-32-East Valley,United States Senator (Republican),"Charles, Richard",4
-32-East Valley,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-32-East Valley,United States Senator (Republican),"Heller, Dean",107
-32-East Valley,United States Senator (Republican),None Of These Candidates,0
-32-East Valley,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+32-East Valley,U.S. Senate (Democratic),"Berkley, Shelley",26
+32-East Valley,U.S. Senate (Democratic),"Brown, Steve",1
+32-East Valley,U.S. Senate (Democratic),"Ellsworth, Barry",1
+32-East Valley,U.S. Senate (Democratic),"Macias, Louis",0
+32-East Valley,U.S. Senate (Democratic),None Of These Candidates,7
+32-East Valley,U.S. Senate (Democratic),"Price, Nancy",2
+32-East Valley,U.S. Senate (Republican),"Brooks, Sherry",1
+32-East Valley,U.S. Senate (Republican),"Charles, Richard",4
+32-East Valley,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+32-East Valley,U.S. Senate (Republican),"Heller, Dean",107
+32-East Valley,U.S. Senate (Republican),None Of These Candidates,0
+32-East Valley,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",111
 32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",18
 32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",13
@@ -974,18 +974,18 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",8
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",13
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",8
-33-Hot Springs,United States Senator (Democratic),"Berkley, Shelley",22
-33-Hot Springs,United States Senator (Democratic),"Brown, Steve",3
-33-Hot Springs,United States Senator (Democratic),"Ellsworth, Barry",3
-33-Hot Springs,United States Senator (Democratic),"Macias, Louis",0
-33-Hot Springs,United States Senator (Democratic),None Of These Candidates,2
-33-Hot Springs,United States Senator (Democratic),"Price, Nancy",1
-33-Hot Springs,United States Senator (Republican),"Brooks, Sherry",2
-33-Hot Springs,United States Senator (Republican),"Charles, Richard",2
-33-Hot Springs,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-33-Hot Springs,United States Senator (Republican),"Heller, Dean",106
-33-Hot Springs,United States Senator (Republican),None Of These Candidates,2
-33-Hot Springs,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+33-Hot Springs,U.S. Senate (Democratic),"Berkley, Shelley",22
+33-Hot Springs,U.S. Senate (Democratic),"Brown, Steve",3
+33-Hot Springs,U.S. Senate (Democratic),"Ellsworth, Barry",3
+33-Hot Springs,U.S. Senate (Democratic),"Macias, Louis",0
+33-Hot Springs,U.S. Senate (Democratic),None Of These Candidates,2
+33-Hot Springs,U.S. Senate (Democratic),"Price, Nancy",1
+33-Hot Springs,U.S. Senate (Republican),"Brooks, Sherry",2
+33-Hot Springs,U.S. Senate (Republican),"Charles, Richard",2
+33-Hot Springs,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+33-Hot Springs,U.S. Senate (Republican),"Heller, Dean",106
+33-Hot Springs,U.S. Senate (Republican),None Of These Candidates,2
+33-Hot Springs,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",87
 33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",34
 33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",8
@@ -1016,18 +1016,18 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",6
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",5
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",8
-36-Skyland,United States Senator (Democratic),"Berkley, Shelley",13
-36-Skyland,United States Senator (Democratic),"Brown, Steve",0
-36-Skyland,United States Senator (Democratic),"Ellsworth, Barry",1
-36-Skyland,United States Senator (Democratic),"Macias, Louis",3
-36-Skyland,United States Senator (Democratic),None Of These Candidates,1
-36-Skyland,United States Senator (Democratic),"Price, Nancy",2
-36-Skyland,United States Senator (Republican),"Brooks, Sherry",3
-36-Skyland,United States Senator (Republican),"Charles, Richard",2
-36-Skyland,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-36-Skyland,United States Senator (Republican),"Heller, Dean",99
-36-Skyland,United States Senator (Republican),None Of These Candidates,5
-36-Skyland,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+36-Skyland,U.S. Senate (Democratic),"Berkley, Shelley",13
+36-Skyland,U.S. Senate (Democratic),"Brown, Steve",0
+36-Skyland,U.S. Senate (Democratic),"Ellsworth, Barry",1
+36-Skyland,U.S. Senate (Democratic),"Macias, Louis",3
+36-Skyland,U.S. Senate (Democratic),None Of These Candidates,1
+36-Skyland,U.S. Senate (Democratic),"Price, Nancy",2
+36-Skyland,U.S. Senate (Republican),"Brooks, Sherry",3
+36-Skyland,U.S. Senate (Republican),"Charles, Richard",2
+36-Skyland,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+36-Skyland,U.S. Senate (Republican),"Heller, Dean",99
+36-Skyland,U.S. Senate (Republican),None Of These Candidates,5
+36-Skyland,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",66
 36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",22
 36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",19
@@ -1047,18 +1047,18 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",6
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",7
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",3
-37-Zephyr Cove,United States Senator (Democratic),"Berkley, Shelley",11
-37-Zephyr Cove,United States Senator (Democratic),"Brown, Steve",1
-37-Zephyr Cove,United States Senator (Democratic),"Ellsworth, Barry",4
-37-Zephyr Cove,United States Senator (Democratic),"Macias, Louis",0
-37-Zephyr Cove,United States Senator (Democratic),None Of These Candidates,1
-37-Zephyr Cove,United States Senator (Democratic),"Price, Nancy",0
-37-Zephyr Cove,United States Senator (Republican),"Brooks, Sherry",6
-37-Zephyr Cove,United States Senator (Republican),"Charles, Richard",3
-37-Zephyr Cove,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-37-Zephyr Cove,United States Senator (Republican),"Heller, Dean",66
-37-Zephyr Cove,United States Senator (Republican),None Of These Candidates,0
-37-Zephyr Cove,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+37-Zephyr Cove,U.S. Senate (Democratic),"Berkley, Shelley",11
+37-Zephyr Cove,U.S. Senate (Democratic),"Brown, Steve",1
+37-Zephyr Cove,U.S. Senate (Democratic),"Ellsworth, Barry",4
+37-Zephyr Cove,U.S. Senate (Democratic),"Macias, Louis",0
+37-Zephyr Cove,U.S. Senate (Democratic),None Of These Candidates,1
+37-Zephyr Cove,U.S. Senate (Democratic),"Price, Nancy",0
+37-Zephyr Cove,U.S. Senate (Republican),"Brooks, Sherry",6
+37-Zephyr Cove,U.S. Senate (Republican),"Charles, Richard",3
+37-Zephyr Cove,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+37-Zephyr Cove,U.S. Senate (Republican),"Heller, Dean",66
+37-Zephyr Cove,U.S. Senate (Republican),None Of These Candidates,0
+37-Zephyr Cove,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",46
 37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",29
 37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",10
@@ -1078,18 +1078,18 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",6
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",16
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",17
-38-Round Hill,United States Senator (Democratic),"Berkley, Shelley",41
-38-Round Hill,United States Senator (Democratic),"Brown, Steve",1
-38-Round Hill,United States Senator (Democratic),"Ellsworth, Barry",0
-38-Round Hill,United States Senator (Democratic),"Macias, Louis",1
-38-Round Hill,United States Senator (Democratic),None Of These Candidates,2
-38-Round Hill,United States Senator (Democratic),"Price, Nancy",2
-38-Round Hill,United States Senator (Republican),"Brooks, Sherry",4
-38-Round Hill,United States Senator (Republican),"Charles, Richard",1
-38-Round Hill,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
-38-Round Hill,United States Senator (Republican),"Heller, Dean",80
-38-Round Hill,United States Senator (Republican),None Of These Candidates,3
-38-Round Hill,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+38-Round Hill,U.S. Senate (Democratic),"Berkley, Shelley",41
+38-Round Hill,U.S. Senate (Democratic),"Brown, Steve",1
+38-Round Hill,U.S. Senate (Democratic),"Ellsworth, Barry",0
+38-Round Hill,U.S. Senate (Democratic),"Macias, Louis",1
+38-Round Hill,U.S. Senate (Democratic),None Of These Candidates,2
+38-Round Hill,U.S. Senate (Democratic),"Price, Nancy",2
+38-Round Hill,U.S. Senate (Republican),"Brooks, Sherry",4
+38-Round Hill,U.S. Senate (Republican),"Charles, Richard",1
+38-Round Hill,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
+38-Round Hill,U.S. Senate (Republican),"Heller, Dean",80
+38-Round Hill,U.S. Senate (Republican),None Of These Candidates,3
+38-Round Hill,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",62
 38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",35
 38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",21
@@ -1109,18 +1109,18 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",
-39-Edgewood,United States Senator (Democratic),"Berkley, Shelley",
-39-Edgewood,United States Senator (Democratic),"Brown, Steve",
-39-Edgewood,United States Senator (Democratic),"Ellsworth, Barry",
-39-Edgewood,United States Senator (Democratic),"Macias, Louis",
-39-Edgewood,United States Senator (Democratic),None Of These Candidates,
-39-Edgewood,United States Senator (Democratic),"Price, Nancy",
-39-Edgewood,United States Senator (Republican),"Brooks, Sherry",0
-39-Edgewood,United States Senator (Republican),"Charles, Richard",1
-39-Edgewood,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-39-Edgewood,United States Senator (Republican),"Heller, Dean",17
-39-Edgewood,United States Senator (Republican),None Of These Candidates,2
-39-Edgewood,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+39-Edgewood,U.S. Senate (Democratic),"Berkley, Shelley",
+39-Edgewood,U.S. Senate (Democratic),"Brown, Steve",
+39-Edgewood,U.S. Senate (Democratic),"Ellsworth, Barry",
+39-Edgewood,U.S. Senate (Democratic),"Macias, Louis",
+39-Edgewood,U.S. Senate (Democratic),None Of These Candidates,
+39-Edgewood,U.S. Senate (Democratic),"Price, Nancy",
+39-Edgewood,U.S. Senate (Republican),"Brooks, Sherry",0
+39-Edgewood,U.S. Senate (Republican),"Charles, Richard",1
+39-Edgewood,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+39-Edgewood,U.S. Senate (Republican),"Heller, Dean",17
+39-Edgewood,U.S. Senate (Republican),None Of These Candidates,2
+39-Edgewood,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",14
 39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",6
 39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",6
@@ -1140,18 +1140,18 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",11
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",15
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",19
-40-Kingsbury,United States Senator (Democratic),"Berkley, Shelley",34
-40-Kingsbury,United States Senator (Democratic),"Brown, Steve",2
-40-Kingsbury,United States Senator (Democratic),"Ellsworth, Barry",4
-40-Kingsbury,United States Senator (Democratic),"Macias, Louis",2
-40-Kingsbury,United States Senator (Democratic),None Of These Candidates,2
-40-Kingsbury,United States Senator (Democratic),"Price, Nancy",3
-40-Kingsbury,United States Senator (Republican),"Brooks, Sherry",5
-40-Kingsbury,United States Senator (Republican),"Charles, Richard",3
-40-Kingsbury,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
-40-Kingsbury,United States Senator (Republican),"Heller, Dean",103
-40-Kingsbury,United States Senator (Republican),None Of These Candidates,4
-40-Kingsbury,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+40-Kingsbury,U.S. Senate (Democratic),"Berkley, Shelley",34
+40-Kingsbury,U.S. Senate (Democratic),"Brown, Steve",2
+40-Kingsbury,U.S. Senate (Democratic),"Ellsworth, Barry",4
+40-Kingsbury,U.S. Senate (Democratic),"Macias, Louis",2
+40-Kingsbury,U.S. Senate (Democratic),None Of These Candidates,2
+40-Kingsbury,U.S. Senate (Democratic),"Price, Nancy",3
+40-Kingsbury,U.S. Senate (Republican),"Brooks, Sherry",5
+40-Kingsbury,U.S. Senate (Republican),"Charles, Richard",3
+40-Kingsbury,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",3
+40-Kingsbury,U.S. Senate (Republican),"Heller, Dean",103
+40-Kingsbury,U.S. Senate (Republican),None Of These Candidates,4
+40-Kingsbury,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",103
 40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",33
 40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",19
@@ -1171,33 +1171,33 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",7
 41-Daggett,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",11
 41-Daggett,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",7
-41-Daggett,United States Senator (Democratic),"Berkley, Shelley",25
-41-Daggett,United States Senator (Democratic),"Brown, Steve",1
-41-Daggett,United States Senator (Democratic),"Ellsworth, Barry",2
-41-Daggett,United States Senator (Democratic),"Macias, Louis",0
-41-Daggett,United States Senator (Democratic),None Of These Candidates,0
-41-Daggett,United States Senator (Democratic),"Price, Nancy",1
-41-Daggett,United States Senator (Republican),"Brooks, Sherry",2
-41-Daggett,United States Senator (Republican),"Charles, Richard",1
-41-Daggett,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
-41-Daggett,United States Senator (Republican),"Heller, Dean",57
-41-Daggett,United States Senator (Republican),None Of These Candidates,2
-41-Daggett,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+41-Daggett,U.S. Senate (Democratic),"Berkley, Shelley",25
+41-Daggett,U.S. Senate (Democratic),"Brown, Steve",1
+41-Daggett,U.S. Senate (Democratic),"Ellsworth, Barry",2
+41-Daggett,U.S. Senate (Democratic),"Macias, Louis",0
+41-Daggett,U.S. Senate (Democratic),None Of These Candidates,0
+41-Daggett,U.S. Senate (Democratic),"Price, Nancy",1
+41-Daggett,U.S. Senate (Republican),"Brooks, Sherry",2
+41-Daggett,U.S. Senate (Republican),"Charles, Richard",1
+41-Daggett,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
+41-Daggett,U.S. Senate (Republican),"Heller, Dean",57
+41-Daggett,U.S. Senate (Republican),None Of These Candidates,2
+41-Daggett,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",45
 41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",31
 41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",13
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",
-Precinct 99,United States Senator (Democratic),"Berkley, Shelley",
-Precinct 99,United States Senator (Democratic),"Brown, Steve",
-Precinct 99,United States Senator (Democratic),"Ellsworth, Barry",
-Precinct 99,United States Senator (Democratic),"Macias, Louis",
-Precinct 99,United States Senator (Democratic),None Of These Candidates,
-Precinct 99,United States Senator (Democratic),"Price, Nancy",
-Precinct 99,United States Senator (Republican),"Brooks, Sherry",
-Precinct 99,United States Senator (Republican),"Charles, Richard",
-Precinct 99,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
-Precinct 99,United States Senator (Republican),"Heller, Dean",
-Precinct 99,United States Senator (Republican),None Of These Candidates,
-Precinct 99,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",
+Precinct 99,U.S. Senate (Democratic),"Berkley, Shelley",
+Precinct 99,U.S. Senate (Democratic),"Brown, Steve",
+Precinct 99,U.S. Senate (Democratic),"Ellsworth, Barry",
+Precinct 99,U.S. Senate (Democratic),"Macias, Louis",
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,
+Precinct 99,U.S. Senate (Democratic),"Price, Nancy",
+Precinct 99,U.S. Senate (Republican),"Brooks, Sherry",
+Precinct 99,U.S. Senate (Republican),"Charles, Richard",
+Precinct 99,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
+Precinct 99,U.S. Senate (Republican),"Heller, Dean",
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,
+Precinct 99,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",

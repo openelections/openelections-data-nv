@@ -71,12 +71,12 @@ PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-PRECINCT 1,United States Senator (Democratic),"Carter, Jack",94
-PRECINCT 1,United States Senator (Democratic),None Of These Candidates,35
-PRECINCT 1,United States Senator (Democratic),"Tun, Ruby jee",7
-PRECINCT 1,United States Senator (Republican),"Ensign, John",136
-PRECINCT 1,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
-PRECINCT 1,United States Senator (Republican),None Of These Candidates,12
+PRECINCT 1,U.S. Senate (Democratic),"Carter, Jack",94
+PRECINCT 1,U.S. Senate (Democratic),None Of These Candidates,35
+PRECINCT 1,U.S. Senate (Democratic),"Tun, Ruby jee",7
+PRECINCT 1,U.S. Senate (Republican),"Ensign, John",136
+PRECINCT 1,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
+PRECINCT 1,U.S. Senate (Republican),None Of These Candidates,12
 PRECINCT 10,Governor (Democratic),"Gibson, James B.",0
 PRECINCT 10,Governor (Democratic),"McConnell, Leola",0
 PRECINCT 10,Governor (Democratic),None Of These Candidates,0
@@ -146,12 +146,12 @@ PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-PRECINCT 10,United States Senator (Democratic),"Carter, Jack",0
-PRECINCT 10,United States Senator (Democratic),None Of These Candidates,0
-PRECINCT 10,United States Senator (Democratic),"Tun, Ruby jee",0
-PRECINCT 10,United States Senator (Republican),"Ensign, John",0
-PRECINCT 10,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-PRECINCT 10,United States Senator (Republican),None Of These Candidates,0
+PRECINCT 10,U.S. Senate (Democratic),"Carter, Jack",0
+PRECINCT 10,U.S. Senate (Democratic),None Of These Candidates,0
+PRECINCT 10,U.S. Senate (Democratic),"Tun, Ruby jee",0
+PRECINCT 10,U.S. Senate (Republican),"Ensign, John",0
+PRECINCT 10,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 10,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 11,Governor (Democratic),"Gibson, James B.",30
 PRECINCT 11,Governor (Democratic),"McConnell, Leola",1
 PRECINCT 11,Governor (Democratic),None Of These Candidates,6
@@ -224,12 +224,12 @@ PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",6
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-PRECINCT 11,United States Senator (Democratic),"Carter, Jack",56
-PRECINCT 11,United States Senator (Democratic),None Of These Candidates,13
-PRECINCT 11,United States Senator (Democratic),"Tun, Ruby jee",10
-PRECINCT 11,United States Senator (Republican),"Ensign, John",10
-PRECINCT 11,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
-PRECINCT 11,United States Senator (Republican),None Of These Candidates,3
+PRECINCT 11,U.S. Senate (Democratic),"Carter, Jack",56
+PRECINCT 11,U.S. Senate (Democratic),None Of These Candidates,13
+PRECINCT 11,U.S. Senate (Democratic),"Tun, Ruby jee",10
+PRECINCT 11,U.S. Senate (Republican),"Ensign, John",10
+PRECINCT 11,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",2
+PRECINCT 11,U.S. Senate (Republican),None Of These Candidates,3
 PRECINCT 12,Governor (Democratic),"Gibson, James B.",18
 PRECINCT 12,Governor (Democratic),"McConnell, Leola",2
 PRECINCT 12,Governor (Democratic),None Of These Candidates,8
@@ -302,12 +302,12 @@ PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",21
 PRECINCT 12,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-PRECINCT 12,United States Senator (Democratic),"Carter, Jack",32
-PRECINCT 12,United States Senator (Democratic),None Of These Candidates,12
-PRECINCT 12,United States Senator (Democratic),"Tun, Ruby jee",9
-PRECINCT 12,United States Senator (Republican),"Ensign, John",52
-PRECINCT 12,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-PRECINCT 12,United States Senator (Republican),None Of These Candidates,8
+PRECINCT 12,U.S. Senate (Democratic),"Carter, Jack",32
+PRECINCT 12,U.S. Senate (Democratic),None Of These Candidates,12
+PRECINCT 12,U.S. Senate (Democratic),"Tun, Ruby jee",9
+PRECINCT 12,U.S. Senate (Republican),"Ensign, John",52
+PRECINCT 12,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+PRECINCT 12,U.S. Senate (Republican),None Of These Candidates,8
 PRECINCT 2,Governor (Democratic),"Gibson, James B.",53
 PRECINCT 2,Governor (Democratic),"McConnell, Leola",11
 PRECINCT 2,Governor (Democratic),None Of These Candidates,27
@@ -380,12 +380,12 @@ PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-PRECINCT 2,United States Senator (Democratic),"Carter, Jack",84
-PRECINCT 2,United States Senator (Democratic),None Of These Candidates,36
-PRECINCT 2,United States Senator (Democratic),"Tun, Ruby jee",19
-PRECINCT 2,United States Senator (Republican),"Ensign, John",109
-PRECINCT 2,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
-PRECINCT 2,United States Senator (Republican),None Of These Candidates,10
+PRECINCT 2,U.S. Senate (Democratic),"Carter, Jack",84
+PRECINCT 2,U.S. Senate (Democratic),None Of These Candidates,36
+PRECINCT 2,U.S. Senate (Democratic),"Tun, Ruby jee",19
+PRECINCT 2,U.S. Senate (Republican),"Ensign, John",109
+PRECINCT 2,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
+PRECINCT 2,U.S. Senate (Republican),None Of These Candidates,10
 PRECINCT 3,Governor (Democratic),"Gibson, James B.",25
 PRECINCT 3,Governor (Democratic),"McConnell, Leola",4
 PRECINCT 3,Governor (Democratic),None Of These Candidates,9
@@ -458,12 +458,12 @@ PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",22
 PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-PRECINCT 3,United States Senator (Democratic),"Carter, Jack",45
-PRECINCT 3,United States Senator (Democratic),None Of These Candidates,15
-PRECINCT 3,United States Senator (Democratic),"Tun, Ruby jee",7
-PRECINCT 3,United States Senator (Republican),"Ensign, John",79
-PRECINCT 3,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-PRECINCT 3,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 3,U.S. Senate (Democratic),"Carter, Jack",45
+PRECINCT 3,U.S. Senate (Democratic),None Of These Candidates,15
+PRECINCT 3,U.S. Senate (Democratic),"Tun, Ruby jee",7
+PRECINCT 3,U.S. Senate (Republican),"Ensign, John",79
+PRECINCT 3,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+PRECINCT 3,U.S. Senate (Republican),None Of These Candidates,6
 PRECINCT 4,Governor (Democratic),"Gibson, James B.",42
 PRECINCT 4,Governor (Democratic),"McConnell, Leola",2
 PRECINCT 4,Governor (Democratic),None Of These Candidates,8
@@ -536,12 +536,12 @@ PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",10
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-PRECINCT 4,United States Senator (Democratic),"Carter, Jack",40
-PRECINCT 4,United States Senator (Democratic),None Of These Candidates,21
-PRECINCT 4,United States Senator (Democratic),"Tun, Ruby jee",8
-PRECINCT 4,United States Senator (Republican),"Ensign, John",40
-PRECINCT 4,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
-PRECINCT 4,United States Senator (Republican),None Of These Candidates,4
+PRECINCT 4,U.S. Senate (Democratic),"Carter, Jack",40
+PRECINCT 4,U.S. Senate (Democratic),None Of These Candidates,21
+PRECINCT 4,U.S. Senate (Democratic),"Tun, Ruby jee",8
+PRECINCT 4,U.S. Senate (Republican),"Ensign, John",40
+PRECINCT 4,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",2
+PRECINCT 4,U.S. Senate (Republican),None Of These Candidates,4
 PRECINCT 5,Governor (Democratic),"Gibson, James B.",40
 PRECINCT 5,Governor (Democratic),"McConnell, Leola",11
 PRECINCT 5,Governor (Democratic),None Of These Candidates,18
@@ -614,12 +614,12 @@ PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",26
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-PRECINCT 5,United States Senator (Democratic),"Carter, Jack",59
-PRECINCT 5,United States Senator (Democratic),None Of These Candidates,27
-PRECINCT 5,United States Senator (Democratic),"Tun, Ruby jee",13
-PRECINCT 5,United States Senator (Republican),"Ensign, John",58
-PRECINCT 5,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-PRECINCT 5,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 5,U.S. Senate (Democratic),"Carter, Jack",59
+PRECINCT 5,U.S. Senate (Democratic),None Of These Candidates,27
+PRECINCT 5,U.S. Senate (Democratic),"Tun, Ruby jee",13
+PRECINCT 5,U.S. Senate (Republican),"Ensign, John",58
+PRECINCT 5,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PRECINCT 5,U.S. Senate (Republican),None Of These Candidates,6
 PRECINCT 6,Governor (Democratic),"Gibson, James B.",56
 PRECINCT 6,Governor (Democratic),"McConnell, Leola",5
 PRECINCT 6,Governor (Democratic),None Of These Candidates,19
@@ -692,12 +692,12 @@ PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",34
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-PRECINCT 6,United States Senator (Democratic),"Carter, Jack",87
-PRECINCT 6,United States Senator (Democratic),None Of These Candidates,19
-PRECINCT 6,United States Senator (Democratic),"Tun, Ruby jee",11
-PRECINCT 6,United States Senator (Republican),"Ensign, John",57
-PRECINCT 6,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-PRECINCT 6,United States Senator (Republican),None Of These Candidates,6
+PRECINCT 6,U.S. Senate (Democratic),"Carter, Jack",87
+PRECINCT 6,U.S. Senate (Democratic),None Of These Candidates,19
+PRECINCT 6,U.S. Senate (Democratic),"Tun, Ruby jee",11
+PRECINCT 6,U.S. Senate (Republican),"Ensign, John",57
+PRECINCT 6,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+PRECINCT 6,U.S. Senate (Republican),None Of These Candidates,6
 PRECINCT 7,Governor (Democratic),"Gibson, James B.",7
 PRECINCT 7,Governor (Democratic),"McConnell, Leola",0
 PRECINCT 7,Governor (Democratic),None Of These Candidates,3
@@ -770,12 +770,12 @@ PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",9
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-PRECINCT 7,United States Senator (Democratic),"Carter, Jack",12
-PRECINCT 7,United States Senator (Democratic),None Of These Candidates,4
-PRECINCT 7,United States Senator (Democratic),"Tun, Ruby jee",1
-PRECINCT 7,United States Senator (Republican),"Ensign, John",20
-PRECINCT 7,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-PRECINCT 7,United States Senator (Republican),None Of These Candidates,2
+PRECINCT 7,U.S. Senate (Democratic),"Carter, Jack",12
+PRECINCT 7,U.S. Senate (Democratic),None Of These Candidates,4
+PRECINCT 7,U.S. Senate (Democratic),"Tun, Ruby jee",1
+PRECINCT 7,U.S. Senate (Republican),"Ensign, John",20
+PRECINCT 7,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 7,U.S. Senate (Republican),None Of These Candidates,2
 PRECINCT 8,Governor (Democratic),"Gibson, James B.",
 PRECINCT 8,Governor (Democratic),"McConnell, Leola",
 PRECINCT 8,Governor (Democratic),None Of These Candidates,
@@ -848,12 +848,12 @@ PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",2
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-PRECINCT 8,United States Senator (Democratic),"Carter, Jack",
-PRECINCT 8,United States Senator (Democratic),None Of These Candidates,
-PRECINCT 8,United States Senator (Democratic),"Tun, Ruby jee",
-PRECINCT 8,United States Senator (Republican),"Ensign, John",13
-PRECINCT 8,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-PRECINCT 8,United States Senator (Republican),None Of These Candidates,1
+PRECINCT 8,U.S. Senate (Democratic),"Carter, Jack",
+PRECINCT 8,U.S. Senate (Democratic),None Of These Candidates,
+PRECINCT 8,U.S. Senate (Democratic),"Tun, Ruby jee",
+PRECINCT 8,U.S. Senate (Republican),"Ensign, John",13
+PRECINCT 8,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 8,U.S. Senate (Republican),None Of These Candidates,1
 PRECINCT 9,Governor (Democratic),"Gibson, James B.",24
 PRECINCT 9,Governor (Democratic),"McConnell, Leola",2
 PRECINCT 9,Governor (Democratic),None Of These Candidates,3
@@ -926,20 +926,20 @@ PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
 PRECINCT 9,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-PRECINCT 9,United States Senator (Democratic),"Carter, Jack",34
-PRECINCT 9,United States Senator (Democratic),None Of These Candidates,12
-PRECINCT 9,United States Senator (Democratic),"Tun, Ruby jee",3
-PRECINCT 9,United States Senator (Republican),"Ensign, John",34
-PRECINCT 9,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-PRECINCT 9,United States Senator (Republican),None Of These Candidates,5
+PRECINCT 9,U.S. Senate (Democratic),"Carter, Jack",34
+PRECINCT 9,U.S. Senate (Democratic),None Of These Candidates,12
+PRECINCT 9,U.S. Senate (Democratic),"Tun, Ruby jee",3
+PRECINCT 9,U.S. Senate (Republican),"Ensign, John",34
+PRECINCT 9,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PRECINCT 9,U.S. Senate (Republican),None Of These Candidates,5
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-PRECINCT 99,United States Senator (Democratic),"Carter, Jack",0
-PRECINCT 99,United States Senator (Democratic),None Of These Candidates,0
-PRECINCT 99,United States Senator (Democratic),"Tun, Ruby jee",0
-PRECINCT 99,United States Senator (Republican),"Ensign, John",0
-PRECINCT 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-PRECINCT 99,United States Senator (Republican),None Of These Candidates,0
+PRECINCT 99,U.S. Senate (Democratic),"Carter, Jack",0
+PRECINCT 99,U.S. Senate (Democratic),None Of These Candidates,0
+PRECINCT 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+PRECINCT 99,U.S. Senate (Republican),"Ensign, John",0
+PRECINCT 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+PRECINCT 99,U.S. Senate (Republican),None Of These Candidates,0

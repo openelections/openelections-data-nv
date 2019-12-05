@@ -63,15 +63,15 @@ PRECINCT 1,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",418
 PRECINCT 1,"U.S. Representative in Congress, District 2","Best, Russell",34
 PRECINCT 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",429
 PRECINCT 1,"U.S. Representative in Congress, District 2","Price, Nancy",108
-PRECINCT 1,United States Senator,"Angle, Sharron",347
-PRECINCT 1,United States Senator,"Ashjian, Scott",8
-PRECINCT 1,United States Senator,"Fasano, Tim",4
-PRECINCT 1,United States Senator,"Haines, Michael L.",6
-PRECINCT 1,United States Senator,"Holland, Jesse",10
-PRECINCT 1,United States Senator,None Of These Candidates,27
-PRECINCT 1,United States Senator,"Reeves, Jeffrey C.",4
-PRECINCT 1,United States Senator,"REID, HARRY",183
-PRECINCT 1,United States Senator,"Stand, Wil",1
+PRECINCT 1,U.S. Senate,"Angle, Sharron",347
+PRECINCT 1,U.S. Senate,"Ashjian, Scott",8
+PRECINCT 1,U.S. Senate,"Fasano, Tim",4
+PRECINCT 1,U.S. Senate,"Haines, Michael L.",6
+PRECINCT 1,U.S. Senate,"Holland, Jesse",10
+PRECINCT 1,U.S. Senate,None Of These Candidates,27
+PRECINCT 1,U.S. Senate,"Reeves, Jeffrey C.",4
+PRECINCT 1,U.S. Senate,"REID, HARRY",183
+PRECINCT 1,U.S. Senate,"Stand, Wil",1
 PRECINCT 1,"University Board of Regents, District  8","MELCHER, KEVIN C.",294
 PRECINCT 1,"University Board of Regents, District  8","PUCCINELLI, MARGARET",219
 PRECINCT 3,Assessor,"HAMILTON, CELESTE",316
@@ -138,15 +138,15 @@ PRECINCT 3,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",250
 PRECINCT 3,"U.S. Representative in Congress, District 2","Best, Russell",19
 PRECINCT 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",231
 PRECINCT 3,"U.S. Representative in Congress, District 2","Price, Nancy",89
-PRECINCT 3,United States Senator,"Angle, Sharron",162
-PRECINCT 3,United States Senator,"Ashjian, Scott",8
-PRECINCT 3,United States Senator,"Fasano, Tim",3
-PRECINCT 3,United States Senator,"Haines, Michael L.",2
-PRECINCT 3,United States Senator,"Holland, Jesse",6
-PRECINCT 3,United States Senator,None Of These Candidates,15
-PRECINCT 3,United States Senator,"Reeves, Jeffrey C.",2
-PRECINCT 3,United States Senator,"REID, HARRY",144
-PRECINCT 3,United States Senator,"Stand, Wil",4
+PRECINCT 3,U.S. Senate,"Angle, Sharron",162
+PRECINCT 3,U.S. Senate,"Ashjian, Scott",8
+PRECINCT 3,U.S. Senate,"Fasano, Tim",3
+PRECINCT 3,U.S. Senate,"Haines, Michael L.",2
+PRECINCT 3,U.S. Senate,"Holland, Jesse",6
+PRECINCT 3,U.S. Senate,None Of These Candidates,15
+PRECINCT 3,U.S. Senate,"Reeves, Jeffrey C.",2
+PRECINCT 3,U.S. Senate,"REID, HARRY",144
+PRECINCT 3,U.S. Senate,"Stand, Wil",4
 PRECINCT 3,"University Board of Regents, District  8","MELCHER, KEVIN C.",160
 PRECINCT 3,"University Board of Regents, District  8","PUCCINELLI, MARGARET",144
 PRECINCT 4,Assessor,"HAMILTON, CELESTE",237
@@ -213,15 +213,15 @@ PRECINCT 4,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",183
 PRECINCT 4,"U.S. Representative in Congress, District 2","Best, Russell",17
 PRECINCT 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",155
 PRECINCT 4,"U.S. Representative in Congress, District 2","Price, Nancy",82
-PRECINCT 4,United States Senator,"Angle, Sharron",82
-PRECINCT 4,United States Senator,"Ashjian, Scott",5
-PRECINCT 4,United States Senator,"Fasano, Tim",7
-PRECINCT 4,United States Senator,"Haines, Michael L.",4
-PRECINCT 4,United States Senator,"Holland, Jesse",9
-PRECINCT 4,United States Senator,None Of These Candidates,19
-PRECINCT 4,United States Senator,"Reeves, Jeffrey C.",4
-PRECINCT 4,United States Senator,"REID, HARRY",129
-PRECINCT 4,United States Senator,"Stand, Wil",0
+PRECINCT 4,U.S. Senate,"Angle, Sharron",82
+PRECINCT 4,U.S. Senate,"Ashjian, Scott",5
+PRECINCT 4,U.S. Senate,"Fasano, Tim",7
+PRECINCT 4,U.S. Senate,"Haines, Michael L.",4
+PRECINCT 4,U.S. Senate,"Holland, Jesse",9
+PRECINCT 4,U.S. Senate,None Of These Candidates,19
+PRECINCT 4,U.S. Senate,"Reeves, Jeffrey C.",4
+PRECINCT 4,U.S. Senate,"REID, HARRY",129
+PRECINCT 4,U.S. Senate,"Stand, Wil",0
 PRECINCT 4,"University Board of Regents, District  8","MELCHER, KEVIN C.",134
 PRECINCT 4,"University Board of Regents, District  8","PUCCINELLI, MARGARET",103
 PRECINCT 5,Assessor,"HAMILTON, CELESTE",65
@@ -282,15 +282,15 @@ PRECINCT 5,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",57
 PRECINCT 5,"U.S. Representative in Congress, District 2","Best, Russell",8
 PRECINCT 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",58
 PRECINCT 5,"U.S. Representative in Congress, District 2","Price, Nancy",16
-PRECINCT 5,United States Senator,"Angle, Sharron",46
-PRECINCT 5,United States Senator,"Ashjian, Scott",4
-PRECINCT 5,United States Senator,"Fasano, Tim",1
-PRECINCT 5,United States Senator,"Haines, Michael L.",1
-PRECINCT 5,United States Senator,"Holland, Jesse",3
-PRECINCT 5,United States Senator,None Of These Candidates,4
-PRECINCT 5,United States Senator,"Reeves, Jeffrey C.",3
-PRECINCT 5,United States Senator,"REID, HARRY",23
-PRECINCT 5,United States Senator,"Stand, Wil",0
+PRECINCT 5,U.S. Senate,"Angle, Sharron",46
+PRECINCT 5,U.S. Senate,"Ashjian, Scott",4
+PRECINCT 5,U.S. Senate,"Fasano, Tim",1
+PRECINCT 5,U.S. Senate,"Haines, Michael L.",1
+PRECINCT 5,U.S. Senate,"Holland, Jesse",3
+PRECINCT 5,U.S. Senate,None Of These Candidates,4
+PRECINCT 5,U.S. Senate,"Reeves, Jeffrey C.",3
+PRECINCT 5,U.S. Senate,"REID, HARRY",23
+PRECINCT 5,U.S. Senate,"Stand, Wil",0
 PRECINCT 5,"University Board of Regents, District  8","MELCHER, KEVIN C.",30
 PRECINCT 5,"University Board of Regents, District  8","PUCCINELLI, MARGARET",38
 PRECINCT 6,Assessor,"HAMILTON, CELESTE",199
@@ -351,15 +351,15 @@ PRECINCT 6,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",185
 PRECINCT 6,"U.S. Representative in Congress, District 2","Best, Russell",24
 PRECINCT 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",194
 PRECINCT 6,"U.S. Representative in Congress, District 2","Price, Nancy",40
-PRECINCT 6,United States Senator,"Angle, Sharron",157
-PRECINCT 6,United States Senator,"Ashjian, Scott",9
-PRECINCT 6,United States Senator,"Fasano, Tim",7
-PRECINCT 6,United States Senator,"Haines, Michael L.",2
-PRECINCT 6,United States Senator,"Holland, Jesse",8
-PRECINCT 6,United States Senator,None Of These Candidates,8
-PRECINCT 6,United States Senator,"Reeves, Jeffrey C.",1
-PRECINCT 6,United States Senator,"REID, HARRY",72
-PRECINCT 6,United States Senator,"Stand, Wil",0
+PRECINCT 6,U.S. Senate,"Angle, Sharron",157
+PRECINCT 6,U.S. Senate,"Ashjian, Scott",9
+PRECINCT 6,U.S. Senate,"Fasano, Tim",7
+PRECINCT 6,U.S. Senate,"Haines, Michael L.",2
+PRECINCT 6,U.S. Senate,"Holland, Jesse",8
+PRECINCT 6,U.S. Senate,None Of These Candidates,8
+PRECINCT 6,U.S. Senate,"Reeves, Jeffrey C.",1
+PRECINCT 6,U.S. Senate,"REID, HARRY",72
+PRECINCT 6,U.S. Senate,"Stand, Wil",0
 PRECINCT 6,"University Board of Regents, District  8","MELCHER, KEVIN C.",110
 PRECINCT 6,"University Board of Regents, District  8","PUCCINELLI, MARGARET",110
 PRECINCT 7,Assessor,"HAMILTON, CELESTE",152
@@ -420,26 +420,26 @@ PRECINCT 7,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",130
 PRECINCT 7,"U.S. Representative in Congress, District 2","Best, Russell",5
 PRECINCT 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",149
 PRECINCT 7,"U.S. Representative in Congress, District 2","Price, Nancy",36
-PRECINCT 7,United States Senator,"Angle, Sharron",121
-PRECINCT 7,United States Senator,"Ashjian, Scott",7
-PRECINCT 7,United States Senator,"Fasano, Tim",7
-PRECINCT 7,United States Senator,"Haines, Michael L.",0
-PRECINCT 7,United States Senator,"Holland, Jesse",1
-PRECINCT 7,United States Senator,None Of These Candidates,10
-PRECINCT 7,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 7,United States Senator,"REID, HARRY",46
-PRECINCT 7,United States Senator,"Stand, Wil",0
+PRECINCT 7,U.S. Senate,"Angle, Sharron",121
+PRECINCT 7,U.S. Senate,"Ashjian, Scott",7
+PRECINCT 7,U.S. Senate,"Fasano, Tim",7
+PRECINCT 7,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 7,U.S. Senate,"Holland, Jesse",1
+PRECINCT 7,U.S. Senate,None Of These Candidates,10
+PRECINCT 7,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 7,U.S. Senate,"REID, HARRY",46
+PRECINCT 7,U.S. Senate,"Stand, Wil",0
 PRECINCT 7,"University Board of Regents, District  8","MELCHER, KEVIN C.",77
 PRECINCT 7,"University Board of Regents, District  8","PUCCINELLI, MARGARET",71
 PRECINCT 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 99,United States Senator,"Angle, Sharron",0
-PRECINCT 99,United States Senator,"Ashjian, Scott",0
-PRECINCT 99,United States Senator,"Fasano, Tim",0
-PRECINCT 99,United States Senator,"Haines, Michael L.",0
-PRECINCT 99,United States Senator,"Holland, Jesse",0
-PRECINCT 99,United States Senator,None Of These Candidates,0
-PRECINCT 99,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 99,United States Senator,"REID, HARRY",0
-PRECINCT 99,United States Senator,"Stand, Wil",0
+PRECINCT 99,U.S. Senate,"Angle, Sharron",0
+PRECINCT 99,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 99,U.S. Senate,"Fasano, Tim",0
+PRECINCT 99,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 99,U.S. Senate,"Holland, Jesse",0
+PRECINCT 99,U.S. Senate,None Of These Candidates,0
+PRECINCT 99,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 99,U.S. Senate,"REID, HARRY",0
+PRECINCT 99,U.S. Senate,"Stand, Wil",0

@@ -40,24 +40,24 @@ precinct,office,candidate,votes
 1 - ALAMO,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",29
 1 - ALAMO,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",35
 1 - ALAMO,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",192
-1 - ALAMO,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",8
-1 - ALAMO,United States Senator (Democratic),"Miller, Alex",21
-1 - ALAMO,United States Senator (Democratic),None Of These Candidates,21
-1 - ALAMO,United States Senator (Democratic),"Poliak, Carlo",1
-1 - ALAMO,United States Senator (Democratic),"Reid, Harry",36
-1 - ALAMO,United States Senator (Republican),"Angle, Sharron",58
-1 - ALAMO,United States Senator (Republican),"Bernstein, Gary",0
-1 - ALAMO,United States Senator (Republican),"Chachas, John",1
-1 - ALAMO,United States Senator (Republican),"Christensen, Chad",44
-1 - ALAMO,United States Senator (Republican),"Lowden, Sue",10
-1 - ALAMO,United States Senator (Republican),"Mabey, Garn",0
-1 - ALAMO,United States Senator (Republican),"Marinch, Gary",0
-1 - ALAMO,United States Senator (Republican),"Nadell, Brian",0
-1 - ALAMO,United States Senator (Republican),None Of These Candidates,4
-1 - ALAMO,United States Senator (Republican),"Parson, Bill",0
-1 - ALAMO,United States Senator (Republican),"Stern, Cecilia",0
-1 - ALAMO,United States Senator (Republican),"Suominen, Terry",0
-1 - ALAMO,United States Senator (Republican),"Tarkanian, Danny",120
+1 - ALAMO,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",8
+1 - ALAMO,U.S. Senate (Democratic),"Miller, Alex",21
+1 - ALAMO,U.S. Senate (Democratic),None Of These Candidates,21
+1 - ALAMO,U.S. Senate (Democratic),"Poliak, Carlo",1
+1 - ALAMO,U.S. Senate (Democratic),"Reid, Harry",36
+1 - ALAMO,U.S. Senate (Republican),"Angle, Sharron",58
+1 - ALAMO,U.S. Senate (Republican),"Bernstein, Gary",0
+1 - ALAMO,U.S. Senate (Republican),"Chachas, John",1
+1 - ALAMO,U.S. Senate (Republican),"Christensen, Chad",44
+1 - ALAMO,U.S. Senate (Republican),"Lowden, Sue",10
+1 - ALAMO,U.S. Senate (Republican),"Mabey, Garn",0
+1 - ALAMO,U.S. Senate (Republican),"Marinch, Gary",0
+1 - ALAMO,U.S. Senate (Republican),"Nadell, Brian",0
+1 - ALAMO,U.S. Senate (Republican),None Of These Candidates,4
+1 - ALAMO,U.S. Senate (Republican),"Parson, Bill",0
+1 - ALAMO,U.S. Senate (Republican),"Stern, Cecilia",0
+1 - ALAMO,U.S. Senate (Republican),"Suominen, Terry",0
+1 - ALAMO,U.S. Senate (Republican),"Tarkanian, Danny",120
 1 - ALAMO,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",46
 1 - ALAMO,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",116
 1 - ALAMO,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",106
@@ -102,24 +102,24 @@ precinct,office,candidate,votes
 2 - CALIENTE,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",62
 2 - CALIENTE,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",24
 2 - CALIENTE,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",145
-2 - CALIENTE,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",15
-2 - CALIENTE,United States Senator (Democratic),"Miller, Alex",25
-2 - CALIENTE,United States Senator (Democratic),None Of These Candidates,38
-2 - CALIENTE,United States Senator (Democratic),"Poliak, Carlo",2
-2 - CALIENTE,United States Senator (Democratic),"Reid, Harry",56
-2 - CALIENTE,United States Senator (Republican),"Angle, Sharron",64
-2 - CALIENTE,United States Senator (Republican),"Bernstein, Gary",1
-2 - CALIENTE,United States Senator (Republican),"Chachas, John",4
-2 - CALIENTE,United States Senator (Republican),"Christensen, Chad",43
-2 - CALIENTE,United States Senator (Republican),"Lowden, Sue",22
-2 - CALIENTE,United States Senator (Republican),"Mabey, Garn",0
-2 - CALIENTE,United States Senator (Republican),"Marinch, Gary",0
-2 - CALIENTE,United States Senator (Republican),"Nadell, Brian",0
-2 - CALIENTE,United States Senator (Republican),None Of These Candidates,2
-2 - CALIENTE,United States Senator (Republican),"Parson, Bill",0
-2 - CALIENTE,United States Senator (Republican),"Stern, Cecilia",0
-2 - CALIENTE,United States Senator (Republican),"Suominen, Terry",0
-2 - CALIENTE,United States Senator (Republican),"Tarkanian, Danny",40
+2 - CALIENTE,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",15
+2 - CALIENTE,U.S. Senate (Democratic),"Miller, Alex",25
+2 - CALIENTE,U.S. Senate (Democratic),None Of These Candidates,38
+2 - CALIENTE,U.S. Senate (Democratic),"Poliak, Carlo",2
+2 - CALIENTE,U.S. Senate (Democratic),"Reid, Harry",56
+2 - CALIENTE,U.S. Senate (Republican),"Angle, Sharron",64
+2 - CALIENTE,U.S. Senate (Republican),"Bernstein, Gary",1
+2 - CALIENTE,U.S. Senate (Republican),"Chachas, John",4
+2 - CALIENTE,U.S. Senate (Republican),"Christensen, Chad",43
+2 - CALIENTE,U.S. Senate (Republican),"Lowden, Sue",22
+2 - CALIENTE,U.S. Senate (Republican),"Mabey, Garn",0
+2 - CALIENTE,U.S. Senate (Republican),"Marinch, Gary",0
+2 - CALIENTE,U.S. Senate (Republican),"Nadell, Brian",0
+2 - CALIENTE,U.S. Senate (Republican),None Of These Candidates,2
+2 - CALIENTE,U.S. Senate (Republican),"Parson, Bill",0
+2 - CALIENTE,U.S. Senate (Republican),"Stern, Cecilia",0
+2 - CALIENTE,U.S. Senate (Republican),"Suominen, Terry",0
+2 - CALIENTE,U.S. Senate (Republican),"Tarkanian, Danny",40
 2 - CALIENTE,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",74
 2 - CALIENTE,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",99
 2 - CALIENTE,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",123
@@ -164,24 +164,24 @@ precinct,office,candidate,votes
 3 - PANACA,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",20
 3 - PANACA,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",29
 3 - PANACA,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",170
-3 - PANACA,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-3 - PANACA,United States Senator (Democratic),"Miller, Alex",22
-3 - PANACA,United States Senator (Democratic),None Of These Candidates,12
-3 - PANACA,United States Senator (Democratic),"Poliak, Carlo",0
-3 - PANACA,United States Senator (Democratic),"Reid, Harry",23
-3 - PANACA,United States Senator (Republican),"Angle, Sharron",70
-3 - PANACA,United States Senator (Republican),"Bernstein, Gary",0
-3 - PANACA,United States Senator (Republican),"Chachas, John",1
-3 - PANACA,United States Senator (Republican),"Christensen, Chad",52
-3 - PANACA,United States Senator (Republican),"Lowden, Sue",27
-3 - PANACA,United States Senator (Republican),"Mabey, Garn",0
-3 - PANACA,United States Senator (Republican),"Marinch, Gary",0
-3 - PANACA,United States Senator (Republican),"Nadell, Brian",0
-3 - PANACA,United States Senator (Republican),None Of These Candidates,7
-3 - PANACA,United States Senator (Republican),"Parson, Bill",1
-3 - PANACA,United States Senator (Republican),"Stern, Cecilia",0
-3 - PANACA,United States Senator (Republican),"Suominen, Terry",0
-3 - PANACA,United States Senator (Republican),"Tarkanian, Danny",58
+3 - PANACA,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+3 - PANACA,U.S. Senate (Democratic),"Miller, Alex",22
+3 - PANACA,U.S. Senate (Democratic),None Of These Candidates,12
+3 - PANACA,U.S. Senate (Democratic),"Poliak, Carlo",0
+3 - PANACA,U.S. Senate (Democratic),"Reid, Harry",23
+3 - PANACA,U.S. Senate (Republican),"Angle, Sharron",70
+3 - PANACA,U.S. Senate (Republican),"Bernstein, Gary",0
+3 - PANACA,U.S. Senate (Republican),"Chachas, John",1
+3 - PANACA,U.S. Senate (Republican),"Christensen, Chad",52
+3 - PANACA,U.S. Senate (Republican),"Lowden, Sue",27
+3 - PANACA,U.S. Senate (Republican),"Mabey, Garn",0
+3 - PANACA,U.S. Senate (Republican),"Marinch, Gary",0
+3 - PANACA,U.S. Senate (Republican),"Nadell, Brian",0
+3 - PANACA,U.S. Senate (Republican),None Of These Candidates,7
+3 - PANACA,U.S. Senate (Republican),"Parson, Bill",1
+3 - PANACA,U.S. Senate (Republican),"Stern, Cecilia",0
+3 - PANACA,U.S. Senate (Republican),"Suominen, Terry",0
+3 - PANACA,U.S. Senate (Republican),"Tarkanian, Danny",58
 3 - PANACA,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",52
 3 - PANACA,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",91
 3 - PANACA,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",76
@@ -226,24 +226,24 @@ precinct,office,candidate,votes
 4 - PIOCHE,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",56
 4 - PIOCHE,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",32
 4 - PIOCHE,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",156
-4 - PIOCHE,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",12
-4 - PIOCHE,United States Senator (Democratic),"Miller, Alex",22
-4 - PIOCHE,United States Senator (Democratic),None Of These Candidates,38
-4 - PIOCHE,United States Senator (Democratic),"Poliak, Carlo",0
-4 - PIOCHE,United States Senator (Democratic),"Reid, Harry",53
-4 - PIOCHE,United States Senator (Republican),"Angle, Sharron",50
-4 - PIOCHE,United States Senator (Republican),"Bernstein, Gary",1
-4 - PIOCHE,United States Senator (Republican),"Chachas, John",2
-4 - PIOCHE,United States Senator (Republican),"Christensen, Chad",26
-4 - PIOCHE,United States Senator (Republican),"Lowden, Sue",56
-4 - PIOCHE,United States Senator (Republican),"Mabey, Garn",0
-4 - PIOCHE,United States Senator (Republican),"Marinch, Gary",0
-4 - PIOCHE,United States Senator (Republican),"Nadell, Brian",0
-4 - PIOCHE,United States Senator (Republican),None Of These Candidates,5
-4 - PIOCHE,United States Senator (Republican),"Parson, Bill",0
-4 - PIOCHE,United States Senator (Republican),"Stern, Cecilia",0
-4 - PIOCHE,United States Senator (Republican),"Suominen, Terry",0
-4 - PIOCHE,United States Senator (Republican),"Tarkanian, Danny",55
+4 - PIOCHE,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",12
+4 - PIOCHE,U.S. Senate (Democratic),"Miller, Alex",22
+4 - PIOCHE,U.S. Senate (Democratic),None Of These Candidates,38
+4 - PIOCHE,U.S. Senate (Democratic),"Poliak, Carlo",0
+4 - PIOCHE,U.S. Senate (Democratic),"Reid, Harry",53
+4 - PIOCHE,U.S. Senate (Republican),"Angle, Sharron",50
+4 - PIOCHE,U.S. Senate (Republican),"Bernstein, Gary",1
+4 - PIOCHE,U.S. Senate (Republican),"Chachas, John",2
+4 - PIOCHE,U.S. Senate (Republican),"Christensen, Chad",26
+4 - PIOCHE,U.S. Senate (Republican),"Lowden, Sue",56
+4 - PIOCHE,U.S. Senate (Republican),"Mabey, Garn",0
+4 - PIOCHE,U.S. Senate (Republican),"Marinch, Gary",0
+4 - PIOCHE,U.S. Senate (Republican),"Nadell, Brian",0
+4 - PIOCHE,U.S. Senate (Republican),None Of These Candidates,5
+4 - PIOCHE,U.S. Senate (Republican),"Parson, Bill",0
+4 - PIOCHE,U.S. Senate (Republican),"Stern, Cecilia",0
+4 - PIOCHE,U.S. Senate (Republican),"Suominen, Terry",0
+4 - PIOCHE,U.S. Senate (Republican),"Tarkanian, Danny",55
 4 - PIOCHE,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",88
 4 - PIOCHE,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",71
 4 - PIOCHE,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",100
@@ -288,24 +288,24 @@ precinct,office,candidate,votes
 5 - RACHEL,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
 5 - RACHEL,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
 5 - RACHEL,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",14
-5 - RACHEL,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",
-5 - RACHEL,United States Senator (Democratic),"Miller, Alex",
-5 - RACHEL,United States Senator (Democratic),None Of These Candidates,
-5 - RACHEL,United States Senator (Democratic),"Poliak, Carlo",
-5 - RACHEL,United States Senator (Democratic),"Reid, Harry",
-5 - RACHEL,United States Senator (Republican),"Angle, Sharron",2
-5 - RACHEL,United States Senator (Republican),"Bernstein, Gary",0
-5 - RACHEL,United States Senator (Republican),"Chachas, John",0
-5 - RACHEL,United States Senator (Republican),"Christensen, Chad",0
-5 - RACHEL,United States Senator (Republican),"Lowden, Sue",10
-5 - RACHEL,United States Senator (Republican),"Mabey, Garn",0
-5 - RACHEL,United States Senator (Republican),"Marinch, Gary",0
-5 - RACHEL,United States Senator (Republican),"Nadell, Brian",0
-5 - RACHEL,United States Senator (Republican),None Of These Candidates,1
-5 - RACHEL,United States Senator (Republican),"Parson, Bill",0
-5 - RACHEL,United States Senator (Republican),"Stern, Cecilia",0
-5 - RACHEL,United States Senator (Republican),"Suominen, Terry",0
-5 - RACHEL,United States Senator (Republican),"Tarkanian, Danny",2
+5 - RACHEL,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",
+5 - RACHEL,U.S. Senate (Democratic),"Miller, Alex",
+5 - RACHEL,U.S. Senate (Democratic),None Of These Candidates,
+5 - RACHEL,U.S. Senate (Democratic),"Poliak, Carlo",
+5 - RACHEL,U.S. Senate (Democratic),"Reid, Harry",
+5 - RACHEL,U.S. Senate (Republican),"Angle, Sharron",2
+5 - RACHEL,U.S. Senate (Republican),"Bernstein, Gary",0
+5 - RACHEL,U.S. Senate (Republican),"Chachas, John",0
+5 - RACHEL,U.S. Senate (Republican),"Christensen, Chad",0
+5 - RACHEL,U.S. Senate (Republican),"Lowden, Sue",10
+5 - RACHEL,U.S. Senate (Republican),"Mabey, Garn",0
+5 - RACHEL,U.S. Senate (Republican),"Marinch, Gary",0
+5 - RACHEL,U.S. Senate (Republican),"Nadell, Brian",0
+5 - RACHEL,U.S. Senate (Republican),None Of These Candidates,1
+5 - RACHEL,U.S. Senate (Republican),"Parson, Bill",0
+5 - RACHEL,U.S. Senate (Republican),"Stern, Cecilia",0
+5 - RACHEL,U.S. Senate (Republican),"Suominen, Terry",0
+5 - RACHEL,U.S. Senate (Republican),"Tarkanian, Danny",2
 5 - RACHEL,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",6
 5 - RACHEL,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",7
 5 - RACHEL,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",9
@@ -314,21 +314,21 @@ Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna,
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
-Precinct 99,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-Precinct 99,United States Senator (Democratic),"Miller, Alex",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Poliak, Carlo",0
-Precinct 99,United States Senator (Democratic),"Reid, Harry",0
-Precinct 99,United States Senator (Republican),"Angle, Sharron",0
-Precinct 99,United States Senator (Republican),"Bernstein, Gary",0
-Precinct 99,United States Senator (Republican),"Chachas, John",0
-Precinct 99,United States Senator (Republican),"Christensen, Chad",0
-Precinct 99,United States Senator (Republican),"Lowden, Sue",0
-Precinct 99,United States Senator (Republican),"Mabey, Garn",0
-Precinct 99,United States Senator (Republican),"Marinch, Gary",0
-Precinct 99,United States Senator (Republican),"Nadell, Brian",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
-Precinct 99,United States Senator (Republican),"Parson, Bill",0
-Precinct 99,United States Senator (Republican),"Stern, Cecilia",0
-Precinct 99,United States Senator (Republican),"Suominen, Terry",0
-Precinct 99,United States Senator (Republican),"Tarkanian, Danny",0
+Precinct 99,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 99,U.S. Senate (Democratic),"Miller, Alex",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Poliak, Carlo",0
+Precinct 99,U.S. Senate (Democratic),"Reid, Harry",0
+Precinct 99,U.S. Senate (Republican),"Angle, Sharron",0
+Precinct 99,U.S. Senate (Republican),"Bernstein, Gary",0
+Precinct 99,U.S. Senate (Republican),"Chachas, John",0
+Precinct 99,U.S. Senate (Republican),"Christensen, Chad",0
+Precinct 99,U.S. Senate (Republican),"Lowden, Sue",0
+Precinct 99,U.S. Senate (Republican),"Mabey, Garn",0
+Precinct 99,U.S. Senate (Republican),"Marinch, Gary",0
+Precinct 99,U.S. Senate (Republican),"Nadell, Brian",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Republican),"Parson, Bill",0
+Precinct 99,U.S. Senate (Republican),"Stern, Cecilia",0
+Precinct 99,U.S. Senate (Republican),"Suominen, Terry",0
+Precinct 99,U.S. Senate (Republican),"Tarkanian, Danny",0

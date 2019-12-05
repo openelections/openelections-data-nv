@@ -5,13 +5,13 @@ Precinct 1,County Commissioner Seat D,"AMOS, GARLEY",250
 Precinct 1,County Commissioner Seat D,"SCHREMPP, RONALD E.",196
 Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",207
 Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",192
-Precinct 1,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 1,President and Vice President of the United States,"BUSH, GEORGE W.",340
-Precinct 1,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 1,President and Vice President of the United States,"KERRY, JOHN F.",131
-Precinct 1,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 1,President and Vice President of the United States,None Of These Candidates,2
-Precinct 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+Precinct 1,President,"BADNARIK, MICHAEL",3
+Precinct 1,President,"BUSH, GEORGE W.",340
+Precinct 1,President,"COBB, DAVID",1
+Precinct 1,President,"KERRY, JOHN F.",131
+Precinct 1,President,"NADER, RALPH",4
+Precinct 1,President,None Of These Candidates,2
+Precinct 1,President,"PEROUTKA, MICHAEL A.",3
 Precinct 1,"State Assembly, District 32","MARVEL, JOHN",384
 Precinct 1,"State Assembly, District 32","MORROW, JOAN",82
 Precinct 1,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",73
@@ -29,12 +29,12 @@ Precinct 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",85
 Precinct 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",366
 Precinct 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
 Precinct 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-Precinct 1,United States Senator,"HURST, THOMAS L.",10
-Precinct 1,United States Senator,"MARINCH, GARY",0
-Precinct 1,United States Senator,None Of These Candidates,13
-Precinct 1,United States Senator,"REID, HARRY",229
-Precinct 1,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 1,United States Senator,"ZISER, RICHARD",212
+Precinct 1,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 1,U.S. Senate,"MARINCH, GARY",0
+Precinct 1,U.S. Senate,None Of These Candidates,13
+Precinct 1,U.S. Senate,"REID, HARRY",229
+Precinct 1,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 1,U.S. Senate,"ZISER, RICHARD",212
 Precinct 1,"University Board of Regents, District  8","AIAZZI, STAN",179
 Precinct 1,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",229
 Precinct 10,County Commissioner Seat A,"FRANSWAY, TOM",92
@@ -43,13 +43,13 @@ Precinct 10,County Commissioner Seat D,"AMOS, GARLEY",81
 Precinct 10,County Commissioner Seat D,"SCHREMPP, RONALD E.",23
 Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",55
 Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",40
-Precinct 10,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 10,President and Vice President of the United States,"BUSH, GEORGE W.",55
-Precinct 10,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 10,President and Vice President of the United States,"KERRY, JOHN F.",64
-Precinct 10,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 10,President and Vice President of the United States,None Of These Candidates,0
-Precinct 10,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 10,President,"BADNARIK, MICHAEL",0
+Precinct 10,President,"BUSH, GEORGE W.",55
+Precinct 10,President,"COBB, DAVID",2
+Precinct 10,President,"KERRY, JOHN F.",64
+Precinct 10,President,"NADER, RALPH",1
+Precinct 10,President,None Of These Candidates,0
+Precinct 10,President,"PEROUTKA, MICHAEL A.",0
 Precinct 10,"State Assembly, District 33","CARPENTER, JOHN C.",80
 Precinct 10,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",36
 Precinct 10,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",78
@@ -66,12 +66,12 @@ Precinct 10,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",41
 Precinct 10,"U.S. Representative in Congress, District 2","GIBBONS, JIM",67
 Precinct 10,"U.S. Representative in Congress, District 2","HANSEN, JANINE",5
 Precinct 10,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 10,United States Senator,"HURST, THOMAS L.",1
-Precinct 10,United States Senator,"MARINCH, GARY",2
-Precinct 10,United States Senator,None Of These Candidates,5
-Precinct 10,United States Senator,"REID, HARRY",87
-Precinct 10,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 10,United States Senator,"ZISER, RICHARD",24
+Precinct 10,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 10,U.S. Senate,"MARINCH, GARY",2
+Precinct 10,U.S. Senate,None Of These Candidates,5
+Precinct 10,U.S. Senate,"REID, HARRY",87
+Precinct 10,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 10,U.S. Senate,"ZISER, RICHARD",24
 Precinct 10,"University Board of Regents, District  8","AIAZZI, STAN",35
 Precinct 10,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",64
 Precinct 11,County Commissioner Seat A,"FRANSWAY, TOM",149
@@ -80,13 +80,13 @@ Precinct 11,County Commissioner Seat D,"AMOS, GARLEY",86
 Precinct 11,County Commissioner Seat D,"SCHREMPP, RONALD E.",83
 Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",78
 Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",57
-Precinct 11,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 11,President and Vice President of the United States,"BUSH, GEORGE W.",158
-Precinct 11,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 11,President and Vice President of the United States,"KERRY, JOHN F.",18
-Precinct 11,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 11,President and Vice President of the United States,None Of These Candidates,0
-Precinct 11,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 11,President,"BADNARIK, MICHAEL",0
+Precinct 11,President,"BUSH, GEORGE W.",158
+Precinct 11,President,"COBB, DAVID",0
+Precinct 11,President,"KERRY, JOHN F.",18
+Precinct 11,President,"NADER, RALPH",1
+Precinct 11,President,None Of These Candidates,0
+Precinct 11,President,"PEROUTKA, MICHAEL A.",0
 Precinct 11,"State Assembly, District 33","CARPENTER, JOHN C.",149
 Precinct 11,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",18
 Precinct 11,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",153
@@ -103,12 +103,12 @@ Precinct 11,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",12
 Precinct 11,"U.S. Representative in Congress, District 2","GIBBONS, JIM",156
 Precinct 11,"U.S. Representative in Congress, District 2","HANSEN, JANINE",6
 Precinct 11,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-Precinct 11,United States Senator,"HURST, THOMAS L.",4
-Precinct 11,United States Senator,"MARINCH, GARY",1
-Precinct 11,United States Senator,None Of These Candidates,6
-Precinct 11,United States Senator,"REID, HARRY",33
-Precinct 11,United States Senator,"SCHUMANN, DAVID K.",3
-Precinct 11,United States Senator,"ZISER, RICHARD",130
+Precinct 11,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 11,U.S. Senate,"MARINCH, GARY",1
+Precinct 11,U.S. Senate,None Of These Candidates,6
+Precinct 11,U.S. Senate,"REID, HARRY",33
+Precinct 11,U.S. Senate,"SCHUMANN, DAVID K.",3
+Precinct 11,U.S. Senate,"ZISER, RICHARD",130
 Precinct 11,"University Board of Regents, District  8","AIAZZI, STAN",61
 Precinct 11,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",87
 Precinct 12,County Commissioner Seat A,"FRANSWAY, TOM",96
@@ -117,13 +117,13 @@ Precinct 12,County Commissioner Seat D,"AMOS, GARLEY",66
 Precinct 12,County Commissioner Seat D,"SCHREMPP, RONALD E.",63
 Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",44
 Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",50
-Precinct 12,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 12,President and Vice President of the United States,"BUSH, GEORGE W.",113
-Precinct 12,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 12,President and Vice President of the United States,"KERRY, JOHN F.",15
-Precinct 12,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 12,President and Vice President of the United States,None Of These Candidates,1
-Precinct 12,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 12,President,"BADNARIK, MICHAEL",0
+Precinct 12,President,"BUSH, GEORGE W.",113
+Precinct 12,President,"COBB, DAVID",0
+Precinct 12,President,"KERRY, JOHN F.",15
+Precinct 12,President,"NADER, RALPH",1
+Precinct 12,President,None Of These Candidates,1
+Precinct 12,President,"PEROUTKA, MICHAEL A.",0
 Precinct 12,"State Assembly, District 33","CARPENTER, JOHN C.",99
 Precinct 12,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",13
 Precinct 12,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",110
@@ -140,12 +140,12 @@ Precinct 12,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",10
 Precinct 12,"U.S. Representative in Congress, District 2","GIBBONS, JIM",114
 Precinct 12,"U.S. Representative in Congress, District 2","HANSEN, JANINE",4
 Precinct 12,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-Precinct 12,United States Senator,"HURST, THOMAS L.",2
-Precinct 12,United States Senator,"MARINCH, GARY",0
-Precinct 12,United States Senator,None Of These Candidates,3
-Precinct 12,United States Senator,"REID, HARRY",35
-Precinct 12,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 12,United States Senator,"ZISER, RICHARD",88
+Precinct 12,U.S. Senate,"HURST, THOMAS L.",2
+Precinct 12,U.S. Senate,"MARINCH, GARY",0
+Precinct 12,U.S. Senate,None Of These Candidates,3
+Precinct 12,U.S. Senate,"REID, HARRY",35
+Precinct 12,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 12,U.S. Senate,"ZISER, RICHARD",88
 Precinct 12,"University Board of Regents, District  8","AIAZZI, STAN",58
 Precinct 12,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",49
 Precinct 13,County Commissioner Seat A,"FRANSWAY, TOM",123
@@ -154,13 +154,13 @@ Precinct 13,County Commissioner Seat D,"AMOS, GARLEY",77
 Precinct 13,County Commissioner Seat D,"SCHREMPP, RONALD E.",73
 Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",65
 Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",65
-Precinct 13,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 13,President and Vice President of the United States,"BUSH, GEORGE W.",112
-Precinct 13,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 13,President and Vice President of the United States,"KERRY, JOHN F.",52
-Precinct 13,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 13,President and Vice President of the United States,None Of These Candidates,3
-Precinct 13,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 13,President,"BADNARIK, MICHAEL",2
+Precinct 13,President,"BUSH, GEORGE W.",112
+Precinct 13,President,"COBB, DAVID",0
+Precinct 13,President,"KERRY, JOHN F.",52
+Precinct 13,President,"NADER, RALPH",3
+Precinct 13,President,None Of These Candidates,3
+Precinct 13,President,"PEROUTKA, MICHAEL A.",2
 Precinct 13,"State Assembly, District 33","CARPENTER, JOHN C.",124
 Precinct 13,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",41
 Precinct 13,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",117
@@ -177,12 +177,12 @@ Precinct 13,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",37
 Precinct 13,"U.S. Representative in Congress, District 2","GIBBONS, JIM",116
 Precinct 13,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
 Precinct 13,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Precinct 13,United States Senator,"HURST, THOMAS L.",10
-Precinct 13,United States Senator,"MARINCH, GARY",0
-Precinct 13,United States Senator,None Of These Candidates,0
-Precinct 13,United States Senator,"REID, HARRY",75
-Precinct 13,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 13,United States Senator,"ZISER, RICHARD",79
+Precinct 13,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 13,U.S. Senate,"MARINCH, GARY",0
+Precinct 13,U.S. Senate,None Of These Candidates,0
+Precinct 13,U.S. Senate,"REID, HARRY",75
+Precinct 13,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 13,U.S. Senate,"ZISER, RICHARD",79
 Precinct 13,"University Board of Regents, District  8","AIAZZI, STAN",65
 Precinct 13,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",79
 Precinct 14,County Commissioner Seat A,"FRANSWAY, TOM",143
@@ -191,13 +191,13 @@ Precinct 14,County Commissioner Seat D,"AMOS, GARLEY",88
 Precinct 14,County Commissioner Seat D,"SCHREMPP, RONALD E.",78
 Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",71
 Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",73
-Precinct 14,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 14,President and Vice President of the United States,"BUSH, GEORGE W.",133
-Precinct 14,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 14,President and Vice President of the United States,"KERRY, JOHN F.",38
-Precinct 14,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 14,President and Vice President of the United States,None Of These Candidates,1
-Precinct 14,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 14,President,"BADNARIK, MICHAEL",1
+Precinct 14,President,"BUSH, GEORGE W.",133
+Precinct 14,President,"COBB, DAVID",1
+Precinct 14,President,"KERRY, JOHN F.",38
+Precinct 14,President,"NADER, RALPH",1
+Precinct 14,President,None Of These Candidates,1
+Precinct 14,President,"PEROUTKA, MICHAEL A.",0
 Precinct 14,"State Assembly, District 32","MARVEL, JOHN",152
 Precinct 14,"State Assembly, District 32","MORROW, JOAN",18
 Precinct 14,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",21
@@ -215,12 +215,12 @@ Precinct 14,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",19
 Precinct 14,"U.S. Representative in Congress, District 2","GIBBONS, JIM",147
 Precinct 14,"U.S. Representative in Congress, District 2","HANSEN, JANINE",3
 Precinct 14,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 14,United States Senator,"HURST, THOMAS L.",1
-Precinct 14,United States Senator,"MARINCH, GARY",0
-Precinct 14,United States Senator,None Of These Candidates,4
-Precinct 14,United States Senator,"REID, HARRY",83
-Precinct 14,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 14,United States Senator,"ZISER, RICHARD",85
+Precinct 14,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 14,U.S. Senate,"MARINCH, GARY",0
+Precinct 14,U.S. Senate,None Of These Candidates,4
+Precinct 14,U.S. Senate,"REID, HARRY",83
+Precinct 14,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 14,U.S. Senate,"ZISER, RICHARD",85
 Precinct 14,"University Board of Regents, District  8","AIAZZI, STAN",69
 Precinct 14,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",77
 Precinct 15,County Commissioner Seat A,"FRANSWAY, TOM",139
@@ -229,13 +229,13 @@ Precinct 15,County Commissioner Seat D,"AMOS, GARLEY",88
 Precinct 15,County Commissioner Seat D,"SCHREMPP, RONALD E.",68
 Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",72
 Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",69
-Precinct 15,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 15,President and Vice President of the United States,"BUSH, GEORGE W.",127
-Precinct 15,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 15,President and Vice President of the United States,"KERRY, JOHN F.",29
-Precinct 15,President and Vice President of the United States,"NADER, RALPH",6
-Precinct 15,President and Vice President of the United States,None Of These Candidates,0
-Precinct 15,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 15,President,"BADNARIK, MICHAEL",2
+Precinct 15,President,"BUSH, GEORGE W.",127
+Precinct 15,President,"COBB, DAVID",1
+Precinct 15,President,"KERRY, JOHN F.",29
+Precinct 15,President,"NADER, RALPH",6
+Precinct 15,President,None Of These Candidates,0
+Precinct 15,President,"PEROUTKA, MICHAEL A.",0
 Precinct 15,"State Assembly, District 33","CARPENTER, JOHN C.",139
 Precinct 15,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",37
 Precinct 15,"State Senate, Rural Senatorial District","RHOADS, DEAN A.",121
@@ -252,12 +252,12 @@ Precinct 15,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",22
 Precinct 15,"U.S. Representative in Congress, District 2","GIBBONS, JIM",125
 Precinct 15,"U.S. Representative in Congress, District 2","HANSEN, JANINE",14
 Precinct 15,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 15,United States Senator,"HURST, THOMAS L.",1
-Precinct 15,United States Senator,"MARINCH, GARY",3
-Precinct 15,United States Senator,None Of These Candidates,6
-Precinct 15,United States Senator,"REID, HARRY",67
-Precinct 15,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 15,United States Senator,"ZISER, RICHARD",82
+Precinct 15,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 15,U.S. Senate,"MARINCH, GARY",3
+Precinct 15,U.S. Senate,None Of These Candidates,6
+Precinct 15,U.S. Senate,"REID, HARRY",67
+Precinct 15,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 15,U.S. Senate,"ZISER, RICHARD",82
 Precinct 15,"University Board of Regents, District  8","AIAZZI, STAN",54
 Precinct 15,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",91
 Precinct 2,County Commissioner Seat A,"FRANSWAY, TOM",314
@@ -266,13 +266,13 @@ Precinct 2,County Commissioner Seat D,"AMOS, GARLEY",206
 Precinct 2,County Commissioner Seat D,"SCHREMPP, RONALD E.",163
 Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",178
 Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",150
-Precinct 2,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 2,President and Vice President of the United States,"BUSH, GEORGE W.",225
-Precinct 2,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 2,President and Vice President of the United States,"KERRY, JOHN F.",154
-Precinct 2,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 2,President and Vice President of the United States,None Of These Candidates,1
-Precinct 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 2,President,"BADNARIK, MICHAEL",3
+Precinct 2,President,"BUSH, GEORGE W.",225
+Precinct 2,President,"COBB, DAVID",1
+Precinct 2,President,"KERRY, JOHN F.",154
+Precinct 2,President,"NADER, RALPH",5
+Precinct 2,President,None Of These Candidates,1
+Precinct 2,President,"PEROUTKA, MICHAEL A.",1
 Precinct 2,"State Assembly, District 32","MARVEL, JOHN",290
 Precinct 2,"State Assembly, District 32","MORROW, JOAN",93
 Precinct 2,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",73
@@ -290,12 +290,12 @@ Precinct 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",93
 Precinct 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",266
 Precinct 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",9
 Precinct 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-Precinct 2,United States Senator,"HURST, THOMAS L.",10
-Precinct 2,United States Senator,"MARINCH, GARY",0
-Precinct 2,United States Senator,None Of These Candidates,13
-Precinct 2,United States Senator,"REID, HARRY",232
-Precinct 2,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 2,United States Senator,"ZISER, RICHARD",125
+Precinct 2,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 2,U.S. Senate,"MARINCH, GARY",0
+Precinct 2,U.S. Senate,None Of These Candidates,13
+Precinct 2,U.S. Senate,"REID, HARRY",232
+Precinct 2,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 2,U.S. Senate,"ZISER, RICHARD",125
 Precinct 2,"University Board of Regents, District  8","AIAZZI, STAN",120
 Precinct 2,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",220
 Precinct 3,County Commissioner Seat A,"FRANSWAY, TOM",434
@@ -304,13 +304,13 @@ Precinct 3,County Commissioner Seat D,"AMOS, GARLEY",253
 Precinct 3,County Commissioner Seat D,"SCHREMPP, RONALD E.",236
 Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",226
 Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",195
-Precinct 3,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 3,President and Vice President of the United States,"BUSH, GEORGE W.",352
-Precinct 3,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 3,President and Vice President of the United States,"KERRY, JOHN F.",165
-Precinct 3,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 3,President and Vice President of the United States,None Of These Candidates,3
-Precinct 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 3,President,"BADNARIK, MICHAEL",1
+Precinct 3,President,"BUSH, GEORGE W.",352
+Precinct 3,President,"COBB, DAVID",0
+Precinct 3,President,"KERRY, JOHN F.",165
+Precinct 3,President,"NADER, RALPH",1
+Precinct 3,President,None Of These Candidates,3
+Precinct 3,President,"PEROUTKA, MICHAEL A.",1
 Precinct 3,"State Assembly, District 32","MARVEL, JOHN",412
 Precinct 3,"State Assembly, District 32","MORROW, JOAN",94
 Precinct 3,"State Senate, Rural Senatorial District","JEFFERSON, THOMAS",77
@@ -328,12 +328,12 @@ Precinct 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",103
 Precinct 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",386
 Precinct 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",14
 Precinct 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-Precinct 3,United States Senator,"HURST, THOMAS L.",6
-Precinct 3,United States Senator,"MARINCH, GARY",0
-Precinct 3,United States Senator,None Of These Candidates,14
-Precinct 3,United States Senator,"REID, HARRY",288
-Precinct 3,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 3,United States Senator,"ZISER, RICHARD",191
+Precinct 3,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 3,U.S. Senate,"MARINCH, GARY",0
+Precinct 3,U.S. Senate,None Of These Candidates,14
+Precinct 3,U.S. Senate,"REID, HARRY",288
+Precinct 3,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 3,U.S. Senate,"ZISER, RICHARD",191
 Precinct 3,"University Board of Regents, District  8","AIAZZI, STAN",183
 Precinct 3,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",274
 Precinct 4,County Commissioner Seat A,"FRANSWAY, TOM",395
@@ -342,13 +342,13 @@ Precinct 4,County Commissioner Seat D,"AMOS, GARLEY",222
 Precinct 4,County Commissioner Seat D,"SCHREMPP, RONALD E.",211
 Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",222
 Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",185
-Precinct 4,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 4,President and Vice President of the United States,"BUSH, GEORGE W.",327
-Precinct 4,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 4,President and Vice President of the United States,"KERRY, JOHN F.",147
-Precinct 4,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 4,President and Vice President of the United States,None Of These Candidates,1
-Precinct 4,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 4,President,"BADNARIK, MICHAEL",1
+Precinct 4,President,"BUSH, GEORGE W.",327
+Precinct 4,President,"COBB, DAVID",1
+Precinct 4,President,"KERRY, JOHN F.",147
+Precinct 4,President,"NADER, RALPH",1
+Precinct 4,President,None Of These Candidates,1
+Precinct 4,President,"PEROUTKA, MICHAEL A.",0
 Precinct 4,"State Assembly, District 35","DeBRAGA, MARCIA",183
 Precinct 4,"State Assembly, District 35","GOICOECHEA, PETE",260
 Precinct 4,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",18
@@ -367,12 +367,12 @@ Precinct 4,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",99
 Precinct 4,"U.S. Representative in Congress, District 2","GIBBONS, JIM",342
 Precinct 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
 Precinct 4,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Precinct 4,United States Senator,"HURST, THOMAS L.",6
-Precinct 4,United States Senator,"MARINCH, GARY",0
-Precinct 4,United States Senator,None Of These Candidates,12
-Precinct 4,United States Senator,"REID, HARRY",231
-Precinct 4,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 4,United States Senator,"ZISER, RICHARD",207
+Precinct 4,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 4,U.S. Senate,"MARINCH, GARY",0
+Precinct 4,U.S. Senate,None Of These Candidates,12
+Precinct 4,U.S. Senate,"REID, HARRY",231
+Precinct 4,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 4,U.S. Senate,"ZISER, RICHARD",207
 Precinct 4,"University Board of Regents, District  8","AIAZZI, STAN",166
 Precinct 4,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",243
 Precinct 5,County Commissioner Seat A,"FRANSWAY, TOM",690
@@ -381,13 +381,13 @@ Precinct 5,County Commissioner Seat D,"AMOS, GARLEY",379
 Precinct 5,County Commissioner Seat D,"SCHREMPP, RONALD E.",397
 Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",355
 Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",301
-Precinct 5,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 5,President and Vice President of the United States,"BUSH, GEORGE W.",614
-Precinct 5,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 5,President and Vice President of the United States,"KERRY, JOHN F.",190
-Precinct 5,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 5,President and Vice President of the United States,None Of These Candidates,3
-Precinct 5,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 5,President,"BADNARIK, MICHAEL",0
+Precinct 5,President,"BUSH, GEORGE W.",614
+Precinct 5,President,"COBB, DAVID",1
+Precinct 5,President,"KERRY, JOHN F.",190
+Precinct 5,President,"NADER, RALPH",3
+Precinct 5,President,None Of These Candidates,3
+Precinct 5,President,"PEROUTKA, MICHAEL A.",1
 Precinct 5,"State Assembly, District 35","DeBRAGA, MARCIA",254
 Precinct 5,"State Assembly, District 35","GOICOECHEA, PETE",536
 Precinct 5,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",7
@@ -406,12 +406,12 @@ Precinct 5,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",109
 Precinct 5,"U.S. Representative in Congress, District 2","GIBBONS, JIM",668
 Precinct 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",13
 Precinct 5,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-Precinct 5,United States Senator,"HURST, THOMAS L.",4
-Precinct 5,United States Senator,"MARINCH, GARY",0
-Precinct 5,United States Senator,None Of These Candidates,14
-Precinct 5,United States Senator,"REID, HARRY",404
-Precinct 5,United States Senator,"SCHUMANN, DAVID K.",11
-Precinct 5,United States Senator,"ZISER, RICHARD",373
+Precinct 5,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 5,U.S. Senate,"MARINCH, GARY",0
+Precinct 5,U.S. Senate,None Of These Candidates,14
+Precinct 5,U.S. Senate,"REID, HARRY",404
+Precinct 5,U.S. Senate,"SCHUMANN, DAVID K.",11
+Precinct 5,U.S. Senate,"ZISER, RICHARD",373
 Precinct 5,"University Board of Regents, District  8","AIAZZI, STAN",302
 Precinct 5,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",381
 Precinct 6,County Commissioner Seat A,"FRANSWAY, TOM",670
@@ -420,13 +420,13 @@ Precinct 6,County Commissioner Seat D,"AMOS, GARLEY",375
 Precinct 6,County Commissioner Seat D,"SCHREMPP, RONALD E.",376
 Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",365
 Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",311
-Precinct 6,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 6,President and Vice President of the United States,"BUSH, GEORGE W.",605
-Precinct 6,President and Vice President of the United States,"COBB, DAVID",3
-Precinct 6,President and Vice President of the United States,"KERRY, JOHN F.",162
-Precinct 6,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 6,President and Vice President of the United States,None Of These Candidates,8
-Precinct 6,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+Precinct 6,President,"BADNARIK, MICHAEL",2
+Precinct 6,President,"BUSH, GEORGE W.",605
+Precinct 6,President,"COBB, DAVID",3
+Precinct 6,President,"KERRY, JOHN F.",162
+Precinct 6,President,"NADER, RALPH",5
+Precinct 6,President,None Of These Candidates,8
+Precinct 6,President,"PEROUTKA, MICHAEL A.",3
 Precinct 6,"State Assembly, District 35","DeBRAGA, MARCIA",232
 Precinct 6,"State Assembly, District 35","GOICOECHEA, PETE",509
 Precinct 6,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",29
@@ -445,12 +445,12 @@ Precinct 6,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",119
 Precinct 6,"U.S. Representative in Congress, District 2","GIBBONS, JIM",612
 Precinct 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",42
 Precinct 6,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Precinct 6,United States Senator,"HURST, THOMAS L.",6
-Precinct 6,United States Senator,"MARINCH, GARY",4
-Precinct 6,United States Senator,None Of These Candidates,17
-Precinct 6,United States Senator,"REID, HARRY",359
-Precinct 6,United States Senator,"SCHUMANN, DAVID K.",15
-Precinct 6,United States Senator,"ZISER, RICHARD",371
+Precinct 6,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 6,U.S. Senate,"MARINCH, GARY",4
+Precinct 6,U.S. Senate,None Of These Candidates,17
+Precinct 6,U.S. Senate,"REID, HARRY",359
+Precinct 6,U.S. Senate,"SCHUMANN, DAVID K.",15
+Precinct 6,U.S. Senate,"ZISER, RICHARD",371
 Precinct 6,"University Board of Regents, District  8","AIAZZI, STAN",281
 Precinct 6,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",400
 Precinct 7,County Commissioner Seat A,"FRANSWAY, TOM",602
@@ -459,13 +459,13 @@ Precinct 7,County Commissioner Seat D,"AMOS, GARLEY",360
 Precinct 7,County Commissioner Seat D,"SCHREMPP, RONALD E.",345
 Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",303
 Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",304
-Precinct 7,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 7,President and Vice President of the United States,"BUSH, GEORGE W.",568
-Precinct 7,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 7,President and Vice President of the United States,"KERRY, JOHN F.",151
-Precinct 7,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 7,President and Vice President of the United States,None Of These Candidates,7
-Precinct 7,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 7,President,"BADNARIK, MICHAEL",3
+Precinct 7,President,"BUSH, GEORGE W.",568
+Precinct 7,President,"COBB, DAVID",0
+Precinct 7,President,"KERRY, JOHN F.",151
+Precinct 7,President,"NADER, RALPH",3
+Precinct 7,President,None Of These Candidates,7
+Precinct 7,President,"PEROUTKA, MICHAEL A.",1
 Precinct 7,"State Assembly, District 35","DeBRAGA, MARCIA",214
 Precinct 7,"State Assembly, District 35","GOICOECHEA, PETE",483
 Precinct 7,"State Assembly, District 35","TRACY, LINWOOD E. ""JR.""",14
@@ -484,12 +484,12 @@ Precinct 7,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",95
 Precinct 7,"U.S. Representative in Congress, District 2","GIBBONS, JIM",589
 Precinct 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",20
 Precinct 7,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-Precinct 7,United States Senator,"HURST, THOMAS L.",7
-Precinct 7,United States Senator,"MARINCH, GARY",0
-Precinct 7,United States Senator,None Of These Candidates,19
-Precinct 7,United States Senator,"REID, HARRY",321
-Precinct 7,United States Senator,"SCHUMANN, DAVID K.",12
-Precinct 7,United States Senator,"ZISER, RICHARD",354
+Precinct 7,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 7,U.S. Senate,"MARINCH, GARY",0
+Precinct 7,U.S. Senate,None Of These Candidates,19
+Precinct 7,U.S. Senate,"REID, HARRY",321
+Precinct 7,U.S. Senate,"SCHUMANN, DAVID K.",12
+Precinct 7,U.S. Senate,"ZISER, RICHARD",354
 Precinct 7,"University Board of Regents, District  8","AIAZZI, STAN",279
 Precinct 7,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",332
 Precinct 8,County Commissioner Seat A,"FRANSWAY, TOM",64
@@ -498,13 +498,13 @@ Precinct 8,County Commissioner Seat D,"AMOS, GARLEY",47
 Precinct 8,County Commissioner Seat D,"SCHREMPP, RONALD E.",34
 Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",30
 Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",36
-Precinct 8,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 8,President and Vice President of the United States,"BUSH, GEORGE W.",74
-Precinct 8,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 8,President and Vice President of the United States,"KERRY, JOHN F.",17
-Precinct 8,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 8,President and Vice President of the United States,None Of These Candidates,0
-Precinct 8,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 8,President,"BADNARIK, MICHAEL",0
+Precinct 8,President,"BUSH, GEORGE W.",74
+Precinct 8,President,"COBB, DAVID",0
+Precinct 8,President,"KERRY, JOHN F.",17
+Precinct 8,President,"NADER, RALPH",0
+Precinct 8,President,None Of These Candidates,0
+Precinct 8,President,"PEROUTKA, MICHAEL A.",0
 Precinct 8,"State Assembly, District 32","MARVEL, JOHN",55
 Precinct 8,"State Assembly, District 32","MORROW, JOAN",13
 Precinct 8,"State Assembly, District 33","CARPENTER, JOHN C.",10
@@ -523,21 +523,21 @@ Precinct 8,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",13
 Precinct 8,"U.S. Representative in Congress, District 2","GIBBONS, JIM",71
 Precinct 8,"U.S. Representative in Congress, District 2","HANSEN, JANINE",2
 Precinct 8,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-Precinct 8,United States Senator,"HURST, THOMAS L.",2
-Precinct 8,United States Senator,"MARINCH, GARY",0
-Precinct 8,United States Senator,None Of These Candidates,7
-Precinct 8,United States Senator,"REID, HARRY",29
-Precinct 8,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 8,United States Senator,"ZISER, RICHARD",50
+Precinct 8,U.S. Senate,"HURST, THOMAS L.",2
+Precinct 8,U.S. Senate,"MARINCH, GARY",0
+Precinct 8,U.S. Senate,None Of These Candidates,7
+Precinct 8,U.S. Senate,"REID, HARRY",29
+Precinct 8,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 8,U.S. Senate,"ZISER, RICHARD",50
 Precinct 8,"University Board of Regents, District  8","AIAZZI, STAN",38
 Precinct 8,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",37
-Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",
-Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",
-Precinct 88,President and Vice President of the United States,"COBB, DAVID",
-Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+Precinct 88,President,"BADNARIK, MICHAEL",
+Precinct 88,President,"BUSH, GEORGE W.",
+Precinct 88,President,"COBB, DAVID",
+Precinct 88,President,"KERRY, JOHN F.",
+Precinct 88,President,"NADER, RALPH",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"PEROUTKA, MICHAEL A.",
 Precinct 9,County Commissioner Seat A,"FRANSWAY, TOM",96
 Precinct 9,County Commissioner Seat B,"MILTON, JOHN H.",97
 Precinct 9,County Commissioner Seat D,"AMOS, GARLEY",66
@@ -548,5 +548,5 @@ Precinct 9,Golconda Fire District Seat E,"MICHAEL, BRIAN",35
 Precinct 9,Golconda Fire District Seat E,"WARDEN, FRED D.",79
 Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D","ANTHONY, JERRY B.",50
 Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D","COLBY, ROGER J.",48
-Precinct 9,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 99,United States Senator,"ZISER, RICHARD",
+Precinct 9,President,"BADNARIK, MICHAEL",4
+Precinct 99,U.S. Senate,"ZISER, RICHARD",

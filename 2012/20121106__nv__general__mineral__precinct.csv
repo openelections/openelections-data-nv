@@ -10,11 +10,11 @@ PRECINCT 1,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",169
 PRECINCT 1,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",182
 PRECINCT 1,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",210
 PRECINCT 1,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",95
-PRECINCT 1,President and Vice President of the United States,"GOODE, VIRGIL",2
-PRECINCT 1,President and Vice President of the United States,"JOHNSON, GARY",1
-PRECINCT 1,President and Vice President of the United States,None Of These Candidates,5
-PRECINCT 1,President and Vice President of the United States,"Obama, Barack",94
-PRECINCT 1,President and Vice President of the United States,"Romney, Mitt",205
+PRECINCT 1,President,"GOODE, VIRGIL",2
+PRECINCT 1,President,"JOHNSON, GARY",1
+PRECINCT 1,President,None Of These Candidates,5
+PRECINCT 1,President,"Obama, Barack",94
+PRECINCT 1,President,"Romney, Mitt",205
 PRECINCT 1,"State Assembly, District 32","Hansen, Ira",250
 PRECINCT 1,"Supreme Court Justice, Seat C","Cherry, Michael A.",202
 PRECINCT 1,"Supreme Court Justice, Seat C",None Of These Candidates,69
@@ -26,10 +26,10 @@ PRECINCT 1,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",14
 PRECINCT 1,"U.S. Representative in Congress, District 4","Horsford, Steven A.",73
 PRECINCT 1,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",5
 PRECINCT 1,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",210
-PRECINCT 1,United States Senator,"Berkley, Shelley",69
-PRECINCT 1,United States Senator,"Heller, Dean",197
-PRECINCT 1,United States Senator,None Of These Candidates,20
-PRECINCT 1,United States Senator,"VANDERBEEK, DAVID LORY",21
+PRECINCT 1,U.S. Senate,"Berkley, Shelley",69
+PRECINCT 1,U.S. Senate,"Heller, Dean",197
+PRECINCT 1,U.S. Senate,None Of These Candidates,20
+PRECINCT 1,U.S. Senate,"VANDERBEEK, DAVID LORY",21
 PRECINCT 1,"University Board of Regents, District  9","Knecht, Ron",92
 PRECINCT 1,"University Board of Regents, District  9","Mackedon, Michon",178
 PRECINCT 10,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",
@@ -43,11 +43,11 @@ PRECINCT 10,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",
 PRECINCT 10,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",
 PRECINCT 10,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",
 PRECINCT 10,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",
-PRECINCT 10,President and Vice President of the United States,"GOODE, VIRGIL",
-PRECINCT 10,President and Vice President of the United States,"JOHNSON, GARY",
-PRECINCT 10,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 10,President and Vice President of the United States,"Obama, Barack",
-PRECINCT 10,President and Vice President of the United States,"Romney, Mitt",
+PRECINCT 10,President,"GOODE, VIRGIL",
+PRECINCT 10,President,"JOHNSON, GARY",
+PRECINCT 10,President,None Of These Candidates,
+PRECINCT 10,President,"Obama, Barack",
+PRECINCT 10,President,"Romney, Mitt",
 PRECINCT 10,"State Assembly, District 32","Hansen, Ira",
 PRECINCT 10,"Supreme Court Justice, Seat C","Cherry, Michael A.",
 PRECINCT 10,"Supreme Court Justice, Seat C",None Of These Candidates,
@@ -59,10 +59,10 @@ PRECINCT 10,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",
 PRECINCT 10,"U.S. Representative in Congress, District 4","Horsford, Steven A.",
 PRECINCT 10,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",
 PRECINCT 10,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",
-PRECINCT 10,United States Senator,"Berkley, Shelley",
-PRECINCT 10,United States Senator,"Heller, Dean",
-PRECINCT 10,United States Senator,None Of These Candidates,
-PRECINCT 10,United States Senator,"VANDERBEEK, DAVID LORY",
+PRECINCT 10,U.S. Senate,"Berkley, Shelley",
+PRECINCT 10,U.S. Senate,"Heller, Dean",
+PRECINCT 10,U.S. Senate,None Of These Candidates,
+PRECINCT 10,U.S. Senate,"VANDERBEEK, DAVID LORY",
 PRECINCT 10,"University Board of Regents, District  9","Knecht, Ron",
 PRECINCT 10,"University Board of Regents, District  9","Mackedon, Michon",
 PRECINCT 11,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",173
@@ -76,11 +76,11 @@ PRECINCT 11,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",112
 PRECINCT 11,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",85
 PRECINCT 11,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",150
 PRECINCT 11,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",84
-PRECINCT 11,President and Vice President of the United States,"GOODE, VIRGIL",2
-PRECINCT 11,President and Vice President of the United States,"JOHNSON, GARY",0
-PRECINCT 11,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 11,President and Vice President of the United States,"Obama, Barack",204
-PRECINCT 11,President and Vice President of the United States,"Romney, Mitt",47
+PRECINCT 11,President,"GOODE, VIRGIL",2
+PRECINCT 11,President,"JOHNSON, GARY",0
+PRECINCT 11,President,None Of These Candidates,1
+PRECINCT 11,President,"Obama, Barack",204
+PRECINCT 11,President,"Romney, Mitt",47
 PRECINCT 11,"State Assembly, District 32","Hansen, Ira",185
 PRECINCT 11,"Supreme Court Justice, Seat C","Cherry, Michael A.",171
 PRECINCT 11,"Supreme Court Justice, Seat C",None Of These Candidates,57
@@ -92,10 +92,10 @@ PRECINCT 11,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",1
 PRECINCT 11,"U.S. Representative in Congress, District 4","Horsford, Steven A.",159
 PRECINCT 11,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",7
 PRECINCT 11,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",65
-PRECINCT 11,United States Senator,"Berkley, Shelley",150
-PRECINCT 11,United States Senator,"Heller, Dean",57
-PRECINCT 11,United States Senator,None Of These Candidates,23
-PRECINCT 11,United States Senator,"VANDERBEEK, DAVID LORY",23
+PRECINCT 11,U.S. Senate,"Berkley, Shelley",150
+PRECINCT 11,U.S. Senate,"Heller, Dean",57
+PRECINCT 11,U.S. Senate,None Of These Candidates,23
+PRECINCT 11,U.S. Senate,"VANDERBEEK, DAVID LORY",23
 PRECINCT 11,"University Board of Regents, District  9","Knecht, Ron",74
 PRECINCT 11,"University Board of Regents, District  9","Mackedon, Michon",147
 PRECINCT 12,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",46
@@ -109,11 +109,11 @@ PRECINCT 12,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",60
 PRECINCT 12,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",65
 PRECINCT 12,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",90
 PRECINCT 12,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",68
-PRECINCT 12,President and Vice President of the United States,"GOODE, VIRGIL",2
-PRECINCT 12,President and Vice President of the United States,"JOHNSON, GARY",1
-PRECINCT 12,President and Vice President of the United States,None Of These Candidates,4
-PRECINCT 12,President and Vice President of the United States,"Obama, Barack",41
-PRECINCT 12,President and Vice President of the United States,"Romney, Mitt",110
+PRECINCT 12,President,"GOODE, VIRGIL",2
+PRECINCT 12,President,"JOHNSON, GARY",1
+PRECINCT 12,President,None Of These Candidates,4
+PRECINCT 12,President,"Obama, Barack",41
+PRECINCT 12,President,"Romney, Mitt",110
 PRECINCT 12,"State Assembly, District 32","Hansen, Ira",121
 PRECINCT 12,"Supreme Court Justice, Seat C","Cherry, Michael A.",95
 PRECINCT 12,"Supreme Court Justice, Seat C",None Of These Candidates,38
@@ -125,10 +125,10 @@ PRECINCT 12,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",9
 PRECINCT 12,"U.S. Representative in Congress, District 4","Horsford, Steven A.",31
 PRECINCT 12,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",3
 PRECINCT 12,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",110
-PRECINCT 12,United States Senator,"Berkley, Shelley",30
-PRECINCT 12,United States Senator,"Heller, Dean",113
-PRECINCT 12,United States Senator,None Of These Candidates,4
-PRECINCT 12,United States Senator,"VANDERBEEK, DAVID LORY",11
+PRECINCT 12,U.S. Senate,"Berkley, Shelley",30
+PRECINCT 12,U.S. Senate,"Heller, Dean",113
+PRECINCT 12,U.S. Senate,None Of These Candidates,4
+PRECINCT 12,U.S. Senate,"VANDERBEEK, DAVID LORY",11
 PRECINCT 12,"University Board of Regents, District  9","Knecht, Ron",61
 PRECINCT 12,"University Board of Regents, District  9","Mackedon, Michon",71
 PRECINCT 2,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",154
@@ -142,11 +142,11 @@ PRECINCT 2,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",153
 PRECINCT 2,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",185
 PRECINCT 2,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",207
 PRECINCT 2,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",88
-PRECINCT 2,President and Vice President of the United States,"GOODE, VIRGIL",3
-PRECINCT 2,President and Vice President of the United States,"JOHNSON, GARY",2
-PRECINCT 2,President and Vice President of the United States,None Of These Candidates,6
-PRECINCT 2,President and Vice President of the United States,"Obama, Barack",120
-PRECINCT 2,President and Vice President of the United States,"Romney, Mitt",167
+PRECINCT 2,President,"GOODE, VIRGIL",3
+PRECINCT 2,President,"JOHNSON, GARY",2
+PRECINCT 2,President,None Of These Candidates,6
+PRECINCT 2,President,"Obama, Barack",120
+PRECINCT 2,President,"Romney, Mitt",167
 PRECINCT 2,"State Assembly, District 32","Hansen, Ira",228
 PRECINCT 2,"Supreme Court Justice, Seat C","Cherry, Michael A.",206
 PRECINCT 2,"Supreme Court Justice, Seat C",None Of These Candidates,63
@@ -158,10 +158,10 @@ PRECINCT 2,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",17
 PRECINCT 2,"U.S. Representative in Congress, District 4","Horsford, Steven A.",85
 PRECINCT 2,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",5
 PRECINCT 2,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",178
-PRECINCT 2,United States Senator,"Berkley, Shelley",88
-PRECINCT 2,United States Senator,"Heller, Dean",158
-PRECINCT 2,United States Senator,None Of These Candidates,26
-PRECINCT 2,United States Senator,"VANDERBEEK, DAVID LORY",25
+PRECINCT 2,U.S. Senate,"Berkley, Shelley",88
+PRECINCT 2,U.S. Senate,"Heller, Dean",158
+PRECINCT 2,U.S. Senate,None Of These Candidates,26
+PRECINCT 2,U.S. Senate,"VANDERBEEK, DAVID LORY",25
 PRECINCT 2,"University Board of Regents, District  9","Knecht, Ron",95
 PRECINCT 2,"University Board of Regents, District  9","Mackedon, Michon",160
 PRECINCT 3,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",86
@@ -175,11 +175,11 @@ PRECINCT 3,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",84
 PRECINCT 3,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",101
 PRECINCT 3,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",101
 PRECINCT 3,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",65
-PRECINCT 3,President and Vice President of the United States,"GOODE, VIRGIL",2
-PRECINCT 3,President and Vice President of the United States,"JOHNSON, GARY",3
-PRECINCT 3,President and Vice President of the United States,None Of These Candidates,5
-PRECINCT 3,President and Vice President of the United States,"Obama, Barack",62
-PRECINCT 3,President and Vice President of the United States,"Romney, Mitt",105
+PRECINCT 3,President,"GOODE, VIRGIL",2
+PRECINCT 3,President,"JOHNSON, GARY",3
+PRECINCT 3,President,None Of These Candidates,5
+PRECINCT 3,President,"Obama, Barack",62
+PRECINCT 3,President,"Romney, Mitt",105
 PRECINCT 3,"State Assembly, District 32","Hansen, Ira",146
 PRECINCT 3,"Supreme Court Justice, Seat C","Cherry, Michael A.",122
 PRECINCT 3,"Supreme Court Justice, Seat C",None Of These Candidates,39
@@ -191,10 +191,10 @@ PRECINCT 3,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",11
 PRECINCT 3,"U.S. Representative in Congress, District 4","Horsford, Steven A.",40
 PRECINCT 3,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",4
 PRECINCT 3,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",114
-PRECINCT 3,United States Senator,"Berkley, Shelley",39
-PRECINCT 3,United States Senator,"Heller, Dean",106
-PRECINCT 3,United States Senator,None Of These Candidates,13
-PRECINCT 3,United States Senator,"VANDERBEEK, DAVID LORY",18
+PRECINCT 3,U.S. Senate,"Berkley, Shelley",39
+PRECINCT 3,U.S. Senate,"Heller, Dean",106
+PRECINCT 3,U.S. Senate,None Of These Candidates,13
+PRECINCT 3,U.S. Senate,"VANDERBEEK, DAVID LORY",18
 PRECINCT 3,"University Board of Regents, District  9","Knecht, Ron",56
 PRECINCT 3,"University Board of Regents, District  9","Mackedon, Michon",83
 PRECINCT 4,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",75
@@ -207,10 +207,10 @@ PRECINCT 5,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",18
 PRECINCT 5,"U.S. Representative in Congress, District 4","Horsford, Steven A.",69
 PRECINCT 5,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",6
 PRECINCT 5,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",108
-PRECINCT 5,United States Senator,"Berkley, Shelley",66
-PRECINCT 5,United States Senator,"Heller, Dean",95
-PRECINCT 5,United States Senator,None Of These Candidates,18
-PRECINCT 5,United States Senator,"VANDERBEEK, DAVID LORY",27
+PRECINCT 5,U.S. Senate,"Berkley, Shelley",66
+PRECINCT 5,U.S. Senate,"Heller, Dean",95
+PRECINCT 5,U.S. Senate,None Of These Candidates,18
+PRECINCT 5,U.S. Senate,"VANDERBEEK, DAVID LORY",27
 PRECINCT 5,"University Board of Regents, District  9","Knecht, Ron",69
 PRECINCT 5,"University Board of Regents, District  9","Mackedon, Michon",111
 PRECINCT 6,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",128
@@ -224,11 +224,11 @@ PRECINCT 6,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",103
 PRECINCT 6,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",118
 PRECINCT 6,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",151
 PRECINCT 6,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",93
-PRECINCT 6,President and Vice President of the United States,"GOODE, VIRGIL",6
-PRECINCT 6,President and Vice President of the United States,"JOHNSON, GARY",2
-PRECINCT 6,President and Vice President of the United States,None Of These Candidates,10
-PRECINCT 6,President and Vice President of the United States,"Obama, Barack",106
-PRECINCT 6,President and Vice President of the United States,"Romney, Mitt",126
+PRECINCT 6,President,"GOODE, VIRGIL",6
+PRECINCT 6,President,"JOHNSON, GARY",2
+PRECINCT 6,President,None Of These Candidates,10
+PRECINCT 6,President,"Obama, Barack",106
+PRECINCT 6,President,"Romney, Mitt",126
 PRECINCT 6,"State Assembly, District 32","Hansen, Ira",191
 PRECINCT 6,"Supreme Court Justice, Seat C","Cherry, Michael A.",166
 PRECINCT 6,"Supreme Court Justice, Seat C",None Of These Candidates,59
@@ -240,10 +240,10 @@ PRECINCT 6,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",18
 PRECINCT 6,"U.S. Representative in Congress, District 4","Horsford, Steven A.",86
 PRECINCT 6,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",3
 PRECINCT 6,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",129
-PRECINCT 6,United States Senator,"Berkley, Shelley",84
-PRECINCT 6,United States Senator,"Heller, Dean",118
-PRECINCT 6,United States Senator,None Of These Candidates,29
-PRECINCT 6,United States Senator,"VANDERBEEK, DAVID LORY",17
+PRECINCT 6,U.S. Senate,"Berkley, Shelley",84
+PRECINCT 6,U.S. Senate,"Heller, Dean",118
+PRECINCT 6,U.S. Senate,None Of These Candidates,29
+PRECINCT 6,U.S. Senate,"VANDERBEEK, DAVID LORY",17
 PRECINCT 6,"University Board of Regents, District  9","Knecht, Ron",88
 PRECINCT 6,"University Board of Regents, District  9","Mackedon, Michon",122
 PRECINCT 7,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",45
@@ -257,11 +257,11 @@ PRECINCT 7,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",47
 PRECINCT 7,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",55
 PRECINCT 7,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",52
 PRECINCT 7,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",25
-PRECINCT 7,President and Vice President of the United States,"GOODE, VIRGIL",2
-PRECINCT 7,President and Vice President of the United States,"JOHNSON, GARY",3
-PRECINCT 7,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 7,President and Vice President of the United States,"Obama, Barack",33
-PRECINCT 7,President and Vice President of the United States,"Romney, Mitt",61
+PRECINCT 7,President,"GOODE, VIRGIL",2
+PRECINCT 7,President,"JOHNSON, GARY",3
+PRECINCT 7,President,None Of These Candidates,1
+PRECINCT 7,President,"Obama, Barack",33
+PRECINCT 7,President,"Romney, Mitt",61
 PRECINCT 7,"State Assembly, District 32","Hansen, Ira",81
 PRECINCT 7,"Supreme Court Justice, Seat C","Cherry, Michael A.",68
 PRECINCT 7,"Supreme Court Justice, Seat C",None Of These Candidates,19
@@ -273,10 +273,10 @@ PRECINCT 7,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",5
 PRECINCT 7,"U.S. Representative in Congress, District 4","Horsford, Steven A.",25
 PRECINCT 7,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",6
 PRECINCT 7,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",61
-PRECINCT 7,United States Senator,"Berkley, Shelley",22
-PRECINCT 7,United States Senator,"Heller, Dean",59
-PRECINCT 7,United States Senator,None Of These Candidates,8
-PRECINCT 7,United States Senator,"VANDERBEEK, DAVID LORY",10
+PRECINCT 7,U.S. Senate,"Berkley, Shelley",22
+PRECINCT 7,U.S. Senate,"Heller, Dean",59
+PRECINCT 7,U.S. Senate,None Of These Candidates,8
+PRECINCT 7,U.S. Senate,"VANDERBEEK, DAVID LORY",10
 PRECINCT 7,"University Board of Regents, District  9","Knecht, Ron",36
 PRECINCT 7,"University Board of Regents, District  9","Mackedon, Michon",46
 PRECINCT 8,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",7
@@ -290,11 +290,11 @@ PRECINCT 8,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",7
 PRECINCT 8,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",12
 PRECINCT 8,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",10
 PRECINCT 8,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",5
-PRECINCT 8,President and Vice President of the United States,"GOODE, VIRGIL",0
-PRECINCT 8,President and Vice President of the United States,"JOHNSON, GARY",1
-PRECINCT 8,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 8,President and Vice President of the United States,"Obama, Barack",5
-PRECINCT 8,President and Vice President of the United States,"Romney, Mitt",15
+PRECINCT 8,President,"GOODE, VIRGIL",0
+PRECINCT 8,President,"JOHNSON, GARY",1
+PRECINCT 8,President,None Of These Candidates,1
+PRECINCT 8,President,"Obama, Barack",5
+PRECINCT 8,President,"Romney, Mitt",15
 PRECINCT 8,"State Assembly, District 32","Hansen, Ira",20
 PRECINCT 8,"Supreme Court Justice, Seat C","Cherry, Michael A.",16
 PRECINCT 8,"Supreme Court Justice, Seat C",None Of These Candidates,6
@@ -306,17 +306,17 @@ PRECINCT 8,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",1
 PRECINCT 8,"U.S. Representative in Congress, District 4","Horsford, Steven A.",6
 PRECINCT 8,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",1
 PRECINCT 8,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",14
-PRECINCT 8,United States Senator,"Berkley, Shelley",3
-PRECINCT 8,United States Senator,"Heller, Dean",15
-PRECINCT 8,United States Senator,None Of These Candidates,1
-PRECINCT 8,United States Senator,"VANDERBEEK, DAVID LORY",2
+PRECINCT 8,U.S. Senate,"Berkley, Shelley",3
+PRECINCT 8,U.S. Senate,"Heller, Dean",15
+PRECINCT 8,U.S. Senate,None Of These Candidates,1
+PRECINCT 8,U.S. Senate,"VANDERBEEK, DAVID LORY",2
 PRECINCT 8,"University Board of Regents, District  9","Knecht, Ron",7
 PRECINCT 8,"University Board of Regents, District  9","Mackedon, Michon",13
-PRECINCT 88,President and Vice President of the United States,"GOODE, VIRGIL",
-PRECINCT 88,President and Vice President of the United States,"JOHNSON, GARY",
-PRECINCT 88,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 88,President and Vice President of the United States,"Obama, Barack",
-PRECINCT 88,President and Vice President of the United States,"Romney, Mitt",
+PRECINCT 88,President,"GOODE, VIRGIL",
+PRECINCT 88,President,"JOHNSON, GARY",
+PRECINCT 88,President,None Of These Candidates,
+PRECINCT 88,President,"Obama, Barack",
+PRECINCT 88,President,"Romney, Mitt",
 PRECINCT 9,County Comm. Seat A,"CICHOWLAZ, CLIFFORD ""CLIFF""",25
 PRECINCT 9,County Comm. Seat A,"UTTERBACK, JIM ""GUNNY""",71
 PRECINCT 9,County Comm. Seat B,"ESSENPREIS, JAMES A.",49
@@ -328,11 +328,11 @@ PRECINCT 9,"Justice of the Peace, HAWTHORNETownship","SCHLEPP, CURTIS J.",35
 PRECINCT 9,MINERAL COUNTY Hospital Board Trustee,"DOCKREY, DON",33
 PRECINCT 9,MINERAL COUNTY Hospital Board Trustee,"DOW, MICHELLE",64
 PRECINCT 9,MINERAL COUNTY Hospital Board Trustee,"VADEN, DON R.",27
-PRECINCT 9,President and Vice President of the United States,"GOODE, VIRGIL",4
-PRECINCT 9,President and Vice President of the United States,"JOHNSON, GARY",2
-PRECINCT 9,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 9,President and Vice President of the United States,"Obama, Barack",30
-PRECINCT 9,President and Vice President of the United States,"Romney, Mitt",64
+PRECINCT 9,President,"GOODE, VIRGIL",4
+PRECINCT 9,President,"JOHNSON, GARY",2
+PRECINCT 9,President,None Of These Candidates,1
+PRECINCT 9,President,"Obama, Barack",30
+PRECINCT 9,President,"Romney, Mitt",64
 PRECINCT 9,"State Assembly, District 32","Hansen, Ira",74
 PRECINCT 9,"Supreme Court Justice, Seat C","Cherry, Michael A.",55
 PRECINCT 9,"Supreme Court Justice, Seat C",None Of These Candidates,32
@@ -344,22 +344,22 @@ PRECINCT 9,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",11
 PRECINCT 9,"U.S. Representative in Congress, District 4","Horsford, Steven A.",16
 PRECINCT 9,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",4
 PRECINCT 9,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",65
-PRECINCT 9,United States Senator,"Berkley, Shelley",17
-PRECINCT 9,United States Senator,"Heller, Dean",57
-PRECINCT 9,United States Senator,None Of These Candidates,5
-PRECINCT 9,United States Senator,"VANDERBEEK, DAVID LORY",21
+PRECINCT 9,U.S. Senate,"Berkley, Shelley",17
+PRECINCT 9,U.S. Senate,"Heller, Dean",57
+PRECINCT 9,U.S. Senate,None Of These Candidates,5
+PRECINCT 9,U.S. Senate,"VANDERBEEK, DAVID LORY",21
 PRECINCT 9,"University Board of Regents, District  9","Knecht, Ron",34
 PRECINCT 9,"University Board of Regents, District  9","Mackedon, Michon",36
-PRECINCT 99,President and Vice President of the United States,"GOODE, VIRGIL",0
-PRECINCT 99,President and Vice President of the United States,"JOHNSON, GARY",0
-PRECINCT 99,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 99,President and Vice President of the United States,"Obama, Barack",0
-PRECINCT 99,President and Vice President of the United States,"Romney, Mitt",0
+PRECINCT 99,President,"GOODE, VIRGIL",0
+PRECINCT 99,President,"JOHNSON, GARY",0
+PRECINCT 99,President,None Of These Candidates,0
+PRECINCT 99,President,"Obama, Barack",0
+PRECINCT 99,President,"Romney, Mitt",0
 PRECINCT 99,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",0
 PRECINCT 99,"U.S. Representative in Congress, District 4","Horsford, Steven A.",0
 PRECINCT 99,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",0
 PRECINCT 99,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",0
-PRECINCT 99,United States Senator,"Berkley, Shelley",0
-PRECINCT 99,United States Senator,"Heller, Dean",0
-PRECINCT 99,United States Senator,None Of These Candidates,0
-PRECINCT 99,United States Senator,"VANDERBEEK, DAVID LORY",0
+PRECINCT 99,U.S. Senate,"Berkley, Shelley",0
+PRECINCT 99,U.S. Senate,"Heller, Dean",0
+PRECINCT 99,U.S. Senate,None Of These Candidates,0
+PRECINCT 99,U.S. Senate,"VANDERBEEK, DAVID LORY",0

@@ -53,11 +53,11 @@ precinct,office,candidate,votes
 1 - ALAMO,"U.S. Representative in Congress, District 2","HELLER, DEAN",309
 1 - ALAMO,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
 1 - ALAMO,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-1 - ALAMO,United States Senator,"CARTER, JACK",71
-1 - ALAMO,United States Senator,"ENSIGN, JOHN",350
-1 - ALAMO,United States Senator,None Of These Candidates,10
-1 - ALAMO,United States Senator,"SCHUMANN, DAVID K.",6
-1 - ALAMO,United States Senator,"TRAINOR, BRENDAN",1
+1 - ALAMO,U.S. Senate,"CARTER, JACK",71
+1 - ALAMO,U.S. Senate,"ENSIGN, JOHN",350
+1 - ALAMO,U.S. Senate,None Of These Candidates,10
+1 - ALAMO,U.S. Senate,"SCHUMANN, DAVID K.",6
+1 - ALAMO,U.S. Senate,"TRAINOR, BRENDAN",1
 2 - CALIENTE,Attorney General,"CHAIREZ, DON",184
 2 - CALIENTE,Attorney General,"CORTEZ  MASTO, CATHERINE",272
 2 - CALIENTE,Attorney General,None Of These Candidates,50
@@ -112,11 +112,11 @@ precinct,office,candidate,votes
 2 - CALIENTE,"U.S. Representative in Congress, District 2","HELLER, DEAN",267
 2 - CALIENTE,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",21
 2 - CALIENTE,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",25
-2 - CALIENTE,United States Senator,"CARTER, JACK",150
-2 - CALIENTE,United States Senator,"ENSIGN, JOHN",319
-2 - CALIENTE,United States Senator,None Of These Candidates,13
-2 - CALIENTE,United States Senator,"SCHUMANN, DAVID K.",22
-2 - CALIENTE,United States Senator,"TRAINOR, BRENDAN",6
+2 - CALIENTE,U.S. Senate,"CARTER, JACK",150
+2 - CALIENTE,U.S. Senate,"ENSIGN, JOHN",319
+2 - CALIENTE,U.S. Senate,None Of These Candidates,13
+2 - CALIENTE,U.S. Senate,"SCHUMANN, DAVID K.",22
+2 - CALIENTE,U.S. Senate,"TRAINOR, BRENDAN",6
 3 - PANACA,Attorney General,"CHAIREZ, DON",219
 3 - PANACA,Attorney General,"CORTEZ  MASTO, CATHERINE",138
 3 - PANACA,Attorney General,None Of These Candidates,31
@@ -171,11 +171,11 @@ precinct,office,candidate,votes
 3 - PANACA,"U.S. Representative in Congress, District 2","HELLER, DEAN",267
 3 - PANACA,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",25
 3 - PANACA,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
-3 - PANACA,United States Senator,"CARTER, JACK",61
-3 - PANACA,United States Senator,"ENSIGN, JOHN",308
-3 - PANACA,United States Senator,None Of These Candidates,5
-3 - PANACA,United States Senator,"SCHUMANN, DAVID K.",19
-3 - PANACA,United States Senator,"TRAINOR, BRENDAN",1
+3 - PANACA,U.S. Senate,"CARTER, JACK",61
+3 - PANACA,U.S. Senate,"ENSIGN, JOHN",308
+3 - PANACA,U.S. Senate,None Of These Candidates,5
+3 - PANACA,U.S. Senate,"SCHUMANN, DAVID K.",19
+3 - PANACA,U.S. Senate,"TRAINOR, BRENDAN",1
 4 - PIOCHE,Attorney General,"CHAIREZ, DON",197
 4 - PIOCHE,Attorney General,"CORTEZ  MASTO, CATHERINE",229
 4 - PIOCHE,Attorney General,None Of These Candidates,50
@@ -230,11 +230,11 @@ precinct,office,candidate,votes
 4 - PIOCHE,"U.S. Representative in Congress, District 2","HELLER, DEAN",280
 4 - PIOCHE,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 4 - PIOCHE,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",17
-4 - PIOCHE,United States Senator,"CARTER, JACK",126
-4 - PIOCHE,United States Senator,"ENSIGN, JOHN",329
-4 - PIOCHE,United States Senator,None Of These Candidates,16
-4 - PIOCHE,United States Senator,"SCHUMANN, DAVID K.",10
-4 - PIOCHE,United States Senator,"TRAINOR, BRENDAN",3
+4 - PIOCHE,U.S. Senate,"CARTER, JACK",126
+4 - PIOCHE,U.S. Senate,"ENSIGN, JOHN",329
+4 - PIOCHE,U.S. Senate,None Of These Candidates,16
+4 - PIOCHE,U.S. Senate,"SCHUMANN, DAVID K.",10
+4 - PIOCHE,U.S. Senate,"TRAINOR, BRENDAN",3
 5 - RACHEL,Attorney General,"CHAIREZ, DON",17
 5 - RACHEL,Attorney General,"CORTEZ  MASTO, CATHERINE",5
 5 - RACHEL,Attorney General,None Of These Candidates,2
@@ -289,17 +289,17 @@ precinct,office,candidate,votes
 5 - RACHEL,"U.S. Representative in Congress, District 2","HELLER, DEAN",14
 5 - RACHEL,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 5 - RACHEL,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-5 - RACHEL,United States Senator,"CARTER, JACK",7
-5 - RACHEL,United States Senator,"ENSIGN, JOHN",17
-5 - RACHEL,United States Senator,None Of These Candidates,1
-5 - RACHEL,United States Senator,"SCHUMANN, DAVID K.",0
-5 - RACHEL,United States Senator,"TRAINOR, BRENDAN",2
+5 - RACHEL,U.S. Senate,"CARTER, JACK",7
+5 - RACHEL,U.S. Senate,"ENSIGN, JOHN",17
+5 - RACHEL,U.S. Senate,None Of These Candidates,1
+5 - RACHEL,U.S. Senate,"SCHUMANN, DAVID K.",0
+5 - RACHEL,U.S. Senate,"TRAINOR, BRENDAN",2
 PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-PRECINCT 99,United States Senator,"CARTER, JACK",0
-PRECINCT 99,United States Senator,"ENSIGN, JOHN",0
-PRECINCT 99,United States Senator,None Of These Candidates,0
-PRECINCT 99,United States Senator,"SCHUMANN, DAVID K.",0
-PRECINCT 99,United States Senator,"TRAINOR, BRENDAN",0
+PRECINCT 99,U.S. Senate,"CARTER, JACK",0
+PRECINCT 99,U.S. Senate,"ENSIGN, JOHN",0
+PRECINCT 99,U.S. Senate,None Of These Candidates,0
+PRECINCT 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+PRECINCT 99,U.S. Senate,"TRAINOR, BRENDAN",0

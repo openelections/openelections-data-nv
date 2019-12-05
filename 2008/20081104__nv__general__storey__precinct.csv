@@ -5,13 +5,13 @@ PRECINCT 1,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",243
 PRECINCT 1,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",231
 PRECINCT 1,"District Court Judge, District 1, Department  2","WATERS, NOEL",136
 PRECINCT 1,"District Court Judge, District 1, Department  2","WILSON, JIM",136
-PRECINCT 1,President and Vice President of the United States,"Baldwin, Chuck",1
-PRECINCT 1,President and Vice President of the United States,"Barr, Bob",2
-PRECINCT 1,President and Vice President of the United States,"McCain, John",150
-PRECINCT 1,President and Vice President of the United States,"McKinney, Cynthia",2
-PRECINCT 1,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 1,President and Vice President of the United States,None Of These Candidates,4
-PRECINCT 1,President and Vice President of the United States,"Obama, Barack",159
+PRECINCT 1,President,"Baldwin, Chuck",1
+PRECINCT 1,President,"Barr, Bob",2
+PRECINCT 1,President,"McCain, John",150
+PRECINCT 1,President,"McKinney, Cynthia",2
+PRECINCT 1,President,"NADER, RALPH",2
+PRECINCT 1,President,None Of These Candidates,4
+PRECINCT 1,President,"Obama, Barack",159
 PRECINCT 1,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",137
 PRECINCT 1,School Board Trustee Seat 1A,"JAMES, CATHYLEE",168
 PRECINCT 1,School Board Trustee Seat 1B,"CONLEY, COLLEEN",149
@@ -36,13 +36,13 @@ PRECINCT 10,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 10,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
 PRECINCT 10,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
 PRECINCT 10,"District Court Judge, District 1, Department  2","WILSON, JIM",0
-PRECINCT 10,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 10,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 10,President and Vice President of the United States,"McCain, John",0
-PRECINCT 10,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 10,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 10,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 10,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 10,President,"Baldwin, Chuck",0
+PRECINCT 10,President,"Barr, Bob",0
+PRECINCT 10,President,"McCain, John",0
+PRECINCT 10,President,"McKinney, Cynthia",0
+PRECINCT 10,President,"NADER, RALPH",0
+PRECINCT 10,President,None Of These Candidates,0
+PRECINCT 10,President,"Obama, Barack",0
 PRECINCT 10,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",0
 PRECINCT 10,School Board Trustee Seat 1A,"JAMES, CATHYLEE",0
 PRECINCT 10,School Board Trustee Seat 1B,"CONLEY, COLLEEN",0
@@ -67,13 +67,13 @@ PRECINCT 11,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
 PRECINCT 11,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
 PRECINCT 11,"District Court Judge, District 1, Department  2","WATERS, NOEL",
 PRECINCT 11,"District Court Judge, District 1, Department  2","WILSON, JIM",
-PRECINCT 11,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 11,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 11,President and Vice President of the United States,"McCain, John",
-PRECINCT 11,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 11,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 11,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 11,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 11,President,"Baldwin, Chuck",
+PRECINCT 11,President,"Barr, Bob",
+PRECINCT 11,President,"McCain, John",
+PRECINCT 11,President,"McKinney, Cynthia",
+PRECINCT 11,President,"NADER, RALPH",
+PRECINCT 11,President,None Of These Candidates,
+PRECINCT 11,President,"Obama, Barack",
 PRECINCT 11,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
 PRECINCT 11,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
 PRECINCT 11,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
@@ -98,13 +98,13 @@ PRECINCT 12,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 12,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
 PRECINCT 12,"District Court Judge, District 1, Department  2","WATERS, NOEL",
 PRECINCT 12,"District Court Judge, District 1, Department  2","WILSON, JIM",
-PRECINCT 12,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 12,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 12,President and Vice President of the United States,"McCain, John",
-PRECINCT 12,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 12,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 12,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 12,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 12,President,"Baldwin, Chuck",
+PRECINCT 12,President,"Barr, Bob",
+PRECINCT 12,President,"McCain, John",
+PRECINCT 12,President,"McKinney, Cynthia",
+PRECINCT 12,President,"NADER, RALPH",
+PRECINCT 12,President,None Of These Candidates,
+PRECINCT 12,President,"Obama, Barack",
 PRECINCT 12,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
 PRECINCT 12,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
 PRECINCT 12,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
@@ -129,13 +129,13 @@ PRECINCT 13,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 13,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
 PRECINCT 13,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
 PRECINCT 13,"District Court Judge, District 1, Department  2","WILSON, JIM",0
-PRECINCT 13,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 13,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 13,President and Vice President of the United States,"McCain, John",0
-PRECINCT 13,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 13,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 13,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 13,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 13,President,"Baldwin, Chuck",0
+PRECINCT 13,President,"Barr, Bob",0
+PRECINCT 13,President,"McCain, John",0
+PRECINCT 13,President,"McKinney, Cynthia",0
+PRECINCT 13,President,"NADER, RALPH",0
+PRECINCT 13,President,None Of These Candidates,0
+PRECINCT 13,President,"Obama, Barack",0
 PRECINCT 13,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",0
 PRECINCT 13,School Board Trustee Seat 1A,"JAMES, CATHYLEE",0
 PRECINCT 13,School Board Trustee Seat 1B,"CONLEY, COLLEEN",0
@@ -160,13 +160,13 @@ PRECINCT 15,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",25
 PRECINCT 15,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",25
 PRECINCT 15,"District Court Judge, District 1, Department  2","WATERS, NOEL",10
 PRECINCT 15,"District Court Judge, District 1, Department  2","WILSON, JIM",13
-PRECINCT 15,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 15,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 15,President and Vice President of the United States,"McCain, John",18
-PRECINCT 15,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 15,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 15,President and Vice President of the United States,None Of These Candidates,2
-PRECINCT 15,President and Vice President of the United States,"Obama, Barack",8
+PRECINCT 15,President,"Baldwin, Chuck",0
+PRECINCT 15,President,"Barr, Bob",0
+PRECINCT 15,President,"McCain, John",18
+PRECINCT 15,President,"McKinney, Cynthia",0
+PRECINCT 15,President,"NADER, RALPH",0
+PRECINCT 15,President,None Of These Candidates,2
+PRECINCT 15,President,"Obama, Barack",8
 PRECINCT 15,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",6
 PRECINCT 15,School Board Trustee Seat 1A,"JAMES, CATHYLEE",17
 PRECINCT 15,School Board Trustee Seat 1B,"CONLEY, COLLEEN",8
@@ -191,13 +191,13 @@ PRECINCT 2,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",248
 PRECINCT 2,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",224
 PRECINCT 2,"District Court Judge, District 1, Department  2","WATERS, NOEL",146
 PRECINCT 2,"District Court Judge, District 1, Department  2","WILSON, JIM",128
-PRECINCT 2,President and Vice President of the United States,"Baldwin, Chuck",1
-PRECINCT 2,President and Vice President of the United States,"Barr, Bob",2
-PRECINCT 2,President and Vice President of the United States,"McCain, John",146
-PRECINCT 2,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 2,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 2,President and Vice President of the United States,None Of These Candidates,4
-PRECINCT 2,President and Vice President of the United States,"Obama, Barack",161
+PRECINCT 2,President,"Baldwin, Chuck",1
+PRECINCT 2,President,"Barr, Bob",2
+PRECINCT 2,President,"McCain, John",146
+PRECINCT 2,President,"McKinney, Cynthia",0
+PRECINCT 2,President,"NADER, RALPH",2
+PRECINCT 2,President,None Of These Candidates,4
+PRECINCT 2,President,"Obama, Barack",161
 PRECINCT 2,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",118
 PRECINCT 2,School Board Trustee Seat 1A,"JAMES, CATHYLEE",189
 PRECINCT 2,School Board Trustee Seat 1B,"CONLEY, COLLEEN",152
@@ -222,13 +222,13 @@ PRECINCT 3,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
 PRECINCT 3,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
 PRECINCT 3,"District Court Judge, District 1, Department  2","WATERS, NOEL",
 PRECINCT 3,"District Court Judge, District 1, Department  2","WILSON, JIM",
-PRECINCT 3,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 3,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 3,President and Vice President of the United States,"McCain, John",
-PRECINCT 3,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 3,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 3,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 3,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 3,President,"Baldwin, Chuck",
+PRECINCT 3,President,"Barr, Bob",
+PRECINCT 3,President,"McCain, John",
+PRECINCT 3,President,"McKinney, Cynthia",
+PRECINCT 3,President,"NADER, RALPH",
+PRECINCT 3,President,None Of These Candidates,
+PRECINCT 3,President,"Obama, Barack",
 PRECINCT 3,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
 PRECINCT 3,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
 PRECINCT 3,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
@@ -253,13 +253,13 @@ PRECINCT 4,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",284
 PRECINCT 4,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",276
 PRECINCT 4,"District Court Judge, District 1, Department  2","WATERS, NOEL",161
 PRECINCT 4,"District Court Judge, District 1, Department  2","WILSON, JIM",161
-PRECINCT 4,President and Vice President of the United States,"Baldwin, Chuck",1
-PRECINCT 4,President and Vice President of the United States,"Barr, Bob",1
-PRECINCT 4,President and Vice President of the United States,"McCain, John",196
-PRECINCT 4,President and Vice President of the United States,"McKinney, Cynthia",1
-PRECINCT 4,President and Vice President of the United States,"NADER, RALPH",1
-PRECINCT 4,President and Vice President of the United States,None Of These Candidates,4
-PRECINCT 4,President and Vice President of the United States,"Obama, Barack",167
+PRECINCT 4,President,"Baldwin, Chuck",1
+PRECINCT 4,President,"Barr, Bob",1
+PRECINCT 4,President,"McCain, John",196
+PRECINCT 4,President,"McKinney, Cynthia",1
+PRECINCT 4,President,"NADER, RALPH",1
+PRECINCT 4,President,None Of These Candidates,4
+PRECINCT 4,President,"Obama, Barack",167
 PRECINCT 4,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",133
 PRECINCT 4,School Board Trustee Seat 1A,"JAMES, CATHYLEE",206
 PRECINCT 4,School Board Trustee Seat 1B,"CONLEY, COLLEEN",176
@@ -284,13 +284,13 @@ PRECINCT 5,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",634
 PRECINCT 5,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",616
 PRECINCT 5,"District Court Judge, District 1, Department  2","WATERS, NOEL",291
 PRECINCT 5,"District Court Judge, District 1, Department  2","WILSON, JIM",347
-PRECINCT 5,President and Vice President of the United States,"Baldwin, Chuck",3
-PRECINCT 5,President and Vice President of the United States,"Barr, Bob",4
-PRECINCT 5,President and Vice President of the United States,"McCain, John",485
-PRECINCT 5,President and Vice President of the United States,"McKinney, Cynthia",1
-PRECINCT 5,President and Vice President of the United States,"NADER, RALPH",5
-PRECINCT 5,President and Vice President of the United States,None Of These Candidates,3
-PRECINCT 5,President and Vice President of the United States,"Obama, Barack",309
+PRECINCT 5,President,"Baldwin, Chuck",3
+PRECINCT 5,President,"Barr, Bob",4
+PRECINCT 5,President,"McCain, John",485
+PRECINCT 5,President,"McKinney, Cynthia",1
+PRECINCT 5,President,"NADER, RALPH",5
+PRECINCT 5,President,None Of These Candidates,3
+PRECINCT 5,President,"Obama, Barack",309
 PRECINCT 5,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",365
 PRECINCT 5,School Board Trustee Seat 1A,"JAMES, CATHYLEE",358
 PRECINCT 5,School Board Trustee Seat 1B,"CONLEY, COLLEEN",253
@@ -315,13 +315,13 @@ PRECINCT 6,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",423
 PRECINCT 6,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",412
 PRECINCT 6,"District Court Judge, District 1, Department  2","WATERS, NOEL",171
 PRECINCT 6,"District Court Judge, District 1, Department  2","WILSON, JIM",282
-PRECINCT 6,President and Vice President of the United States,"Baldwin, Chuck",3
-PRECINCT 6,President and Vice President of the United States,"Barr, Bob",3
-PRECINCT 6,President and Vice President of the United States,"McCain, John",232
-PRECINCT 6,President and Vice President of the United States,"McKinney, Cynthia",1
-PRECINCT 6,President and Vice President of the United States,"NADER, RALPH",5
-PRECINCT 6,President and Vice President of the United States,None Of These Candidates,9
-PRECINCT 6,President and Vice President of the United States,"Obama, Barack",294
+PRECINCT 6,President,"Baldwin, Chuck",3
+PRECINCT 6,President,"Barr, Bob",3
+PRECINCT 6,President,"McCain, John",232
+PRECINCT 6,President,"McKinney, Cynthia",1
+PRECINCT 6,President,"NADER, RALPH",5
+PRECINCT 6,President,None Of These Candidates,9
+PRECINCT 6,President,"Obama, Barack",294
 PRECINCT 6,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",189
 PRECINCT 6,School Board Trustee Seat 1A,"JAMES, CATHYLEE",301
 PRECINCT 6,School Board Trustee Seat 1B,"CONLEY, COLLEEN",324
@@ -346,13 +346,13 @@ PRECINCT 7,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 7,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
 PRECINCT 7,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
 PRECINCT 7,"District Court Judge, District 1, Department  2","WILSON, JIM",0
-PRECINCT 7,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 7,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 7,President and Vice President of the United States,"McCain, John",0
-PRECINCT 7,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 7,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 7,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 7,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 7,President,"Baldwin, Chuck",0
+PRECINCT 7,President,"Barr, Bob",0
+PRECINCT 7,President,"McCain, John",0
+PRECINCT 7,President,"McKinney, Cynthia",0
+PRECINCT 7,President,"NADER, RALPH",0
+PRECINCT 7,President,None Of These Candidates,0
+PRECINCT 7,President,"Obama, Barack",0
 PRECINCT 7,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",0
 PRECINCT 7,School Board Trustee Seat 1A,"JAMES, CATHYLEE",0
 PRECINCT 7,School Board Trustee Seat 1B,"CONLEY, COLLEEN",0
@@ -377,13 +377,13 @@ PRECINCT 8,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
 PRECINCT 8,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
 PRECINCT 8,"District Court Judge, District 1, Department  2","WATERS, NOEL",
 PRECINCT 8,"District Court Judge, District 1, Department  2","WILSON, JIM",
-PRECINCT 8,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 8,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 8,President and Vice President of the United States,"McCain, John",
-PRECINCT 8,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 8,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 8,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 8,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 8,President,"Baldwin, Chuck",
+PRECINCT 8,President,"Barr, Bob",
+PRECINCT 8,President,"McCain, John",
+PRECINCT 8,President,"McKinney, Cynthia",
+PRECINCT 8,President,"NADER, RALPH",
+PRECINCT 8,President,None Of These Candidates,
+PRECINCT 8,President,"Obama, Barack",
 PRECINCT 8,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
 PRECINCT 8,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
 PRECINCT 8,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
@@ -402,26 +402,26 @@ PRECINCT 8,"U.S. Representative in Congress, District 2","DERBY, JILL",
 PRECINCT 8,"U.S. Representative in Congress, District 2","Everhart, John",
 PRECINCT 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 PRECINCT 8,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
-PRECINCT 88,President and Vice President of the United States,"Baldwin, Chuck",0
-PRECINCT 88,President and Vice President of the United States,"Barr, Bob",0
-PRECINCT 88,President and Vice President of the United States,"McCain, John",0
-PRECINCT 88,President and Vice President of the United States,"McKinney, Cynthia",0
-PRECINCT 88,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 88,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 88,President and Vice President of the United States,"Obama, Barack",0
+PRECINCT 88,President,"Baldwin, Chuck",0
+PRECINCT 88,President,"Barr, Bob",0
+PRECINCT 88,President,"McCain, John",0
+PRECINCT 88,President,"McKinney, Cynthia",0
+PRECINCT 88,President,"NADER, RALPH",0
+PRECINCT 88,President,None Of These Candidates,0
+PRECINCT 88,President,"Obama, Barack",0
 PRECINCT 9,County Clerk/Treasurer,"DIXON, VANESSA",
 PRECINCT 9,County Clerk/Treasurer,"HESS, ROLLIE",
 PRECINCT 9,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 9,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
 PRECINCT 9,"District Court Judge, District 1, Department  2","WATERS, NOEL",
 PRECINCT 9,"District Court Judge, District 1, Department  2","WILSON, JIM",
-PRECINCT 9,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 9,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 9,President and Vice President of the United States,"McCain, John",
-PRECINCT 9,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 9,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 9,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 9,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 9,President,"Baldwin, Chuck",
+PRECINCT 9,President,"Barr, Bob",
+PRECINCT 9,President,"McCain, John",
+PRECINCT 9,President,"McKinney, Cynthia",
+PRECINCT 9,President,"NADER, RALPH",
+PRECINCT 9,President,None Of These Candidates,
+PRECINCT 9,President,"Obama, Barack",
 PRECINCT 9,School Board Trustee Seat 1A,"CHAPMAN, CURTIS J.",
 PRECINCT 9,School Board Trustee Seat 1A,"JAMES, CATHYLEE",
 PRECINCT 9,School Board Trustee Seat 1B,"CONLEY, COLLEEN",
@@ -440,13 +440,13 @@ PRECINCT 9,"U.S. Representative in Congress, District 2","DERBY, JILL",
 PRECINCT 9,"U.S. Representative in Congress, District 2","Everhart, John",
 PRECINCT 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 PRECINCT 9,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
-PRECINCT 99,President and Vice President of the United States,"Baldwin, Chuck",
-PRECINCT 99,President and Vice President of the United States,"Barr, Bob",
-PRECINCT 99,President and Vice President of the United States,"McCain, John",
-PRECINCT 99,President and Vice President of the United States,"McKinney, Cynthia",
-PRECINCT 99,President and Vice President of the United States,"NADER, RALPH",
-PRECINCT 99,President and Vice President of the United States,None Of These Candidates,
-PRECINCT 99,President and Vice President of the United States,"Obama, Barack",
+PRECINCT 99,President,"Baldwin, Chuck",
+PRECINCT 99,President,"Barr, Bob",
+PRECINCT 99,President,"McCain, John",
+PRECINCT 99,President,"McKinney, Cynthia",
+PRECINCT 99,President,"NADER, RALPH",
+PRECINCT 99,President,None Of These Candidates,
+PRECINCT 99,President,"Obama, Barack",
 PRECINCT 99,"U.S. Representative in Congress, District 2","Bergland, Craig",
 PRECINCT 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
 PRECINCT 99,"U.S. Representative in Congress, District 2","Everhart, John",

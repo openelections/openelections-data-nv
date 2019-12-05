@@ -8,13 +8,13 @@ East Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",274
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",353
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",167
-East Mason Valley 1,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-East Mason Valley 1,President and Vice President of the United States,"BUSH, GEORGE W.",379
-East Mason Valley 1,President and Vice President of the United States,"COBB, DAVID",2
-East Mason Valley 1,President and Vice President of the United States,"KERRY, JOHN F.",176
-East Mason Valley 1,President and Vice President of the United States,"NADER, RALPH",9
-East Mason Valley 1,President and Vice President of the United States,None Of These Candidates,6
-East Mason Valley 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+East Mason Valley 1,President,"BADNARIK, MICHAEL",2
+East Mason Valley 1,President,"BUSH, GEORGE W.",379
+East Mason Valley 1,President,"COBB, DAVID",2
+East Mason Valley 1,President,"KERRY, JOHN F.",176
+East Mason Valley 1,President,"NADER, RALPH",9
+East Mason Valley 1,President,None Of These Candidates,6
+East Mason Valley 1,President,"PEROUTKA, MICHAEL A.",2
 East Mason Valley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",26
 East Mason Valley 1,"State Assembly, District 38","Grady, Tom",352
 East Mason Valley 1,"State Assembly, District 38","JAMES, CATHYLEE",178
@@ -31,12 +31,12 @@ East Mason Valley 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGI
 East Mason Valley 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",403
 East Mason Valley 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",29
 East Mason Valley 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-East Mason Valley 1,United States Senator,"HURST, THOMAS L.",6
-East Mason Valley 1,United States Senator,"MARINCH, GARY",2
-East Mason Valley 1,United States Senator,None Of These Candidates,19
-East Mason Valley 1,United States Senator,"REID, HARRY",238
-East Mason Valley 1,United States Senator,"SCHUMANN, DAVID K.",14
-East Mason Valley 1,United States Senator,"ZISER, RICHARD",285
+East Mason Valley 1,U.S. Senate,"HURST, THOMAS L.",6
+East Mason Valley 1,U.S. Senate,"MARINCH, GARY",2
+East Mason Valley 1,U.S. Senate,None Of These Candidates,19
+East Mason Valley 1,U.S. Senate,"REID, HARRY",238
+East Mason Valley 1,U.S. Senate,"SCHUMANN, DAVID K.",14
+East Mason Valley 1,U.S. Senate,"ZISER, RICHARD",285
 East Mason Valley 2,County Commissioner District I (CW),"MILZ, BOB",389
 East Mason Valley 2,County Commissioner District I (CW),"REID, HOWARD P.",203
 East Mason Valley 2,County Commissioner District III (CW),"DALTON, STEVEN J.",168
@@ -46,13 +46,13 @@ East Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",258
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",364
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",205
-East Mason Valley 2,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-East Mason Valley 2,President and Vice President of the United States,"BUSH, GEORGE W.",445
-East Mason Valley 2,President and Vice President of the United States,"COBB, DAVID",3
-East Mason Valley 2,President and Vice President of the United States,"KERRY, JOHN F.",161
-East Mason Valley 2,President and Vice President of the United States,"NADER, RALPH",3
-East Mason Valley 2,President and Vice President of the United States,None Of These Candidates,4
-East Mason Valley 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+East Mason Valley 2,President,"BADNARIK, MICHAEL",1
+East Mason Valley 2,President,"BUSH, GEORGE W.",445
+East Mason Valley 2,President,"COBB, DAVID",3
+East Mason Valley 2,President,"KERRY, JOHN F.",161
+East Mason Valley 2,President,"NADER, RALPH",3
+East Mason Valley 2,President,None Of These Candidates,4
+East Mason Valley 2,President,"PEROUTKA, MICHAEL A.",4
 East Mason Valley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",19
 East Mason Valley 2,"State Assembly, District 38","Grady, Tom",422
 East Mason Valley 2,"State Assembly, District 38","JAMES, CATHYLEE",161
@@ -69,12 +69,12 @@ East Mason Valley 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGI
 East Mason Valley 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",456
 East Mason Valley 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",42
 East Mason Valley 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-East Mason Valley 2,United States Senator,"HURST, THOMAS L.",7
-East Mason Valley 2,United States Senator,"MARINCH, GARY",3
-East Mason Valley 2,United States Senator,None Of These Candidates,15
-East Mason Valley 2,United States Senator,"REID, HARRY",234
-East Mason Valley 2,United States Senator,"SCHUMANN, DAVID K.",9
-East Mason Valley 2,United States Senator,"ZISER, RICHARD",341
+East Mason Valley 2,U.S. Senate,"HURST, THOMAS L.",7
+East Mason Valley 2,U.S. Senate,"MARINCH, GARY",3
+East Mason Valley 2,U.S. Senate,None Of These Candidates,15
+East Mason Valley 2,U.S. Senate,"REID, HARRY",234
+East Mason Valley 2,U.S. Senate,"SCHUMANN, DAVID K.",9
+East Mason Valley 2,U.S. Senate,"ZISER, RICHARD",341
 Fernley 1,County Commissioner District I (CW),"MILZ, BOB",172
 Fernley 1,County Commissioner District I (CW),"REID, HOWARD P.",119
 Fernley 1,County Commissioner District III (CW),"DALTON, STEVEN J.",135
@@ -93,13 +93,13 @@ Fernley 1,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",114
 Fernley 1,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",130
 Fernley 1,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",114
 Fernley 1,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",134
-Fernley 1,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Fernley 1,President and Vice President of the United States,"BUSH, GEORGE W.",188
-Fernley 1,President and Vice President of the United States,"COBB, DAVID",0
-Fernley 1,President and Vice President of the United States,"KERRY, JOHN F.",115
-Fernley 1,President and Vice President of the United States,"NADER, RALPH",3
-Fernley 1,President and Vice President of the United States,None Of These Candidates,3
-Fernley 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Fernley 1,President,"BADNARIK, MICHAEL",1
+Fernley 1,President,"BUSH, GEORGE W.",188
+Fernley 1,President,"COBB, DAVID",0
+Fernley 1,President,"KERRY, JOHN F.",115
+Fernley 1,President,"NADER, RALPH",3
+Fernley 1,President,None Of These Candidates,3
+Fernley 1,President,"PEROUTKA, MICHAEL A.",0
 Fernley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",8
 Fernley 1,"State Assembly, District 38","Grady, Tom",176
 Fernley 1,"State Assembly, District 38","JAMES, CATHYLEE",113
@@ -116,12 +116,12 @@ Fernley 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",85
 Fernley 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",207
 Fernley 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 Fernley 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Fernley 1,United States Senator,"HURST, THOMAS L.",1
-Fernley 1,United States Senator,"MARINCH, GARY",0
-Fernley 1,United States Senator,None Of These Candidates,5
-Fernley 1,United States Senator,"REID, HARRY",153
-Fernley 1,United States Senator,"SCHUMANN, DAVID K.",3
-Fernley 1,United States Senator,"ZISER, RICHARD",143
+Fernley 1,U.S. Senate,"HURST, THOMAS L.",1
+Fernley 1,U.S. Senate,"MARINCH, GARY",0
+Fernley 1,U.S. Senate,None Of These Candidates,5
+Fernley 1,U.S. Senate,"REID, HARRY",153
+Fernley 1,U.S. Senate,"SCHUMANN, DAVID K.",3
+Fernley 1,U.S. Senate,"ZISER, RICHARD",143
 Fernley 2,County Commissioner District I (CW),"MILZ, BOB",33
 Fernley 2,County Commissioner District I (CW),"REID, HOWARD P.",12
 Fernley 2,County Commissioner District III (CW),"DALTON, STEVEN J.",18
@@ -140,13 +140,13 @@ Fernley 2,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",22
 Fernley 2,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",21
 Fernley 2,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",16
 Fernley 2,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",23
-Fernley 2,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Fernley 2,President and Vice President of the United States,"BUSH, GEORGE W.",33
-Fernley 2,President and Vice President of the United States,"COBB, DAVID",0
-Fernley 2,President and Vice President of the United States,"KERRY, JOHN F.",13
-Fernley 2,President and Vice President of the United States,"NADER, RALPH",0
-Fernley 2,President and Vice President of the United States,None Of These Candidates,0
-Fernley 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Fernley 2,President,"BADNARIK, MICHAEL",0
+Fernley 2,President,"BUSH, GEORGE W.",33
+Fernley 2,President,"COBB, DAVID",0
+Fernley 2,President,"KERRY, JOHN F.",13
+Fernley 2,President,"NADER, RALPH",0
+Fernley 2,President,None Of These Candidates,0
+Fernley 2,President,"PEROUTKA, MICHAEL A.",0
 Fernley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",1
 Fernley 2,"State Assembly, District 38","Grady, Tom",30
 Fernley 2,"State Assembly, District 38","JAMES, CATHYLEE",14
@@ -163,12 +163,12 @@ Fernley 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",12
 Fernley 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",34
 Fernley 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 Fernley 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-Fernley 2,United States Senator,"HURST, THOMAS L.",0
-Fernley 2,United States Senator,"MARINCH, GARY",0
-Fernley 2,United States Senator,None Of These Candidates,1
-Fernley 2,United States Senator,"REID, HARRY",18
-Fernley 2,United States Senator,"SCHUMANN, DAVID K.",0
-Fernley 2,United States Senator,"ZISER, RICHARD",27
+Fernley 2,U.S. Senate,"HURST, THOMAS L.",0
+Fernley 2,U.S. Senate,"MARINCH, GARY",0
+Fernley 2,U.S. Senate,None Of These Candidates,1
+Fernley 2,U.S. Senate,"REID, HARRY",18
+Fernley 2,U.S. Senate,"SCHUMANN, DAVID K.",0
+Fernley 2,U.S. Senate,"ZISER, RICHARD",27
 Fernley 3,County Commissioner District I (CW),"MILZ, BOB",579
 Fernley 3,County Commissioner District I (CW),"REID, HOWARD P.",347
 Fernley 3,County Commissioner District III (CW),"DALTON, STEVEN J.",380
@@ -187,13 +187,13 @@ Fernley 3,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",310
 Fernley 3,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",398
 Fernley 3,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",380
 Fernley 3,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",472
-Fernley 3,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Fernley 3,President and Vice President of the United States,"BUSH, GEORGE W.",620
-Fernley 3,President and Vice President of the United States,"COBB, DAVID",0
-Fernley 3,President and Vice President of the United States,"KERRY, JOHN F.",333
-Fernley 3,President and Vice President of the United States,"NADER, RALPH",3
-Fernley 3,President and Vice President of the United States,None Of These Candidates,5
-Fernley 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",8
+Fernley 3,President,"BADNARIK, MICHAEL",1
+Fernley 3,President,"BUSH, GEORGE W.",620
+Fernley 3,President,"COBB, DAVID",0
+Fernley 3,President,"KERRY, JOHN F.",333
+Fernley 3,President,"NADER, RALPH",3
+Fernley 3,President,None Of These Candidates,5
+Fernley 3,President,"PEROUTKA, MICHAEL A.",8
 Fernley 3,"State Assembly, District 38","GOMEZ, DENNIS C.",31
 Fernley 3,"State Assembly, District 38","Grady, Tom",530
 Fernley 3,"State Assembly, District 38","JAMES, CATHYLEE",375
@@ -210,12 +210,12 @@ Fernley 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",259
 Fernley 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",646
 Fernley 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
 Fernley 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Fernley 3,United States Senator,"HURST, THOMAS L.",5
-Fernley 3,United States Senator,"MARINCH, GARY",4
-Fernley 3,United States Senator,None Of These Candidates,12
-Fernley 3,United States Senator,"REID, HARRY",450
-Fernley 3,United States Senator,"SCHUMANN, DAVID K.",12
-Fernley 3,United States Senator,"ZISER, RICHARD",471
+Fernley 3,U.S. Senate,"HURST, THOMAS L.",5
+Fernley 3,U.S. Senate,"MARINCH, GARY",4
+Fernley 3,U.S. Senate,None Of These Candidates,12
+Fernley 3,U.S. Senate,"REID, HARRY",450
+Fernley 3,U.S. Senate,"SCHUMANN, DAVID K.",12
+Fernley 3,U.S. Senate,"ZISER, RICHARD",471
 Fernley 4,County Commissioner District I (CW),"MILZ, BOB",247
 Fernley 4,County Commissioner District I (CW),"REID, HOWARD P.",203
 Fernley 4,County Commissioner District III (CW),"DALTON, STEVEN J.",199
@@ -234,13 +234,13 @@ Fernley 4,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",175
 Fernley 4,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",217
 Fernley 4,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",185
 Fernley 4,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",223
-Fernley 4,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Fernley 4,President and Vice President of the United States,"BUSH, GEORGE W.",265
-Fernley 4,President and Vice President of the United States,"COBB, DAVID",0
-Fernley 4,President and Vice President of the United States,"KERRY, JOHN F.",197
-Fernley 4,President and Vice President of the United States,"NADER, RALPH",7
-Fernley 4,President and Vice President of the United States,None Of These Candidates,3
-Fernley 4,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Fernley 4,President,"BADNARIK, MICHAEL",3
+Fernley 4,President,"BUSH, GEORGE W.",265
+Fernley 4,President,"COBB, DAVID",0
+Fernley 4,President,"KERRY, JOHN F.",197
+Fernley 4,President,"NADER, RALPH",7
+Fernley 4,President,None Of These Candidates,3
+Fernley 4,President,"PEROUTKA, MICHAEL A.",1
 Fernley 4,"State Assembly, District 38","GOMEZ, DENNIS C.",17
 Fernley 4,"State Assembly, District 38","Grady, Tom",241
 Fernley 4,"State Assembly, District 38","JAMES, CATHYLEE",205
@@ -257,12 +257,12 @@ Fernley 4,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",135
 Fernley 4,"U.S. Representative in Congress, District 2","GIBBONS, JIM",314
 Fernley 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 Fernley 4,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-Fernley 4,United States Senator,"HURST, THOMAS L.",3
-Fernley 4,United States Senator,"MARINCH, GARY",2
-Fernley 4,United States Senator,None Of These Candidates,7
-Fernley 4,United States Senator,"REID, HARRY",266
-Fernley 4,United States Senator,"SCHUMANN, DAVID K.",5
-Fernley 4,United States Senator,"ZISER, RICHARD",193
+Fernley 4,U.S. Senate,"HURST, THOMAS L.",3
+Fernley 4,U.S. Senate,"MARINCH, GARY",2
+Fernley 4,U.S. Senate,None Of These Candidates,7
+Fernley 4,U.S. Senate,"REID, HARRY",266
+Fernley 4,U.S. Senate,"SCHUMANN, DAVID K.",5
+Fernley 4,U.S. Senate,"ZISER, RICHARD",193
 Fernley 5,County Commissioner District I (CW),"MILZ, BOB",316
 Fernley 5,County Commissioner District I (CW),"REID, HOWARD P.",234
 Fernley 5,County Commissioner District III (CW),"DALTON, STEVEN J.",243
@@ -281,13 +281,13 @@ Fernley 5,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",198
 Fernley 5,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",288
 Fernley 5,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",216
 Fernley 5,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",279
-Fernley 5,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Fernley 5,President and Vice President of the United States,"BUSH, GEORGE W.",336
-Fernley 5,President and Vice President of the United States,"COBB, DAVID",1
-Fernley 5,President and Vice President of the United States,"KERRY, JOHN F.",225
-Fernley 5,President and Vice President of the United States,"NADER, RALPH",6
-Fernley 5,President and Vice President of the United States,None Of These Candidates,5
-Fernley 5,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+Fernley 5,President,"BADNARIK, MICHAEL",1
+Fernley 5,President,"BUSH, GEORGE W.",336
+Fernley 5,President,"COBB, DAVID",1
+Fernley 5,President,"KERRY, JOHN F.",225
+Fernley 5,President,"NADER, RALPH",6
+Fernley 5,President,None Of These Candidates,5
+Fernley 5,President,"PEROUTKA, MICHAEL A.",4
 Fernley 5,"State Assembly, District 38","GOMEZ, DENNIS C.",18
 Fernley 5,"State Assembly, District 38","Grady, Tom",301
 Fernley 5,"State Assembly, District 38","JAMES, CATHYLEE",241
@@ -304,12 +304,12 @@ Fernley 5,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",148
 Fernley 5,"U.S. Representative in Congress, District 2","GIBBONS, JIM",377
 Fernley 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",29
 Fernley 5,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-Fernley 5,United States Senator,"HURST, THOMAS L.",3
-Fernley 5,United States Senator,"MARINCH, GARY",4
-Fernley 5,United States Senator,None Of These Candidates,6
-Fernley 5,United States Senator,"REID, HARRY",289
-Fernley 5,United States Senator,"SCHUMANN, DAVID K.",8
-Fernley 5,United States Senator,"ZISER, RICHARD",258
+Fernley 5,U.S. Senate,"HURST, THOMAS L.",3
+Fernley 5,U.S. Senate,"MARINCH, GARY",4
+Fernley 5,U.S. Senate,None Of These Candidates,6
+Fernley 5,U.S. Senate,"REID, HARRY",289
+Fernley 5,U.S. Senate,"SCHUMANN, DAVID K.",8
+Fernley 5,U.S. Senate,"ZISER, RICHARD",258
 Fernley 6,County Commissioner District I (CW),"MILZ, BOB",306
 Fernley 6,County Commissioner District I (CW),"REID, HOWARD P.",151
 Fernley 6,County Commissioner District III (CW),"DALTON, STEVEN J.",176
@@ -328,13 +328,13 @@ Fernley 6,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",196
 Fernley 6,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",244
 Fernley 6,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",204
 Fernley 6,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",255
-Fernley 6,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Fernley 6,President and Vice President of the United States,"BUSH, GEORGE W.",340
-Fernley 6,President and Vice President of the United States,"COBB, DAVID",2
-Fernley 6,President and Vice President of the United States,"KERRY, JOHN F.",132
-Fernley 6,President and Vice President of the United States,"NADER, RALPH",3
-Fernley 6,President and Vice President of the United States,None Of These Candidates,1
-Fernley 6,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Fernley 6,President,"BADNARIK, MICHAEL",4
+Fernley 6,President,"BUSH, GEORGE W.",340
+Fernley 6,President,"COBB, DAVID",2
+Fernley 6,President,"KERRY, JOHN F.",132
+Fernley 6,President,"NADER, RALPH",3
+Fernley 6,President,None Of These Candidates,1
+Fernley 6,President,"PEROUTKA, MICHAEL A.",0
 Fernley 6,"State Assembly, District 38","GOMEZ, DENNIS C.",4
 Fernley 6,"State Assembly, District 38","Grady, Tom",318
 Fernley 6,"State Assembly, District 38","JAMES, CATHYLEE",141
@@ -351,12 +351,12 @@ Fernley 6,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",90
 Fernley 6,"U.S. Representative in Congress, District 2","GIBBONS, JIM",367
 Fernley 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",11
 Fernley 6,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Fernley 6,United States Senator,"HURST, THOMAS L.",3
-Fernley 6,United States Senator,"MARINCH, GARY",0
-Fernley 6,United States Senator,None Of These Candidates,4
-Fernley 6,United States Senator,"REID, HARRY",194
-Fernley 6,United States Senator,"SCHUMANN, DAVID K.",1
-Fernley 6,United States Senator,"ZISER, RICHARD",275
+Fernley 6,U.S. Senate,"HURST, THOMAS L.",3
+Fernley 6,U.S. Senate,"MARINCH, GARY",0
+Fernley 6,U.S. Senate,None Of These Candidates,4
+Fernley 6,U.S. Senate,"REID, HARRY",194
+Fernley 6,U.S. Senate,"SCHUMANN, DAVID K.",1
+Fernley 6,U.S. Senate,"ZISER, RICHARD",275
 Fernley 7,County Commissioner District I (CW),"MILZ, BOB",1068
 Fernley 7,County Commissioner District I (CW),"REID, HOWARD P.",515
 Fernley 7,County Commissioner District III (CW),"DALTON, STEVEN J.",586
@@ -375,13 +375,13 @@ Fernley 7,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",602
 Fernley 7,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",676
 Fernley 7,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",641
 Fernley 7,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",792
-Fernley 7,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-Fernley 7,President and Vice President of the United States,"BUSH, GEORGE W.",1154
-Fernley 7,President and Vice President of the United States,"COBB, DAVID",0
-Fernley 7,President and Vice President of the United States,"KERRY, JOHN F.",518
-Fernley 7,President and Vice President of the United States,"NADER, RALPH",7
-Fernley 7,President and Vice President of the United States,None Of These Candidates,6
-Fernley 7,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Fernley 7,President,"BADNARIK, MICHAEL",6
+Fernley 7,President,"BUSH, GEORGE W.",1154
+Fernley 7,President,"COBB, DAVID",0
+Fernley 7,President,"KERRY, JOHN F.",518
+Fernley 7,President,"NADER, RALPH",7
+Fernley 7,President,None Of These Candidates,6
+Fernley 7,President,"PEROUTKA, MICHAEL A.",1
 Fernley 7,"State Assembly, District 38","GOMEZ, DENNIS C.",42
 Fernley 7,"State Assembly, District 38","Grady, Tom",1073
 Fernley 7,"State Assembly, District 38","JAMES, CATHYLEE",502
@@ -398,12 +398,12 @@ Fernley 7,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",367
 Fernley 7,"U.S. Representative in Congress, District 2","GIBBONS, JIM",1209
 Fernley 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",51
 Fernley 7,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",17
-Fernley 7,United States Senator,"HURST, THOMAS L.",11
-Fernley 7,United States Senator,"MARINCH, GARY",2
-Fernley 7,United States Senator,None Of These Candidates,27
-Fernley 7,United States Senator,"REID, HARRY",687
-Fernley 7,United States Senator,"SCHUMANN, DAVID K.",21
-Fernley 7,United States Senator,"ZISER, RICHARD",914
+Fernley 7,U.S. Senate,"HURST, THOMAS L.",11
+Fernley 7,U.S. Senate,"MARINCH, GARY",2
+Fernley 7,U.S. Senate,None Of These Candidates,27
+Fernley 7,U.S. Senate,"REID, HARRY",687
+Fernley 7,U.S. Senate,"SCHUMANN, DAVID K.",21
+Fernley 7,U.S. Senate,"ZISER, RICHARD",914
 Fernley 8,County Commissioner District I (CW),"MILZ, BOB",261
 Fernley 8,County Commissioner District I (CW),"REID, HOWARD P.",165
 Fernley 8,County Commissioner District III (CW),"DALTON, STEVEN J.",174
@@ -422,13 +422,13 @@ Fernley 8,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"CLEGG, BILL",167
 Fernley 8,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"FERREL, CHESTER",214
 Fernley 8,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"RAND, PAUL W.",155
 Fernley 8,NORTH LYON COUNTY Fire Pro - Directors -vote for 3,"WHEELER, HARRY J.",207
-Fernley 8,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Fernley 8,President and Vice President of the United States,"BUSH, GEORGE W.",283
-Fernley 8,President and Vice President of the United States,"COBB, DAVID",1
-Fernley 8,President and Vice President of the United States,"KERRY, JOHN F.",146
-Fernley 8,President and Vice President of the United States,"NADER, RALPH",3
-Fernley 8,President and Vice President of the United States,None Of These Candidates,2
-Fernley 8,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Fernley 8,President,"BADNARIK, MICHAEL",2
+Fernley 8,President,"BUSH, GEORGE W.",283
+Fernley 8,President,"COBB, DAVID",1
+Fernley 8,President,"KERRY, JOHN F.",146
+Fernley 8,President,"NADER, RALPH",3
+Fernley 8,President,None Of These Candidates,2
+Fernley 8,President,"PEROUTKA, MICHAEL A.",2
 Fernley 8,"State Assembly, District 38","GOMEZ, DENNIS C.",18
 Fernley 8,"State Assembly, District 38","Grady, Tom",239
 Fernley 8,"State Assembly, District 38","JAMES, CATHYLEE",167
@@ -445,12 +445,12 @@ Fernley 8,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",110
 Fernley 8,"U.S. Representative in Congress, District 2","GIBBONS, JIM",301
 Fernley 8,"U.S. Representative in Congress, District 2","HANSEN, JANINE",19
 Fernley 8,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-Fernley 8,United States Senator,"HURST, THOMAS L.",10
-Fernley 8,United States Senator,"MARINCH, GARY",1
-Fernley 8,United States Senator,None Of These Candidates,3
-Fernley 8,United States Senator,"REID, HARRY",208
-Fernley 8,United States Senator,"SCHUMANN, DAVID K.",4
-Fernley 8,United States Senator,"ZISER, RICHARD",201
+Fernley 8,U.S. Senate,"HURST, THOMAS L.",10
+Fernley 8,U.S. Senate,"MARINCH, GARY",1
+Fernley 8,U.S. Senate,None Of These Candidates,3
+Fernley 8,U.S. Senate,"REID, HARRY",208
+Fernley 8,U.S. Senate,"SCHUMANN, DAVID K.",4
+Fernley 8,U.S. Senate,"ZISER, RICHARD",201
 Mound House 1,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",138
 Mound House 1,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",84
 Mound House 1,County Commissioner District I (CW),"MILZ, BOB",174
@@ -462,13 +462,13 @@ Mound House 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",101
 Mound House 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",128
 Mound House 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",119
 Mound House 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",105
-Mound House 1,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Mound House 1,President and Vice President of the United States,"BUSH, GEORGE W.",180
-Mound House 1,President and Vice President of the United States,"COBB, DAVID",0
-Mound House 1,President and Vice President of the United States,"KERRY, JOHN F.",111
-Mound House 1,President and Vice President of the United States,"NADER, RALPH",0
-Mound House 1,President and Vice President of the United States,None Of These Candidates,1
-Mound House 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Mound House 1,President,"BADNARIK, MICHAEL",2
+Mound House 1,President,"BUSH, GEORGE W.",180
+Mound House 1,President,"COBB, DAVID",0
+Mound House 1,President,"KERRY, JOHN F.",111
+Mound House 1,President,"NADER, RALPH",0
+Mound House 1,President,None Of These Candidates,1
+Mound House 1,President,"PEROUTKA, MICHAEL A.",0
 Mound House 1,"State Assembly, District 38","GOMEZ, DENNIS C.",13
 Mound House 1,"State Assembly, District 38","Grady, Tom",158
 Mound House 1,"State Assembly, District 38","JAMES, CATHYLEE",104
@@ -485,12 +485,12 @@ Mound House 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
 Mound House 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",189
 Mound House 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",12
 Mound House 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Mound House 1,United States Senator,"HURST, THOMAS L.",3
-Mound House 1,United States Senator,"MARINCH, GARY",0
-Mound House 1,United States Senator,None Of These Candidates,5
-Mound House 1,United States Senator,"REID, HARRY",144
-Mound House 1,United States Senator,"SCHUMANN, DAVID K.",3
-Mound House 1,United States Senator,"ZISER, RICHARD",136
+Mound House 1,U.S. Senate,"HURST, THOMAS L.",3
+Mound House 1,U.S. Senate,"MARINCH, GARY",0
+Mound House 1,U.S. Senate,None Of These Candidates,5
+Mound House 1,U.S. Senate,"REID, HARRY",144
+Mound House 1,U.S. Senate,"SCHUMANN, DAVID K.",3
+Mound House 1,U.S. Senate,"ZISER, RICHARD",136
 Mound House 2,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",172
 Mound House 2,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",107
 Mound House 2,County Commissioner District I (CW),"MILZ, BOB",186
@@ -502,13 +502,13 @@ Mound House 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",123
 Mound House 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",159
 Mound House 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",155
 Mound House 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",125
-Mound House 2,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Mound House 2,President and Vice President of the United States,"BUSH, GEORGE W.",214
-Mound House 2,President and Vice President of the United States,"COBB, DAVID",0
-Mound House 2,President and Vice President of the United States,"KERRY, JOHN F.",127
-Mound House 2,President and Vice President of the United States,"NADER, RALPH",0
-Mound House 2,President and Vice President of the United States,None Of These Candidates,1
-Mound House 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Mound House 2,President,"BADNARIK, MICHAEL",1
+Mound House 2,President,"BUSH, GEORGE W.",214
+Mound House 2,President,"COBB, DAVID",0
+Mound House 2,President,"KERRY, JOHN F.",127
+Mound House 2,President,"NADER, RALPH",0
+Mound House 2,President,None Of These Candidates,1
+Mound House 2,President,"PEROUTKA, MICHAEL A.",0
 Mound House 2,"State Assembly, District 38","GOMEZ, DENNIS C.",20
 Mound House 2,"State Assembly, District 38","Grady, Tom",181
 Mound House 2,"State Assembly, District 38","JAMES, CATHYLEE",133
@@ -525,12 +525,12 @@ Mound House 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
 Mound House 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",227
 Mound House 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",10
 Mound House 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",8
-Mound House 2,United States Senator,"HURST, THOMAS L.",4
-Mound House 2,United States Senator,"MARINCH, GARY",3
-Mound House 2,United States Senator,None Of These Candidates,5
-Mound House 2,United States Senator,"REID, HARRY",164
-Mound House 2,United States Senator,"SCHUMANN, DAVID K.",5
-Mound House 2,United States Senator,"ZISER, RICHARD",155
+Mound House 2,U.S. Senate,"HURST, THOMAS L.",4
+Mound House 2,U.S. Senate,"MARINCH, GARY",3
+Mound House 2,U.S. Senate,None Of These Candidates,5
+Mound House 2,U.S. Senate,"REID, HARRY",164
+Mound House 2,U.S. Senate,"SCHUMANN, DAVID K.",5
+Mound House 2,U.S. Senate,"ZISER, RICHARD",155
 North Dayton 1,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",518
 North Dayton 1,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",253
 North Dayton 1,County Commissioner District I (CW),"MILZ, BOB",532
@@ -542,13 +542,13 @@ North Dayton 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",34
 North Dayton 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",437
 North Dayton 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",451
 North Dayton 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",329
-North Dayton 1,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-North Dayton 1,President and Vice President of the United States,"BUSH, GEORGE W.",631
-North Dayton 1,President and Vice President of the United States,"COBB, DAVID",2
-North Dayton 1,President and Vice President of the United States,"KERRY, JOHN F.",316
-North Dayton 1,President and Vice President of the United States,"NADER, RALPH",5
-North Dayton 1,President and Vice President of the United States,None Of These Candidates,2
-North Dayton 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+North Dayton 1,President,"BADNARIK, MICHAEL",5
+North Dayton 1,President,"BUSH, GEORGE W.",631
+North Dayton 1,President,"COBB, DAVID",2
+North Dayton 1,President,"KERRY, JOHN F.",316
+North Dayton 1,President,"NADER, RALPH",5
+North Dayton 1,President,None Of These Candidates,2
+North Dayton 1,President,"PEROUTKA, MICHAEL A.",2
 North Dayton 1,"State Assembly, District 38","GOMEZ, DENNIS C.",49
 North Dayton 1,"State Assembly, District 38","Grady, Tom",528
 North Dayton 1,"State Assembly, District 38","JAMES, CATHYLEE",339
@@ -565,12 +565,12 @@ North Dayton 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 North Dayton 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",651
 North Dayton 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",39
 North Dayton 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-North Dayton 1,United States Senator,"HURST, THOMAS L.",7
-North Dayton 1,United States Senator,"MARINCH, GARY",0
-North Dayton 1,United States Senator,None Of These Candidates,12
-North Dayton 1,United States Senator,"REID, HARRY",458
-North Dayton 1,United States Senator,"SCHUMANN, DAVID K.",11
-North Dayton 1,United States Senator,"ZISER, RICHARD",455
+North Dayton 1,U.S. Senate,"HURST, THOMAS L.",7
+North Dayton 1,U.S. Senate,"MARINCH, GARY",0
+North Dayton 1,U.S. Senate,None Of These Candidates,12
+North Dayton 1,U.S. Senate,"REID, HARRY",458
+North Dayton 1,U.S. Senate,"SCHUMANN, DAVID K.",11
+North Dayton 1,U.S. Senate,"ZISER, RICHARD",455
 North Dayton 2,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",328
 North Dayton 2,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",140
 North Dayton 2,County Commissioner District I (CW),"MILZ, BOB",343
@@ -582,13 +582,13 @@ North Dayton 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",22
 North Dayton 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",266
 North Dayton 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",280
 North Dayton 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",203
-North Dayton 2,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-North Dayton 2,President and Vice President of the United States,"BUSH, GEORGE W.",396
-North Dayton 2,President and Vice President of the United States,"COBB, DAVID",1
-North Dayton 2,President and Vice President of the United States,"KERRY, JOHN F.",214
-North Dayton 2,President and Vice President of the United States,"NADER, RALPH",6
-North Dayton 2,President and Vice President of the United States,None Of These Candidates,3
-North Dayton 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+North Dayton 2,President,"BADNARIK, MICHAEL",2
+North Dayton 2,President,"BUSH, GEORGE W.",396
+North Dayton 2,President,"COBB, DAVID",1
+North Dayton 2,President,"KERRY, JOHN F.",214
+North Dayton 2,President,"NADER, RALPH",6
+North Dayton 2,President,None Of These Candidates,3
+North Dayton 2,President,"PEROUTKA, MICHAEL A.",2
 North Dayton 2,"State Assembly, District 38","GOMEZ, DENNIS C.",19
 North Dayton 2,"State Assembly, District 38","Grady, Tom",348
 North Dayton 2,"State Assembly, District 38","JAMES, CATHYLEE",225
@@ -605,12 +605,12 @@ North Dayton 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 North Dayton 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",421
 North Dayton 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
 North Dayton 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-North Dayton 2,United States Senator,"HURST, THOMAS L.",7
-North Dayton 2,United States Senator,"MARINCH, GARY",1
-North Dayton 2,United States Senator,None Of These Candidates,13
-North Dayton 2,United States Senator,"REID, HARRY",276
-North Dayton 2,United States Senator,"SCHUMANN, DAVID K.",5
-North Dayton 2,United States Senator,"ZISER, RICHARD",308
+North Dayton 2,U.S. Senate,"HURST, THOMAS L.",7
+North Dayton 2,U.S. Senate,"MARINCH, GARY",1
+North Dayton 2,U.S. Senate,None Of These Candidates,13
+North Dayton 2,U.S. Senate,"REID, HARRY",276
+North Dayton 2,U.S. Senate,"SCHUMANN, DAVID K.",5
+North Dayton 2,U.S. Senate,"ZISER, RICHARD",308
 North Dayton 3,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",299
 North Dayton 3,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",189
 North Dayton 3,County Commissioner District I (CW),"MILZ, BOB",311
@@ -622,13 +622,13 @@ North Dayton 3,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",20
 North Dayton 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",302
 North Dayton 3,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",285
 North Dayton 3,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",200
-North Dayton 3,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-North Dayton 3,President and Vice President of the United States,"BUSH, GEORGE W.",369
-North Dayton 3,President and Vice President of the United States,"COBB, DAVID",1
-North Dayton 3,President and Vice President of the United States,"KERRY, JOHN F.",245
-North Dayton 3,President and Vice President of the United States,"NADER, RALPH",10
-North Dayton 3,President and Vice President of the United States,None Of These Candidates,2
-North Dayton 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+North Dayton 3,President,"BADNARIK, MICHAEL",0
+North Dayton 3,President,"BUSH, GEORGE W.",369
+North Dayton 3,President,"COBB, DAVID",1
+North Dayton 3,President,"KERRY, JOHN F.",245
+North Dayton 3,President,"NADER, RALPH",10
+North Dayton 3,President,None Of These Candidates,2
+North Dayton 3,President,"PEROUTKA, MICHAEL A.",3
 North Dayton 3,"State Assembly, District 38","GOMEZ, DENNIS C.",36
 North Dayton 3,"State Assembly, District 38","Grady, Tom",317
 North Dayton 3,"State Assembly, District 38","JAMES, CATHYLEE",257
@@ -645,12 +645,12 @@ North Dayton 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 North Dayton 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",384
 North Dayton 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
 North Dayton 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-North Dayton 3,United States Senator,"HURST, THOMAS L.",3
-North Dayton 3,United States Senator,"MARINCH, GARY",0
-North Dayton 3,United States Senator,None Of These Candidates,11
-North Dayton 3,United States Senator,"REID, HARRY",305
-North Dayton 3,United States Senator,"SCHUMANN, DAVID K.",10
-North Dayton 3,United States Senator,"ZISER, RICHARD",288
+North Dayton 3,U.S. Senate,"HURST, THOMAS L.",3
+North Dayton 3,U.S. Senate,"MARINCH, GARY",0
+North Dayton 3,U.S. Senate,None Of These Candidates,11
+North Dayton 3,U.S. Senate,"REID, HARRY",305
+North Dayton 3,U.S. Senate,"SCHUMANN, DAVID K.",10
+North Dayton 3,U.S. Senate,"ZISER, RICHARD",288
 North Dayton 4,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",240
 North Dayton 4,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",149
 North Dayton 4,County Commissioner District I (CW),"MILZ, BOB",326
@@ -662,13 +662,13 @@ North Dayton 4,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",18
 North Dayton 4,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",206
 North Dayton 4,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",203
 North Dayton 4,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",180
-North Dayton 4,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-North Dayton 4,President and Vice President of the United States,"BUSH, GEORGE W.",383
-North Dayton 4,President and Vice President of the United States,"COBB, DAVID",2
-North Dayton 4,President and Vice President of the United States,"KERRY, JOHN F.",142
-North Dayton 4,President and Vice President of the United States,"NADER, RALPH",2
-North Dayton 4,President and Vice President of the United States,None Of These Candidates,3
-North Dayton 4,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+North Dayton 4,President,"BADNARIK, MICHAEL",4
+North Dayton 4,President,"BUSH, GEORGE W.",383
+North Dayton 4,President,"COBB, DAVID",2
+North Dayton 4,President,"KERRY, JOHN F.",142
+North Dayton 4,President,"NADER, RALPH",2
+North Dayton 4,President,None Of These Candidates,3
+North Dayton 4,President,"PEROUTKA, MICHAEL A.",1
 North Dayton 4,"State Assembly, District 38","GOMEZ, DENNIS C.",26
 North Dayton 4,"State Assembly, District 38","Grady, Tom",335
 North Dayton 4,"State Assembly, District 38","JAMES, CATHYLEE",158
@@ -685,36 +685,36 @@ North Dayton 4,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 North Dayton 4,"U.S. Representative in Congress, District 2","GIBBONS, JIM",393
 North Dayton 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",28
 North Dayton 4,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-North Dayton 4,United States Senator,"HURST, THOMAS L.",8
-North Dayton 4,United States Senator,"MARINCH, GARY",2
-North Dayton 4,United States Senator,None Of These Candidates,5
-North Dayton 4,United States Senator,"REID, HARRY",191
-North Dayton 4,United States Senator,"SCHUMANN, DAVID K.",8
-North Dayton 4,United States Senator,"ZISER, RICHARD",308
-Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",
-Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",
-Precinct 88,President and Vice President of the United States,"COBB, DAVID",
-Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
-Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",0
-Precinct 99,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",0
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+North Dayton 4,U.S. Senate,"HURST, THOMAS L.",8
+North Dayton 4,U.S. Senate,"MARINCH, GARY",2
+North Dayton 4,U.S. Senate,None Of These Candidates,5
+North Dayton 4,U.S. Senate,"REID, HARRY",191
+North Dayton 4,U.S. Senate,"SCHUMANN, DAVID K.",8
+North Dayton 4,U.S. Senate,"ZISER, RICHARD",308
+Precinct 88,President,"BADNARIK, MICHAEL",
+Precinct 88,President,"BUSH, GEORGE W.",
+Precinct 88,President,"COBB, DAVID",
+Precinct 88,President,"KERRY, JOHN F.",
+Precinct 88,President,"NADER, RALPH",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"PEROUTKA, MICHAEL A.",
+Precinct 99,President,"BADNARIK, MICHAEL",0
+Precinct 99,President,"BUSH, GEORGE W.",0
+Precinct 99,President,"COBB, DAVID",0
+Precinct 99,President,"KERRY, JOHN F.",0
+Precinct 99,President,"NADER, RALPH",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"PEROUTKA, MICHAEL A.",0
 Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",0
 Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",0
 Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-Precinct 99,United States Senator,"HURST, THOMAS L.",0
-Precinct 99,United States Senator,"MARINCH, GARY",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"REID, HARRY",0
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 99,United States Senator,"ZISER, RICHARD",0
+Precinct 99,U.S. Senate,"HURST, THOMAS L.",0
+Precinct 99,U.S. Senate,"MARINCH, GARY",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"REID, HARRY",0
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 99,U.S. Senate,"ZISER, RICHARD",0
 Silver City,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",45
 Silver City,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",37
 Silver City,County Commissioner District I (CW),"MILZ, BOB",42
@@ -726,13 +726,13 @@ Silver City,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",25
 Silver City,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",51
 Silver City,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",32
 Silver City,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",48
-Silver City,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Silver City,President and Vice President of the United States,"BUSH, GEORGE W.",34
-Silver City,President and Vice President of the United States,"COBB, DAVID",0
-Silver City,President and Vice President of the United States,"KERRY, JOHN F.",85
-Silver City,President and Vice President of the United States,"NADER, RALPH",1
-Silver City,President and Vice President of the United States,None Of These Candidates,0
-Silver City,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Silver City,President,"BADNARIK, MICHAEL",1
+Silver City,President,"BUSH, GEORGE W.",34
+Silver City,President,"COBB, DAVID",0
+Silver City,President,"KERRY, JOHN F.",85
+Silver City,President,"NADER, RALPH",1
+Silver City,President,None Of These Candidates,0
+Silver City,President,"PEROUTKA, MICHAEL A.",0
 Silver City,"State Assembly, District 38","GOMEZ, DENNIS C.",4
 Silver City,"State Assembly, District 38","Grady, Tom",34
 Silver City,"State Assembly, District 38","JAMES, CATHYLEE",78
@@ -749,12 +749,12 @@ Silver City,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",59
 Silver City,"U.S. Representative in Congress, District 2","GIBBONS, JIM",41
 Silver City,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 Silver City,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-Silver City,United States Senator,"HURST, THOMAS L.",2
-Silver City,United States Senator,"MARINCH, GARY",0
-Silver City,United States Senator,None Of These Candidates,4
-Silver City,United States Senator,"REID, HARRY",88
-Silver City,United States Senator,"SCHUMANN, DAVID K.",0
-Silver City,United States Senator,"ZISER, RICHARD",24
+Silver City,U.S. Senate,"HURST, THOMAS L.",2
+Silver City,U.S. Senate,"MARINCH, GARY",0
+Silver City,U.S. Senate,None Of These Candidates,4
+Silver City,U.S. Senate,"REID, HARRY",88
+Silver City,U.S. Senate,"SCHUMANN, DAVID K.",0
+Silver City,U.S. Senate,"ZISER, RICHARD",24
 Silver Springs 1,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",522
 Silver Springs 1,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",310
 Silver Springs 1,County Commissioner District I (CW),"MILZ, BOB",549
@@ -766,13 +766,13 @@ Silver Springs 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",424
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",424
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",382
-Silver Springs 1,President and Vice President of the United States,"BADNARIK, MICHAEL",8
-Silver Springs 1,President and Vice President of the United States,"BUSH, GEORGE W.",588
-Silver Springs 1,President and Vice President of the United States,"COBB, DAVID",3
-Silver Springs 1,President and Vice President of the United States,"KERRY, JOHN F.",332
-Silver Springs 1,President and Vice President of the United States,"NADER, RALPH",10
-Silver Springs 1,President and Vice President of the United States,None Of These Candidates,6
-Silver Springs 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",6
+Silver Springs 1,President,"BADNARIK, MICHAEL",8
+Silver Springs 1,President,"BUSH, GEORGE W.",588
+Silver Springs 1,President,"COBB, DAVID",3
+Silver Springs 1,President,"KERRY, JOHN F.",332
+Silver Springs 1,President,"NADER, RALPH",10
+Silver Springs 1,President,None Of These Candidates,6
+Silver Springs 1,President,"PEROUTKA, MICHAEL A.",6
 Silver Springs 1,SILVER SPRINGS General Improvement District Trustees,"CHIAPPONE, JOHN J.",98
 Silver Springs 1,SILVER SPRINGS General Improvement District Trustees,"HOLLER, BILL",93
 Silver Springs 1,SILVER SPRINGS General Improvement District Trustees,"OWEN, LARRY W.",158
@@ -795,12 +795,12 @@ Silver Springs 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G
 Silver Springs 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",622
 Silver Springs 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",53
 Silver Springs 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",24
-Silver Springs 1,United States Senator,"HURST, THOMAS L.",14
-Silver Springs 1,United States Senator,"MARINCH, GARY",5
-Silver Springs 1,United States Senator,None Of These Candidates,10
-Silver Springs 1,United States Senator,"REID, HARRY",461
-Silver Springs 1,United States Senator,"SCHUMANN, DAVID K.",19
-Silver Springs 1,United States Senator,"ZISER, RICHARD",427
+Silver Springs 1,U.S. Senate,"HURST, THOMAS L.",14
+Silver Springs 1,U.S. Senate,"MARINCH, GARY",5
+Silver Springs 1,U.S. Senate,None Of These Candidates,10
+Silver Springs 1,U.S. Senate,"REID, HARRY",461
+Silver Springs 1,U.S. Senate,"SCHUMANN, DAVID K.",19
+Silver Springs 1,U.S. Senate,"ZISER, RICHARD",427
 Silver Springs 2,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",348
 Silver Springs 2,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",202
 Silver Springs 2,County Commissioner District I (CW),"MILZ, BOB",334
@@ -812,13 +812,13 @@ Silver Springs 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",307
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",288
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",246
-Silver Springs 2,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Silver Springs 2,President and Vice President of the United States,"BUSH, GEORGE W.",349
-Silver Springs 2,President and Vice President of the United States,"COBB, DAVID",2
-Silver Springs 2,President and Vice President of the United States,"KERRY, JOHN F.",257
-Silver Springs 2,President and Vice President of the United States,"NADER, RALPH",9
-Silver Springs 2,President and Vice President of the United States,None Of These Candidates,4
-Silver Springs 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Silver Springs 2,President,"BADNARIK, MICHAEL",4
+Silver Springs 2,President,"BUSH, GEORGE W.",349
+Silver Springs 2,President,"COBB, DAVID",2
+Silver Springs 2,President,"KERRY, JOHN F.",257
+Silver Springs 2,President,"NADER, RALPH",9
+Silver Springs 2,President,None Of These Candidates,4
+Silver Springs 2,President,"PEROUTKA, MICHAEL A.",1
 Silver Springs 2,SILVER SPRINGS General Improvement District Trustees,"CHIAPPONE, JOHN J.",104
 Silver Springs 2,SILVER SPRINGS General Improvement District Trustees,"HOLLER, BILL",93
 Silver Springs 2,SILVER SPRINGS General Improvement District Trustees,"OWEN, LARRY W.",119
@@ -841,12 +841,12 @@ Silver Springs 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G
 Silver Springs 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",380
 Silver Springs 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",38
 Silver Springs 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-Silver Springs 2,United States Senator,"HURST, THOMAS L.",6
-Silver Springs 2,United States Senator,"MARINCH, GARY",5
-Silver Springs 2,United States Senator,None Of These Candidates,7
-Silver Springs 2,United States Senator,"REID, HARRY",344
-Silver Springs 2,United States Senator,"SCHUMANN, DAVID K.",15
-Silver Springs 2,United States Senator,"ZISER, RICHARD",230
+Silver Springs 2,U.S. Senate,"HURST, THOMAS L.",6
+Silver Springs 2,U.S. Senate,"MARINCH, GARY",5
+Silver Springs 2,U.S. Senate,None Of These Candidates,7
+Silver Springs 2,U.S. Senate,"REID, HARRY",344
+Silver Springs 2,U.S. Senate,"SCHUMANN, DAVID K.",15
+Silver Springs 2,U.S. Senate,"ZISER, RICHARD",230
 Silver Springs 3,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",72
 Silver Springs 3,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",56
 Silver Springs 3,County Commissioner District I (CW),"MILZ, BOB",79
@@ -858,13 +858,13 @@ Silver Springs 3,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",63
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",72
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",48
-Silver Springs 3,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Silver Springs 3,President and Vice President of the United States,"BUSH, GEORGE W.",93
-Silver Springs 3,President and Vice President of the United States,"COBB, DAVID",0
-Silver Springs 3,President and Vice President of the United States,"KERRY, JOHN F.",55
-Silver Springs 3,President and Vice President of the United States,"NADER, RALPH",1
-Silver Springs 3,President and Vice President of the United States,None Of These Candidates,0
-Silver Springs 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Silver Springs 3,President,"BADNARIK, MICHAEL",0
+Silver Springs 3,President,"BUSH, GEORGE W.",93
+Silver Springs 3,President,"COBB, DAVID",0
+Silver Springs 3,President,"KERRY, JOHN F.",55
+Silver Springs 3,President,"NADER, RALPH",1
+Silver Springs 3,President,None Of These Candidates,0
+Silver Springs 3,President,"PEROUTKA, MICHAEL A.",1
 Silver Springs 3,SILVER SPRINGS General Improvement District Trustees,"CHIAPPONE, JOHN J.",0
 Silver Springs 3,SILVER SPRINGS General Improvement District Trustees,"HOLLER, BILL",0
 Silver Springs 3,SILVER SPRINGS General Improvement District Trustees,"OWEN, LARRY W.",0
@@ -887,12 +887,12 @@ Silver Springs 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G
 Silver Springs 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",91
 Silver Springs 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",6
 Silver Springs 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-Silver Springs 3,United States Senator,"HURST, THOMAS L.",1
-Silver Springs 3,United States Senator,"MARINCH, GARY",0
-Silver Springs 3,United States Senator,None Of These Candidates,1
-Silver Springs 3,United States Senator,"REID, HARRY",73
-Silver Springs 3,United States Senator,"SCHUMANN, DAVID K.",0
-Silver Springs 3,United States Senator,"ZISER, RICHARD",72
+Silver Springs 3,U.S. Senate,"HURST, THOMAS L.",1
+Silver Springs 3,U.S. Senate,"MARINCH, GARY",0
+Silver Springs 3,U.S. Senate,None Of These Candidates,1
+Silver Springs 3,U.S. Senate,"REID, HARRY",73
+Silver Springs 3,U.S. Senate,"SCHUMANN, DAVID K.",0
+Silver Springs 3,U.S. Senate,"ZISER, RICHARD",72
 Smith Valley 1,County Commissioner District I (CW),"MILZ, BOB",505
 Smith Valley 1,County Commissioner District I (CW),"REID, HOWARD P.",128
 Smith Valley 1,County Commissioner District III (CW),"DALTON, STEVEN J.",123
@@ -902,13 +902,13 @@ Smith Valley 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",26
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",265
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",279
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",318
-Smith Valley 1,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Smith Valley 1,President and Vice President of the United States,"BUSH, GEORGE W.",528
-Smith Valley 1,President and Vice President of the United States,"COBB, DAVID",0
-Smith Valley 1,President and Vice President of the United States,"KERRY, JOHN F.",133
-Smith Valley 1,President and Vice President of the United States,"NADER, RALPH",4
-Smith Valley 1,President and Vice President of the United States,None Of These Candidates,6
-Smith Valley 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Smith Valley 1,President,"BADNARIK, MICHAEL",2
+Smith Valley 1,President,"BUSH, GEORGE W.",528
+Smith Valley 1,President,"COBB, DAVID",0
+Smith Valley 1,President,"KERRY, JOHN F.",133
+Smith Valley 1,President,"NADER, RALPH",4
+Smith Valley 1,President,None Of These Candidates,6
+Smith Valley 1,President,"PEROUTKA, MICHAEL A.",1
 Smith Valley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",11
 Smith Valley 1,"State Assembly, District 38","Grady, Tom",514
 Smith Valley 1,"State Assembly, District 38","JAMES, CATHYLEE",124
@@ -928,12 +928,12 @@ Smith Valley 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 Smith Valley 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",530
 Smith Valley 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",25
 Smith Valley 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Smith Valley 1,United States Senator,"HURST, THOMAS L.",8
-Smith Valley 1,United States Senator,"MARINCH, GARY",2
-Smith Valley 1,United States Senator,None Of These Candidates,7
-Smith Valley 1,United States Senator,"REID, HARRY",172
-Smith Valley 1,United States Senator,"SCHUMANN, DAVID K.",11
-Smith Valley 1,United States Senator,"ZISER, RICHARD",462
+Smith Valley 1,U.S. Senate,"HURST, THOMAS L.",8
+Smith Valley 1,U.S. Senate,"MARINCH, GARY",2
+Smith Valley 1,U.S. Senate,None Of These Candidates,7
+Smith Valley 1,U.S. Senate,"REID, HARRY",172
+Smith Valley 1,U.S. Senate,"SCHUMANN, DAVID K.",11
+Smith Valley 1,U.S. Senate,"ZISER, RICHARD",462
 Smith Valley 2,County Commissioner District I (CW),"MILZ, BOB",228
 Smith Valley 2,County Commissioner District I (CW),"REID, HOWARD P.",55
 Smith Valley 2,County Commissioner District III (CW),"DALTON, STEVEN J.",52
@@ -943,13 +943,13 @@ Smith Valley 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",13
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",126
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",130
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",139
-Smith Valley 2,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Smith Valley 2,President and Vice President of the United States,"BUSH, GEORGE W.",231
-Smith Valley 2,President and Vice President of the United States,"COBB, DAVID",3
-Smith Valley 2,President and Vice President of the United States,"KERRY, JOHN F.",49
-Smith Valley 2,President and Vice President of the United States,"NADER, RALPH",3
-Smith Valley 2,President and Vice President of the United States,None Of These Candidates,4
-Smith Valley 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Smith Valley 2,President,"BADNARIK, MICHAEL",3
+Smith Valley 2,President,"BUSH, GEORGE W.",231
+Smith Valley 2,President,"COBB, DAVID",3
+Smith Valley 2,President,"KERRY, JOHN F.",49
+Smith Valley 2,President,"NADER, RALPH",3
+Smith Valley 2,President,None Of These Candidates,4
+Smith Valley 2,President,"PEROUTKA, MICHAEL A.",2
 Smith Valley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",7
 Smith Valley 2,"State Assembly, District 38","Grady, Tom",223
 Smith Valley 2,"State Assembly, District 38","JAMES, CATHYLEE",58
@@ -969,12 +969,12 @@ Smith Valley 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 Smith Valley 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",237
 Smith Valley 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",9
 Smith Valley 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-Smith Valley 2,United States Senator,"HURST, THOMAS L.",6
-Smith Valley 2,United States Senator,"MARINCH, GARY",2
-Smith Valley 2,United States Senator,None Of These Candidates,9
-Smith Valley 2,United States Senator,"REID, HARRY",69
-Smith Valley 2,United States Senator,"SCHUMANN, DAVID K.",3
-Smith Valley 2,United States Senator,"ZISER, RICHARD",202
+Smith Valley 2,U.S. Senate,"HURST, THOMAS L.",6
+Smith Valley 2,U.S. Senate,"MARINCH, GARY",2
+Smith Valley 2,U.S. Senate,None Of These Candidates,9
+Smith Valley 2,U.S. Senate,"REID, HARRY",69
+Smith Valley 2,U.S. Senate,"SCHUMANN, DAVID K.",3
+Smith Valley 2,U.S. Senate,"ZISER, RICHARD",202
 South Dayton 1,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",363
 South Dayton 1,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",220
 South Dayton 1,County Commissioner District I (CW),"MILZ, BOB",424
@@ -986,13 +986,13 @@ South Dayton 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",26
 South Dayton 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",328
 South Dayton 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",318
 South Dayton 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",282
-South Dayton 1,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-South Dayton 1,President and Vice President of the United States,"BUSH, GEORGE W.",516
-South Dayton 1,President and Vice President of the United States,"COBB, DAVID",2
-South Dayton 1,President and Vice President of the United States,"KERRY, JOHN F.",258
-South Dayton 1,President and Vice President of the United States,"NADER, RALPH",2
-South Dayton 1,President and Vice President of the United States,None Of These Candidates,6
-South Dayton 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+South Dayton 1,President,"BADNARIK, MICHAEL",6
+South Dayton 1,President,"BUSH, GEORGE W.",516
+South Dayton 1,President,"COBB, DAVID",2
+South Dayton 1,President,"KERRY, JOHN F.",258
+South Dayton 1,President,"NADER, RALPH",2
+South Dayton 1,President,None Of These Candidates,6
+South Dayton 1,President,"PEROUTKA, MICHAEL A.",1
 South Dayton 1,"State Assembly, District 38","GOMEZ, DENNIS C.",19
 South Dayton 1,"State Assembly, District 38","Grady, Tom",458
 South Dayton 1,"State Assembly, District 38","JAMES, CATHYLEE",289
@@ -1009,12 +1009,12 @@ South Dayton 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 South Dayton 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",570
 South Dayton 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",28
 South Dayton 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-South Dayton 1,United States Senator,"HURST, THOMAS L.",5
-South Dayton 1,United States Senator,"MARINCH, GARY",1
-South Dayton 1,United States Senator,None Of These Candidates,13
-South Dayton 1,United States Senator,"REID, HARRY",335
-South Dayton 1,United States Senator,"SCHUMANN, DAVID K.",10
-South Dayton 1,United States Senator,"ZISER, RICHARD",414
+South Dayton 1,U.S. Senate,"HURST, THOMAS L.",5
+South Dayton 1,U.S. Senate,"MARINCH, GARY",1
+South Dayton 1,U.S. Senate,None Of These Candidates,13
+South Dayton 1,U.S. Senate,"REID, HARRY",335
+South Dayton 1,U.S. Senate,"SCHUMANN, DAVID K.",10
+South Dayton 1,U.S. Senate,"ZISER, RICHARD",414
 South Dayton 2,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",422
 South Dayton 2,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",213
 South Dayton 2,County Commissioner District I (CW),"MILZ, BOB",493
@@ -1026,13 +1026,13 @@ South Dayton 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",30
 South Dayton 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",343
 South Dayton 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",348
 South Dayton 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",292
-South Dayton 2,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-South Dayton 2,President and Vice President of the United States,"BUSH, GEORGE W.",549
-South Dayton 2,President and Vice President of the United States,"COBB, DAVID",0
-South Dayton 2,President and Vice President of the United States,"KERRY, JOHN F.",293
-South Dayton 2,President and Vice President of the United States,"NADER, RALPH",7
-South Dayton 2,President and Vice President of the United States,None Of These Candidates,6
-South Dayton 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+South Dayton 2,President,"BADNARIK, MICHAEL",2
+South Dayton 2,President,"BUSH, GEORGE W.",549
+South Dayton 2,President,"COBB, DAVID",0
+South Dayton 2,President,"KERRY, JOHN F.",293
+South Dayton 2,President,"NADER, RALPH",7
+South Dayton 2,President,None Of These Candidates,6
+South Dayton 2,President,"PEROUTKA, MICHAEL A.",3
 South Dayton 2,"State Assembly, District 38","GOMEZ, DENNIS C.",19
 South Dayton 2,"State Assembly, District 38","Grady, Tom",516
 South Dayton 2,"State Assembly, District 38","JAMES, CATHYLEE",308
@@ -1049,12 +1049,12 @@ South Dayton 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 South Dayton 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",610
 South Dayton 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
 South Dayton 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-South Dayton 2,United States Senator,"HURST, THOMAS L.",6
-South Dayton 2,United States Senator,"MARINCH, GARY",1
-South Dayton 2,United States Senator,None Of These Candidates,5
-South Dayton 2,United States Senator,"REID, HARRY",368
-South Dayton 2,United States Senator,"SCHUMANN, DAVID K.",9
-South Dayton 2,United States Senator,"ZISER, RICHARD",465
+South Dayton 2,U.S. Senate,"HURST, THOMAS L.",6
+South Dayton 2,U.S. Senate,"MARINCH, GARY",1
+South Dayton 2,U.S. Senate,None Of These Candidates,5
+South Dayton 2,U.S. Senate,"REID, HARRY",368
+South Dayton 2,U.S. Senate,"SCHUMANN, DAVID K.",9
+South Dayton 2,U.S. Senate,"ZISER, RICHARD",465
 Spragg-Plummer,County Commissioner District I (CW),"MILZ, BOB",412
 Spragg-Plummer,County Commissioner District I (CW),"REID, HOWARD P.",207
 Spragg-Plummer,County Commissioner District III (CW),"DALTON, STEVEN J.",179
@@ -1064,13 +1064,13 @@ Spragg-Plummer,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",27
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",284
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",379
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",203
-Spragg-Plummer,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Spragg-Plummer,President and Vice President of the United States,"BUSH, GEORGE W.",444
-Spragg-Plummer,President and Vice President of the United States,"COBB, DAVID",0
-Spragg-Plummer,President and Vice President of the United States,"KERRY, JOHN F.",177
-Spragg-Plummer,President and Vice President of the United States,"NADER, RALPH",3
-Spragg-Plummer,President and Vice President of the United States,None Of These Candidates,6
-Spragg-Plummer,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Spragg-Plummer,President,"BADNARIK, MICHAEL",4
+Spragg-Plummer,President,"BUSH, GEORGE W.",444
+Spragg-Plummer,President,"COBB, DAVID",0
+Spragg-Plummer,President,"KERRY, JOHN F.",177
+Spragg-Plummer,President,"NADER, RALPH",3
+Spragg-Plummer,President,None Of These Candidates,6
+Spragg-Plummer,President,"PEROUTKA, MICHAEL A.",1
 Spragg-Plummer,"State Assembly, District 38","GOMEZ, DENNIS C.",16
 Spragg-Plummer,"State Assembly, District 38","Grady, Tom",426
 Spragg-Plummer,"State Assembly, District 38","JAMES, CATHYLEE",183
@@ -1090,12 +1090,12 @@ Spragg-Plummer,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G."
 Spragg-Plummer,"U.S. Representative in Congress, District 2","GIBBONS, JIM",473
 Spragg-Plummer,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
 Spragg-Plummer,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-Spragg-Plummer,United States Senator,"HURST, THOMAS L.",9
-Spragg-Plummer,United States Senator,"MARINCH, GARY",1
-Spragg-Plummer,United States Senator,None Of These Candidates,14
-Spragg-Plummer,United States Senator,"REID, HARRY",236
-Spragg-Plummer,United States Senator,"SCHUMANN, DAVID K.",5
-Spragg-Plummer,United States Senator,"ZISER, RICHARD",364
+Spragg-Plummer,U.S. Senate,"HURST, THOMAS L.",9
+Spragg-Plummer,U.S. Senate,"MARINCH, GARY",1
+Spragg-Plummer,U.S. Senate,None Of These Candidates,14
+Spragg-Plummer,U.S. Senate,"REID, HARRY",236
+Spragg-Plummer,U.S. Senate,"SCHUMANN, DAVID K.",5
+Spragg-Plummer,U.S. Senate,"ZISER, RICHARD",364
 Stagecoach 1,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",334
 Stagecoach 1,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",200
 Stagecoach 1,County Commissioner District I (CW),"MILZ, BOB",364
@@ -1107,13 +1107,13 @@ Stagecoach 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",227
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",321
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",276
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",258
-Stagecoach 1,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Stagecoach 1,President and Vice President of the United States,"BUSH, GEORGE W.",414
-Stagecoach 1,President and Vice President of the United States,"COBB, DAVID",1
-Stagecoach 1,President and Vice President of the United States,"KERRY, JOHN F.",213
-Stagecoach 1,President and Vice President of the United States,"NADER, RALPH",7
-Stagecoach 1,President and Vice President of the United States,None Of These Candidates,10
-Stagecoach 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Stagecoach 1,President,"BADNARIK, MICHAEL",2
+Stagecoach 1,President,"BUSH, GEORGE W.",414
+Stagecoach 1,President,"COBB, DAVID",1
+Stagecoach 1,President,"KERRY, JOHN F.",213
+Stagecoach 1,President,"NADER, RALPH",7
+Stagecoach 1,President,None Of These Candidates,10
+Stagecoach 1,President,"PEROUTKA, MICHAEL A.",2
 Stagecoach 1,"State Assembly, District 38","GOMEZ, DENNIS C.",31
 Stagecoach 1,"State Assembly, District 38","Grady, Tom",358
 Stagecoach 1,"State Assembly, District 38","JAMES, CATHYLEE",237
@@ -1130,12 +1130,12 @@ Stagecoach 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Stagecoach 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",422
 Stagecoach 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 Stagecoach 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-Stagecoach 1,United States Senator,"HURST, THOMAS L.",5
-Stagecoach 1,United States Senator,"MARINCH, GARY",4
-Stagecoach 1,United States Senator,None Of These Candidates,12
-Stagecoach 1,United States Senator,"REID, HARRY",293
-Stagecoach 1,United States Senator,"SCHUMANN, DAVID K.",18
-Stagecoach 1,United States Senator,"ZISER, RICHARD",302
+Stagecoach 1,U.S. Senate,"HURST, THOMAS L.",5
+Stagecoach 1,U.S. Senate,"MARINCH, GARY",4
+Stagecoach 1,U.S. Senate,None Of These Candidates,12
+Stagecoach 1,U.S. Senate,"REID, HARRY",293
+Stagecoach 1,U.S. Senate,"SCHUMANN, DAVID K.",18
+Stagecoach 1,U.S. Senate,"ZISER, RICHARD",302
 Stagecoach 2,CENTRAL LYON Fire Protection Director IV,"ZIERENBERG, RICK",123
 Stagecoach 2,CENTRAL LYON Fire Protection Director IV,"ZUELKE, NORMAN E.",67
 Stagecoach 2,County Commissioner District I (CW),"MILZ, BOB",126
@@ -1147,13 +1147,13 @@ Stagecoach 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A.",80
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",111
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",95
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",92
-Stagecoach 2,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Stagecoach 2,President and Vice President of the United States,"BUSH, GEORGE W.",148
-Stagecoach 2,President and Vice President of the United States,"COBB, DAVID",0
-Stagecoach 2,President and Vice President of the United States,"KERRY, JOHN F.",71
-Stagecoach 2,President and Vice President of the United States,"NADER, RALPH",0
-Stagecoach 2,President and Vice President of the United States,None Of These Candidates,0
-Stagecoach 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Stagecoach 2,President,"BADNARIK, MICHAEL",0
+Stagecoach 2,President,"BUSH, GEORGE W.",148
+Stagecoach 2,President,"COBB, DAVID",0
+Stagecoach 2,President,"KERRY, JOHN F.",71
+Stagecoach 2,President,"NADER, RALPH",0
+Stagecoach 2,President,None Of These Candidates,0
+Stagecoach 2,President,"PEROUTKA, MICHAEL A.",2
 Stagecoach 2,"State Assembly, District 38","GOMEZ, DENNIS C.",11
 Stagecoach 2,"State Assembly, District 38","Grady, Tom",122
 Stagecoach 2,"State Assembly, District 38","JAMES, CATHYLEE",82
@@ -1170,12 +1170,12 @@ Stagecoach 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",5
 Stagecoach 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",159
 Stagecoach 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 Stagecoach 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-Stagecoach 2,United States Senator,"HURST, THOMAS L.",0
-Stagecoach 2,United States Senator,"MARINCH, GARY",1
-Stagecoach 2,United States Senator,None Of These Candidates,0
-Stagecoach 2,United States Senator,"REID, HARRY",100
-Stagecoach 2,United States Senator,"SCHUMANN, DAVID K.",4
-Stagecoach 2,United States Senator,"ZISER, RICHARD",112
+Stagecoach 2,U.S. Senate,"HURST, THOMAS L.",0
+Stagecoach 2,U.S. Senate,"MARINCH, GARY",1
+Stagecoach 2,U.S. Senate,None Of These Candidates,0
+Stagecoach 2,U.S. Senate,"REID, HARRY",100
+Stagecoach 2,U.S. Senate,"SCHUMANN, DAVID K.",4
+Stagecoach 2,U.S. Senate,"ZISER, RICHARD",112
 West Mason Valley 1,County Commissioner District I (CW),"MILZ, BOB",401
 West Mason Valley 1,County Commissioner District I (CW),"REID, HOWARD P.",216
 West Mason Valley 1,County Commissioner District III (CW),"DALTON, STEVEN J.",183
@@ -1185,13 +1185,13 @@ West Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",318
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",401
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",179
-West Mason Valley 1,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-West Mason Valley 1,President and Vice President of the United States,"BUSH, GEORGE W.",450
-West Mason Valley 1,President and Vice President of the United States,"COBB, DAVID",0
-West Mason Valley 1,President and Vice President of the United States,"KERRY, JOHN F.",201
-West Mason Valley 1,President and Vice President of the United States,"NADER, RALPH",3
-West Mason Valley 1,President and Vice President of the United States,None Of These Candidates,1
-West Mason Valley 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+West Mason Valley 1,President,"BADNARIK, MICHAEL",2
+West Mason Valley 1,President,"BUSH, GEORGE W.",450
+West Mason Valley 1,President,"COBB, DAVID",0
+West Mason Valley 1,President,"KERRY, JOHN F.",201
+West Mason Valley 1,President,"NADER, RALPH",3
+West Mason Valley 1,President,None Of These Candidates,1
+West Mason Valley 1,President,"PEROUTKA, MICHAEL A.",0
 West Mason Valley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",19
 West Mason Valley 1,"State Assembly, District 38","Grady, Tom",419
 West Mason Valley 1,"State Assembly, District 38","JAMES, CATHYLEE",195
@@ -1208,12 +1208,12 @@ West Mason Valley 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGI
 West Mason Valley 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",468
 West Mason Valley 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",25
 West Mason Valley 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-West Mason Valley 1,United States Senator,"HURST, THOMAS L.",3
-West Mason Valley 1,United States Senator,"MARINCH, GARY",5
-West Mason Valley 1,United States Senator,None Of These Candidates,9
-West Mason Valley 1,United States Senator,"REID, HARRY",269
-West Mason Valley 1,United States Senator,"SCHUMANN, DAVID K.",4
-West Mason Valley 1,United States Senator,"ZISER, RICHARD",349
+West Mason Valley 1,U.S. Senate,"HURST, THOMAS L.",3
+West Mason Valley 1,U.S. Senate,"MARINCH, GARY",5
+West Mason Valley 1,U.S. Senate,None Of These Candidates,9
+West Mason Valley 1,U.S. Senate,"REID, HARRY",269
+West Mason Valley 1,U.S. Senate,"SCHUMANN, DAVID K.",4
+West Mason Valley 1,U.S. Senate,"ZISER, RICHARD",349
 West Mason Valley 2,County Commissioner District I (CW),"MILZ, BOB",272
 West Mason Valley 2,County Commissioner District I (CW),"REID, HOWARD P.",185
 West Mason Valley 2,County Commissioner District III (CW),"DALTON, STEVEN J.",143
@@ -1223,13 +1223,13 @@ West Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",224
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",300
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",134
-West Mason Valley 2,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-West Mason Valley 2,President and Vice President of the United States,"BUSH, GEORGE W.",295
-West Mason Valley 2,President and Vice President of the United States,"COBB, DAVID",0
-West Mason Valley 2,President and Vice President of the United States,"KERRY, JOHN F.",174
-West Mason Valley 2,President and Vice President of the United States,"NADER, RALPH",3
-West Mason Valley 2,President and Vice President of the United States,None Of These Candidates,5
-West Mason Valley 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+West Mason Valley 2,President,"BADNARIK, MICHAEL",1
+West Mason Valley 2,President,"BUSH, GEORGE W.",295
+West Mason Valley 2,President,"COBB, DAVID",0
+West Mason Valley 2,President,"KERRY, JOHN F.",174
+West Mason Valley 2,President,"NADER, RALPH",3
+West Mason Valley 2,President,None Of These Candidates,5
+West Mason Valley 2,President,"PEROUTKA, MICHAEL A.",2
 West Mason Valley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",17
 West Mason Valley 2,"State Assembly, District 38","Grady, Tom",276
 West Mason Valley 2,"State Assembly, District 38","JAMES, CATHYLEE",174
@@ -1246,12 +1246,12 @@ West Mason Valley 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGI
 West Mason Valley 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",331
 West Mason Valley 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",24
 West Mason Valley 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-West Mason Valley 2,United States Senator,"HURST, THOMAS L.",1
-West Mason Valley 2,United States Senator,"MARINCH, GARY",1
-West Mason Valley 2,United States Senator,None Of These Candidates,13
-West Mason Valley 2,United States Senator,"REID, HARRY",225
-West Mason Valley 2,United States Senator,"SCHUMANN, DAVID K.",5
-West Mason Valley 2,United States Senator,"ZISER, RICHARD",230
+West Mason Valley 2,U.S. Senate,"HURST, THOMAS L.",1
+West Mason Valley 2,U.S. Senate,"MARINCH, GARY",1
+West Mason Valley 2,U.S. Senate,None Of These Candidates,13
+West Mason Valley 2,U.S. Senate,"REID, HARRY",225
+West Mason Valley 2,U.S. Senate,"SCHUMANN, DAVID K.",5
+West Mason Valley 2,U.S. Senate,"ZISER, RICHARD",230
 West Mason Valley 3,County Commissioner District I (CW),"MILZ, BOB",265
 West Mason Valley 3,County Commissioner District I (CW),"REID, HOWARD P.",169
 West Mason Valley 3,County Commissioner District III (CW),"DALTON, STEVEN J.",122
@@ -1261,13 +1261,13 @@ West Mason Valley 3,LYON COUNTY School Dist Trustee Dist V,"THOMPSON, CLIFFORD A
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",189
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist VII,"COLLETTA, RUSSELL L.",232
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist VII,"POMMERENING, DAN",165
-West Mason Valley 3,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-West Mason Valley 3,President and Vice President of the United States,"BUSH, GEORGE W.",279
-West Mason Valley 3,President and Vice President of the United States,"COBB, DAVID",0
-West Mason Valley 3,President and Vice President of the United States,"KERRY, JOHN F.",165
-West Mason Valley 3,President and Vice President of the United States,"NADER, RALPH",2
-West Mason Valley 3,President and Vice President of the United States,None Of These Candidates,4
-West Mason Valley 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+West Mason Valley 3,President,"BADNARIK, MICHAEL",2
+West Mason Valley 3,President,"BUSH, GEORGE W.",279
+West Mason Valley 3,President,"COBB, DAVID",0
+West Mason Valley 3,President,"KERRY, JOHN F.",165
+West Mason Valley 3,President,"NADER, RALPH",2
+West Mason Valley 3,President,None Of These Candidates,4
+West Mason Valley 3,President,"PEROUTKA, MICHAEL A.",1
 West Mason Valley 3,"State Assembly, District 38","GOMEZ, DENNIS C.",9
 West Mason Valley 3,"State Assembly, District 38","Grady, Tom",269
 West Mason Valley 3,"State Assembly, District 38","JAMES, CATHYLEE",163
@@ -1284,9 +1284,9 @@ West Mason Valley 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGI
 West Mason Valley 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",299
 West Mason Valley 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
 West Mason Valley 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-West Mason Valley 3,United States Senator,"HURST, THOMAS L.",1
-West Mason Valley 3,United States Senator,"MARINCH, GARY",2
-West Mason Valley 3,United States Senator,None Of These Candidates,7
-West Mason Valley 3,United States Senator,"REID, HARRY",218
-West Mason Valley 3,United States Senator,"SCHUMANN, DAVID K.",2
-West Mason Valley 3,United States Senator,"ZISER, RICHARD",222
+West Mason Valley 3,U.S. Senate,"HURST, THOMAS L.",1
+West Mason Valley 3,U.S. Senate,"MARINCH, GARY",2
+West Mason Valley 3,U.S. Senate,None Of These Candidates,7
+West Mason Valley 3,U.S. Senate,"REID, HARRY",218
+West Mason Valley 3,U.S. Senate,"SCHUMANN, DAVID K.",2
+West Mason Valley 3,U.S. Senate,"ZISER, RICHARD",222

@@ -51,11 +51,11 @@ AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","DERBY, JILL",129
 AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","HELLER, DEAN",132
 AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-AMARGOSA VLY 06,United States Senator,"CARTER, JACK",106
-AMARGOSA VLY 06,United States Senator,"ENSIGN, JOHN",159
-AMARGOSA VLY 06,United States Senator,None Of These Candidates,10
-AMARGOSA VLY 06,United States Senator,"SCHUMANN, DAVID K.",13
-AMARGOSA VLY 06,United States Senator,"TRAINOR, BRENDAN",2
+AMARGOSA VLY 06,U.S. Senate,"CARTER, JACK",106
+AMARGOSA VLY 06,U.S. Senate,"ENSIGN, JOHN",159
+AMARGOSA VLY 06,U.S. Senate,None Of These Candidates,10
+AMARGOSA VLY 06,U.S. Senate,"SCHUMANN, DAVID K.",13
+AMARGOSA VLY 06,U.S. Senate,"TRAINOR, BRENDAN",2
 BEATTY 01,Attorney General,"CHAIREZ, DON",144
 BEATTY 01,Attorney General,"CORTEZ  MASTO, CATHERINE",142
 BEATTY 01,Attorney General,None Of These Candidates,32
@@ -108,11 +108,11 @@ BEATTY 01,"U.S. Representative in Congress, District 2","DERBY, JILL",120
 BEATTY 01,"U.S. Representative in Congress, District 2","HELLER, DEAN",161
 BEATTY 01,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",14
 BEATTY 01,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",16
-BEATTY 01,United States Senator,"CARTER, JACK",89
-BEATTY 01,United States Senator,"ENSIGN, JOHN",200
-BEATTY 01,United States Senator,None Of These Candidates,13
-BEATTY 01,United States Senator,"SCHUMANN, DAVID K.",14
-BEATTY 01,United States Senator,"TRAINOR, BRENDAN",5
+BEATTY 01,U.S. Senate,"CARTER, JACK",89
+BEATTY 01,U.S. Senate,"ENSIGN, JOHN",200
+BEATTY 01,U.S. Senate,None Of These Candidates,13
+BEATTY 01,U.S. Senate,"SCHUMANN, DAVID K.",14
+BEATTY 01,U.S. Senate,"TRAINOR, BRENDAN",5
 CURRANT 02,Attorney General,"CHAIREZ, DON",23
 CURRANT 02,Attorney General,"CORTEZ  MASTO, CATHERINE",12
 CURRANT 02,Attorney General,None Of These Candidates,5
@@ -165,11 +165,11 @@ CURRANT 02,"U.S. Representative in Congress, District 2","DERBY, JILL",12
 CURRANT 02,"U.S. Representative in Congress, District 2","HELLER, DEAN",22
 CURRANT 02,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
 CURRANT 02,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-CURRANT 02,United States Senator,"CARTER, JACK",8
-CURRANT 02,United States Senator,"ENSIGN, JOHN",29
-CURRANT 02,United States Senator,None Of These Candidates,1
-CURRANT 02,United States Senator,"SCHUMANN, DAVID K.",3
-CURRANT 02,United States Senator,"TRAINOR, BRENDAN",0
+CURRANT 02,U.S. Senate,"CARTER, JACK",8
+CURRANT 02,U.S. Senate,"ENSIGN, JOHN",29
+CURRANT 02,U.S. Senate,None Of These Candidates,1
+CURRANT 02,U.S. Senate,"SCHUMANN, DAVID K.",3
+CURRANT 02,U.S. Senate,"TRAINOR, BRENDAN",0
 DUCKWATER 03,Attorney General,"CHAIREZ, DON",6
 DUCKWATER 03,Attorney General,"CORTEZ  MASTO, CATHERINE",23
 DUCKWATER 03,Attorney General,None Of These Candidates,2
@@ -222,11 +222,11 @@ DUCKWATER 03,"U.S. Representative in Congress, District 2","DERBY, JILL",21
 DUCKWATER 03,"U.S. Representative in Congress, District 2","HELLER, DEAN",7
 DUCKWATER 03,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 DUCKWATER 03,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-DUCKWATER 03,United States Senator,"CARTER, JACK",22
-DUCKWATER 03,United States Senator,"ENSIGN, JOHN",8
-DUCKWATER 03,United States Senator,None Of These Candidates,1
-DUCKWATER 03,United States Senator,"SCHUMANN, DAVID K.",0
-DUCKWATER 03,United States Senator,"TRAINOR, BRENDAN",0
+DUCKWATER 03,U.S. Senate,"CARTER, JACK",22
+DUCKWATER 03,U.S. Senate,"ENSIGN, JOHN",8
+DUCKWATER 03,U.S. Senate,None Of These Candidates,1
+DUCKWATER 03,U.S. Senate,"SCHUMANN, DAVID K.",0
+DUCKWATER 03,U.S. Senate,"TRAINOR, BRENDAN",0
 FORTY BAR 18,Attorney General,"CHAIREZ, DON",18
 FORTY BAR 18,Attorney General,"CORTEZ  MASTO, CATHERINE",16
 FORTY BAR 18,Attorney General,None Of These Candidates,7
@@ -279,11 +279,11 @@ FORTY BAR 18,"U.S. Representative in Congress, District 2","DERBY, JILL",12
 FORTY BAR 18,"U.S. Representative in Congress, District 2","HELLER, DEAN",19
 FORTY BAR 18,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 FORTY BAR 18,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-FORTY BAR 18,United States Senator,"CARTER, JACK",17
-FORTY BAR 18,United States Senator,"ENSIGN, JOHN",22
-FORTY BAR 18,United States Senator,None Of These Candidates,0
-FORTY BAR 18,United States Senator,"SCHUMANN, DAVID K.",0
-FORTY BAR 18,United States Senator,"TRAINOR, BRENDAN",2
+FORTY BAR 18,U.S. Senate,"CARTER, JACK",17
+FORTY BAR 18,U.S. Senate,"ENSIGN, JOHN",22
+FORTY BAR 18,U.S. Senate,None Of These Candidates,0
+FORTY BAR 18,U.S. Senate,"SCHUMANN, DAVID K.",0
+FORTY BAR 18,U.S. Senate,"TRAINOR, BRENDAN",2
 GABBS 04,Attorney General,"CHAIREZ, DON",38
 GABBS 04,Attorney General,"CORTEZ  MASTO, CATHERINE",58
 GABBS 04,Attorney General,None Of These Candidates,13
@@ -336,11 +336,11 @@ GABBS 04,"U.S. Representative in Congress, District 2","DERBY, JILL",46
 GABBS 04,"U.S. Representative in Congress, District 2","HELLER, DEAN",61
 GABBS 04,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 GABBS 04,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
-GABBS 04,United States Senator,"CARTER, JACK",46
-GABBS 04,United States Senator,"ENSIGN, JOHN",59
-GABBS 04,United States Senator,None Of These Candidates,2
-GABBS 04,United States Senator,"SCHUMANN, DAVID K.",2
-GABBS 04,United States Senator,"TRAINOR, BRENDAN",1
+GABBS 04,U.S. Senate,"CARTER, JACK",46
+GABBS 04,U.S. Senate,"ENSIGN, JOHN",59
+GABBS 04,U.S. Senate,None Of These Candidates,2
+GABBS 04,U.S. Senate,"SCHUMANN, DAVID K.",2
+GABBS 04,U.S. Senate,"TRAINOR, BRENDAN",1
 IONE 05,Attorney General,"CHAIREZ, DON",8
 IONE 05,Attorney General,"CORTEZ  MASTO, CATHERINE",5
 IONE 05,Attorney General,None Of These Candidates,2
@@ -393,11 +393,11 @@ IONE 05,"U.S. Representative in Congress, District 2","DERBY, JILL",2
 IONE 05,"U.S. Representative in Congress, District 2","HELLER, DEAN",12
 IONE 05,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 IONE 05,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-IONE 05,United States Senator,"CARTER, JACK",2
-IONE 05,United States Senator,"ENSIGN, JOHN",11
-IONE 05,United States Senator,None Of These Candidates,2
-IONE 05,United States Senator,"SCHUMANN, DAVID K.",0
-IONE 05,United States Senator,"TRAINOR, BRENDAN",0
+IONE 05,U.S. Senate,"CARTER, JACK",2
+IONE 05,U.S. Senate,"ENSIGN, JOHN",11
+IONE 05,U.S. Senate,None Of These Candidates,2
+IONE 05,U.S. Senate,"SCHUMANN, DAVID K.",0
+IONE 05,U.S. Senate,"TRAINOR, BRENDAN",0
 MANHATTAN 07,Attorney General,"CHAIREZ, DON",20
 MANHATTAN 07,Attorney General,"CORTEZ  MASTO, CATHERINE",14
 MANHATTAN 07,Attorney General,None Of These Candidates,7
@@ -450,11 +450,11 @@ MANHATTAN 07,"U.S. Representative in Congress, District 2","DERBY, JILL",13
 MANHATTAN 07,"U.S. Representative in Congress, District 2","HELLER, DEAN",27
 MANHATTAN 07,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 MANHATTAN 07,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-MANHATTAN 07,United States Senator,"CARTER, JACK",10
-MANHATTAN 07,United States Senator,"ENSIGN, JOHN",29
-MANHATTAN 07,United States Senator,None Of These Candidates,1
-MANHATTAN 07,United States Senator,"SCHUMANN, DAVID K.",1
-MANHATTAN 07,United States Senator,"TRAINOR, BRENDAN",0
+MANHATTAN 07,U.S. Senate,"CARTER, JACK",10
+MANHATTAN 07,U.S. Senate,"ENSIGN, JOHN",29
+MANHATTAN 07,U.S. Senate,None Of These Candidates,1
+MANHATTAN 07,U.S. Senate,"SCHUMANN, DAVID K.",1
+MANHATTAN 07,U.S. Senate,"TRAINOR, BRENDAN",0
 MERCURY 08,Attorney General,"CHAIREZ, DON",
 MERCURY 08,Attorney General,"CORTEZ  MASTO, CATHERINE",
 MERCURY 08,Attorney General,None Of These Candidates,
@@ -522,11 +522,11 @@ PAHRUMP 09,"U.S. Representative in Congress, District 2","DERBY, JILL",256
 PAHRUMP 09,"U.S. Representative in Congress, District 2","HELLER, DEAN",354
 PAHRUMP 09,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",38
 PAHRUMP 09,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",29
-PAHRUMP 09,United States Senator,"CARTER, JACK",227
-PAHRUMP 09,United States Senator,"ENSIGN, JOHN",417
-PAHRUMP 09,United States Senator,None Of These Candidates,17
-PAHRUMP 09,United States Senator,"SCHUMANN, DAVID K.",26
-PAHRUMP 09,United States Senator,"TRAINOR, BRENDAN",10
+PAHRUMP 09,U.S. Senate,"CARTER, JACK",227
+PAHRUMP 09,U.S. Senate,"ENSIGN, JOHN",417
+PAHRUMP 09,U.S. Senate,None Of These Candidates,17
+PAHRUMP 09,U.S. Senate,"SCHUMANN, DAVID K.",26
+PAHRUMP 09,U.S. Senate,"TRAINOR, BRENDAN",10
 PAHRUMP 10,Attorney General,"CHAIREZ, DON",345
 PAHRUMP 10,Attorney General,"CORTEZ  MASTO, CATHERINE",392
 PAHRUMP 10,Attorney General,None Of These Candidates,71
@@ -587,11 +587,11 @@ PAHRUMP 10,"U.S. Representative in Congress, District 2","DERBY, JILL",334
 PAHRUMP 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",383
 PAHRUMP 10,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",40
 PAHRUMP 10,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",33
-PAHRUMP 10,United States Senator,"CARTER, JACK",336
-PAHRUMP 10,United States Senator,"ENSIGN, JOHN",425
-PAHRUMP 10,United States Senator,None Of These Candidates,12
-PAHRUMP 10,United States Senator,"SCHUMANN, DAVID K.",32
-PAHRUMP 10,United States Senator,"TRAINOR, BRENDAN",6
+PAHRUMP 10,U.S. Senate,"CARTER, JACK",336
+PAHRUMP 10,U.S. Senate,"ENSIGN, JOHN",425
+PAHRUMP 10,U.S. Senate,None Of These Candidates,12
+PAHRUMP 10,U.S. Senate,"SCHUMANN, DAVID K.",32
+PAHRUMP 10,U.S. Senate,"TRAINOR, BRENDAN",6
 PAHRUMP 11,Attorney General,"CHAIREZ, DON",189
 PAHRUMP 11,Attorney General,"CORTEZ  MASTO, CATHERINE",201
 PAHRUMP 11,Attorney General,None Of These Candidates,40
@@ -654,11 +654,11 @@ PAHRUMP 11,"U.S. Representative in Congress, District 2","DERBY, JILL",168
 PAHRUMP 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",219
 PAHRUMP 11,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",17
 PAHRUMP 11,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",14
-PAHRUMP 11,United States Senator,"CARTER, JACK",163
-PAHRUMP 11,United States Senator,"ENSIGN, JOHN",239
-PAHRUMP 11,United States Senator,None Of These Candidates,8
-PAHRUMP 11,United States Senator,"SCHUMANN, DAVID K.",17
-PAHRUMP 11,United States Senator,"TRAINOR, BRENDAN",1
+PAHRUMP 11,U.S. Senate,"CARTER, JACK",163
+PAHRUMP 11,U.S. Senate,"ENSIGN, JOHN",239
+PAHRUMP 11,U.S. Senate,None Of These Candidates,8
+PAHRUMP 11,U.S. Senate,"SCHUMANN, DAVID K.",17
+PAHRUMP 11,U.S. Senate,"TRAINOR, BRENDAN",1
 PAHRUMP 19,Attorney General,"CHAIREZ, DON",296
 PAHRUMP 19,Attorney General,"CORTEZ  MASTO, CATHERINE",307
 PAHRUMP 19,Attorney General,None Of These Candidates,34
@@ -717,11 +717,11 @@ PAHRUMP 19,"U.S. Representative in Congress, District 2","DERBY, JILL",247
 PAHRUMP 19,"U.S. Representative in Congress, District 2","HELLER, DEAN",340
 PAHRUMP 19,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",21
 PAHRUMP 19,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",22
-PAHRUMP 19,United States Senator,"CARTER, JACK",206
-PAHRUMP 19,United States Senator,"ENSIGN, JOHN",409
-PAHRUMP 19,United States Senator,None Of These Candidates,4
-PAHRUMP 19,United States Senator,"SCHUMANN, DAVID K.",20
-PAHRUMP 19,United States Senator,"TRAINOR, BRENDAN",5
+PAHRUMP 19,U.S. Senate,"CARTER, JACK",206
+PAHRUMP 19,U.S. Senate,"ENSIGN, JOHN",409
+PAHRUMP 19,U.S. Senate,None Of These Candidates,4
+PAHRUMP 19,U.S. Senate,"SCHUMANN, DAVID K.",20
+PAHRUMP 19,U.S. Senate,"TRAINOR, BRENDAN",5
 PAHRUMP 20,Attorney General,"CHAIREZ, DON",128
 PAHRUMP 20,Attorney General,"CORTEZ  MASTO, CATHERINE",139
 PAHRUMP 20,Attorney General,None Of These Candidates,38
@@ -796,11 +796,11 @@ PAHRUMP 21,"U.S. Representative in Congress, District 2","DERBY, JILL",305
 PAHRUMP 21,"U.S. Representative in Congress, District 2","HELLER, DEAN",277
 PAHRUMP 21,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",30
 PAHRUMP 21,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",26
-PAHRUMP 21,United States Senator,"CARTER, JACK",270
-PAHRUMP 21,United States Senator,"ENSIGN, JOHN",347
-PAHRUMP 21,United States Senator,None Of These Candidates,3
-PAHRUMP 21,United States Senator,"SCHUMANN, DAVID K.",23
-PAHRUMP 21,United States Senator,"TRAINOR, BRENDAN",4
+PAHRUMP 21,U.S. Senate,"CARTER, JACK",270
+PAHRUMP 21,U.S. Senate,"ENSIGN, JOHN",347
+PAHRUMP 21,U.S. Senate,None Of These Candidates,3
+PAHRUMP 21,U.S. Senate,"SCHUMANN, DAVID K.",23
+PAHRUMP 21,U.S. Senate,"TRAINOR, BRENDAN",4
 PAHRUMP 22,Attorney General,"CHAIREZ, DON",330
 PAHRUMP 22,Attorney General,"CORTEZ  MASTO, CATHERINE",389
 PAHRUMP 22,Attorney General,None Of These Candidates,63
@@ -862,11 +862,11 @@ PAHRUMP 22,"U.S. Representative in Congress, District 2","DERBY, JILL",339
 PAHRUMP 22,"U.S. Representative in Congress, District 2","HELLER, DEAN",374
 PAHRUMP 22,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",39
 PAHRUMP 22,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",25
-PAHRUMP 22,United States Senator,"CARTER, JACK",331
-PAHRUMP 22,United States Senator,"ENSIGN, JOHN",421
-PAHRUMP 22,United States Senator,None Of These Candidates,7
-PAHRUMP 22,United States Senator,"SCHUMANN, DAVID K.",25
-PAHRUMP 22,United States Senator,"TRAINOR, BRENDAN",4
+PAHRUMP 22,U.S. Senate,"CARTER, JACK",331
+PAHRUMP 22,U.S. Senate,"ENSIGN, JOHN",421
+PAHRUMP 22,U.S. Senate,None Of These Candidates,7
+PAHRUMP 22,U.S. Senate,"SCHUMANN, DAVID K.",25
+PAHRUMP 22,U.S. Senate,"TRAINOR, BRENDAN",4
 PAHRUMP 23,Attorney General,"CHAIREZ, DON",130
 PAHRUMP 23,Attorney General,"CORTEZ  MASTO, CATHERINE",155
 PAHRUMP 23,Attorney General,None Of These Candidates,31
@@ -925,11 +925,11 @@ PAHRUMP 23,"U.S. Representative in Congress, District 2","DERBY, JILL",119
 PAHRUMP 23,"U.S. Representative in Congress, District 2","HELLER, DEAN",163
 PAHRUMP 23,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",16
 PAHRUMP 23,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",12
-PAHRUMP 23,United States Senator,"CARTER, JACK",112
-PAHRUMP 23,United States Senator,"ENSIGN, JOHN",182
-PAHRUMP 23,United States Senator,None Of These Candidates,2
-PAHRUMP 23,United States Senator,"SCHUMANN, DAVID K.",14
-PAHRUMP 23,United States Senator,"TRAINOR, BRENDAN",6
+PAHRUMP 23,U.S. Senate,"CARTER, JACK",112
+PAHRUMP 23,U.S. Senate,"ENSIGN, JOHN",182
+PAHRUMP 23,U.S. Senate,None Of These Candidates,2
+PAHRUMP 23,U.S. Senate,"SCHUMANN, DAVID K.",14
+PAHRUMP 23,U.S. Senate,"TRAINOR, BRENDAN",6
 PAHRUMP 24,Attorney General,"CHAIREZ, DON",185
 PAHRUMP 24,Attorney General,"CORTEZ  MASTO, CATHERINE",226
 PAHRUMP 24,Attorney General,None Of These Candidates,44
@@ -991,11 +991,11 @@ PAHRUMP 24,"U.S. Representative in Congress, District 2","DERBY, JILL",181
 PAHRUMP 24,"U.S. Representative in Congress, District 2","HELLER, DEAN",208
 PAHRUMP 24,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",36
 PAHRUMP 24,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",19
-PAHRUMP 24,United States Senator,"CARTER, JACK",171
-PAHRUMP 24,United States Senator,"ENSIGN, JOHN",252
-PAHRUMP 24,United States Senator,None Of These Candidates,8
-PAHRUMP 24,United States Senator,"SCHUMANN, DAVID K.",24
-PAHRUMP 24,United States Senator,"TRAINOR, BRENDAN",7
+PAHRUMP 24,U.S. Senate,"CARTER, JACK",171
+PAHRUMP 24,U.S. Senate,"ENSIGN, JOHN",252
+PAHRUMP 24,U.S. Senate,None Of These Candidates,8
+PAHRUMP 24,U.S. Senate,"SCHUMANN, DAVID K.",24
+PAHRUMP 24,U.S. Senate,"TRAINOR, BRENDAN",7
 PAHRUMP 25,Attorney General,"CHAIREZ, DON",220
 PAHRUMP 25,Attorney General,"CORTEZ  MASTO, CATHERINE",246
 PAHRUMP 25,Attorney General,None Of These Candidates,40
@@ -1054,11 +1054,11 @@ PAHRUMP 25,"U.S. Representative in Congress, District 2","DERBY, JILL",207
 PAHRUMP 25,"U.S. Representative in Congress, District 2","HELLER, DEAN",250
 PAHRUMP 25,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",21
 PAHRUMP 25,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",24
-PAHRUMP 25,United States Senator,"CARTER, JACK",208
-PAHRUMP 25,United States Senator,"ENSIGN, JOHN",289
-PAHRUMP 25,United States Senator,None Of These Candidates,6
-PAHRUMP 25,United States Senator,"SCHUMANN, DAVID K.",6
-PAHRUMP 25,United States Senator,"TRAINOR, BRENDAN",5
+PAHRUMP 25,U.S. Senate,"CARTER, JACK",208
+PAHRUMP 25,U.S. Senate,"ENSIGN, JOHN",289
+PAHRUMP 25,U.S. Senate,None Of These Candidates,6
+PAHRUMP 25,U.S. Senate,"SCHUMANN, DAVID K.",6
+PAHRUMP 25,U.S. Senate,"TRAINOR, BRENDAN",5
 PAHRUMP 26,Attorney General,"CHAIREZ, DON",212
 PAHRUMP 26,Attorney General,"CORTEZ  MASTO, CATHERINE",242
 PAHRUMP 26,Attorney General,None Of These Candidates,40
@@ -1119,11 +1119,11 @@ PAHRUMP 26,"U.S. Representative in Congress, District 2","DERBY, JILL",210
 PAHRUMP 26,"U.S. Representative in Congress, District 2","HELLER, DEAN",227
 PAHRUMP 26,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",24
 PAHRUMP 26,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",21
-PAHRUMP 26,United States Senator,"CARTER, JACK",191
-PAHRUMP 26,United States Senator,"ENSIGN, JOHN",276
-PAHRUMP 26,United States Senator,None Of These Candidates,7
-PAHRUMP 26,United States Senator,"SCHUMANN, DAVID K.",19
-PAHRUMP 26,United States Senator,"TRAINOR, BRENDAN",3
+PAHRUMP 26,U.S. Senate,"CARTER, JACK",191
+PAHRUMP 26,U.S. Senate,"ENSIGN, JOHN",276
+PAHRUMP 26,U.S. Senate,None Of These Candidates,7
+PAHRUMP 26,U.S. Senate,"SCHUMANN, DAVID K.",19
+PAHRUMP 26,U.S. Senate,"TRAINOR, BRENDAN",3
 PAHRUMP 27,Attorney General,"CHAIREZ, DON",237
 PAHRUMP 27,Attorney General,"CORTEZ  MASTO, CATHERINE",260
 PAHRUMP 27,Attorney General,None Of These Candidates,42
@@ -1184,11 +1184,11 @@ PAHRUMP 27,"U.S. Representative in Congress, District 2","DERBY, JILL",226
 PAHRUMP 27,"U.S. Representative in Congress, District 2","HELLER, DEAN",264
 PAHRUMP 27,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",24
 PAHRUMP 27,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-PAHRUMP 27,United States Senator,"CARTER, JACK",206
-PAHRUMP 27,United States Senator,"ENSIGN, JOHN",308
-PAHRUMP 27,United States Senator,None Of These Candidates,8
-PAHRUMP 27,United States Senator,"SCHUMANN, DAVID K.",19
-PAHRUMP 27,United States Senator,"TRAINOR, BRENDAN",1
+PAHRUMP 27,U.S. Senate,"CARTER, JACK",206
+PAHRUMP 27,U.S. Senate,"ENSIGN, JOHN",308
+PAHRUMP 27,U.S. Senate,None Of These Candidates,8
+PAHRUMP 27,U.S. Senate,"SCHUMANN, DAVID K.",19
+PAHRUMP 27,U.S. Senate,"TRAINOR, BRENDAN",1
 PAHRUMP 28,Attorney General,"CHAIREZ, DON",305
 PAHRUMP 28,Attorney General,"CORTEZ  MASTO, CATHERINE",325
 PAHRUMP 28,Attorney General,None Of These Candidates,79
@@ -1251,11 +1251,11 @@ PAHRUMP 28,"U.S. Representative in Congress, District 2","DERBY, JILL",257
 PAHRUMP 28,"U.S. Representative in Congress, District 2","HELLER, DEAN",387
 PAHRUMP 28,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",27
 PAHRUMP 28,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",23
-PAHRUMP 28,United States Senator,"CARTER, JACK",241
-PAHRUMP 28,United States Senator,"ENSIGN, JOHN",439
-PAHRUMP 28,United States Senator,None Of These Candidates,12
-PAHRUMP 28,United States Senator,"SCHUMANN, DAVID K.",17
-PAHRUMP 28,United States Senator,"TRAINOR, BRENDAN",8
+PAHRUMP 28,U.S. Senate,"CARTER, JACK",241
+PAHRUMP 28,U.S. Senate,"ENSIGN, JOHN",439
+PAHRUMP 28,U.S. Senate,None Of These Candidates,12
+PAHRUMP 28,U.S. Senate,"SCHUMANN, DAVID K.",17
+PAHRUMP 28,U.S. Senate,"TRAINOR, BRENDAN",8
 PAHRUMP 29,Attorney General,"CHAIREZ, DON",272
 PAHRUMP 29,Attorney General,"CORTEZ  MASTO, CATHERINE",305
 PAHRUMP 29,Attorney General,None Of These Candidates,47
@@ -1316,11 +1316,11 @@ PAHRUMP 29,"U.S. Representative in Congress, District 2","DERBY, JILL",258
 PAHRUMP 29,"U.S. Representative in Congress, District 2","HELLER, DEAN",316
 PAHRUMP 29,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",19
 PAHRUMP 29,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",21
-PAHRUMP 29,United States Senator,"CARTER, JACK",243
-PAHRUMP 29,United States Senator,"ENSIGN, JOHN",353
-PAHRUMP 29,United States Senator,None Of These Candidates,11
-PAHRUMP 29,United States Senator,"SCHUMANN, DAVID K.",15
-PAHRUMP 29,United States Senator,"TRAINOR, BRENDAN",8
+PAHRUMP 29,U.S. Senate,"CARTER, JACK",243
+PAHRUMP 29,U.S. Senate,"ENSIGN, JOHN",353
+PAHRUMP 29,U.S. Senate,None Of These Candidates,11
+PAHRUMP 29,U.S. Senate,"SCHUMANN, DAVID K.",15
+PAHRUMP 29,U.S. Senate,"TRAINOR, BRENDAN",8
 PAHRUMP 30,Attorney General,"CHAIREZ, DON",252
 PAHRUMP 30,Attorney General,"CORTEZ  MASTO, CATHERINE",286
 PAHRUMP 30,Attorney General,None Of These Candidates,53
@@ -1384,11 +1384,11 @@ PAHRUMP 30,"U.S. Representative in Congress, District 2","DERBY, JILL",248
 PAHRUMP 30,"U.S. Representative in Congress, District 2","HELLER, DEAN",281
 PAHRUMP 30,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",38
 PAHRUMP 30,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-PAHRUMP 30,United States Senator,"CARTER, JACK",225
-PAHRUMP 30,United States Senator,"ENSIGN, JOHN",344
-PAHRUMP 30,United States Senator,None Of These Candidates,6
-PAHRUMP 30,United States Senator,"SCHUMANN, DAVID K.",19
-PAHRUMP 30,United States Senator,"TRAINOR, BRENDAN",2
+PAHRUMP 30,U.S. Senate,"CARTER, JACK",225
+PAHRUMP 30,U.S. Senate,"ENSIGN, JOHN",344
+PAHRUMP 30,U.S. Senate,None Of These Candidates,6
+PAHRUMP 30,U.S. Senate,"SCHUMANN, DAVID K.",19
+PAHRUMP 30,U.S. Senate,"TRAINOR, BRENDAN",2
 PAHRUMP 31,Attorney General,"CHAIREZ, DON",235
 PAHRUMP 31,Attorney General,"CORTEZ  MASTO, CATHERINE",236
 PAHRUMP 31,Attorney General,None Of These Candidates,41
@@ -1450,11 +1450,11 @@ PAHRUMP 31,"U.S. Representative in Congress, District 2","DERBY, JILL",190
 PAHRUMP 31,"U.S. Representative in Congress, District 2","HELLER, DEAN",273
 PAHRUMP 31,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",24
 PAHRUMP 31,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",16
-PAHRUMP 31,United States Senator,"CARTER, JACK",175
-PAHRUMP 31,United States Senator,"ENSIGN, JOHN",309
-PAHRUMP 31,United States Senator,None Of These Candidates,3
-PAHRUMP 31,United States Senator,"SCHUMANN, DAVID K.",21
-PAHRUMP 31,United States Senator,"TRAINOR, BRENDAN",5
+PAHRUMP 31,U.S. Senate,"CARTER, JACK",175
+PAHRUMP 31,U.S. Senate,"ENSIGN, JOHN",309
+PAHRUMP 31,U.S. Senate,None Of These Candidates,3
+PAHRUMP 31,U.S. Senate,"SCHUMANN, DAVID K.",21
+PAHRUMP 31,U.S. Senate,"TRAINOR, BRENDAN",5
 PAHRUMP 32,Attorney General,"CHAIREZ, DON",271
 PAHRUMP 32,Attorney General,"CORTEZ  MASTO, CATHERINE",369
 PAHRUMP 32,Attorney General,None Of These Candidates,56
@@ -1513,20 +1513,20 @@ PAHRUMP 32,"U.S. Representative in Congress, District 2","DERBY, JILL",303
 PAHRUMP 32,"U.S. Representative in Congress, District 2","HELLER, DEAN",321
 PAHRUMP 32,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",29
 PAHRUMP 32,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",28
-PAHRUMP 32,United States Senator,"CARTER, JACK",276
-PAHRUMP 32,United States Senator,"ENSIGN, JOHN",397
-PAHRUMP 32,United States Senator,None Of These Candidates,7
-PAHRUMP 32,United States Senator,"SCHUMANN, DAVID K.",15
-PAHRUMP 32,United States Senator,"TRAINOR, BRENDAN",9
+PAHRUMP 32,U.S. Senate,"CARTER, JACK",276
+PAHRUMP 32,U.S. Senate,"ENSIGN, JOHN",397
+PAHRUMP 32,U.S. Senate,None Of These Candidates,7
+PAHRUMP 32,U.S. Senate,"SCHUMANN, DAVID K.",15
+PAHRUMP 32,U.S. Senate,"TRAINOR, BRENDAN",9
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",
 Precinct 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",
-Precinct 99,United States Senator,"CARTER, JACK",
-Precinct 99,United States Senator,"ENSIGN, JOHN",
-Precinct 99,United States Senator,None Of These Candidates,
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",
-Precinct 99,United States Senator,"TRAINOR, BRENDAN",
+Precinct 99,U.S. Senate,"CARTER, JACK",
+Precinct 99,U.S. Senate,"ENSIGN, JOHN",
+Precinct 99,U.S. Senate,None Of These Candidates,
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",
+Precinct 99,U.S. Senate,"TRAINOR, BRENDAN",
 ROUND MTN 12,Attorney General,"CHAIREZ, DON",111
 ROUND MTN 12,Attorney General,"CORTEZ  MASTO, CATHERINE",50
 ROUND MTN 12,Attorney General,None Of These Candidates,14
@@ -1579,11 +1579,11 @@ ROUND MTN 12,"U.S. Representative in Congress, District 2","DERBY, JILL",37
 ROUND MTN 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",118
 ROUND MTN 12,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
 ROUND MTN 12,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-ROUND MTN 12,United States Senator,"CARTER, JACK",35
-ROUND MTN 12,United States Senator,"ENSIGN, JOHN",129
-ROUND MTN 12,United States Senator,None Of These Candidates,3
-ROUND MTN 12,United States Senator,"SCHUMANN, DAVID K.",5
-ROUND MTN 12,United States Senator,"TRAINOR, BRENDAN",2
+ROUND MTN 12,U.S. Senate,"CARTER, JACK",35
+ROUND MTN 12,U.S. Senate,"ENSIGN, JOHN",129
+ROUND MTN 12,U.S. Senate,None Of These Candidates,3
+ROUND MTN 12,U.S. Senate,"SCHUMANN, DAVID K.",5
+ROUND MTN 12,U.S. Senate,"TRAINOR, BRENDAN",2
 SMOKY VALLEY 35,Attorney General,"CHAIREZ, DON",80
 SMOKY VALLEY 35,Attorney General,"CORTEZ  MASTO, CATHERINE",58
 SMOKY VALLEY 35,Attorney General,None Of These Candidates,12
@@ -1636,11 +1636,11 @@ SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","DERBY, JILL",43
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","HELLER, DEAN",94
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-SMOKY VALLEY 35,United States Senator,"CARTER, JACK",28
-SMOKY VALLEY 35,United States Senator,"ENSIGN, JOHN",115
-SMOKY VALLEY 35,United States Senator,None Of These Candidates,2
-SMOKY VALLEY 35,United States Senator,"SCHUMANN, DAVID K.",5
-SMOKY VALLEY 35,United States Senator,"TRAINOR, BRENDAN",1
+SMOKY VALLEY 35,U.S. Senate,"CARTER, JACK",28
+SMOKY VALLEY 35,U.S. Senate,"ENSIGN, JOHN",115
+SMOKY VALLEY 35,U.S. Senate,None Of These Candidates,2
+SMOKY VALLEY 35,U.S. Senate,"SCHUMANN, DAVID K.",5
+SMOKY VALLEY 35,U.S. Senate,"TRAINOR, BRENDAN",1
 SUNNYSIDE 13,Attorney General,"CHAIREZ, DON",
 SUNNYSIDE 13,Attorney General,"CORTEZ  MASTO, CATHERINE",
 SUNNYSIDE 13,Attorney General,None Of These Candidates,
@@ -1693,11 +1693,11 @@ SUNNYSIDE 13,"U.S. Representative in Congress, District 2","DERBY, JILL",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",
-SUNNYSIDE 13,United States Senator,"CARTER, JACK",
-SUNNYSIDE 13,United States Senator,"ENSIGN, JOHN",
-SUNNYSIDE 13,United States Senator,None Of These Candidates,
-SUNNYSIDE 13,United States Senator,"SCHUMANN, DAVID K.",
-SUNNYSIDE 13,United States Senator,"TRAINOR, BRENDAN",
+SUNNYSIDE 13,U.S. Senate,"CARTER, JACK",
+SUNNYSIDE 13,U.S. Senate,"ENSIGN, JOHN",
+SUNNYSIDE 13,U.S. Senate,None Of These Candidates,
+SUNNYSIDE 13,U.S. Senate,"SCHUMANN, DAVID K.",
+SUNNYSIDE 13,U.S. Senate,"TRAINOR, BRENDAN",
 TONOPAH 14,Attorney General,"CHAIREZ, DON",150
 TONOPAH 14,Attorney General,"CORTEZ  MASTO, CATHERINE",109
 TONOPAH 14,Attorney General,None Of These Candidates,32
@@ -1753,11 +1753,11 @@ TONOPAH 14,"U.S. Representative in Congress, District 2","DERBY, JILL",90
 TONOPAH 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",173
 TONOPAH 14,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",13
 TONOPAH 14,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-TONOPAH 14,United States Senator,"CARTER, JACK",80
-TONOPAH 14,United States Senator,"ENSIGN, JOHN",193
-TONOPAH 14,United States Senator,None Of These Candidates,9
-TONOPAH 14,United States Senator,"SCHUMANN, DAVID K.",8
-TONOPAH 14,United States Senator,"TRAINOR, BRENDAN",2
+TONOPAH 14,U.S. Senate,"CARTER, JACK",80
+TONOPAH 14,U.S. Senate,"ENSIGN, JOHN",193
+TONOPAH 14,U.S. Senate,None Of These Candidates,9
+TONOPAH 14,U.S. Senate,"SCHUMANN, DAVID K.",8
+TONOPAH 14,U.S. Senate,"TRAINOR, BRENDAN",2
 TONOPAH 15,Attorney General,"CHAIREZ, DON",53
 TONOPAH 15,Attorney General,"CORTEZ  MASTO, CATHERINE",65
 TONOPAH 15,Attorney General,None Of These Candidates,22
@@ -1813,11 +1813,11 @@ TONOPAH 15,"U.S. Representative in Congress, District 2","DERBY, JILL",59
 TONOPAH 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",58
 TONOPAH 15,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 TONOPAH 15,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",11
-TONOPAH 15,United States Senator,"CARTER, JACK",44
-TONOPAH 15,United States Senator,"ENSIGN, JOHN",87
-TONOPAH 15,United States Senator,None Of These Candidates,1
-TONOPAH 15,United States Senator,"SCHUMANN, DAVID K.",6
-TONOPAH 15,United States Senator,"TRAINOR, BRENDAN",3
+TONOPAH 15,U.S. Senate,"CARTER, JACK",44
+TONOPAH 15,U.S. Senate,"ENSIGN, JOHN",87
+TONOPAH 15,U.S. Senate,None Of These Candidates,1
+TONOPAH 15,U.S. Senate,"SCHUMANN, DAVID K.",6
+TONOPAH 15,U.S. Senate,"TRAINOR, BRENDAN",3
 TONOPAH 16,Attorney General,"CHAIREZ, DON",65
 TONOPAH 16,Attorney General,"CORTEZ  MASTO, CATHERINE",67
 TONOPAH 16,Attorney General,None Of These Candidates,12
@@ -1873,11 +1873,11 @@ TONOPAH 16,"U.S. Representative in Congress, District 2","DERBY, JILL",56
 TONOPAH 16,"U.S. Representative in Congress, District 2","HELLER, DEAN",75
 TONOPAH 16,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",9
 TONOPAH 16,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-TONOPAH 16,United States Senator,"CARTER, JACK",41
-TONOPAH 16,United States Senator,"ENSIGN, JOHN",88
-TONOPAH 16,United States Senator,None Of These Candidates,8
-TONOPAH 16,United States Senator,"SCHUMANN, DAVID K.",5
-TONOPAH 16,United States Senator,"TRAINOR, BRENDAN",1
+TONOPAH 16,U.S. Senate,"CARTER, JACK",41
+TONOPAH 16,U.S. Senate,"ENSIGN, JOHN",88
+TONOPAH 16,U.S. Senate,None Of These Candidates,8
+TONOPAH 16,U.S. Senate,"SCHUMANN, DAVID K.",5
+TONOPAH 16,U.S. Senate,"TRAINOR, BRENDAN",1
 TONOPAH 17,Attorney General,"CHAIREZ, DON",85
 TONOPAH 17,Attorney General,"CORTEZ  MASTO, CATHERINE",111
 TONOPAH 17,Attorney General,None Of These Candidates,26
@@ -1933,8 +1933,8 @@ TONOPAH 17,"U.S. Representative in Congress, District 2","DERBY, JILL",88
 TONOPAH 17,"U.S. Representative in Congress, District 2","HELLER, DEAN",112
 TONOPAH 17,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 TONOPAH 17,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",15
-TONOPAH 17,United States Senator,"CARTER, JACK",76
-TONOPAH 17,United States Senator,"ENSIGN, JOHN",134
-TONOPAH 17,United States Senator,None Of These Candidates,3
-TONOPAH 17,United States Senator,"SCHUMANN, DAVID K.",9
-TONOPAH 17,United States Senator,"TRAINOR, BRENDAN",3
+TONOPAH 17,U.S. Senate,"CARTER, JACK",76
+TONOPAH 17,U.S. Senate,"ENSIGN, JOHN",134
+TONOPAH 17,U.S. Senate,None Of These Candidates,3
+TONOPAH 17,U.S. Senate,"SCHUMANN, DAVID K.",9
+TONOPAH 17,U.S. Senate,"TRAINOR, BRENDAN",3

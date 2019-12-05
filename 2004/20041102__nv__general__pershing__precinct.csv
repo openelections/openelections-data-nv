@@ -7,13 +7,13 @@ PRECINCT 1,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",180
 PRECINCT 1,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",416
 PRECINCT 1,"Hospital Board of Trustees, Seat C","CATO, KURT",352
 PRECINCT 1,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",225
-PRECINCT 1,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-PRECINCT 1,President and Vice President of the United States,"BUSH, GEORGE W.",458
-PRECINCT 1,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 1,President and Vice President of the United States,"KERRY, JOHN F.",152
-PRECINCT 1,President and Vice President of the United States,"NADER, RALPH",6
-PRECINCT 1,President and Vice President of the United States,None Of These Candidates,3
-PRECINCT 1,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PRECINCT 1,President,"BADNARIK, MICHAEL",2
+PRECINCT 1,President,"BUSH, GEORGE W.",458
+PRECINCT 1,President,"COBB, DAVID",0
+PRECINCT 1,President,"KERRY, JOHN F.",152
+PRECINCT 1,President,"NADER, RALPH",6
+PRECINCT 1,President,None Of These Candidates,3
+PRECINCT 1,President,"PEROUTKA, MICHAEL A.",0
 PRECINCT 1,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",291
 PRECINCT 1,School District Board of Trustees Seat A,"HUDSON, SHAYLA",306
 PRECINCT 1,"State Assembly, District 35","DeBRAGA, MARCIA",276
@@ -34,12 +34,12 @@ PRECINCT 1,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",87
 PRECINCT 1,"U.S. Representative in Congress, District 2","GIBBONS, JIM",486
 PRECINCT 1,"U.S. Representative in Congress, District 2","HANSEN, JANINE",26
 PRECINCT 1,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-PRECINCT 1,United States Senator,"HURST, THOMAS L.",8
-PRECINCT 1,United States Senator,"MARINCH, GARY",1
-PRECINCT 1,United States Senator,None Of These Candidates,15
-PRECINCT 1,United States Senator,"REID, HARRY",300
-PRECINCT 1,United States Senator,"SCHUMANN, DAVID K.",6
-PRECINCT 1,United States Senator,"ZISER, RICHARD",283
+PRECINCT 1,U.S. Senate,"HURST, THOMAS L.",8
+PRECINCT 1,U.S. Senate,"MARINCH, GARY",1
+PRECINCT 1,U.S. Senate,None Of These Candidates,15
+PRECINCT 1,U.S. Senate,"REID, HARRY",300
+PRECINCT 1,U.S. Senate,"SCHUMANN, DAVID K.",6
+PRECINCT 1,U.S. Senate,"ZISER, RICHARD",283
 PRECINCT 1,"University Board of Regents, District  8","AIAZZI, STAN",265
 PRECINCT 1,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",283
 PRECINCT 2,County Commissioner Seat A,"BLOYED, DARIN",131
@@ -50,13 +50,13 @@ PRECINCT 2,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",66
 PRECINCT 2,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",169
 PRECINCT 2,"Hospital Board of Trustees, Seat C","CATO, KURT",149
 PRECINCT 2,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",75
-PRECINCT 2,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-PRECINCT 2,President and Vice President of the United States,"BUSH, GEORGE W.",151
-PRECINCT 2,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 2,President and Vice President of the United States,"KERRY, JOHN F.",89
-PRECINCT 2,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 2,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 2,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PRECINCT 2,President,"BADNARIK, MICHAEL",1
+PRECINCT 2,President,"BUSH, GEORGE W.",151
+PRECINCT 2,President,"COBB, DAVID",0
+PRECINCT 2,President,"KERRY, JOHN F.",89
+PRECINCT 2,President,"NADER, RALPH",2
+PRECINCT 2,President,None Of These Candidates,1
+PRECINCT 2,President,"PEROUTKA, MICHAEL A.",0
 PRECINCT 2,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",108
 PRECINCT 2,School District Board of Trustees Seat A,"HUDSON, SHAYLA",120
 PRECINCT 2,"State Assembly, District 35","DeBRAGA, MARCIA",129
@@ -77,12 +77,12 @@ PRECINCT 2,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",59
 PRECINCT 2,"U.S. Representative in Congress, District 2","GIBBONS, JIM",175
 PRECINCT 2,"U.S. Representative in Congress, District 2","HANSEN, JANINE",4
 PRECINCT 2,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-PRECINCT 2,United States Senator,"HURST, THOMAS L.",1
-PRECINCT 2,United States Senator,"MARINCH, GARY",3
-PRECINCT 2,United States Senator,None Of These Candidates,11
-PRECINCT 2,United States Senator,"REID, HARRY",145
-PRECINCT 2,United States Senator,"SCHUMANN, DAVID K.",3
-PRECINCT 2,United States Senator,"ZISER, RICHARD",75
+PRECINCT 2,U.S. Senate,"HURST, THOMAS L.",1
+PRECINCT 2,U.S. Senate,"MARINCH, GARY",3
+PRECINCT 2,U.S. Senate,None Of These Candidates,11
+PRECINCT 2,U.S. Senate,"REID, HARRY",145
+PRECINCT 2,U.S. Senate,"SCHUMANN, DAVID K.",3
+PRECINCT 2,U.S. Senate,"ZISER, RICHARD",75
 PRECINCT 2,"University Board of Regents, District  8","AIAZZI, STAN",78
 PRECINCT 2,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",134
 PRECINCT 3,County Commissioner Seat A,"BLOYED, DARIN",124
@@ -93,13 +93,13 @@ PRECINCT 3,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",93
 PRECINCT 3,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",117
 PRECINCT 3,"Hospital Board of Trustees, Seat C","CATO, KURT",147
 PRECINCT 3,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",64
-PRECINCT 3,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-PRECINCT 3,President and Vice President of the United States,"BUSH, GEORGE W.",128
-PRECINCT 3,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 3,President and Vice President of the United States,"KERRY, JOHN F.",90
-PRECINCT 3,President and Vice President of the United States,"NADER, RALPH",3
-PRECINCT 3,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 3,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PRECINCT 3,President,"BADNARIK, MICHAEL",1
+PRECINCT 3,President,"BUSH, GEORGE W.",128
+PRECINCT 3,President,"COBB, DAVID",0
+PRECINCT 3,President,"KERRY, JOHN F.",90
+PRECINCT 3,President,"NADER, RALPH",3
+PRECINCT 3,President,None Of These Candidates,1
+PRECINCT 3,President,"PEROUTKA, MICHAEL A.",0
 PRECINCT 3,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",130
 PRECINCT 3,School District Board of Trustees Seat A,"HUDSON, SHAYLA",83
 PRECINCT 3,"State Assembly, District 35","DeBRAGA, MARCIA",110
@@ -120,12 +120,12 @@ PRECINCT 3,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",50
 PRECINCT 3,"U.S. Representative in Congress, District 2","GIBBONS, JIM",159
 PRECINCT 3,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
 PRECINCT 3,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-PRECINCT 3,United States Senator,"HURST, THOMAS L.",5
-PRECINCT 3,United States Senator,"MARINCH, GARY",1
-PRECINCT 3,United States Senator,None Of These Candidates,6
-PRECINCT 3,United States Senator,"REID, HARRY",141
-PRECINCT 3,United States Senator,"SCHUMANN, DAVID K.",0
-PRECINCT 3,United States Senator,"ZISER, RICHARD",70
+PRECINCT 3,U.S. Senate,"HURST, THOMAS L.",5
+PRECINCT 3,U.S. Senate,"MARINCH, GARY",1
+PRECINCT 3,U.S. Senate,None Of These Candidates,6
+PRECINCT 3,U.S. Senate,"REID, HARRY",141
+PRECINCT 3,U.S. Senate,"SCHUMANN, DAVID K.",0
+PRECINCT 3,U.S. Senate,"ZISER, RICHARD",70
 PRECINCT 3,"University Board of Regents, District  8","AIAZZI, STAN",81
 PRECINCT 3,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",113
 PRECINCT 4,County Commissioner Seat A,"BLOYED, DARIN",136
@@ -136,13 +136,13 @@ PRECINCT 4,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",74
 PRECINCT 4,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",157
 PRECINCT 4,"Hospital Board of Trustees, Seat C","CATO, KURT",130
 PRECINCT 4,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",93
-PRECINCT 4,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-PRECINCT 4,President and Vice President of the United States,"BUSH, GEORGE W.",141
-PRECINCT 4,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 4,President and Vice President of the United States,"KERRY, JOHN F.",95
-PRECINCT 4,President and Vice President of the United States,"NADER, RALPH",3
-PRECINCT 4,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 4,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PRECINCT 4,President,"BADNARIK, MICHAEL",3
+PRECINCT 4,President,"BUSH, GEORGE W.",141
+PRECINCT 4,President,"COBB, DAVID",0
+PRECINCT 4,President,"KERRY, JOHN F.",95
+PRECINCT 4,President,"NADER, RALPH",3
+PRECINCT 4,President,None Of These Candidates,0
+PRECINCT 4,President,"PEROUTKA, MICHAEL A.",0
 PRECINCT 4,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",113
 PRECINCT 4,School District Board of Trustees Seat A,"HUDSON, SHAYLA",120
 PRECINCT 4,"State Assembly, District 35","DeBRAGA, MARCIA",121
@@ -163,12 +163,12 @@ PRECINCT 4,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",53
 PRECINCT 4,"U.S. Representative in Congress, District 2","GIBBONS, JIM",170
 PRECINCT 4,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
 PRECINCT 4,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-PRECINCT 4,United States Senator,"HURST, THOMAS L.",4
-PRECINCT 4,United States Senator,"MARINCH, GARY",1
-PRECINCT 4,United States Senator,None Of These Candidates,8
-PRECINCT 4,United States Senator,"REID, HARRY",137
-PRECINCT 4,United States Senator,"SCHUMANN, DAVID K.",2
-PRECINCT 4,United States Senator,"ZISER, RICHARD",87
+PRECINCT 4,U.S. Senate,"HURST, THOMAS L.",4
+PRECINCT 4,U.S. Senate,"MARINCH, GARY",1
+PRECINCT 4,U.S. Senate,None Of These Candidates,8
+PRECINCT 4,U.S. Senate,"REID, HARRY",137
+PRECINCT 4,U.S. Senate,"SCHUMANN, DAVID K.",2
+PRECINCT 4,U.S. Senate,"ZISER, RICHARD",87
 PRECINCT 4,"University Board of Regents, District  8","AIAZZI, STAN",88
 PRECINCT 4,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",126
 PRECINCT 5,County Commissioner Seat A,"BLOYED, DARIN",40
@@ -179,13 +179,13 @@ PRECINCT 5,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",34
 PRECINCT 5,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",62
 PRECINCT 5,"Hospital Board of Trustees, Seat C","CATO, KURT",29
 PRECINCT 5,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",53
-PRECINCT 5,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-PRECINCT 5,President and Vice President of the United States,"BUSH, GEORGE W.",74
-PRECINCT 5,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 5,President and Vice President of the United States,"KERRY, JOHN F.",21
-PRECINCT 5,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 5,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 5,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+PRECINCT 5,President,"BADNARIK, MICHAEL",3
+PRECINCT 5,President,"BUSH, GEORGE W.",74
+PRECINCT 5,President,"COBB, DAVID",0
+PRECINCT 5,President,"KERRY, JOHN F.",21
+PRECINCT 5,President,"NADER, RALPH",0
+PRECINCT 5,President,None Of These Candidates,0
+PRECINCT 5,President,"PEROUTKA, MICHAEL A.",1
 PRECINCT 5,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",27
 PRECINCT 5,School District Board of Trustees Seat A,"HUDSON, SHAYLA",63
 PRECINCT 5,"State Assembly, District 35","DeBRAGA, MARCIA",27
@@ -206,12 +206,12 @@ PRECINCT 5,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",20
 PRECINCT 5,"U.S. Representative in Congress, District 2","GIBBONS, JIM",73
 PRECINCT 5,"U.S. Representative in Congress, District 2","HANSEN, JANINE",3
 PRECINCT 5,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-PRECINCT 5,United States Senator,"HURST, THOMAS L.",4
-PRECINCT 5,United States Senator,"MARINCH, GARY",0
-PRECINCT 5,United States Senator,None Of These Candidates,1
-PRECINCT 5,United States Senator,"REID, HARRY",50
-PRECINCT 5,United States Senator,"SCHUMANN, DAVID K.",0
-PRECINCT 5,United States Senator,"ZISER, RICHARD",47
+PRECINCT 5,U.S. Senate,"HURST, THOMAS L.",4
+PRECINCT 5,U.S. Senate,"MARINCH, GARY",0
+PRECINCT 5,U.S. Senate,None Of These Candidates,1
+PRECINCT 5,U.S. Senate,"REID, HARRY",50
+PRECINCT 5,U.S. Senate,"SCHUMANN, DAVID K.",0
+PRECINCT 5,U.S. Senate,"ZISER, RICHARD",47
 PRECINCT 5,"University Board of Regents, District  8","AIAZZI, STAN",29
 PRECINCT 5,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",57
 PRECINCT 6,County Commissioner Seat A,"BLOYED, DARIN",107
@@ -222,13 +222,13 @@ PRECINCT 6,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",92
 PRECINCT 6,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",169
 PRECINCT 6,"Hospital Board of Trustees, Seat C","CATO, KURT",105
 PRECINCT 6,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",134
-PRECINCT 6,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-PRECINCT 6,President and Vice President of the United States,"BUSH, GEORGE W.",248
-PRECINCT 6,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 6,President and Vice President of the United States,"KERRY, JOHN F.",47
-PRECINCT 6,President and Vice President of the United States,"NADER, RALPH",1
-PRECINCT 6,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 6,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PRECINCT 6,President,"BADNARIK, MICHAEL",2
+PRECINCT 6,President,"BUSH, GEORGE W.",248
+PRECINCT 6,President,"COBB, DAVID",0
+PRECINCT 6,President,"KERRY, JOHN F.",47
+PRECINCT 6,President,"NADER, RALPH",1
+PRECINCT 6,President,None Of These Candidates,0
+PRECINCT 6,President,"PEROUTKA, MICHAEL A.",0
 PRECINCT 6,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",107
 PRECINCT 6,School District Board of Trustees Seat A,"HUDSON, SHAYLA",146
 PRECINCT 6,"State Assembly, District 35","DeBRAGA, MARCIA",67
@@ -249,12 +249,12 @@ PRECINCT 6,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",27
 PRECINCT 6,"U.S. Representative in Congress, District 2","GIBBONS, JIM",240
 PRECINCT 6,"U.S. Representative in Congress, District 2","HANSEN, JANINE",12
 PRECINCT 6,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-PRECINCT 6,United States Senator,"HURST, THOMAS L.",7
-PRECINCT 6,United States Senator,"MARINCH, GARY",2
-PRECINCT 6,United States Senator,None Of These Candidates,5
-PRECINCT 6,United States Senator,"REID, HARRY",110
-PRECINCT 6,United States Senator,"SCHUMANN, DAVID K.",10
-PRECINCT 6,United States Senator,"ZISER, RICHARD",156
+PRECINCT 6,U.S. Senate,"HURST, THOMAS L.",7
+PRECINCT 6,U.S. Senate,"MARINCH, GARY",2
+PRECINCT 6,U.S. Senate,None Of These Candidates,5
+PRECINCT 6,U.S. Senate,"REID, HARRY",110
+PRECINCT 6,U.S. Senate,"SCHUMANN, DAVID K.",10
+PRECINCT 6,U.S. Senate,"ZISER, RICHARD",156
 PRECINCT 6,"University Board of Regents, District  8","AIAZZI, STAN",93
 PRECINCT 6,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",170
 PRECINCT 7,County Commissioner Seat A,"BLOYED, DARIN",79
@@ -265,13 +265,13 @@ PRECINCT 7,"Hospital Board of Trustees, Seat A","LUKE, BRUCE",90
 PRECINCT 7,"Hospital Board of Trustees, Seat A","WAGNER, RICHARD CA",91
 PRECINCT 7,"Hospital Board of Trustees, Seat C","CATO, KURT",77
 PRECINCT 7,"Hospital Board of Trustees, Seat C","HUGHES, QUINT E.",80
-PRECINCT 7,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-PRECINCT 7,President and Vice President of the United States,"BUSH, GEORGE W.",141
-PRECINCT 7,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 7,President and Vice President of the United States,"KERRY, JOHN F.",44
-PRECINCT 7,President and Vice President of the United States,"NADER, RALPH",2
-PRECINCT 7,President and Vice President of the United States,None Of These Candidates,1
-PRECINCT 7,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+PRECINCT 7,President,"BADNARIK, MICHAEL",0
+PRECINCT 7,President,"BUSH, GEORGE W.",141
+PRECINCT 7,President,"COBB, DAVID",0
+PRECINCT 7,President,"KERRY, JOHN F.",44
+PRECINCT 7,President,"NADER, RALPH",2
+PRECINCT 7,President,None Of These Candidates,1
+PRECINCT 7,President,"PEROUTKA, MICHAEL A.",2
 PRECINCT 7,School District Board of Trustees Seat A,"ARNOLD, BRAD E.",70
 PRECINCT 7,School District Board of Trustees Seat A,"HUDSON, SHAYLA",96
 PRECINCT 7,"State Assembly, District 35","DeBRAGA, MARCIA",69
@@ -292,35 +292,35 @@ PRECINCT 7,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",32
 PRECINCT 7,"U.S. Representative in Congress, District 2","GIBBONS, JIM",141
 PRECINCT 7,"U.S. Representative in Congress, District 2","HANSEN, JANINE",10
 PRECINCT 7,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-PRECINCT 7,United States Senator,"HURST, THOMAS L.",1
-PRECINCT 7,United States Senator,"MARINCH, GARY",1
-PRECINCT 7,United States Senator,None Of These Candidates,3
-PRECINCT 7,United States Senator,"REID, HARRY",77
-PRECINCT 7,United States Senator,"SCHUMANN, DAVID K.",6
-PRECINCT 7,United States Senator,"ZISER, RICHARD",99
+PRECINCT 7,U.S. Senate,"HURST, THOMAS L.",1
+PRECINCT 7,U.S. Senate,"MARINCH, GARY",1
+PRECINCT 7,U.S. Senate,None Of These Candidates,3
+PRECINCT 7,U.S. Senate,"REID, HARRY",77
+PRECINCT 7,U.S. Senate,"SCHUMANN, DAVID K.",6
+PRECINCT 7,U.S. Senate,"ZISER, RICHARD",99
 PRECINCT 7,"University Board of Regents, District  8","AIAZZI, STAN",63
 PRECINCT 7,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",98
-PRECINCT 88,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-PRECINCT 88,President and Vice President of the United States,"BUSH, GEORGE W.",0
-PRECINCT 88,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 88,President and Vice President of the United States,"KERRY, JOHN F.",0
-PRECINCT 88,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 88,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
-PRECINCT 99,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-PRECINCT 99,President and Vice President of the United States,"BUSH, GEORGE W.",0
-PRECINCT 99,President and Vice President of the United States,"COBB, DAVID",0
-PRECINCT 99,President and Vice President of the United States,"KERRY, JOHN F.",0
-PRECINCT 99,President and Vice President of the United States,"NADER, RALPH",0
-PRECINCT 99,President and Vice President of the United States,None Of These Candidates,0
-PRECINCT 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+PRECINCT 88,President,"BADNARIK, MICHAEL",0
+PRECINCT 88,President,"BUSH, GEORGE W.",0
+PRECINCT 88,President,"COBB, DAVID",0
+PRECINCT 88,President,"KERRY, JOHN F.",0
+PRECINCT 88,President,"NADER, RALPH",0
+PRECINCT 88,President,None Of These Candidates,0
+PRECINCT 88,President,"PEROUTKA, MICHAEL A.",0
+PRECINCT 99,President,"BADNARIK, MICHAEL",0
+PRECINCT 99,President,"BUSH, GEORGE W.",0
+PRECINCT 99,President,"COBB, DAVID",0
+PRECINCT 99,President,"KERRY, JOHN F.",0
+PRECINCT 99,President,"NADER, RALPH",0
+PRECINCT 99,President,None Of These Candidates,0
+PRECINCT 99,President,"PEROUTKA, MICHAEL A.",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",0
-PRECINCT 99,United States Senator,"HURST, THOMAS L.",0
-PRECINCT 99,United States Senator,"MARINCH, GARY",0
-PRECINCT 99,United States Senator,None Of These Candidates,0
-PRECINCT 99,United States Senator,"REID, HARRY",0
-PRECINCT 99,United States Senator,"SCHUMANN, DAVID K.",0
-PRECINCT 99,United States Senator,"ZISER, RICHARD",0
+PRECINCT 99,U.S. Senate,"HURST, THOMAS L.",0
+PRECINCT 99,U.S. Senate,"MARINCH, GARY",0
+PRECINCT 99,U.S. Senate,None Of These Candidates,0
+PRECINCT 99,U.S. Senate,"REID, HARRY",0
+PRECINCT 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+PRECINCT 99,U.S. Senate,"ZISER, RICHARD",0

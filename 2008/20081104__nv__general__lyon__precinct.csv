@@ -16,13 +16,13 @@ East Mason Valley 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",315
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",366
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",176
-East Mason Valley 1,President and Vice President of the United States,"Baldwin, Chuck",6
-East Mason Valley 1,President and Vice President of the United States,"Barr, Bob",4
-East Mason Valley 1,President and Vice President of the United States,"McCain, John",339
-East Mason Valley 1,President and Vice President of the United States,"McKinney, Cynthia",1
-East Mason Valley 1,President and Vice President of the United States,"NADER, RALPH",4
-East Mason Valley 1,President and Vice President of the United States,None Of These Candidates,8
-East Mason Valley 1,President and Vice President of the United States,"Obama, Barack",230
+East Mason Valley 1,President,"Baldwin, Chuck",6
+East Mason Valley 1,President,"Barr, Bob",4
+East Mason Valley 1,President,"McCain, John",339
+East Mason Valley 1,President,"McKinney, Cynthia",1
+East Mason Valley 1,President,"NADER, RALPH",4
+East Mason Valley 1,President,None Of These Candidates,8
+East Mason Valley 1,President,"Obama, Barack",230
 East Mason Valley 1,"State Assembly, District 38","DALTON, STEVEN J.",160
 East Mason Valley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",37
 East Mason Valley 1,"State Assembly, District 38","Grady, Tom",374
@@ -54,13 +54,13 @@ East Mason Valley 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",336
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",412
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",189
-East Mason Valley 2,President and Vice President of the United States,"Baldwin, Chuck",2
-East Mason Valley 2,President and Vice President of the United States,"Barr, Bob",5
-East Mason Valley 2,President and Vice President of the United States,"McCain, John",429
-East Mason Valley 2,President and Vice President of the United States,"McKinney, Cynthia",0
-East Mason Valley 2,President and Vice President of the United States,"NADER, RALPH",6
-East Mason Valley 2,President and Vice President of the United States,None Of These Candidates,10
-East Mason Valley 2,President and Vice President of the United States,"Obama, Barack",194
+East Mason Valley 2,President,"Baldwin, Chuck",2
+East Mason Valley 2,President,"Barr, Bob",5
+East Mason Valley 2,President,"McCain, John",429
+East Mason Valley 2,President,"McKinney, Cynthia",0
+East Mason Valley 2,President,"NADER, RALPH",6
+East Mason Valley 2,President,None Of These Candidates,10
+East Mason Valley 2,President,"Obama, Barack",194
 East Mason Valley 2,"State Assembly, District 38","DALTON, STEVEN J.",137
 East Mason Valley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",39
 East Mason Valley 2,"State Assembly, District 38","Grady, Tom",457
@@ -100,13 +100,13 @@ Fernley 1,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",250
 Fernley 1,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",222
 Fernley 1,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",340
 Fernley 1,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",281
-Fernley 1,President and Vice President of the United States,"Baldwin, Chuck",2
-Fernley 1,President and Vice President of the United States,"Barr, Bob",2
-Fernley 1,President and Vice President of the United States,"McCain, John",453
-Fernley 1,President and Vice President of the United States,"McKinney, Cynthia",3
-Fernley 1,President and Vice President of the United States,"NADER, RALPH",4
-Fernley 1,President and Vice President of the United States,None Of These Candidates,11
-Fernley 1,President and Vice President of the United States,"Obama, Barack",266
+Fernley 1,President,"Baldwin, Chuck",2
+Fernley 1,President,"Barr, Bob",2
+Fernley 1,President,"McCain, John",453
+Fernley 1,President,"McKinney, Cynthia",3
+Fernley 1,President,"NADER, RALPH",4
+Fernley 1,President,None Of These Candidates,11
+Fernley 1,President,"Obama, Barack",266
 Fernley 1,"State Assembly, District 38","DALTON, STEVEN J.",219
 Fernley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",42
 Fernley 1,"State Assembly, District 38","Grady, Tom",439
@@ -146,13 +146,13 @@ Fernley 10,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",65
 Fernley 10,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",81
 Fernley 10,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",109
 Fernley 10,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",78
-Fernley 10,President and Vice President of the United States,"Baldwin, Chuck",0
-Fernley 10,President and Vice President of the United States,"Barr, Bob",3
-Fernley 10,President and Vice President of the United States,"McCain, John",124
-Fernley 10,President and Vice President of the United States,"McKinney, Cynthia",0
-Fernley 10,President and Vice President of the United States,"NADER, RALPH",0
-Fernley 10,President and Vice President of the United States,None Of These Candidates,0
-Fernley 10,President and Vice President of the United States,"Obama, Barack",77
+Fernley 10,President,"Baldwin, Chuck",0
+Fernley 10,President,"Barr, Bob",3
+Fernley 10,President,"McCain, John",124
+Fernley 10,President,"McKinney, Cynthia",0
+Fernley 10,President,"NADER, RALPH",0
+Fernley 10,President,None Of These Candidates,0
+Fernley 10,President,"Obama, Barack",77
 Fernley 10,"State Assembly, District 38","DALTON, STEVEN J.",51
 Fernley 10,"State Assembly, District 38","GOMEZ, DENNIS C.",9
 Fernley 10,"State Assembly, District 38","Grady, Tom",132
@@ -190,13 +190,13 @@ Fernley 11,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",187
 Fernley 11,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",191
 Fernley 11,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",223
 Fernley 11,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",222
-Fernley 11,President and Vice President of the United States,"Baldwin, Chuck",3
-Fernley 11,President and Vice President of the United States,"Barr, Bob",8
-Fernley 11,President and Vice President of the United States,"McCain, John",324
-Fernley 11,President and Vice President of the United States,"McKinney, Cynthia",1
-Fernley 11,President and Vice President of the United States,"NADER, RALPH",3
-Fernley 11,President and Vice President of the United States,None Of These Candidates,4
-Fernley 11,President and Vice President of the United States,"Obama, Barack",243
+Fernley 11,President,"Baldwin, Chuck",3
+Fernley 11,President,"Barr, Bob",8
+Fernley 11,President,"McCain, John",324
+Fernley 11,President,"McKinney, Cynthia",1
+Fernley 11,President,"NADER, RALPH",3
+Fernley 11,President,None Of These Candidates,4
+Fernley 11,President,"Obama, Barack",243
 Fernley 11,"State Assembly, District 38","DALTON, STEVEN J.",202
 Fernley 11,"State Assembly, District 38","GOMEZ, DENNIS C.",32
 Fernley 11,"State Assembly, District 38","Grady, Tom",319
@@ -234,13 +234,13 @@ Fernley 12,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",222
 Fernley 12,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",175
 Fernley 12,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",222
 Fernley 12,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",253
-Fernley 12,President and Vice President of the United States,"Baldwin, Chuck",0
-Fernley 12,President and Vice President of the United States,"Barr, Bob",3
-Fernley 12,President and Vice President of the United States,"McCain, John",352
-Fernley 12,President and Vice President of the United States,"McKinney, Cynthia",1
-Fernley 12,President and Vice President of the United States,"NADER, RALPH",5
-Fernley 12,President and Vice President of the United States,None Of These Candidates,0
-Fernley 12,President and Vice President of the United States,"Obama, Barack",285
+Fernley 12,President,"Baldwin, Chuck",0
+Fernley 12,President,"Barr, Bob",3
+Fernley 12,President,"McCain, John",352
+Fernley 12,President,"McKinney, Cynthia",1
+Fernley 12,President,"NADER, RALPH",5
+Fernley 12,President,None Of These Candidates,0
+Fernley 12,President,"Obama, Barack",285
 Fernley 12,"State Assembly, District 38","DALTON, STEVEN J.",227
 Fernley 12,"State Assembly, District 38","GOMEZ, DENNIS C.",49
 Fernley 12,"State Assembly, District 38","Grady, Tom",323
@@ -280,13 +280,13 @@ Fernley 13,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",292
 Fernley 13,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",257
 Fernley 13,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",326
 Fernley 13,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",389
-Fernley 13,President and Vice President of the United States,"Baldwin, Chuck",2
-Fernley 13,President and Vice President of the United States,"Barr, Bob",2
-Fernley 13,President and Vice President of the United States,"McCain, John",535
-Fernley 13,President and Vice President of the United States,"McKinney, Cynthia",1
-Fernley 13,President and Vice President of the United States,"NADER, RALPH",0
-Fernley 13,President and Vice President of the United States,None Of These Candidates,6
-Fernley 13,President and Vice President of the United States,"Obama, Barack",328
+Fernley 13,President,"Baldwin, Chuck",2
+Fernley 13,President,"Barr, Bob",2
+Fernley 13,President,"McCain, John",535
+Fernley 13,President,"McKinney, Cynthia",1
+Fernley 13,President,"NADER, RALPH",0
+Fernley 13,President,None Of These Candidates,6
+Fernley 13,President,"Obama, Barack",328
 Fernley 13,"State Assembly, District 38","DALTON, STEVEN J.",259
 Fernley 13,"State Assembly, District 38","GOMEZ, DENNIS C.",46
 Fernley 13,"State Assembly, District 38","Grady, Tom",524
@@ -326,13 +326,13 @@ Fernley 14,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",148
 Fernley 14,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",182
 Fernley 14,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",206
 Fernley 14,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",233
-Fernley 14,President and Vice President of the United States,"Baldwin, Chuck",5
-Fernley 14,President and Vice President of the United States,"Barr, Bob",3
-Fernley 14,President and Vice President of the United States,"McCain, John",245
-Fernley 14,President and Vice President of the United States,"McKinney, Cynthia",0
-Fernley 14,President and Vice President of the United States,"NADER, RALPH",5
-Fernley 14,President and Vice President of the United States,None Of These Candidates,5
-Fernley 14,President and Vice President of the United States,"Obama, Barack",214
+Fernley 14,President,"Baldwin, Chuck",5
+Fernley 14,President,"Barr, Bob",3
+Fernley 14,President,"McCain, John",245
+Fernley 14,President,"McKinney, Cynthia",0
+Fernley 14,President,"NADER, RALPH",5
+Fernley 14,President,None Of These Candidates,5
+Fernley 14,President,"Obama, Barack",214
 Fernley 14,"State Assembly, District 38","DALTON, STEVEN J.",187
 Fernley 14,"State Assembly, District 38","GOMEZ, DENNIS C.",34
 Fernley 14,"State Assembly, District 38","Grady, Tom",232
@@ -372,13 +372,13 @@ Fernley 2,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",113
 Fernley 2,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",88
 Fernley 2,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",128
 Fernley 2,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",115
-Fernley 2,President and Vice President of the United States,"Baldwin, Chuck",3
-Fernley 2,President and Vice President of the United States,"Barr, Bob",1
-Fernley 2,President and Vice President of the United States,"McCain, John",178
-Fernley 2,President and Vice President of the United States,"McKinney, Cynthia",0
-Fernley 2,President and Vice President of the United States,"NADER, RALPH",4
-Fernley 2,President and Vice President of the United States,None Of These Candidates,1
-Fernley 2,President and Vice President of the United States,"Obama, Barack",132
+Fernley 2,President,"Baldwin, Chuck",3
+Fernley 2,President,"Barr, Bob",1
+Fernley 2,President,"McCain, John",178
+Fernley 2,President,"McKinney, Cynthia",0
+Fernley 2,President,"NADER, RALPH",4
+Fernley 2,President,None Of These Candidates,1
+Fernley 2,President,"Obama, Barack",132
 Fernley 2,"State Assembly, District 38","DALTON, STEVEN J.",115
 Fernley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",15
 Fernley 2,"State Assembly, District 38","Grady, Tom",172
@@ -418,13 +418,13 @@ Fernley 3,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",123
 Fernley 3,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",128
 Fernley 3,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",190
 Fernley 3,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",158
-Fernley 3,President and Vice President of the United States,"Baldwin, Chuck",6
-Fernley 3,President and Vice President of the United States,"Barr, Bob",0
-Fernley 3,President and Vice President of the United States,"McCain, John",222
-Fernley 3,President and Vice President of the United States,"McKinney, Cynthia",0
-Fernley 3,President and Vice President of the United States,"NADER, RALPH",2
-Fernley 3,President and Vice President of the United States,None Of These Candidates,4
-Fernley 3,President and Vice President of the United States,"Obama, Barack",142
+Fernley 3,President,"Baldwin, Chuck",6
+Fernley 3,President,"Barr, Bob",0
+Fernley 3,President,"McCain, John",222
+Fernley 3,President,"McKinney, Cynthia",0
+Fernley 3,President,"NADER, RALPH",2
+Fernley 3,President,None Of These Candidates,4
+Fernley 3,President,"Obama, Barack",142
 Fernley 3,"State Assembly, District 38","DALTON, STEVEN J.",108
 Fernley 3,"State Assembly, District 38","GOMEZ, DENNIS C.",26
 Fernley 3,"State Assembly, District 38","Grady, Tom",217
@@ -464,13 +464,13 @@ Fernley 4,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",121
 Fernley 4,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",108
 Fernley 4,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",142
 Fernley 4,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",149
-Fernley 4,President and Vice President of the United States,"Baldwin, Chuck",3
-Fernley 4,President and Vice President of the United States,"Barr, Bob",1
-Fernley 4,President and Vice President of the United States,"McCain, John",205
-Fernley 4,President and Vice President of the United States,"McKinney, Cynthia",0
-Fernley 4,President and Vice President of the United States,"NADER, RALPH",2
-Fernley 4,President and Vice President of the United States,None Of These Candidates,1
-Fernley 4,President and Vice President of the United States,"Obama, Barack",173
+Fernley 4,President,"Baldwin, Chuck",3
+Fernley 4,President,"Barr, Bob",1
+Fernley 4,President,"McCain, John",205
+Fernley 4,President,"McKinney, Cynthia",0
+Fernley 4,President,"NADER, RALPH",2
+Fernley 4,President,None Of These Candidates,1
+Fernley 4,President,"Obama, Barack",173
 Fernley 4,"State Assembly, District 38","DALTON, STEVEN J.",135
 Fernley 4,"State Assembly, District 38","GOMEZ, DENNIS C.",20
 Fernley 4,"State Assembly, District 38","Grady, Tom",201
@@ -508,13 +508,13 @@ Fernley 5,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",183
 Fernley 5,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",153
 Fernley 5,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",204
 Fernley 5,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",219
-Fernley 5,President and Vice President of the United States,"Baldwin, Chuck",3
-Fernley 5,President and Vice President of the United States,"Barr, Bob",3
-Fernley 5,President and Vice President of the United States,"McCain, John",293
-Fernley 5,President and Vice President of the United States,"McKinney, Cynthia",1
-Fernley 5,President and Vice President of the United States,"NADER, RALPH",6
-Fernley 5,President and Vice President of the United States,None Of These Candidates,4
-Fernley 5,President and Vice President of the United States,"Obama, Barack",232
+Fernley 5,President,"Baldwin, Chuck",3
+Fernley 5,President,"Barr, Bob",3
+Fernley 5,President,"McCain, John",293
+Fernley 5,President,"McKinney, Cynthia",1
+Fernley 5,President,"NADER, RALPH",6
+Fernley 5,President,None Of These Candidates,4
+Fernley 5,President,"Obama, Barack",232
 Fernley 5,"State Assembly, District 38","DALTON, STEVEN J.",176
 Fernley 5,"State Assembly, District 38","GOMEZ, DENNIS C.",39
 Fernley 5,"State Assembly, District 38","Grady, Tom",292
@@ -554,13 +554,13 @@ Fernley 6,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",132
 Fernley 6,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",147
 Fernley 6,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",179
 Fernley 6,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",196
-Fernley 6,President and Vice President of the United States,"Baldwin, Chuck",6
-Fernley 6,President and Vice President of the United States,"Barr, Bob",2
-Fernley 6,President and Vice President of the United States,"McCain, John",230
-Fernley 6,President and Vice President of the United States,"McKinney, Cynthia",2
-Fernley 6,President and Vice President of the United States,"NADER, RALPH",7
-Fernley 6,President and Vice President of the United States,None Of These Candidates,8
-Fernley 6,President and Vice President of the United States,"Obama, Barack",203
+Fernley 6,President,"Baldwin, Chuck",6
+Fernley 6,President,"Barr, Bob",2
+Fernley 6,President,"McCain, John",230
+Fernley 6,President,"McKinney, Cynthia",2
+Fernley 6,President,"NADER, RALPH",7
+Fernley 6,President,None Of These Candidates,8
+Fernley 6,President,"Obama, Barack",203
 Fernley 6,"State Assembly, District 38","DALTON, STEVEN J.",177
 Fernley 6,"State Assembly, District 38","GOMEZ, DENNIS C.",26
 Fernley 6,"State Assembly, District 38","Grady, Tom",226
@@ -598,13 +598,13 @@ Fernley 7,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",194
 Fernley 7,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",193
 Fernley 7,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",263
 Fernley 7,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",257
-Fernley 7,President and Vice President of the United States,"Baldwin, Chuck",3
-Fernley 7,President and Vice President of the United States,"Barr, Bob",4
-Fernley 7,President and Vice President of the United States,"McCain, John",308
-Fernley 7,President and Vice President of the United States,"McKinney, Cynthia",3
-Fernley 7,President and Vice President of the United States,"NADER, RALPH",8
-Fernley 7,President and Vice President of the United States,None Of These Candidates,4
-Fernley 7,President and Vice President of the United States,"Obama, Barack",324
+Fernley 7,President,"Baldwin, Chuck",3
+Fernley 7,President,"Barr, Bob",4
+Fernley 7,President,"McCain, John",308
+Fernley 7,President,"McKinney, Cynthia",3
+Fernley 7,President,"NADER, RALPH",8
+Fernley 7,President,None Of These Candidates,4
+Fernley 7,President,"Obama, Barack",324
 Fernley 7,"State Assembly, District 38","DALTON, STEVEN J.",269
 Fernley 7,"State Assembly, District 38","GOMEZ, DENNIS C.",54
 Fernley 7,"State Assembly, District 38","Grady, Tom",299
@@ -644,13 +644,13 @@ Fernley 8,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",149
 Fernley 8,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",193
 Fernley 8,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",228
 Fernley 8,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",188
-Fernley 8,President and Vice President of the United States,"Baldwin, Chuck",1
-Fernley 8,President and Vice President of the United States,"Barr, Bob",3
-Fernley 8,President and Vice President of the United States,"McCain, John",300
-Fernley 8,President and Vice President of the United States,"McKinney, Cynthia",0
-Fernley 8,President and Vice President of the United States,"NADER, RALPH",2
-Fernley 8,President and Vice President of the United States,None Of These Candidates,6
-Fernley 8,President and Vice President of the United States,"Obama, Barack",148
+Fernley 8,President,"Baldwin, Chuck",1
+Fernley 8,President,"Barr, Bob",3
+Fernley 8,President,"McCain, John",300
+Fernley 8,President,"McKinney, Cynthia",0
+Fernley 8,President,"NADER, RALPH",2
+Fernley 8,President,None Of These Candidates,6
+Fernley 8,President,"Obama, Barack",148
 Fernley 8,"State Assembly, District 38","DALTON, STEVEN J.",117
 Fernley 8,"State Assembly, District 38","GOMEZ, DENNIS C.",16
 Fernley 8,"State Assembly, District 38","Grady, Tom",303
@@ -688,13 +688,13 @@ Fernley 9,NORTH LYON COUNTY Fire Pro - Directors,"MURPHY, CHRIS P.",84
 Fernley 9,NORTH LYON COUNTY Fire Pro - Directors,"OSBORN, JON",81
 Fernley 9,NORTH LYON COUNTY Fire Pro - Directors,"PICETTI, JOHN E.",86
 Fernley 9,NORTH LYON COUNTY Fire Pro - Directors,"SKINNER, DEBBIE",132
-Fernley 9,President and Vice President of the United States,"Baldwin, Chuck",1
-Fernley 9,President and Vice President of the United States,"Barr, Bob",0
-Fernley 9,President and Vice President of the United States,"McCain, John",136
-Fernley 9,President and Vice President of the United States,"McKinney, Cynthia",3
-Fernley 9,President and Vice President of the United States,"NADER, RALPH",1
-Fernley 9,President and Vice President of the United States,None Of These Candidates,1
-Fernley 9,President and Vice President of the United States,"Obama, Barack",123
+Fernley 9,President,"Baldwin, Chuck",1
+Fernley 9,President,"Barr, Bob",0
+Fernley 9,President,"McCain, John",136
+Fernley 9,President,"McKinney, Cynthia",3
+Fernley 9,President,"NADER, RALPH",1
+Fernley 9,President,None Of These Candidates,1
+Fernley 9,President,"Obama, Barack",123
 Fernley 9,"State Assembly, District 38","DALTON, STEVEN J.",90
 Fernley 9,"State Assembly, District 38","GOMEZ, DENNIS C.",19
 Fernley 9,"State Assembly, District 38","Grady, Tom",137
@@ -726,13 +726,13 @@ Mound House 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE)
 Mound House 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",115
 Mound House 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",90
 Mound House 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",137
-Mound House 1,President and Vice President of the United States,"Baldwin, Chuck",1
-Mound House 1,President and Vice President of the United States,"Barr, Bob",2
-Mound House 1,President and Vice President of the United States,"McCain, John",174
-Mound House 1,President and Vice President of the United States,"McKinney, Cynthia",1
-Mound House 1,President and Vice President of the United States,"NADER, RALPH",4
-Mound House 1,President and Vice President of the United States,None Of These Candidates,3
-Mound House 1,President and Vice President of the United States,"Obama, Barack",124
+Mound House 1,President,"Baldwin, Chuck",1
+Mound House 1,President,"Barr, Bob",2
+Mound House 1,President,"McCain, John",174
+Mound House 1,President,"McKinney, Cynthia",1
+Mound House 1,President,"NADER, RALPH",4
+Mound House 1,President,None Of These Candidates,3
+Mound House 1,President,"Obama, Barack",124
 Mound House 1,"State Assembly, District 38","DALTON, STEVEN J.",96
 Mound House 1,"State Assembly, District 38","GOMEZ, DENNIS C.",20
 Mound House 1,"State Assembly, District 38","Grady, Tom",161
@@ -764,13 +764,13 @@ Mound House 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE)
 Mound House 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",161
 Mound House 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",113
 Mound House 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",177
-Mound House 2,President and Vice President of the United States,"Baldwin, Chuck",3
-Mound House 2,President and Vice President of the United States,"Barr, Bob",1
-Mound House 2,President and Vice President of the United States,"McCain, John",188
-Mound House 2,President and Vice President of the United States,"McKinney, Cynthia",0
-Mound House 2,President and Vice President of the United States,"NADER, RALPH",5
-Mound House 2,President and Vice President of the United States,None Of These Candidates,3
-Mound House 2,President and Vice President of the United States,"Obama, Barack",152
+Mound House 2,President,"Baldwin, Chuck",3
+Mound House 2,President,"Barr, Bob",1
+Mound House 2,President,"McCain, John",188
+Mound House 2,President,"McKinney, Cynthia",0
+Mound House 2,President,"NADER, RALPH",5
+Mound House 2,President,None Of These Candidates,3
+Mound House 2,President,"Obama, Barack",152
 Mound House 2,"State Assembly, District 38","DALTON, STEVEN J.",115
 Mound House 2,"State Assembly, District 38","GOMEZ, DENNIS C.",33
 Mound House 2,"State Assembly, District 38","Grady, Tom",184
@@ -802,13 +802,13 @@ North Dayton 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 North Dayton 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",113
 North Dayton 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",69
 North Dayton 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",113
-North Dayton 1,President and Vice President of the United States,"Baldwin, Chuck",2
-North Dayton 1,President and Vice President of the United States,"Barr, Bob",2
-North Dayton 1,President and Vice President of the United States,"McCain, John",123
-North Dayton 1,President and Vice President of the United States,"McKinney, Cynthia",1
-North Dayton 1,President and Vice President of the United States,"NADER, RALPH",1
-North Dayton 1,President and Vice President of the United States,None Of These Candidates,1
-North Dayton 1,President and Vice President of the United States,"Obama, Barack",85
+North Dayton 1,President,"Baldwin, Chuck",2
+North Dayton 1,President,"Barr, Bob",2
+North Dayton 1,President,"McCain, John",123
+North Dayton 1,President,"McKinney, Cynthia",1
+North Dayton 1,President,"NADER, RALPH",1
+North Dayton 1,President,None Of These Candidates,1
+North Dayton 1,President,"Obama, Barack",85
 North Dayton 1,"State Assembly, District 38","DALTON, STEVEN J.",68
 North Dayton 1,"State Assembly, District 38","GOMEZ, DENNIS C.",24
 North Dayton 1,"State Assembly, District 38","Grady, Tom",118
@@ -840,13 +840,13 @@ North Dayton 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 North Dayton 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",421
 North Dayton 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",326
 North Dayton 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",399
-North Dayton 2,President and Vice President of the United States,"Baldwin, Chuck",3
-North Dayton 2,President and Vice President of the United States,"Barr, Bob",0
-North Dayton 2,President and Vice President of the United States,"McCain, John",486
-North Dayton 2,President and Vice President of the United States,"McKinney, Cynthia",1
-North Dayton 2,President and Vice President of the United States,"NADER, RALPH",3
-North Dayton 2,President and Vice President of the United States,None Of These Candidates,6
-North Dayton 2,President and Vice President of the United States,"Obama, Barack",401
+North Dayton 2,President,"Baldwin, Chuck",3
+North Dayton 2,President,"Barr, Bob",0
+North Dayton 2,President,"McCain, John",486
+North Dayton 2,President,"McKinney, Cynthia",1
+North Dayton 2,President,"NADER, RALPH",3
+North Dayton 2,President,None Of These Candidates,6
+North Dayton 2,President,"Obama, Barack",401
 North Dayton 2,"State Assembly, District 38","DALTON, STEVEN J.",285
 North Dayton 2,"State Assembly, District 38","GOMEZ, DENNIS C.",75
 North Dayton 2,"State Assembly, District 38","Grady, Tom",493
@@ -878,13 +878,13 @@ North Dayton 3,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 North Dayton 3,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",288
 North Dayton 3,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",253
 North Dayton 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",280
-North Dayton 3,President and Vice President of the United States,"Baldwin, Chuck",1
-North Dayton 3,President and Vice President of the United States,"Barr, Bob",5
-North Dayton 3,President and Vice President of the United States,"McCain, John",376
-North Dayton 3,President and Vice President of the United States,"McKinney, Cynthia",1
-North Dayton 3,President and Vice President of the United States,"NADER, RALPH",5
-North Dayton 3,President and Vice President of the United States,None Of These Candidates,7
-North Dayton 3,President and Vice President of the United States,"Obama, Barack",306
+North Dayton 3,President,"Baldwin, Chuck",1
+North Dayton 3,President,"Barr, Bob",5
+North Dayton 3,President,"McCain, John",376
+North Dayton 3,President,"McKinney, Cynthia",1
+North Dayton 3,President,"NADER, RALPH",5
+North Dayton 3,President,None Of These Candidates,7
+North Dayton 3,President,"Obama, Barack",306
 North Dayton 3,"State Assembly, District 38","DALTON, STEVEN J.",238
 North Dayton 3,"State Assembly, District 38","GOMEZ, DENNIS C.",55
 North Dayton 3,"State Assembly, District 38","Grady, Tom",361
@@ -916,13 +916,13 @@ North Dayton 4,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 North Dayton 4,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",342
 North Dayton 4,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",256
 North Dayton 4,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",344
-North Dayton 4,President and Vice President of the United States,"Baldwin, Chuck",3
-North Dayton 4,President and Vice President of the United States,"Barr, Bob",1
-North Dayton 4,President and Vice President of the United States,"McCain, John",391
-North Dayton 4,President and Vice President of the United States,"McKinney, Cynthia",1
-North Dayton 4,President and Vice President of the United States,"NADER, RALPH",1
-North Dayton 4,President and Vice President of the United States,None Of These Candidates,3
-North Dayton 4,President and Vice President of the United States,"Obama, Barack",358
+North Dayton 4,President,"Baldwin, Chuck",3
+North Dayton 4,President,"Barr, Bob",1
+North Dayton 4,President,"McCain, John",391
+North Dayton 4,President,"McKinney, Cynthia",1
+North Dayton 4,President,"NADER, RALPH",1
+North Dayton 4,President,None Of These Candidates,3
+North Dayton 4,President,"Obama, Barack",358
 North Dayton 4,"State Assembly, District 38","DALTON, STEVEN J.",290
 North Dayton 4,"State Assembly, District 38","GOMEZ, DENNIS C.",65
 North Dayton 4,"State Assembly, District 38","Grady, Tom",353
@@ -954,13 +954,13 @@ North Dayton 5,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 North Dayton 5,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",458
 North Dayton 5,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",353
 North Dayton 5,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",454
-North Dayton 5,President and Vice President of the United States,"Baldwin, Chuck",4
-North Dayton 5,President and Vice President of the United States,"Barr, Bob",1
-North Dayton 5,President and Vice President of the United States,"McCain, John",652
-North Dayton 5,President and Vice President of the United States,"McKinney, Cynthia",2
-North Dayton 5,President and Vice President of the United States,"NADER, RALPH",2
-North Dayton 5,President and Vice President of the United States,None Of These Candidates,11
-North Dayton 5,President and Vice President of the United States,"Obama, Barack",403
+North Dayton 5,President,"Baldwin, Chuck",4
+North Dayton 5,President,"Barr, Bob",1
+North Dayton 5,President,"McCain, John",652
+North Dayton 5,President,"McKinney, Cynthia",2
+North Dayton 5,President,"NADER, RALPH",2
+North Dayton 5,President,None Of These Candidates,11
+North Dayton 5,President,"Obama, Barack",403
 North Dayton 5,"State Assembly, District 38","DALTON, STEVEN J.",314
 North Dayton 5,"State Assembly, District 38","GOMEZ, DENNIS C.",80
 North Dayton 5,"State Assembly, District 38","Grady, Tom",621
@@ -975,20 +975,20 @@ North Dayton 5,"U.S. Representative in Congress, District 2","DERBY, JILL",288
 North Dayton 5,"U.S. Representative in Congress, District 2","Everhart, John",35
 North Dayton 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",703
 North Dayton 5,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
-Precinct 88,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 88,President and Vice President of the United States,"Barr, Bob",0
-Precinct 88,President and Vice President of the United States,"McCain, John",4
-Precinct 88,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"Obama, Barack",6
-Precinct 99,President and Vice President of the United States,"Baldwin, Chuck",
-Precinct 99,President and Vice President of the United States,"Barr, Bob",
-Precinct 99,President and Vice President of the United States,"McCain, John",
-Precinct 99,President and Vice President of the United States,"McKinney, Cynthia",
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",
-Precinct 99,President and Vice President of the United States,None Of These Candidates,
-Precinct 99,President and Vice President of the United States,"Obama, Barack",
+Precinct 88,President,"Baldwin, Chuck",0
+Precinct 88,President,"Barr, Bob",0
+Precinct 88,President,"McCain, John",4
+Precinct 88,President,"McKinney, Cynthia",0
+Precinct 88,President,"NADER, RALPH",0
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"Obama, Barack",6
+Precinct 99,President,"Baldwin, Chuck",
+Precinct 99,President,"Barr, Bob",
+Precinct 99,President,"McCain, John",
+Precinct 99,President,"McKinney, Cynthia",
+Precinct 99,President,"NADER, RALPH",
+Precinct 99,President,None Of These Candidates,
+Precinct 99,President,"Obama, Barack",
 Precinct 99,"U.S. Representative in Congress, District 2","Bergland, Craig",
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
 Precinct 99,"U.S. Representative in Congress, District 2","Everhart, John",
@@ -1011,13 +1011,13 @@ Silver City,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE) V
 Silver City,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",71
 Silver City,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",35
 Silver City,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",60
-Silver City,President and Vice President of the United States,"Baldwin, Chuck",0
-Silver City,President and Vice President of the United States,"Barr, Bob",3
-Silver City,President and Vice President of the United States,"McCain, John",32
-Silver City,President and Vice President of the United States,"McKinney, Cynthia",0
-Silver City,President and Vice President of the United States,"NADER, RALPH",1
-Silver City,President and Vice President of the United States,None Of These Candidates,0
-Silver City,President and Vice President of the United States,"Obama, Barack",99
+Silver City,President,"Baldwin, Chuck",0
+Silver City,President,"Barr, Bob",3
+Silver City,President,"McCain, John",32
+Silver City,President,"McKinney, Cynthia",0
+Silver City,President,"NADER, RALPH",1
+Silver City,President,None Of These Candidates,0
+Silver City,President,"Obama, Barack",99
 Silver City,"State Assembly, District 38","DALTON, STEVEN J.",75
 Silver City,"State Assembly, District 38","GOMEZ, DENNIS C.",10
 Silver City,"State Assembly, District 38","Grady, Tom",44
@@ -1049,13 +1049,13 @@ Silver Springs 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STE
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",305
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",215
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",294
-Silver Springs 1,President and Vice President of the United States,"Baldwin, Chuck",9
-Silver Springs 1,President and Vice President of the United States,"Barr, Bob",3
-Silver Springs 1,President and Vice President of the United States,"McCain, John",336
-Silver Springs 1,President and Vice President of the United States,"McKinney, Cynthia",0
-Silver Springs 1,President and Vice President of the United States,"NADER, RALPH",6
-Silver Springs 1,President and Vice President of the United States,None Of These Candidates,9
-Silver Springs 1,President and Vice President of the United States,"Obama, Barack",257
+Silver Springs 1,President,"Baldwin, Chuck",9
+Silver Springs 1,President,"Barr, Bob",3
+Silver Springs 1,President,"McCain, John",336
+Silver Springs 1,President,"McKinney, Cynthia",0
+Silver Springs 1,President,"NADER, RALPH",6
+Silver Springs 1,President,None Of These Candidates,9
+Silver Springs 1,President,"Obama, Barack",257
 Silver Springs 1,SILVER SPRINGS/STAGECOACH Hospital Dst,"AVEIRO, VICTORIA L.",360
 Silver Springs 1,SILVER SPRINGS/STAGECOACH Hospital Dst,"BENNETT, KAY",312
 Silver Springs 1,SILVER SPRINGS/STAGECOACH Hospital Dst,"BROWN, BILLY E.",352
@@ -1092,13 +1092,13 @@ Silver Springs 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STE
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",206
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",153
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",212
-Silver Springs 2,President and Vice President of the United States,"Baldwin, Chuck",3
-Silver Springs 2,President and Vice President of the United States,"Barr, Bob",2
-Silver Springs 2,President and Vice President of the United States,"McCain, John",235
-Silver Springs 2,President and Vice President of the United States,"McKinney, Cynthia",2
-Silver Springs 2,President and Vice President of the United States,"NADER, RALPH",1
-Silver Springs 2,President and Vice President of the United States,None Of These Candidates,3
-Silver Springs 2,President and Vice President of the United States,"Obama, Barack",184
+Silver Springs 2,President,"Baldwin, Chuck",3
+Silver Springs 2,President,"Barr, Bob",2
+Silver Springs 2,President,"McCain, John",235
+Silver Springs 2,President,"McKinney, Cynthia",2
+Silver Springs 2,President,"NADER, RALPH",1
+Silver Springs 2,President,None Of These Candidates,3
+Silver Springs 2,President,"Obama, Barack",184
 Silver Springs 2,SILVER SPRINGS/STAGECOACH Hospital Dst,"AVEIRO, VICTORIA L.",256
 Silver Springs 2,SILVER SPRINGS/STAGECOACH Hospital Dst,"BENNETT, KAY",243
 Silver Springs 2,SILVER SPRINGS/STAGECOACH Hospital Dst,"BROWN, BILLY E.",234
@@ -1135,13 +1135,13 @@ Silver Springs 3,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STE
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",275
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",221
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",258
-Silver Springs 3,President and Vice President of the United States,"Baldwin, Chuck",3
-Silver Springs 3,President and Vice President of the United States,"Barr, Bob",3
-Silver Springs 3,President and Vice President of the United States,"McCain, John",338
-Silver Springs 3,President and Vice President of the United States,"McKinney, Cynthia",0
-Silver Springs 3,President and Vice President of the United States,"NADER, RALPH",2
-Silver Springs 3,President and Vice President of the United States,None Of These Candidates,5
-Silver Springs 3,President and Vice President of the United States,"Obama, Barack",249
+Silver Springs 3,President,"Baldwin, Chuck",3
+Silver Springs 3,President,"Barr, Bob",3
+Silver Springs 3,President,"McCain, John",338
+Silver Springs 3,President,"McKinney, Cynthia",0
+Silver Springs 3,President,"NADER, RALPH",2
+Silver Springs 3,President,None Of These Candidates,5
+Silver Springs 3,President,"Obama, Barack",249
 Silver Springs 3,SILVER SPRINGS/STAGECOACH Hospital Dst,"AVEIRO, VICTORIA L.",329
 Silver Springs 3,SILVER SPRINGS/STAGECOACH Hospital Dst,"BENNETT, KAY",323
 Silver Springs 3,SILVER SPRINGS/STAGECOACH Hospital Dst,"BROWN, BILLY E.",315
@@ -1178,13 +1178,13 @@ Silver Springs 4,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STE
 Silver Springs 4,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",188
 Silver Springs 4,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",132
 Silver Springs 4,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",184
-Silver Springs 4,President and Vice President of the United States,"Baldwin, Chuck",0
-Silver Springs 4,President and Vice President of the United States,"Barr, Bob",1
-Silver Springs 4,President and Vice President of the United States,"McCain, John",221
-Silver Springs 4,President and Vice President of the United States,"McKinney, Cynthia",3
-Silver Springs 4,President and Vice President of the United States,"NADER, RALPH",1
-Silver Springs 4,President and Vice President of the United States,None Of These Candidates,3
-Silver Springs 4,President and Vice President of the United States,"Obama, Barack",165
+Silver Springs 4,President,"Baldwin, Chuck",0
+Silver Springs 4,President,"Barr, Bob",1
+Silver Springs 4,President,"McCain, John",221
+Silver Springs 4,President,"McKinney, Cynthia",3
+Silver Springs 4,President,"NADER, RALPH",1
+Silver Springs 4,President,None Of These Candidates,3
+Silver Springs 4,President,"Obama, Barack",165
 Silver Springs 4,SILVER SPRINGS/STAGECOACH Hospital Dst,"AVEIRO, VICTORIA L.",210
 Silver Springs 4,SILVER SPRINGS/STAGECOACH Hospital Dst,"BENNETT, KAY",212
 Silver Springs 4,SILVER SPRINGS/STAGECOACH Hospital Dst,"BROWN, BILLY E.",209
@@ -1221,13 +1221,13 @@ Smith Valley 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",329
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",438
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",265
-Smith Valley 1,President and Vice President of the United States,"Baldwin, Chuck",5
-Smith Valley 1,President and Vice President of the United States,"Barr, Bob",10
-Smith Valley 1,President and Vice President of the United States,"McCain, John",613
-Smith Valley 1,President and Vice President of the United States,"McKinney, Cynthia",1
-Smith Valley 1,President and Vice President of the United States,"NADER, RALPH",1
-Smith Valley 1,President and Vice President of the United States,None Of These Candidates,3
-Smith Valley 1,President and Vice President of the United States,"Obama, Barack",214
+Smith Valley 1,President,"Baldwin, Chuck",5
+Smith Valley 1,President,"Barr, Bob",10
+Smith Valley 1,President,"McCain, John",613
+Smith Valley 1,President,"McKinney, Cynthia",1
+Smith Valley 1,President,"NADER, RALPH",1
+Smith Valley 1,President,None Of These Candidates,3
+Smith Valley 1,President,"Obama, Barack",214
 Smith Valley 1,"State Assembly, District 38","DALTON, STEVEN J.",124
 Smith Valley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",36
 Smith Valley 1,"State Assembly, District 38","Grady, Tom",652
@@ -1260,13 +1260,13 @@ Smith Valley 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",136
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",181
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",84
-Smith Valley 2,President and Vice President of the United States,"Baldwin, Chuck",3
-Smith Valley 2,President and Vice President of the United States,"Barr, Bob",1
-Smith Valley 2,President and Vice President of the United States,"McCain, John",225
-Smith Valley 2,President and Vice President of the United States,"McKinney, Cynthia",0
-Smith Valley 2,President and Vice President of the United States,"NADER, RALPH",2
-Smith Valley 2,President and Vice President of the United States,None Of These Candidates,2
-Smith Valley 2,President and Vice President of the United States,"Obama, Barack",65
+Smith Valley 2,President,"Baldwin, Chuck",3
+Smith Valley 2,President,"Barr, Bob",1
+Smith Valley 2,President,"McCain, John",225
+Smith Valley 2,President,"McKinney, Cynthia",0
+Smith Valley 2,President,"NADER, RALPH",2
+Smith Valley 2,President,None Of These Candidates,2
+Smith Valley 2,President,"Obama, Barack",65
 Smith Valley 2,"State Assembly, District 38","DALTON, STEVEN J.",39
 Smith Valley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",14
 Smith Valley 2,"State Assembly, District 38","Grady, Tom",235
@@ -1299,13 +1299,13 @@ South Dayton 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 South Dayton 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",279
 South Dayton 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",221
 South Dayton 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",262
-South Dayton 1,President and Vice President of the United States,"Baldwin, Chuck",3
-South Dayton 1,President and Vice President of the United States,"Barr, Bob",3
-South Dayton 1,President and Vice President of the United States,"McCain, John",363
-South Dayton 1,President and Vice President of the United States,"McKinney, Cynthia",0
-South Dayton 1,President and Vice President of the United States,"NADER, RALPH",2
-South Dayton 1,President and Vice President of the United States,None Of These Candidates,0
-South Dayton 1,President and Vice President of the United States,"Obama, Barack",262
+South Dayton 1,President,"Baldwin, Chuck",3
+South Dayton 1,President,"Barr, Bob",3
+South Dayton 1,President,"McCain, John",363
+South Dayton 1,President,"McKinney, Cynthia",0
+South Dayton 1,President,"NADER, RALPH",2
+South Dayton 1,President,None Of These Candidates,0
+South Dayton 1,President,"Obama, Barack",262
 South Dayton 1,"State Assembly, District 38","DALTON, STEVEN J.",204
 South Dayton 1,"State Assembly, District 38","GOMEZ, DENNIS C.",39
 South Dayton 1,"State Assembly, District 38","Grady, Tom",350
@@ -1337,13 +1337,13 @@ South Dayton 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 South Dayton 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",81
 South Dayton 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",56
 South Dayton 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",83
-South Dayton 2,President and Vice President of the United States,"Baldwin, Chuck",1
-South Dayton 2,President and Vice President of the United States,"Barr, Bob",2
-South Dayton 2,President and Vice President of the United States,"McCain, John",101
-South Dayton 2,President and Vice President of the United States,"McKinney, Cynthia",1
-South Dayton 2,President and Vice President of the United States,"NADER, RALPH",0
-South Dayton 2,President and Vice President of the United States,None Of These Candidates,1
-South Dayton 2,President and Vice President of the United States,"Obama, Barack",85
+South Dayton 2,President,"Baldwin, Chuck",1
+South Dayton 2,President,"Barr, Bob",2
+South Dayton 2,President,"McCain, John",101
+South Dayton 2,President,"McKinney, Cynthia",1
+South Dayton 2,President,"NADER, RALPH",0
+South Dayton 2,President,None Of These Candidates,1
+South Dayton 2,President,"Obama, Barack",85
 South Dayton 2,"State Assembly, District 38","DALTON, STEVEN J.",69
 South Dayton 2,"State Assembly, District 38","GOMEZ, DENNIS C.",7
 South Dayton 2,"State Assembly, District 38","Grady, Tom",106
@@ -1375,13 +1375,13 @@ South Dayton 3,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 South Dayton 3,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",306
 South Dayton 3,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",201
 South Dayton 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",319
-South Dayton 3,President and Vice President of the United States,"Baldwin, Chuck",5
-South Dayton 3,President and Vice President of the United States,"Barr, Bob",3
-South Dayton 3,President and Vice President of the United States,"McCain, John",408
-South Dayton 3,President and Vice President of the United States,"McKinney, Cynthia",2
-South Dayton 3,President and Vice President of the United States,"NADER, RALPH",3
-South Dayton 3,President and Vice President of the United States,None Of These Candidates,6
-South Dayton 3,President and Vice President of the United States,"Obama, Barack",300
+South Dayton 3,President,"Baldwin, Chuck",5
+South Dayton 3,President,"Barr, Bob",3
+South Dayton 3,President,"McCain, John",408
+South Dayton 3,President,"McKinney, Cynthia",2
+South Dayton 3,President,"NADER, RALPH",3
+South Dayton 3,President,None Of These Candidates,6
+South Dayton 3,President,"Obama, Barack",300
 South Dayton 3,"State Assembly, District 38","DALTON, STEVEN J.",251
 South Dayton 3,"State Assembly, District 38","GOMEZ, DENNIS C.",47
 South Dayton 3,"State Assembly, District 38","Grady, Tom",397
@@ -1413,13 +1413,13 @@ South Dayton 4,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 South Dayton 4,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",156
 South Dayton 4,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",122
 South Dayton 4,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",161
-South Dayton 4,President and Vice President of the United States,"Baldwin, Chuck",2
-South Dayton 4,President and Vice President of the United States,"Barr, Bob",0
-South Dayton 4,President and Vice President of the United States,"McCain, John",209
-South Dayton 4,President and Vice President of the United States,"McKinney, Cynthia",0
-South Dayton 4,President and Vice President of the United States,"NADER, RALPH",4
-South Dayton 4,President and Vice President of the United States,None Of These Candidates,0
-South Dayton 4,President and Vice President of the United States,"Obama, Barack",138
+South Dayton 4,President,"Baldwin, Chuck",2
+South Dayton 4,President,"Barr, Bob",0
+South Dayton 4,President,"McCain, John",209
+South Dayton 4,President,"McKinney, Cynthia",0
+South Dayton 4,President,"NADER, RALPH",4
+South Dayton 4,President,None Of These Candidates,0
+South Dayton 4,President,"Obama, Barack",138
 South Dayton 4,"State Assembly, District 38","DALTON, STEVEN J.",114
 South Dayton 4,"State Assembly, District 38","GOMEZ, DENNIS C.",21
 South Dayton 4,"State Assembly, District 38","Grady, Tom",202
@@ -1451,13 +1451,13 @@ Spragg-Plummer,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",277
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",368
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",151
-Spragg-Plummer,President and Vice President of the United States,"Baldwin, Chuck",1
-Spragg-Plummer,President and Vice President of the United States,"Barr, Bob",7
-Spragg-Plummer,President and Vice President of the United States,"McCain, John",385
-Spragg-Plummer,President and Vice President of the United States,"McKinney, Cynthia",1
-Spragg-Plummer,President and Vice President of the United States,"NADER, RALPH",5
-Spragg-Plummer,President and Vice President of the United States,None Of These Candidates,4
-Spragg-Plummer,President and Vice President of the United States,"Obama, Barack",184
+Spragg-Plummer,President,"Baldwin, Chuck",1
+Spragg-Plummer,President,"Barr, Bob",7
+Spragg-Plummer,President,"McCain, John",385
+Spragg-Plummer,President,"McKinney, Cynthia",1
+Spragg-Plummer,President,"NADER, RALPH",5
+Spragg-Plummer,President,None Of These Candidates,4
+Spragg-Plummer,President,"Obama, Barack",184
 Spragg-Plummer,"State Assembly, District 38","DALTON, STEVEN J.",128
 Spragg-Plummer,"State Assembly, District 38","GOMEZ, DENNIS C.",28
 Spragg-Plummer,"State Assembly, District 38","Grady, Tom",409
@@ -1490,13 +1490,13 @@ Stagecoach 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE) 
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",375
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",237
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",419
-Stagecoach 1,President and Vice President of the United States,"Baldwin, Chuck",2
-Stagecoach 1,President and Vice President of the United States,"Barr, Bob",3
-Stagecoach 1,President and Vice President of the United States,"McCain, John",441
-Stagecoach 1,President and Vice President of the United States,"McKinney, Cynthia",3
-Stagecoach 1,President and Vice President of the United States,"NADER, RALPH",6
-Stagecoach 1,President and Vice President of the United States,None Of These Candidates,8
-Stagecoach 1,President and Vice President of the United States,"Obama, Barack",341
+Stagecoach 1,President,"Baldwin, Chuck",2
+Stagecoach 1,President,"Barr, Bob",3
+Stagecoach 1,President,"McCain, John",441
+Stagecoach 1,President,"McKinney, Cynthia",3
+Stagecoach 1,President,"NADER, RALPH",6
+Stagecoach 1,President,None Of These Candidates,8
+Stagecoach 1,President,"Obama, Barack",341
 Stagecoach 1,SILVER SPRINGS/STAGECOACH Hospital Dst,"AVEIRO, VICTORIA L.",425
 Stagecoach 1,SILVER SPRINGS/STAGECOACH Hospital Dst,"BENNETT, KAY",445
 Stagecoach 1,SILVER SPRINGS/STAGECOACH Hospital Dst,"BROWN, BILLY E.",401
@@ -1538,13 +1538,13 @@ Stagecoach 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (STEVE) 
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",135
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",93
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",143
-Stagecoach 2,President and Vice President of the United States,"Baldwin, Chuck",0
-Stagecoach 2,President and Vice President of the United States,"Barr, Bob",0
-Stagecoach 2,President and Vice President of the United States,"McCain, John",168
-Stagecoach 2,President and Vice President of the United States,"McKinney, Cynthia",0
-Stagecoach 2,President and Vice President of the United States,"NADER, RALPH",2
-Stagecoach 2,President and Vice President of the United States,None Of These Candidates,3
-Stagecoach 2,President and Vice President of the United States,"Obama, Barack",98
+Stagecoach 2,President,"Baldwin, Chuck",0
+Stagecoach 2,President,"Barr, Bob",0
+Stagecoach 2,President,"McCain, John",168
+Stagecoach 2,President,"McKinney, Cynthia",0
+Stagecoach 2,President,"NADER, RALPH",2
+Stagecoach 2,President,None Of These Candidates,3
+Stagecoach 2,President,"Obama, Barack",98
 Stagecoach 2,SILVER SPRINGS/STAGECOACH Hospital Dst,"AVEIRO, VICTORIA L.",148
 Stagecoach 2,SILVER SPRINGS/STAGECOACH Hospital Dst,"BENNETT, KAY",171
 Stagecoach 2,SILVER SPRINGS/STAGECOACH Hospital Dst,"BROWN, BILLY E.",157
@@ -1586,13 +1586,13 @@ West Mason Valley 1,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",364
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",444
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",171
-West Mason Valley 1,President and Vice President of the United States,"Baldwin, Chuck",3
-West Mason Valley 1,President and Vice President of the United States,"Barr, Bob",1
-West Mason Valley 1,President and Vice President of the United States,"McCain, John",421
-West Mason Valley 1,President and Vice President of the United States,"McKinney, Cynthia",0
-West Mason Valley 1,President and Vice President of the United States,"NADER, RALPH",4
-West Mason Valley 1,President and Vice President of the United States,None Of These Candidates,8
-West Mason Valley 1,President and Vice President of the United States,"Obama, Barack",246
+West Mason Valley 1,President,"Baldwin, Chuck",3
+West Mason Valley 1,President,"Barr, Bob",1
+West Mason Valley 1,President,"McCain, John",421
+West Mason Valley 1,President,"McKinney, Cynthia",0
+West Mason Valley 1,President,"NADER, RALPH",4
+West Mason Valley 1,President,None Of These Candidates,8
+West Mason Valley 1,President,"Obama, Barack",246
 West Mason Valley 1,"State Assembly, District 38","DALTON, STEVEN J.",141
 West Mason Valley 1,"State Assembly, District 38","GOMEZ, DENNIS C.",29
 West Mason Valley 1,"State Assembly, District 38","Grady, Tom",489
@@ -1624,13 +1624,13 @@ West Mason Valley 2,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",250
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",296
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",151
-West Mason Valley 2,President and Vice President of the United States,"Baldwin, Chuck",2
-West Mason Valley 2,President and Vice President of the United States,"Barr, Bob",2
-West Mason Valley 2,President and Vice President of the United States,"McCain, John",310
-West Mason Valley 2,President and Vice President of the United States,"McKinney, Cynthia",0
-West Mason Valley 2,President and Vice President of the United States,"NADER, RALPH",1
-West Mason Valley 2,President and Vice President of the United States,None Of These Candidates,8
-West Mason Valley 2,President and Vice President of the United States,"Obama, Barack",183
+West Mason Valley 2,President,"Baldwin, Chuck",2
+West Mason Valley 2,President,"Barr, Bob",2
+West Mason Valley 2,President,"McCain, John",310
+West Mason Valley 2,President,"McKinney, Cynthia",0
+West Mason Valley 2,President,"NADER, RALPH",1
+West Mason Valley 2,President,None Of These Candidates,8
+West Mason Valley 2,President,"Obama, Barack",183
 West Mason Valley 2,"State Assembly, District 38","DALTON, STEVEN J.",140
 West Mason Valley 2,"State Assembly, District 38","GOMEZ, DENNIS C.",26
 West Mason Valley 2,"State Assembly, District 38","Grady, Tom",324
@@ -1662,13 +1662,13 @@ West Mason Valley 3,LYON COUNTY School Dist Trustee Dist III,"RHOADES, STEPHEN (
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist III,"STEVENS, JOHN M.",234
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist V,"BOBRICK, ERIC T.",274
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist V,"WILLISS, MAUREEN",150
-West Mason Valley 3,President and Vice President of the United States,"Baldwin, Chuck",1
-West Mason Valley 3,President and Vice President of the United States,"Barr, Bob",3
-West Mason Valley 3,President and Vice President of the United States,"McCain, John",281
-West Mason Valley 3,President and Vice President of the United States,"McKinney, Cynthia",1
-West Mason Valley 3,President and Vice President of the United States,"NADER, RALPH",5
-West Mason Valley 3,President and Vice President of the United States,None Of These Candidates,2
-West Mason Valley 3,President and Vice President of the United States,"Obama, Barack",184
+West Mason Valley 3,President,"Baldwin, Chuck",1
+West Mason Valley 3,President,"Barr, Bob",3
+West Mason Valley 3,President,"McCain, John",281
+West Mason Valley 3,President,"McKinney, Cynthia",1
+West Mason Valley 3,President,"NADER, RALPH",5
+West Mason Valley 3,President,None Of These Candidates,2
+West Mason Valley 3,President,"Obama, Barack",184
 West Mason Valley 3,"State Assembly, District 38","DALTON, STEVEN J.",140
 West Mason Valley 3,"State Assembly, District 38","GOMEZ, DENNIS C.",20
 West Mason Valley 3,"State Assembly, District 38","Grady, Tom",296

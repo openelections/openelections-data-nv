@@ -7,11 +7,11 @@ Precinct 1,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",257
 Precinct 1,County Commissioner Seat 4,"PEREA, GARY",201
 Precinct 1,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",269
 Precinct 1,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",189
-Precinct 1,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 1,President and Vice President of the United States,"JOHNSON, GARY",6
-Precinct 1,President and Vice President of the United States,None Of These Candidates,6
-Precinct 1,President and Vice President of the United States,"Obama, Barack",133
-Precinct 1,President and Vice President of the United States,"Romney, Mitt",320
+Precinct 1,President,"GOODE, VIRGIL",5
+Precinct 1,President,"JOHNSON, GARY",6
+Precinct 1,President,None Of These Candidates,6
+Precinct 1,President,"Obama, Barack",133
+Precinct 1,President,"Romney, Mitt",320
 Precinct 1,School Board Trustee Seat D,"KERNER, MARY ANGELINE",281
 Precinct 1,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",150
 Precinct 1,"State Assembly, District 33","Ellison, John",386
@@ -28,10 +28,10 @@ Precinct 1,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",23
 Precinct 1,"U.S. Representative in Congress, District 4","Horsford, Steven A.",128
 Precinct 1,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",8
 Precinct 1,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",307
-Precinct 1,United States Senator,"Berkley, Shelley",109
-Precinct 1,United States Senator,"Heller, Dean",324
-Precinct 1,United States Senator,None Of These Candidates,10
-Precinct 1,United States Senator,"VANDERBEEK, DAVID LORY",25
+Precinct 1,U.S. Senate,"Berkley, Shelley",109
+Precinct 1,U.S. Senate,"Heller, Dean",324
+Precinct 1,U.S. Senate,None Of These Candidates,10
+Precinct 1,U.S. Senate,"VANDERBEEK, DAVID LORY",25
 Precinct 1,WHITE PINE TV District #1 SEAT A,"COX, WYATT",195
 Precinct 1,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",252
 Precinct 10,County Commissioner Seat 2,"CARNEY, RICHARD L.",43
@@ -42,11 +42,11 @@ Precinct 10,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",99
 Precinct 10,County Commissioner Seat 4,"PEREA, GARY",59
 Precinct 10,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",80
 Precinct 10,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",68
-Precinct 10,President and Vice President of the United States,"GOODE, VIRGIL",3
-Precinct 10,President and Vice President of the United States,"JOHNSON, GARY",3
-Precinct 10,President and Vice President of the United States,None Of These Candidates,2
-Precinct 10,President and Vice President of the United States,"Obama, Barack",27
-Precinct 10,President and Vice President of the United States,"Romney, Mitt",130
+Precinct 10,President,"GOODE, VIRGIL",3
+Precinct 10,President,"JOHNSON, GARY",3
+Precinct 10,President,None Of These Candidates,2
+Precinct 10,President,"Obama, Barack",27
+Precinct 10,President,"Romney, Mitt",130
 Precinct 10,School Board Trustee Seat D,"KERNER, MARY ANGELINE",81
 Precinct 10,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",56
 Precinct 10,"State Assembly, District 33","Ellison, John",136
@@ -63,10 +63,10 @@ Precinct 10,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",7
 Precinct 10,"U.S. Representative in Congress, District 4","Horsford, Steven A.",24
 Precinct 10,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",4
 Precinct 10,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",128
-Precinct 10,United States Senator,"Berkley, Shelley",23
-Precinct 10,United States Senator,"Heller, Dean",138
-Precinct 10,United States Senator,None Of These Candidates,3
-Precinct 10,United States Senator,"VANDERBEEK, DAVID LORY",2
+Precinct 10,U.S. Senate,"Berkley, Shelley",23
+Precinct 10,U.S. Senate,"Heller, Dean",138
+Precinct 10,U.S. Senate,None Of These Candidates,3
+Precinct 10,U.S. Senate,"VANDERBEEK, DAVID LORY",2
 Precinct 10,WHITE PINE TV District #1 SEAT A,"COX, WYATT",72
 Precinct 10,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",64
 Precinct 2,County Commissioner Seat 2,"CARNEY, RICHARD L.",173
@@ -77,11 +77,11 @@ Precinct 2,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",160
 Precinct 2,County Commissioner Seat 4,"PEREA, GARY",169
 Precinct 2,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",185
 Precinct 2,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",135
-Precinct 2,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 2,President and Vice President of the United States,"JOHNSON, GARY",2
-Precinct 2,President and Vice President of the United States,None Of These Candidates,2
-Precinct 2,President and Vice President of the United States,"Obama, Barack",117
-Precinct 2,President and Vice President of the United States,"Romney, Mitt",211
+Precinct 2,President,"GOODE, VIRGIL",5
+Precinct 2,President,"JOHNSON, GARY",2
+Precinct 2,President,None Of These Candidates,2
+Precinct 2,President,"Obama, Barack",117
+Precinct 2,President,"Romney, Mitt",211
 Precinct 2,School Board Trustee Seat D,"KERNER, MARY ANGELINE",192
 Precinct 2,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",116
 Precinct 2,"State Assembly, District 33","Ellison, John",254
@@ -98,10 +98,10 @@ Precinct 2,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",18
 Precinct 2,"U.S. Representative in Congress, District 4","Horsford, Steven A.",101
 Precinct 2,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",16
 Precinct 2,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",197
-Precinct 2,United States Senator,"Berkley, Shelley",102
-Precinct 2,United States Senator,"Heller, Dean",206
-Precinct 2,United States Senator,None Of These Candidates,8
-Precinct 2,United States Senator,"VANDERBEEK, DAVID LORY",20
+Precinct 2,U.S. Senate,"Berkley, Shelley",102
+Precinct 2,U.S. Senate,"Heller, Dean",206
+Precinct 2,U.S. Senate,None Of These Candidates,8
+Precinct 2,U.S. Senate,"VANDERBEEK, DAVID LORY",20
 Precinct 2,WHITE PINE TV District #1 SEAT A,"COX, WYATT",149
 Precinct 2,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",166
 Precinct 3,County Commissioner Seat 2,"CARNEY, RICHARD L.",248
@@ -112,11 +112,11 @@ Precinct 3,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",227
 Precinct 3,County Commissioner Seat 4,"PEREA, GARY",204
 Precinct 3,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",204
 Precinct 3,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",220
-Precinct 3,President and Vice President of the United States,"GOODE, VIRGIL",6
-Precinct 3,President and Vice President of the United States,"JOHNSON, GARY",6
-Precinct 3,President and Vice President of the United States,None Of These Candidates,4
-Precinct 3,President and Vice President of the United States,"Obama, Barack",156
-Precinct 3,President and Vice President of the United States,"Romney, Mitt",271
+Precinct 3,President,"GOODE, VIRGIL",6
+Precinct 3,President,"JOHNSON, GARY",6
+Precinct 3,President,None Of These Candidates,4
+Precinct 3,President,"Obama, Barack",156
+Precinct 3,President,"Romney, Mitt",271
 Precinct 3,School Board Trustee Seat D,"KERNER, MARY ANGELINE",239
 Precinct 3,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",156
 Precinct 3,"State Assembly, District 33","Ellison, John",355
@@ -133,10 +133,10 @@ Precinct 3,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",21
 Precinct 3,"U.S. Representative in Congress, District 4","Horsford, Steven A.",125
 Precinct 3,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",22
 Precinct 3,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",268
-Precinct 3,United States Senator,"Berkley, Shelley",109
-Precinct 3,United States Senator,"Heller, Dean",284
-Precinct 3,United States Senator,None Of These Candidates,20
-Precinct 3,United States Senator,"VANDERBEEK, DAVID LORY",24
+Precinct 3,U.S. Senate,"Berkley, Shelley",109
+Precinct 3,U.S. Senate,"Heller, Dean",284
+Precinct 3,U.S. Senate,None Of These Candidates,20
+Precinct 3,U.S. Senate,"VANDERBEEK, DAVID LORY",24
 Precinct 3,WHITE PINE TV District #1 SEAT A,"COX, WYATT",172
 Precinct 3,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",239
 Precinct 4,County Commissioner Seat 2,"CARNEY, RICHARD L.",250
@@ -147,11 +147,11 @@ Precinct 4,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",250
 Precinct 4,County Commissioner Seat 4,"PEREA, GARY",192
 Precinct 4,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",241
 Precinct 4,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",193
-Precinct 4,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 4,President and Vice President of the United States,"JOHNSON, GARY",6
-Precinct 4,President and Vice President of the United States,None Of These Candidates,5
-Precinct 4,President and Vice President of the United States,"Obama, Barack",124
-Precinct 4,President and Vice President of the United States,"Romney, Mitt",315
+Precinct 4,President,"GOODE, VIRGIL",2
+Precinct 4,President,"JOHNSON, GARY",6
+Precinct 4,President,None Of These Candidates,5
+Precinct 4,President,"Obama, Barack",124
+Precinct 4,President,"Romney, Mitt",315
 Precinct 4,School Board Trustee Seat D,"KERNER, MARY ANGELINE",275
 Precinct 4,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",140
 Precinct 4,"State Assembly, District 33","Ellison, John",359
@@ -168,10 +168,10 @@ Precinct 4,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",18
 Precinct 4,"U.S. Representative in Congress, District 4","Horsford, Steven A.",108
 Precinct 4,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",9
 Precinct 4,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",308
-Precinct 4,United States Senator,"Berkley, Shelley",105
-Precinct 4,United States Senator,"Heller, Dean",311
-Precinct 4,United States Senator,None Of These Candidates,11
-Precinct 4,United States Senator,"VANDERBEEK, DAVID LORY",23
+Precinct 4,U.S. Senate,"Berkley, Shelley",105
+Precinct 4,U.S. Senate,"Heller, Dean",311
+Precinct 4,U.S. Senate,None Of These Candidates,11
+Precinct 4,U.S. Senate,"VANDERBEEK, DAVID LORY",23
 Precinct 4,WHITE PINE TV District #1 SEAT A,"COX, WYATT",177
 Precinct 4,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",246
 Precinct 5,County Commissioner Seat 2,"CARNEY, RICHARD L.",372
@@ -182,11 +182,11 @@ Precinct 5,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",466
 Precinct 5,County Commissioner Seat 4,"PEREA, GARY",352
 Precinct 5,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",410
 Precinct 5,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",385
-Precinct 5,President and Vice President of the United States,"GOODE, VIRGIL",8
-Precinct 5,President and Vice President of the United States,"JOHNSON, GARY",6
-Precinct 5,President and Vice President of the United States,None Of These Candidates,3
-Precinct 5,President and Vice President of the United States,"Obama, Barack",179
-Precinct 5,President and Vice President of the United States,"Romney, Mitt",639
+Precinct 5,President,"GOODE, VIRGIL",8
+Precinct 5,President,"JOHNSON, GARY",6
+Precinct 5,President,None Of These Candidates,3
+Precinct 5,President,"Obama, Barack",179
+Precinct 5,President,"Romney, Mitt",639
 Precinct 5,School Board Trustee Seat D,"KERNER, MARY ANGELINE",495
 Precinct 5,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",279
 Precinct 5,"State Assembly, District 33","Ellison, John",720
@@ -203,10 +203,10 @@ Precinct 5,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",45
 Precinct 5,"U.S. Representative in Congress, District 4","Horsford, Steven A.",169
 Precinct 5,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",18
 Precinct 5,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",590
-Precinct 5,United States Senator,"Berkley, Shelley",153
-Precinct 5,United States Senator,"Heller, Dean",621
-Precinct 5,United States Senator,None Of These Candidates,23
-Precinct 5,United States Senator,"VANDERBEEK, DAVID LORY",35
+Precinct 5,U.S. Senate,"Berkley, Shelley",153
+Precinct 5,U.S. Senate,"Heller, Dean",621
+Precinct 5,U.S. Senate,None Of These Candidates,23
+Precinct 5,U.S. Senate,"VANDERBEEK, DAVID LORY",35
 Precinct 5,WHITE PINE TV District #1 SEAT A,"COX, WYATT",352
 Precinct 5,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",406
 Precinct 6,County Commissioner Seat 2,"CARNEY, RICHARD L.",221
@@ -217,11 +217,11 @@ Precinct 6,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",290
 Precinct 6,County Commissioner Seat 4,"PEREA, GARY",193
 Precinct 6,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",247
 Precinct 6,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",231
-Precinct 6,President and Vice President of the United States,"GOODE, VIRGIL",6
-Precinct 6,President and Vice President of the United States,"JOHNSON, GARY",6
-Precinct 6,President and Vice President of the United States,None Of These Candidates,13
-Precinct 6,President and Vice President of the United States,"Obama, Barack",137
-Precinct 6,President and Vice President of the United States,"Romney, Mitt",339
+Precinct 6,President,"GOODE, VIRGIL",6
+Precinct 6,President,"JOHNSON, GARY",6
+Precinct 6,President,None Of These Candidates,13
+Precinct 6,President,"Obama, Barack",137
+Precinct 6,President,"Romney, Mitt",339
 Precinct 6,School Board Trustee Seat D,"KERNER, MARY ANGELINE",276
 Precinct 6,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",178
 Precinct 6,"State Assembly, District 33","Ellison, John",394
@@ -238,10 +238,10 @@ Precinct 6,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",31
 Precinct 6,"U.S. Representative in Congress, District 4","Horsford, Steven A.",127
 Precinct 6,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",10
 Precinct 6,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",316
-Precinct 6,United States Senator,"Berkley, Shelley",125
-Precinct 6,United States Senator,"Heller, Dean",324
-Precinct 6,United States Senator,None Of These Candidates,22
-Precinct 6,United States Senator,"VANDERBEEK, DAVID LORY",28
+Precinct 6,U.S. Senate,"Berkley, Shelley",125
+Precinct 6,U.S. Senate,"Heller, Dean",324
+Precinct 6,U.S. Senate,None Of These Candidates,22
+Precinct 6,U.S. Senate,"VANDERBEEK, DAVID LORY",28
 Precinct 6,WHITE PINE TV District #1 SEAT A,"COX, WYATT",223
 Precinct 6,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",237
 Precinct 7,County Commissioner Seat 2,"CARNEY, RICHARD L.",66
@@ -252,11 +252,11 @@ Precinct 7,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",97
 Precinct 7,County Commissioner Seat 4,"PEREA, GARY",47
 Precinct 7,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",71
 Precinct 7,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",73
-Precinct 7,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 7,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 7,President and Vice President of the United States,None Of These Candidates,4
-Precinct 7,President and Vice President of the United States,"Obama, Barack",44
-Precinct 7,President and Vice President of the United States,"Romney, Mitt",99
+Precinct 7,President,"GOODE, VIRGIL",2
+Precinct 7,President,"JOHNSON, GARY",0
+Precinct 7,President,None Of These Candidates,4
+Precinct 7,President,"Obama, Barack",44
+Precinct 7,President,"Romney, Mitt",99
 Precinct 7,School Board Trustee Seat D,"KERNER, MARY ANGELINE",84
 Precinct 7,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",48
 Precinct 7,"State Assembly, District 33","Ellison, John",115
@@ -273,10 +273,10 @@ Precinct 7,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",11
 Precinct 7,"U.S. Representative in Congress, District 4","Horsford, Steven A.",42
 Precinct 7,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",4
 Precinct 7,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",90
-Precinct 7,United States Senator,"Berkley, Shelley",37
-Precinct 7,United States Senator,"Heller, Dean",98
-Precinct 7,United States Senator,None Of These Candidates,5
-Precinct 7,United States Senator,"VANDERBEEK, DAVID LORY",9
+Precinct 7,U.S. Senate,"Berkley, Shelley",37
+Precinct 7,U.S. Senate,"Heller, Dean",98
+Precinct 7,U.S. Senate,None Of These Candidates,5
+Precinct 7,U.S. Senate,"VANDERBEEK, DAVID LORY",9
 Precinct 7,WHITE PINE TV District #1 SEAT A,"COX, WYATT",61
 Precinct 7,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",70
 Precinct 8,County Commissioner Seat 2,"CARNEY, RICHARD L.",61
@@ -287,11 +287,11 @@ Precinct 8,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",118
 Precinct 8,County Commissioner Seat 4,"PEREA, GARY",123
 Precinct 8,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",118
 Precinct 8,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",126
-Precinct 8,President and Vice President of the United States,"GOODE, VIRGIL",3
-Precinct 8,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 8,President and Vice President of the United States,None Of These Candidates,1
-Precinct 8,President and Vice President of the United States,"Obama, Barack",20
-Precinct 8,President and Vice President of the United States,"Romney, Mitt",229
+Precinct 8,President,"GOODE, VIRGIL",3
+Precinct 8,President,"JOHNSON, GARY",0
+Precinct 8,President,None Of These Candidates,1
+Precinct 8,President,"Obama, Barack",20
+Precinct 8,President,"Romney, Mitt",229
 Precinct 8,School Board Trustee Seat D,"KERNER, MARY ANGELINE",109
 Precinct 8,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",113
 Precinct 8,"State Assembly, District 33","Ellison, John",223
@@ -308,17 +308,17 @@ Precinct 8,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",19
 Precinct 8,"U.S. Representative in Congress, District 4","Horsford, Steven A.",15
 Precinct 8,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",2
 Precinct 8,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",213
-Precinct 8,United States Senator,"Berkley, Shelley",18
-Precinct 8,United States Senator,"Heller, Dean",211
-Precinct 8,United States Senator,None Of These Candidates,8
-Precinct 8,United States Senator,"VANDERBEEK, DAVID LORY",14
+Precinct 8,U.S. Senate,"Berkley, Shelley",18
+Precinct 8,U.S. Senate,"Heller, Dean",211
+Precinct 8,U.S. Senate,None Of These Candidates,8
+Precinct 8,U.S. Senate,"VANDERBEEK, DAVID LORY",14
 Precinct 8,WHITE PINE TV District #1 SEAT A,"COX, WYATT",116
 Precinct 8,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",103
-Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"Obama, Barack",0
-Precinct 88,President and Vice President of the United States,"Romney, Mitt",0
+Precinct 88,President,"GOODE, VIRGIL",0
+Precinct 88,President,"JOHNSON, GARY",0
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"Obama, Barack",0
+Precinct 88,President,"Romney, Mitt",0
 Precinct 9,County Commissioner Seat 2,"CARNEY, RICHARD L.",36
 Precinct 9,County Commissioner Seat 2,"COSTER, MIKE",58
 Precinct 9,County Commissioner Seat 3,"CARSON, LAURIE L.",71
@@ -327,11 +327,11 @@ Precinct 9,County Commissioner Seat 4,"HOWE, RICHARD DENNIS",26
 Precinct 9,County Commissioner Seat 4,"PEREA, GARY",73
 Precinct 9,ELY Justice of the Peace 6YR,"BISHOP, STEPHEN J.",68
 Precinct 9,ELY Justice of the Peace 6YR,"HIBBS, MATTHEW ""MATT""",17
-Precinct 9,President and Vice President of the United States,"GOODE, VIRGIL",1
-Precinct 9,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 9,President and Vice President of the United States,None Of These Candidates,3
-Precinct 9,President and Vice President of the United States,"Obama, Barack",46
-Precinct 9,President and Vice President of the United States,"Romney, Mitt",48
+Precinct 9,President,"GOODE, VIRGIL",1
+Precinct 9,President,"JOHNSON, GARY",1
+Precinct 9,President,None Of These Candidates,3
+Precinct 9,President,"Obama, Barack",46
+Precinct 9,President,"Romney, Mitt",48
 Precinct 9,School Board Trustee Seat D,"KERNER, MARY ANGELINE",61
 Precinct 9,School Board Trustee Seat D,"SORENSEN, AUSTIN L.",20
 Precinct 9,"State Assembly, District 33","Ellison, John",64
@@ -348,22 +348,22 @@ Precinct 9,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",3
 Precinct 9,"U.S. Representative in Congress, District 4","Horsford, Steven A.",42
 Precinct 9,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",5
 Precinct 9,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",48
-Precinct 9,United States Senator,"Berkley, Shelley",45
-Precinct 9,United States Senator,"Heller, Dean",50
-Precinct 9,United States Senator,None Of These Candidates,0
-Precinct 9,United States Senator,"VANDERBEEK, DAVID LORY",5
+Precinct 9,U.S. Senate,"Berkley, Shelley",45
+Precinct 9,U.S. Senate,"Heller, Dean",50
+Precinct 9,U.S. Senate,None Of These Candidates,0
+Precinct 9,U.S. Senate,"VANDERBEEK, DAVID LORY",5
 Precinct 9,WHITE PINE TV District #1 SEAT A,"COX, WYATT",41
 Precinct 9,WHITE PINE TV District #1 SEAT A,"OLSON, ARTHUR",34
-Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"Obama, Barack",0
-Precinct 99,President and Vice President of the United States,"Romney, Mitt",0
+Precinct 99,President,"GOODE, VIRGIL",0
+Precinct 99,President,"JOHNSON, GARY",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"Obama, Barack",0
+Precinct 99,President,"Romney, Mitt",0
 Precinct 99,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",0
 Precinct 99,"U.S. Representative in Congress, District 4","Horsford, Steven A.",0
 Precinct 99,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",0
 Precinct 99,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",0
-Precinct 99,United States Senator,"Berkley, Shelley",0
-Precinct 99,United States Senator,"Heller, Dean",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",0
+Precinct 99,U.S. Senate,"Berkley, Shelley",0
+Precinct 99,U.S. Senate,"Heller, Dean",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"VANDERBEEK, DAVID LORY",0

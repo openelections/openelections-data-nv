@@ -20,11 +20,11 @@ Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",263
 Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",194
 Precinct 1,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",242
 Precinct 1,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",227
-Precinct 1,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 1,President and Vice President of the United States,"JOHNSON, GARY",7
-Precinct 1,President and Vice President of the United States,None Of These Candidates,9
-Precinct 1,President and Vice President of the United States,"Obama, Barack",188
-Precinct 1,President and Vice President of the United States,"Romney, Mitt",299
+Precinct 1,President,"GOODE, VIRGIL",2
+Precinct 1,President,"JOHNSON, GARY",7
+Precinct 1,President,None Of These Candidates,9
+Precinct 1,President,"Obama, Barack",188
+Precinct 1,President,"Romney, Mitt",299
 Precinct 1,"State Assembly, District 32","Hansen, Ira",423
 Precinct 1,"State Board of Education, District 2","Clontz, Donna",208
 Precinct 1,"State Board of Education, District 2","Cook, Dave",229
@@ -38,10 +38,10 @@ Precinct 1,"U.S. Representative in Congress, District 2","Amodei, Mark E.",315
 Precinct 1,"U.S. Representative in Congress, District 2","Best, Russell",16
 Precinct 1,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",28
 Precinct 1,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",125
-Precinct 1,United States Senator,"Berkley, Shelley",114
-Precinct 1,United States Senator,"Heller, Dean",315
-Precinct 1,United States Senator,None Of These Candidates,31
-Precinct 1,United States Senator,"VANDERBEEK, DAVID LORY",41
+Precinct 1,U.S. Senate,"Berkley, Shelley",114
+Precinct 1,U.S. Senate,"Heller, Dean",315
+Precinct 1,U.S. Senate,None Of These Candidates,31
+Precinct 1,U.S. Senate,"VANDERBEEK, DAVID LORY",41
 Precinct 10,County Comm. Seat A,"BRISSENDEN, MARLENE",56
 Precinct 10,County Comm. Seat A,"SHEEN, JOYCE",47
 Precinct 10,County Comm. Seat B,"BELL, MIKE",70
@@ -58,11 +58,11 @@ Precinct 10,McDermitt Fire District Seat C,"EASTERDAY, BRUCE E.",101
 Precinct 10,McDermitt Fire District Seat C,"HARTLEY, DALE E.",11
 Precinct 10,McDermitt GID BOARD SEAT E,"HARTLEY, DALE E.",7
 Precinct 10,McDermitt GID BOARD SEAT E,"PETERSEN, DONALD",45
-Precinct 10,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 10,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 10,President and Vice President of the United States,None Of These Candidates,1
-Precinct 10,President and Vice President of the United States,"Obama, Barack",60
-Precinct 10,President and Vice President of the United States,"Romney, Mitt",48
+Precinct 10,President,"GOODE, VIRGIL",4
+Precinct 10,President,"JOHNSON, GARY",1
+Precinct 10,President,None Of These Candidates,1
+Precinct 10,President,"Obama, Barack",60
+Precinct 10,President,"Romney, Mitt",48
 Precinct 10,"State Assembly, District 32","Hansen, Ira",90
 Precinct 10,"State Board of Education, District 2","Clontz, Donna",49
 Precinct 10,"State Board of Education, District 2","Cook, Dave",50
@@ -76,10 +76,10 @@ Precinct 10,"U.S. Representative in Congress, District 2","Amodei, Mark E.",51
 Precinct 10,"U.S. Representative in Congress, District 2","Best, Russell",3
 Precinct 10,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",1
 Precinct 10,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",56
-Precinct 10,United States Senator,"Berkley, Shelley",54
-Precinct 10,United States Senator,"Heller, Dean",47
-Precinct 10,United States Senator,None Of These Candidates,7
-Precinct 10,United States Senator,"VANDERBEEK, DAVID LORY",6
+Precinct 10,U.S. Senate,"Berkley, Shelley",54
+Precinct 10,U.S. Senate,"Heller, Dean",47
+Precinct 10,U.S. Senate,None Of These Candidates,7
+Precinct 10,U.S. Senate,"VANDERBEEK, DAVID LORY",6
 Precinct 11,County Comm. Seat A,"BRISSENDEN, MARLENE",111
 Precinct 11,County Comm. Seat A,"SHEEN, JOYCE",63
 Precinct 11,County Comm. Seat B,"BELL, MIKE",151
@@ -92,11 +92,11 @@ Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",86
 Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",66
 Precinct 11,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",74
 Precinct 11,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",99
-Precinct 11,President and Vice President of the United States,"GOODE, VIRGIL",1
-Precinct 11,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 11,President and Vice President of the United States,None Of These Candidates,2
-Precinct 11,President and Vice President of the United States,"Obama, Barack",16
-Precinct 11,President and Vice President of the United States,"Romney, Mitt",161
+Precinct 11,President,"GOODE, VIRGIL",1
+Precinct 11,President,"JOHNSON, GARY",1
+Precinct 11,President,None Of These Candidates,2
+Precinct 11,President,"Obama, Barack",16
+Precinct 11,President,"Romney, Mitt",161
 Precinct 11,"State Assembly, District 32","Hansen, Ira",152
 Precinct 11,"State Board of Education, District 2","Clontz, Donna",47
 Precinct 11,"State Board of Education, District 2","Cook, Dave",108
@@ -110,10 +110,10 @@ Precinct 11,"U.S. Representative in Congress, District 2","Amodei, Mark E.",156
 Precinct 11,"U.S. Representative in Congress, District 2","Best, Russell",5
 Precinct 11,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",8
 Precinct 11,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",7
-Precinct 11,United States Senator,"Berkley, Shelley",9
-Precinct 11,United States Senator,"Heller, Dean",159
-Precinct 11,United States Senator,None Of These Candidates,5
-Precinct 11,United States Senator,"VANDERBEEK, DAVID LORY",7
+Precinct 11,U.S. Senate,"Berkley, Shelley",9
+Precinct 11,U.S. Senate,"Heller, Dean",159
+Precinct 11,U.S. Senate,None Of These Candidates,5
+Precinct 11,U.S. Senate,"VANDERBEEK, DAVID LORY",7
 Precinct 12,County Comm. Seat A,"BRISSENDEN, MARLENE",65
 Precinct 12,County Comm. Seat A,"SHEEN, JOYCE",61
 Precinct 12,County Comm. Seat B,"BELL, MIKE",106
@@ -126,11 +126,11 @@ Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",84
 Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",36
 Precinct 12,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",40
 Precinct 12,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",85
-Precinct 12,President and Vice President of the United States,"GOODE, VIRGIL",1
-Precinct 12,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 12,President and Vice President of the United States,None Of These Candidates,0
-Precinct 12,President and Vice President of the United States,"Obama, Barack",22
-Precinct 12,President and Vice President of the United States,"Romney, Mitt",106
+Precinct 12,President,"GOODE, VIRGIL",1
+Precinct 12,President,"JOHNSON, GARY",1
+Precinct 12,President,None Of These Candidates,0
+Precinct 12,President,"Obama, Barack",22
+Precinct 12,President,"Romney, Mitt",106
 Precinct 12,"State Assembly, District 32","Hansen, Ira",106
 Precinct 12,"State Board of Education, District 2","Clontz, Donna",50
 Precinct 12,"State Board of Education, District 2","Cook, Dave",55
@@ -144,10 +144,10 @@ Precinct 12,"U.S. Representative in Congress, District 2","Amodei, Mark E.",110
 Precinct 12,"U.S. Representative in Congress, District 2","Best, Russell",2
 Precinct 12,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",3
 Precinct 12,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",11
-Precinct 12,United States Senator,"Berkley, Shelley",12
-Precinct 12,United States Senator,"Heller, Dean",109
-Precinct 12,United States Senator,None Of These Candidates,3
-Precinct 12,United States Senator,"VANDERBEEK, DAVID LORY",5
+Precinct 12,U.S. Senate,"Berkley, Shelley",12
+Precinct 12,U.S. Senate,"Heller, Dean",109
+Precinct 12,U.S. Senate,None Of These Candidates,3
+Precinct 12,U.S. Senate,"VANDERBEEK, DAVID LORY",5
 Precinct 13,County Comm. Seat A,"BRISSENDEN, MARLENE",106
 Precinct 13,County Comm. Seat A,"SHEEN, JOYCE",71
 Precinct 13,County Comm. Seat B,"BELL, MIKE",136
@@ -160,11 +160,11 @@ Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",73
 Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",99
 Precinct 13,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",104
 Precinct 13,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",80
-Precinct 13,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 13,President and Vice President of the United States,"JOHNSON, GARY",12
-Precinct 13,President and Vice President of the United States,None Of These Candidates,5
-Precinct 13,President and Vice President of the United States,"Obama, Barack",44
-Precinct 13,President and Vice President of the United States,"Romney, Mitt",121
+Precinct 13,President,"GOODE, VIRGIL",5
+Precinct 13,President,"JOHNSON, GARY",12
+Precinct 13,President,None Of These Candidates,5
+Precinct 13,President,"Obama, Barack",44
+Precinct 13,President,"Romney, Mitt",121
 Precinct 13,"State Assembly, District 32","Hansen, Ira",161
 Precinct 13,"State Board of Education, District 2","Clontz, Donna",74
 Precinct 13,"State Board of Education, District 2","Cook, Dave",86
@@ -178,10 +178,10 @@ Precinct 13,"U.S. Representative in Congress, District 2","Amodei, Mark E.",128
 Precinct 13,"U.S. Representative in Congress, District 2","Best, Russell",12
 Precinct 13,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",7
 Precinct 13,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",37
-Precinct 13,United States Senator,"Berkley, Shelley",29
-Precinct 13,United States Senator,"Heller, Dean",130
-Precinct 13,United States Senator,None Of These Candidates,7
-Precinct 13,United States Senator,"VANDERBEEK, DAVID LORY",19
+Precinct 13,U.S. Senate,"Berkley, Shelley",29
+Precinct 13,U.S. Senate,"Heller, Dean",130
+Precinct 13,U.S. Senate,None Of These Candidates,7
+Precinct 13,U.S. Senate,"VANDERBEEK, DAVID LORY",19
 Precinct 14,County Comm. Seat A,"BRISSENDEN, MARLENE",260
 Precinct 14,County Comm. Seat A,"SHEEN, JOYCE",219
 Precinct 14,County Comm. Seat B,"BELL, MIKE",394
@@ -194,11 +194,11 @@ Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",280
 Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",185
 Precinct 14,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",206
 Precinct 14,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",267
-Precinct 14,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 14,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 14,President and Vice President of the United States,None Of These Candidates,3
-Precinct 14,President and Vice President of the United States,"Obama, Barack",100
-Precinct 14,President and Vice President of the United States,"Romney, Mitt",384
+Precinct 14,President,"GOODE, VIRGIL",4
+Precinct 14,President,"JOHNSON, GARY",4
+Precinct 14,President,None Of These Candidates,3
+Precinct 14,President,"Obama, Barack",100
+Precinct 14,President,"Romney, Mitt",384
 Precinct 14,"State Assembly, District 32","Hansen, Ira",432
 Precinct 14,"State Board of Education, District 2","Clontz, Donna",177
 Precinct 14,"State Board of Education, District 2","Cook, Dave",265
@@ -212,10 +212,10 @@ Precinct 14,"U.S. Representative in Congress, District 2","Amodei, Mark E.",390
 Precinct 14,"U.S. Representative in Congress, District 2","Best, Russell",12
 Precinct 14,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",17
 Precinct 14,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",63
-Precinct 14,United States Senator,"Berkley, Shelley",64
-Precinct 14,United States Senator,"Heller, Dean",378
-Precinct 14,United States Senator,None Of These Candidates,22
-Precinct 14,United States Senator,"VANDERBEEK, DAVID LORY",32
+Precinct 14,U.S. Senate,"Berkley, Shelley",64
+Precinct 14,U.S. Senate,"Heller, Dean",378
+Precinct 14,U.S. Senate,None Of These Candidates,22
+Precinct 14,U.S. Senate,"VANDERBEEK, DAVID LORY",32
 Precinct 15,County Comm. Seat A,"BRISSENDEN, MARLENE",98
 Precinct 15,County Comm. Seat A,"SHEEN, JOYCE",68
 Precinct 15,County Comm. Seat B,"BELL, MIKE",131
@@ -228,11 +228,11 @@ Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",85
 Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",79
 Precinct 15,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",80
 Precinct 15,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",86
-Precinct 15,President and Vice President of the United States,"GOODE, VIRGIL",8
-Precinct 15,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 15,President and Vice President of the United States,None Of These Candidates,2
-Precinct 15,President and Vice President of the United States,"Obama, Barack",50
-Precinct 15,President and Vice President of the United States,"Romney, Mitt",118
+Precinct 15,President,"GOODE, VIRGIL",8
+Precinct 15,President,"JOHNSON, GARY",4
+Precinct 15,President,None Of These Candidates,2
+Precinct 15,President,"Obama, Barack",50
+Precinct 15,President,"Romney, Mitt",118
 Precinct 15,"State Assembly, District 32","Hansen, Ira",150
 Precinct 15,"State Board of Education, District 2","Clontz, Donna",74
 Precinct 15,"State Board of Education, District 2","Cook, Dave",83
@@ -246,10 +246,10 @@ Precinct 15,"U.S. Representative in Congress, District 2","Amodei, Mark E.",113
 Precinct 15,"U.S. Representative in Congress, District 2","Best, Russell",14
 Precinct 15,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
 Precinct 15,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",34
-Precinct 15,United States Senator,"Berkley, Shelley",28
-Precinct 15,United States Senator,"Heller, Dean",117
-Precinct 15,United States Senator,None Of These Candidates,11
-Precinct 15,United States Senator,"VANDERBEEK, DAVID LORY",23
+Precinct 15,U.S. Senate,"Berkley, Shelley",28
+Precinct 15,U.S. Senate,"Heller, Dean",117
+Precinct 15,U.S. Senate,None Of These Candidates,11
+Precinct 15,U.S. Senate,"VANDERBEEK, DAVID LORY",23
 Precinct 2,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",252
 Precinct 2,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",260
 Precinct 2,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",106
@@ -271,11 +271,11 @@ Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",307
 Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",210
 Precinct 2,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",195
 Precinct 2,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",333
-Precinct 2,President and Vice President of the United States,"GOODE, VIRGIL",8
-Precinct 2,President and Vice President of the United States,"JOHNSON, GARY",10
-Precinct 2,President and Vice President of the United States,None Of These Candidates,7
-Precinct 2,President and Vice President of the United States,"Obama, Barack",239
-Precinct 2,President and Vice President of the United States,"Romney, Mitt",304
+Precinct 2,President,"GOODE, VIRGIL",8
+Precinct 2,President,"JOHNSON, GARY",10
+Precinct 2,President,None Of These Candidates,7
+Precinct 2,President,"Obama, Barack",239
+Precinct 2,President,"Romney, Mitt",304
 Precinct 2,"State Assembly, District 32","Hansen, Ira",459
 Precinct 2,"State Board of Education, District 2","Clontz, Donna",247
 Precinct 2,"State Board of Education, District 2","Cook, Dave",239
@@ -289,10 +289,10 @@ Precinct 2,"U.S. Representative in Congress, District 2","Amodei, Mark E.",332
 Precinct 2,"U.S. Representative in Congress, District 2","Best, Russell",27
 Precinct 2,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",25
 Precinct 2,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",158
-Precinct 2,United States Senator,"Berkley, Shelley",166
-Precinct 2,United States Senator,"Heller, Dean",319
-Precinct 2,United States Senator,None Of These Candidates,32
-Precinct 2,United States Senator,"VANDERBEEK, DAVID LORY",37
+Precinct 2,U.S. Senate,"Berkley, Shelley",166
+Precinct 2,U.S. Senate,"Heller, Dean",319
+Precinct 2,U.S. Senate,None Of These Candidates,32
+Precinct 2,U.S. Senate,"VANDERBEEK, DAVID LORY",37
 Precinct 3,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",255
 Precinct 3,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",224
 Precinct 3,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",128
@@ -314,11 +314,11 @@ Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",302
 Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",180
 Precinct 3,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",224
 Precinct 3,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",267
-Precinct 3,President and Vice President of the United States,"GOODE, VIRGIL",1
-Precinct 3,President and Vice President of the United States,"JOHNSON, GARY",5
-Precinct 3,President and Vice President of the United States,None Of These Candidates,14
-Precinct 3,President and Vice President of the United States,"Obama, Barack",206
-Precinct 3,President and Vice President of the United States,"Romney, Mitt",300
+Precinct 3,President,"GOODE, VIRGIL",1
+Precinct 3,President,"JOHNSON, GARY",5
+Precinct 3,President,None Of These Candidates,14
+Precinct 3,President,"Obama, Barack",206
+Precinct 3,President,"Romney, Mitt",300
 Precinct 3,"State Assembly, District 32","Hansen, Ira",424
 Precinct 3,"State Board of Education, District 2","Clontz, Donna",203
 Precinct 3,"State Board of Education, District 2","Cook, Dave",246
@@ -332,10 +332,10 @@ Precinct 3,"U.S. Representative in Congress, District 2","Amodei, Mark E.",322
 Precinct 3,"U.S. Representative in Congress, District 2","Best, Russell",20
 Precinct 3,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",22
 Precinct 3,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",134
-Precinct 3,United States Senator,"Berkley, Shelley",114
-Precinct 3,United States Senator,"Heller, Dean",324
-Precinct 3,United States Senator,None Of These Candidates,39
-Precinct 3,United States Senator,"VANDERBEEK, DAVID LORY",41
+Precinct 3,U.S. Senate,"Berkley, Shelley",114
+Precinct 3,U.S. Senate,"Heller, Dean",324
+Precinct 3,U.S. Senate,None Of These Candidates,39
+Precinct 3,U.S. Senate,"VANDERBEEK, DAVID LORY",41
 Precinct 4,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",172
 Precinct 4,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",151
 Precinct 4,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",69
@@ -357,11 +357,11 @@ Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",250
 Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",194
 Precinct 4,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",227
 Precinct 4,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",234
-Precinct 4,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 4,President and Vice President of the United States,"JOHNSON, GARY",2
-Precinct 4,President and Vice President of the United States,None Of These Candidates,5
-Precinct 4,President and Vice President of the United States,"Obama, Barack",202
-Precinct 4,President and Vice President of the United States,"Romney, Mitt",280
+Precinct 4,President,"GOODE, VIRGIL",4
+Precinct 4,President,"JOHNSON, GARY",2
+Precinct 4,President,None Of These Candidates,5
+Precinct 4,President,"Obama, Barack",202
+Precinct 4,President,"Romney, Mitt",280
 Precinct 4,"State Assembly, District 32","Hansen, Ira",400
 Precinct 4,"State Board of Education, District 2","Clontz, Donna",187
 Precinct 4,"State Board of Education, District 2","Cook, Dave",243
@@ -375,10 +375,10 @@ Precinct 4,"U.S. Representative in Congress, District 2","Amodei, Mark E.",279
 Precinct 4,"U.S. Representative in Congress, District 2","Best, Russell",24
 Precinct 4,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",22
 Precinct 4,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",143
-Precinct 4,United States Senator,"Berkley, Shelley",124
-Precinct 4,United States Senator,"Heller, Dean",273
-Precinct 4,United States Senator,None Of These Candidates,39
-Precinct 4,United States Senator,"VANDERBEEK, DAVID LORY",50
+Precinct 4,U.S. Senate,"Berkley, Shelley",124
+Precinct 4,U.S. Senate,"Heller, Dean",273
+Precinct 4,U.S. Senate,None Of These Candidates,39
+Precinct 4,U.S. Senate,"VANDERBEEK, DAVID LORY",50
 Precinct 5,"City Councilman, WINNEMUCCA Seat 1","OWENS, MICHAEL",390
 Precinct 5,"City Councilman, WINNEMUCCA Seat 1","PHILLIPS, DORIS L.",274
 Precinct 5,"City Councilman, WINNEMUCCA Seat 3","ENGSTROM, CHARLES K.",164
@@ -400,11 +400,11 @@ Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",465
 Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",196
 Precinct 5,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",265
 Precinct 5,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",402
-Precinct 5,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 5,President and Vice President of the United States,"JOHNSON, GARY",3
-Precinct 5,President and Vice President of the United States,None Of These Candidates,8
-Precinct 5,President and Vice President of the United States,"Obama, Barack",191
-Precinct 5,President and Vice President of the United States,"Romney, Mitt",495
+Precinct 5,President,"GOODE, VIRGIL",2
+Precinct 5,President,"JOHNSON, GARY",3
+Precinct 5,President,None Of These Candidates,8
+Precinct 5,President,"Obama, Barack",191
+Precinct 5,President,"Romney, Mitt",495
 Precinct 5,"State Assembly, District 32","Hansen, Ira",609
 Precinct 5,"State Board of Education, District 2","Clontz, Donna",276
 Precinct 5,"State Board of Education, District 2","Cook, Dave",332
@@ -418,10 +418,10 @@ Precinct 5,"U.S. Representative in Congress, District 2","Amodei, Mark E.",525
 Precinct 5,"U.S. Representative in Congress, District 2","Best, Russell",18
 Precinct 5,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
 Precinct 5,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",116
-Precinct 5,United States Senator,"Berkley, Shelley",133
-Precinct 5,United States Senator,"Heller, Dean",519
-Precinct 5,United States Senator,None Of These Candidates,18
-Precinct 5,United States Senator,"VANDERBEEK, DAVID LORY",28
+Precinct 5,U.S. Senate,"Berkley, Shelley",133
+Precinct 5,U.S. Senate,"Heller, Dean",519
+Precinct 5,U.S. Senate,None Of These Candidates,18
+Precinct 5,U.S. Senate,"VANDERBEEK, DAVID LORY",28
 Precinct 6,County Comm. Seat A,"BRISSENDEN, MARLENE",466
 Precinct 6,County Comm. Seat A,"SHEEN, JOYCE",312
 Precinct 6,County Comm. Seat B,"BELL, MIKE",601
@@ -434,11 +434,11 @@ Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",391
 Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",336
 Precinct 6,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",368
 Precinct 6,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",392
-Precinct 6,President and Vice President of the United States,"GOODE, VIRGIL",6
-Precinct 6,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 6,President and Vice President of the United States,None Of These Candidates,11
-Precinct 6,President and Vice President of the United States,"Obama, Barack",226
-Precinct 6,President and Vice President of the United States,"Romney, Mitt",559
+Precinct 6,President,"GOODE, VIRGIL",6
+Precinct 6,President,"JOHNSON, GARY",4
+Precinct 6,President,None Of These Candidates,11
+Precinct 6,President,"Obama, Barack",226
+Precinct 6,President,"Romney, Mitt",559
 Precinct 6,"State Assembly, District 32","Hansen, Ira",696
 Precinct 6,"State Board of Education, District 2","Clontz, Donna",343
 Precinct 6,"State Board of Education, District 2","Cook, Dave",364
@@ -452,10 +452,10 @@ Precinct 6,"U.S. Representative in Congress, District 2","Amodei, Mark E.",569
 Precinct 6,"U.S. Representative in Congress, District 2","Best, Russell",43
 Precinct 6,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",36
 Precinct 6,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",139
-Precinct 6,United States Senator,"Berkley, Shelley",138
-Precinct 6,United States Senator,"Heller, Dean",566
-Precinct 6,United States Senator,None Of These Candidates,39
-Precinct 6,United States Senator,"VANDERBEEK, DAVID LORY",58
+Precinct 6,U.S. Senate,"Berkley, Shelley",138
+Precinct 6,U.S. Senate,"Heller, Dean",566
+Precinct 6,U.S. Senate,None Of These Candidates,39
+Precinct 6,U.S. Senate,"VANDERBEEK, DAVID LORY",58
 Precinct 7,County Comm. Seat A,"BRISSENDEN, MARLENE",355
 Precinct 7,County Comm. Seat A,"SHEEN, JOYCE",256
 Precinct 7,County Comm. Seat B,"BELL, MIKE",475
@@ -468,11 +468,11 @@ Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",323
 Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",239
 Precinct 7,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",261
 Precinct 7,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",331
-Precinct 7,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 7,President and Vice President of the United States,"JOHNSON, GARY",7
-Precinct 7,President and Vice President of the United States,None Of These Candidates,12
-Precinct 7,President and Vice President of the United States,"Obama, Barack",156
-Precinct 7,President and Vice President of the United States,"Romney, Mitt",461
+Precinct 7,President,"GOODE, VIRGIL",4
+Precinct 7,President,"JOHNSON, GARY",7
+Precinct 7,President,None Of These Candidates,12
+Precinct 7,President,"Obama, Barack",156
+Precinct 7,President,"Romney, Mitt",461
 Precinct 7,"State Assembly, District 32","Hansen, Ira",536
 Precinct 7,"State Board of Education, District 2","Clontz, Donna",229
 Precinct 7,"State Board of Education, District 2","Cook, Dave",311
@@ -486,10 +486,10 @@ Precinct 7,"U.S. Representative in Congress, District 2","Amodei, Mark E.",458
 Precinct 7,"U.S. Representative in Congress, District 2","Best, Russell",24
 Precinct 7,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",28
 Precinct 7,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",109
-Precinct 7,United States Senator,"Berkley, Shelley",108
-Precinct 7,United States Senator,"Heller, Dean",462
-Precinct 7,United States Senator,None Of These Candidates,20
-Precinct 7,United States Senator,"VANDERBEEK, DAVID LORY",49
+Precinct 7,U.S. Senate,"Berkley, Shelley",108
+Precinct 7,U.S. Senate,"Heller, Dean",462
+Precinct 7,U.S. Senate,None Of These Candidates,20
+Precinct 7,U.S. Senate,"VANDERBEEK, DAVID LORY",49
 Precinct 8,County Comm. Seat A,"BRISSENDEN, MARLENE",39
 Precinct 8,County Comm. Seat A,"SHEEN, JOYCE",49
 Precinct 8,County Comm. Seat B,"BELL, MIKE",78
@@ -502,11 +502,11 @@ Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",43
 Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",40
 Precinct 8,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",32
 Precinct 8,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",54
-Precinct 8,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 8,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 8,President and Vice President of the United States,None Of These Candidates,1
-Precinct 8,President and Vice President of the United States,"Obama, Barack",7
-Precinct 8,President and Vice President of the United States,"Romney, Mitt",85
+Precinct 8,President,"GOODE, VIRGIL",0
+Precinct 8,President,"JOHNSON, GARY",0
+Precinct 8,President,None Of These Candidates,1
+Precinct 8,President,"Obama, Barack",7
+Precinct 8,President,"Romney, Mitt",85
 Precinct 8,"State Assembly, District 32","Hansen, Ira",77
 Precinct 8,"State Board of Education, District 2","Clontz, Donna",25
 Precinct 8,"State Board of Education, District 2","Cook, Dave",42
@@ -520,15 +520,15 @@ Precinct 8,"U.S. Representative in Congress, District 2","Amodei, Mark E.",79
 Precinct 8,"U.S. Representative in Congress, District 2","Best, Russell",2
 Precinct 8,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",1
 Precinct 8,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",9
-Precinct 8,United States Senator,"Berkley, Shelley",9
-Precinct 8,United States Senator,"Heller, Dean",77
-Precinct 8,United States Senator,None Of These Candidates,1
-Precinct 8,United States Senator,"VANDERBEEK, DAVID LORY",5
-Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",
-Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"Obama, Barack",
-Precinct 88,President and Vice President of the United States,"Romney, Mitt",
+Precinct 8,U.S. Senate,"Berkley, Shelley",9
+Precinct 8,U.S. Senate,"Heller, Dean",77
+Precinct 8,U.S. Senate,None Of These Candidates,1
+Precinct 8,U.S. Senate,"VANDERBEEK, DAVID LORY",5
+Precinct 88,President,"GOODE, VIRGIL",
+Precinct 88,President,"JOHNSON, GARY",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"Obama, Barack",
+Precinct 88,President,"Romney, Mitt",
 Precinct 9,County Comm. Seat A,"BRISSENDEN, MARLENE",55
 Precinct 9,County Comm. Seat A,"SHEEN, JOYCE",55
 Precinct 9,County Comm. Seat B,"BELL, MIKE",84
@@ -541,11 +541,11 @@ Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D","HOPFER, ED",47
 Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D","SETZER, JENNY",57
 Precinct 9,"Justice of the Peace, UNION Twn-NP","LOVELESS, JAMES",53
 Precinct 9,"Justice of the Peace, UNION Twn-NP","NORCUTT, LEFETTE ""LETTY""",50
-Precinct 9,President and Vice President of the United States,"GOODE, VIRGIL",6
-Precinct 9,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 9,President and Vice President of the United States,None Of These Candidates,0
-Precinct 9,President and Vice President of the United States,"Obama, Barack",29
-Precinct 9,President and Vice President of the United States,"Romney, Mitt",84
+Precinct 9,President,"GOODE, VIRGIL",6
+Precinct 9,President,"JOHNSON, GARY",0
+Precinct 9,President,None Of These Candidates,0
+Precinct 9,President,"Obama, Barack",29
+Precinct 9,President,"Romney, Mitt",84
 Precinct 9,"State Assembly, District 32","Hansen, Ira",104
 Precinct 9,"State Board of Education, District 2","Clontz, Donna",46
 Precinct 9,"State Board of Education, District 2","Cook, Dave",50
@@ -559,20 +559,20 @@ Precinct 9,"U.S. Representative in Congress, District 2","Amodei, Mark E.",80
 Precinct 9,"U.S. Representative in Congress, District 2","Best, Russell",9
 Precinct 9,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
 Precinct 9,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",19
-Precinct 9,United States Senator,"Berkley, Shelley",22
-Precinct 9,United States Senator,"Heller, Dean",81
-Precinct 9,United States Senator,None Of These Candidates,5
-Precinct 9,United States Senator,"VANDERBEEK, DAVID LORY",11
-Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"Obama, Barack",0
-Precinct 99,President and Vice President of the United States,"Romney, Mitt",0
+Precinct 9,U.S. Senate,"Berkley, Shelley",22
+Precinct 9,U.S. Senate,"Heller, Dean",81
+Precinct 9,U.S. Senate,None Of These Candidates,5
+Precinct 9,U.S. Senate,"VANDERBEEK, DAVID LORY",11
+Precinct 99,President,"GOODE, VIRGIL",0
+Precinct 99,President,"JOHNSON, GARY",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"Obama, Barack",0
+Precinct 99,President,"Romney, Mitt",0
 Precinct 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",0
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",0
 Precinct 99,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",0
-Precinct 99,United States Senator,"Berkley, Shelley",0
-Precinct 99,United States Senator,"Heller, Dean",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",0
+Precinct 99,U.S. Senate,"Berkley, Shelley",0
+Precinct 99,U.S. Senate,"Heller, Dean",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"VANDERBEEK, DAVID LORY",0

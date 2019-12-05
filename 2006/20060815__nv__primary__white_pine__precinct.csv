@@ -58,12 +58,12 @@ Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",44
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-Precinct 1,United States Senator (Democratic),"Carter, Jack",87
-Precinct 1,United States Senator (Democratic),None Of These Candidates,28
-Precinct 1,United States Senator (Democratic),"Tun, Ruby jee",14
-Precinct 1,United States Senator (Republican),"Ensign, John",122
-Precinct 1,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 1,United States Senator (Republican),None Of These Candidates,7
+Precinct 1,U.S. Senate (Democratic),"Carter, Jack",87
+Precinct 1,U.S. Senate (Democratic),None Of These Candidates,28
+Precinct 1,U.S. Senate (Democratic),"Tun, Ruby jee",14
+Precinct 1,U.S. Senate (Republican),"Ensign, John",122
+Precinct 1,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 1,U.S. Senate (Republican),None Of These Candidates,7
 Precinct 10,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",27
 Precinct 10,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",13
 Precinct 10,County Commissioner Seat 1 (Republican),"LANE, GARY",14
@@ -123,12 +123,12 @@ Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",22
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 10,United States Senator (Democratic),"Carter, Jack",14
-Precinct 10,United States Senator (Democratic),None Of These Candidates,9
-Precinct 10,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 10,United States Senator (Republican),"Ensign, John",48
-Precinct 10,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-Precinct 10,United States Senator (Republican),None Of These Candidates,4
+Precinct 10,U.S. Senate (Democratic),"Carter, Jack",14
+Precinct 10,U.S. Senate (Democratic),None Of These Candidates,9
+Precinct 10,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 10,U.S. Senate (Republican),"Ensign, John",48
+Precinct 10,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+Precinct 10,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 2,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",25
 Precinct 2,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",8
 Precinct 2,County Commissioner Seat 1 (Republican),"LANE, GARY",15
@@ -188,12 +188,12 @@ Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",20
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 2,United States Senator (Democratic),"Carter, Jack",64
-Precinct 2,United States Senator (Democratic),None Of These Candidates,13
-Precinct 2,United States Senator (Democratic),"Tun, Ruby jee",5
-Precinct 2,United States Senator (Republican),"Ensign, John",44
-Precinct 2,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
-Precinct 2,United States Senator (Republican),None Of These Candidates,1
+Precinct 2,U.S. Senate (Democratic),"Carter, Jack",64
+Precinct 2,U.S. Senate (Democratic),None Of These Candidates,13
+Precinct 2,U.S. Senate (Democratic),"Tun, Ruby jee",5
+Precinct 2,U.S. Senate (Republican),"Ensign, John",44
+Precinct 2,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",2
+Precinct 2,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 3,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",31
 Precinct 3,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",17
 Precinct 3,County Commissioner Seat 1 (Republican),"LANE, GARY",32
@@ -253,12 +253,12 @@ Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",36
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-Precinct 3,United States Senator (Democratic),"Carter, Jack",72
-Precinct 3,United States Senator (Democratic),None Of These Candidates,20
-Precinct 3,United States Senator (Democratic),"Tun, Ruby jee",11
-Precinct 3,United States Senator (Republican),"Ensign, John",70
-Precinct 3,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
-Precinct 3,United States Senator (Republican),None Of These Candidates,4
+Precinct 3,U.S. Senate (Democratic),"Carter, Jack",72
+Precinct 3,U.S. Senate (Democratic),None Of These Candidates,20
+Precinct 3,U.S. Senate (Democratic),"Tun, Ruby jee",11
+Precinct 3,U.S. Senate (Republican),"Ensign, John",70
+Precinct 3,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
+Precinct 3,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 4,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",55
 Precinct 4,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",27
 Precinct 4,County Commissioner Seat 1 (Republican),"LANE, GARY",37
@@ -333,12 +333,12 @@ Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",92
 Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-Precinct 5,United States Senator (Democratic),"Carter, Jack",91
-Precinct 5,United States Senator (Democratic),None Of These Candidates,30
-Precinct 5,United States Senator (Democratic),"Tun, Ruby jee",19
-Precinct 5,United States Senator (Republican),"Ensign, John",183
-Precinct 5,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-Precinct 5,United States Senator (Republican),None Of These Candidates,13
+Precinct 5,U.S. Senate (Democratic),"Carter, Jack",91
+Precinct 5,U.S. Senate (Democratic),None Of These Candidates,30
+Precinct 5,U.S. Senate (Democratic),"Tun, Ruby jee",19
+Precinct 5,U.S. Senate (Republican),"Ensign, John",183
+Precinct 5,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+Precinct 5,U.S. Senate (Republican),None Of These Candidates,13
 Precinct 6,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",47
 Precinct 6,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",15
 Precinct 6,County Commissioner Seat 1 (Republican),"LANE, GARY",25
@@ -398,12 +398,12 @@ Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",9
 Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",31
 Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-Precinct 6,United States Senator (Democratic),"Carter, Jack",95
-Precinct 6,United States Senator (Democratic),None Of These Candidates,29
-Precinct 6,United States Senator (Democratic),"Tun, Ruby jee",14
-Precinct 6,United States Senator (Republican),"Ensign, John",79
-Precinct 6,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-Precinct 6,United States Senator (Republican),None Of These Candidates,3
+Precinct 6,U.S. Senate (Democratic),"Carter, Jack",95
+Precinct 6,U.S. Senate (Democratic),None Of These Candidates,29
+Precinct 6,U.S. Senate (Democratic),"Tun, Ruby jee",14
+Precinct 6,U.S. Senate (Republican),"Ensign, John",79
+Precinct 6,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+Precinct 6,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 7,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",8
 Precinct 7,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",11
 Precinct 7,County Commissioner Seat 1 (Republican),"LANE, GARY",10
@@ -463,12 +463,12 @@ Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",13
 Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 7,United States Senator (Democratic),"Carter, Jack",33
-Precinct 7,United States Senator (Democratic),None Of These Candidates,6
-Precinct 7,United States Senator (Democratic),"Tun, Ruby jee",5
-Precinct 7,United States Senator (Republican),"Ensign, John",20
-Precinct 7,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-Precinct 7,United States Senator (Republican),None Of These Candidates,3
+Precinct 7,U.S. Senate (Democratic),"Carter, Jack",33
+Precinct 7,U.S. Senate (Democratic),None Of These Candidates,6
+Precinct 7,U.S. Senate (Democratic),"Tun, Ruby jee",5
+Precinct 7,U.S. Senate (Republican),"Ensign, John",20
+Precinct 7,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+Precinct 7,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 8,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",12
 Precinct 8,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",3
 Precinct 8,County Commissioner Seat 1 (Republican),"LANE, GARY",59
@@ -528,12 +528,12 @@ Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",30
 Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-Precinct 8,United States Senator (Democratic),"Carter, Jack",31
-Precinct 8,United States Senator (Democratic),None Of These Candidates,10
-Precinct 8,United States Senator (Democratic),"Tun, Ruby jee",4
-Precinct 8,United States Senator (Republican),"Ensign, John",54
-Precinct 8,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",14
-Precinct 8,United States Senator (Republican),None Of These Candidates,4
+Precinct 8,U.S. Senate (Democratic),"Carter, Jack",31
+Precinct 8,U.S. Senate (Democratic),None Of These Candidates,10
+Precinct 8,U.S. Senate (Democratic),"Tun, Ruby jee",4
+Precinct 8,U.S. Senate (Republican),"Ensign, John",54
+Precinct 8,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",14
+Precinct 8,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 9,County Commissioner Seat 1 (Republican),"HEINBAUGH, KENNETH D.",16
 Precinct 9,County Commissioner Seat 1 (Republican),"JONES, GEORGE A.",4
 Precinct 9,County Commissioner Seat 1 (Republican),"LANE, GARY",11
@@ -592,20 +592,20 @@ Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",11
 Precinct 9,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 9,United States Senator (Democratic),"Carter, Jack",18
-Precinct 9,United States Senator (Democratic),None Of These Candidates,1
-Precinct 9,United States Senator (Democratic),"Tun, Ruby jee",7
-Precinct 9,United States Senator (Republican),"Ensign, John",22
-Precinct 9,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 9,United States Senator (Republican),None Of These Candidates,5
+Precinct 9,U.S. Senate (Democratic),"Carter, Jack",18
+Precinct 9,U.S. Senate (Democratic),None Of These Candidates,1
+Precinct 9,U.S. Senate (Democratic),"Tun, Ruby jee",7
+Precinct 9,U.S. Senate (Republican),"Ensign, John",22
+Precinct 9,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 9,U.S. Senate (Republican),None Of These Candidates,5
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 99,United States Senator (Democratic),"Carter, Jack",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 99,United States Senator (Republican),"Ensign, John",0
-Precinct 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Carter, Jack",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 99,U.S. Senate (Republican),"Ensign, John",0
+Precinct 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0

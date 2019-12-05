@@ -4,11 +4,11 @@ precinct,office,candidate,votes
 1 - ALAMO,County Comm Dist. E (CW),"MATHEWS, PAUL",499
 1 - ALAMO,COUNTY TREASURER,"BROWN, DENICE",126
 1 - ALAMO,COUNTY TREASURER,"FREHNER, SHAWN",402
-1 - ALAMO,President and Vice President of the United States,"GOODE, VIRGIL",0
-1 - ALAMO,President and Vice President of the United States,"JOHNSON, GARY",4
-1 - ALAMO,President and Vice President of the United States,None Of These Candidates,1
-1 - ALAMO,President and Vice President of the United States,"Obama, Barack",66
-1 - ALAMO,President and Vice President of the United States,"Romney, Mitt",475
+1 - ALAMO,President,"GOODE, VIRGIL",0
+1 - ALAMO,President,"JOHNSON, GARY",4
+1 - ALAMO,President,None Of These Candidates,1
+1 - ALAMO,President,"Obama, Barack",66
+1 - ALAMO,President,"Romney, Mitt",475
 1 - ALAMO,School Trustee District A,"HIBBLE, RON",211
 1 - ALAMO,School Trustee District A,"KELLEY, PAT",294
 1 - ALAMO,"State Assembly, District 36","Oscarson, James",439
@@ -26,20 +26,20 @@ precinct,office,candidate,votes
 1 - ALAMO,"U.S. Representative in Congress, District 4","Horsford, Steven A.",67
 1 - ALAMO,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",11
 1 - ALAMO,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",441
-1 - ALAMO,United States Senator,"Berkley, Shelley",68
-1 - ALAMO,United States Senator,"Heller, Dean",439
-1 - ALAMO,United States Senator,None Of These Candidates,17
-1 - ALAMO,United States Senator,"VANDERBEEK, DAVID LORY",18
+1 - ALAMO,U.S. Senate,"Berkley, Shelley",68
+1 - ALAMO,U.S. Senate,"Heller, Dean",439
+1 - ALAMO,U.S. Senate,None Of These Candidates,17
+1 - ALAMO,U.S. Senate,"VANDERBEEK, DAVID LORY",18
 2 - CALIENTE,County Comm Dist. A (CW),"KATSCHKE, ADAM P.",528
 2 - CALIENTE,County Comm Dist. C (CW),"HIGBEE, E. EDWIN, JR.",485
 2 - CALIENTE,County Comm Dist. E (CW),"MATHEWS, PAUL",498
 2 - CALIENTE,COUNTY TREASURER,"BROWN, DENICE",241
 2 - CALIENTE,COUNTY TREASURER,"FREHNER, SHAWN",300
-2 - CALIENTE,President and Vice President of the United States,"GOODE, VIRGIL",16
-2 - CALIENTE,President and Vice President of the United States,"JOHNSON, GARY",4
-2 - CALIENTE,President and Vice President of the United States,None Of These Candidates,11
-2 - CALIENTE,President and Vice President of the United States,"Obama, Barack",148
-2 - CALIENTE,President and Vice President of the United States,"Romney, Mitt",396
+2 - CALIENTE,President,"GOODE, VIRGIL",16
+2 - CALIENTE,President,"JOHNSON, GARY",4
+2 - CALIENTE,President,None Of These Candidates,11
+2 - CALIENTE,President,"Obama, Barack",148
+2 - CALIENTE,President,"Romney, Mitt",396
 2 - CALIENTE,School Trustee District A,"HIBBLE, RON",201
 2 - CALIENTE,School Trustee District A,"KELLEY, PAT",347
 2 - CALIENTE,"State Assembly, District 33","Ellison, John",393
@@ -58,20 +58,20 @@ precinct,office,candidate,votes
 2 - CALIENTE,"U.S. Representative in Congress, District 4","Horsford, Steven A.",130
 2 - CALIENTE,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",14
 2 - CALIENTE,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",357
-2 - CALIENTE,United States Senator,"Berkley, Shelley",125
-2 - CALIENTE,United States Senator,"Heller, Dean",350
-2 - CALIENTE,United States Senator,None Of These Candidates,26
-2 - CALIENTE,United States Senator,"VANDERBEEK, DAVID LORY",68
+2 - CALIENTE,U.S. Senate,"Berkley, Shelley",125
+2 - CALIENTE,U.S. Senate,"Heller, Dean",350
+2 - CALIENTE,U.S. Senate,None Of These Candidates,26
+2 - CALIENTE,U.S. Senate,"VANDERBEEK, DAVID LORY",68
 3 - PANACA,County Comm Dist. A (CW),"KATSCHKE, ADAM P.",416
 3 - PANACA,County Comm Dist. C (CW),"HIGBEE, E. EDWIN, JR.",394
 3 - PANACA,County Comm Dist. E (CW),"MATHEWS, PAUL",416
 3 - PANACA,COUNTY TREASURER,"BROWN, DENICE",110
 3 - PANACA,COUNTY TREASURER,"FREHNER, SHAWN",332
-3 - PANACA,President and Vice President of the United States,"GOODE, VIRGIL",1
-3 - PANACA,President and Vice President of the United States,"JOHNSON, GARY",3
-3 - PANACA,President and Vice President of the United States,None Of These Candidates,0
-3 - PANACA,President and Vice President of the United States,"Obama, Barack",38
-3 - PANACA,President and Vice President of the United States,"Romney, Mitt",408
+3 - PANACA,President,"GOODE, VIRGIL",1
+3 - PANACA,President,"JOHNSON, GARY",3
+3 - PANACA,President,None Of These Candidates,0
+3 - PANACA,President,"Obama, Barack",38
+3 - PANACA,President,"Romney, Mitt",408
 3 - PANACA,School Trustee District A,"HIBBLE, RON",130
 3 - PANACA,School Trustee District A,"KELLEY, PAT",287
 3 - PANACA,"State Assembly, District 33","Ellison, John",381
@@ -88,20 +88,20 @@ precinct,office,candidate,votes
 3 - PANACA,"U.S. Representative in Congress, District 4","Horsford, Steven A.",38
 3 - PANACA,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",11
 3 - PANACA,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",365
-3 - PANACA,United States Senator,"Berkley, Shelley",36
-3 - PANACA,United States Senator,"Heller, Dean",367
-3 - PANACA,United States Senator,None Of These Candidates,17
-3 - PANACA,United States Senator,"VANDERBEEK, DAVID LORY",25
+3 - PANACA,U.S. Senate,"Berkley, Shelley",36
+3 - PANACA,U.S. Senate,"Heller, Dean",367
+3 - PANACA,U.S. Senate,None Of These Candidates,17
+3 - PANACA,U.S. Senate,"VANDERBEEK, DAVID LORY",25
 4 - PIOCHE,County Comm Dist. A (CW),"KATSCHKE, ADAM P.",468
 4 - PIOCHE,County Comm Dist. C (CW),"HIGBEE, E. EDWIN, JR.",432
 4 - PIOCHE,County Comm Dist. E (CW),"MATHEWS, PAUL",438
 4 - PIOCHE,COUNTY TREASURER,"BROWN, DENICE",238
 4 - PIOCHE,COUNTY TREASURER,"FREHNER, SHAWN",281
-4 - PIOCHE,President and Vice President of the United States,"GOODE, VIRGIL",8
-4 - PIOCHE,President and Vice President of the United States,"JOHNSON, GARY",9
-4 - PIOCHE,President and Vice President of the United States,None Of These Candidates,1
-4 - PIOCHE,President and Vice President of the United States,"Obama, Barack",143
-4 - PIOCHE,President and Vice President of the United States,"Romney, Mitt",385
+4 - PIOCHE,President,"GOODE, VIRGIL",8
+4 - PIOCHE,President,"JOHNSON, GARY",9
+4 - PIOCHE,President,None Of These Candidates,1
+4 - PIOCHE,President,"Obama, Barack",143
+4 - PIOCHE,President,"Romney, Mitt",385
 4 - PIOCHE,School Trustee District A,"HIBBLE, RON",176
 4 - PIOCHE,School Trustee District A,"KELLEY, PAT",346
 4 - PIOCHE,"State Assembly, District 33","Ellison, John",416
@@ -118,20 +118,20 @@ precinct,office,candidate,votes
 4 - PIOCHE,"U.S. Representative in Congress, District 4","Horsford, Steven A.",114
 4 - PIOCHE,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",12
 4 - PIOCHE,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",375
-4 - PIOCHE,United States Senator,"Berkley, Shelley",113
-4 - PIOCHE,United States Senator,"Heller, Dean",353
-4 - PIOCHE,United States Senator,None Of These Candidates,26
-4 - PIOCHE,United States Senator,"VANDERBEEK, DAVID LORY",47
+4 - PIOCHE,U.S. Senate,"Berkley, Shelley",113
+4 - PIOCHE,U.S. Senate,"Heller, Dean",353
+4 - PIOCHE,U.S. Senate,None Of These Candidates,26
+4 - PIOCHE,U.S. Senate,"VANDERBEEK, DAVID LORY",47
 5 - RACHEL,County Comm Dist. A (CW),"KATSCHKE, ADAM P.",27
 5 - RACHEL,County Comm Dist. C (CW),"HIGBEE, E. EDWIN, JR.",25
 5 - RACHEL,County Comm Dist. E (CW),"MATHEWS, PAUL",21
 5 - RACHEL,COUNTY TREASURER,"BROWN, DENICE",10
 5 - RACHEL,COUNTY TREASURER,"FREHNER, SHAWN",22
-5 - RACHEL,President and Vice President of the United States,"GOODE, VIRGIL",0
-5 - RACHEL,President and Vice President of the United States,"JOHNSON, GARY",2
-5 - RACHEL,President and Vice President of the United States,None Of These Candidates,1
-5 - RACHEL,President and Vice President of the United States,"Obama, Barack",5
-5 - RACHEL,President and Vice President of the United States,"Romney, Mitt",26
+5 - RACHEL,President,"GOODE, VIRGIL",0
+5 - RACHEL,President,"JOHNSON, GARY",2
+5 - RACHEL,President,None Of These Candidates,1
+5 - RACHEL,President,"Obama, Barack",5
+5 - RACHEL,President,"Romney, Mitt",26
 5 - RACHEL,School Trustee District A,"HIBBLE, RON",21
 5 - RACHEL,School Trustee District A,"KELLEY, PAT",10
 5 - RACHEL,"State Assembly, District 36","Oscarson, James",28
@@ -149,25 +149,25 @@ precinct,office,candidate,votes
 5 - RACHEL,"U.S. Representative in Congress, District 4","Horsford, Steven A.",2
 5 - RACHEL,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",5
 5 - RACHEL,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",23
-5 - RACHEL,United States Senator,"Berkley, Shelley",5
-5 - RACHEL,United States Senator,"Heller, Dean",22
-5 - RACHEL,United States Senator,None Of These Candidates,3
-5 - RACHEL,United States Senator,"VANDERBEEK, DAVID LORY",4
-Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"Obama, Barack",0
-Precinct 88,President and Vice President of the United States,"Romney, Mitt",0
-Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",
-Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",
-Precinct 99,President and Vice President of the United States,None Of These Candidates,
-Precinct 99,President and Vice President of the United States,"Obama, Barack",
-Precinct 99,President and Vice President of the United States,"Romney, Mitt",
+5 - RACHEL,U.S. Senate,"Berkley, Shelley",5
+5 - RACHEL,U.S. Senate,"Heller, Dean",22
+5 - RACHEL,U.S. Senate,None Of These Candidates,3
+5 - RACHEL,U.S. Senate,"VANDERBEEK, DAVID LORY",4
+Precinct 88,President,"GOODE, VIRGIL",0
+Precinct 88,President,"JOHNSON, GARY",0
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"Obama, Barack",0
+Precinct 88,President,"Romney, Mitt",0
+Precinct 99,President,"GOODE, VIRGIL",
+Precinct 99,President,"JOHNSON, GARY",
+Precinct 99,President,None Of These Candidates,
+Precinct 99,President,"Obama, Barack",
+Precinct 99,President,"Romney, Mitt",
 Precinct 99,"U.S. Representative in Congress, District 4","Fitzgibbons, Floyd",
 Precinct 99,"U.S. Representative in Congress, District 4","Horsford, Steven A.",
 Precinct 99,"U.S. Representative in Congress, District 4","SILVESTRI, JOSEPH P.",
 Precinct 99,"U.S. Representative in Congress, District 4","TARKANIAN, DANNY",
-Precinct 99,United States Senator,"Berkley, Shelley",
-Precinct 99,United States Senator,"Heller, Dean",
-Precinct 99,United States Senator,None Of These Candidates,
-Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",
+Precinct 99,U.S. Senate,"Berkley, Shelley",
+Precinct 99,U.S. Senate,"Heller, Dean",
+Precinct 99,U.S. Senate,None Of These Candidates,
+Precinct 99,U.S. Senate,"VANDERBEEK, DAVID LORY",

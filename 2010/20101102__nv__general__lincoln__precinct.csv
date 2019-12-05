@@ -48,15 +48,15 @@ precinct,office,candidate,votes
 1 - ALAMO,"U.S. Representative in Congress, District 2","Best, Russell",18
 1 - ALAMO,"U.S. Representative in Congress, District 2","HELLER, DEAN",378
 1 - ALAMO,"U.S. Representative in Congress, District 2","Price, Nancy",59
-1 - ALAMO,United States Senator,"Angle, Sharron",351
-1 - ALAMO,United States Senator,"Ashjian, Scott",10
-1 - ALAMO,United States Senator,"Fasano, Tim",6
-1 - ALAMO,United States Senator,"Haines, Michael L.",0
-1 - ALAMO,United States Senator,"Holland, Jesse",3
-1 - ALAMO,United States Senator,None Of These Candidates,16
-1 - ALAMO,United States Senator,"Reeves, Jeffrey C.",0
-1 - ALAMO,United States Senator,"REID, HARRY",89
-1 - ALAMO,United States Senator,"Stand, Wil",0
+1 - ALAMO,U.S. Senate,"Angle, Sharron",351
+1 - ALAMO,U.S. Senate,"Ashjian, Scott",10
+1 - ALAMO,U.S. Senate,"Fasano, Tim",6
+1 - ALAMO,U.S. Senate,"Haines, Michael L.",0
+1 - ALAMO,U.S. Senate,"Holland, Jesse",3
+1 - ALAMO,U.S. Senate,None Of These Candidates,16
+1 - ALAMO,U.S. Senate,"Reeves, Jeffrey C.",0
+1 - ALAMO,U.S. Senate,"REID, HARRY",89
+1 - ALAMO,U.S. Senate,"Stand, Wil",0
 1 - ALAMO,"University Board of Regents, District  8","MELCHER, KEVIN C.",266
 1 - ALAMO,"University Board of Regents, District  8","PUCCINELLI, MARGARET",124
 2 - CALIENTE,Attorney General,"Barrick, Travis",185
@@ -108,15 +108,15 @@ precinct,office,candidate,votes
 2 - CALIENTE,"U.S. Representative in Congress, District 2","Best, Russell",61
 2 - CALIENTE,"U.S. Representative in Congress, District 2","HELLER, DEAN",330
 2 - CALIENTE,"U.S. Representative in Congress, District 2","Price, Nancy",120
-2 - CALIENTE,United States Senator,"Angle, Sharron",313
-2 - CALIENTE,United States Senator,"Ashjian, Scott",10
-2 - CALIENTE,United States Senator,"Fasano, Tim",7
-2 - CALIENTE,United States Senator,"Haines, Michael L.",2
-2 - CALIENTE,United States Senator,"Holland, Jesse",5
-2 - CALIENTE,United States Senator,None Of These Candidates,29
-2 - CALIENTE,United States Senator,"Reeves, Jeffrey C.",3
-2 - CALIENTE,United States Senator,"REID, HARRY",146
-2 - CALIENTE,United States Senator,"Stand, Wil",10
+2 - CALIENTE,U.S. Senate,"Angle, Sharron",313
+2 - CALIENTE,U.S. Senate,"Ashjian, Scott",10
+2 - CALIENTE,U.S. Senate,"Fasano, Tim",7
+2 - CALIENTE,U.S. Senate,"Haines, Michael L.",2
+2 - CALIENTE,U.S. Senate,"Holland, Jesse",5
+2 - CALIENTE,U.S. Senate,None Of These Candidates,29
+2 - CALIENTE,U.S. Senate,"Reeves, Jeffrey C.",3
+2 - CALIENTE,U.S. Senate,"REID, HARRY",146
+2 - CALIENTE,U.S. Senate,"Stand, Wil",10
 2 - CALIENTE,"University Board of Regents, District  8","MELCHER, KEVIN C.",259
 2 - CALIENTE,"University Board of Regents, District  8","PUCCINELLI, MARGARET",199
 3 - PANACA,Attorney General,"Barrick, Travis",203
@@ -168,15 +168,15 @@ precinct,office,candidate,votes
 3 - PANACA,"U.S. Representative in Congress, District 2","Best, Russell",36
 3 - PANACA,"U.S. Representative in Congress, District 2","HELLER, DEAN",322
 3 - PANACA,"U.S. Representative in Congress, District 2","Price, Nancy",49
-3 - PANACA,United States Senator,"Angle, Sharron",322
-3 - PANACA,United States Senator,"Ashjian, Scott",7
-3 - PANACA,United States Senator,"Fasano, Tim",3
-3 - PANACA,United States Senator,"Haines, Michael L.",5
-3 - PANACA,United States Senator,"Holland, Jesse",3
-3 - PANACA,United States Senator,None Of These Candidates,15
-3 - PANACA,United States Senator,"Reeves, Jeffrey C.",3
-3 - PANACA,United States Senator,"REID, HARRY",60
-3 - PANACA,United States Senator,"Stand, Wil",4
+3 - PANACA,U.S. Senate,"Angle, Sharron",322
+3 - PANACA,U.S. Senate,"Ashjian, Scott",7
+3 - PANACA,U.S. Senate,"Fasano, Tim",3
+3 - PANACA,U.S. Senate,"Haines, Michael L.",5
+3 - PANACA,U.S. Senate,"Holland, Jesse",3
+3 - PANACA,U.S. Senate,None Of These Candidates,15
+3 - PANACA,U.S. Senate,"Reeves, Jeffrey C.",3
+3 - PANACA,U.S. Senate,"REID, HARRY",60
+3 - PANACA,U.S. Senate,"Stand, Wil",4
 3 - PANACA,"University Board of Regents, District  8","MELCHER, KEVIN C.",220
 3 - PANACA,"University Board of Regents, District  8","PUCCINELLI, MARGARET",131
 4 - PIOCHE,Attorney General,"Barrick, Travis",216
@@ -228,15 +228,15 @@ precinct,office,candidate,votes
 4 - PIOCHE,"U.S. Representative in Congress, District 2","Best, Russell",28
 4 - PIOCHE,"U.S. Representative in Congress, District 2","HELLER, DEAN",345
 4 - PIOCHE,"U.S. Representative in Congress, District 2","Price, Nancy",107
-4 - PIOCHE,United States Senator,"Angle, Sharron",302
-4 - PIOCHE,United States Senator,"Ashjian, Scott",5
-4 - PIOCHE,United States Senator,"Fasano, Tim",5
-4 - PIOCHE,United States Senator,"Haines, Michael L.",3
-4 - PIOCHE,United States Senator,"Holland, Jesse",2
-4 - PIOCHE,United States Senator,None Of These Candidates,27
-4 - PIOCHE,United States Senator,"Reeves, Jeffrey C.",7
-4 - PIOCHE,United States Senator,"REID, HARRY",140
-4 - PIOCHE,United States Senator,"Stand, Wil",4
+4 - PIOCHE,U.S. Senate,"Angle, Sharron",302
+4 - PIOCHE,U.S. Senate,"Ashjian, Scott",5
+4 - PIOCHE,U.S. Senate,"Fasano, Tim",5
+4 - PIOCHE,U.S. Senate,"Haines, Michael L.",3
+4 - PIOCHE,U.S. Senate,"Holland, Jesse",2
+4 - PIOCHE,U.S. Senate,None Of These Candidates,27
+4 - PIOCHE,U.S. Senate,"Reeves, Jeffrey C.",7
+4 - PIOCHE,U.S. Senate,"REID, HARRY",140
+4 - PIOCHE,U.S. Senate,"Stand, Wil",4
 4 - PIOCHE,"University Board of Regents, District  8","MELCHER, KEVIN C.",253
 4 - PIOCHE,"University Board of Regents, District  8","PUCCINELLI, MARGARET",157
 5 - RACHEL,Attorney General,"Barrick, Travis",18
@@ -288,26 +288,26 @@ precinct,office,candidate,votes
 5 - RACHEL,"U.S. Representative in Congress, District 2","Best, Russell",7
 5 - RACHEL,"U.S. Representative in Congress, District 2","HELLER, DEAN",21
 5 - RACHEL,"U.S. Representative in Congress, District 2","Price, Nancy",3
-5 - RACHEL,United States Senator,"Angle, Sharron",23
-5 - RACHEL,United States Senator,"Ashjian, Scott",1
-5 - RACHEL,United States Senator,"Fasano, Tim",0
-5 - RACHEL,United States Senator,"Haines, Michael L.",0
-5 - RACHEL,United States Senator,"Holland, Jesse",0
-5 - RACHEL,United States Senator,None Of These Candidates,1
-5 - RACHEL,United States Senator,"Reeves, Jeffrey C.",0
-5 - RACHEL,United States Senator,"REID, HARRY",7
-5 - RACHEL,United States Senator,"Stand, Wil",0
+5 - RACHEL,U.S. Senate,"Angle, Sharron",23
+5 - RACHEL,U.S. Senate,"Ashjian, Scott",1
+5 - RACHEL,U.S. Senate,"Fasano, Tim",0
+5 - RACHEL,U.S. Senate,"Haines, Michael L.",0
+5 - RACHEL,U.S. Senate,"Holland, Jesse",0
+5 - RACHEL,U.S. Senate,None Of These Candidates,1
+5 - RACHEL,U.S. Senate,"Reeves, Jeffrey C.",0
+5 - RACHEL,U.S. Senate,"REID, HARRY",7
+5 - RACHEL,U.S. Senate,"Stand, Wil",0
 5 - RACHEL,"University Board of Regents, District  8","MELCHER, KEVIN C.",14
 5 - RACHEL,"University Board of Regents, District  8","PUCCINELLI, MARGARET",13
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","Price, Nancy",0
-Precinct 99,United States Senator,"Angle, Sharron",0
-Precinct 99,United States Senator,"Ashjian, Scott",0
-Precinct 99,United States Senator,"Fasano, Tim",0
-Precinct 99,United States Senator,"Haines, Michael L.",0
-Precinct 99,United States Senator,"Holland, Jesse",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"Reeves, Jeffrey C.",0
-Precinct 99,United States Senator,"REID, HARRY",0
-Precinct 99,United States Senator,"Stand, Wil",0
+Precinct 99,U.S. Senate,"Angle, Sharron",0
+Precinct 99,U.S. Senate,"Ashjian, Scott",0
+Precinct 99,U.S. Senate,"Fasano, Tim",0
+Precinct 99,U.S. Senate,"Haines, Michael L.",0
+Precinct 99,U.S. Senate,"Holland, Jesse",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"Reeves, Jeffrey C.",0
+Precinct 99,U.S. Senate,"REID, HARRY",0
+Precinct 99,U.S. Senate,"Stand, Wil",0

@@ -37,24 +37,24 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",28
 01-Centerville,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",20
 01-Centerville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",209
-01-Centerville,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-01-Centerville,United States Senator (Democratic),"Miller, Alex",2
-01-Centerville,United States Senator (Democratic),None Of These Candidates,6
-01-Centerville,United States Senator (Democratic),"Poliak, Carlo",1
-01-Centerville,United States Senator (Democratic),"Reid, Harry",50
-01-Centerville,United States Senator (Republican),"Angle, Sharron",106
-01-Centerville,United States Senator (Republican),"Bernstein, Gary",0
-01-Centerville,United States Senator (Republican),"Chachas, John",14
-01-Centerville,United States Senator (Republican),"Christensen, Chad",0
-01-Centerville,United States Senator (Republican),"Lowden, Sue",42
-01-Centerville,United States Senator (Republican),"Mabey, Garn",2
-01-Centerville,United States Senator (Republican),"Marinch, Gary",0
-01-Centerville,United States Senator (Republican),"Nadell, Brian",0
-01-Centerville,United States Senator (Republican),None Of These Candidates,1
-01-Centerville,United States Senator (Republican),"Parson, Bill",0
-01-Centerville,United States Senator (Republican),"Stern, Cecilia",1
-01-Centerville,United States Senator (Republican),"Suominen, Terry",0
-01-Centerville,United States Senator (Republican),"Tarkanian, Danny",69
+01-Centerville,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+01-Centerville,U.S. Senate (Democratic),"Miller, Alex",2
+01-Centerville,U.S. Senate (Democratic),None Of These Candidates,6
+01-Centerville,U.S. Senate (Democratic),"Poliak, Carlo",1
+01-Centerville,U.S. Senate (Democratic),"Reid, Harry",50
+01-Centerville,U.S. Senate (Republican),"Angle, Sharron",106
+01-Centerville,U.S. Senate (Republican),"Bernstein, Gary",0
+01-Centerville,U.S. Senate (Republican),"Chachas, John",14
+01-Centerville,U.S. Senate (Republican),"Christensen, Chad",0
+01-Centerville,U.S. Senate (Republican),"Lowden, Sue",42
+01-Centerville,U.S. Senate (Republican),"Mabey, Garn",2
+01-Centerville,U.S. Senate (Republican),"Marinch, Gary",0
+01-Centerville,U.S. Senate (Republican),"Nadell, Brian",0
+01-Centerville,U.S. Senate (Republican),None Of These Candidates,1
+01-Centerville,U.S. Senate (Republican),"Parson, Bill",0
+01-Centerville,U.S. Senate (Republican),"Stern, Cecilia",1
+01-Centerville,U.S. Senate (Republican),"Suominen, Terry",0
+01-Centerville,U.S. Senate (Republican),"Tarkanian, Danny",69
 02-Fish Springs,Attorney General (Republican),"Barrick, Travis",108
 02-Fish Springs,Attorney General (Republican),"Hafter, Jacob",101
 02-Fish Springs,Attorney General (Republican),None Of These Candidates,78
@@ -91,24 +91,24 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",45
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",38
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",276
-02-Fish Springs,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
-02-Fish Springs,United States Senator (Democratic),"Miller, Alex",5
-02-Fish Springs,United States Senator (Democratic),None Of These Candidates,13
-02-Fish Springs,United States Senator (Democratic),"Poliak, Carlo",4
-02-Fish Springs,United States Senator (Democratic),"Reid, Harry",73
-02-Fish Springs,United States Senator (Republican),"Angle, Sharron",143
-02-Fish Springs,United States Senator (Republican),"Bernstein, Gary",0
-02-Fish Springs,United States Senator (Republican),"Chachas, John",14
-02-Fish Springs,United States Senator (Republican),"Christensen, Chad",4
-02-Fish Springs,United States Senator (Republican),"Lowden, Sue",58
-02-Fish Springs,United States Senator (Republican),"Mabey, Garn",0
-02-Fish Springs,United States Senator (Republican),"Marinch, Gary",0
-02-Fish Springs,United States Senator (Republican),"Nadell, Brian",0
-02-Fish Springs,United States Senator (Republican),None Of These Candidates,7
-02-Fish Springs,United States Senator (Republican),"Parson, Bill",2
-02-Fish Springs,United States Senator (Republican),"Stern, Cecilia",0
-02-Fish Springs,United States Senator (Republican),"Suominen, Terry",0
-02-Fish Springs,United States Senator (Republican),"Tarkanian, Danny",87
+02-Fish Springs,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+02-Fish Springs,U.S. Senate (Democratic),"Miller, Alex",5
+02-Fish Springs,U.S. Senate (Democratic),None Of These Candidates,13
+02-Fish Springs,U.S. Senate (Democratic),"Poliak, Carlo",4
+02-Fish Springs,U.S. Senate (Democratic),"Reid, Harry",73
+02-Fish Springs,U.S. Senate (Republican),"Angle, Sharron",143
+02-Fish Springs,U.S. Senate (Republican),"Bernstein, Gary",0
+02-Fish Springs,U.S. Senate (Republican),"Chachas, John",14
+02-Fish Springs,U.S. Senate (Republican),"Christensen, Chad",4
+02-Fish Springs,U.S. Senate (Republican),"Lowden, Sue",58
+02-Fish Springs,U.S. Senate (Republican),"Mabey, Garn",0
+02-Fish Springs,U.S. Senate (Republican),"Marinch, Gary",0
+02-Fish Springs,U.S. Senate (Republican),"Nadell, Brian",0
+02-Fish Springs,U.S. Senate (Republican),None Of These Candidates,7
+02-Fish Springs,U.S. Senate (Republican),"Parson, Bill",2
+02-Fish Springs,U.S. Senate (Republican),"Stern, Cecilia",0
+02-Fish Springs,U.S. Senate (Republican),"Suominen, Terry",0
+02-Fish Springs,U.S. Senate (Republican),"Tarkanian, Danny",87
 03-Gardnerville,Attorney General (Republican),"Barrick, Travis",90
 03-Gardnerville,Attorney General (Republican),"Hafter, Jacob",75
 03-Gardnerville,Attorney General (Republican),None Of These Candidates,91
@@ -145,24 +145,24 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",48
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",42
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",234
-03-Gardnerville,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-03-Gardnerville,United States Senator (Democratic),"Miller, Alex",10
-03-Gardnerville,United States Senator (Democratic),None Of These Candidates,15
-03-Gardnerville,United States Senator (Democratic),"Poliak, Carlo",2
-03-Gardnerville,United States Senator (Democratic),"Reid, Harry",78
-03-Gardnerville,United States Senator (Republican),"Angle, Sharron",120
-03-Gardnerville,United States Senator (Republican),"Bernstein, Gary",0
-03-Gardnerville,United States Senator (Republican),"Chachas, John",16
-03-Gardnerville,United States Senator (Republican),"Christensen, Chad",3
-03-Gardnerville,United States Senator (Republican),"Lowden, Sue",47
-03-Gardnerville,United States Senator (Republican),"Mabey, Garn",0
-03-Gardnerville,United States Senator (Republican),"Marinch, Gary",0
-03-Gardnerville,United States Senator (Republican),"Nadell, Brian",0
-03-Gardnerville,United States Senator (Republican),None Of These Candidates,7
-03-Gardnerville,United States Senator (Republican),"Parson, Bill",1
-03-Gardnerville,United States Senator (Republican),"Stern, Cecilia",0
-03-Gardnerville,United States Senator (Republican),"Suominen, Terry",0
-03-Gardnerville,United States Senator (Republican),"Tarkanian, Danny",85
+03-Gardnerville,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+03-Gardnerville,U.S. Senate (Democratic),"Miller, Alex",10
+03-Gardnerville,U.S. Senate (Democratic),None Of These Candidates,15
+03-Gardnerville,U.S. Senate (Democratic),"Poliak, Carlo",2
+03-Gardnerville,U.S. Senate (Democratic),"Reid, Harry",78
+03-Gardnerville,U.S. Senate (Republican),"Angle, Sharron",120
+03-Gardnerville,U.S. Senate (Republican),"Bernstein, Gary",0
+03-Gardnerville,U.S. Senate (Republican),"Chachas, John",16
+03-Gardnerville,U.S. Senate (Republican),"Christensen, Chad",3
+03-Gardnerville,U.S. Senate (Republican),"Lowden, Sue",47
+03-Gardnerville,U.S. Senate (Republican),"Mabey, Garn",0
+03-Gardnerville,U.S. Senate (Republican),"Marinch, Gary",0
+03-Gardnerville,U.S. Senate (Republican),"Nadell, Brian",0
+03-Gardnerville,U.S. Senate (Republican),None Of These Candidates,7
+03-Gardnerville,U.S. Senate (Republican),"Parson, Bill",1
+03-Gardnerville,U.S. Senate (Republican),"Stern, Cecilia",0
+03-Gardnerville,U.S. Senate (Republican),"Suominen, Terry",0
+03-Gardnerville,U.S. Senate (Republican),"Tarkanian, Danny",85
 04-Carson Valley Estates,Attorney General (Republican),"Barrick, Travis",50
 04-Carson Valley Estates,Attorney General (Republican),"Hafter, Jacob",55
 04-Carson Valley Estates,Attorney General (Republican),None Of These Candidates,50
@@ -199,24 +199,24 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",34
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",26
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",135
-04-Carson Valley Estates,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-04-Carson Valley Estates,United States Senator (Democratic),"Miller, Alex",9
-04-Carson Valley Estates,United States Senator (Democratic),None Of These Candidates,15
-04-Carson Valley Estates,United States Senator (Democratic),"Poliak, Carlo",0
-04-Carson Valley Estates,United States Senator (Democratic),"Reid, Harry",47
-04-Carson Valley Estates,United States Senator (Republican),"Angle, Sharron",56
-04-Carson Valley Estates,United States Senator (Republican),"Bernstein, Gary",0
-04-Carson Valley Estates,United States Senator (Republican),"Chachas, John",5
-04-Carson Valley Estates,United States Senator (Republican),"Christensen, Chad",0
-04-Carson Valley Estates,United States Senator (Republican),"Lowden, Sue",26
-04-Carson Valley Estates,United States Senator (Republican),"Mabey, Garn",0
-04-Carson Valley Estates,United States Senator (Republican),"Marinch, Gary",0
-04-Carson Valley Estates,United States Senator (Republican),"Nadell, Brian",0
-04-Carson Valley Estates,United States Senator (Republican),None Of These Candidates,2
-04-Carson Valley Estates,United States Senator (Republican),"Parson, Bill",0
-04-Carson Valley Estates,United States Senator (Republican),"Stern, Cecilia",0
-04-Carson Valley Estates,United States Senator (Republican),"Suominen, Terry",0
-04-Carson Valley Estates,United States Senator (Republican),"Tarkanian, Danny",72
+04-Carson Valley Estates,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+04-Carson Valley Estates,U.S. Senate (Democratic),"Miller, Alex",9
+04-Carson Valley Estates,U.S. Senate (Democratic),None Of These Candidates,15
+04-Carson Valley Estates,U.S. Senate (Democratic),"Poliak, Carlo",0
+04-Carson Valley Estates,U.S. Senate (Democratic),"Reid, Harry",47
+04-Carson Valley Estates,U.S. Senate (Republican),"Angle, Sharron",56
+04-Carson Valley Estates,U.S. Senate (Republican),"Bernstein, Gary",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Chachas, John",5
+04-Carson Valley Estates,U.S. Senate (Republican),"Christensen, Chad",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Lowden, Sue",26
+04-Carson Valley Estates,U.S. Senate (Republican),"Mabey, Garn",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Marinch, Gary",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Nadell, Brian",0
+04-Carson Valley Estates,U.S. Senate (Republican),None Of These Candidates,2
+04-Carson Valley Estates,U.S. Senate (Republican),"Parson, Bill",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Stern, Cecilia",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Suominen, Terry",0
+04-Carson Valley Estates,U.S. Senate (Republican),"Tarkanian, Danny",72
 05-Genoa,Attorney General (Republican),"Barrick, Travis",103
 05-Genoa,Attorney General (Republican),"Hafter, Jacob",88
 05-Genoa,Attorney General (Republican),None Of These Candidates,60
@@ -255,24 +255,24 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",34
 05-Genoa,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",24
 05-Genoa,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",259
-05-Genoa,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-05-Genoa,United States Senator (Democratic),"Miller, Alex",2
-05-Genoa,United States Senator (Democratic),None Of These Candidates,5
-05-Genoa,United States Senator (Democratic),"Poliak, Carlo",0
-05-Genoa,United States Senator (Democratic),"Reid, Harry",47
-05-Genoa,United States Senator (Republican),"Angle, Sharron",146
-05-Genoa,United States Senator (Republican),"Bernstein, Gary",0
-05-Genoa,United States Senator (Republican),"Chachas, John",15
-05-Genoa,United States Senator (Republican),"Christensen, Chad",1
-05-Genoa,United States Senator (Republican),"Lowden, Sue",76
-05-Genoa,United States Senator (Republican),"Mabey, Garn",1
-05-Genoa,United States Senator (Republican),"Marinch, Gary",0
-05-Genoa,United States Senator (Republican),"Nadell, Brian",0
-05-Genoa,United States Senator (Republican),None Of These Candidates,1
-05-Genoa,United States Senator (Republican),"Parson, Bill",1
-05-Genoa,United States Senator (Republican),"Stern, Cecilia",0
-05-Genoa,United States Senator (Republican),"Suominen, Terry",0
-05-Genoa,United States Senator (Republican),"Tarkanian, Danny",47
+05-Genoa,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+05-Genoa,U.S. Senate (Democratic),"Miller, Alex",2
+05-Genoa,U.S. Senate (Democratic),None Of These Candidates,5
+05-Genoa,U.S. Senate (Democratic),"Poliak, Carlo",0
+05-Genoa,U.S. Senate (Democratic),"Reid, Harry",47
+05-Genoa,U.S. Senate (Republican),"Angle, Sharron",146
+05-Genoa,U.S. Senate (Republican),"Bernstein, Gary",0
+05-Genoa,U.S. Senate (Republican),"Chachas, John",15
+05-Genoa,U.S. Senate (Republican),"Christensen, Chad",1
+05-Genoa,U.S. Senate (Republican),"Lowden, Sue",76
+05-Genoa,U.S. Senate (Republican),"Mabey, Garn",1
+05-Genoa,U.S. Senate (Republican),"Marinch, Gary",0
+05-Genoa,U.S. Senate (Republican),"Nadell, Brian",0
+05-Genoa,U.S. Senate (Republican),None Of These Candidates,1
+05-Genoa,U.S. Senate (Republican),"Parson, Bill",1
+05-Genoa,U.S. Senate (Republican),"Stern, Cecilia",0
+05-Genoa,U.S. Senate (Republican),"Suominen, Terry",0
+05-Genoa,U.S. Senate (Republican),"Tarkanian, Danny",47
 06-Jacks Valley,Attorney General (Republican),"Barrick, Travis",84
 06-Jacks Valley,Attorney General (Republican),"Hafter, Jacob",87
 06-Jacks Valley,Attorney General (Republican),None Of These Candidates,59
@@ -311,24 +311,24 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",62
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",31
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",212
-06-Jacks Valley,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
-06-Jacks Valley,United States Senator (Democratic),"Miller, Alex",15
-06-Jacks Valley,United States Senator (Democratic),None Of These Candidates,12
-06-Jacks Valley,United States Senator (Democratic),"Poliak, Carlo",1
-06-Jacks Valley,United States Senator (Democratic),"Reid, Harry",83
-06-Jacks Valley,United States Senator (Republican),"Angle, Sharron",101
-06-Jacks Valley,United States Senator (Republican),"Bernstein, Gary",0
-06-Jacks Valley,United States Senator (Republican),"Chachas, John",20
-06-Jacks Valley,United States Senator (Republican),"Christensen, Chad",2
-06-Jacks Valley,United States Senator (Republican),"Lowden, Sue",46
-06-Jacks Valley,United States Senator (Republican),"Mabey, Garn",0
-06-Jacks Valley,United States Senator (Republican),"Marinch, Gary",1
-06-Jacks Valley,United States Senator (Republican),"Nadell, Brian",0
-06-Jacks Valley,United States Senator (Republican),None Of These Candidates,6
-06-Jacks Valley,United States Senator (Republican),"Parson, Bill",3
-06-Jacks Valley,United States Senator (Republican),"Stern, Cecilia",1
-06-Jacks Valley,United States Senator (Republican),"Suominen, Terry",0
-06-Jacks Valley,United States Senator (Republican),"Tarkanian, Danny",67
+06-Jacks Valley,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+06-Jacks Valley,U.S. Senate (Democratic),"Miller, Alex",15
+06-Jacks Valley,U.S. Senate (Democratic),None Of These Candidates,12
+06-Jacks Valley,U.S. Senate (Democratic),"Poliak, Carlo",1
+06-Jacks Valley,U.S. Senate (Democratic),"Reid, Harry",83
+06-Jacks Valley,U.S. Senate (Republican),"Angle, Sharron",101
+06-Jacks Valley,U.S. Senate (Republican),"Bernstein, Gary",0
+06-Jacks Valley,U.S. Senate (Republican),"Chachas, John",20
+06-Jacks Valley,U.S. Senate (Republican),"Christensen, Chad",2
+06-Jacks Valley,U.S. Senate (Republican),"Lowden, Sue",46
+06-Jacks Valley,U.S. Senate (Republican),"Mabey, Garn",0
+06-Jacks Valley,U.S. Senate (Republican),"Marinch, Gary",1
+06-Jacks Valley,U.S. Senate (Republican),"Nadell, Brian",0
+06-Jacks Valley,U.S. Senate (Republican),None Of These Candidates,6
+06-Jacks Valley,U.S. Senate (Republican),"Parson, Bill",3
+06-Jacks Valley,U.S. Senate (Republican),"Stern, Cecilia",1
+06-Jacks Valley,U.S. Senate (Republican),"Suominen, Terry",0
+06-Jacks Valley,U.S. Senate (Republican),"Tarkanian, Danny",67
 07-Minden,Attorney General (Republican),"Barrick, Travis",87
 07-Minden,Attorney General (Republican),"Hafter, Jacob",69
 07-Minden,Attorney General (Republican),None Of These Candidates,100
@@ -372,24 +372,24 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",29
 07-Minden,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",40
 07-Minden,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",243
-07-Minden,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
-07-Minden,United States Senator (Democratic),"Miller, Alex",10
-07-Minden,United States Senator (Democratic),None Of These Candidates,11
-07-Minden,United States Senator (Democratic),"Poliak, Carlo",2
-07-Minden,United States Senator (Democratic),"Reid, Harry",65
-07-Minden,United States Senator (Republican),"Angle, Sharron",116
-07-Minden,United States Senator (Republican),"Bernstein, Gary",1
-07-Minden,United States Senator (Republican),"Chachas, John",23
-07-Minden,United States Senator (Republican),"Christensen, Chad",5
-07-Minden,United States Senator (Republican),"Lowden, Sue",63
-07-Minden,United States Senator (Republican),"Mabey, Garn",0
-07-Minden,United States Senator (Republican),"Marinch, Gary",0
-07-Minden,United States Senator (Republican),"Nadell, Brian",1
-07-Minden,United States Senator (Republican),None Of These Candidates,12
-07-Minden,United States Senator (Republican),"Parson, Bill",1
-07-Minden,United States Senator (Republican),"Stern, Cecilia",0
-07-Minden,United States Senator (Republican),"Suominen, Terry",0
-07-Minden,United States Senator (Republican),"Tarkanian, Danny",69
+07-Minden,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+07-Minden,U.S. Senate (Democratic),"Miller, Alex",10
+07-Minden,U.S. Senate (Democratic),None Of These Candidates,11
+07-Minden,U.S. Senate (Democratic),"Poliak, Carlo",2
+07-Minden,U.S. Senate (Democratic),"Reid, Harry",65
+07-Minden,U.S. Senate (Republican),"Angle, Sharron",116
+07-Minden,U.S. Senate (Republican),"Bernstein, Gary",1
+07-Minden,U.S. Senate (Republican),"Chachas, John",23
+07-Minden,U.S. Senate (Republican),"Christensen, Chad",5
+07-Minden,U.S. Senate (Republican),"Lowden, Sue",63
+07-Minden,U.S. Senate (Republican),"Mabey, Garn",0
+07-Minden,U.S. Senate (Republican),"Marinch, Gary",0
+07-Minden,U.S. Senate (Republican),"Nadell, Brian",1
+07-Minden,U.S. Senate (Republican),None Of These Candidates,12
+07-Minden,U.S. Senate (Republican),"Parson, Bill",1
+07-Minden,U.S. Senate (Republican),"Stern, Cecilia",0
+07-Minden,U.S. Senate (Republican),"Suominen, Terry",0
+07-Minden,U.S. Senate (Republican),"Tarkanian, Danny",69
 08-Ranchos I,Attorney General (Republican),"Barrick, Travis",63
 08-Ranchos I,Attorney General (Republican),"Hafter, Jacob",54
 08-Ranchos I,Attorney General (Republican),None Of These Candidates,45
@@ -428,24 +428,24 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",36
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",22
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",147
-08-Ranchos I,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
-08-Ranchos I,United States Senator (Democratic),"Miller, Alex",5
-08-Ranchos I,United States Senator (Democratic),None Of These Candidates,8
-08-Ranchos I,United States Senator (Democratic),"Poliak, Carlo",3
-08-Ranchos I,United States Senator (Democratic),"Reid, Harry",51
-08-Ranchos I,United States Senator (Republican),"Angle, Sharron",76
-08-Ranchos I,United States Senator (Republican),"Bernstein, Gary",1
-08-Ranchos I,United States Senator (Republican),"Chachas, John",14
-08-Ranchos I,United States Senator (Republican),"Christensen, Chad",1
-08-Ranchos I,United States Senator (Republican),"Lowden, Sue",34
-08-Ranchos I,United States Senator (Republican),"Mabey, Garn",1
-08-Ranchos I,United States Senator (Republican),"Marinch, Gary",3
-08-Ranchos I,United States Senator (Republican),"Nadell, Brian",0
-08-Ranchos I,United States Senator (Republican),None Of These Candidates,4
-08-Ranchos I,United States Senator (Republican),"Parson, Bill",3
-08-Ranchos I,United States Senator (Republican),"Stern, Cecilia",0
-08-Ranchos I,United States Senator (Republican),"Suominen, Terry",0
-08-Ranchos I,United States Senator (Republican),"Tarkanian, Danny",39
+08-Ranchos I,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+08-Ranchos I,U.S. Senate (Democratic),"Miller, Alex",5
+08-Ranchos I,U.S. Senate (Democratic),None Of These Candidates,8
+08-Ranchos I,U.S. Senate (Democratic),"Poliak, Carlo",3
+08-Ranchos I,U.S. Senate (Democratic),"Reid, Harry",51
+08-Ranchos I,U.S. Senate (Republican),"Angle, Sharron",76
+08-Ranchos I,U.S. Senate (Republican),"Bernstein, Gary",1
+08-Ranchos I,U.S. Senate (Republican),"Chachas, John",14
+08-Ranchos I,U.S. Senate (Republican),"Christensen, Chad",1
+08-Ranchos I,U.S. Senate (Republican),"Lowden, Sue",34
+08-Ranchos I,U.S. Senate (Republican),"Mabey, Garn",1
+08-Ranchos I,U.S. Senate (Republican),"Marinch, Gary",3
+08-Ranchos I,U.S. Senate (Republican),"Nadell, Brian",0
+08-Ranchos I,U.S. Senate (Republican),None Of These Candidates,4
+08-Ranchos I,U.S. Senate (Republican),"Parson, Bill",3
+08-Ranchos I,U.S. Senate (Republican),"Stern, Cecilia",0
+08-Ranchos I,U.S. Senate (Republican),"Suominen, Terry",0
+08-Ranchos I,U.S. Senate (Republican),"Tarkanian, Danny",39
 09-Ranchos II,Attorney General (Republican),"Barrick, Travis",62
 09-Ranchos II,Attorney General (Republican),"Hafter, Jacob",52
 09-Ranchos II,Attorney General (Republican),None Of These Candidates,40
@@ -484,24 +484,24 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",31
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",22
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",135
-09-Ranchos II,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-09-Ranchos II,United States Senator (Democratic),"Miller, Alex",7
-09-Ranchos II,United States Senator (Democratic),None Of These Candidates,8
-09-Ranchos II,United States Senator (Democratic),"Poliak, Carlo",2
-09-Ranchos II,United States Senator (Democratic),"Reid, Harry",43
-09-Ranchos II,United States Senator (Republican),"Angle, Sharron",75
-09-Ranchos II,United States Senator (Republican),"Bernstein, Gary",0
-09-Ranchos II,United States Senator (Republican),"Chachas, John",4
-09-Ranchos II,United States Senator (Republican),"Christensen, Chad",0
-09-Ranchos II,United States Senator (Republican),"Lowden, Sue",25
-09-Ranchos II,United States Senator (Republican),"Mabey, Garn",0
-09-Ranchos II,United States Senator (Republican),"Marinch, Gary",0
-09-Ranchos II,United States Senator (Republican),"Nadell, Brian",0
-09-Ranchos II,United States Senator (Republican),None Of These Candidates,5
-09-Ranchos II,United States Senator (Republican),"Parson, Bill",1
-09-Ranchos II,United States Senator (Republican),"Stern, Cecilia",1
-09-Ranchos II,United States Senator (Republican),"Suominen, Terry",0
-09-Ranchos II,United States Senator (Republican),"Tarkanian, Danny",49
+09-Ranchos II,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+09-Ranchos II,U.S. Senate (Democratic),"Miller, Alex",7
+09-Ranchos II,U.S. Senate (Democratic),None Of These Candidates,8
+09-Ranchos II,U.S. Senate (Democratic),"Poliak, Carlo",2
+09-Ranchos II,U.S. Senate (Democratic),"Reid, Harry",43
+09-Ranchos II,U.S. Senate (Republican),"Angle, Sharron",75
+09-Ranchos II,U.S. Senate (Republican),"Bernstein, Gary",0
+09-Ranchos II,U.S. Senate (Republican),"Chachas, John",4
+09-Ranchos II,U.S. Senate (Republican),"Christensen, Chad",0
+09-Ranchos II,U.S. Senate (Republican),"Lowden, Sue",25
+09-Ranchos II,U.S. Senate (Republican),"Mabey, Garn",0
+09-Ranchos II,U.S. Senate (Republican),"Marinch, Gary",0
+09-Ranchos II,U.S. Senate (Republican),"Nadell, Brian",0
+09-Ranchos II,U.S. Senate (Republican),None Of These Candidates,5
+09-Ranchos II,U.S. Senate (Republican),"Parson, Bill",1
+09-Ranchos II,U.S. Senate (Republican),"Stern, Cecilia",1
+09-Ranchos II,U.S. Senate (Republican),"Suominen, Terry",0
+09-Ranchos II,U.S. Senate (Republican),"Tarkanian, Danny",49
 10-TRE,Attorney General (Republican),"Barrick, Travis",113
 10-TRE,Attorney General (Republican),"Hafter, Jacob",73
 10-TRE,Attorney General (Republican),None Of These Candidates,75
@@ -538,24 +538,24 @@ precinct,office,candidate,votes
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",41
 10-TRE,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",46
 10-TRE,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",226
-10-TRE,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",8
-10-TRE,United States Senator (Democratic),"Miller, Alex",13
-10-TRE,United States Senator (Democratic),None Of These Candidates,13
-10-TRE,United States Senator (Democratic),"Poliak, Carlo",3
-10-TRE,United States Senator (Democratic),"Reid, Harry",64
-10-TRE,United States Senator (Republican),"Angle, Sharron",116
-10-TRE,United States Senator (Republican),"Bernstein, Gary",0
-10-TRE,United States Senator (Republican),"Chachas, John",11
-10-TRE,United States Senator (Republican),"Christensen, Chad",6
-10-TRE,United States Senator (Republican),"Lowden, Sue",61
-10-TRE,United States Senator (Republican),"Mabey, Garn",2
-10-TRE,United States Senator (Republican),"Marinch, Gary",0
-10-TRE,United States Senator (Republican),"Nadell, Brian",0
-10-TRE,United States Senator (Republican),None Of These Candidates,8
-10-TRE,United States Senator (Republican),"Parson, Bill",3
-10-TRE,United States Senator (Republican),"Stern, Cecilia",1
-10-TRE,United States Senator (Republican),"Suominen, Terry",0
-10-TRE,United States Senator (Republican),"Tarkanian, Danny",68
+10-TRE,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",8
+10-TRE,U.S. Senate (Democratic),"Miller, Alex",13
+10-TRE,U.S. Senate (Democratic),None Of These Candidates,13
+10-TRE,U.S. Senate (Democratic),"Poliak, Carlo",3
+10-TRE,U.S. Senate (Democratic),"Reid, Harry",64
+10-TRE,U.S. Senate (Republican),"Angle, Sharron",116
+10-TRE,U.S. Senate (Republican),"Bernstein, Gary",0
+10-TRE,U.S. Senate (Republican),"Chachas, John",11
+10-TRE,U.S. Senate (Republican),"Christensen, Chad",6
+10-TRE,U.S. Senate (Republican),"Lowden, Sue",61
+10-TRE,U.S. Senate (Republican),"Mabey, Garn",2
+10-TRE,U.S. Senate (Republican),"Marinch, Gary",0
+10-TRE,U.S. Senate (Republican),"Nadell, Brian",0
+10-TRE,U.S. Senate (Republican),None Of These Candidates,8
+10-TRE,U.S. Senate (Republican),"Parson, Bill",3
+10-TRE,U.S. Senate (Republican),"Stern, Cecilia",1
+10-TRE,U.S. Senate (Republican),"Suominen, Terry",0
+10-TRE,U.S. Senate (Republican),"Tarkanian, Danny",68
 11-Johnson Lane,Attorney General (Republican),"Barrick, Travis",109
 11-Johnson Lane,Attorney General (Republican),"Hafter, Jacob",98
 11-Johnson Lane,Attorney General (Republican),None Of These Candidates,75
@@ -594,24 +594,24 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",50
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",35
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",263
-11-Johnson Lane,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
-11-Johnson Lane,United States Senator (Democratic),"Miller, Alex",13
-11-Johnson Lane,United States Senator (Democratic),None Of These Candidates,17
-11-Johnson Lane,United States Senator (Democratic),"Poliak, Carlo",3
-11-Johnson Lane,United States Senator (Democratic),"Reid, Harry",78
-11-Johnson Lane,United States Senator (Republican),"Angle, Sharron",135
-11-Johnson Lane,United States Senator (Republican),"Bernstein, Gary",0
-11-Johnson Lane,United States Senator (Republican),"Chachas, John",23
-11-Johnson Lane,United States Senator (Republican),"Christensen, Chad",3
-11-Johnson Lane,United States Senator (Republican),"Lowden, Sue",61
-11-Johnson Lane,United States Senator (Republican),"Mabey, Garn",0
-11-Johnson Lane,United States Senator (Republican),"Marinch, Gary",0
-11-Johnson Lane,United States Senator (Republican),"Nadell, Brian",0
-11-Johnson Lane,United States Senator (Republican),None Of These Candidates,8
-11-Johnson Lane,United States Senator (Republican),"Parson, Bill",3
-11-Johnson Lane,United States Senator (Republican),"Stern, Cecilia",0
-11-Johnson Lane,United States Senator (Republican),"Suominen, Terry",0
-11-Johnson Lane,United States Senator (Republican),"Tarkanian, Danny",68
+11-Johnson Lane,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",7
+11-Johnson Lane,U.S. Senate (Democratic),"Miller, Alex",13
+11-Johnson Lane,U.S. Senate (Democratic),None Of These Candidates,17
+11-Johnson Lane,U.S. Senate (Democratic),"Poliak, Carlo",3
+11-Johnson Lane,U.S. Senate (Democratic),"Reid, Harry",78
+11-Johnson Lane,U.S. Senate (Republican),"Angle, Sharron",135
+11-Johnson Lane,U.S. Senate (Republican),"Bernstein, Gary",0
+11-Johnson Lane,U.S. Senate (Republican),"Chachas, John",23
+11-Johnson Lane,U.S. Senate (Republican),"Christensen, Chad",3
+11-Johnson Lane,U.S. Senate (Republican),"Lowden, Sue",61
+11-Johnson Lane,U.S. Senate (Republican),"Mabey, Garn",0
+11-Johnson Lane,U.S. Senate (Republican),"Marinch, Gary",0
+11-Johnson Lane,U.S. Senate (Republican),"Nadell, Brian",0
+11-Johnson Lane,U.S. Senate (Republican),None Of These Candidates,8
+11-Johnson Lane,U.S. Senate (Republican),"Parson, Bill",3
+11-Johnson Lane,U.S. Senate (Republican),"Stern, Cecilia",0
+11-Johnson Lane,U.S. Senate (Republican),"Suominen, Terry",0
+11-Johnson Lane,U.S. Senate (Republican),"Tarkanian, Danny",68
 12-Dresslerville,Attorney General (Republican),"Barrick, Travis",
 12-Dresslerville,Attorney General (Republican),"Hafter, Jacob",
 12-Dresslerville,Attorney General (Republican),None Of These Candidates,
@@ -648,24 +648,24 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",5
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
-12-Dresslerville,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-12-Dresslerville,United States Senator (Democratic),"Miller, Alex",0
-12-Dresslerville,United States Senator (Democratic),None Of These Candidates,0
-12-Dresslerville,United States Senator (Democratic),"Poliak, Carlo",0
-12-Dresslerville,United States Senator (Democratic),"Reid, Harry",14
-12-Dresslerville,United States Senator (Republican),"Angle, Sharron",
-12-Dresslerville,United States Senator (Republican),"Bernstein, Gary",
-12-Dresslerville,United States Senator (Republican),"Chachas, John",
-12-Dresslerville,United States Senator (Republican),"Christensen, Chad",
-12-Dresslerville,United States Senator (Republican),"Lowden, Sue",
-12-Dresslerville,United States Senator (Republican),"Mabey, Garn",
-12-Dresslerville,United States Senator (Republican),"Marinch, Gary",
-12-Dresslerville,United States Senator (Republican),"Nadell, Brian",
-12-Dresslerville,United States Senator (Republican),None Of These Candidates,
-12-Dresslerville,United States Senator (Republican),"Parson, Bill",
-12-Dresslerville,United States Senator (Republican),"Stern, Cecilia",
-12-Dresslerville,United States Senator (Republican),"Suominen, Terry",
-12-Dresslerville,United States Senator (Republican),"Tarkanian, Danny",
+12-Dresslerville,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+12-Dresslerville,U.S. Senate (Democratic),"Miller, Alex",0
+12-Dresslerville,U.S. Senate (Democratic),None Of These Candidates,0
+12-Dresslerville,U.S. Senate (Democratic),"Poliak, Carlo",0
+12-Dresslerville,U.S. Senate (Democratic),"Reid, Harry",14
+12-Dresslerville,U.S. Senate (Republican),"Angle, Sharron",
+12-Dresslerville,U.S. Senate (Republican),"Bernstein, Gary",
+12-Dresslerville,U.S. Senate (Republican),"Chachas, John",
+12-Dresslerville,U.S. Senate (Republican),"Christensen, Chad",
+12-Dresslerville,U.S. Senate (Republican),"Lowden, Sue",
+12-Dresslerville,U.S. Senate (Republican),"Mabey, Garn",
+12-Dresslerville,U.S. Senate (Republican),"Marinch, Gary",
+12-Dresslerville,U.S. Senate (Republican),"Nadell, Brian",
+12-Dresslerville,U.S. Senate (Republican),None Of These Candidates,
+12-Dresslerville,U.S. Senate (Republican),"Parson, Bill",
+12-Dresslerville,U.S. Senate (Republican),"Stern, Cecilia",
+12-Dresslerville,U.S. Senate (Republican),"Suominen, Terry",
+12-Dresslerville,U.S. Senate (Republican),"Tarkanian, Danny",
 13-Indian Hills - West,Attorney General (Republican),"Barrick, Travis",98
 13-Indian Hills - West,Attorney General (Republican),"Hafter, Jacob",65
 13-Indian Hills - West,Attorney General (Republican),None Of These Candidates,44
@@ -704,24 +704,24 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",33
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",25
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",194
-13-Indian Hills - West,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
-13-Indian Hills - West,United States Senator (Democratic),"Miller, Alex",12
-13-Indian Hills - West,United States Senator (Democratic),None Of These Candidates,8
-13-Indian Hills - West,United States Senator (Democratic),"Poliak, Carlo",0
-13-Indian Hills - West,United States Senator (Democratic),"Reid, Harry",77
-13-Indian Hills - West,United States Senator (Republican),"Angle, Sharron",107
-13-Indian Hills - West,United States Senator (Republican),"Bernstein, Gary",2
-13-Indian Hills - West,United States Senator (Republican),"Chachas, John",8
-13-Indian Hills - West,United States Senator (Republican),"Christensen, Chad",0
-13-Indian Hills - West,United States Senator (Republican),"Lowden, Sue",41
-13-Indian Hills - West,United States Senator (Republican),"Mabey, Garn",0
-13-Indian Hills - West,United States Senator (Republican),"Marinch, Gary",0
-13-Indian Hills - West,United States Senator (Republican),"Nadell, Brian",0
-13-Indian Hills - West,United States Senator (Republican),None Of These Candidates,3
-13-Indian Hills - West,United States Senator (Republican),"Parson, Bill",1
-13-Indian Hills - West,United States Senator (Republican),"Stern, Cecilia",2
-13-Indian Hills - West,United States Senator (Republican),"Suominen, Terry",0
-13-Indian Hills - West,United States Senator (Republican),"Tarkanian, Danny",57
+13-Indian Hills - West,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+13-Indian Hills - West,U.S. Senate (Democratic),"Miller, Alex",12
+13-Indian Hills - West,U.S. Senate (Democratic),None Of These Candidates,8
+13-Indian Hills - West,U.S. Senate (Democratic),"Poliak, Carlo",0
+13-Indian Hills - West,U.S. Senate (Democratic),"Reid, Harry",77
+13-Indian Hills - West,U.S. Senate (Republican),"Angle, Sharron",107
+13-Indian Hills - West,U.S. Senate (Republican),"Bernstein, Gary",2
+13-Indian Hills - West,U.S. Senate (Republican),"Chachas, John",8
+13-Indian Hills - West,U.S. Senate (Republican),"Christensen, Chad",0
+13-Indian Hills - West,U.S. Senate (Republican),"Lowden, Sue",41
+13-Indian Hills - West,U.S. Senate (Republican),"Mabey, Garn",0
+13-Indian Hills - West,U.S. Senate (Republican),"Marinch, Gary",0
+13-Indian Hills - West,U.S. Senate (Republican),"Nadell, Brian",0
+13-Indian Hills - West,U.S. Senate (Republican),None Of These Candidates,3
+13-Indian Hills - West,U.S. Senate (Republican),"Parson, Bill",1
+13-Indian Hills - West,U.S. Senate (Republican),"Stern, Cecilia",2
+13-Indian Hills - West,U.S. Senate (Republican),"Suominen, Terry",0
+13-Indian Hills - West,U.S. Senate (Republican),"Tarkanian, Danny",57
 14-Pinenut,Attorney General (Republican),"Barrick, Travis",109
 14-Pinenut,Attorney General (Republican),"Hafter, Jacob",94
 14-Pinenut,Attorney General (Republican),None Of These Candidates,74
@@ -758,24 +758,24 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",24
 14-Pinenut,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",32
 14-Pinenut,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",272
-14-Pinenut,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-14-Pinenut,United States Senator (Democratic),"Miller, Alex",8
-14-Pinenut,United States Senator (Democratic),None Of These Candidates,5
-14-Pinenut,United States Senator (Democratic),"Poliak, Carlo",1
-14-Pinenut,United States Senator (Democratic),"Reid, Harry",42
-14-Pinenut,United States Senator (Republican),"Angle, Sharron",164
-14-Pinenut,United States Senator (Republican),"Bernstein, Gary",0
-14-Pinenut,United States Senator (Republican),"Chachas, John",17
-14-Pinenut,United States Senator (Republican),"Christensen, Chad",1
-14-Pinenut,United States Senator (Republican),"Lowden, Sue",45
-14-Pinenut,United States Senator (Republican),"Mabey, Garn",1
-14-Pinenut,United States Senator (Republican),"Marinch, Gary",0
-14-Pinenut,United States Senator (Republican),"Nadell, Brian",0
-14-Pinenut,United States Senator (Republican),None Of These Candidates,4
-14-Pinenut,United States Senator (Republican),"Parson, Bill",0
-14-Pinenut,United States Senator (Republican),"Stern, Cecilia",1
-14-Pinenut,United States Senator (Republican),"Suominen, Terry",0
-14-Pinenut,United States Senator (Republican),"Tarkanian, Danny",74
+14-Pinenut,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+14-Pinenut,U.S. Senate (Democratic),"Miller, Alex",8
+14-Pinenut,U.S. Senate (Democratic),None Of These Candidates,5
+14-Pinenut,U.S. Senate (Democratic),"Poliak, Carlo",1
+14-Pinenut,U.S. Senate (Democratic),"Reid, Harry",42
+14-Pinenut,U.S. Senate (Republican),"Angle, Sharron",164
+14-Pinenut,U.S. Senate (Republican),"Bernstein, Gary",0
+14-Pinenut,U.S. Senate (Republican),"Chachas, John",17
+14-Pinenut,U.S. Senate (Republican),"Christensen, Chad",1
+14-Pinenut,U.S. Senate (Republican),"Lowden, Sue",45
+14-Pinenut,U.S. Senate (Republican),"Mabey, Garn",1
+14-Pinenut,U.S. Senate (Republican),"Marinch, Gary",0
+14-Pinenut,U.S. Senate (Republican),"Nadell, Brian",0
+14-Pinenut,U.S. Senate (Republican),None Of These Candidates,4
+14-Pinenut,U.S. Senate (Republican),"Parson, Bill",0
+14-Pinenut,U.S. Senate (Republican),"Stern, Cecilia",1
+14-Pinenut,U.S. Senate (Republican),"Suominen, Terry",0
+14-Pinenut,U.S. Senate (Republican),"Tarkanian, Danny",74
 15-Valley,Attorney General (Republican),"Barrick, Travis",30
 15-Valley,Attorney General (Republican),"Hafter, Jacob",58
 15-Valley,Attorney General (Republican),None Of These Candidates,26
@@ -814,24 +814,24 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",19
 15-Valley,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",12
 15-Valley,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",117
-15-Valley,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-15-Valley,United States Senator (Democratic),"Miller, Alex",4
-15-Valley,United States Senator (Democratic),None Of These Candidates,2
-15-Valley,United States Senator (Democratic),"Poliak, Carlo",1
-15-Valley,United States Senator (Democratic),"Reid, Harry",27
-15-Valley,United States Senator (Republican),"Angle, Sharron",56
-15-Valley,United States Senator (Republican),"Bernstein, Gary",0
-15-Valley,United States Senator (Republican),"Chachas, John",13
-15-Valley,United States Senator (Republican),"Christensen, Chad",3
-15-Valley,United States Senator (Republican),"Lowden, Sue",27
-15-Valley,United States Senator (Republican),"Mabey, Garn",0
-15-Valley,United States Senator (Republican),"Marinch, Gary",0
-15-Valley,United States Senator (Republican),"Nadell, Brian",0
-15-Valley,United States Senator (Republican),None Of These Candidates,1
-15-Valley,United States Senator (Republican),"Parson, Bill",0
-15-Valley,United States Senator (Republican),"Stern, Cecilia",1
-15-Valley,United States Senator (Republican),"Suominen, Terry",0
-15-Valley,United States Senator (Republican),"Tarkanian, Danny",29
+15-Valley,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+15-Valley,U.S. Senate (Democratic),"Miller, Alex",4
+15-Valley,U.S. Senate (Democratic),None Of These Candidates,2
+15-Valley,U.S. Senate (Democratic),"Poliak, Carlo",1
+15-Valley,U.S. Senate (Democratic),"Reid, Harry",27
+15-Valley,U.S. Senate (Republican),"Angle, Sharron",56
+15-Valley,U.S. Senate (Republican),"Bernstein, Gary",0
+15-Valley,U.S. Senate (Republican),"Chachas, John",13
+15-Valley,U.S. Senate (Republican),"Christensen, Chad",3
+15-Valley,U.S. Senate (Republican),"Lowden, Sue",27
+15-Valley,U.S. Senate (Republican),"Mabey, Garn",0
+15-Valley,U.S. Senate (Republican),"Marinch, Gary",0
+15-Valley,U.S. Senate (Republican),"Nadell, Brian",0
+15-Valley,U.S. Senate (Republican),None Of These Candidates,1
+15-Valley,U.S. Senate (Republican),"Parson, Bill",0
+15-Valley,U.S. Senate (Republican),"Stern, Cecilia",1
+15-Valley,U.S. Senate (Republican),"Suominen, Terry",0
+15-Valley,U.S. Senate (Republican),"Tarkanian, Danny",29
 16-Mottsville,Attorney General (Republican),"Barrick, Travis",88
 16-Mottsville,Attorney General (Republican),"Hafter, Jacob",95
 16-Mottsville,Attorney General (Republican),None Of These Candidates,63
@@ -870,24 +870,24 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",25
 16-Mottsville,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",26
 16-Mottsville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",241
-16-Mottsville,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
-16-Mottsville,United States Senator (Democratic),"Miller, Alex",5
-16-Mottsville,United States Senator (Democratic),None Of These Candidates,4
-16-Mottsville,United States Senator (Democratic),"Poliak, Carlo",2
-16-Mottsville,United States Senator (Democratic),"Reid, Harry",30
-16-Mottsville,United States Senator (Republican),"Angle, Sharron",96
-16-Mottsville,United States Senator (Republican),"Bernstein, Gary",0
-16-Mottsville,United States Senator (Republican),"Chachas, John",18
-16-Mottsville,United States Senator (Republican),"Christensen, Chad",1
-16-Mottsville,United States Senator (Republican),"Lowden, Sue",34
-16-Mottsville,United States Senator (Republican),"Mabey, Garn",0
-16-Mottsville,United States Senator (Republican),"Marinch, Gary",0
-16-Mottsville,United States Senator (Republican),"Nadell, Brian",1
-16-Mottsville,United States Senator (Republican),None Of These Candidates,6
-16-Mottsville,United States Senator (Republican),"Parson, Bill",2
-16-Mottsville,United States Senator (Republican),"Stern, Cecilia",0
-16-Mottsville,United States Senator (Republican),"Suominen, Terry",0
-16-Mottsville,United States Senator (Republican),"Tarkanian, Danny",113
+16-Mottsville,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+16-Mottsville,U.S. Senate (Democratic),"Miller, Alex",5
+16-Mottsville,U.S. Senate (Democratic),None Of These Candidates,4
+16-Mottsville,U.S. Senate (Democratic),"Poliak, Carlo",2
+16-Mottsville,U.S. Senate (Democratic),"Reid, Harry",30
+16-Mottsville,U.S. Senate (Republican),"Angle, Sharron",96
+16-Mottsville,U.S. Senate (Republican),"Bernstein, Gary",0
+16-Mottsville,U.S. Senate (Republican),"Chachas, John",18
+16-Mottsville,U.S. Senate (Republican),"Christensen, Chad",1
+16-Mottsville,U.S. Senate (Republican),"Lowden, Sue",34
+16-Mottsville,U.S. Senate (Republican),"Mabey, Garn",0
+16-Mottsville,U.S. Senate (Republican),"Marinch, Gary",0
+16-Mottsville,U.S. Senate (Republican),"Nadell, Brian",1
+16-Mottsville,U.S. Senate (Republican),None Of These Candidates,6
+16-Mottsville,U.S. Senate (Republican),"Parson, Bill",2
+16-Mottsville,U.S. Senate (Republican),"Stern, Cecilia",0
+16-Mottsville,U.S. Senate (Republican),"Suominen, Terry",0
+16-Mottsville,U.S. Senate (Republican),"Tarkanian, Danny",113
 17-Ruhenstroth,Attorney General (Republican),"Barrick, Travis",145
 17-Ruhenstroth,Attorney General (Republican),"Hafter, Jacob",133
 17-Ruhenstroth,Attorney General (Republican),None Of These Candidates,106
@@ -924,24 +924,24 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",48
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",54
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",349
-17-Ruhenstroth,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
-17-Ruhenstroth,United States Senator (Democratic),"Miller, Alex",8
-17-Ruhenstroth,United States Senator (Democratic),None Of These Candidates,10
-17-Ruhenstroth,United States Senator (Democratic),"Poliak, Carlo",2
-17-Ruhenstroth,United States Senator (Democratic),"Reid, Harry",77
-17-Ruhenstroth,United States Senator (Republican),"Angle, Sharron",193
-17-Ruhenstroth,United States Senator (Republican),"Bernstein, Gary",1
-17-Ruhenstroth,United States Senator (Republican),"Chachas, John",14
-17-Ruhenstroth,United States Senator (Republican),"Christensen, Chad",0
-17-Ruhenstroth,United States Senator (Republican),"Lowden, Sue",68
-17-Ruhenstroth,United States Senator (Republican),"Mabey, Garn",1
-17-Ruhenstroth,United States Senator (Republican),"Marinch, Gary",0
-17-Ruhenstroth,United States Senator (Republican),"Nadell, Brian",0
-17-Ruhenstroth,United States Senator (Republican),None Of These Candidates,10
-17-Ruhenstroth,United States Senator (Republican),"Parson, Bill",3
-17-Ruhenstroth,United States Senator (Republican),"Stern, Cecilia",1
-17-Ruhenstroth,United States Senator (Republican),"Suominen, Terry",0
-17-Ruhenstroth,United States Senator (Republican),"Tarkanian, Danny",116
+17-Ruhenstroth,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+17-Ruhenstroth,U.S. Senate (Democratic),"Miller, Alex",8
+17-Ruhenstroth,U.S. Senate (Democratic),None Of These Candidates,10
+17-Ruhenstroth,U.S. Senate (Democratic),"Poliak, Carlo",2
+17-Ruhenstroth,U.S. Senate (Democratic),"Reid, Harry",77
+17-Ruhenstroth,U.S. Senate (Republican),"Angle, Sharron",193
+17-Ruhenstroth,U.S. Senate (Republican),"Bernstein, Gary",1
+17-Ruhenstroth,U.S. Senate (Republican),"Chachas, John",14
+17-Ruhenstroth,U.S. Senate (Republican),"Christensen, Chad",0
+17-Ruhenstroth,U.S. Senate (Republican),"Lowden, Sue",68
+17-Ruhenstroth,U.S. Senate (Republican),"Mabey, Garn",1
+17-Ruhenstroth,U.S. Senate (Republican),"Marinch, Gary",0
+17-Ruhenstroth,U.S. Senate (Republican),"Nadell, Brian",0
+17-Ruhenstroth,U.S. Senate (Republican),None Of These Candidates,10
+17-Ruhenstroth,U.S. Senate (Republican),"Parson, Bill",3
+17-Ruhenstroth,U.S. Senate (Republican),"Stern, Cecilia",1
+17-Ruhenstroth,U.S. Senate (Republican),"Suominen, Terry",0
+17-Ruhenstroth,U.S. Senate (Republican),"Tarkanian, Danny",116
 18-Ranchos III,Attorney General (Republican),"Barrick, Travis",86
 18-Ranchos III,Attorney General (Republican),"Hafter, Jacob",77
 18-Ranchos III,Attorney General (Republican),None Of These Candidates,58
@@ -984,24 +984,24 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",32
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",17
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",191
-19-Ranchos IV,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-19-Ranchos IV,United States Senator (Democratic),"Miller, Alex",3
-19-Ranchos IV,United States Senator (Democratic),None Of These Candidates,7
-19-Ranchos IV,United States Senator (Democratic),"Poliak, Carlo",6
-19-Ranchos IV,United States Senator (Democratic),"Reid, Harry",52
-19-Ranchos IV,United States Senator (Republican),"Angle, Sharron",94
-19-Ranchos IV,United States Senator (Republican),"Bernstein, Gary",0
-19-Ranchos IV,United States Senator (Republican),"Chachas, John",14
-19-Ranchos IV,United States Senator (Republican),"Christensen, Chad",3
-19-Ranchos IV,United States Senator (Republican),"Lowden, Sue",32
-19-Ranchos IV,United States Senator (Republican),"Mabey, Garn",0
-19-Ranchos IV,United States Senator (Republican),"Marinch, Gary",0
-19-Ranchos IV,United States Senator (Republican),"Nadell, Brian",0
-19-Ranchos IV,United States Senator (Republican),None Of These Candidates,5
-19-Ranchos IV,United States Senator (Republican),"Parson, Bill",2
-19-Ranchos IV,United States Senator (Republican),"Stern, Cecilia",0
-19-Ranchos IV,United States Senator (Republican),"Suominen, Terry",0
-19-Ranchos IV,United States Senator (Republican),"Tarkanian, Danny",58
+19-Ranchos IV,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+19-Ranchos IV,U.S. Senate (Democratic),"Miller, Alex",3
+19-Ranchos IV,U.S. Senate (Democratic),None Of These Candidates,7
+19-Ranchos IV,U.S. Senate (Democratic),"Poliak, Carlo",6
+19-Ranchos IV,U.S. Senate (Democratic),"Reid, Harry",52
+19-Ranchos IV,U.S. Senate (Republican),"Angle, Sharron",94
+19-Ranchos IV,U.S. Senate (Republican),"Bernstein, Gary",0
+19-Ranchos IV,U.S. Senate (Republican),"Chachas, John",14
+19-Ranchos IV,U.S. Senate (Republican),"Christensen, Chad",3
+19-Ranchos IV,U.S. Senate (Republican),"Lowden, Sue",32
+19-Ranchos IV,U.S. Senate (Republican),"Mabey, Garn",0
+19-Ranchos IV,U.S. Senate (Republican),"Marinch, Gary",0
+19-Ranchos IV,U.S. Senate (Republican),"Nadell, Brian",0
+19-Ranchos IV,U.S. Senate (Republican),None Of These Candidates,5
+19-Ranchos IV,U.S. Senate (Republican),"Parson, Bill",2
+19-Ranchos IV,U.S. Senate (Republican),"Stern, Cecilia",0
+19-Ranchos IV,U.S. Senate (Republican),"Suominen, Terry",0
+19-Ranchos IV,U.S. Senate (Republican),"Tarkanian, Danny",58
 20-Birch/Ranchos,Attorney General (Republican),"Barrick, Travis",73
 20-Birch/Ranchos,Attorney General (Republican),"Hafter, Jacob",52
 20-Birch/Ranchos,Attorney General (Republican),None Of These Candidates,42
@@ -1038,24 +1038,24 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",38
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",22
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",151
-20-Birch/Ranchos,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-20-Birch/Ranchos,United States Senator (Democratic),"Miller, Alex",10
-20-Birch/Ranchos,United States Senator (Democratic),None Of These Candidates,10
-20-Birch/Ranchos,United States Senator (Democratic),"Poliak, Carlo",4
-20-Birch/Ranchos,United States Senator (Democratic),"Reid, Harry",52
-20-Birch/Ranchos,United States Senator (Republican),"Angle, Sharron",88
-20-Birch/Ranchos,United States Senator (Republican),"Bernstein, Gary",0
-20-Birch/Ranchos,United States Senator (Republican),"Chachas, John",9
-20-Birch/Ranchos,United States Senator (Republican),"Christensen, Chad",1
-20-Birch/Ranchos,United States Senator (Republican),"Lowden, Sue",31
-20-Birch/Ranchos,United States Senator (Republican),"Mabey, Garn",0
-20-Birch/Ranchos,United States Senator (Republican),"Marinch, Gary",0
-20-Birch/Ranchos,United States Senator (Republican),"Nadell, Brian",0
-20-Birch/Ranchos,United States Senator (Republican),None Of These Candidates,3
-20-Birch/Ranchos,United States Senator (Republican),"Parson, Bill",2
-20-Birch/Ranchos,United States Senator (Republican),"Stern, Cecilia",1
-20-Birch/Ranchos,United States Senator (Republican),"Suominen, Terry",0
-20-Birch/Ranchos,United States Senator (Republican),"Tarkanian, Danny",44
+20-Birch/Ranchos,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+20-Birch/Ranchos,U.S. Senate (Democratic),"Miller, Alex",10
+20-Birch/Ranchos,U.S. Senate (Democratic),None Of These Candidates,10
+20-Birch/Ranchos,U.S. Senate (Democratic),"Poliak, Carlo",4
+20-Birch/Ranchos,U.S. Senate (Democratic),"Reid, Harry",52
+20-Birch/Ranchos,U.S. Senate (Republican),"Angle, Sharron",88
+20-Birch/Ranchos,U.S. Senate (Republican),"Bernstein, Gary",0
+20-Birch/Ranchos,U.S. Senate (Republican),"Chachas, John",9
+20-Birch/Ranchos,U.S. Senate (Republican),"Christensen, Chad",1
+20-Birch/Ranchos,U.S. Senate (Republican),"Lowden, Sue",31
+20-Birch/Ranchos,U.S. Senate (Republican),"Mabey, Garn",0
+20-Birch/Ranchos,U.S. Senate (Republican),"Marinch, Gary",0
+20-Birch/Ranchos,U.S. Senate (Republican),"Nadell, Brian",0
+20-Birch/Ranchos,U.S. Senate (Republican),None Of These Candidates,3
+20-Birch/Ranchos,U.S. Senate (Republican),"Parson, Bill",2
+20-Birch/Ranchos,U.S. Senate (Republican),"Stern, Cecilia",1
+20-Birch/Ranchos,U.S. Senate (Republican),"Suominen, Terry",0
+20-Birch/Ranchos,U.S. Senate (Republican),"Tarkanian, Danny",44
 21-Wildhorse,Attorney General (Republican),"Barrick, Travis",117
 21-Wildhorse,Attorney General (Republican),"Hafter, Jacob",91
 21-Wildhorse,Attorney General (Republican),None Of These Candidates,104
@@ -1094,24 +1094,24 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",41
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",27
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",308
-21-Wildhorse,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
-21-Wildhorse,United States Senator (Democratic),"Miller, Alex",13
-21-Wildhorse,United States Senator (Democratic),None Of These Candidates,15
-21-Wildhorse,United States Senator (Democratic),"Poliak, Carlo",0
-21-Wildhorse,United States Senator (Democratic),"Reid, Harry",59
-21-Wildhorse,United States Senator (Republican),"Angle, Sharron",164
-21-Wildhorse,United States Senator (Republican),"Bernstein, Gary",0
-21-Wildhorse,United States Senator (Republican),"Chachas, John",16
-21-Wildhorse,United States Senator (Republican),"Christensen, Chad",3
-21-Wildhorse,United States Senator (Republican),"Lowden, Sue",61
-21-Wildhorse,United States Senator (Republican),"Mabey, Garn",0
-21-Wildhorse,United States Senator (Republican),"Marinch, Gary",2
-21-Wildhorse,United States Senator (Republican),"Nadell, Brian",2
-21-Wildhorse,United States Senator (Republican),None Of These Candidates,6
-21-Wildhorse,United States Senator (Republican),"Parson, Bill",1
-21-Wildhorse,United States Senator (Republican),"Stern, Cecilia",2
-21-Wildhorse,United States Senator (Republican),"Suominen, Terry",1
-21-Wildhorse,United States Senator (Republican),"Tarkanian, Danny",83
+21-Wildhorse,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+21-Wildhorse,U.S. Senate (Democratic),"Miller, Alex",13
+21-Wildhorse,U.S. Senate (Democratic),None Of These Candidates,15
+21-Wildhorse,U.S. Senate (Democratic),"Poliak, Carlo",0
+21-Wildhorse,U.S. Senate (Democratic),"Reid, Harry",59
+21-Wildhorse,U.S. Senate (Republican),"Angle, Sharron",164
+21-Wildhorse,U.S. Senate (Republican),"Bernstein, Gary",0
+21-Wildhorse,U.S. Senate (Republican),"Chachas, John",16
+21-Wildhorse,U.S. Senate (Republican),"Christensen, Chad",3
+21-Wildhorse,U.S. Senate (Republican),"Lowden, Sue",61
+21-Wildhorse,U.S. Senate (Republican),"Mabey, Garn",0
+21-Wildhorse,U.S. Senate (Republican),"Marinch, Gary",2
+21-Wildhorse,U.S. Senate (Republican),"Nadell, Brian",2
+21-Wildhorse,U.S. Senate (Republican),None Of These Candidates,6
+21-Wildhorse,U.S. Senate (Republican),"Parson, Bill",1
+21-Wildhorse,U.S. Senate (Republican),"Stern, Cecilia",2
+21-Wildhorse,U.S. Senate (Republican),"Suominen, Terry",1
+21-Wildhorse,U.S. Senate (Republican),"Tarkanian, Danny",83
 22-Saratoga,Attorney General (Republican),"Barrick, Travis",143
 22-Saratoga,Attorney General (Republican),"Hafter, Jacob",131
 22-Saratoga,Attorney General (Republican),None Of These Candidates,83
@@ -1150,24 +1150,24 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",74
 22-Saratoga,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",50
 22-Saratoga,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",329
-22-Saratoga,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-22-Saratoga,United States Senator (Democratic),"Miller, Alex",8
-22-Saratoga,United States Senator (Democratic),None Of These Candidates,12
-22-Saratoga,United States Senator (Democratic),"Poliak, Carlo",1
-22-Saratoga,United States Senator (Democratic),"Reid, Harry",92
-22-Saratoga,United States Senator (Republican),"Angle, Sharron",197
-22-Saratoga,United States Senator (Republican),"Bernstein, Gary",1
-22-Saratoga,United States Senator (Republican),"Chachas, John",10
-22-Saratoga,United States Senator (Republican),"Christensen, Chad",3
-22-Saratoga,United States Senator (Republican),"Lowden, Sue",68
-22-Saratoga,United States Senator (Republican),"Mabey, Garn",1
-22-Saratoga,United States Senator (Republican),"Marinch, Gary",0
-22-Saratoga,United States Senator (Republican),"Nadell, Brian",0
-22-Saratoga,United States Senator (Republican),None Of These Candidates,3
-22-Saratoga,United States Senator (Republican),"Parson, Bill",2
-22-Saratoga,United States Senator (Republican),"Stern, Cecilia",0
-22-Saratoga,United States Senator (Republican),"Suominen, Terry",0
-22-Saratoga,United States Senator (Republican),"Tarkanian, Danny",97
+22-Saratoga,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+22-Saratoga,U.S. Senate (Democratic),"Miller, Alex",8
+22-Saratoga,U.S. Senate (Democratic),None Of These Candidates,12
+22-Saratoga,U.S. Senate (Democratic),"Poliak, Carlo",1
+22-Saratoga,U.S. Senate (Democratic),"Reid, Harry",92
+22-Saratoga,U.S. Senate (Republican),"Angle, Sharron",197
+22-Saratoga,U.S. Senate (Republican),"Bernstein, Gary",1
+22-Saratoga,U.S. Senate (Republican),"Chachas, John",10
+22-Saratoga,U.S. Senate (Republican),"Christensen, Chad",3
+22-Saratoga,U.S. Senate (Republican),"Lowden, Sue",68
+22-Saratoga,U.S. Senate (Republican),"Mabey, Garn",1
+22-Saratoga,U.S. Senate (Republican),"Marinch, Gary",0
+22-Saratoga,U.S. Senate (Republican),"Nadell, Brian",0
+22-Saratoga,U.S. Senate (Republican),None Of These Candidates,3
+22-Saratoga,U.S. Senate (Republican),"Parson, Bill",2
+22-Saratoga,U.S. Senate (Republican),"Stern, Cecilia",0
+22-Saratoga,U.S. Senate (Republican),"Suominen, Terry",0
+22-Saratoga,U.S. Senate (Republican),"Tarkanian, Danny",97
 23-Indian Hills - East,Attorney General (Republican),"Barrick, Travis",63
 23-Indian Hills - East,Attorney General (Republican),"Hafter, Jacob",54
 23-Indian Hills - East,Attorney General (Republican),None Of These Candidates,30
@@ -1206,24 +1206,24 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",44
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",21
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",136
-23-Indian Hills - East,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
-23-Indian Hills - East,United States Senator (Democratic),"Miller, Alex",4
-23-Indian Hills - East,United States Senator (Democratic),None Of These Candidates,10
-23-Indian Hills - East,United States Senator (Democratic),"Poliak, Carlo",0
-23-Indian Hills - East,United States Senator (Democratic),"Reid, Harry",58
-23-Indian Hills - East,United States Senator (Republican),"Angle, Sharron",74
-23-Indian Hills - East,United States Senator (Republican),"Bernstein, Gary",0
-23-Indian Hills - East,United States Senator (Republican),"Chachas, John",10
-23-Indian Hills - East,United States Senator (Republican),"Christensen, Chad",4
-23-Indian Hills - East,United States Senator (Republican),"Lowden, Sue",20
-23-Indian Hills - East,United States Senator (Republican),"Mabey, Garn",0
-23-Indian Hills - East,United States Senator (Republican),"Marinch, Gary",0
-23-Indian Hills - East,United States Senator (Republican),"Nadell, Brian",0
-23-Indian Hills - East,United States Senator (Republican),None Of These Candidates,5
-23-Indian Hills - East,United States Senator (Republican),"Parson, Bill",2
-23-Indian Hills - East,United States Senator (Republican),"Stern, Cecilia",1
-23-Indian Hills - East,United States Senator (Republican),"Suominen, Terry",1
-23-Indian Hills - East,United States Senator (Republican),"Tarkanian, Danny",41
+23-Indian Hills - East,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",5
+23-Indian Hills - East,U.S. Senate (Democratic),"Miller, Alex",4
+23-Indian Hills - East,U.S. Senate (Democratic),None Of These Candidates,10
+23-Indian Hills - East,U.S. Senate (Democratic),"Poliak, Carlo",0
+23-Indian Hills - East,U.S. Senate (Democratic),"Reid, Harry",58
+23-Indian Hills - East,U.S. Senate (Republican),"Angle, Sharron",74
+23-Indian Hills - East,U.S. Senate (Republican),"Bernstein, Gary",0
+23-Indian Hills - East,U.S. Senate (Republican),"Chachas, John",10
+23-Indian Hills - East,U.S. Senate (Republican),"Christensen, Chad",4
+23-Indian Hills - East,U.S. Senate (Republican),"Lowden, Sue",20
+23-Indian Hills - East,U.S. Senate (Republican),"Mabey, Garn",0
+23-Indian Hills - East,U.S. Senate (Republican),"Marinch, Gary",0
+23-Indian Hills - East,U.S. Senate (Republican),"Nadell, Brian",0
+23-Indian Hills - East,U.S. Senate (Republican),None Of These Candidates,5
+23-Indian Hills - East,U.S. Senate (Republican),"Parson, Bill",2
+23-Indian Hills - East,U.S. Senate (Republican),"Stern, Cecilia",1
+23-Indian Hills - East,U.S. Senate (Republican),"Suominen, Terry",1
+23-Indian Hills - East,U.S. Senate (Republican),"Tarkanian, Danny",41
 24-Topaz Lake,Attorney General (Republican),"Barrick, Travis",56
 24-Topaz Lake,Attorney General (Republican),"Hafter, Jacob",45
 24-Topaz Lake,Attorney General (Republican),None Of These Candidates,36
@@ -1260,24 +1260,24 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",16
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",8
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",137
-24-Topaz Lake,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-24-Topaz Lake,United States Senator (Democratic),"Miller, Alex",4
-24-Topaz Lake,United States Senator (Democratic),None Of These Candidates,10
-24-Topaz Lake,United States Senator (Democratic),"Poliak, Carlo",0
-24-Topaz Lake,United States Senator (Democratic),"Reid, Harry",26
-24-Topaz Lake,United States Senator (Republican),"Angle, Sharron",84
-24-Topaz Lake,United States Senator (Republican),"Bernstein, Gary",0
-24-Topaz Lake,United States Senator (Republican),"Chachas, John",1
-24-Topaz Lake,United States Senator (Republican),"Christensen, Chad",0
-24-Topaz Lake,United States Senator (Republican),"Lowden, Sue",25
-24-Topaz Lake,United States Senator (Republican),"Mabey, Garn",0
-24-Topaz Lake,United States Senator (Republican),"Marinch, Gary",0
-24-Topaz Lake,United States Senator (Republican),"Nadell, Brian",0
-24-Topaz Lake,United States Senator (Republican),None Of These Candidates,3
-24-Topaz Lake,United States Senator (Republican),"Parson, Bill",0
-24-Topaz Lake,United States Senator (Republican),"Stern, Cecilia",0
-24-Topaz Lake,United States Senator (Republican),"Suominen, Terry",0
-24-Topaz Lake,United States Senator (Republican),"Tarkanian, Danny",34
+24-Topaz Lake,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+24-Topaz Lake,U.S. Senate (Democratic),"Miller, Alex",4
+24-Topaz Lake,U.S. Senate (Democratic),None Of These Candidates,10
+24-Topaz Lake,U.S. Senate (Democratic),"Poliak, Carlo",0
+24-Topaz Lake,U.S. Senate (Democratic),"Reid, Harry",26
+24-Topaz Lake,U.S. Senate (Republican),"Angle, Sharron",84
+24-Topaz Lake,U.S. Senate (Republican),"Bernstein, Gary",0
+24-Topaz Lake,U.S. Senate (Republican),"Chachas, John",1
+24-Topaz Lake,U.S. Senate (Republican),"Christensen, Chad",0
+24-Topaz Lake,U.S. Senate (Republican),"Lowden, Sue",25
+24-Topaz Lake,U.S. Senate (Republican),"Mabey, Garn",0
+24-Topaz Lake,U.S. Senate (Republican),"Marinch, Gary",0
+24-Topaz Lake,U.S. Senate (Republican),"Nadell, Brian",0
+24-Topaz Lake,U.S. Senate (Republican),None Of These Candidates,3
+24-Topaz Lake,U.S. Senate (Republican),"Parson, Bill",0
+24-Topaz Lake,U.S. Senate (Republican),"Stern, Cecilia",0
+24-Topaz Lake,U.S. Senate (Republican),"Suominen, Terry",0
+24-Topaz Lake,U.S. Senate (Republican),"Tarkanian, Danny",34
 25-Pleasantview,Attorney General (Republican),"Barrick, Travis",148
 25-Pleasantview,Attorney General (Republican),"Hafter, Jacob",129
 25-Pleasantview,Attorney General (Republican),None Of These Candidates,127
@@ -1316,24 +1316,24 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",50
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",57
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",372
-25-Pleasantview,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
-25-Pleasantview,United States Senator (Democratic),"Miller, Alex",11
-25-Pleasantview,United States Senator (Democratic),None Of These Candidates,15
-25-Pleasantview,United States Senator (Democratic),"Poliak, Carlo",2
-25-Pleasantview,United States Senator (Democratic),"Reid, Harry",80
-25-Pleasantview,United States Senator (Republican),"Angle, Sharron",199
-25-Pleasantview,United States Senator (Republican),"Bernstein, Gary",0
-25-Pleasantview,United States Senator (Republican),"Chachas, John",24
-25-Pleasantview,United States Senator (Republican),"Christensen, Chad",2
-25-Pleasantview,United States Senator (Republican),"Lowden, Sue",62
-25-Pleasantview,United States Senator (Republican),"Mabey, Garn",4
-25-Pleasantview,United States Senator (Republican),"Marinch, Gary",0
-25-Pleasantview,United States Senator (Republican),"Nadell, Brian",0
-25-Pleasantview,United States Senator (Republican),None Of These Candidates,16
-25-Pleasantview,United States Senator (Republican),"Parson, Bill",2
-25-Pleasantview,United States Senator (Republican),"Stern, Cecilia",1
-25-Pleasantview,United States Senator (Republican),"Suominen, Terry",1
-25-Pleasantview,United States Senator (Republican),"Tarkanian, Danny",121
+25-Pleasantview,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",6
+25-Pleasantview,U.S. Senate (Democratic),"Miller, Alex",11
+25-Pleasantview,U.S. Senate (Democratic),None Of These Candidates,15
+25-Pleasantview,U.S. Senate (Democratic),"Poliak, Carlo",2
+25-Pleasantview,U.S. Senate (Democratic),"Reid, Harry",80
+25-Pleasantview,U.S. Senate (Republican),"Angle, Sharron",199
+25-Pleasantview,U.S. Senate (Republican),"Bernstein, Gary",0
+25-Pleasantview,U.S. Senate (Republican),"Chachas, John",24
+25-Pleasantview,U.S. Senate (Republican),"Christensen, Chad",2
+25-Pleasantview,U.S. Senate (Republican),"Lowden, Sue",62
+25-Pleasantview,U.S. Senate (Republican),"Mabey, Garn",4
+25-Pleasantview,U.S. Senate (Republican),"Marinch, Gary",0
+25-Pleasantview,U.S. Senate (Republican),"Nadell, Brian",0
+25-Pleasantview,U.S. Senate (Republican),None Of These Candidates,16
+25-Pleasantview,U.S. Senate (Republican),"Parson, Bill",2
+25-Pleasantview,U.S. Senate (Republican),"Stern, Cecilia",1
+25-Pleasantview,U.S. Senate (Republican),"Suominen, Terry",1
+25-Pleasantview,U.S. Senate (Republican),"Tarkanian, Danny",121
 26-Westwood,Attorney General (Republican),"Barrick, Travis",64
 26-Westwood,Attorney General (Republican),"Hafter, Jacob",45
 26-Westwood,Attorney General (Republican),None Of These Candidates,54
@@ -1377,24 +1377,24 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",21
 26-Westwood,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",24
 26-Westwood,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",156
-26-Westwood,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-26-Westwood,United States Senator (Democratic),"Miller, Alex",3
-26-Westwood,United States Senator (Democratic),None Of These Candidates,2
-26-Westwood,United States Senator (Democratic),"Poliak, Carlo",0
-26-Westwood,United States Senator (Democratic),"Reid, Harry",45
-26-Westwood,United States Senator (Republican),"Angle, Sharron",71
-26-Westwood,United States Senator (Republican),"Bernstein, Gary",0
-26-Westwood,United States Senator (Republican),"Chachas, John",14
-26-Westwood,United States Senator (Republican),"Christensen, Chad",2
-26-Westwood,United States Senator (Republican),"Lowden, Sue",39
-26-Westwood,United States Senator (Republican),"Mabey, Garn",0
-26-Westwood,United States Senator (Republican),"Marinch, Gary",0
-26-Westwood,United States Senator (Republican),"Nadell, Brian",0
-26-Westwood,United States Senator (Republican),None Of These Candidates,6
-26-Westwood,United States Senator (Republican),"Parson, Bill",1
-26-Westwood,United States Senator (Republican),"Stern, Cecilia",0
-26-Westwood,United States Senator (Republican),"Suominen, Terry",0
-26-Westwood,United States Senator (Republican),"Tarkanian, Danny",48
+26-Westwood,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+26-Westwood,U.S. Senate (Democratic),"Miller, Alex",3
+26-Westwood,U.S. Senate (Democratic),None Of These Candidates,2
+26-Westwood,U.S. Senate (Democratic),"Poliak, Carlo",0
+26-Westwood,U.S. Senate (Democratic),"Reid, Harry",45
+26-Westwood,U.S. Senate (Republican),"Angle, Sharron",71
+26-Westwood,U.S. Senate (Republican),"Bernstein, Gary",0
+26-Westwood,U.S. Senate (Republican),"Chachas, John",14
+26-Westwood,U.S. Senate (Republican),"Christensen, Chad",2
+26-Westwood,U.S. Senate (Republican),"Lowden, Sue",39
+26-Westwood,U.S. Senate (Republican),"Mabey, Garn",0
+26-Westwood,U.S. Senate (Republican),"Marinch, Gary",0
+26-Westwood,U.S. Senate (Republican),"Nadell, Brian",0
+26-Westwood,U.S. Senate (Republican),None Of These Candidates,6
+26-Westwood,U.S. Senate (Republican),"Parson, Bill",1
+26-Westwood,U.S. Senate (Republican),"Stern, Cecilia",0
+26-Westwood,U.S. Senate (Republican),"Suominen, Terry",0
+26-Westwood,U.S. Senate (Republican),"Tarkanian, Danny",48
 27-Winhaven,Attorney General (Republican),"Barrick, Travis",95
 27-Winhaven,Attorney General (Republican),"Hafter, Jacob",72
 27-Winhaven,Attorney General (Republican),None Of These Candidates,77
@@ -1438,24 +1438,24 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",35
 27-Winhaven,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",24
 27-Winhaven,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",251
-27-Winhaven,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-27-Winhaven,United States Senator (Democratic),"Miller, Alex",4
-27-Winhaven,United States Senator (Democratic),None Of These Candidates,7
-27-Winhaven,United States Senator (Democratic),"Poliak, Carlo",2
-27-Winhaven,United States Senator (Democratic),"Reid, Harry",62
-27-Winhaven,United States Senator (Republican),"Angle, Sharron",111
-27-Winhaven,United States Senator (Republican),"Bernstein, Gary",0
-27-Winhaven,United States Senator (Republican),"Chachas, John",12
-27-Winhaven,United States Senator (Republican),"Christensen, Chad",2
-27-Winhaven,United States Senator (Republican),"Lowden, Sue",65
-27-Winhaven,United States Senator (Republican),"Mabey, Garn",0
-27-Winhaven,United States Senator (Republican),"Marinch, Gary",0
-27-Winhaven,United States Senator (Republican),"Nadell, Brian",0
-27-Winhaven,United States Senator (Republican),None Of These Candidates,9
-27-Winhaven,United States Senator (Republican),"Parson, Bill",1
-27-Winhaven,United States Senator (Republican),"Stern, Cecilia",0
-27-Winhaven,United States Senator (Republican),"Suominen, Terry",0
-27-Winhaven,United States Senator (Republican),"Tarkanian, Danny",84
+27-Winhaven,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+27-Winhaven,U.S. Senate (Democratic),"Miller, Alex",4
+27-Winhaven,U.S. Senate (Democratic),None Of These Candidates,7
+27-Winhaven,U.S. Senate (Democratic),"Poliak, Carlo",2
+27-Winhaven,U.S. Senate (Democratic),"Reid, Harry",62
+27-Winhaven,U.S. Senate (Republican),"Angle, Sharron",111
+27-Winhaven,U.S. Senate (Republican),"Bernstein, Gary",0
+27-Winhaven,U.S. Senate (Republican),"Chachas, John",12
+27-Winhaven,U.S. Senate (Republican),"Christensen, Chad",2
+27-Winhaven,U.S. Senate (Republican),"Lowden, Sue",65
+27-Winhaven,U.S. Senate (Republican),"Mabey, Garn",0
+27-Winhaven,U.S. Senate (Republican),"Marinch, Gary",0
+27-Winhaven,U.S. Senate (Republican),"Nadell, Brian",0
+27-Winhaven,U.S. Senate (Republican),None Of These Candidates,9
+27-Winhaven,U.S. Senate (Republican),"Parson, Bill",1
+27-Winhaven,U.S. Senate (Republican),"Stern, Cecilia",0
+27-Winhaven,U.S. Senate (Republican),"Suominen, Terry",0
+27-Winhaven,U.S. Senate (Republican),"Tarkanian, Danny",84
 28-Orchard Road,Attorney General (Republican),"Barrick, Travis",41
 28-Orchard Road,Attorney General (Republican),"Hafter, Jacob",39
 28-Orchard Road,Attorney General (Republican),None Of These Candidates,40
@@ -1499,24 +1499,24 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",4
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",20
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",112
-28-Orchard Road,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-28-Orchard Road,United States Senator (Democratic),"Miller, Alex",3
-28-Orchard Road,United States Senator (Democratic),None Of These Candidates,3
-28-Orchard Road,United States Senator (Democratic),"Poliak, Carlo",0
-28-Orchard Road,United States Senator (Democratic),"Reid, Harry",7
-28-Orchard Road,United States Senator (Republican),"Angle, Sharron",56
-28-Orchard Road,United States Senator (Republican),"Bernstein, Gary",0
-28-Orchard Road,United States Senator (Republican),"Chachas, John",9
-28-Orchard Road,United States Senator (Republican),"Christensen, Chad",0
-28-Orchard Road,United States Senator (Republican),"Lowden, Sue",36
-28-Orchard Road,United States Senator (Republican),"Mabey, Garn",0
-28-Orchard Road,United States Senator (Republican),"Marinch, Gary",0
-28-Orchard Road,United States Senator (Republican),"Nadell, Brian",0
-28-Orchard Road,United States Senator (Republican),None Of These Candidates,0
-28-Orchard Road,United States Senator (Republican),"Parson, Bill",2
-28-Orchard Road,United States Senator (Republican),"Stern, Cecilia",0
-28-Orchard Road,United States Senator (Republican),"Suominen, Terry",0
-28-Orchard Road,United States Senator (Republican),"Tarkanian, Danny",28
+28-Orchard Road,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+28-Orchard Road,U.S. Senate (Democratic),"Miller, Alex",3
+28-Orchard Road,U.S. Senate (Democratic),None Of These Candidates,3
+28-Orchard Road,U.S. Senate (Democratic),"Poliak, Carlo",0
+28-Orchard Road,U.S. Senate (Democratic),"Reid, Harry",7
+28-Orchard Road,U.S. Senate (Republican),"Angle, Sharron",56
+28-Orchard Road,U.S. Senate (Republican),"Bernstein, Gary",0
+28-Orchard Road,U.S. Senate (Republican),"Chachas, John",9
+28-Orchard Road,U.S. Senate (Republican),"Christensen, Chad",0
+28-Orchard Road,U.S. Senate (Republican),"Lowden, Sue",36
+28-Orchard Road,U.S. Senate (Republican),"Mabey, Garn",0
+28-Orchard Road,U.S. Senate (Republican),"Marinch, Gary",0
+28-Orchard Road,U.S. Senate (Republican),"Nadell, Brian",0
+28-Orchard Road,U.S. Senate (Republican),None Of These Candidates,0
+28-Orchard Road,U.S. Senate (Republican),"Parson, Bill",2
+28-Orchard Road,U.S. Senate (Republican),"Stern, Cecilia",0
+28-Orchard Road,U.S. Senate (Republican),"Suominen, Terry",0
+28-Orchard Road,U.S. Senate (Republican),"Tarkanian, Danny",28
 29-Autumn Hils,Attorney General (Republican),"Barrick, Travis",84
 29-Autumn Hils,Attorney General (Republican),"Hafter, Jacob",79
 29-Autumn Hils,Attorney General (Republican),None Of These Candidates,62
@@ -1555,24 +1555,24 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",27
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",28
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",219
-29-Autumn Hils,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-29-Autumn Hils,United States Senator (Democratic),"Miller, Alex",3
-29-Autumn Hils,United States Senator (Democratic),None Of These Candidates,4
-29-Autumn Hils,United States Senator (Democratic),"Poliak, Carlo",1
-29-Autumn Hils,United States Senator (Democratic),"Reid, Harry",34
-29-Autumn Hils,United States Senator (Republican),"Angle, Sharron",129
-29-Autumn Hils,United States Senator (Republican),"Bernstein, Gary",0
-29-Autumn Hils,United States Senator (Republican),"Chachas, John",7
-29-Autumn Hils,United States Senator (Republican),"Christensen, Chad",2
-29-Autumn Hils,United States Senator (Republican),"Lowden, Sue",42
-29-Autumn Hils,United States Senator (Republican),"Mabey, Garn",0
-29-Autumn Hils,United States Senator (Republican),"Marinch, Gary",0
-29-Autumn Hils,United States Senator (Republican),"Nadell, Brian",0
-29-Autumn Hils,United States Senator (Republican),None Of These Candidates,3
-29-Autumn Hils,United States Senator (Republican),"Parson, Bill",1
-29-Autumn Hils,United States Senator (Republican),"Stern, Cecilia",0
-29-Autumn Hils,United States Senator (Republican),"Suominen, Terry",0
-29-Autumn Hils,United States Senator (Republican),"Tarkanian, Danny",70
+29-Autumn Hils,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+29-Autumn Hils,U.S. Senate (Democratic),"Miller, Alex",3
+29-Autumn Hils,U.S. Senate (Democratic),None Of These Candidates,4
+29-Autumn Hils,U.S. Senate (Democratic),"Poliak, Carlo",1
+29-Autumn Hils,U.S. Senate (Democratic),"Reid, Harry",34
+29-Autumn Hils,U.S. Senate (Republican),"Angle, Sharron",129
+29-Autumn Hils,U.S. Senate (Republican),"Bernstein, Gary",0
+29-Autumn Hils,U.S. Senate (Republican),"Chachas, John",7
+29-Autumn Hils,U.S. Senate (Republican),"Christensen, Chad",2
+29-Autumn Hils,U.S. Senate (Republican),"Lowden, Sue",42
+29-Autumn Hils,U.S. Senate (Republican),"Mabey, Garn",0
+29-Autumn Hils,U.S. Senate (Republican),"Marinch, Gary",0
+29-Autumn Hils,U.S. Senate (Republican),"Nadell, Brian",0
+29-Autumn Hils,U.S. Senate (Republican),None Of These Candidates,3
+29-Autumn Hils,U.S. Senate (Republican),"Parson, Bill",1
+29-Autumn Hils,U.S. Senate (Republican),"Stern, Cecilia",0
+29-Autumn Hils,U.S. Senate (Republican),"Suominen, Terry",0
+29-Autumn Hils,U.S. Senate (Republican),"Tarkanian, Danny",70
 30-East Fork,Attorney General (Republican),"Barrick, Travis",0
 30-East Fork,Attorney General (Republican),"Hafter, Jacob",0
 30-East Fork,Attorney General (Republican),None Of These Candidates,0
@@ -1609,24 +1609,24 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
-30-East Fork,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-30-East Fork,United States Senator (Democratic),"Miller, Alex",0
-30-East Fork,United States Senator (Democratic),None Of These Candidates,0
-30-East Fork,United States Senator (Democratic),"Poliak, Carlo",0
-30-East Fork,United States Senator (Democratic),"Reid, Harry",0
-30-East Fork,United States Senator (Republican),"Angle, Sharron",0
-30-East Fork,United States Senator (Republican),"Bernstein, Gary",0
-30-East Fork,United States Senator (Republican),"Chachas, John",0
-30-East Fork,United States Senator (Republican),"Christensen, Chad",0
-30-East Fork,United States Senator (Republican),"Lowden, Sue",0
-30-East Fork,United States Senator (Republican),"Mabey, Garn",0
-30-East Fork,United States Senator (Republican),"Marinch, Gary",0
-30-East Fork,United States Senator (Republican),"Nadell, Brian",0
-30-East Fork,United States Senator (Republican),None Of These Candidates,0
-30-East Fork,United States Senator (Republican),"Parson, Bill",0
-30-East Fork,United States Senator (Republican),"Stern, Cecilia",0
-30-East Fork,United States Senator (Republican),"Suominen, Terry",0
-30-East Fork,United States Senator (Republican),"Tarkanian, Danny",0
+30-East Fork,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+30-East Fork,U.S. Senate (Democratic),"Miller, Alex",0
+30-East Fork,U.S. Senate (Democratic),None Of These Candidates,0
+30-East Fork,U.S. Senate (Democratic),"Poliak, Carlo",0
+30-East Fork,U.S. Senate (Democratic),"Reid, Harry",0
+30-East Fork,U.S. Senate (Republican),"Angle, Sharron",0
+30-East Fork,U.S. Senate (Republican),"Bernstein, Gary",0
+30-East Fork,U.S. Senate (Republican),"Chachas, John",0
+30-East Fork,U.S. Senate (Republican),"Christensen, Chad",0
+30-East Fork,U.S. Senate (Republican),"Lowden, Sue",0
+30-East Fork,U.S. Senate (Republican),"Mabey, Garn",0
+30-East Fork,U.S. Senate (Republican),"Marinch, Gary",0
+30-East Fork,U.S. Senate (Republican),"Nadell, Brian",0
+30-East Fork,U.S. Senate (Republican),None Of These Candidates,0
+30-East Fork,U.S. Senate (Republican),"Parson, Bill",0
+30-East Fork,U.S. Senate (Republican),"Stern, Cecilia",0
+30-East Fork,U.S. Senate (Republican),"Suominen, Terry",0
+30-East Fork,U.S. Senate (Republican),"Tarkanian, Danny",0
 31-Chichester,Attorney General (Republican),"Barrick, Travis",64
 31-Chichester,Attorney General (Republican),"Hafter, Jacob",41
 31-Chichester,Attorney General (Republican),None Of These Candidates,31
@@ -1663,24 +1663,24 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",23
 31-Chichester,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",16
 31-Chichester,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",129
-31-Chichester,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
-31-Chichester,United States Senator (Democratic),"Miller, Alex",4
-31-Chichester,United States Senator (Democratic),None Of These Candidates,5
-31-Chichester,United States Senator (Democratic),"Poliak, Carlo",0
-31-Chichester,United States Senator (Democratic),"Reid, Harry",28
-31-Chichester,United States Senator (Republican),"Angle, Sharron",69
-31-Chichester,United States Senator (Republican),"Bernstein, Gary",0
-31-Chichester,United States Senator (Republican),"Chachas, John",13
-31-Chichester,United States Senator (Republican),"Christensen, Chad",1
-31-Chichester,United States Senator (Republican),"Lowden, Sue",24
-31-Chichester,United States Senator (Republican),"Mabey, Garn",0
-31-Chichester,United States Senator (Republican),"Marinch, Gary",0
-31-Chichester,United States Senator (Republican),"Nadell, Brian",0
-31-Chichester,United States Senator (Republican),None Of These Candidates,0
-31-Chichester,United States Senator (Republican),"Parson, Bill",0
-31-Chichester,United States Senator (Republican),"Stern, Cecilia",0
-31-Chichester,United States Senator (Republican),"Suominen, Terry",0
-31-Chichester,United States Senator (Republican),"Tarkanian, Danny",41
+31-Chichester,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+31-Chichester,U.S. Senate (Democratic),"Miller, Alex",4
+31-Chichester,U.S. Senate (Democratic),None Of These Candidates,5
+31-Chichester,U.S. Senate (Democratic),"Poliak, Carlo",0
+31-Chichester,U.S. Senate (Democratic),"Reid, Harry",28
+31-Chichester,U.S. Senate (Republican),"Angle, Sharron",69
+31-Chichester,U.S. Senate (Republican),"Bernstein, Gary",0
+31-Chichester,U.S. Senate (Republican),"Chachas, John",13
+31-Chichester,U.S. Senate (Republican),"Christensen, Chad",1
+31-Chichester,U.S. Senate (Republican),"Lowden, Sue",24
+31-Chichester,U.S. Senate (Republican),"Mabey, Garn",0
+31-Chichester,U.S. Senate (Republican),"Marinch, Gary",0
+31-Chichester,U.S. Senate (Republican),"Nadell, Brian",0
+31-Chichester,U.S. Senate (Republican),None Of These Candidates,0
+31-Chichester,U.S. Senate (Republican),"Parson, Bill",0
+31-Chichester,U.S. Senate (Republican),"Stern, Cecilia",0
+31-Chichester,U.S. Senate (Republican),"Suominen, Terry",0
+31-Chichester,U.S. Senate (Republican),"Tarkanian, Danny",41
 32-East Valley,Attorney General (Republican),"Barrick, Travis",58
 32-East Valley,Attorney General (Republican),"Hafter, Jacob",45
 32-East Valley,Attorney General (Republican),None Of These Candidates,46
@@ -1719,24 +1719,24 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",21
 32-East Valley,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",18
 32-East Valley,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",139
-32-East Valley,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-32-East Valley,United States Senator (Democratic),"Miller, Alex",4
-32-East Valley,United States Senator (Democratic),None Of These Candidates,5
-32-East Valley,United States Senator (Democratic),"Poliak, Carlo",0
-32-East Valley,United States Senator (Democratic),"Reid, Harry",34
-32-East Valley,United States Senator (Republican),"Angle, Sharron",89
-32-East Valley,United States Senator (Republican),"Bernstein, Gary",0
-32-East Valley,United States Senator (Republican),"Chachas, John",12
-32-East Valley,United States Senator (Republican),"Christensen, Chad",1
-32-East Valley,United States Senator (Republican),"Lowden, Sue",30
-32-East Valley,United States Senator (Republican),"Mabey, Garn",1
-32-East Valley,United States Senator (Republican),"Marinch, Gary",0
-32-East Valley,United States Senator (Republican),"Nadell, Brian",2
-32-East Valley,United States Senator (Republican),None Of These Candidates,1
-32-East Valley,United States Senator (Republican),"Parson, Bill",0
-32-East Valley,United States Senator (Republican),"Stern, Cecilia",1
-32-East Valley,United States Senator (Republican),"Suominen, Terry",0
-32-East Valley,United States Senator (Republican),"Tarkanian, Danny",23
+32-East Valley,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+32-East Valley,U.S. Senate (Democratic),"Miller, Alex",4
+32-East Valley,U.S. Senate (Democratic),None Of These Candidates,5
+32-East Valley,U.S. Senate (Democratic),"Poliak, Carlo",0
+32-East Valley,U.S. Senate (Democratic),"Reid, Harry",34
+32-East Valley,U.S. Senate (Republican),"Angle, Sharron",89
+32-East Valley,U.S. Senate (Republican),"Bernstein, Gary",0
+32-East Valley,U.S. Senate (Republican),"Chachas, John",12
+32-East Valley,U.S. Senate (Republican),"Christensen, Chad",1
+32-East Valley,U.S. Senate (Republican),"Lowden, Sue",30
+32-East Valley,U.S. Senate (Republican),"Mabey, Garn",1
+32-East Valley,U.S. Senate (Republican),"Marinch, Gary",0
+32-East Valley,U.S. Senate (Republican),"Nadell, Brian",2
+32-East Valley,U.S. Senate (Republican),None Of These Candidates,1
+32-East Valley,U.S. Senate (Republican),"Parson, Bill",0
+32-East Valley,U.S. Senate (Republican),"Stern, Cecilia",1
+32-East Valley,U.S. Senate (Republican),"Suominen, Terry",0
+32-East Valley,U.S. Senate (Republican),"Tarkanian, Danny",23
 33-Hot Springs,Attorney General (Republican),"Barrick, Travis",59
 33-Hot Springs,Attorney General (Republican),"Hafter, Jacob",47
 33-Hot Springs,Attorney General (Republican),None Of These Candidates,50
@@ -1775,24 +1775,24 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",29
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",22
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",142
-33-Hot Springs,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-33-Hot Springs,United States Senator (Democratic),"Miller, Alex",5
-33-Hot Springs,United States Senator (Democratic),None Of These Candidates,12
-33-Hot Springs,United States Senator (Democratic),"Poliak, Carlo",1
-33-Hot Springs,United States Senator (Democratic),"Reid, Harry",44
-33-Hot Springs,United States Senator (Republican),"Angle, Sharron",84
-33-Hot Springs,United States Senator (Republican),"Bernstein, Gary",0
-33-Hot Springs,United States Senator (Republican),"Chachas, John",8
-33-Hot Springs,United States Senator (Republican),"Christensen, Chad",1
-33-Hot Springs,United States Senator (Republican),"Lowden, Sue",27
-33-Hot Springs,United States Senator (Republican),"Mabey, Garn",0
-33-Hot Springs,United States Senator (Republican),"Marinch, Gary",0
-33-Hot Springs,United States Senator (Republican),"Nadell, Brian",1
-33-Hot Springs,United States Senator (Republican),None Of These Candidates,3
-33-Hot Springs,United States Senator (Republican),"Parson, Bill",2
-33-Hot Springs,United States Senator (Republican),"Stern, Cecilia",1
-33-Hot Springs,United States Senator (Republican),"Suominen, Terry",0
-33-Hot Springs,United States Senator (Republican),"Tarkanian, Danny",38
+33-Hot Springs,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+33-Hot Springs,U.S. Senate (Democratic),"Miller, Alex",5
+33-Hot Springs,U.S. Senate (Democratic),None Of These Candidates,12
+33-Hot Springs,U.S. Senate (Democratic),"Poliak, Carlo",1
+33-Hot Springs,U.S. Senate (Democratic),"Reid, Harry",44
+33-Hot Springs,U.S. Senate (Republican),"Angle, Sharron",84
+33-Hot Springs,U.S. Senate (Republican),"Bernstein, Gary",0
+33-Hot Springs,U.S. Senate (Republican),"Chachas, John",8
+33-Hot Springs,U.S. Senate (Republican),"Christensen, Chad",1
+33-Hot Springs,U.S. Senate (Republican),"Lowden, Sue",27
+33-Hot Springs,U.S. Senate (Republican),"Mabey, Garn",0
+33-Hot Springs,U.S. Senate (Republican),"Marinch, Gary",0
+33-Hot Springs,U.S. Senate (Republican),"Nadell, Brian",1
+33-Hot Springs,U.S. Senate (Republican),None Of These Candidates,3
+33-Hot Springs,U.S. Senate (Republican),"Parson, Bill",2
+33-Hot Springs,U.S. Senate (Republican),"Stern, Cecilia",1
+33-Hot Springs,U.S. Senate (Republican),"Suominen, Terry",0
+33-Hot Springs,U.S. Senate (Republican),"Tarkanian, Danny",38
 34-Sunridge,Attorney General (Republican),"Barrick, Travis",42
 34-Sunridge,Attorney General (Republican),"Hafter, Jacob",42
 34-Sunridge,Attorney General (Republican),None Of These Candidates,28
@@ -1831,24 +1831,24 @@ precinct,office,candidate,votes
 34-Sunridge,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",22
 34-Sunridge,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",10
 34-Sunridge,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",115
-34-Sunridge,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-34-Sunridge,United States Senator (Democratic),"Miller, Alex",4
-34-Sunridge,United States Senator (Democratic),None Of These Candidates,7
-34-Sunridge,United States Senator (Democratic),"Poliak, Carlo",2
-34-Sunridge,United States Senator (Democratic),"Reid, Harry",25
-34-Sunridge,United States Senator (Republican),"Angle, Sharron",54
-34-Sunridge,United States Senator (Republican),"Bernstein, Gary",0
-34-Sunridge,United States Senator (Republican),"Chachas, John",6
-34-Sunridge,United States Senator (Republican),"Christensen, Chad",2
-34-Sunridge,United States Senator (Republican),"Lowden, Sue",37
-34-Sunridge,United States Senator (Republican),"Mabey, Garn",0
-34-Sunridge,United States Senator (Republican),"Marinch, Gary",0
-34-Sunridge,United States Senator (Republican),"Nadell, Brian",0
-34-Sunridge,United States Senator (Republican),None Of These Candidates,2
-34-Sunridge,United States Senator (Republican),"Parson, Bill",1
-34-Sunridge,United States Senator (Republican),"Stern, Cecilia",2
-34-Sunridge,United States Senator (Republican),"Suominen, Terry",0
-34-Sunridge,United States Senator (Republican),"Tarkanian, Danny",24
+34-Sunridge,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+34-Sunridge,U.S. Senate (Democratic),"Miller, Alex",4
+34-Sunridge,U.S. Senate (Democratic),None Of These Candidates,7
+34-Sunridge,U.S. Senate (Democratic),"Poliak, Carlo",2
+34-Sunridge,U.S. Senate (Democratic),"Reid, Harry",25
+34-Sunridge,U.S. Senate (Republican),"Angle, Sharron",54
+34-Sunridge,U.S. Senate (Republican),"Bernstein, Gary",0
+34-Sunridge,U.S. Senate (Republican),"Chachas, John",6
+34-Sunridge,U.S. Senate (Republican),"Christensen, Chad",2
+34-Sunridge,U.S. Senate (Republican),"Lowden, Sue",37
+34-Sunridge,U.S. Senate (Republican),"Mabey, Garn",0
+34-Sunridge,U.S. Senate (Republican),"Marinch, Gary",0
+34-Sunridge,U.S. Senate (Republican),"Nadell, Brian",0
+34-Sunridge,U.S. Senate (Republican),None Of These Candidates,2
+34-Sunridge,U.S. Senate (Republican),"Parson, Bill",1
+34-Sunridge,U.S. Senate (Republican),"Stern, Cecilia",2
+34-Sunridge,U.S. Senate (Republican),"Suominen, Terry",0
+34-Sunridge,U.S. Senate (Republican),"Tarkanian, Danny",24
 35-Glenbrook,Attorney General (Republican),"Barrick, Travis",64
 35-Glenbrook,Attorney General (Republican),"Hafter, Jacob",47
 35-Glenbrook,Attorney General (Republican),None Of These Candidates,25
@@ -1887,24 +1887,24 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",12
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",23
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",129
-35-Glenbrook,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-35-Glenbrook,United States Senator (Democratic),"Miller, Alex",2
-35-Glenbrook,United States Senator (Democratic),None Of These Candidates,2
-35-Glenbrook,United States Senator (Democratic),"Poliak, Carlo",0
-35-Glenbrook,United States Senator (Democratic),"Reid, Harry",16
-35-Glenbrook,United States Senator (Republican),"Angle, Sharron",56
-35-Glenbrook,United States Senator (Republican),"Bernstein, Gary",2
-35-Glenbrook,United States Senator (Republican),"Chachas, John",5
-35-Glenbrook,United States Senator (Republican),"Christensen, Chad",2
-35-Glenbrook,United States Senator (Republican),"Lowden, Sue",50
-35-Glenbrook,United States Senator (Republican),"Mabey, Garn",0
-35-Glenbrook,United States Senator (Republican),"Marinch, Gary",0
-35-Glenbrook,United States Senator (Republican),"Nadell, Brian",0
-35-Glenbrook,United States Senator (Republican),None Of These Candidates,3
-35-Glenbrook,United States Senator (Republican),"Parson, Bill",1
-35-Glenbrook,United States Senator (Republican),"Stern, Cecilia",1
-35-Glenbrook,United States Senator (Republican),"Suominen, Terry",0
-35-Glenbrook,United States Senator (Republican),"Tarkanian, Danny",40
+35-Glenbrook,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+35-Glenbrook,U.S. Senate (Democratic),"Miller, Alex",2
+35-Glenbrook,U.S. Senate (Democratic),None Of These Candidates,2
+35-Glenbrook,U.S. Senate (Democratic),"Poliak, Carlo",0
+35-Glenbrook,U.S. Senate (Democratic),"Reid, Harry",16
+35-Glenbrook,U.S. Senate (Republican),"Angle, Sharron",56
+35-Glenbrook,U.S. Senate (Republican),"Bernstein, Gary",2
+35-Glenbrook,U.S. Senate (Republican),"Chachas, John",5
+35-Glenbrook,U.S. Senate (Republican),"Christensen, Chad",2
+35-Glenbrook,U.S. Senate (Republican),"Lowden, Sue",50
+35-Glenbrook,U.S. Senate (Republican),"Mabey, Garn",0
+35-Glenbrook,U.S. Senate (Republican),"Marinch, Gary",0
+35-Glenbrook,U.S. Senate (Republican),"Nadell, Brian",0
+35-Glenbrook,U.S. Senate (Republican),None Of These Candidates,3
+35-Glenbrook,U.S. Senate (Republican),"Parson, Bill",1
+35-Glenbrook,U.S. Senate (Republican),"Stern, Cecilia",1
+35-Glenbrook,U.S. Senate (Republican),"Suominen, Terry",0
+35-Glenbrook,U.S. Senate (Republican),"Tarkanian, Danny",40
 36-Skyland,Attorney General (Republican),"Barrick, Travis",54
 36-Skyland,Attorney General (Republican),"Hafter, Jacob",49
 36-Skyland,Attorney General (Republican),None Of These Candidates,32
@@ -1943,24 +1943,24 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",13
 36-Skyland,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",21
 36-Skyland,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",132
-36-Skyland,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-36-Skyland,United States Senator (Democratic),"Miller, Alex",6
-36-Skyland,United States Senator (Democratic),None Of These Candidates,8
-36-Skyland,United States Senator (Democratic),"Poliak, Carlo",1
-36-Skyland,United States Senator (Democratic),"Reid, Harry",19
-36-Skyland,United States Senator (Republican),"Angle, Sharron",70
-36-Skyland,United States Senator (Republican),"Bernstein, Gary",1
-36-Skyland,United States Senator (Republican),"Chachas, John",6
-36-Skyland,United States Senator (Republican),"Christensen, Chad",0
-36-Skyland,United States Senator (Republican),"Lowden, Sue",37
-36-Skyland,United States Senator (Republican),"Mabey, Garn",0
-36-Skyland,United States Senator (Republican),"Marinch, Gary",0
-36-Skyland,United States Senator (Republican),"Nadell, Brian",0
-36-Skyland,United States Senator (Republican),None Of These Candidates,1
-36-Skyland,United States Senator (Republican),"Parson, Bill",0
-36-Skyland,United States Senator (Republican),"Stern, Cecilia",0
-36-Skyland,United States Senator (Republican),"Suominen, Terry",0
-36-Skyland,United States Senator (Republican),"Tarkanian, Danny",42
+36-Skyland,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+36-Skyland,U.S. Senate (Democratic),"Miller, Alex",6
+36-Skyland,U.S. Senate (Democratic),None Of These Candidates,8
+36-Skyland,U.S. Senate (Democratic),"Poliak, Carlo",1
+36-Skyland,U.S. Senate (Democratic),"Reid, Harry",19
+36-Skyland,U.S. Senate (Republican),"Angle, Sharron",70
+36-Skyland,U.S. Senate (Republican),"Bernstein, Gary",1
+36-Skyland,U.S. Senate (Republican),"Chachas, John",6
+36-Skyland,U.S. Senate (Republican),"Christensen, Chad",0
+36-Skyland,U.S. Senate (Republican),"Lowden, Sue",37
+36-Skyland,U.S. Senate (Republican),"Mabey, Garn",0
+36-Skyland,U.S. Senate (Republican),"Marinch, Gary",0
+36-Skyland,U.S. Senate (Republican),"Nadell, Brian",0
+36-Skyland,U.S. Senate (Republican),None Of These Candidates,1
+36-Skyland,U.S. Senate (Republican),"Parson, Bill",0
+36-Skyland,U.S. Senate (Republican),"Stern, Cecilia",0
+36-Skyland,U.S. Senate (Republican),"Suominen, Terry",0
+36-Skyland,U.S. Senate (Republican),"Tarkanian, Danny",42
 37-Zephyr Cove,Attorney General (Republican),"Barrick, Travis",48
 37-Zephyr Cove,Attorney General (Republican),"Hafter, Jacob",29
 37-Zephyr Cove,Attorney General (Republican),None Of These Candidates,31
@@ -1999,24 +1999,24 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",18
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",22
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",89
-37-Zephyr Cove,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
-37-Zephyr Cove,United States Senator (Democratic),"Miller, Alex",4
-37-Zephyr Cove,United States Senator (Democratic),None Of These Candidates,4
-37-Zephyr Cove,United States Senator (Democratic),"Poliak, Carlo",2
-37-Zephyr Cove,United States Senator (Democratic),"Reid, Harry",30
-37-Zephyr Cove,United States Senator (Republican),"Angle, Sharron",43
-37-Zephyr Cove,United States Senator (Republican),"Bernstein, Gary",0
-37-Zephyr Cove,United States Senator (Republican),"Chachas, John",3
-37-Zephyr Cove,United States Senator (Republican),"Christensen, Chad",1
-37-Zephyr Cove,United States Senator (Republican),"Lowden, Sue",35
-37-Zephyr Cove,United States Senator (Republican),"Mabey, Garn",1
-37-Zephyr Cove,United States Senator (Republican),"Marinch, Gary",0
-37-Zephyr Cove,United States Senator (Republican),"Nadell, Brian",0
-37-Zephyr Cove,United States Senator (Republican),None Of These Candidates,6
-37-Zephyr Cove,United States Senator (Republican),"Parson, Bill",0
-37-Zephyr Cove,United States Senator (Republican),"Stern, Cecilia",0
-37-Zephyr Cove,United States Senator (Republican),"Suominen, Terry",1
-37-Zephyr Cove,United States Senator (Republican),"Tarkanian, Danny",27
+37-Zephyr Cove,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",1
+37-Zephyr Cove,U.S. Senate (Democratic),"Miller, Alex",4
+37-Zephyr Cove,U.S. Senate (Democratic),None Of These Candidates,4
+37-Zephyr Cove,U.S. Senate (Democratic),"Poliak, Carlo",2
+37-Zephyr Cove,U.S. Senate (Democratic),"Reid, Harry",30
+37-Zephyr Cove,U.S. Senate (Republican),"Angle, Sharron",43
+37-Zephyr Cove,U.S. Senate (Republican),"Bernstein, Gary",0
+37-Zephyr Cove,U.S. Senate (Republican),"Chachas, John",3
+37-Zephyr Cove,U.S. Senate (Republican),"Christensen, Chad",1
+37-Zephyr Cove,U.S. Senate (Republican),"Lowden, Sue",35
+37-Zephyr Cove,U.S. Senate (Republican),"Mabey, Garn",1
+37-Zephyr Cove,U.S. Senate (Republican),"Marinch, Gary",0
+37-Zephyr Cove,U.S. Senate (Republican),"Nadell, Brian",0
+37-Zephyr Cove,U.S. Senate (Republican),None Of These Candidates,6
+37-Zephyr Cove,U.S. Senate (Republican),"Parson, Bill",0
+37-Zephyr Cove,U.S. Senate (Republican),"Stern, Cecilia",0
+37-Zephyr Cove,U.S. Senate (Republican),"Suominen, Terry",1
+37-Zephyr Cove,U.S. Senate (Republican),"Tarkanian, Danny",27
 38-Round Hill,Attorney General (Republican),"Barrick, Travis",63
 38-Round Hill,Attorney General (Republican),"Hafter, Jacob",42
 38-Round Hill,Attorney General (Republican),None Of These Candidates,33
@@ -2055,24 +2055,24 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",24
 38-Round Hill,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",32
 38-Round Hill,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",118
-38-Round Hill,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-38-Round Hill,United States Senator (Democratic),"Miller, Alex",4
-38-Round Hill,United States Senator (Democratic),None Of These Candidates,2
-38-Round Hill,United States Senator (Democratic),"Poliak, Carlo",0
-38-Round Hill,United States Senator (Democratic),"Reid, Harry",43
-38-Round Hill,United States Senator (Republican),"Angle, Sharron",57
-38-Round Hill,United States Senator (Republican),"Bernstein, Gary",0
-38-Round Hill,United States Senator (Republican),"Chachas, John",7
-38-Round Hill,United States Senator (Republican),"Christensen, Chad",2
-38-Round Hill,United States Senator (Republican),"Lowden, Sue",47
-38-Round Hill,United States Senator (Republican),"Mabey, Garn",0
-38-Round Hill,United States Senator (Republican),"Marinch, Gary",0
-38-Round Hill,United States Senator (Republican),"Nadell, Brian",0
-38-Round Hill,United States Senator (Republican),None Of These Candidates,5
-38-Round Hill,United States Senator (Republican),"Parson, Bill",3
-38-Round Hill,United States Senator (Republican),"Stern, Cecilia",1
-38-Round Hill,United States Senator (Republican),"Suominen, Terry",0
-38-Round Hill,United States Senator (Republican),"Tarkanian, Danny",30
+38-Round Hill,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+38-Round Hill,U.S. Senate (Democratic),"Miller, Alex",4
+38-Round Hill,U.S. Senate (Democratic),None Of These Candidates,2
+38-Round Hill,U.S. Senate (Democratic),"Poliak, Carlo",0
+38-Round Hill,U.S. Senate (Democratic),"Reid, Harry",43
+38-Round Hill,U.S. Senate (Republican),"Angle, Sharron",57
+38-Round Hill,U.S. Senate (Republican),"Bernstein, Gary",0
+38-Round Hill,U.S. Senate (Republican),"Chachas, John",7
+38-Round Hill,U.S. Senate (Republican),"Christensen, Chad",2
+38-Round Hill,U.S. Senate (Republican),"Lowden, Sue",47
+38-Round Hill,U.S. Senate (Republican),"Mabey, Garn",0
+38-Round Hill,U.S. Senate (Republican),"Marinch, Gary",0
+38-Round Hill,U.S. Senate (Republican),"Nadell, Brian",0
+38-Round Hill,U.S. Senate (Republican),None Of These Candidates,5
+38-Round Hill,U.S. Senate (Republican),"Parson, Bill",3
+38-Round Hill,U.S. Senate (Republican),"Stern, Cecilia",1
+38-Round Hill,U.S. Senate (Republican),"Suominen, Terry",0
+38-Round Hill,U.S. Senate (Republican),"Tarkanian, Danny",30
 39-Edgewood,Attorney General (Republican),"Barrick, Travis",11
 39-Edgewood,Attorney General (Republican),"Hafter, Jacob",5
 39-Edgewood,Attorney General (Republican),None Of These Candidates,9
@@ -2111,24 +2111,24 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",7
 39-Edgewood,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",5
 39-Edgewood,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",21
-39-Edgewood,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
-39-Edgewood,United States Senator (Democratic),"Miller, Alex",3
-39-Edgewood,United States Senator (Democratic),None Of These Candidates,1
-39-Edgewood,United States Senator (Democratic),"Poliak, Carlo",0
-39-Edgewood,United States Senator (Democratic),"Reid, Harry",8
-39-Edgewood,United States Senator (Republican),"Angle, Sharron",10
-39-Edgewood,United States Senator (Republican),"Bernstein, Gary",1
-39-Edgewood,United States Senator (Republican),"Chachas, John",1
-39-Edgewood,United States Senator (Republican),"Christensen, Chad",1
-39-Edgewood,United States Senator (Republican),"Lowden, Sue",8
-39-Edgewood,United States Senator (Republican),"Mabey, Garn",0
-39-Edgewood,United States Senator (Republican),"Marinch, Gary",0
-39-Edgewood,United States Senator (Republican),"Nadell, Brian",1
-39-Edgewood,United States Senator (Republican),None Of These Candidates,1
-39-Edgewood,United States Senator (Republican),"Parson, Bill",0
-39-Edgewood,United States Senator (Republican),"Stern, Cecilia",0
-39-Edgewood,United States Senator (Republican),"Suominen, Terry",0
-39-Edgewood,United States Senator (Republican),"Tarkanian, Danny",4
+39-Edgewood,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",4
+39-Edgewood,U.S. Senate (Democratic),"Miller, Alex",3
+39-Edgewood,U.S. Senate (Democratic),None Of These Candidates,1
+39-Edgewood,U.S. Senate (Democratic),"Poliak, Carlo",0
+39-Edgewood,U.S. Senate (Democratic),"Reid, Harry",8
+39-Edgewood,U.S. Senate (Republican),"Angle, Sharron",10
+39-Edgewood,U.S. Senate (Republican),"Bernstein, Gary",1
+39-Edgewood,U.S. Senate (Republican),"Chachas, John",1
+39-Edgewood,U.S. Senate (Republican),"Christensen, Chad",1
+39-Edgewood,U.S. Senate (Republican),"Lowden, Sue",8
+39-Edgewood,U.S. Senate (Republican),"Mabey, Garn",0
+39-Edgewood,U.S. Senate (Republican),"Marinch, Gary",0
+39-Edgewood,U.S. Senate (Republican),"Nadell, Brian",1
+39-Edgewood,U.S. Senate (Republican),None Of These Candidates,1
+39-Edgewood,U.S. Senate (Republican),"Parson, Bill",0
+39-Edgewood,U.S. Senate (Republican),"Stern, Cecilia",0
+39-Edgewood,U.S. Senate (Republican),"Suominen, Terry",0
+39-Edgewood,U.S. Senate (Republican),"Tarkanian, Danny",4
 40-Kingsbury,Attorney General (Republican),"Barrick, Travis",66
 40-Kingsbury,Attorney General (Republican),"Hafter, Jacob",50
 40-Kingsbury,Attorney General (Republican),None Of These Candidates,47
@@ -2167,24 +2167,24 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",29
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",33
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",145
-40-Kingsbury,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
-40-Kingsbury,United States Senator (Democratic),"Miller, Alex",4
-40-Kingsbury,United States Senator (Democratic),None Of These Candidates,7
-40-Kingsbury,United States Senator (Democratic),"Poliak, Carlo",0
-40-Kingsbury,United States Senator (Democratic),"Reid, Harry",51
-40-Kingsbury,United States Senator (Republican),"Angle, Sharron",64
-40-Kingsbury,United States Senator (Republican),"Bernstein, Gary",3
-40-Kingsbury,United States Senator (Republican),"Chachas, John",6
-40-Kingsbury,United States Senator (Republican),"Christensen, Chad",1
-40-Kingsbury,United States Senator (Republican),"Lowden, Sue",55
-40-Kingsbury,United States Senator (Republican),"Mabey, Garn",1
-40-Kingsbury,United States Senator (Republican),"Marinch, Gary",0
-40-Kingsbury,United States Senator (Republican),"Nadell, Brian",1
-40-Kingsbury,United States Senator (Republican),None Of These Candidates,3
-40-Kingsbury,United States Senator (Republican),"Parson, Bill",0
-40-Kingsbury,United States Senator (Republican),"Stern, Cecilia",0
-40-Kingsbury,United States Senator (Republican),"Suominen, Terry",0
-40-Kingsbury,United States Senator (Republican),"Tarkanian, Danny",45
+40-Kingsbury,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",3
+40-Kingsbury,U.S. Senate (Democratic),"Miller, Alex",4
+40-Kingsbury,U.S. Senate (Democratic),None Of These Candidates,7
+40-Kingsbury,U.S. Senate (Democratic),"Poliak, Carlo",0
+40-Kingsbury,U.S. Senate (Democratic),"Reid, Harry",51
+40-Kingsbury,U.S. Senate (Republican),"Angle, Sharron",64
+40-Kingsbury,U.S. Senate (Republican),"Bernstein, Gary",3
+40-Kingsbury,U.S. Senate (Republican),"Chachas, John",6
+40-Kingsbury,U.S. Senate (Republican),"Christensen, Chad",1
+40-Kingsbury,U.S. Senate (Republican),"Lowden, Sue",55
+40-Kingsbury,U.S. Senate (Republican),"Mabey, Garn",1
+40-Kingsbury,U.S. Senate (Republican),"Marinch, Gary",0
+40-Kingsbury,U.S. Senate (Republican),"Nadell, Brian",1
+40-Kingsbury,U.S. Senate (Republican),None Of These Candidates,3
+40-Kingsbury,U.S. Senate (Republican),"Parson, Bill",0
+40-Kingsbury,U.S. Senate (Republican),"Stern, Cecilia",0
+40-Kingsbury,U.S. Senate (Republican),"Suominen, Terry",0
+40-Kingsbury,U.S. Senate (Republican),"Tarkanian, Danny",45
 41-Daggett,Attorney General (Republican),"Barrick, Travis",46
 41-Daggett,Attorney General (Republican),"Hafter, Jacob",25
 41-Daggett,Attorney General (Republican),None Of These Candidates,26
@@ -2223,44 +2223,44 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",26
 41-Daggett,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",25
 41-Daggett,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",77
-41-Daggett,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
-41-Daggett,United States Senator (Democratic),"Miller, Alex",2
-41-Daggett,United States Senator (Democratic),None Of These Candidates,4
-41-Daggett,United States Senator (Democratic),"Poliak, Carlo",0
-41-Daggett,United States Senator (Democratic),"Reid, Harry",41
-41-Daggett,United States Senator (Republican),"Angle, Sharron",30
-41-Daggett,United States Senator (Republican),"Bernstein, Gary",0
-41-Daggett,United States Senator (Republican),"Chachas, John",5
-41-Daggett,United States Senator (Republican),"Christensen, Chad",0
-41-Daggett,United States Senator (Republican),"Lowden, Sue",34
-41-Daggett,United States Senator (Republican),"Mabey, Garn",0
-41-Daggett,United States Senator (Republican),"Marinch, Gary",0
-41-Daggett,United States Senator (Republican),"Nadell, Brian",0
-41-Daggett,United States Senator (Republican),None Of These Candidates,4
-41-Daggett,United States Senator (Republican),"Parson, Bill",0
-41-Daggett,United States Senator (Republican),"Stern, Cecilia",1
-41-Daggett,United States Senator (Republican),"Suominen, Terry",1
-41-Daggett,United States Senator (Republican),"Tarkanian, Danny",30
+41-Daggett,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",2
+41-Daggett,U.S. Senate (Democratic),"Miller, Alex",2
+41-Daggett,U.S. Senate (Democratic),None Of These Candidates,4
+41-Daggett,U.S. Senate (Democratic),"Poliak, Carlo",0
+41-Daggett,U.S. Senate (Democratic),"Reid, Harry",41
+41-Daggett,U.S. Senate (Republican),"Angle, Sharron",30
+41-Daggett,U.S. Senate (Republican),"Bernstein, Gary",0
+41-Daggett,U.S. Senate (Republican),"Chachas, John",5
+41-Daggett,U.S. Senate (Republican),"Christensen, Chad",0
+41-Daggett,U.S. Senate (Republican),"Lowden, Sue",34
+41-Daggett,U.S. Senate (Republican),"Mabey, Garn",0
+41-Daggett,U.S. Senate (Republican),"Marinch, Gary",0
+41-Daggett,U.S. Senate (Republican),"Nadell, Brian",0
+41-Daggett,U.S. Senate (Republican),None Of These Candidates,4
+41-Daggett,U.S. Senate (Republican),"Parson, Bill",0
+41-Daggett,U.S. Senate (Republican),"Stern, Cecilia",1
+41-Daggett,U.S. Senate (Republican),"Suominen, Terry",1
+41-Daggett,U.S. Senate (Republican),"Tarkanian, Danny",30
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
-Precinct 99,United States Senator (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-Precinct 99,United States Senator (Democratic),"Miller, Alex",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Poliak, Carlo",0
-Precinct 99,United States Senator (Democratic),"Reid, Harry",0
-Precinct 99,United States Senator (Republican),"Angle, Sharron",0
-Precinct 99,United States Senator (Republican),"Bernstein, Gary",0
-Precinct 99,United States Senator (Republican),"Chachas, John",0
-Precinct 99,United States Senator (Republican),"Christensen, Chad",0
-Precinct 99,United States Senator (Republican),"Lowden, Sue",0
-Precinct 99,United States Senator (Republican),"Mabey, Garn",0
-Precinct 99,United States Senator (Republican),"Marinch, Gary",0
-Precinct 99,United States Senator (Republican),"Nadell, Brian",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
-Precinct 99,United States Senator (Republican),"Parson, Bill",0
-Precinct 99,United States Senator (Republican),"Stern, Cecilia",0
-Precinct 99,United States Senator (Republican),"Suominen, Terry",0
-Precinct 99,United States Senator (Republican),"Tarkanian, Danny",0
+Precinct 99,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+Precinct 99,U.S. Senate (Democratic),"Miller, Alex",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Poliak, Carlo",0
+Precinct 99,U.S. Senate (Democratic),"Reid, Harry",0
+Precinct 99,U.S. Senate (Republican),"Angle, Sharron",0
+Precinct 99,U.S. Senate (Republican),"Bernstein, Gary",0
+Precinct 99,U.S. Senate (Republican),"Chachas, John",0
+Precinct 99,U.S. Senate (Republican),"Christensen, Chad",0
+Precinct 99,U.S. Senate (Republican),"Lowden, Sue",0
+Precinct 99,U.S. Senate (Republican),"Mabey, Garn",0
+Precinct 99,U.S. Senate (Republican),"Marinch, Gary",0
+Precinct 99,U.S. Senate (Republican),"Nadell, Brian",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Republican),"Parson, Bill",0
+Precinct 99,U.S. Senate (Republican),"Stern, Cecilia",0
+Precinct 99,U.S. Senate (Republican),"Suominen, Terry",0
+Precinct 99,U.S. Senate (Republican),"Tarkanian, Danny",0

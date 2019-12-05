@@ -57,11 +57,11 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2","HELLER, DEAN",234
 01-Centerville,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 01-Centerville,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-01-Centerville,United States Senator,"CARTER, JACK",94
-01-Centerville,United States Senator,"ENSIGN, JOHN",264
-01-Centerville,United States Senator,None Of These Candidates,10
-01-Centerville,United States Senator,"SCHUMANN, DAVID K.",8
-01-Centerville,United States Senator,"TRAINOR, BRENDAN",1
+01-Centerville,U.S. Senate,"CARTER, JACK",94
+01-Centerville,U.S. Senate,"ENSIGN, JOHN",264
+01-Centerville,U.S. Senate,None Of These Candidates,10
+01-Centerville,U.S. Senate,"SCHUMANN, DAVID K.",8
+01-Centerville,U.S. Senate,"TRAINOR, BRENDAN",1
 01-Centerville,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",171
 01-Centerville,"University Board of Regents, District  9","Knecht, Ron",121
 02-Fish Springs,Attorney General,"CHAIREZ, DON",265
@@ -120,11 +120,11 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2","HELLER, DEAN",359
 02-Fish Springs,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 02-Fish Springs,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-02-Fish Springs,United States Senator,"CARTER, JACK",183
-02-Fish Springs,United States Senator,"ENSIGN, JOHN",439
-02-Fish Springs,United States Senator,None Of These Candidates,11
-02-Fish Springs,United States Senator,"SCHUMANN, DAVID K.",6
-02-Fish Springs,United States Senator,"TRAINOR, BRENDAN",2
+02-Fish Springs,U.S. Senate,"CARTER, JACK",183
+02-Fish Springs,U.S. Senate,"ENSIGN, JOHN",439
+02-Fish Springs,U.S. Senate,None Of These Candidates,11
+02-Fish Springs,U.S. Senate,"SCHUMANN, DAVID K.",6
+02-Fish Springs,U.S. Senate,"TRAINOR, BRENDAN",2
 02-Fish Springs,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",240
 02-Fish Springs,"University Board of Regents, District  9","Knecht, Ron",279
 03-Gardnerville,Attorney General,"CHAIREZ, DON",264
@@ -183,11 +183,11 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2","HELLER, DEAN",364
 03-Gardnerville,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",13
 03-Gardnerville,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",19
-03-Gardnerville,United States Senator,"CARTER, JACK",243
-03-Gardnerville,United States Senator,"ENSIGN, JOHN",461
-03-Gardnerville,United States Senator,None Of These Candidates,13
-03-Gardnerville,United States Senator,"SCHUMANN, DAVID K.",11
-03-Gardnerville,United States Senator,"TRAINOR, BRENDAN",8
+03-Gardnerville,U.S. Senate,"CARTER, JACK",243
+03-Gardnerville,U.S. Senate,"ENSIGN, JOHN",461
+03-Gardnerville,U.S. Senate,None Of These Candidates,13
+03-Gardnerville,U.S. Senate,"SCHUMANN, DAVID K.",11
+03-Gardnerville,U.S. Senate,"TRAINOR, BRENDAN",8
 03-Gardnerville,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",305
 03-Gardnerville,"University Board of Regents, District  9","Knecht, Ron",298
 04-Carson Valley Estates,Attorney General,"CHAIREZ, DON",178
@@ -246,11 +246,11 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","HELLER, DEAN",255
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",11
-04-Carson Valley Estates,United States Senator,"CARTER, JACK",163
-04-Carson Valley Estates,United States Senator,"ENSIGN, JOHN",323
-04-Carson Valley Estates,United States Senator,None Of These Candidates,4
-04-Carson Valley Estates,United States Senator,"SCHUMANN, DAVID K.",9
-04-Carson Valley Estates,United States Senator,"TRAINOR, BRENDAN",3
+04-Carson Valley Estates,U.S. Senate,"CARTER, JACK",163
+04-Carson Valley Estates,U.S. Senate,"ENSIGN, JOHN",323
+04-Carson Valley Estates,U.S. Senate,None Of These Candidates,4
+04-Carson Valley Estates,U.S. Senate,"SCHUMANN, DAVID K.",9
+04-Carson Valley Estates,U.S. Senate,"TRAINOR, BRENDAN",3
 04-Carson Valley Estates,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",178
 04-Carson Valley Estates,"University Board of Regents, District  9","Knecht, Ron",228
 05-Genoa,Attorney General,"CHAIREZ, DON",271
@@ -315,11 +315,11 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2","HELLER, DEAN",348
 05-Genoa,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 05-Genoa,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
-05-Genoa,United States Senator,"CARTER, JACK",148
-05-Genoa,United States Senator,"ENSIGN, JOHN",400
-05-Genoa,United States Senator,None Of These Candidates,2
-05-Genoa,United States Senator,"SCHUMANN, DAVID K.",6
-05-Genoa,United States Senator,"TRAINOR, BRENDAN",4
+05-Genoa,U.S. Senate,"CARTER, JACK",148
+05-Genoa,U.S. Senate,"ENSIGN, JOHN",400
+05-Genoa,U.S. Senate,None Of These Candidates,2
+05-Genoa,U.S. Senate,"SCHUMANN, DAVID K.",6
+05-Genoa,U.S. Senate,"TRAINOR, BRENDAN",4
 05-Genoa,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",241
 05-Genoa,"University Board of Regents, District  9","Knecht, Ron",222
 06-Jacks Valley,Attorney General,"CHAIREZ, DON",223
@@ -385,11 +385,11 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2","HELLER, DEAN",342
 06-Jacks Valley,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 06-Jacks Valley,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-06-Jacks Valley,United States Senator,"CARTER, JACK",210
-06-Jacks Valley,United States Senator,"ENSIGN, JOHN",397
-06-Jacks Valley,United States Senator,None Of These Candidates,3
-06-Jacks Valley,United States Senator,"SCHUMANN, DAVID K.",9
-06-Jacks Valley,United States Senator,"TRAINOR, BRENDAN",5
+06-Jacks Valley,U.S. Senate,"CARTER, JACK",210
+06-Jacks Valley,U.S. Senate,"ENSIGN, JOHN",397
+06-Jacks Valley,U.S. Senate,None Of These Candidates,3
+06-Jacks Valley,U.S. Senate,"SCHUMANN, DAVID K.",9
+06-Jacks Valley,U.S. Senate,"TRAINOR, BRENDAN",5
 06-Jacks Valley,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",241
 06-Jacks Valley,"University Board of Regents, District  9","Knecht, Ron",289
 07-Minden,Attorney General,"CHAIREZ, DON",204
@@ -448,11 +448,11 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2","HELLER, DEAN",292
 07-Minden,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 07-Minden,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-07-Minden,United States Senator,"CARTER, JACK",166
-07-Minden,United States Senator,"ENSIGN, JOHN",375
-07-Minden,United States Senator,None Of These Candidates,9
-07-Minden,United States Senator,"SCHUMANN, DAVID K.",7
-07-Minden,United States Senator,"TRAINOR, BRENDAN",3
+07-Minden,U.S. Senate,"CARTER, JACK",166
+07-Minden,U.S. Senate,"ENSIGN, JOHN",375
+07-Minden,U.S. Senate,None Of These Candidates,9
+07-Minden,U.S. Senate,"SCHUMANN, DAVID K.",7
+07-Minden,U.S. Senate,"TRAINOR, BRENDAN",3
 07-Minden,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",260
 07-Minden,"University Board of Regents, District  9","Knecht, Ron",201
 08-Ranchos I,Attorney General,"CHAIREZ, DON",176
@@ -517,11 +517,11 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2","HELLER, DEAN",218
 08-Ranchos I,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 08-Ranchos I,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",12
-08-Ranchos I,United States Senator,"CARTER, JACK",130
-08-Ranchos I,United States Senator,"ENSIGN, JOHN",275
-08-Ranchos I,United States Senator,None Of These Candidates,6
-08-Ranchos I,United States Senator,"SCHUMANN, DAVID K.",4
-08-Ranchos I,United States Senator,"TRAINOR, BRENDAN",4
+08-Ranchos I,U.S. Senate,"CARTER, JACK",130
+08-Ranchos I,U.S. Senate,"ENSIGN, JOHN",275
+08-Ranchos I,U.S. Senate,None Of These Candidates,6
+08-Ranchos I,U.S. Senate,"SCHUMANN, DAVID K.",4
+08-Ranchos I,U.S. Senate,"TRAINOR, BRENDAN",4
 08-Ranchos I,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",169
 08-Ranchos I,"University Board of Regents, District  9","Knecht, Ron",185
 09-Ranchos II,Attorney General,"CHAIREZ, DON",173
@@ -586,11 +586,11 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2","HELLER, DEAN",249
 09-Ranchos II,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 09-Ranchos II,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",10
-09-Ranchos II,United States Senator,"CARTER, JACK",147
-09-Ranchos II,United States Senator,"ENSIGN, JOHN",311
-09-Ranchos II,United States Senator,None Of These Candidates,8
-09-Ranchos II,United States Senator,"SCHUMANN, DAVID K.",9
-09-Ranchos II,United States Senator,"TRAINOR, BRENDAN",5
+09-Ranchos II,U.S. Senate,"CARTER, JACK",147
+09-Ranchos II,U.S. Senate,"ENSIGN, JOHN",311
+09-Ranchos II,U.S. Senate,None Of These Candidates,8
+09-Ranchos II,U.S. Senate,"SCHUMANN, DAVID K.",9
+09-Ranchos II,U.S. Senate,"TRAINOR, BRENDAN",5
 09-Ranchos II,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",164
 09-Ranchos II,"University Board of Regents, District  9","Knecht, Ron",240
 10-Topaz Ranch Estates,Attorney General,"CHAIREZ, DON",266
@@ -649,11 +649,11 @@ precinct,office,candidate,votes
 10-Topaz Ranch Estates,"U.S. Representative in Congress, District 2","HELLER, DEAN",356
 10-Topaz Ranch Estates,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",23
 10-Topaz Ranch Estates,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",17
-10-Topaz Ranch Estates,United States Senator,"CARTER, JACK",186
-10-Topaz Ranch Estates,United States Senator,"ENSIGN, JOHN",443
-10-Topaz Ranch Estates,United States Senator,None Of These Candidates,13
-10-Topaz Ranch Estates,United States Senator,"SCHUMANN, DAVID K.",22
-10-Topaz Ranch Estates,United States Senator,"TRAINOR, BRENDAN",10
+10-Topaz Ranch Estates,U.S. Senate,"CARTER, JACK",186
+10-Topaz Ranch Estates,U.S. Senate,"ENSIGN, JOHN",443
+10-Topaz Ranch Estates,U.S. Senate,None Of These Candidates,13
+10-Topaz Ranch Estates,U.S. Senate,"SCHUMANN, DAVID K.",22
+10-Topaz Ranch Estates,U.S. Senate,"TRAINOR, BRENDAN",10
 10-Topaz Ranch Estates,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",314
 10-Topaz Ranch Estates,"University Board of Regents, District  9","Knecht, Ron",254
 11-Johnson Lane,Attorney General,"CHAIREZ, DON",248
@@ -714,11 +714,11 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2","HELLER, DEAN",375
 11-Johnson Lane,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",12
 11-Johnson Lane,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-11-Johnson Lane,United States Senator,"CARTER, JACK",222
-11-Johnson Lane,United States Senator,"ENSIGN, JOHN",452
-11-Johnson Lane,United States Senator,None Of These Candidates,4
-11-Johnson Lane,United States Senator,"SCHUMANN, DAVID K.",8
-11-Johnson Lane,United States Senator,"TRAINOR, BRENDAN",3
+11-Johnson Lane,U.S. Senate,"CARTER, JACK",222
+11-Johnson Lane,U.S. Senate,"ENSIGN, JOHN",452
+11-Johnson Lane,U.S. Senate,None Of These Candidates,4
+11-Johnson Lane,U.S. Senate,"SCHUMANN, DAVID K.",8
+11-Johnson Lane,U.S. Senate,"TRAINOR, BRENDAN",3
 11-Johnson Lane,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",230
 11-Johnson Lane,"University Board of Regents, District  9","Knecht, Ron",328
 12-Dresslerville,Attorney General,"CHAIREZ, DON",7
@@ -777,11 +777,11 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2","HELLER, DEAN",17
 12-Dresslerville,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",1
 12-Dresslerville,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
-12-Dresslerville,United States Senator,"CARTER, JACK",42
-12-Dresslerville,United States Senator,"ENSIGN, JOHN",21
-12-Dresslerville,United States Senator,None Of These Candidates,5
-12-Dresslerville,United States Senator,"SCHUMANN, DAVID K.",1
-12-Dresslerville,United States Senator,"TRAINOR, BRENDAN",1
+12-Dresslerville,U.S. Senate,"CARTER, JACK",42
+12-Dresslerville,U.S. Senate,"ENSIGN, JOHN",21
+12-Dresslerville,U.S. Senate,None Of These Candidates,5
+12-Dresslerville,U.S. Senate,"SCHUMANN, DAVID K.",1
+12-Dresslerville,U.S. Senate,"TRAINOR, BRENDAN",1
 12-Dresslerville,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",34
 12-Dresslerville,"University Board of Regents, District  9","Knecht, Ron",20
 13-Indian Hills - West,Attorney General,"CHAIREZ, DON",225
@@ -847,11 +847,11 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","HELLER, DEAN",331
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",20
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",21
-13-Indian Hills - West,United States Senator,"CARTER, JACK",258
-13-Indian Hills - West,United States Senator,"ENSIGN, JOHN",392
-13-Indian Hills - West,United States Senator,None Of These Candidates,18
-13-Indian Hills - West,United States Senator,"SCHUMANN, DAVID K.",17
-13-Indian Hills - West,United States Senator,"TRAINOR, BRENDAN",11
+13-Indian Hills - West,U.S. Senate,"CARTER, JACK",258
+13-Indian Hills - West,U.S. Senate,"ENSIGN, JOHN",392
+13-Indian Hills - West,U.S. Senate,None Of These Candidates,18
+13-Indian Hills - West,U.S. Senate,"SCHUMANN, DAVID K.",17
+13-Indian Hills - West,U.S. Senate,"TRAINOR, BRENDAN",11
 13-Indian Hills - West,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",207
 13-Indian Hills - West,"University Board of Regents, District  9","Knecht, Ron",353
 14-Pinenut,Attorney General,"CHAIREZ, DON",478
@@ -910,11 +910,11 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2","HELLER, DEAN",619
 14-Pinenut,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",19
 14-Pinenut,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",19
-14-Pinenut,United States Senator,"CARTER, JACK",239
-14-Pinenut,United States Senator,"ENSIGN, JOHN",746
-14-Pinenut,United States Senator,None Of These Candidates,8
-14-Pinenut,United States Senator,"SCHUMANN, DAVID K.",13
-14-Pinenut,United States Senator,"TRAINOR, BRENDAN",6
+14-Pinenut,U.S. Senate,"CARTER, JACK",239
+14-Pinenut,U.S. Senate,"ENSIGN, JOHN",746
+14-Pinenut,U.S. Senate,None Of These Candidates,8
+14-Pinenut,U.S. Senate,"SCHUMANN, DAVID K.",13
+14-Pinenut,U.S. Senate,"TRAINOR, BRENDAN",6
 14-Pinenut,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",386
 14-Pinenut,"University Board of Regents, District  9","Knecht, Ron",430
 15-Valley,Attorney General,"CHAIREZ, DON",108
@@ -975,11 +975,11 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2","HELLER, DEAN",171
 15-Valley,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 15-Valley,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
-15-Valley,United States Senator,"CARTER, JACK",70
-15-Valley,United States Senator,"ENSIGN, JOHN",196
-15-Valley,United States Senator,None Of These Candidates,2
-15-Valley,United States Senator,"SCHUMANN, DAVID K.",6
-15-Valley,United States Senator,"TRAINOR, BRENDAN",1
+15-Valley,U.S. Senate,"CARTER, JACK",70
+15-Valley,U.S. Senate,"ENSIGN, JOHN",196
+15-Valley,U.S. Senate,None Of These Candidates,2
+15-Valley,U.S. Senate,"SCHUMANN, DAVID K.",6
+15-Valley,U.S. Senate,"TRAINOR, BRENDAN",1
 15-Valley,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",90
 15-Valley,"University Board of Regents, District  9","Knecht, Ron",144
 16-Mottsville,Attorney General,"CHAIREZ, DON",253
@@ -1040,11 +1040,11 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2","HELLER, DEAN",313
 16-Mottsville,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",8
 16-Mottsville,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-16-Mottsville,United States Senator,"CARTER, JACK",142
-16-Mottsville,United States Senator,"ENSIGN, JOHN",369
-16-Mottsville,United States Senator,None Of These Candidates,7
-16-Mottsville,United States Senator,"SCHUMANN, DAVID K.",5
-16-Mottsville,United States Senator,"TRAINOR, BRENDAN",3
+16-Mottsville,U.S. Senate,"CARTER, JACK",142
+16-Mottsville,U.S. Senate,"ENSIGN, JOHN",369
+16-Mottsville,U.S. Senate,None Of These Candidates,7
+16-Mottsville,U.S. Senate,"SCHUMANN, DAVID K.",5
+16-Mottsville,U.S. Senate,"TRAINOR, BRENDAN",3
 16-Mottsville,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",227
 16-Mottsville,"University Board of Regents, District  9","Knecht, Ron",213
 17-Ruhenstroth,Attorney General,"CHAIREZ, DON",145
@@ -1103,11 +1103,11 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","HELLER, DEAN",195
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-17-Ruhenstroth,United States Senator,"CARTER, JACK",84
-17-Ruhenstroth,United States Senator,"ENSIGN, JOHN",222
-17-Ruhenstroth,United States Senator,None Of These Candidates,2
-17-Ruhenstroth,United States Senator,"SCHUMANN, DAVID K.",1
-17-Ruhenstroth,United States Senator,"TRAINOR, BRENDAN",1
+17-Ruhenstroth,U.S. Senate,"CARTER, JACK",84
+17-Ruhenstroth,U.S. Senate,"ENSIGN, JOHN",222
+17-Ruhenstroth,U.S. Senate,None Of These Candidates,2
+17-Ruhenstroth,U.S. Senate,"SCHUMANN, DAVID K.",1
+17-Ruhenstroth,U.S. Senate,"TRAINOR, BRENDAN",1
 17-Ruhenstroth,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",117
 17-Ruhenstroth,"University Board of Regents, District  9","Knecht, Ron",142
 18-Ranchos III,Attorney General,"CHAIREZ, DON",210
@@ -1172,11 +1172,11 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2","HELLER, DEAN",316
 18-Ranchos III,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",16
 18-Ranchos III,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",17
-18-Ranchos III,United States Senator,"CARTER, JACK",156
-18-Ranchos III,United States Senator,"ENSIGN, JOHN",398
-18-Ranchos III,United States Senator,None Of These Candidates,12
-18-Ranchos III,United States Senator,"SCHUMANN, DAVID K.",18
-18-Ranchos III,United States Senator,"TRAINOR, BRENDAN",4
+18-Ranchos III,U.S. Senate,"CARTER, JACK",156
+18-Ranchos III,U.S. Senate,"ENSIGN, JOHN",398
+18-Ranchos III,U.S. Senate,None Of These Candidates,12
+18-Ranchos III,U.S. Senate,"SCHUMANN, DAVID K.",18
+18-Ranchos III,U.S. Senate,"TRAINOR, BRENDAN",4
 18-Ranchos III,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",220
 18-Ranchos III,"University Board of Regents, District  9","Knecht, Ron",274
 19-Ranchos IV,Attorney General,"CHAIREZ, DON",210
@@ -1239,11 +1239,11 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2","HELLER, DEAN",310
 19-Ranchos IV,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",17
 19-Ranchos IV,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-19-Ranchos IV,United States Senator,"CARTER, JACK",205
-19-Ranchos IV,United States Senator,"ENSIGN, JOHN",374
-19-Ranchos IV,United States Senator,None Of These Candidates,13
-19-Ranchos IV,United States Senator,"SCHUMANN, DAVID K.",8
-19-Ranchos IV,United States Senator,"TRAINOR, BRENDAN",1
+19-Ranchos IV,U.S. Senate,"CARTER, JACK",205
+19-Ranchos IV,U.S. Senate,"ENSIGN, JOHN",374
+19-Ranchos IV,U.S. Senate,None Of These Candidates,13
+19-Ranchos IV,U.S. Senate,"SCHUMANN, DAVID K.",8
+19-Ranchos IV,U.S. Senate,"TRAINOR, BRENDAN",1
 19-Ranchos IV,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",227
 19-Ranchos IV,"University Board of Regents, District  9","Knecht, Ron",252
 20-Birch/Ranchos,Attorney General,"CHAIREZ, DON",220
@@ -1306,11 +1306,11 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","HELLER, DEAN",316
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",15
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-20-Birch/Ranchos,United States Senator,"CARTER, JACK",222
-20-Birch/Ranchos,United States Senator,"ENSIGN, JOHN",401
-20-Birch/Ranchos,United States Senator,None Of These Candidates,12
-20-Birch/Ranchos,United States Senator,"SCHUMANN, DAVID K.",10
-20-Birch/Ranchos,United States Senator,"TRAINOR, BRENDAN",2
+20-Birch/Ranchos,U.S. Senate,"CARTER, JACK",222
+20-Birch/Ranchos,U.S. Senate,"ENSIGN, JOHN",401
+20-Birch/Ranchos,U.S. Senate,None Of These Candidates,12
+20-Birch/Ranchos,U.S. Senate,"SCHUMANN, DAVID K.",10
+20-Birch/Ranchos,U.S. Senate,"TRAINOR, BRENDAN",2
 20-Birch/Ranchos,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",208
 20-Birch/Ranchos,"University Board of Regents, District  9","Knecht, Ron",326
 21-Wildhorse,Attorney General,"CHAIREZ, DON",295
@@ -1371,11 +1371,11 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2","HELLER, DEAN",431
 21-Wildhorse,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",18
 21-Wildhorse,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-21-Wildhorse,United States Senator,"CARTER, JACK",201
-21-Wildhorse,United States Senator,"ENSIGN, JOHN",519
-21-Wildhorse,United States Senator,None Of These Candidates,8
-21-Wildhorse,United States Senator,"SCHUMANN, DAVID K.",13
-21-Wildhorse,United States Senator,"TRAINOR, BRENDAN",2
+21-Wildhorse,U.S. Senate,"CARTER, JACK",201
+21-Wildhorse,U.S. Senate,"ENSIGN, JOHN",519
+21-Wildhorse,U.S. Senate,None Of These Candidates,8
+21-Wildhorse,U.S. Senate,"SCHUMANN, DAVID K.",13
+21-Wildhorse,U.S. Senate,"TRAINOR, BRENDAN",2
 21-Wildhorse,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",265
 21-Wildhorse,"University Board of Regents, District  9","Knecht, Ron",366
 22-Saratoga,Attorney General,"CHAIREZ, DON",344
@@ -1436,11 +1436,11 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2","HELLER, DEAN",447
 22-Saratoga,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",12
 22-Saratoga,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",19
-22-Saratoga,United States Senator,"CARTER, JACK",209
-22-Saratoga,United States Senator,"ENSIGN, JOHN",521
-22-Saratoga,United States Senator,None Of These Candidates,9
-22-Saratoga,United States Senator,"SCHUMANN, DAVID K.",2
-22-Saratoga,United States Senator,"TRAINOR, BRENDAN",8
+22-Saratoga,U.S. Senate,"CARTER, JACK",209
+22-Saratoga,U.S. Senate,"ENSIGN, JOHN",521
+22-Saratoga,U.S. Senate,None Of These Candidates,9
+22-Saratoga,U.S. Senate,"SCHUMANN, DAVID K.",2
+22-Saratoga,U.S. Senate,"TRAINOR, BRENDAN",8
 22-Saratoga,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",226
 22-Saratoga,"University Board of Regents, District  9","Knecht, Ron",395
 23-Indian Hills - East,Attorney General,"CHAIREZ, DON",151
@@ -1506,11 +1506,11 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","HELLER, DEAN",233
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-23-Indian Hills - East,United States Senator,"CARTER, JACK",140
-23-Indian Hills - East,United States Senator,"ENSIGN, JOHN",270
-23-Indian Hills - East,United States Senator,None Of These Candidates,5
-23-Indian Hills - East,United States Senator,"SCHUMANN, DAVID K.",6
-23-Indian Hills - East,United States Senator,"TRAINOR, BRENDAN",1
+23-Indian Hills - East,U.S. Senate,"CARTER, JACK",140
+23-Indian Hills - East,U.S. Senate,"ENSIGN, JOHN",270
+23-Indian Hills - East,U.S. Senate,None Of These Candidates,5
+23-Indian Hills - East,U.S. Senate,"SCHUMANN, DAVID K.",6
+23-Indian Hills - East,U.S. Senate,"TRAINOR, BRENDAN",1
 23-Indian Hills - East,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",146
 23-Indian Hills - East,"University Board of Regents, District  9","Knecht, Ron",202
 24-Topaz Lake,Attorney General,"CHAIREZ, DON",128
@@ -1588,11 +1588,11 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2","HELLER, DEAN",479
 25-Pleasantview,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",19
 25-Pleasantview,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-25-Pleasantview,United States Senator,"CARTER, JACK",257
-25-Pleasantview,United States Senator,"ENSIGN, JOHN",569
-25-Pleasantview,United States Senator,None Of These Candidates,12
-25-Pleasantview,United States Senator,"SCHUMANN, DAVID K.",20
-25-Pleasantview,United States Senator,"TRAINOR, BRENDAN",3
+25-Pleasantview,U.S. Senate,"CARTER, JACK",257
+25-Pleasantview,U.S. Senate,"ENSIGN, JOHN",569
+25-Pleasantview,U.S. Senate,None Of These Candidates,12
+25-Pleasantview,U.S. Senate,"SCHUMANN, DAVID K.",20
+25-Pleasantview,U.S. Senate,"TRAINOR, BRENDAN",3
 25-Pleasantview,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",297
 25-Pleasantview,"University Board of Regents, District  9","Knecht, Ron",392
 26-Westwood,Attorney General,"CHAIREZ, DON",176
@@ -1651,11 +1651,11 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2","HELLER, DEAN",226
 26-Westwood,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
 26-Westwood,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-26-Westwood,United States Senator,"CARTER, JACK",103
-26-Westwood,United States Senator,"ENSIGN, JOHN",269
-26-Westwood,United States Senator,None Of These Candidates,6
-26-Westwood,United States Senator,"SCHUMANN, DAVID K.",10
-26-Westwood,United States Senator,"TRAINOR, BRENDAN",0
+26-Westwood,U.S. Senate,"CARTER, JACK",103
+26-Westwood,U.S. Senate,"ENSIGN, JOHN",269
+26-Westwood,U.S. Senate,None Of These Candidates,6
+26-Westwood,U.S. Senate,"SCHUMANN, DAVID K.",10
+26-Westwood,U.S. Senate,"TRAINOR, BRENDAN",0
 26-Westwood,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",146
 26-Westwood,"University Board of Regents, District  9","Knecht, Ron",167
 27-Winhaven,Attorney General,"CHAIREZ, DON",234
@@ -1714,11 +1714,11 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2","HELLER, DEAN",315
 27-Winhaven,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",10
 27-Winhaven,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
-27-Winhaven,United States Senator,"CARTER, JACK",138
-27-Winhaven,United States Senator,"ENSIGN, JOHN",389
-27-Winhaven,United States Senator,None Of These Candidates,8
-27-Winhaven,United States Senator,"SCHUMANN, DAVID K.",4
-27-Winhaven,United States Senator,"TRAINOR, BRENDAN",5
+27-Winhaven,U.S. Senate,"CARTER, JACK",138
+27-Winhaven,U.S. Senate,"ENSIGN, JOHN",389
+27-Winhaven,U.S. Senate,None Of These Candidates,8
+27-Winhaven,U.S. Senate,"SCHUMANN, DAVID K.",4
+27-Winhaven,U.S. Senate,"TRAINOR, BRENDAN",5
 27-Winhaven,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",178
 27-Winhaven,"University Board of Regents, District  9","Knecht, Ron",256
 28-Orchard Road,Attorney General,"CHAIREZ, DON",111
@@ -1777,11 +1777,11 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2","HELLER, DEAN",150
 28-Orchard Road,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 28-Orchard Road,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",4
-28-Orchard Road,United States Senator,"CARTER, JACK",40
-28-Orchard Road,United States Senator,"ENSIGN, JOHN",169
-28-Orchard Road,United States Senator,None Of These Candidates,4
-28-Orchard Road,United States Senator,"SCHUMANN, DAVID K.",8
-28-Orchard Road,United States Senator,"TRAINOR, BRENDAN",0
+28-Orchard Road,U.S. Senate,"CARTER, JACK",40
+28-Orchard Road,U.S. Senate,"ENSIGN, JOHN",169
+28-Orchard Road,U.S. Senate,None Of These Candidates,4
+28-Orchard Road,U.S. Senate,"SCHUMANN, DAVID K.",8
+28-Orchard Road,U.S. Senate,"TRAINOR, BRENDAN",0
 28-Orchard Road,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",80
 28-Orchard Road,"University Board of Regents, District  9","Knecht, Ron",84
 29-Autumn Hils,Attorney General,"CHAIREZ, DON",204
@@ -1842,11 +1842,11 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2","HELLER, DEAN",270
 29-Autumn Hils,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 29-Autumn Hils,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-29-Autumn Hils,United States Senator,"CARTER, JACK",108
-29-Autumn Hils,United States Senator,"ENSIGN, JOHN",315
-29-Autumn Hils,United States Senator,None Of These Candidates,6
-29-Autumn Hils,United States Senator,"SCHUMANN, DAVID K.",2
-29-Autumn Hils,United States Senator,"TRAINOR, BRENDAN",1
+29-Autumn Hils,U.S. Senate,"CARTER, JACK",108
+29-Autumn Hils,U.S. Senate,"ENSIGN, JOHN",315
+29-Autumn Hils,U.S. Senate,None Of These Candidates,6
+29-Autumn Hils,U.S. Senate,"SCHUMANN, DAVID K.",2
+29-Autumn Hils,U.S. Senate,"TRAINOR, BRENDAN",1
 29-Autumn Hils,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",179
 29-Autumn Hils,"University Board of Regents, District  9","Knecht, Ron",173
 30-East Fork,Attorney General,"CHAIREZ, DON",
@@ -1905,11 +1905,11 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 30-East Fork,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",
 30-East Fork,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",
-30-East Fork,United States Senator,"CARTER, JACK",
-30-East Fork,United States Senator,"ENSIGN, JOHN",
-30-East Fork,United States Senator,None Of These Candidates,
-30-East Fork,United States Senator,"SCHUMANN, DAVID K.",
-30-East Fork,United States Senator,"TRAINOR, BRENDAN",
+30-East Fork,U.S. Senate,"CARTER, JACK",
+30-East Fork,U.S. Senate,"ENSIGN, JOHN",
+30-East Fork,U.S. Senate,None Of These Candidates,
+30-East Fork,U.S. Senate,"SCHUMANN, DAVID K.",
+30-East Fork,U.S. Senate,"TRAINOR, BRENDAN",
 30-East Fork,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",
 30-East Fork,"University Board of Regents, District  9","Knecht, Ron",
 31-Chichester,Attorney General,"CHAIREZ, DON",160
@@ -1973,11 +1973,11 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2","HELLER, DEAN",219
 31-Chichester,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 31-Chichester,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
-31-Chichester,United States Senator,"CARTER, JACK",89
-31-Chichester,United States Senator,"ENSIGN, JOHN",261
-31-Chichester,United States Senator,None Of These Candidates,7
-31-Chichester,United States Senator,"SCHUMANN, DAVID K.",4
-31-Chichester,United States Senator,"TRAINOR, BRENDAN",3
+31-Chichester,U.S. Senate,"CARTER, JACK",89
+31-Chichester,U.S. Senate,"ENSIGN, JOHN",261
+31-Chichester,U.S. Senate,None Of These Candidates,7
+31-Chichester,U.S. Senate,"SCHUMANN, DAVID K.",4
+31-Chichester,U.S. Senate,"TRAINOR, BRENDAN",3
 31-Chichester,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",110
 31-Chichester,"University Board of Regents, District  9","Knecht, Ron",166
 32-East Valley,Attorney General,"CHAIREZ, DON",129
@@ -2038,11 +2038,11 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2","HELLER, DEAN",172
 32-East Valley,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 32-East Valley,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",3
-32-East Valley,United States Senator,"CARTER, JACK",72
-32-East Valley,United States Senator,"ENSIGN, JOHN",209
-32-East Valley,United States Senator,None Of These Candidates,4
-32-East Valley,United States Senator,"SCHUMANN, DAVID K.",5
-32-East Valley,United States Senator,"TRAINOR, BRENDAN",4
+32-East Valley,U.S. Senate,"CARTER, JACK",72
+32-East Valley,U.S. Senate,"ENSIGN, JOHN",209
+32-East Valley,U.S. Senate,None Of These Candidates,4
+32-East Valley,U.S. Senate,"SCHUMANN, DAVID K.",5
+32-East Valley,U.S. Senate,"TRAINOR, BRENDAN",4
 32-East Valley,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",88
 32-East Valley,"University Board of Regents, District  9","Knecht, Ron",142
 33-Hot Springs,Attorney General,"CHAIREZ, DON",131
@@ -2103,11 +2103,11 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2","HELLER, DEAN",183
 33-Hot Springs,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 33-Hot Springs,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",5
-33-Hot Springs,United States Senator,"CARTER, JACK",103
-33-Hot Springs,United States Senator,"ENSIGN, JOHN",221
-33-Hot Springs,United States Senator,None Of These Candidates,5
-33-Hot Springs,United States Senator,"SCHUMANN, DAVID K.",5
-33-Hot Springs,United States Senator,"TRAINOR, BRENDAN",1
+33-Hot Springs,U.S. Senate,"CARTER, JACK",103
+33-Hot Springs,U.S. Senate,"ENSIGN, JOHN",221
+33-Hot Springs,U.S. Senate,None Of These Candidates,5
+33-Hot Springs,U.S. Senate,"SCHUMANN, DAVID K.",5
+33-Hot Springs,U.S. Senate,"TRAINOR, BRENDAN",1
 33-Hot Springs,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",105
 33-Hot Springs,"University Board of Regents, District  9","Knecht, Ron",160
 34-Sunridge,Attorney General,"CHAIREZ, DON",100
@@ -2173,11 +2173,11 @@ precinct,office,candidate,votes
 34-Sunridge,"U.S. Representative in Congress, District 2","HELLER, DEAN",146
 34-Sunridge,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
 34-Sunridge,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",8
-34-Sunridge,United States Senator,"CARTER, JACK",83
-34-Sunridge,United States Senator,"ENSIGN, JOHN",175
-34-Sunridge,United States Senator,None Of These Candidates,0
-34-Sunridge,United States Senator,"SCHUMANN, DAVID K.",6
-34-Sunridge,United States Senator,"TRAINOR, BRENDAN",0
+34-Sunridge,U.S. Senate,"CARTER, JACK",83
+34-Sunridge,U.S. Senate,"ENSIGN, JOHN",175
+34-Sunridge,U.S. Senate,None Of These Candidates,0
+34-Sunridge,U.S. Senate,"SCHUMANN, DAVID K.",6
+34-Sunridge,U.S. Senate,"TRAINOR, BRENDAN",0
 34-Sunridge,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",70
 34-Sunridge,"University Board of Regents, District  9","Knecht, Ron",144
 35-Glenbrook,Attorney General,"CHAIREZ, DON",166
@@ -2233,11 +2233,11 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2","HELLER, DEAN",191
 35-Glenbrook,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
 35-Glenbrook,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-35-Glenbrook,United States Senator,"CARTER, JACK",68
-35-Glenbrook,United States Senator,"ENSIGN, JOHN",209
-35-Glenbrook,United States Senator,None Of These Candidates,3
-35-Glenbrook,United States Senator,"SCHUMANN, DAVID K.",6
-35-Glenbrook,United States Senator,"TRAINOR, BRENDAN",2
+35-Glenbrook,U.S. Senate,"CARTER, JACK",68
+35-Glenbrook,U.S. Senate,"ENSIGN, JOHN",209
+35-Glenbrook,U.S. Senate,None Of These Candidates,3
+35-Glenbrook,U.S. Senate,"SCHUMANN, DAVID K.",6
+35-Glenbrook,U.S. Senate,"TRAINOR, BRENDAN",2
 35-Glenbrook,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",128
 35-Glenbrook,"University Board of Regents, District  9","Knecht, Ron",91
 36-Skyland,Attorney General,"CHAIREZ, DON",196
@@ -2249,10 +2249,10 @@ precinct,office,candidate,votes
 36-Skyland,County Commissioner District 2,"HIGUERA, LLOYD W.",97
 36-Skyland,County Commissioner District 4,"HAMBSCH, GRETA G.",119
 36-Skyland,County Commissioner District 4,"MCDERMID, NANCY",206
-36-Skyland,United States Senator,"ENSIGN, JOHN",262
-36-Skyland,United States Senator,None Of These Candidates,6
-36-Skyland,United States Senator,"SCHUMANN, DAVID K.",6
-36-Skyland,United States Senator,"TRAINOR, BRENDAN",3
+36-Skyland,U.S. Senate,"ENSIGN, JOHN",262
+36-Skyland,U.S. Senate,None Of These Candidates,6
+36-Skyland,U.S. Senate,"SCHUMANN, DAVID K.",6
+36-Skyland,U.S. Senate,"TRAINOR, BRENDAN",3
 36-Skyland,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",110
 36-Skyland,"University Board of Regents, District  9","Knecht, Ron",161
 37-Zephyr Cove,Attorney General,"CHAIREZ, DON",150
@@ -2313,11 +2313,11 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","HELLER, DEAN",179
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",4
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-37-Zephyr Cove,United States Senator,"CARTER, JACK",95
-37-Zephyr Cove,United States Senator,"ENSIGN, JOHN",200
-37-Zephyr Cove,United States Senator,None Of These Candidates,7
-37-Zephyr Cove,United States Senator,"SCHUMANN, DAVID K.",2
-37-Zephyr Cove,United States Senator,"TRAINOR, BRENDAN",5
+37-Zephyr Cove,U.S. Senate,"CARTER, JACK",95
+37-Zephyr Cove,U.S. Senate,"ENSIGN, JOHN",200
+37-Zephyr Cove,U.S. Senate,None Of These Candidates,7
+37-Zephyr Cove,U.S. Senate,"SCHUMANN, DAVID K.",2
+37-Zephyr Cove,U.S. Senate,"TRAINOR, BRENDAN",5
 37-Zephyr Cove,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",121
 37-Zephyr Cove,"University Board of Regents, District  9","Knecht, Ron",115
 37-Zephyr Cove,Zephyr Heights G I D,"DUFFEY, TOM",89
@@ -2384,11 +2384,11 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2","HELLER, DEAN",188
 38-Round Hill,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 38-Round Hill,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-38-Round Hill,United States Senator,"CARTER, JACK",146
-38-Round Hill,United States Senator,"ENSIGN, JOHN",216
-38-Round Hill,United States Senator,None Of These Candidates,3
-38-Round Hill,United States Senator,"SCHUMANN, DAVID K.",3
-38-Round Hill,United States Senator,"TRAINOR, BRENDAN",1
+38-Round Hill,U.S. Senate,"CARTER, JACK",146
+38-Round Hill,U.S. Senate,"ENSIGN, JOHN",216
+38-Round Hill,U.S. Senate,None Of These Candidates,3
+38-Round Hill,U.S. Senate,"SCHUMANN, DAVID K.",3
+38-Round Hill,U.S. Senate,"TRAINOR, BRENDAN",1
 38-Round Hill,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",128
 38-Round Hill,"University Board of Regents, District  9","Knecht, Ron",152
 39-Edgewood,Attorney General,"CHAIREZ, DON",43
@@ -2444,11 +2444,11 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2","HELLER, DEAN",52
 39-Edgewood,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",5
 39-Edgewood,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-39-Edgewood,United States Senator,"CARTER, JACK",69
-39-Edgewood,United States Senator,"ENSIGN, JOHN",68
-39-Edgewood,United States Senator,None Of These Candidates,0
-39-Edgewood,United States Senator,"SCHUMANN, DAVID K.",7
-39-Edgewood,United States Senator,"TRAINOR, BRENDAN",4
+39-Edgewood,U.S. Senate,"CARTER, JACK",69
+39-Edgewood,U.S. Senate,"ENSIGN, JOHN",68
+39-Edgewood,U.S. Senate,None Of These Candidates,0
+39-Edgewood,U.S. Senate,"SCHUMANN, DAVID K.",7
+39-Edgewood,U.S. Senate,"TRAINOR, BRENDAN",4
 39-Edgewood,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",48
 39-Edgewood,"University Board of Regents, District  9","Knecht, Ron",61
 40-Kingsbury,Attorney General,"CHAIREZ, DON",196
@@ -2504,11 +2504,11 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2","HELLER, DEAN",251
 40-Kingsbury,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",11
 40-Kingsbury,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",7
-40-Kingsbury,United States Senator,"CARTER, JACK",199
-40-Kingsbury,United States Senator,"ENSIGN, JOHN",309
-40-Kingsbury,United States Senator,None Of These Candidates,5
-40-Kingsbury,United States Senator,"SCHUMANN, DAVID K.",4
-40-Kingsbury,United States Senator,"TRAINOR, BRENDAN",9
+40-Kingsbury,U.S. Senate,"CARTER, JACK",199
+40-Kingsbury,U.S. Senate,"ENSIGN, JOHN",309
+40-Kingsbury,U.S. Senate,None Of These Candidates,5
+40-Kingsbury,U.S. Senate,"SCHUMANN, DAVID K.",4
+40-Kingsbury,U.S. Senate,"TRAINOR, BRENDAN",9
 40-Kingsbury,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",170
 40-Kingsbury,"University Board of Regents, District  9","Knecht, Ron",208
 41-Daggett,Attorney General,"CHAIREZ, DON",158
@@ -2564,19 +2564,19 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2","HELLER, DEAN",178
 41-Daggett,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 41-Daggett,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",16
-41-Daggett,United States Senator,"CARTER, JACK",228
-41-Daggett,United States Senator,"ENSIGN, JOHN",202
-41-Daggett,United States Senator,None Of These Candidates,6
-41-Daggett,United States Senator,"SCHUMANN, DAVID K.",10
-41-Daggett,United States Senator,"TRAINOR, BRENDAN",5
+41-Daggett,U.S. Senate,"CARTER, JACK",228
+41-Daggett,U.S. Senate,"ENSIGN, JOHN",202
+41-Daggett,U.S. Senate,None Of These Candidates,6
+41-Daggett,U.S. Senate,"SCHUMANN, DAVID K.",10
+41-Daggett,U.S. Senate,"TRAINOR, BRENDAN",5
 41-Daggett,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",132
 41-Daggett,"University Board of Regents, District  9","Knecht, Ron",172
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 Precinct 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Precinct 99,United States Senator,"CARTER, JACK",0
-Precinct 99,United States Senator,"ENSIGN, JOHN",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 99,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 99,U.S. Senate,"CARTER, JACK",0
+Precinct 99,U.S. Senate,"ENSIGN, JOHN",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 99,U.S. Senate,"TRAINOR, BRENDAN",0

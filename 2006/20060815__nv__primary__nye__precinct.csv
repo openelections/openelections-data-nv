@@ -69,12 +69,12 @@ AMARGOSA VLY O6,"U.S. Representative in Congress, District 2 (Republican)","Gibb
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",34
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",14
-AMARGOSA VLY O6,United States Senator (Democratic),"Carter, Jack",51
-AMARGOSA VLY O6,United States Senator (Democratic),None Of These Candidates,12
-AMARGOSA VLY O6,United States Senator (Democratic),"Tun, Ruby jee",8
-AMARGOSA VLY O6,United States Senator (Republican),"Ensign, John",79
-AMARGOSA VLY O6,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
-AMARGOSA VLY O6,United States Senator (Republican),None Of These Candidates,9
+AMARGOSA VLY O6,U.S. Senate (Democratic),"Carter, Jack",51
+AMARGOSA VLY O6,U.S. Senate (Democratic),None Of These Candidates,12
+AMARGOSA VLY O6,U.S. Senate (Democratic),"Tun, Ruby jee",8
+AMARGOSA VLY O6,U.S. Senate (Republican),"Ensign, John",79
+AMARGOSA VLY O6,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
+AMARGOSA VLY O6,U.S. Senate (Republican),None Of These Candidates,9
 BEATTY 01,COUNTY RECORDER (Republican),"FOSTER, BYRON",47
 BEATTY 01,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",47
 BEATTY 01,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",18
@@ -145,12 +145,12 @@ BEATTY 01,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, D
 BEATTY 01,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 BEATTY 01,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",37
 BEATTY 01,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-BEATTY 01,United States Senator (Democratic),"Carter, Jack",59
-BEATTY 01,United States Senator (Democratic),None Of These Candidates,29
-BEATTY 01,United States Senator (Democratic),"Tun, Ruby jee",11
-BEATTY 01,United States Senator (Republican),"Ensign, John",110
-BEATTY 01,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-BEATTY 01,United States Senator (Republican),None Of These Candidates,14
+BEATTY 01,U.S. Senate (Democratic),"Carter, Jack",59
+BEATTY 01,U.S. Senate (Democratic),None Of These Candidates,29
+BEATTY 01,U.S. Senate (Democratic),"Tun, Ruby jee",11
+BEATTY 01,U.S. Senate (Republican),"Ensign, John",110
+BEATTY 01,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+BEATTY 01,U.S. Senate (Republican),None Of These Candidates,14
 CURRANT 02,COUNTY RECORDER (Republican),"FOSTER, BYRON",6
 CURRANT 02,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",3
 CURRANT 02,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",4
@@ -218,12 +218,12 @@ CURRANT 02,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 CURRANT 02,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 CURRANT 02,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",7
 CURRANT 02,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-CURRANT 02,United States Senator (Democratic),"Carter, Jack",
-CURRANT 02,United States Senator (Democratic),None Of These Candidates,
-CURRANT 02,United States Senator (Democratic),"Tun, Ruby jee",
-CURRANT 02,United States Senator (Republican),"Ensign, John",16
-CURRANT 02,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-CURRANT 02,United States Senator (Republican),None Of These Candidates,1
+CURRANT 02,U.S. Senate (Democratic),"Carter, Jack",
+CURRANT 02,U.S. Senate (Democratic),None Of These Candidates,
+CURRANT 02,U.S. Senate (Democratic),"Tun, Ruby jee",
+CURRANT 02,U.S. Senate (Republican),"Ensign, John",16
+CURRANT 02,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+CURRANT 02,U.S. Senate (Republican),None Of These Candidates,1
 DUCKWATER 03,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 DUCKWATER 03,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 DUCKWATER 03,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
@@ -291,12 +291,12 @@ DUCKWATER 03,"U.S. Representative in Congress, District 2 (Republican)","Gibbons
 DUCKWATER 03,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",
 DUCKWATER 03,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 DUCKWATER 03,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",
-DUCKWATER 03,United States Senator (Democratic),"Carter, Jack",11
-DUCKWATER 03,United States Senator (Democratic),None Of These Candidates,2
-DUCKWATER 03,United States Senator (Democratic),"Tun, Ruby jee",4
-DUCKWATER 03,United States Senator (Republican),"Ensign, John",
-DUCKWATER 03,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",
-DUCKWATER 03,United States Senator (Republican),None Of These Candidates,
+DUCKWATER 03,U.S. Senate (Democratic),"Carter, Jack",11
+DUCKWATER 03,U.S. Senate (Democratic),None Of These Candidates,2
+DUCKWATER 03,U.S. Senate (Democratic),"Tun, Ruby jee",4
+DUCKWATER 03,U.S. Senate (Republican),"Ensign, John",
+DUCKWATER 03,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",
+DUCKWATER 03,U.S. Senate (Republican),None Of These Candidates,
 FORTY BAR 18,COUNTY RECORDER (Republican),"FOSTER, BYRON",7
 FORTY BAR 18,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",8
 FORTY BAR 18,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",1
@@ -367,12 +367,12 @@ FORTY BAR 18,"U.S. Representative in Congress, District 2 (Republican)","Gibbons
 FORTY BAR 18,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 FORTY BAR 18,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",10
 FORTY BAR 18,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-FORTY BAR 18,United States Senator (Democratic),"Carter, Jack",
-FORTY BAR 18,United States Senator (Democratic),None Of These Candidates,
-FORTY BAR 18,United States Senator (Democratic),"Tun, Ruby jee",
-FORTY BAR 18,United States Senator (Republican),"Ensign, John",13
-FORTY BAR 18,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-FORTY BAR 18,United States Senator (Republican),None Of These Candidates,1
+FORTY BAR 18,U.S. Senate (Democratic),"Carter, Jack",
+FORTY BAR 18,U.S. Senate (Democratic),None Of These Candidates,
+FORTY BAR 18,U.S. Senate (Democratic),"Tun, Ruby jee",
+FORTY BAR 18,U.S. Senate (Republican),"Ensign, John",13
+FORTY BAR 18,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+FORTY BAR 18,U.S. Senate (Republican),None Of These Candidates,1
 GABBS 04,COUNTY RECORDER (Republican),"FOSTER, BYRON",21
 GABBS 04,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",11
 GABBS 04,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",4
@@ -440,12 +440,12 @@ GABBS 04,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Da
 GABBS 04,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 GABBS 04,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",11
 GABBS 04,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-GABBS 04,United States Senator (Democratic),"Carter, Jack",25
-GABBS 04,United States Senator (Democratic),None Of These Candidates,3
-GABBS 04,United States Senator (Democratic),"Tun, Ruby jee",9
-GABBS 04,United States Senator (Republican),"Ensign, John",31
-GABBS 04,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
-GABBS 04,United States Senator (Republican),None Of These Candidates,3
+GABBS 04,U.S. Senate (Democratic),"Carter, Jack",25
+GABBS 04,U.S. Senate (Democratic),None Of These Candidates,3
+GABBS 04,U.S. Senate (Democratic),"Tun, Ruby jee",9
+GABBS 04,U.S. Senate (Republican),"Ensign, John",31
+GABBS 04,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
+GABBS 04,U.S. Senate (Republican),None Of These Candidates,3
 IONE 05,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 IONE 05,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 IONE 05,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
@@ -513,12 +513,12 @@ IONE 05,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Daw
 IONE 05,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",
 IONE 05,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 IONE 05,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",
-IONE 05,United States Senator (Democratic),"Carter, Jack",
-IONE 05,United States Senator (Democratic),None Of These Candidates,
-IONE 05,United States Senator (Democratic),"Tun, Ruby jee",
-IONE 05,United States Senator (Republican),"Ensign, John",
-IONE 05,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",
-IONE 05,United States Senator (Republican),None Of These Candidates,
+IONE 05,U.S. Senate (Democratic),"Carter, Jack",
+IONE 05,U.S. Senate (Democratic),None Of These Candidates,
+IONE 05,U.S. Senate (Democratic),"Tun, Ruby jee",
+IONE 05,U.S. Senate (Republican),"Ensign, John",
+IONE 05,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",
+IONE 05,U.S. Senate (Republican),None Of These Candidates,
 MANHATTAN 07,COUNTY RECORDER (Republican),"FOSTER, BYRON",8
 MANHATTAN 07,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",9
 MANHATTAN 07,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",1
@@ -586,12 +586,12 @@ MANHATTAN 07,"U.S. Representative in Congress, District 2 (Republican)","Gibbons
 MANHATTAN 07,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 MANHATTAN 07,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",11
 MANHATTAN 07,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-MANHATTAN 07,United States Senator (Democratic),"Carter, Jack",7
-MANHATTAN 07,United States Senator (Democratic),None Of These Candidates,4
-MANHATTAN 07,United States Senator (Democratic),"Tun, Ruby jee",3
-MANHATTAN 07,United States Senator (Republican),"Ensign, John",16
-MANHATTAN 07,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-MANHATTAN 07,United States Senator (Republican),None Of These Candidates,3
+MANHATTAN 07,U.S. Senate (Democratic),"Carter, Jack",7
+MANHATTAN 07,U.S. Senate (Democratic),None Of These Candidates,4
+MANHATTAN 07,U.S. Senate (Democratic),"Tun, Ruby jee",3
+MANHATTAN 07,U.S. Senate (Republican),"Ensign, John",16
+MANHATTAN 07,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+MANHATTAN 07,U.S. Senate (Republican),None Of These Candidates,3
 MERCURY 08,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 MERCURY 08,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 MERCURY 08,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
@@ -662,12 +662,12 @@ MERCURY 08,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 MERCURY 08,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",
 MERCURY 08,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 MERCURY 08,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",
-MERCURY 08,United States Senator (Democratic),"Carter, Jack",0
-MERCURY 08,United States Senator (Democratic),None Of These Candidates,0
-MERCURY 08,United States Senator (Democratic),"Tun, Ruby jee",0
-MERCURY 08,United States Senator (Republican),"Ensign, John",
-MERCURY 08,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",
-MERCURY 08,United States Senator (Republican),None Of These Candidates,
+MERCURY 08,U.S. Senate (Democratic),"Carter, Jack",0
+MERCURY 08,U.S. Senate (Democratic),None Of These Candidates,0
+MERCURY 08,U.S. Senate (Democratic),"Tun, Ruby jee",0
+MERCURY 08,U.S. Senate (Republican),"Ensign, John",
+MERCURY 08,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",
+MERCURY 08,U.S. Senate (Republican),None Of These Candidates,
 PAHRUMP 09,COUNTY RECORDER (Republican),"FOSTER, BYRON",73
 PAHRUMP 09,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",67
 PAHRUMP 09,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",68
@@ -743,12 +743,12 @@ PAHRUMP 09,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 09,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",6
 PAHRUMP 09,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",74
 PAHRUMP 09,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",14
-PAHRUMP 09,United States Senator (Democratic),"Carter, Jack",110
-PAHRUMP 09,United States Senator (Democratic),None Of These Candidates,34
-PAHRUMP 09,United States Senator (Democratic),"Tun, Ruby jee",14
-PAHRUMP 09,United States Senator (Republican),"Ensign, John",186
-PAHRUMP 09,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",11
-PAHRUMP 09,United States Senator (Republican),None Of These Candidates,19
+PAHRUMP 09,U.S. Senate (Democratic),"Carter, Jack",110
+PAHRUMP 09,U.S. Senate (Democratic),None Of These Candidates,34
+PAHRUMP 09,U.S. Senate (Democratic),"Tun, Ruby jee",14
+PAHRUMP 09,U.S. Senate (Republican),"Ensign, John",186
+PAHRUMP 09,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
+PAHRUMP 09,U.S. Senate (Republican),None Of These Candidates,19
 PAHRUMP 10,County Commissioner District IV (Republican),"ALBERTI, JR., ANDREW ""ANDY""",32
 PAHRUMP 10,County Commissioner District IV (Republican),"BEAVER, LEWIS P.",18
 PAHRUMP 10,County Commissioner District IV (Republican),"BIGELOW, ALAN",38
@@ -826,12 +826,12 @@ PAHRUMP 10,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 10,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 PAHRUMP 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",95
 PAHRUMP 10,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",13
-PAHRUMP 10,United States Senator (Democratic),"Carter, Jack",141
-PAHRUMP 10,United States Senator (Democratic),None Of These Candidates,28
-PAHRUMP 10,United States Senator (Democratic),"Tun, Ruby jee",20
-PAHRUMP 10,United States Senator (Republican),"Ensign, John",197
-PAHRUMP 10,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",16
-PAHRUMP 10,United States Senator (Republican),None Of These Candidates,24
+PAHRUMP 10,U.S. Senate (Democratic),"Carter, Jack",141
+PAHRUMP 10,U.S. Senate (Democratic),None Of These Candidates,28
+PAHRUMP 10,U.S. Senate (Democratic),"Tun, Ruby jee",20
+PAHRUMP 10,U.S. Senate (Republican),"Ensign, John",197
+PAHRUMP 10,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",16
+PAHRUMP 10,U.S. Senate (Republican),None Of These Candidates,24
 PAHRUMP 11,County Commissioner District IV (Republican),"ALBERTI, JR., ANDREW ""ANDY""",12
 PAHRUMP 11,County Commissioner District IV (Republican),"BEAVER, LEWIS P.",21
 PAHRUMP 11,County Commissioner District IV (Republican),"BIGELOW, ALAN",30
@@ -909,12 +909,12 @@ PAHRUMP 11,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 11,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 PAHRUMP 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",63
 PAHRUMP 11,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",7
-PAHRUMP 11,United States Senator (Democratic),"Carter, Jack",73
-PAHRUMP 11,United States Senator (Democratic),None Of These Candidates,20
-PAHRUMP 11,United States Senator (Democratic),"Tun, Ruby jee",13
-PAHRUMP 11,United States Senator (Republican),"Ensign, John",137
-PAHRUMP 11,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-PAHRUMP 11,United States Senator (Republican),None Of These Candidates,8
+PAHRUMP 11,U.S. Senate (Democratic),"Carter, Jack",73
+PAHRUMP 11,U.S. Senate (Democratic),None Of These Candidates,20
+PAHRUMP 11,U.S. Senate (Democratic),"Tun, Ruby jee",13
+PAHRUMP 11,U.S. Senate (Republican),"Ensign, John",137
+PAHRUMP 11,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PAHRUMP 11,U.S. Senate (Republican),None Of These Candidates,8
 PAHRUMP 19,COUNTY RECORDER (Republican),"FOSTER, BYRON",59
 PAHRUMP 19,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",81
 PAHRUMP 19,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",49
@@ -987,12 +987,12 @@ PAHRUMP 19,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 19,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 PAHRUMP 19,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",91
 PAHRUMP 19,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",17
-PAHRUMP 19,United States Senator (Democratic),"Carter, Jack",89
-PAHRUMP 19,United States Senator (Democratic),None Of These Candidates,10
-PAHRUMP 19,United States Senator (Democratic),"Tun, Ruby jee",6
-PAHRUMP 19,United States Senator (Republican),"Ensign, John",177
-PAHRUMP 19,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",12
-PAHRUMP 19,United States Senator (Republican),None Of These Candidates,15
+PAHRUMP 19,U.S. Senate (Democratic),"Carter, Jack",89
+PAHRUMP 19,U.S. Senate (Democratic),None Of These Candidates,10
+PAHRUMP 19,U.S. Senate (Democratic),"Tun, Ruby jee",6
+PAHRUMP 19,U.S. Senate (Republican),"Ensign, John",177
+PAHRUMP 19,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",12
+PAHRUMP 19,U.S. Senate (Republican),None Of These Candidates,15
 PAHRUMP 20,County Commissioner District V (Republican),"GARLOUGH, PATRICIA A. ""PAT""",46
 PAHRUMP 20,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",39
 PAHRUMP 20,COUNTY RECORDER (Republican),"FOSTER, BYRON",26
@@ -1068,12 +1068,12 @@ PAHRUMP 20,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 20,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 PAHRUMP 20,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",31
 PAHRUMP 20,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",8
-PAHRUMP 20,United States Senator (Democratic),"Carter, Jack",41
-PAHRUMP 20,United States Senator (Democratic),None Of These Candidates,17
-PAHRUMP 20,United States Senator (Democratic),"Tun, Ruby jee",2
-PAHRUMP 20,United States Senator (Republican),"Ensign, John",78
-PAHRUMP 20,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",1
-PAHRUMP 20,United States Senator (Republican),None Of These Candidates,7
+PAHRUMP 20,U.S. Senate (Democratic),"Carter, Jack",41
+PAHRUMP 20,U.S. Senate (Democratic),None Of These Candidates,17
+PAHRUMP 20,U.S. Senate (Democratic),"Tun, Ruby jee",2
+PAHRUMP 20,U.S. Senate (Republican),"Ensign, John",78
+PAHRUMP 20,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
+PAHRUMP 20,U.S. Senate (Republican),None Of These Candidates,7
 PAHRUMP 21,COUNTY RECORDER (Republican),"FOSTER, BYRON",61
 PAHRUMP 21,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",51
 PAHRUMP 21,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",50
@@ -1146,12 +1146,12 @@ PAHRUMP 21,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 21,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 PAHRUMP 21,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",65
 PAHRUMP 21,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",13
-PAHRUMP 21,United States Senator (Democratic),"Carter, Jack",158
-PAHRUMP 21,United States Senator (Democratic),None Of These Candidates,29
-PAHRUMP 21,United States Senator (Democratic),"Tun, Ruby jee",12
-PAHRUMP 21,United States Senator (Republican),"Ensign, John",154
-PAHRUMP 21,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-PAHRUMP 21,United States Senator (Republican),None Of These Candidates,9
+PAHRUMP 21,U.S. Senate (Democratic),"Carter, Jack",158
+PAHRUMP 21,U.S. Senate (Democratic),None Of These Candidates,29
+PAHRUMP 21,U.S. Senate (Democratic),"Tun, Ruby jee",12
+PAHRUMP 21,U.S. Senate (Republican),"Ensign, John",154
+PAHRUMP 21,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+PAHRUMP 21,U.S. Senate (Republican),None Of These Candidates,9
 PAHRUMP 22,County Commissioner District V (Republican),"GARLOUGH, PATRICIA A. ""PAT""",126
 PAHRUMP 22,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",100
 PAHRUMP 22,COUNTY RECORDER (Republican),"FOSTER, BYRON",60
@@ -1227,12 +1227,12 @@ PAHRUMP 22,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 22,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",7
 PAHRUMP 22,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",89
 PAHRUMP 22,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",17
-PAHRUMP 22,United States Senator (Democratic),"Carter, Jack",135
-PAHRUMP 22,United States Senator (Democratic),None Of These Candidates,37
-PAHRUMP 22,United States Senator (Democratic),"Tun, Ruby jee",13
-PAHRUMP 22,United States Senator (Republican),"Ensign, John",203
-PAHRUMP 22,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",13
-PAHRUMP 22,United States Senator (Republican),None Of These Candidates,16
+PAHRUMP 22,U.S. Senate (Democratic),"Carter, Jack",135
+PAHRUMP 22,U.S. Senate (Democratic),None Of These Candidates,37
+PAHRUMP 22,U.S. Senate (Democratic),"Tun, Ruby jee",13
+PAHRUMP 22,U.S. Senate (Republican),"Ensign, John",203
+PAHRUMP 22,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
+PAHRUMP 22,U.S. Senate (Republican),None Of These Candidates,16
 PAHRUMP 23,COUNTY RECORDER (Republican),"FOSTER, BYRON",34
 PAHRUMP 23,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",33
 PAHRUMP 23,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",40
@@ -1306,12 +1306,12 @@ PAHRUMP 23,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 23,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 PAHRUMP 23,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",47
 PAHRUMP 23,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",10
-PAHRUMP 23,United States Senator (Democratic),"Carter, Jack",54
-PAHRUMP 23,United States Senator (Democratic),None Of These Candidates,9
-PAHRUMP 23,United States Senator (Democratic),"Tun, Ruby jee",11
-PAHRUMP 23,United States Senator (Republican),"Ensign, John",99
-PAHRUMP 23,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-PAHRUMP 23,United States Senator (Republican),None Of These Candidates,7
+PAHRUMP 23,U.S. Senate (Democratic),"Carter, Jack",54
+PAHRUMP 23,U.S. Senate (Democratic),None Of These Candidates,9
+PAHRUMP 23,U.S. Senate (Democratic),"Tun, Ruby jee",11
+PAHRUMP 23,U.S. Senate (Republican),"Ensign, John",99
+PAHRUMP 23,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PAHRUMP 23,U.S. Senate (Republican),None Of These Candidates,7
 PAHRUMP 24,County Commissioner District V (Republican),"GARLOUGH, PATRICIA A. ""PAT""",56
 PAHRUMP 24,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",71
 PAHRUMP 24,COUNTY RECORDER (Republican),"FOSTER, BYRON",57
@@ -1415,12 +1415,12 @@ PAHRUMP 25,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 25,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 PAHRUMP 25,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",82
 PAHRUMP 25,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-PAHRUMP 25,United States Senator (Democratic),"Carter, Jack",103
-PAHRUMP 25,United States Senator (Democratic),None Of These Candidates,18
-PAHRUMP 25,United States Senator (Democratic),"Tun, Ruby jee",8
-PAHRUMP 25,United States Senator (Republican),"Ensign, John",143
-PAHRUMP 25,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-PAHRUMP 25,United States Senator (Republican),None Of These Candidates,14
+PAHRUMP 25,U.S. Senate (Democratic),"Carter, Jack",103
+PAHRUMP 25,U.S. Senate (Democratic),None Of These Candidates,18
+PAHRUMP 25,U.S. Senate (Democratic),"Tun, Ruby jee",8
+PAHRUMP 25,U.S. Senate (Republican),"Ensign, John",143
+PAHRUMP 25,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+PAHRUMP 25,U.S. Senate (Republican),None Of These Candidates,14
 PAHRUMP 26,COUNTY RECORDER (Republican),"FOSTER, BYRON",46
 PAHRUMP 26,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",56
 PAHRUMP 26,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",48
@@ -1496,9 +1496,9 @@ PAHRUMP 26,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 26,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",6
 PAHRUMP 26,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",64
 PAHRUMP 26,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",11
-PAHRUMP 26,United States Senator (Democratic),"Carter, Jack",91
-PAHRUMP 26,United States Senator (Democratic),None Of These Candidates,13
-PAHRUMP 26,United States Senator (Democratic),"Tun, Ruby jee",18
+PAHRUMP 26,U.S. Senate (Democratic),"Carter, Jack",91
+PAHRUMP 26,U.S. Senate (Democratic),None Of These Candidates,13
+PAHRUMP 26,U.S. Senate (Democratic),"Tun, Ruby jee",18
 PAHRUMP 27,"State Assembly, District 36 (Democratic)","COCHRAN, ANGIE G.",30
 PAHRUMP 27,"State Assembly, District 36 (Democratic)","KULKIN, HARLEY Z.",80
 PAHRUMP 27,"State Assembly, District 36 (Democratic)","MURRAY, LAURAYNE",49
@@ -1527,12 +1527,12 @@ PAHRUMP 27,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 27,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 PAHRUMP 27,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",86
 PAHRUMP 27,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-PAHRUMP 27,United States Senator (Democratic),"Carter, Jack",132
-PAHRUMP 27,United States Senator (Democratic),None Of These Candidates,20
-PAHRUMP 27,United States Senator (Democratic),"Tun, Ruby jee",8
-PAHRUMP 27,United States Senator (Republican),"Ensign, John",157
-PAHRUMP 27,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-PAHRUMP 27,United States Senator (Republican),None Of These Candidates,12
+PAHRUMP 27,U.S. Senate (Democratic),"Carter, Jack",132
+PAHRUMP 27,U.S. Senate (Democratic),None Of These Candidates,20
+PAHRUMP 27,U.S. Senate (Democratic),"Tun, Ruby jee",8
+PAHRUMP 27,U.S. Senate (Republican),"Ensign, John",157
+PAHRUMP 27,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+PAHRUMP 27,U.S. Senate (Republican),None Of These Candidates,12
 PAHRUMP 28,County Commissioner District IV (Republican),"ALBERTI, JR., ANDREW ""ANDY""",29
 PAHRUMP 28,County Commissioner District IV (Republican),"BEAVER, LEWIS P.",28
 PAHRUMP 28,County Commissioner District IV (Republican),"BIGELOW, ALAN",38
@@ -1610,12 +1610,12 @@ PAHRUMP 28,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 28,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",6
 PAHRUMP 28,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",122
 PAHRUMP 28,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",9
-PAHRUMP 28,United States Senator (Democratic),"Carter, Jack",125
-PAHRUMP 28,United States Senator (Democratic),None Of These Candidates,29
-PAHRUMP 28,United States Senator (Democratic),"Tun, Ruby jee",12
-PAHRUMP 28,United States Senator (Republican),"Ensign, John",232
-PAHRUMP 28,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-PAHRUMP 28,United States Senator (Republican),None Of These Candidates,12
+PAHRUMP 28,U.S. Senate (Democratic),"Carter, Jack",125
+PAHRUMP 28,U.S. Senate (Democratic),None Of These Candidates,29
+PAHRUMP 28,U.S. Senate (Democratic),"Tun, Ruby jee",12
+PAHRUMP 28,U.S. Senate (Republican),"Ensign, John",232
+PAHRUMP 28,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+PAHRUMP 28,U.S. Senate (Republican),None Of These Candidates,12
 PAHRUMP 29,County Commissioner District IV (Republican),"ALBERTI, JR., ANDREW ""ANDY""",30
 PAHRUMP 29,County Commissioner District IV (Republican),"BEAVER, LEWIS P.",16
 PAHRUMP 29,County Commissioner District IV (Republican),"BIGELOW, ALAN",37
@@ -1693,12 +1693,12 @@ PAHRUMP 29,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 29,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",8
 PAHRUMP 29,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",71
 PAHRUMP 29,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",14
-PAHRUMP 29,United States Senator (Democratic),"Carter, Jack",101
-PAHRUMP 29,United States Senator (Democratic),None Of These Candidates,27
-PAHRUMP 29,United States Senator (Democratic),"Tun, Ruby jee",24
-PAHRUMP 29,United States Senator (Republican),"Ensign, John",159
-PAHRUMP 29,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",14
-PAHRUMP 29,United States Senator (Republican),None Of These Candidates,9
+PAHRUMP 29,U.S. Senate (Democratic),"Carter, Jack",101
+PAHRUMP 29,U.S. Senate (Democratic),None Of These Candidates,27
+PAHRUMP 29,U.S. Senate (Democratic),"Tun, Ruby jee",24
+PAHRUMP 29,U.S. Senate (Republican),"Ensign, John",159
+PAHRUMP 29,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",14
+PAHRUMP 29,U.S. Senate (Republican),None Of These Candidates,9
 PAHRUMP 30,County Commissioner District V (Republican),"GARLOUGH, PATRICIA A. ""PAT""",88
 PAHRUMP 30,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",92
 PAHRUMP 30,COUNTY RECORDER (Republican),"FOSTER, BYRON",73
@@ -1773,12 +1773,12 @@ PAHRUMP 30,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 30,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 PAHRUMP 30,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",68
 PAHRUMP 30,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",16
-PAHRUMP 30,United States Senator (Democratic),"Carter, Jack",91
-PAHRUMP 30,United States Senator (Democratic),None Of These Candidates,18
-PAHRUMP 30,United States Senator (Democratic),"Tun, Ruby jee",17
-PAHRUMP 30,United States Senator (Republican),"Ensign, John",172
-PAHRUMP 30,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-PAHRUMP 30,United States Senator (Republican),None Of These Candidates,8
+PAHRUMP 30,U.S. Senate (Democratic),"Carter, Jack",91
+PAHRUMP 30,U.S. Senate (Democratic),None Of These Candidates,18
+PAHRUMP 30,U.S. Senate (Democratic),"Tun, Ruby jee",17
+PAHRUMP 30,U.S. Senate (Republican),"Ensign, John",172
+PAHRUMP 30,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+PAHRUMP 30,U.S. Senate (Republican),None Of These Candidates,8
 PAHRUMP 31,County Commissioner District V (Republican),"GARLOUGH, PATRICIA A. ""PAT""",76
 PAHRUMP 31,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",103
 PAHRUMP 31,COUNTY RECORDER (Republican),"FOSTER, BYRON",59
@@ -1853,12 +1853,12 @@ PAHRUMP 31,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 31,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 PAHRUMP 31,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",73
 PAHRUMP 31,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",14
-PAHRUMP 31,United States Senator (Democratic),"Carter, Jack",78
-PAHRUMP 31,United States Senator (Democratic),None Of These Candidates,23
-PAHRUMP 31,United States Senator (Democratic),"Tun, Ruby jee",5
-PAHRUMP 31,United States Senator (Republican),"Ensign, John",165
-PAHRUMP 31,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
-PAHRUMP 31,United States Senator (Republican),None Of These Candidates,13
+PAHRUMP 31,U.S. Senate (Democratic),"Carter, Jack",78
+PAHRUMP 31,U.S. Senate (Democratic),None Of These Candidates,23
+PAHRUMP 31,U.S. Senate (Democratic),"Tun, Ruby jee",5
+PAHRUMP 31,U.S. Senate (Republican),"Ensign, John",165
+PAHRUMP 31,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
+PAHRUMP 31,U.S. Senate (Republican),None Of These Candidates,13
 PAHRUMP 32,COUNTY RECORDER (Republican),"FOSTER, BYRON",73
 PAHRUMP 32,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",69
 PAHRUMP 32,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",64
@@ -1932,23 +1932,23 @@ PAHRUMP 32,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 PAHRUMP 32,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",8
 PAHRUMP 32,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",83
 PAHRUMP 32,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",16
-PAHRUMP 32,United States Senator (Democratic),"Carter, Jack",135
-PAHRUMP 32,United States Senator (Democratic),None Of These Candidates,30
-PAHRUMP 32,United States Senator (Democratic),"Tun, Ruby jee",19
-PAHRUMP 32,United States Senator (Republican),"Ensign, John",193
-PAHRUMP 32,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-PAHRUMP 32,United States Senator (Republican),None Of These Candidates,19
+PAHRUMP 32,U.S. Senate (Democratic),"Carter, Jack",135
+PAHRUMP 32,U.S. Senate (Democratic),None Of These Candidates,30
+PAHRUMP 32,U.S. Senate (Democratic),"Tun, Ruby jee",19
+PAHRUMP 32,U.S. Senate (Republican),"Ensign, John",193
+PAHRUMP 32,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+PAHRUMP 32,U.S. Senate (Republican),None Of These Candidates,19
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 99,United States Senator (Democratic),"Carter, Jack",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 99,United States Senator (Republican),"Ensign, John",0
-Precinct 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Carter, Jack",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 99,U.S. Senate (Republican),"Ensign, John",0
+Precinct 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0
 ROUND MTN 12,COUNTY RECORDER (Republican),"FOSTER, BYRON",9
 ROUND MTN 12,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",14
 ROUND MTN 12,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",10
@@ -2016,12 +2016,12 @@ ROUND MTN 12,"U.S. Representative in Congress, District 2 (Republican)","Gibbons
 ROUND MTN 12,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 ROUND MTN 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
 ROUND MTN 12,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-ROUND MTN 12,United States Senator (Democratic),"Carter, Jack",9
-ROUND MTN 12,United States Senator (Democratic),None Of These Candidates,2
-ROUND MTN 12,United States Senator (Democratic),"Tun, Ruby jee",3
-ROUND MTN 12,United States Senator (Republican),"Ensign, John",36
-ROUND MTN 12,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-ROUND MTN 12,United States Senator (Republican),None Of These Candidates,2
+ROUND MTN 12,U.S. Senate (Democratic),"Carter, Jack",9
+ROUND MTN 12,U.S. Senate (Democratic),None Of These Candidates,2
+ROUND MTN 12,U.S. Senate (Democratic),"Tun, Ruby jee",3
+ROUND MTN 12,U.S. Senate (Republican),"Ensign, John",36
+ROUND MTN 12,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+ROUND MTN 12,U.S. Senate (Republican),None Of These Candidates,2
 Smoky Valley 35,COUNTY RECORDER (Republican),"FOSTER, BYRON",20
 Smoky Valley 35,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",11
 Smoky Valley 35,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",3
@@ -2089,12 +2089,12 @@ Smoky Valley 35,"U.S. Representative in Congress, District 2 (Republican)","Gibb
 Smoky Valley 35,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Smoky Valley 35,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",19
 Smoky Valley 35,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Smoky Valley 35,United States Senator (Democratic),"Carter, Jack",9
-Smoky Valley 35,United States Senator (Democratic),None Of These Candidates,5
-Smoky Valley 35,United States Senator (Democratic),"Tun, Ruby jee",3
-Smoky Valley 35,United States Senator (Republican),"Ensign, John",31
-Smoky Valley 35,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
-Smoky Valley 35,United States Senator (Republican),None Of These Candidates,3
+Smoky Valley 35,U.S. Senate (Democratic),"Carter, Jack",9
+Smoky Valley 35,U.S. Senate (Democratic),None Of These Candidates,5
+Smoky Valley 35,U.S. Senate (Democratic),"Tun, Ruby jee",3
+Smoky Valley 35,U.S. Senate (Republican),"Ensign, John",31
+Smoky Valley 35,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",2
+Smoky Valley 35,U.S. Senate (Republican),None Of These Candidates,3
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
@@ -2162,12 +2162,12 @@ SUNNYSIDE 13,"U.S. Representative in Congress, District 2 (Republican)","Gibbons
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",
-SUNNYSIDE 13,United States Senator (Democratic),"Carter, Jack",
-SUNNYSIDE 13,United States Senator (Democratic),None Of These Candidates,
-SUNNYSIDE 13,United States Senator (Democratic),"Tun, Ruby jee",
-SUNNYSIDE 13,United States Senator (Republican),"Ensign, John",
-SUNNYSIDE 13,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",
-SUNNYSIDE 13,United States Senator (Republican),None Of These Candidates,
+SUNNYSIDE 13,U.S. Senate (Democratic),"Carter, Jack",
+SUNNYSIDE 13,U.S. Senate (Democratic),None Of These Candidates,
+SUNNYSIDE 13,U.S. Senate (Democratic),"Tun, Ruby jee",
+SUNNYSIDE 13,U.S. Senate (Republican),"Ensign, John",
+SUNNYSIDE 13,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",
+SUNNYSIDE 13,U.S. Senate (Republican),None Of These Candidates,
 TONOPAH 14,COUNTY RECORDER (Republican),"FOSTER, BYRON",36
 TONOPAH 14,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",30
 TONOPAH 14,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",12
@@ -2235,12 +2235,12 @@ TONOPAH 14,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 TONOPAH 14,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 TONOPAH 14,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",22
 TONOPAH 14,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-TONOPAH 14,United States Senator (Democratic),"Carter, Jack",34
-TONOPAH 14,United States Senator (Democratic),None Of These Candidates,16
-TONOPAH 14,United States Senator (Democratic),"Tun, Ruby jee",5
-TONOPAH 14,United States Senator (Republican),"Ensign, John",77
-TONOPAH 14,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-TONOPAH 14,United States Senator (Republican),None Of These Candidates,9
+TONOPAH 14,U.S. Senate (Democratic),"Carter, Jack",34
+TONOPAH 14,U.S. Senate (Democratic),None Of These Candidates,16
+TONOPAH 14,U.S. Senate (Democratic),"Tun, Ruby jee",5
+TONOPAH 14,U.S. Senate (Republican),"Ensign, John",77
+TONOPAH 14,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+TONOPAH 14,U.S. Senate (Republican),None Of These Candidates,9
 TONOPAH 15,COUNTY RECORDER (Republican),"FOSTER, BYRON",20
 TONOPAH 15,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",12
 TONOPAH 15,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",6
@@ -2308,12 +2308,12 @@ TONOPAH 15,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 TONOPAH 15,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 TONOPAH 15,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",17
 TONOPAH 15,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-TONOPAH 15,United States Senator (Democratic),"Carter, Jack",34
-TONOPAH 15,United States Senator (Democratic),None Of These Candidates,8
-TONOPAH 15,United States Senator (Democratic),"Tun, Ruby jee",6
-TONOPAH 15,United States Senator (Republican),"Ensign, John",37
-TONOPAH 15,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-TONOPAH 15,United States Senator (Republican),None Of These Candidates,1
+TONOPAH 15,U.S. Senate (Democratic),"Carter, Jack",34
+TONOPAH 15,U.S. Senate (Democratic),None Of These Candidates,8
+TONOPAH 15,U.S. Senate (Democratic),"Tun, Ruby jee",6
+TONOPAH 15,U.S. Senate (Republican),"Ensign, John",37
+TONOPAH 15,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+TONOPAH 15,U.S. Senate (Republican),None Of These Candidates,1
 TONOPAH 16,COUNTY RECORDER (Republican),"FOSTER, BYRON",15
 TONOPAH 16,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",16
 TONOPAH 16,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",7
@@ -2381,12 +2381,12 @@ TONOPAH 16,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 TONOPAH 16,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 TONOPAH 16,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
 TONOPAH 16,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-TONOPAH 16,United States Senator (Democratic),"Carter, Jack",29
-TONOPAH 16,United States Senator (Democratic),None Of These Candidates,6
-TONOPAH 16,United States Senator (Democratic),"Tun, Ruby jee",3
-TONOPAH 16,United States Senator (Republican),"Ensign, John",36
-TONOPAH 16,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
-TONOPAH 16,United States Senator (Republican),None Of These Candidates,2
+TONOPAH 16,U.S. Senate (Democratic),"Carter, Jack",29
+TONOPAH 16,U.S. Senate (Democratic),None Of These Candidates,6
+TONOPAH 16,U.S. Senate (Democratic),"Tun, Ruby jee",3
+TONOPAH 16,U.S. Senate (Republican),"Ensign, John",36
+TONOPAH 16,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
+TONOPAH 16,U.S. Senate (Republican),None Of These Candidates,2
 TONOPAH 17,COUNTY RECORDER (Republican),"FOSTER, BYRON",26
 TONOPAH 17,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",20
 TONOPAH 17,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",15
@@ -2454,9 +2454,9 @@ TONOPAH 17,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 TONOPAH 17,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 TONOPAH 17,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",24
 TONOPAH 17,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-TONOPAH 17,United States Senator (Democratic),"Carter, Jack",46
-TONOPAH 17,United States Senator (Democratic),None Of These Candidates,24
-TONOPAH 17,United States Senator (Democratic),"Tun, Ruby jee",6
-TONOPAH 17,United States Senator (Republican),"Ensign, John",58
-TONOPAH 17,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
-TONOPAH 17,United States Senator (Republican),None Of These Candidates,6
+TONOPAH 17,U.S. Senate (Democratic),"Carter, Jack",46
+TONOPAH 17,U.S. Senate (Democratic),None Of These Candidates,24
+TONOPAH 17,U.S. Senate (Democratic),"Tun, Ruby jee",6
+TONOPAH 17,U.S. Senate (Republican),"Ensign, John",58
+TONOPAH 17,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
+TONOPAH 17,U.S. Senate (Republican),None Of These Candidates,6

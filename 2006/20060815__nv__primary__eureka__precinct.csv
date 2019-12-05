@@ -62,12 +62,12 @@ Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",28
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-Precinct 1,United States Senator (Democratic),"Carter, Jack",29
-Precinct 1,United States Senator (Democratic),None Of These Candidates,6
-Precinct 1,United States Senator (Democratic),"Tun, Ruby jee",3
-Precinct 1,United States Senator (Republican),"Ensign, John",134
-Precinct 1,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",15
-Precinct 1,United States Senator (Republican),None Of These Candidates,9
+Precinct 1,U.S. Senate (Democratic),"Carter, Jack",29
+Precinct 1,U.S. Senate (Democratic),None Of These Candidates,6
+Precinct 1,U.S. Senate (Democratic),"Tun, Ruby jee",3
+Precinct 1,U.S. Senate (Republican),"Ensign, John",134
+Precinct 1,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
+Precinct 1,U.S. Senate (Republican),None Of These Candidates,9
 Precinct 2,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",98
 Precinct 2,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",54
 Precinct 2,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",150
@@ -131,12 +131,12 @@ Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",43
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 2,United States Senator (Democratic),"Carter, Jack",16
-Precinct 2,United States Senator (Democratic),None Of These Candidates,11
-Precinct 2,United States Senator (Democratic),"Tun, Ruby jee",2
-Precinct 2,United States Senator (Republican),"Ensign, John",132
-Precinct 2,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",7
-Precinct 2,United States Senator (Republican),None Of These Candidates,16
+Precinct 2,U.S. Senate (Democratic),"Carter, Jack",16
+Precinct 2,U.S. Senate (Democratic),None Of These Candidates,11
+Precinct 2,U.S. Senate (Democratic),"Tun, Ruby jee",2
+Precinct 2,U.S. Senate (Republican),"Ensign, John",132
+Precinct 2,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
+Precinct 2,U.S. Senate (Republican),None Of These Candidates,16
 Precinct 3,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",25
 Precinct 3,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",20
 Precinct 3,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",39
@@ -200,12 +200,12 @@ Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",20
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 3,United States Senator (Democratic),"Carter, Jack",11
-Precinct 3,United States Senator (Democratic),None Of These Candidates,6
-Precinct 3,United States Senator (Democratic),"Tun, Ruby jee",2
-Precinct 3,United States Senator (Republican),"Ensign, John",35
-Precinct 3,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-Precinct 3,United States Senator (Republican),None Of These Candidates,2
+Precinct 3,U.S. Senate (Democratic),"Carter, Jack",11
+Precinct 3,U.S. Senate (Democratic),None Of These Candidates,6
+Precinct 3,U.S. Senate (Democratic),"Tun, Ruby jee",2
+Precinct 3,U.S. Senate (Republican),"Ensign, John",35
+Precinct 3,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+Precinct 3,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 4,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",28
 Precinct 4,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",15
 Precinct 4,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",31
@@ -269,20 +269,20 @@ Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, 
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",13
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 4,United States Senator (Democratic),"Carter, Jack",13
-Precinct 4,United States Senator (Democratic),None Of These Candidates,2
-Precinct 4,United States Senator (Democratic),"Tun, Ruby jee",7
-Precinct 4,United States Senator (Republican),"Ensign, John",38
-Precinct 4,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 4,United States Senator (Republican),None Of These Candidates,3
+Precinct 4,U.S. Senate (Democratic),"Carter, Jack",13
+Precinct 4,U.S. Senate (Democratic),None Of These Candidates,2
+Precinct 4,U.S. Senate (Democratic),"Tun, Ruby jee",7
+Precinct 4,U.S. Senate (Republican),"Ensign, John",38
+Precinct 4,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 4,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 99,United States Senator (Democratic),"Carter, Jack",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 99,United States Senator (Republican),"Ensign, John",0
-Precinct 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Carter, Jack",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 99,U.S. Senate (Republican),"Ensign, John",0
+Precinct 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0

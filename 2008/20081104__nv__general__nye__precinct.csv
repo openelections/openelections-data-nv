@@ -3,13 +3,13 @@ AMARGOSA VLY 06,County Commissioner District II,"EASTLEY, JONI",220
 AMARGOSA VLY 06,County Commissioner District II,"PETELL, JIM",109
 AMARGOSA VLY 06,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",261
 AMARGOSA VLY 06,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",69
-AMARGOSA VLY 06,President and Vice President of the United States,"Baldwin, Chuck",4
-AMARGOSA VLY 06,President and Vice President of the United States,"Barr, Bob",5
-AMARGOSA VLY 06,President and Vice President of the United States,"McCain, John",204
-AMARGOSA VLY 06,President and Vice President of the United States,"McKinney, Cynthia",0
-AMARGOSA VLY 06,President and Vice President of the United States,"NADER, RALPH",5
-AMARGOSA VLY 06,President and Vice President of the United States,None Of These Candidates,3
-AMARGOSA VLY 06,President and Vice President of the United States,"Obama, Barack",134
+AMARGOSA VLY 06,President,"Baldwin, Chuck",4
+AMARGOSA VLY 06,President,"Barr, Bob",5
+AMARGOSA VLY 06,President,"McCain, John",204
+AMARGOSA VLY 06,President,"McKinney, Cynthia",0
+AMARGOSA VLY 06,President,"NADER, RALPH",5
+AMARGOSA VLY 06,President,None Of These Candidates,3
+AMARGOSA VLY 06,President,"Obama, Barack",134
 AMARGOSA VLY 06,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",110
 AMARGOSA VLY 06,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",213
 AMARGOSA VLY 06,"State Assembly, District 36","BABB, SCOTTY",185
@@ -30,13 +30,13 @@ BEATTY 01,County Commissioner District II,"EASTLEY, JONI",269
 BEATTY 01,County Commissioner District II,"PETELL, JIM",91
 BEATTY 01,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",280
 BEATTY 01,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",82
-BEATTY 01,President and Vice President of the United States,"Baldwin, Chuck",7
-BEATTY 01,President and Vice President of the United States,"Barr, Bob",4
-BEATTY 01,President and Vice President of the United States,"McCain, John",240
-BEATTY 01,President and Vice President of the United States,"McKinney, Cynthia",0
-BEATTY 01,President and Vice President of the United States,"NADER, RALPH",3
-BEATTY 01,President and Vice President of the United States,None Of These Candidates,11
-BEATTY 01,President and Vice President of the United States,"Obama, Barack",129
+BEATTY 01,President,"Baldwin, Chuck",7
+BEATTY 01,President,"Barr, Bob",4
+BEATTY 01,President,"McCain, John",240
+BEATTY 01,President,"McKinney, Cynthia",0
+BEATTY 01,President,"NADER, RALPH",3
+BEATTY 01,President,None Of These Candidates,11
+BEATTY 01,President,"Obama, Barack",129
 BEATTY 01,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",141
 BEATTY 01,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",204
 BEATTY 01,"State Assembly, District 36","BABB, SCOTTY",125
@@ -57,13 +57,13 @@ CURRANT 02,County Commissioner District I,"MOBLEY, ROB",10
 CURRANT 02,County Commissioner District I,"WICHMAN, LORINDA A.",30
 CURRANT 02,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",29
 CURRANT 02,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",9
-CURRANT 02,President and Vice President of the United States,"Baldwin, Chuck",0
-CURRANT 02,President and Vice President of the United States,"Barr, Bob",0
-CURRANT 02,President and Vice President of the United States,"McCain, John",33
-CURRANT 02,President and Vice President of the United States,"McKinney, Cynthia",0
-CURRANT 02,President and Vice President of the United States,"NADER, RALPH",0
-CURRANT 02,President and Vice President of the United States,None Of These Candidates,2
-CURRANT 02,President and Vice President of the United States,"Obama, Barack",7
+CURRANT 02,President,"Baldwin, Chuck",0
+CURRANT 02,President,"Barr, Bob",0
+CURRANT 02,President,"McCain, John",33
+CURRANT 02,President,"McKinney, Cynthia",0
+CURRANT 02,President,"NADER, RALPH",0
+CURRANT 02,President,None Of These Candidates,2
+CURRANT 02,President,"Obama, Barack",7
 CURRANT 02,"State Assembly, District 36","BABB, SCOTTY",4
 CURRANT 02,"State Assembly, District 36","GOEDHART, ED",34
 CURRANT 02,"State Senate, Rural Senatorial District","HANSEN, JANINE",15
@@ -83,13 +83,13 @@ DUCKWATER 03,County Commissioner District I,"MOBLEY, ROB",16
 DUCKWATER 03,County Commissioner District I,"WICHMAN, LORINDA A.",21
 DUCKWATER 03,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",31
 DUCKWATER 03,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",6
-DUCKWATER 03,President and Vice President of the United States,"Baldwin, Chuck",0
-DUCKWATER 03,President and Vice President of the United States,"Barr, Bob",0
-DUCKWATER 03,President and Vice President of the United States,"McCain, John",13
-DUCKWATER 03,President and Vice President of the United States,"McKinney, Cynthia",0
-DUCKWATER 03,President and Vice President of the United States,"NADER, RALPH",0
-DUCKWATER 03,President and Vice President of the United States,None Of These Candidates,1
-DUCKWATER 03,President and Vice President of the United States,"Obama, Barack",29
+DUCKWATER 03,President,"Baldwin, Chuck",0
+DUCKWATER 03,President,"Barr, Bob",0
+DUCKWATER 03,President,"McCain, John",13
+DUCKWATER 03,President,"McKinney, Cynthia",0
+DUCKWATER 03,President,"NADER, RALPH",0
+DUCKWATER 03,President,None Of These Candidates,1
+DUCKWATER 03,President,"Obama, Barack",29
 DUCKWATER 03,"State Assembly, District 36","BABB, SCOTTY",24
 DUCKWATER 03,"State Assembly, District 36","GOEDHART, ED",16
 DUCKWATER 03,"State Senate, Rural Senatorial District","HANSEN, JANINE",21
@@ -109,13 +109,13 @@ FORTY BAR 18,County Commissioner District I,"MOBLEY, ROB",25
 FORTY BAR 18,County Commissioner District I,"WICHMAN, LORINDA A.",15
 FORTY BAR 18,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",34
 FORTY BAR 18,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",20
-FORTY BAR 18,President and Vice President of the United States,"Baldwin, Chuck",0
-FORTY BAR 18,President and Vice President of the United States,"Barr, Bob",4
-FORTY BAR 18,President and Vice President of the United States,"McCain, John",25
-FORTY BAR 18,President and Vice President of the United States,"McKinney, Cynthia",0
-FORTY BAR 18,President and Vice President of the United States,"NADER, RALPH",2
-FORTY BAR 18,President and Vice President of the United States,None Of These Candidates,1
-FORTY BAR 18,President and Vice President of the United States,"Obama, Barack",33
+FORTY BAR 18,President,"Baldwin, Chuck",0
+FORTY BAR 18,President,"Barr, Bob",4
+FORTY BAR 18,President,"McCain, John",25
+FORTY BAR 18,President,"McKinney, Cynthia",0
+FORTY BAR 18,President,"NADER, RALPH",2
+FORTY BAR 18,President,None Of These Candidates,1
+FORTY BAR 18,President,"Obama, Barack",33
 FORTY BAR 18,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",29
 FORTY BAR 18,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",21
 FORTY BAR 18,"State Assembly, District 36","BABB, SCOTTY",31
@@ -136,13 +136,13 @@ GABBS 04,County Commissioner District I,"MOBLEY, ROB",33
 GABBS 04,County Commissioner District I,"WICHMAN, LORINDA A.",85
 GABBS 04,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",77
 GABBS 04,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",43
-GABBS 04,President and Vice President of the United States,"Baldwin, Chuck",0
-GABBS 04,President and Vice President of the United States,"Barr, Bob",1
-GABBS 04,President and Vice President of the United States,"McCain, John",78
-GABBS 04,President and Vice President of the United States,"McKinney, Cynthia",0
-GABBS 04,President and Vice President of the United States,"NADER, RALPH",6
-GABBS 04,President and Vice President of the United States,None Of These Candidates,2
-GABBS 04,President and Vice President of the United States,"Obama, Barack",39
+GABBS 04,President,"Baldwin, Chuck",0
+GABBS 04,President,"Barr, Bob",1
+GABBS 04,President,"McCain, John",78
+GABBS 04,President,"McKinney, Cynthia",0
+GABBS 04,President,"NADER, RALPH",6
+GABBS 04,President,None Of These Candidates,2
+GABBS 04,President,"Obama, Barack",39
 GABBS 04,"State Assembly, District 36","BABB, SCOTTY",42
 GABBS 04,"State Assembly, District 36","GOEDHART, ED",79
 GABBS 04,"State Senate, Central Senatorial District","McGINNESS, MIKE",103
@@ -161,13 +161,13 @@ IONE 05,County Commissioner District I,"MOBLEY, ROB",5
 IONE 05,County Commissioner District I,"WICHMAN, LORINDA A.",10
 IONE 05,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",13
 IONE 05,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",3
-IONE 05,President and Vice President of the United States,"Baldwin, Chuck",0
-IONE 05,President and Vice President of the United States,"Barr, Bob",0
-IONE 05,President and Vice President of the United States,"McCain, John",6
-IONE 05,President and Vice President of the United States,"McKinney, Cynthia",0
-IONE 05,President and Vice President of the United States,"NADER, RALPH",0
-IONE 05,President and Vice President of the United States,None Of These Candidates,0
-IONE 05,President and Vice President of the United States,"Obama, Barack",10
+IONE 05,President,"Baldwin, Chuck",0
+IONE 05,President,"Barr, Bob",0
+IONE 05,President,"McCain, John",6
+IONE 05,President,"McKinney, Cynthia",0
+IONE 05,President,"NADER, RALPH",0
+IONE 05,President,None Of These Candidates,0
+IONE 05,President,"Obama, Barack",10
 IONE 05,"State Assembly, District 36","BABB, SCOTTY",10
 IONE 05,"State Assembly, District 36","GOEDHART, ED",6
 IONE 05,"State Senate, Rural Senatorial District","HANSEN, JANINE",7
@@ -187,13 +187,13 @@ MANHATTAN 07,County Commissioner District I,"MOBLEY, ROB",4
 MANHATTAN 07,County Commissioner District I,"WICHMAN, LORINDA A.",41
 MANHATTAN 07,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",39
 MANHATTAN 07,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",7
-MANHATTAN 07,President and Vice President of the United States,"Baldwin, Chuck",2
-MANHATTAN 07,President and Vice President of the United States,"Barr, Bob",0
-MANHATTAN 07,President and Vice President of the United States,"McCain, John",35
-MANHATTAN 07,President and Vice President of the United States,"McKinney, Cynthia",0
-MANHATTAN 07,President and Vice President of the United States,"NADER, RALPH",0
-MANHATTAN 07,President and Vice President of the United States,None Of These Candidates,0
-MANHATTAN 07,President and Vice President of the United States,"Obama, Barack",9
+MANHATTAN 07,President,"Baldwin, Chuck",2
+MANHATTAN 07,President,"Barr, Bob",0
+MANHATTAN 07,President,"McCain, John",35
+MANHATTAN 07,President,"McKinney, Cynthia",0
+MANHATTAN 07,President,"NADER, RALPH",0
+MANHATTAN 07,President,None Of These Candidates,0
+MANHATTAN 07,President,"Obama, Barack",9
 MANHATTAN 07,"State Assembly, District 36","BABB, SCOTTY",7
 MANHATTAN 07,"State Assembly, District 36","GOEDHART, ED",38
 MANHATTAN 07,"State Senate, Rural Senatorial District","HANSEN, JANINE",14
@@ -213,13 +213,13 @@ MERCURY 08,County Commissioner District I,"MOBLEY, ROB",
 MERCURY 08,County Commissioner District I,"WICHMAN, LORINDA A.",
 MERCURY 08,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
 MERCURY 08,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
-MERCURY 08,President and Vice President of the United States,"Baldwin, Chuck",
-MERCURY 08,President and Vice President of the United States,"Barr, Bob",
-MERCURY 08,President and Vice President of the United States,"McCain, John",
-MERCURY 08,President and Vice President of the United States,"McKinney, Cynthia",
-MERCURY 08,President and Vice President of the United States,"NADER, RALPH",
-MERCURY 08,President and Vice President of the United States,None Of These Candidates,
-MERCURY 08,President and Vice President of the United States,"Obama, Barack",
+MERCURY 08,President,"Baldwin, Chuck",
+MERCURY 08,President,"Barr, Bob",
+MERCURY 08,President,"McCain, John",
+MERCURY 08,President,"McKinney, Cynthia",
+MERCURY 08,President,"NADER, RALPH",
+MERCURY 08,President,None Of These Candidates,
+MERCURY 08,President,"Obama, Barack",
 MERCURY 08,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",
 MERCURY 08,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",
 MERCURY 08,"State Assembly, District 36","BABB, SCOTTY",
@@ -246,21 +246,21 @@ PAHRUMP 09,PAHRUMP TOWN Board,"BROOKS, SEAN",353
 PAHRUMP 09,PAHRUMP TOWN Board,"DARBY, MIKE",458
 PAHRUMP 09,PAHRUMP TOWN Board,"PARKER, VICKY",428
 PAHRUMP 09,PAHRUMP TOWN Board,"RUST, DON",340
-PAHRUMP 09,President and Vice President of the United States,"Baldwin, Chuck",16
-PAHRUMP 09,President and Vice President of the United States,"Barr, Bob",9
-PAHRUMP 09,President and Vice President of the United States,"McCain, John",552
+PAHRUMP 09,President,"Baldwin, Chuck",16
+PAHRUMP 09,President,"Barr, Bob",9
+PAHRUMP 09,President,"McCain, John",552
 PAHRUMP 11,Justice of the Peace PAHRUMP,"JASPERSON, KENT",352
 PAHRUMP 11,PAHRUMP TOWN Board,"BROOKS, SEAN",178
 PAHRUMP 11,PAHRUMP TOWN Board,"DARBY, MIKE",211
 PAHRUMP 11,PAHRUMP TOWN Board,"PARKER, VICKY",244
 PAHRUMP 11,PAHRUMP TOWN Board,"RUST, DON",196
-PAHRUMP 11,President and Vice President of the United States,"Baldwin, Chuck",7
-PAHRUMP 11,President and Vice President of the United States,"Barr, Bob",2
-PAHRUMP 11,President and Vice President of the United States,"McCain, John",271
-PAHRUMP 11,President and Vice President of the United States,"McKinney, Cynthia",1
-PAHRUMP 11,President and Vice President of the United States,"NADER, RALPH",5
-PAHRUMP 11,President and Vice President of the United States,None Of These Candidates,5
-PAHRUMP 11,President and Vice President of the United States,"Obama, Barack",261
+PAHRUMP 11,President,"Baldwin, Chuck",7
+PAHRUMP 11,President,"Barr, Bob",2
+PAHRUMP 11,President,"McCain, John",271
+PAHRUMP 11,President,"McKinney, Cynthia",1
+PAHRUMP 11,President,"NADER, RALPH",5
+PAHRUMP 11,President,None Of These Candidates,5
+PAHRUMP 11,President,"Obama, Barack",261
 PAHRUMP 11,School Board Trustee Area VI,"OFELT, COURTLAND H.",201
 PAHRUMP 11,School Board Trustee Area VI,"TOKERUD, HAROLD",239
 PAHRUMP 11,"State Assembly, District 36","BABB, SCOTTY",216
@@ -285,13 +285,13 @@ PAHRUMP 16,PAHRUMP TOWN Board,"BROOKS, SEAN",182
 PAHRUMP 16,PAHRUMP TOWN Board,"DARBY, MIKE",265
 PAHRUMP 16,PAHRUMP TOWN Board,"PARKER, VICKY",292
 PAHRUMP 16,PAHRUMP TOWN Board,"RUST, DON",267
-PAHRUMP 16,President and Vice President of the United States,"Baldwin, Chuck",4
-PAHRUMP 16,President and Vice President of the United States,"Barr, Bob",3
-PAHRUMP 16,President and Vice President of the United States,"McCain, John",346
-PAHRUMP 16,President and Vice President of the United States,"McKinney, Cynthia",0
-PAHRUMP 16,President and Vice President of the United States,"NADER, RALPH",11
-PAHRUMP 16,President and Vice President of the United States,None Of These Candidates,10
-PAHRUMP 16,President and Vice President of the United States,"Obama, Barack",293
+PAHRUMP 16,President,"Baldwin, Chuck",4
+PAHRUMP 16,President,"Barr, Bob",3
+PAHRUMP 16,President,"McCain, John",346
+PAHRUMP 16,President,"McKinney, Cynthia",0
+PAHRUMP 16,President,"NADER, RALPH",11
+PAHRUMP 16,President,None Of These Candidates,10
+PAHRUMP 16,President,"Obama, Barack",293
 PAHRUMP 16,"State Assembly, District 36","BABB, SCOTTY",246
 PAHRUMP 16,"State Assembly, District 36","GOEDHART, ED",371
 PAHRUMP 16,"State Senate, Central Senatorial District","McGINNESS, MIKE",460
@@ -314,13 +314,13 @@ PAHRUMP 17,PAHRUMP TOWN Board,"BROOKS, SEAN",176
 PAHRUMP 17,PAHRUMP TOWN Board,"DARBY, MIKE",267
 PAHRUMP 17,PAHRUMP TOWN Board,"PARKER, VICKY",307
 PAHRUMP 17,PAHRUMP TOWN Board,"RUST, DON",205
-PAHRUMP 17,President and Vice President of the United States,"Baldwin, Chuck",2
-PAHRUMP 17,President and Vice President of the United States,"Barr, Bob",3
-PAHRUMP 17,President and Vice President of the United States,"McCain, John",316
-PAHRUMP 17,President and Vice President of the United States,"McKinney, Cynthia",0
-PAHRUMP 17,President and Vice President of the United States,"NADER, RALPH",5
-PAHRUMP 17,President and Vice President of the United States,None Of These Candidates,7
-PAHRUMP 17,President and Vice President of the United States,"Obama, Barack",281
+PAHRUMP 17,President,"Baldwin, Chuck",2
+PAHRUMP 17,President,"Barr, Bob",3
+PAHRUMP 17,President,"McCain, John",316
+PAHRUMP 17,President,"McKinney, Cynthia",0
+PAHRUMP 17,President,"NADER, RALPH",5
+PAHRUMP 17,President,None Of These Candidates,7
+PAHRUMP 17,President,"Obama, Barack",281
 PAHRUMP 17,"State Assembly, District 36","BABB, SCOTTY",240
 PAHRUMP 17,"State Assembly, District 36","GOEDHART, ED",345
 PAHRUMP 17,"State Senate, Central Senatorial District","McGINNESS, MIKE",438
@@ -345,13 +345,13 @@ PAHRUMP 19,PAHRUMP TOWN Board,"BROOKS, SEAN",401
 PAHRUMP 19,PAHRUMP TOWN Board,"DARBY, MIKE",476
 PAHRUMP 19,PAHRUMP TOWN Board,"PARKER, VICKY",530
 PAHRUMP 19,PAHRUMP TOWN Board,"RUST, DON",451
-PAHRUMP 19,President and Vice President of the United States,"Baldwin, Chuck",14
-PAHRUMP 19,President and Vice President of the United States,"Barr, Bob",5
-PAHRUMP 19,President and Vice President of the United States,"McCain, John",686
-PAHRUMP 19,President and Vice President of the United States,"McKinney, Cynthia",5
-PAHRUMP 19,President and Vice President of the United States,"NADER, RALPH",8
-PAHRUMP 19,President and Vice President of the United States,None Of These Candidates,11
-PAHRUMP 19,President and Vice President of the United States,"Obama, Barack",494
+PAHRUMP 19,President,"Baldwin, Chuck",14
+PAHRUMP 19,President,"Barr, Bob",5
+PAHRUMP 19,President,"McCain, John",686
+PAHRUMP 19,President,"McKinney, Cynthia",5
+PAHRUMP 19,President,"NADER, RALPH",8
+PAHRUMP 19,President,None Of These Candidates,11
+PAHRUMP 19,President,"Obama, Barack",494
 PAHRUMP 19,"State Assembly, District 36","BABB, SCOTTY",414
 PAHRUMP 19,"State Assembly, District 36","GOEDHART, ED",753
 PAHRUMP 19,"State Senate, Central Senatorial District","McGINNESS, MIKE",909
@@ -374,13 +374,13 @@ PAHRUMP 20,PAHRUMP TOWN Board,"BROOKS, SEAN",132
 PAHRUMP 20,PAHRUMP TOWN Board,"DARBY, MIKE",192
 PAHRUMP 20,PAHRUMP TOWN Board,"PARKER, VICKY",171
 PAHRUMP 20,PAHRUMP TOWN Board,"RUST, DON",146
-PAHRUMP 20,President and Vice President of the United States,"Baldwin, Chuck",6
-PAHRUMP 20,President and Vice President of the United States,"Barr, Bob",0
-PAHRUMP 20,President and Vice President of the United States,"McCain, John",251
-PAHRUMP 20,President and Vice President of the United States,"McKinney, Cynthia",0
-PAHRUMP 20,President and Vice President of the United States,"NADER, RALPH",4
-PAHRUMP 20,President and Vice President of the United States,None Of These Candidates,5
-PAHRUMP 20,President and Vice President of the United States,"Obama, Barack",157
+PAHRUMP 20,President,"Baldwin, Chuck",6
+PAHRUMP 20,President,"Barr, Bob",0
+PAHRUMP 20,President,"McCain, John",251
+PAHRUMP 20,President,"McKinney, Cynthia",0
+PAHRUMP 20,President,"NADER, RALPH",4
+PAHRUMP 20,President,None Of These Candidates,5
+PAHRUMP 20,President,"Obama, Barack",157
 PAHRUMP 20,"State Assembly, District 36","BABB, SCOTTY",150
 PAHRUMP 20,"State Assembly, District 36","GOEDHART, ED",249
 PAHRUMP 20,"State Senate, Central Senatorial District","McGINNESS, MIKE",309
@@ -405,13 +405,13 @@ PAHRUMP 21,PAHRUMP TOWN Board,"BROOKS, SEAN",316
 PAHRUMP 21,PAHRUMP TOWN Board,"DARBY, MIKE",508
 PAHRUMP 21,PAHRUMP TOWN Board,"PARKER, VICKY",443
 PAHRUMP 21,PAHRUMP TOWN Board,"RUST, DON",378
-PAHRUMP 21,President and Vice President of the United States,"Baldwin, Chuck",9
-PAHRUMP 21,President and Vice President of the United States,"Barr, Bob",3
-PAHRUMP 21,President and Vice President of the United States,"McCain, John",518
-PAHRUMP 21,President and Vice President of the United States,"McKinney, Cynthia",5
-PAHRUMP 21,President and Vice President of the United States,"NADER, RALPH",9
-PAHRUMP 21,President and Vice President of the United States,None Of These Candidates,11
-PAHRUMP 21,President and Vice President of the United States,"Obama, Barack",497
+PAHRUMP 21,President,"Baldwin, Chuck",9
+PAHRUMP 21,President,"Barr, Bob",3
+PAHRUMP 21,President,"McCain, John",518
+PAHRUMP 21,President,"McKinney, Cynthia",5
+PAHRUMP 21,President,"NADER, RALPH",9
+PAHRUMP 21,President,None Of These Candidates,11
+PAHRUMP 21,President,"Obama, Barack",497
 PAHRUMP 21,"State Assembly, District 36","BABB, SCOTTY",438
 PAHRUMP 21,"State Assembly, District 36","GOEDHART, ED",565
 PAHRUMP 21,"State Senate, Central Senatorial District","McGINNESS, MIKE",748
@@ -434,13 +434,13 @@ PAHRUMP 22,PAHRUMP TOWN Board,"BROOKS, SEAN",169
 PAHRUMP 22,PAHRUMP TOWN Board,"DARBY, MIKE",259
 PAHRUMP 22,PAHRUMP TOWN Board,"PARKER, VICKY",262
 PAHRUMP 22,PAHRUMP TOWN Board,"RUST, DON",222
-PAHRUMP 22,President and Vice President of the United States,"Baldwin, Chuck",2
-PAHRUMP 22,President and Vice President of the United States,"Barr, Bob",2
-PAHRUMP 22,President and Vice President of the United States,"McCain, John",301
-PAHRUMP 22,President and Vice President of the United States,"McKinney, Cynthia",0
-PAHRUMP 22,President and Vice President of the United States,"NADER, RALPH",4
-PAHRUMP 22,President and Vice President of the United States,None Of These Candidates,6
-PAHRUMP 22,President and Vice President of the United States,"Obama, Barack",274
+PAHRUMP 22,President,"Baldwin, Chuck",2
+PAHRUMP 22,President,"Barr, Bob",2
+PAHRUMP 22,President,"McCain, John",301
+PAHRUMP 22,President,"McKinney, Cynthia",0
+PAHRUMP 22,President,"NADER, RALPH",4
+PAHRUMP 22,President,None Of These Candidates,6
+PAHRUMP 22,President,"Obama, Barack",274
 PAHRUMP 22,"State Assembly, District 36","BABB, SCOTTY",224
 PAHRUMP 22,"State Assembly, District 36","GOEDHART, ED",341
 PAHRUMP 22,"State Senate, Central Senatorial District","McGINNESS, MIKE",438
@@ -465,13 +465,13 @@ PAHRUMP 23,PAHRUMP TOWN Board,"BROOKS, SEAN",132
 PAHRUMP 23,PAHRUMP TOWN Board,"DARBY, MIKE",171
 PAHRUMP 23,PAHRUMP TOWN Board,"PARKER, VICKY",136
 PAHRUMP 23,PAHRUMP TOWN Board,"RUST, DON",113
-PAHRUMP 23,President and Vice President of the United States,"Baldwin, Chuck",3
-PAHRUMP 23,President and Vice President of the United States,"Barr, Bob",3
-PAHRUMP 23,President and Vice President of the United States,"McCain, John",178
-PAHRUMP 23,President and Vice President of the United States,"McKinney, Cynthia",0
-PAHRUMP 23,President and Vice President of the United States,"NADER, RALPH",0
-PAHRUMP 23,President and Vice President of the United States,None Of These Candidates,6
-PAHRUMP 23,President and Vice President of the United States,"Obama, Barack",172
+PAHRUMP 23,President,"Baldwin, Chuck",3
+PAHRUMP 23,President,"Barr, Bob",3
+PAHRUMP 23,President,"McCain, John",178
+PAHRUMP 23,President,"McKinney, Cynthia",0
+PAHRUMP 23,President,"NADER, RALPH",0
+PAHRUMP 23,President,None Of These Candidates,6
+PAHRUMP 23,President,"Obama, Barack",172
 PAHRUMP 23,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",150
 PAHRUMP 23,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",155
 PAHRUMP 23,"State Assembly, District 36","BABB, SCOTTY",149
@@ -496,13 +496,13 @@ PAHRUMP 24,PAHRUMP TOWN Board,"BROOKS, SEAN",201
 PAHRUMP 24,PAHRUMP TOWN Board,"DARBY, MIKE",316
 PAHRUMP 24,PAHRUMP TOWN Board,"PARKER, VICKY",328
 PAHRUMP 24,PAHRUMP TOWN Board,"RUST, DON",227
-PAHRUMP 24,President and Vice President of the United States,"Baldwin, Chuck",8
-PAHRUMP 24,President and Vice President of the United States,"Barr, Bob",3
-PAHRUMP 24,President and Vice President of the United States,"McCain, John",345
-PAHRUMP 24,President and Vice President of the United States,"McKinney, Cynthia",3
-PAHRUMP 24,President and Vice President of the United States,"NADER, RALPH",10
-PAHRUMP 24,President and Vice President of the United States,None Of These Candidates,12
-PAHRUMP 24,President and Vice President of the United States,"Obama, Barack",324
+PAHRUMP 24,President,"Baldwin, Chuck",8
+PAHRUMP 24,President,"Barr, Bob",3
+PAHRUMP 24,President,"McCain, John",345
+PAHRUMP 24,President,"McKinney, Cynthia",3
+PAHRUMP 24,President,"NADER, RALPH",10
+PAHRUMP 24,President,None Of These Candidates,12
+PAHRUMP 24,President,"Obama, Barack",324
 PAHRUMP 24,"State Assembly, District 36","BABB, SCOTTY",261
 PAHRUMP 24,"State Assembly, District 36","GOEDHART, ED",400
 PAHRUMP 24,"State Senate, Central Senatorial District","McGINNESS, MIKE",492
@@ -527,13 +527,13 @@ PAHRUMP 25,PAHRUMP TOWN Board,"BROOKS, SEAN",250
 PAHRUMP 25,PAHRUMP TOWN Board,"DARBY, MIKE",351
 PAHRUMP 25,PAHRUMP TOWN Board,"PARKER, VICKY",348
 PAHRUMP 25,PAHRUMP TOWN Board,"RUST, DON",280
-PAHRUMP 25,President and Vice President of the United States,"Baldwin, Chuck",4
-PAHRUMP 25,President and Vice President of the United States,"Barr, Bob",5
-PAHRUMP 25,President and Vice President of the United States,"McCain, John",423
-PAHRUMP 25,President and Vice President of the United States,"McKinney, Cynthia",2
-PAHRUMP 25,President and Vice President of the United States,"NADER, RALPH",8
-PAHRUMP 25,President and Vice President of the United States,None Of These Candidates,14
-PAHRUMP 25,President and Vice President of the United States,"Obama, Barack",351
+PAHRUMP 25,President,"Baldwin, Chuck",4
+PAHRUMP 25,President,"Barr, Bob",5
+PAHRUMP 25,President,"McCain, John",423
+PAHRUMP 25,President,"McKinney, Cynthia",2
+PAHRUMP 25,President,"NADER, RALPH",8
+PAHRUMP 25,President,None Of These Candidates,14
+PAHRUMP 25,President,"Obama, Barack",351
 PAHRUMP 25,"State Assembly, District 36","BABB, SCOTTY",295
 PAHRUMP 25,"State Assembly, District 36","GOEDHART, ED",468
 PAHRUMP 25,"State Senate, Central Senatorial District","McGINNESS, MIKE",589
@@ -558,13 +558,13 @@ PAHRUMP 26,PAHRUMP TOWN Board,"BROOKS, SEAN",245
 PAHRUMP 26,PAHRUMP TOWN Board,"DARBY, MIKE",358
 PAHRUMP 26,PAHRUMP TOWN Board,"PARKER, VICKY",320
 PAHRUMP 26,PAHRUMP TOWN Board,"RUST, DON",246
-PAHRUMP 26,President and Vice President of the United States,"Baldwin, Chuck",8
-PAHRUMP 26,President and Vice President of the United States,"Barr, Bob",7
-PAHRUMP 26,President and Vice President of the United States,"McCain, John",376
-PAHRUMP 26,President and Vice President of the United States,"McKinney, Cynthia",4
-PAHRUMP 26,President and Vice President of the United States,"NADER, RALPH",6
-PAHRUMP 26,President and Vice President of the United States,None Of These Candidates,5
-PAHRUMP 26,President and Vice President of the United States,"Obama, Barack",328
+PAHRUMP 26,President,"Baldwin, Chuck",8
+PAHRUMP 26,President,"Barr, Bob",7
+PAHRUMP 26,President,"McCain, John",376
+PAHRUMP 26,President,"McKinney, Cynthia",4
+PAHRUMP 26,President,"NADER, RALPH",6
+PAHRUMP 26,President,None Of These Candidates,5
+PAHRUMP 26,President,"Obama, Barack",328
 PAHRUMP 26,"State Assembly, District 36","BABB, SCOTTY",277
 PAHRUMP 26,"State Assembly, District 36","GOEDHART, ED",427
 PAHRUMP 26,"State Senate, Central Senatorial District","McGINNESS, MIKE",555
@@ -589,13 +589,13 @@ PAHRUMP 27,PAHRUMP TOWN Board,"BROOKS, SEAN",216
 PAHRUMP 27,PAHRUMP TOWN Board,"DARBY, MIKE",374
 PAHRUMP 27,PAHRUMP TOWN Board,"PARKER, VICKY",274
 PAHRUMP 27,PAHRUMP TOWN Board,"RUST, DON",224
-PAHRUMP 27,President and Vice President of the United States,"Baldwin, Chuck",16
-PAHRUMP 27,President and Vice President of the United States,"Barr, Bob",6
-PAHRUMP 27,President and Vice President of the United States,"McCain, John",356
-PAHRUMP 27,President and Vice President of the United States,"McKinney, Cynthia",2
-PAHRUMP 27,President and Vice President of the United States,"NADER, RALPH",7
-PAHRUMP 27,President and Vice President of the United States,None Of These Candidates,17
-PAHRUMP 27,President and Vice President of the United States,"Obama, Barack",314
+PAHRUMP 27,President,"Baldwin, Chuck",16
+PAHRUMP 27,President,"Barr, Bob",6
+PAHRUMP 27,President,"McCain, John",356
+PAHRUMP 27,President,"McKinney, Cynthia",2
+PAHRUMP 27,President,"NADER, RALPH",7
+PAHRUMP 27,President,None Of These Candidates,17
+PAHRUMP 27,President,"Obama, Barack",314
 PAHRUMP 27,"State Assembly, District 36","BABB, SCOTTY",273
 PAHRUMP 27,"State Assembly, District 36","GOEDHART, ED",409
 PAHRUMP 27,"State Senate, Central Senatorial District","McGINNESS, MIKE",514
@@ -618,13 +618,13 @@ PAHRUMP 28,PAHRUMP TOWN Board,"BROOKS, SEAN",327
 PAHRUMP 28,PAHRUMP TOWN Board,"DARBY, MIKE",457
 PAHRUMP 28,PAHRUMP TOWN Board,"PARKER, VICKY",446
 PAHRUMP 28,PAHRUMP TOWN Board,"RUST, DON",364
-PAHRUMP 28,President and Vice President of the United States,"Baldwin, Chuck",5
-PAHRUMP 28,President and Vice President of the United States,"Barr, Bob",7
-PAHRUMP 28,President and Vice President of the United States,"McCain, John",553
-PAHRUMP 28,President and Vice President of the United States,"McKinney, Cynthia",1
-PAHRUMP 28,President and Vice President of the United States,"NADER, RALPH",3
-PAHRUMP 28,President and Vice President of the United States,None Of These Candidates,17
-PAHRUMP 28,President and Vice President of the United States,"Obama, Barack",436
+PAHRUMP 28,President,"Baldwin, Chuck",5
+PAHRUMP 28,President,"Barr, Bob",7
+PAHRUMP 28,President,"McCain, John",553
+PAHRUMP 28,President,"McKinney, Cynthia",1
+PAHRUMP 28,President,"NADER, RALPH",3
+PAHRUMP 28,President,None Of These Candidates,17
+PAHRUMP 28,President,"Obama, Barack",436
 PAHRUMP 28,School Board Trustee Area VI,"OFELT, COURTLAND H.",320
 PAHRUMP 28,School Board Trustee Area VI,"TOKERUD, HAROLD",519
 PAHRUMP 28,"State Assembly, District 36","BABB, SCOTTY",352
@@ -649,13 +649,13 @@ PAHRUMP 29,PAHRUMP TOWN Board,"BROOKS, SEAN",262
 PAHRUMP 29,PAHRUMP TOWN Board,"DARBY, MIKE",393
 PAHRUMP 29,PAHRUMP TOWN Board,"PARKER, VICKY",389
 PAHRUMP 29,PAHRUMP TOWN Board,"RUST, DON",310
-PAHRUMP 29,President and Vice President of the United States,"Baldwin, Chuck",12
-PAHRUMP 29,President and Vice President of the United States,"Barr, Bob",8
-PAHRUMP 29,President and Vice President of the United States,"McCain, John",503
-PAHRUMP 29,President and Vice President of the United States,"McKinney, Cynthia",2
-PAHRUMP 29,President and Vice President of the United States,"NADER, RALPH",10
-PAHRUMP 29,President and Vice President of the United States,None Of These Candidates,7
-PAHRUMP 29,President and Vice President of the United States,"Obama, Barack",401
+PAHRUMP 29,President,"Baldwin, Chuck",12
+PAHRUMP 29,President,"Barr, Bob",8
+PAHRUMP 29,President,"McCain, John",503
+PAHRUMP 29,President,"McKinney, Cynthia",2
+PAHRUMP 29,President,"NADER, RALPH",10
+PAHRUMP 29,President,None Of These Candidates,7
+PAHRUMP 29,President,"Obama, Barack",401
 PAHRUMP 29,"State Assembly, District 36","BABB, SCOTTY",351
 PAHRUMP 29,"State Assembly, District 36","GOEDHART, ED",523
 PAHRUMP 29,"State Senate, Central Senatorial District","McGINNESS, MIKE",666
@@ -678,13 +678,13 @@ PAHRUMP 30,PAHRUMP TOWN Board,"BROOKS, SEAN",265
 PAHRUMP 30,PAHRUMP TOWN Board,"DARBY, MIKE",375
 PAHRUMP 30,PAHRUMP TOWN Board,"PARKER, VICKY",392
 PAHRUMP 30,PAHRUMP TOWN Board,"RUST, DON",307
-PAHRUMP 30,President and Vice President of the United States,"Baldwin, Chuck",11
-PAHRUMP 30,President and Vice President of the United States,"Barr, Bob",7
-PAHRUMP 30,President and Vice President of the United States,"McCain, John",504
-PAHRUMP 30,President and Vice President of the United States,"McKinney, Cynthia",3
-PAHRUMP 30,President and Vice President of the United States,"NADER, RALPH",1
-PAHRUMP 30,President and Vice President of the United States,None Of These Candidates,6
-PAHRUMP 30,President and Vice President of the United States,"Obama, Barack",341
+PAHRUMP 30,President,"Baldwin, Chuck",11
+PAHRUMP 30,President,"Barr, Bob",7
+PAHRUMP 30,President,"McCain, John",504
+PAHRUMP 30,President,"McKinney, Cynthia",3
+PAHRUMP 30,President,"NADER, RALPH",1
+PAHRUMP 30,President,None Of These Candidates,6
+PAHRUMP 30,President,"Obama, Barack",341
 PAHRUMP 30,School Board Trustee Area VI,"OFELT, COURTLAND H.",278
 PAHRUMP 30,School Board Trustee Area VI,"TOKERUD, HAROLD",423
 PAHRUMP 30,"State Assembly, District 36","BABB, SCOTTY",283
@@ -709,13 +709,13 @@ PAHRUMP 31,PAHRUMP TOWN Board,"BROOKS, SEAN",206
 PAHRUMP 31,PAHRUMP TOWN Board,"DARBY, MIKE",309
 PAHRUMP 31,PAHRUMP TOWN Board,"PARKER, VICKY",305
 PAHRUMP 31,PAHRUMP TOWN Board,"RUST, DON",275
-PAHRUMP 31,President and Vice President of the United States,"Baldwin, Chuck",4
-PAHRUMP 31,President and Vice President of the United States,"Barr, Bob",3
-PAHRUMP 31,President and Vice President of the United States,"McCain, John",431
-PAHRUMP 31,President and Vice President of the United States,"McKinney, Cynthia",2
-PAHRUMP 31,President and Vice President of the United States,"NADER, RALPH",9
-PAHRUMP 31,President and Vice President of the United States,None Of These Candidates,6
-PAHRUMP 31,President and Vice President of the United States,"Obama, Barack",275
+PAHRUMP 31,President,"Baldwin, Chuck",4
+PAHRUMP 31,President,"Barr, Bob",3
+PAHRUMP 31,President,"McCain, John",431
+PAHRUMP 31,President,"McKinney, Cynthia",2
+PAHRUMP 31,President,"NADER, RALPH",9
+PAHRUMP 31,President,None Of These Candidates,6
+PAHRUMP 31,President,"Obama, Barack",275
 PAHRUMP 31,"State Assembly, District 36","BABB, SCOTTY",243
 PAHRUMP 31,"State Assembly, District 36","GOEDHART, ED",454
 PAHRUMP 31,"State Senate, Central Senatorial District","McGINNESS, MIKE",537
@@ -740,13 +740,13 @@ PAHRUMP 32,PAHRUMP TOWN Board,"BROOKS, SEAN",418
 PAHRUMP 32,PAHRUMP TOWN Board,"DARBY, MIKE",524
 PAHRUMP 32,PAHRUMP TOWN Board,"PARKER, VICKY",485
 PAHRUMP 32,PAHRUMP TOWN Board,"RUST, DON",396
-PAHRUMP 32,President and Vice President of the United States,"Baldwin, Chuck",15
-PAHRUMP 32,President and Vice President of the United States,"Barr, Bob",16
-PAHRUMP 32,President and Vice President of the United States,"McCain, John",598
-PAHRUMP 32,President and Vice President of the United States,"McKinney, Cynthia",5
-PAHRUMP 32,President and Vice President of the United States,"NADER, RALPH",10
-PAHRUMP 32,President and Vice President of the United States,None Of These Candidates,16
-PAHRUMP 32,President and Vice President of the United States,"Obama, Barack",505
+PAHRUMP 32,President,"Baldwin, Chuck",15
+PAHRUMP 32,President,"Barr, Bob",16
+PAHRUMP 32,President,"McCain, John",598
+PAHRUMP 32,President,"McKinney, Cynthia",5
+PAHRUMP 32,President,"NADER, RALPH",10
+PAHRUMP 32,President,None Of These Candidates,16
+PAHRUMP 32,President,"Obama, Barack",505
 PAHRUMP 32,School Board Trustee Area II,"BIENENSTEIN, KATHLEEN L.",506
 PAHRUMP 32,School Board Trustee Area II,"MCNEELY, J.E. ""DOC""",484
 PAHRUMP 32,"State Assembly, District 36","BABB, SCOTTY",455
@@ -763,20 +763,20 @@ PAHRUMP 32,"U.S. Representative in Congress, District 2","DERBY, JILL",460
 PAHRUMP 32,"U.S. Representative in Congress, District 2","Everhart, John",61
 PAHRUMP 32,"U.S. Representative in Congress, District 2","HELLER, DEAN",532
 PAHRUMP 32,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",22
-Precinct 88,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 88,President and Vice President of the United States,"Barr, Bob",0
-Precinct 88,President and Vice President of the United States,"McCain, John",109
-Precinct 88,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"Obama, Barack",72
-Precinct 99,President and Vice President of the United States,"Baldwin, Chuck",
-Precinct 99,President and Vice President of the United States,"Barr, Bob",
-Precinct 99,President and Vice President of the United States,"McCain, John",
-Precinct 99,President and Vice President of the United States,"McKinney, Cynthia",
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",
-Precinct 99,President and Vice President of the United States,None Of These Candidates,
-Precinct 99,President and Vice President of the United States,"Obama, Barack",
+Precinct 88,President,"Baldwin, Chuck",0
+Precinct 88,President,"Barr, Bob",0
+Precinct 88,President,"McCain, John",109
+Precinct 88,President,"McKinney, Cynthia",0
+Precinct 88,President,"NADER, RALPH",1
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"Obama, Barack",72
+Precinct 99,President,"Baldwin, Chuck",
+Precinct 99,President,"Barr, Bob",
+Precinct 99,President,"McCain, John",
+Precinct 99,President,"McKinney, Cynthia",
+Precinct 99,President,"NADER, RALPH",
+Precinct 99,President,None Of These Candidates,
+Precinct 99,President,"Obama, Barack",
 Precinct 99,"U.S. Representative in Congress, District 2","Bergland, Craig",0
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 Precinct 99,"U.S. Representative in Congress, District 2","Everhart, John",0
@@ -786,13 +786,13 @@ ROUND MTN 12,County Commissioner District I,"MOBLEY, ROB",33
 ROUND MTN 12,County Commissioner District I,"WICHMAN, LORINDA A.",260
 ROUND MTN 12,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",227
 ROUND MTN 12,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",54
-ROUND MTN 12,President and Vice President of the United States,"Baldwin, Chuck",1
-ROUND MTN 12,President and Vice President of the United States,"Barr, Bob",2
-ROUND MTN 12,President and Vice President of the United States,"McCain, John",225
-ROUND MTN 12,President and Vice President of the United States,"McKinney, Cynthia",0
-ROUND MTN 12,President and Vice President of the United States,"NADER, RALPH",2
-ROUND MTN 12,President and Vice President of the United States,None Of These Candidates,3
-ROUND MTN 12,President and Vice President of the United States,"Obama, Barack",72
+ROUND MTN 12,President,"Baldwin, Chuck",1
+ROUND MTN 12,President,"Barr, Bob",2
+ROUND MTN 12,President,"McCain, John",225
+ROUND MTN 12,President,"McKinney, Cynthia",0
+ROUND MTN 12,President,"NADER, RALPH",2
+ROUND MTN 12,President,None Of These Candidates,3
+ROUND MTN 12,President,"Obama, Barack",72
 ROUND MTN 12,"State Assembly, District 36","BABB, SCOTTY",58
 ROUND MTN 12,"State Assembly, District 36","GOEDHART, ED",234
 ROUND MTN 12,"State Senate, Rural Senatorial District","HANSEN, JANINE",93
@@ -812,13 +812,13 @@ SMOKY VALLEY 35,County Commissioner District I,"MOBLEY, ROB",35
 SMOKY VALLEY 35,County Commissioner District I,"WICHMAN, LORINDA A.",200
 SMOKY VALLEY 35,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",193
 SMOKY VALLEY 35,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",33
-SMOKY VALLEY 35,President and Vice President of the United States,"Baldwin, Chuck",0
-SMOKY VALLEY 35,President and Vice President of the United States,"Barr, Bob",1
-SMOKY VALLEY 35,President and Vice President of the United States,"McCain, John",200
-SMOKY VALLEY 35,President and Vice President of the United States,"McKinney, Cynthia",0
-SMOKY VALLEY 35,President and Vice President of the United States,"NADER, RALPH",2
-SMOKY VALLEY 35,President and Vice President of the United States,None Of These Candidates,3
-SMOKY VALLEY 35,President and Vice President of the United States,"Obama, Barack",34
+SMOKY VALLEY 35,President,"Baldwin, Chuck",0
+SMOKY VALLEY 35,President,"Barr, Bob",1
+SMOKY VALLEY 35,President,"McCain, John",200
+SMOKY VALLEY 35,President,"McKinney, Cynthia",0
+SMOKY VALLEY 35,President,"NADER, RALPH",2
+SMOKY VALLEY 35,President,None Of These Candidates,3
+SMOKY VALLEY 35,President,"Obama, Barack",34
 SMOKY VALLEY 35,"State Assembly, District 36","BABB, SCOTTY",40
 SMOKY VALLEY 35,"State Assembly, District 36","GOEDHART, ED",189
 SMOKY VALLEY 35,"State Senate, Rural Senatorial District","HANSEN, JANINE",45
@@ -838,13 +838,13 @@ SUNNYSIDE 13,County Commissioner District I,"MOBLEY, ROB",
 SUNNYSIDE 13,County Commissioner District I,"WICHMAN, LORINDA A.",
 SUNNYSIDE 13,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
 SUNNYSIDE 13,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
-SUNNYSIDE 13,President and Vice President of the United States,"Baldwin, Chuck",0
-SUNNYSIDE 13,President and Vice President of the United States,"Barr, Bob",0
-SUNNYSIDE 13,President and Vice President of the United States,"McCain, John",8
-SUNNYSIDE 13,President and Vice President of the United States,"McKinney, Cynthia",0
-SUNNYSIDE 13,President and Vice President of the United States,"NADER, RALPH",0
-SUNNYSIDE 13,President and Vice President of the United States,None Of These Candidates,0
-SUNNYSIDE 13,President and Vice President of the United States,"Obama, Barack",2
+SUNNYSIDE 13,President,"Baldwin, Chuck",0
+SUNNYSIDE 13,President,"Barr, Bob",0
+SUNNYSIDE 13,President,"McCain, John",8
+SUNNYSIDE 13,President,"McKinney, Cynthia",0
+SUNNYSIDE 13,President,"NADER, RALPH",0
+SUNNYSIDE 13,President,None Of These Candidates,0
+SUNNYSIDE 13,President,"Obama, Barack",2
 SUNNYSIDE 13,"State Assembly, District 36","BABB, SCOTTY",
 SUNNYSIDE 13,"State Assembly, District 36","GOEDHART, ED",
 SUNNYSIDE 13,"State Senate, Rural Senatorial District","HANSEN, JANINE",
@@ -864,13 +864,13 @@ TONOPAH 14,County Commissioner District II,"EASTLEY, JONI",447
 TONOPAH 14,County Commissioner District II,"PETELL, JIM",82
 TONOPAH 14,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",460
 TONOPAH 14,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",62
-TONOPAH 14,President and Vice President of the United States,"Baldwin, Chuck",9
-TONOPAH 14,President and Vice President of the United States,"Barr, Bob",6
-TONOPAH 14,President and Vice President of the United States,"McCain, John",342
-TONOPAH 14,President and Vice President of the United States,"McKinney, Cynthia",2
-TONOPAH 14,President and Vice President of the United States,"NADER, RALPH",5
-TONOPAH 14,President and Vice President of the United States,None Of These Candidates,10
-TONOPAH 14,President and Vice President of the United States,"Obama, Barack",175
+TONOPAH 14,President,"Baldwin, Chuck",9
+TONOPAH 14,President,"Barr, Bob",6
+TONOPAH 14,President,"McCain, John",342
+TONOPAH 14,President,"McKinney, Cynthia",2
+TONOPAH 14,President,"NADER, RALPH",5
+TONOPAH 14,President,None Of These Candidates,10
+TONOPAH 14,President,"Obama, Barack",175
 TONOPAH 14,"State Assembly, District 36","BABB, SCOTTY",124
 TONOPAH 14,"State Assembly, District 36","GOEDHART, ED",397
 TONOPAH 14,"State Senate, Central Senatorial District","McGINNESS, MIKE",458
@@ -889,13 +889,13 @@ TONOPAH 15,County Commissioner District II,"EASTLEY, JONI",365
 TONOPAH 15,County Commissioner District II,"PETELL, JIM",54
 TONOPAH 15,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",365
 TONOPAH 15,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",46
-TONOPAH 15,President and Vice President of the United States,"Baldwin, Chuck",4
-TONOPAH 15,President and Vice President of the United States,"Barr, Bob",1
-TONOPAH 15,President and Vice President of the United States,"McCain, John",281
-TONOPAH 15,President and Vice President of the United States,"McKinney, Cynthia",0
-TONOPAH 15,President and Vice President of the United States,"NADER, RALPH",7
-TONOPAH 15,President and Vice President of the United States,None Of These Candidates,11
-TONOPAH 15,President and Vice President of the United States,"Obama, Barack",124
+TONOPAH 15,President,"Baldwin, Chuck",4
+TONOPAH 15,President,"Barr, Bob",1
+TONOPAH 15,President,"McCain, John",281
+TONOPAH 15,President,"McKinney, Cynthia",0
+TONOPAH 15,President,"NADER, RALPH",7
+TONOPAH 15,President,None Of These Candidates,11
+TONOPAH 15,President,"Obama, Barack",124
 TONOPAH 15,"State Assembly, District 36","BABB, SCOTTY",92
 TONOPAH 15,"State Assembly, District 36","GOEDHART, ED",319
 TONOPAH 15,"State Senate, Central Senatorial District","McGINNESS, MIKE",374

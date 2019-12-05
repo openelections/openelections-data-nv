@@ -13,11 +13,11 @@ precinct,office,candidate,votes
 01-Centerville,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",169
 01-Centerville,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",130
 01-Centerville,Justice of the Peace East Fork Township,"PERKINS, TOM",363
-01-Centerville,President and Vice President of the United States,"GOODE, VIRGIL",1
-01-Centerville,President and Vice President of the United States,"JOHNSON, GARY",3
-01-Centerville,President and Vice President of the United States,None Of These Candidates,3
-01-Centerville,President and Vice President of the United States,"Obama, Barack",180
-01-Centerville,President and Vice President of the United States,"Romney, Mitt",408
+01-Centerville,President,"GOODE, VIRGIL",1
+01-Centerville,President,"JOHNSON, GARY",3
+01-Centerville,President,None Of These Candidates,3
+01-Centerville,President,"Obama, Barack",180
+01-Centerville,President,"Romney, Mitt",408
 01-Centerville,School Board Trustee Area 1,"CHESSELL, KAREN",224
 01-Centerville,School Board Trustee Area 1,"SANTI, RON",188
 01-Centerville,School Board Trustee Area 4,"FREITAS, NEAL",240
@@ -38,10 +38,10 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2","Best, Russell",5
 01-Centerville,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",7
 01-Centerville,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",127
-01-Centerville,United States Senator,"Berkley, Shelley",134
-01-Centerville,United States Senator,"Heller, Dean",410
-01-Centerville,United States Senator,None Of These Candidates,24
-01-Centerville,United States Senator,"VANDERBEEK, DAVID LORY",20
+01-Centerville,U.S. Senate,"Berkley, Shelley",134
+01-Centerville,U.S. Senate,"Heller, Dean",410
+01-Centerville,U.S. Senate,None Of These Candidates,24
+01-Centerville,U.S. Senate,"VANDERBEEK, DAVID LORY",20
 01-Centerville,"University Board of Regents, District  9","Knecht, Ron",292
 01-Centerville,"University Board of Regents, District  9","Mackedon, Michon",156
 02-Fish Springs,County Commissioner District 1,"LYNN, GREG",760
@@ -61,11 +61,11 @@ precinct,office,candidate,votes
 02-Fish Springs,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",156
 02-Fish Springs,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",168
 02-Fish Springs,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",141
-02-Fish Springs,President and Vice President of the United States,"GOODE, VIRGIL",2
-02-Fish Springs,President and Vice President of the United States,"JOHNSON, GARY",3
-02-Fish Springs,President and Vice President of the United States,None Of These Candidates,9
-02-Fish Springs,President and Vice President of the United States,"Obama, Barack",321
-02-Fish Springs,President and Vice President of the United States,"Romney, Mitt",685
+02-Fish Springs,President,"GOODE, VIRGIL",2
+02-Fish Springs,President,"JOHNSON, GARY",3
+02-Fish Springs,President,None Of These Candidates,9
+02-Fish Springs,President,"Obama, Barack",321
+02-Fish Springs,President,"Romney, Mitt",685
 02-Fish Springs,School Board Trustee Area 1,"CHESSELL, KAREN",395
 02-Fish Springs,School Board Trustee Area 1,"SANTI, RON",363
 02-Fish Springs,School Board Trustee Area 4,"FREITAS, NEAL",386
@@ -90,10 +90,10 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2","Best, Russell",15
 02-Fish Springs,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",30
 02-Fish Springs,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",221
-02-Fish Springs,United States Senator,"Berkley, Shelley",245
-02-Fish Springs,United States Senator,"Heller, Dean",674
-02-Fish Springs,United States Senator,None Of These Candidates,42
-02-Fish Springs,United States Senator,"VANDERBEEK, DAVID LORY",46
+02-Fish Springs,U.S. Senate,"Berkley, Shelley",245
+02-Fish Springs,U.S. Senate,"Heller, Dean",674
+02-Fish Springs,U.S. Senate,None Of These Candidates,42
+02-Fish Springs,U.S. Senate,"VANDERBEEK, DAVID LORY",46
 02-Fish Springs,"University Board of Regents, District  9","Knecht, Ron",517
 02-Fish Springs,"University Board of Regents, District  9","Mackedon, Michon",257
 03-Gardnerville,County Commissioner District 1,"LYNN, GREG",662
@@ -113,11 +113,11 @@ precinct,office,candidate,votes
 03-Gardnerville,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",349
 03-Gardnerville,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",421
 03-Gardnerville,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",392
-03-Gardnerville,President and Vice President of the United States,"GOODE, VIRGIL",2
-03-Gardnerville,President and Vice President of the United States,"JOHNSON, GARY",14
-03-Gardnerville,President and Vice President of the United States,None Of These Candidates,5
-03-Gardnerville,President and Vice President of the United States,"Obama, Barack",372
-03-Gardnerville,President and Vice President of the United States,"Romney, Mitt",524
+03-Gardnerville,President,"GOODE, VIRGIL",2
+03-Gardnerville,President,"JOHNSON, GARY",14
+03-Gardnerville,President,None Of These Candidates,5
+03-Gardnerville,President,"Obama, Barack",372
+03-Gardnerville,President,"Romney, Mitt",524
 03-Gardnerville,School Board Trustee Area 1,"CHESSELL, KAREN",412
 03-Gardnerville,School Board Trustee Area 1,"SANTI, RON",259
 03-Gardnerville,School Board Trustee Area 4,"FREITAS, NEAL",407
@@ -142,10 +142,10 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2","Best, Russell",15
 03-Gardnerville,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",33
 03-Gardnerville,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",255
-03-Gardnerville,United States Senator,"Berkley, Shelley",279
-03-Gardnerville,United States Senator,"Heller, Dean",517
-03-Gardnerville,United States Senator,None Of These Candidates,55
-03-Gardnerville,United States Senator,"VANDERBEEK, DAVID LORY",46
+03-Gardnerville,U.S. Senate,"Berkley, Shelley",279
+03-Gardnerville,U.S. Senate,"Heller, Dean",517
+03-Gardnerville,U.S. Senate,None Of These Candidates,55
+03-Gardnerville,U.S. Senate,"VANDERBEEK, DAVID LORY",46
 03-Gardnerville,"University Board of Regents, District  9","Knecht, Ron",405
 03-Gardnerville,"University Board of Regents, District  9","Mackedon, Michon",289
 04-Carson Valley Estates,County Commissioner District 1,"LYNN, GREG",492
@@ -165,11 +165,11 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",245
 04-Carson Valley Estates,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",305
 04-Carson Valley Estates,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",294
-04-Carson Valley Estates,President and Vice President of the United States,"GOODE, VIRGIL",2
-04-Carson Valley Estates,President and Vice President of the United States,"JOHNSON, GARY",8
-04-Carson Valley Estates,President and Vice President of the United States,None Of These Candidates,2
-04-Carson Valley Estates,President and Vice President of the United States,"Obama, Barack",253
-04-Carson Valley Estates,President and Vice President of the United States,"Romney, Mitt",377
+04-Carson Valley Estates,President,"GOODE, VIRGIL",2
+04-Carson Valley Estates,President,"JOHNSON, GARY",8
+04-Carson Valley Estates,President,None Of These Candidates,2
+04-Carson Valley Estates,President,"Obama, Barack",253
+04-Carson Valley Estates,President,"Romney, Mitt",377
 04-Carson Valley Estates,School Board Trustee Area 1,"CHESSELL, KAREN",293
 04-Carson Valley Estates,School Board Trustee Area 1,"SANTI, RON",206
 04-Carson Valley Estates,School Board Trustee Area 4,"FREITAS, NEAL",281
@@ -194,10 +194,10 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","Best, Russell",9
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",21
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",173
-04-Carson Valley Estates,United States Senator,"Berkley, Shelley",179
-04-Carson Valley Estates,United States Senator,"Heller, Dean",395
-04-Carson Valley Estates,United States Senator,None Of These Candidates,33
-04-Carson Valley Estates,United States Senator,"VANDERBEEK, DAVID LORY",28
+04-Carson Valley Estates,U.S. Senate,"Berkley, Shelley",179
+04-Carson Valley Estates,U.S. Senate,"Heller, Dean",395
+04-Carson Valley Estates,U.S. Senate,None Of These Candidates,33
+04-Carson Valley Estates,U.S. Senate,"VANDERBEEK, DAVID LORY",28
 04-Carson Valley Estates,"University Board of Regents, District  9","Knecht, Ron",304
 04-Carson Valley Estates,"University Board of Regents, District  9","Mackedon, Michon",199
 05-Genoa,County Commissioner District 1,"LYNN, GREG",527
@@ -214,11 +214,11 @@ precinct,office,candidate,votes
 05-Genoa,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",157
 05-Genoa,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",148
 05-Genoa,Justice of the Peace East Fork Township,"PERKINS, TOM",398
-05-Genoa,President and Vice President of the United States,"GOODE, VIRGIL",1
-05-Genoa,President and Vice President of the United States,"JOHNSON, GARY",6
-05-Genoa,President and Vice President of the United States,None Of These Candidates,1
-05-Genoa,President and Vice President of the United States,"Obama, Barack",183
-05-Genoa,President and Vice President of the United States,"Romney, Mitt",495
+05-Genoa,President,"GOODE, VIRGIL",1
+05-Genoa,President,"JOHNSON, GARY",6
+05-Genoa,President,None Of These Candidates,1
+05-Genoa,President,"Obama, Barack",183
+05-Genoa,President,"Romney, Mitt",495
 05-Genoa,School Board Trustee Area 1,"CHESSELL, KAREN",268
 05-Genoa,School Board Trustee Area 1,"SANTI, RON",213
 05-Genoa,School Board Trustee Area 4,"FREITAS, NEAL",268
@@ -239,10 +239,10 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2","Best, Russell",5
 05-Genoa,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
 05-Genoa,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",124
-05-Genoa,United States Senator,"Berkley, Shelley",121
-05-Genoa,United States Senator,"Heller, Dean",520
-05-Genoa,United States Senator,None Of These Candidates,16
-05-Genoa,United States Senator,"VANDERBEEK, DAVID LORY",24
+05-Genoa,U.S. Senate,"Berkley, Shelley",121
+05-Genoa,U.S. Senate,"Heller, Dean",520
+05-Genoa,U.S. Senate,None Of These Candidates,16
+05-Genoa,U.S. Senate,"VANDERBEEK, DAVID LORY",24
 05-Genoa,"University Board of Regents, District  9","Knecht, Ron",331
 05-Genoa,"University Board of Regents, District  9","Mackedon, Michon",194
 06-Jacks Valley,County Commissioner District 1,"LYNN, GREG",731
@@ -263,11 +263,11 @@ precinct,office,candidate,votes
 06-Jacks Valley,Indian Hills G I D - 2 Seats,"WEAVER, JIMMY R.",124
 06-Jacks Valley,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",301
 06-Jacks Valley,Justice of the Peace East Fork Township,"PERKINS, TOM",491
-06-Jacks Valley,President and Vice President of the United States,"GOODE, VIRGIL",4
-06-Jacks Valley,President and Vice President of the United States,"JOHNSON, GARY",14
-06-Jacks Valley,President and Vice President of the United States,None Of These Candidates,7
-06-Jacks Valley,President and Vice President of the United States,"Obama, Barack",407
-06-Jacks Valley,President and Vice President of the United States,"Romney, Mitt",585
+06-Jacks Valley,President,"GOODE, VIRGIL",4
+06-Jacks Valley,President,"JOHNSON, GARY",14
+06-Jacks Valley,President,None Of These Candidates,7
+06-Jacks Valley,President,"Obama, Barack",407
+06-Jacks Valley,President,"Romney, Mitt",585
 06-Jacks Valley,School Board Trustee Area 1,"CHESSELL, KAREN",448
 06-Jacks Valley,School Board Trustee Area 1,"SANTI, RON",284
 06-Jacks Valley,School Board Trustee Area 4,"FREITAS, NEAL",353
@@ -288,10 +288,10 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2","Best, Russell",21
 06-Jacks Valley,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",26
 06-Jacks Valley,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",304
-06-Jacks Valley,United States Senator,"Berkley, Shelley",306
-06-Jacks Valley,United States Senator,"Heller, Dean",626
-06-Jacks Valley,United States Senator,None Of These Candidates,34
-06-Jacks Valley,United States Senator,"VANDERBEEK, DAVID LORY",40
+06-Jacks Valley,U.S. Senate,"Berkley, Shelley",306
+06-Jacks Valley,U.S. Senate,"Heller, Dean",626
+06-Jacks Valley,U.S. Senate,None Of These Candidates,34
+06-Jacks Valley,U.S. Senate,"VANDERBEEK, DAVID LORY",40
 06-Jacks Valley,"University Board of Regents, District  9","Knecht, Ron",477
 06-Jacks Valley,"University Board of Regents, District  9","Mackedon, Michon",316
 07-Minden,County Commissioner District 1,"LYNN, GREG",527
@@ -311,11 +311,11 @@ precinct,office,candidate,votes
 07-Minden,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",364
 07-Minden,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",278
 07-Minden,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",280
-07-Minden,President and Vice President of the United States,"GOODE, VIRGIL",1
-07-Minden,President and Vice President of the United States,"JOHNSON, GARY",7
-07-Minden,President and Vice President of the United States,None Of These Candidates,3
-07-Minden,President and Vice President of the United States,"Obama, Barack",252
-07-Minden,President and Vice President of the United States,"Romney, Mitt",426
+07-Minden,President,"GOODE, VIRGIL",1
+07-Minden,President,"JOHNSON, GARY",7
+07-Minden,President,None Of These Candidates,3
+07-Minden,President,"Obama, Barack",252
+07-Minden,President,"Romney, Mitt",426
 07-Minden,School Board Trustee Area 1,"CHESSELL, KAREN",316
 07-Minden,School Board Trustee Area 1,"SANTI, RON",198
 07-Minden,School Board Trustee Area 4,"FREITAS, NEAL",289
@@ -339,10 +339,10 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2","Best, Russell",4
 07-Minden,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",13
 07-Minden,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",167
-07-Minden,United States Senator,"Berkley, Shelley",188
-07-Minden,United States Senator,"Heller, Dean",441
-07-Minden,United States Senator,None Of These Candidates,30
-07-Minden,United States Senator,"VANDERBEEK, DAVID LORY",21
+07-Minden,U.S. Senate,"Berkley, Shelley",188
+07-Minden,U.S. Senate,"Heller, Dean",441
+07-Minden,U.S. Senate,None Of These Candidates,30
+07-Minden,U.S. Senate,"VANDERBEEK, DAVID LORY",21
 07-Minden,"University Board of Regents, District  9","Knecht, Ron",264
 07-Minden,"University Board of Regents, District  9","Mackedon, Michon",270
 08-Ranchos I,County Commissioner District 1,"LYNN, GREG",719
@@ -359,11 +359,11 @@ precinct,office,candidate,votes
 08-Ranchos I,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",231
 08-Ranchos I,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",236
 08-Ranchos I,Justice of the Peace East Fork Township,"PERKINS, TOM",563
-08-Ranchos I,President and Vice President of the United States,"GOODE, VIRGIL",4
-08-Ranchos I,President and Vice President of the United States,"JOHNSON, GARY",10
-08-Ranchos I,President and Vice President of the United States,None Of These Candidates,11
-08-Ranchos I,President and Vice President of the United States,"Obama, Barack",395
-08-Ranchos I,President and Vice President of the United States,"Romney, Mitt",552
+08-Ranchos I,President,"GOODE, VIRGIL",4
+08-Ranchos I,President,"JOHNSON, GARY",10
+08-Ranchos I,President,None Of These Candidates,11
+08-Ranchos I,President,"Obama, Barack",395
+08-Ranchos I,President,"Romney, Mitt",552
 08-Ranchos I,School Board Trustee Area 1,"CHESSELL, KAREN",449
 08-Ranchos I,School Board Trustee Area 1,"SANTI, RON",286
 08-Ranchos I,School Board Trustee Area 4,"FREITAS, NEAL",419
@@ -384,10 +384,10 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2","Best, Russell",26
 08-Ranchos I,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",43
 08-Ranchos I,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",294
-08-Ranchos I,United States Senator,"Berkley, Shelley",271
-08-Ranchos I,United States Senator,"Heller, Dean",570
-08-Ranchos I,United States Senator,None Of These Candidates,53
-08-Ranchos I,United States Senator,"VANDERBEEK, DAVID LORY",69
+08-Ranchos I,U.S. Senate,"Berkley, Shelley",271
+08-Ranchos I,U.S. Senate,"Heller, Dean",570
+08-Ranchos I,U.S. Senate,None Of These Candidates,53
+08-Ranchos I,U.S. Senate,"VANDERBEEK, DAVID LORY",69
 08-Ranchos I,"University Board of Regents, District  9","Knecht, Ron",441
 08-Ranchos I,"University Board of Regents, District  9","Mackedon, Michon",312
 09-Ranchos II,County Commissioner District 1,"LYNN, GREG",597
@@ -404,11 +404,11 @@ precinct,office,candidate,votes
 09-Ranchos II,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",158
 09-Ranchos II,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",197
 09-Ranchos II,Justice of the Peace East Fork Township,"PERKINS, TOM",425
-09-Ranchos II,President and Vice President of the United States,"GOODE, VIRGIL",5
-09-Ranchos II,President and Vice President of the United States,"JOHNSON, GARY",10
-09-Ranchos II,President and Vice President of the United States,None Of These Candidates,5
-09-Ranchos II,President and Vice President of the United States,"Obama, Barack",301
-09-Ranchos II,President and Vice President of the United States,"Romney, Mitt",435
+09-Ranchos II,President,"GOODE, VIRGIL",5
+09-Ranchos II,President,"JOHNSON, GARY",10
+09-Ranchos II,President,None Of These Candidates,5
+09-Ranchos II,President,"Obama, Barack",301
+09-Ranchos II,President,"Romney, Mitt",435
 09-Ranchos II,School Board Trustee Area 1,"CHESSELL, KAREN",342
 09-Ranchos II,School Board Trustee Area 1,"SANTI, RON",239
 09-Ranchos II,School Board Trustee Area 4,"FREITAS, NEAL",303
@@ -429,10 +429,10 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2","Best, Russell",17
 09-Ranchos II,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",33
 09-Ranchos II,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",228
-09-Ranchos II,United States Senator,"Berkley, Shelley",209
-09-Ranchos II,United States Senator,"Heller, Dean",451
-09-Ranchos II,United States Senator,None Of These Candidates,44
-09-Ranchos II,United States Senator,"VANDERBEEK, DAVID LORY",43
+09-Ranchos II,U.S. Senate,"Berkley, Shelley",209
+09-Ranchos II,U.S. Senate,"Heller, Dean",451
+09-Ranchos II,U.S. Senate,None Of These Candidates,44
+09-Ranchos II,U.S. Senate,"VANDERBEEK, DAVID LORY",43
 09-Ranchos II,"University Board of Regents, District  9","Knecht, Ron",392
 09-Ranchos II,"University Board of Regents, District  9","Mackedon, Michon",207
 10-TRE,County Commissioner District 1,"LYNN, GREG",594
@@ -449,11 +449,11 @@ precinct,office,candidate,votes
 10-TRE,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",142
 10-TRE,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",204
 10-TRE,Justice of the Peace East Fork Township,"PERKINS, TOM",459
-10-TRE,President and Vice President of the United States,"GOODE, VIRGIL",6
-10-TRE,President and Vice President of the United States,"JOHNSON, GARY",12
-10-TRE,President and Vice President of the United States,None Of These Candidates,10
-10-TRE,President and Vice President of the United States,"Obama, Barack",286
-10-TRE,President and Vice President of the United States,"Romney, Mitt",491
+10-TRE,President,"GOODE, VIRGIL",6
+10-TRE,President,"JOHNSON, GARY",12
+10-TRE,President,None Of These Candidates,10
+10-TRE,President,"Obama, Barack",286
+10-TRE,President,"Romney, Mitt",491
 10-TRE,School Board Trustee Area 1,"CHESSELL, KAREN",340
 10-TRE,School Board Trustee Area 1,"SANTI, RON",268
 10-TRE,School Board Trustee Area 4,"FREITAS, NEAL",325
@@ -474,10 +474,10 @@ precinct,office,candidate,votes
 10-TRE,"U.S. Representative in Congress, District 2","Best, Russell",18
 10-TRE,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",51
 10-TRE,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",207
-10-TRE,United States Senator,"Berkley, Shelley",206
-10-TRE,United States Senator,"Heller, Dean",489
-10-TRE,United States Senator,None Of These Candidates,32
-10-TRE,United States Senator,"VANDERBEEK, DAVID LORY",75
+10-TRE,U.S. Senate,"Berkley, Shelley",206
+10-TRE,U.S. Senate,"Heller, Dean",489
+10-TRE,U.S. Senate,None Of These Candidates,32
+10-TRE,U.S. Senate,"VANDERBEEK, DAVID LORY",75
 10-TRE,"University Board of Regents, District  9","Knecht, Ron",352
 10-TRE,"University Board of Regents, District  9","Mackedon, Michon",265
 11-Johnson Lane,County Commissioner District 1,"LYNN, GREG",724
@@ -494,11 +494,11 @@ precinct,office,candidate,votes
 11-Johnson Lane,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",206
 11-Johnson Lane,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",315
 11-Johnson Lane,Justice of the Peace East Fork Township,"PERKINS, TOM",445
-11-Johnson Lane,President and Vice President of the United States,"GOODE, VIRGIL",3
-11-Johnson Lane,President and Vice President of the United States,"JOHNSON, GARY",6
-11-Johnson Lane,President and Vice President of the United States,None Of These Candidates,4
-11-Johnson Lane,President and Vice President of the United States,"Obama, Barack",316
-11-Johnson Lane,President and Vice President of the United States,"Romney, Mitt",610
+11-Johnson Lane,President,"GOODE, VIRGIL",3
+11-Johnson Lane,President,"JOHNSON, GARY",6
+11-Johnson Lane,President,None Of These Candidates,4
+11-Johnson Lane,President,"Obama, Barack",316
+11-Johnson Lane,President,"Romney, Mitt",610
 11-Johnson Lane,School Board Trustee Area 1,"CHESSELL, KAREN",406
 11-Johnson Lane,School Board Trustee Area 1,"SANTI, RON",304
 11-Johnson Lane,School Board Trustee Area 4,"FREITAS, NEAL",361
@@ -519,10 +519,10 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2","Best, Russell",11
 11-Johnson Lane,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",19
 11-Johnson Lane,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",244
-11-Johnson Lane,United States Senator,"Berkley, Shelley",249
-11-Johnson Lane,United States Senator,"Heller, Dean",624
-11-Johnson Lane,United States Senator,None Of These Candidates,30
-11-Johnson Lane,United States Senator,"VANDERBEEK, DAVID LORY",33
+11-Johnson Lane,U.S. Senate,"Berkley, Shelley",249
+11-Johnson Lane,U.S. Senate,"Heller, Dean",624
+11-Johnson Lane,U.S. Senate,None Of These Candidates,30
+11-Johnson Lane,U.S. Senate,"VANDERBEEK, DAVID LORY",33
 11-Johnson Lane,"University Board of Regents, District  9","Knecht, Ron",483
 11-Johnson Lane,"University Board of Regents, District  9","Mackedon, Michon",248
 12-Dresslerville,County Commissioner District 1,"LYNN, GREG",52
@@ -539,11 +539,11 @@ precinct,office,candidate,votes
 12-Dresslerville,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",9
 12-Dresslerville,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",18
 12-Dresslerville,Justice of the Peace East Fork Township,"PERKINS, TOM",63
-12-Dresslerville,President and Vice President of the United States,"GOODE, VIRGIL",0
-12-Dresslerville,President and Vice President of the United States,"JOHNSON, GARY",0
-12-Dresslerville,President and Vice President of the United States,None Of These Candidates,0
-12-Dresslerville,President and Vice President of the United States,"Obama, Barack",85
-12-Dresslerville,President and Vice President of the United States,"Romney, Mitt",16
+12-Dresslerville,President,"GOODE, VIRGIL",0
+12-Dresslerville,President,"JOHNSON, GARY",0
+12-Dresslerville,President,None Of These Candidates,0
+12-Dresslerville,President,"Obama, Barack",85
+12-Dresslerville,President,"Romney, Mitt",16
 12-Dresslerville,School Board Trustee Area 1,"CHESSELL, KAREN",43
 12-Dresslerville,School Board Trustee Area 1,"SANTI, RON",29
 12-Dresslerville,School Board Trustee Area 4,"FREITAS, NEAL",53
@@ -564,10 +564,10 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2","Best, Russell",1
 12-Dresslerville,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",3
 12-Dresslerville,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",65
-12-Dresslerville,United States Senator,"Berkley, Shelley",53
-12-Dresslerville,United States Senator,"Heller, Dean",18
-12-Dresslerville,United States Senator,None Of These Candidates,14
-12-Dresslerville,United States Senator,"VANDERBEEK, DAVID LORY",8
+12-Dresslerville,U.S. Senate,"Berkley, Shelley",53
+12-Dresslerville,U.S. Senate,"Heller, Dean",18
+12-Dresslerville,U.S. Senate,None Of These Candidates,14
+12-Dresslerville,U.S. Senate,"VANDERBEEK, DAVID LORY",8
 12-Dresslerville,"University Board of Regents, District  9","Knecht, Ron",33
 12-Dresslerville,"University Board of Regents, District  9","Mackedon, Michon",39
 13-Indian Hills - West,County Commissioner District 1,"LYNN, GREG",610
@@ -588,11 +588,11 @@ precinct,office,candidate,votes
 13-Indian Hills - West,Indian Hills G I D - 2 Seats,"WEAVER, JIMMY R.",161
 13-Indian Hills - West,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",229
 13-Indian Hills - West,Justice of the Peace East Fork Township,"PERKINS, TOM",418
-13-Indian Hills - West,President and Vice President of the United States,"GOODE, VIRGIL",4
-13-Indian Hills - West,President and Vice President of the United States,"JOHNSON, GARY",10
-13-Indian Hills - West,President and Vice President of the United States,None Of These Candidates,8
-13-Indian Hills - West,President and Vice President of the United States,"Obama, Barack",356
-13-Indian Hills - West,President and Vice President of the United States,"Romney, Mitt",476
+13-Indian Hills - West,President,"GOODE, VIRGIL",4
+13-Indian Hills - West,President,"JOHNSON, GARY",10
+13-Indian Hills - West,President,None Of These Candidates,8
+13-Indian Hills - West,President,"Obama, Barack",356
+13-Indian Hills - West,President,"Romney, Mitt",476
 13-Indian Hills - West,School Board Trustee Area 1,"CHESSELL, KAREN",366
 13-Indian Hills - West,School Board Trustee Area 1,"SANTI, RON",246
 13-Indian Hills - West,School Board Trustee Area 4,"FREITAS, NEAL",282
@@ -613,10 +613,10 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","Best, Russell",13
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",35
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",251
-13-Indian Hills - West,United States Senator,"Berkley, Shelley",239
-13-Indian Hills - West,United States Senator,"Heller, Dean",501
-13-Indian Hills - West,United States Senator,None Of These Candidates,50
-13-Indian Hills - West,United States Senator,"VANDERBEEK, DAVID LORY",53
+13-Indian Hills - West,U.S. Senate,"Berkley, Shelley",239
+13-Indian Hills - West,U.S. Senate,"Heller, Dean",501
+13-Indian Hills - West,U.S. Senate,None Of These Candidates,50
+13-Indian Hills - West,U.S. Senate,"VANDERBEEK, DAVID LORY",53
 13-Indian Hills - West,"University Board of Regents, District  9","Knecht, Ron",417
 13-Indian Hills - West,"University Board of Regents, District  9","Mackedon, Michon",210
 14-Pinenut,County Commissioner District 1,"LYNN, GREG",510
@@ -633,11 +633,11 @@ precinct,office,candidate,votes
 14-Pinenut,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",194
 14-Pinenut,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",168
 14-Pinenut,Justice of the Peace East Fork Township,"PERKINS, TOM",371
-14-Pinenut,President and Vice President of the United States,"GOODE, VIRGIL",3
-14-Pinenut,President and Vice President of the United States,"JOHNSON, GARY",9
-14-Pinenut,President and Vice President of the United States,None Of These Candidates,3
-14-Pinenut,President and Vice President of the United States,"Obama, Barack",176
-14-Pinenut,President and Vice President of the United States,"Romney, Mitt",504
+14-Pinenut,President,"GOODE, VIRGIL",3
+14-Pinenut,President,"JOHNSON, GARY",9
+14-Pinenut,President,None Of These Candidates,3
+14-Pinenut,President,"Obama, Barack",176
+14-Pinenut,President,"Romney, Mitt",504
 14-Pinenut,School Board Trustee Area 1,"CHESSELL, KAREN",277
 14-Pinenut,School Board Trustee Area 1,"SANTI, RON",199
 14-Pinenut,School Board Trustee Area 4,"FREITAS, NEAL",260
@@ -658,10 +658,10 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2","Best, Russell",9
 14-Pinenut,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",11
 14-Pinenut,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",142
-14-Pinenut,United States Senator,"Berkley, Shelley",137
-14-Pinenut,United States Senator,"Heller, Dean",513
-14-Pinenut,United States Senator,None Of These Candidates,16
-14-Pinenut,United States Senator,"VANDERBEEK, DAVID LORY",23
+14-Pinenut,U.S. Senate,"Berkley, Shelley",137
+14-Pinenut,U.S. Senate,"Heller, Dean",513
+14-Pinenut,U.S. Senate,None Of These Candidates,16
+14-Pinenut,U.S. Senate,"VANDERBEEK, DAVID LORY",23
 14-Pinenut,"University Board of Regents, District  9","Knecht, Ron",337
 14-Pinenut,"University Board of Regents, District  9","Mackedon, Michon",155
 15-Valley,County Commissioner District 1,"LYNN, GREG",249
@@ -678,11 +678,11 @@ precinct,office,candidate,votes
 15-Valley,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",82
 15-Valley,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",122
 15-Valley,Justice of the Peace East Fork Township,"PERKINS, TOM",154
-15-Valley,President and Vice President of the United States,"GOODE, VIRGIL",0
-15-Valley,President and Vice President of the United States,"JOHNSON, GARY",4
-15-Valley,President and Vice President of the United States,None Of These Candidates,2
-15-Valley,President and Vice President of the United States,"Obama, Barack",101
-15-Valley,President and Vice President of the United States,"Romney, Mitt",231
+15-Valley,President,"GOODE, VIRGIL",0
+15-Valley,President,"JOHNSON, GARY",4
+15-Valley,President,None Of These Candidates,2
+15-Valley,President,"Obama, Barack",101
+15-Valley,President,"Romney, Mitt",231
 15-Valley,School Board Trustee Area 1,"CHESSELL, KAREN",129
 15-Valley,School Board Trustee Area 1,"SANTI, RON",119
 15-Valley,School Board Trustee Area 4,"FREITAS, NEAL",155
@@ -703,10 +703,10 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2","Best, Russell",1
 15-Valley,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",3
 15-Valley,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",79
-15-Valley,United States Senator,"Berkley, Shelley",75
-15-Valley,United States Senator,"Heller, Dean",241
-15-Valley,United States Senator,None Of These Candidates,16
-15-Valley,United States Senator,"VANDERBEEK, DAVID LORY",5
+15-Valley,U.S. Senate,"Berkley, Shelley",75
+15-Valley,U.S. Senate,"Heller, Dean",241
+15-Valley,U.S. Senate,None Of These Candidates,16
+15-Valley,U.S. Senate,"VANDERBEEK, DAVID LORY",5
 15-Valley,"University Board of Regents, District  9","Knecht, Ron",181
 15-Valley,"University Board of Regents, District  9","Mackedon, Michon",73
 16-Mottsville,County Commissioner District 1,"LYNN, GREG",452
@@ -723,11 +723,11 @@ precinct,office,candidate,votes
 16-Mottsville,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",188
 16-Mottsville,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",125
 16-Mottsville,Justice of the Peace East Fork Township,"PERKINS, TOM",370
-16-Mottsville,President and Vice President of the United States,"GOODE, VIRGIL",0
-16-Mottsville,President and Vice President of the United States,"JOHNSON, GARY",3
-16-Mottsville,President and Vice President of the United States,None Of These Candidates,3
-16-Mottsville,President and Vice President of the United States,"Obama, Barack",177
-16-Mottsville,President and Vice President of the United States,"Romney, Mitt",444
+16-Mottsville,President,"GOODE, VIRGIL",0
+16-Mottsville,President,"JOHNSON, GARY",3
+16-Mottsville,President,None Of These Candidates,3
+16-Mottsville,President,"Obama, Barack",177
+16-Mottsville,President,"Romney, Mitt",444
 16-Mottsville,School Board Trustee Area 1,"CHESSELL, KAREN",210
 16-Mottsville,School Board Trustee Area 1,"SANTI, RON",220
 16-Mottsville,School Board Trustee Area 4,"FREITAS, NEAL",241
@@ -748,10 +748,10 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2","Best, Russell",7
 16-Mottsville,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",11
 16-Mottsville,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",132
-16-Mottsville,United States Senator,"Berkley, Shelley",137
-16-Mottsville,United States Senator,"Heller, Dean",451
-16-Mottsville,United States Senator,None Of These Candidates,23
-16-Mottsville,United States Senator,"VANDERBEEK, DAVID LORY",13
+16-Mottsville,U.S. Senate,"Berkley, Shelley",137
+16-Mottsville,U.S. Senate,"Heller, Dean",451
+16-Mottsville,U.S. Senate,None Of These Candidates,23
+16-Mottsville,U.S. Senate,"VANDERBEEK, DAVID LORY",13
 16-Mottsville,"University Board of Regents, District  9","Knecht, Ron",285
 16-Mottsville,"University Board of Regents, District  9","Mackedon, Michon",195
 17-Ruhenstroth,County Commissioner District 1,"LYNN, GREG",851
@@ -768,11 +768,11 @@ precinct,office,candidate,votes
 17-Ruhenstroth,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",308
 17-Ruhenstroth,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",342
 17-Ruhenstroth,Justice of the Peace East Fork Township,"PERKINS, TOM",582
-17-Ruhenstroth,President and Vice President of the United States,"GOODE, VIRGIL",2
-17-Ruhenstroth,President and Vice President of the United States,"JOHNSON, GARY",7
-17-Ruhenstroth,President and Vice President of the United States,None Of These Candidates,12
-17-Ruhenstroth,President and Vice President of the United States,"Obama, Barack",334
-17-Ruhenstroth,President and Vice President of the United States,"Romney, Mitt",749
+17-Ruhenstroth,President,"GOODE, VIRGIL",2
+17-Ruhenstroth,President,"JOHNSON, GARY",7
+17-Ruhenstroth,President,None Of These Candidates,12
+17-Ruhenstroth,President,"Obama, Barack",334
+17-Ruhenstroth,President,"Romney, Mitt",749
 17-Ruhenstroth,School Board Trustee Area 1,"CHESSELL, KAREN",471
 17-Ruhenstroth,School Board Trustee Area 1,"SANTI, RON",369
 17-Ruhenstroth,School Board Trustee Area 4,"FREITAS, NEAL",483
@@ -793,10 +793,10 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","Best, Russell",12
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",24
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",252
-17-Ruhenstroth,United States Senator,"Berkley, Shelley",263
-17-Ruhenstroth,United States Senator,"Heller, Dean",752
-17-Ruhenstroth,United States Senator,None Of These Candidates,49
-17-Ruhenstroth,United States Senator,"VANDERBEEK, DAVID LORY",34
+17-Ruhenstroth,U.S. Senate,"Berkley, Shelley",263
+17-Ruhenstroth,U.S. Senate,"Heller, Dean",752
+17-Ruhenstroth,U.S. Senate,None Of These Candidates,49
+17-Ruhenstroth,U.S. Senate,"VANDERBEEK, DAVID LORY",34
 17-Ruhenstroth,"University Board of Regents, District  9","Knecht, Ron",562
 17-Ruhenstroth,"University Board of Regents, District  9","Mackedon, Michon",281
 18-Ranchos III,County Commissioner District 1,"LYNN, GREG",335
@@ -813,11 +813,11 @@ precinct,office,candidate,votes
 18-Ranchos III,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",120
 18-Ranchos III,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",113
 18-Ranchos III,Justice of the Peace East Fork Township,"PERKINS, TOM",271
-18-Ranchos III,President and Vice President of the United States,"GOODE, VIRGIL",0
-18-Ranchos III,President and Vice President of the United States,"JOHNSON, GARY",5
-18-Ranchos III,President and Vice President of the United States,None Of These Candidates,1
-18-Ranchos III,President and Vice President of the United States,"Obama, Barack",173
-18-Ranchos III,President and Vice President of the United States,"Romney, Mitt",266
+18-Ranchos III,President,"GOODE, VIRGIL",0
+18-Ranchos III,President,"JOHNSON, GARY",5
+18-Ranchos III,President,None Of These Candidates,1
+18-Ranchos III,President,"Obama, Barack",173
+18-Ranchos III,President,"Romney, Mitt",266
 18-Ranchos III,School Board Trustee Area 1,"CHESSELL, KAREN",197
 18-Ranchos III,School Board Trustee Area 1,"SANTI, RON",152
 18-Ranchos III,School Board Trustee Area 4,"FREITAS, NEAL",206
@@ -838,10 +838,10 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2","Best, Russell",7
 18-Ranchos III,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",17
 18-Ranchos III,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",125
-18-Ranchos III,United States Senator,"Berkley, Shelley",122
-18-Ranchos III,United States Senator,"Heller, Dean",275
-18-Ranchos III,United States Senator,None Of These Candidates,20
-18-Ranchos III,United States Senator,"VANDERBEEK, DAVID LORY",27
+18-Ranchos III,U.S. Senate,"Berkley, Shelley",122
+18-Ranchos III,U.S. Senate,"Heller, Dean",275
+18-Ranchos III,U.S. Senate,None Of These Candidates,20
+18-Ranchos III,U.S. Senate,"VANDERBEEK, DAVID LORY",27
 18-Ranchos III,"University Board of Regents, District  9","Knecht, Ron",222
 18-Ranchos III,"University Board of Regents, District  9","Mackedon, Michon",130
 19-Ranchos IV,County Commissioner District 1,"LYNN, GREG",555
@@ -858,11 +858,11 @@ precinct,office,candidate,votes
 19-Ranchos IV,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",171
 19-Ranchos IV,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",204
 19-Ranchos IV,Justice of the Peace East Fork Township,"PERKINS, TOM",398
-19-Ranchos IV,President and Vice President of the United States,"GOODE, VIRGIL",2
-19-Ranchos IV,President and Vice President of the United States,"JOHNSON, GARY",7
-19-Ranchos IV,President and Vice President of the United States,None Of These Candidates,4
-19-Ranchos IV,President and Vice President of the United States,"Obama, Barack",297
-19-Ranchos IV,President and Vice President of the United States,"Romney, Mitt",450
+19-Ranchos IV,President,"GOODE, VIRGIL",2
+19-Ranchos IV,President,"JOHNSON, GARY",7
+19-Ranchos IV,President,None Of These Candidates,4
+19-Ranchos IV,President,"Obama, Barack",297
+19-Ranchos IV,President,"Romney, Mitt",450
 19-Ranchos IV,School Board Trustee Area 1,"CHESSELL, KAREN",348
 19-Ranchos IV,School Board Trustee Area 1,"SANTI, RON",234
 19-Ranchos IV,School Board Trustee Area 4,"FREITAS, NEAL",319
@@ -883,10 +883,10 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2","Best, Russell",11
 19-Ranchos IV,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",32
 19-Ranchos IV,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",227
-19-Ranchos IV,United States Senator,"Berkley, Shelley",205
-19-Ranchos IV,United States Senator,"Heller, Dean",480
-19-Ranchos IV,United States Senator,None Of These Candidates,27
-19-Ranchos IV,United States Senator,"VANDERBEEK, DAVID LORY",40
+19-Ranchos IV,U.S. Senate,"Berkley, Shelley",205
+19-Ranchos IV,U.S. Senate,"Heller, Dean",480
+19-Ranchos IV,U.S. Senate,None Of These Candidates,27
+19-Ranchos IV,U.S. Senate,"VANDERBEEK, DAVID LORY",40
 19-Ranchos IV,"University Board of Regents, District  9","Knecht, Ron",373
 19-Ranchos IV,"University Board of Regents, District  9","Mackedon, Michon",202
 20-Birch/Ranchos,County Commissioner District 1,"LYNN, GREG",616
@@ -903,11 +903,11 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",208
 20-Birch/Ranchos,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",204
 20-Birch/Ranchos,Justice of the Peace East Fork Township,"PERKINS, TOM",454
-20-Birch/Ranchos,President and Vice President of the United States,"GOODE, VIRGIL",2
-20-Birch/Ranchos,President and Vice President of the United States,"JOHNSON, GARY",6
-20-Birch/Ranchos,President and Vice President of the United States,None Of These Candidates,8
-20-Birch/Ranchos,President and Vice President of the United States,"Obama, Barack",355
-20-Birch/Ranchos,President and Vice President of the United States,"Romney, Mitt",452
+20-Birch/Ranchos,President,"GOODE, VIRGIL",2
+20-Birch/Ranchos,President,"JOHNSON, GARY",6
+20-Birch/Ranchos,President,None Of These Candidates,8
+20-Birch/Ranchos,President,"Obama, Barack",355
+20-Birch/Ranchos,President,"Romney, Mitt",452
 20-Birch/Ranchos,School Board Trustee Area 1,"CHESSELL, KAREN",359
 20-Birch/Ranchos,School Board Trustee Area 1,"SANTI, RON",257
 20-Birch/Ranchos,School Board Trustee Area 4,"FREITAS, NEAL",340
@@ -928,10 +928,10 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","Best, Russell",10
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",23
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",260
-20-Birch/Ranchos,United States Senator,"Berkley, Shelley",263
-20-Birch/Ranchos,United States Senator,"Heller, Dean",464
-20-Birch/Ranchos,United States Senator,None Of These Candidates,41
-20-Birch/Ranchos,United States Senator,"VANDERBEEK, DAVID LORY",49
+20-Birch/Ranchos,U.S. Senate,"Berkley, Shelley",263
+20-Birch/Ranchos,U.S. Senate,"Heller, Dean",464
+20-Birch/Ranchos,U.S. Senate,None Of These Candidates,41
+20-Birch/Ranchos,U.S. Senate,"VANDERBEEK, DAVID LORY",49
 20-Birch/Ranchos,"University Board of Regents, District  9","Knecht, Ron",368
 20-Birch/Ranchos,"University Board of Regents, District  9","Mackedon, Michon",244
 21-Wildhorse,County Commissioner District 1,"LYNN, GREG",716
@@ -948,11 +948,11 @@ precinct,office,candidate,votes
 21-Wildhorse,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",221
 21-Wildhorse,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",332
 21-Wildhorse,Justice of the Peace East Fork Township,"PERKINS, TOM",472
-21-Wildhorse,President and Vice President of the United States,"GOODE, VIRGIL",3
-21-Wildhorse,President and Vice President of the United States,"JOHNSON, GARY",8
-21-Wildhorse,President and Vice President of the United States,None Of These Candidates,5
-21-Wildhorse,President and Vice President of the United States,"Obama, Barack",287
-21-Wildhorse,President and Vice President of the United States,"Romney, Mitt",641
+21-Wildhorse,President,"GOODE, VIRGIL",3
+21-Wildhorse,President,"JOHNSON, GARY",8
+21-Wildhorse,President,None Of These Candidates,5
+21-Wildhorse,President,"Obama, Barack",287
+21-Wildhorse,President,"Romney, Mitt",641
 21-Wildhorse,School Board Trustee Area 1,"CHESSELL, KAREN",427
 21-Wildhorse,School Board Trustee Area 1,"SANTI, RON",289
 21-Wildhorse,School Board Trustee Area 4,"FREITAS, NEAL",369
@@ -973,10 +973,10 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2","Best, Russell",15
 21-Wildhorse,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",17
 21-Wildhorse,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",215
-21-Wildhorse,United States Senator,"Berkley, Shelley",228
-21-Wildhorse,United States Senator,"Heller, Dean",650
-21-Wildhorse,United States Senator,None Of These Candidates,35
-21-Wildhorse,United States Senator,"VANDERBEEK, DAVID LORY",26
+21-Wildhorse,U.S. Senate,"Berkley, Shelley",228
+21-Wildhorse,U.S. Senate,"Heller, Dean",650
+21-Wildhorse,U.S. Senate,None Of These Candidates,35
+21-Wildhorse,U.S. Senate,"VANDERBEEK, DAVID LORY",26
 21-Wildhorse,"University Board of Regents, District  9","Knecht, Ron",466
 21-Wildhorse,"University Board of Regents, District  9","Mackedon, Michon",261
 22-Saratoga,County Commissioner District 1,"LYNN, GREG",793
@@ -993,11 +993,11 @@ precinct,office,candidate,votes
 22-Saratoga,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",324
 22-Saratoga,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",392
 22-Saratoga,Justice of the Peace East Fork Township,"PERKINS, TOM",478
-22-Saratoga,President and Vice President of the United States,"GOODE, VIRGIL",3
-22-Saratoga,President and Vice President of the United States,"JOHNSON, GARY",10
-22-Saratoga,President and Vice President of the United States,None Of These Candidates,2
-22-Saratoga,President and Vice President of the United States,"Obama, Barack",334
-22-Saratoga,President and Vice President of the United States,"Romney, Mitt",694
+22-Saratoga,President,"GOODE, VIRGIL",3
+22-Saratoga,President,"JOHNSON, GARY",10
+22-Saratoga,President,None Of These Candidates,2
+22-Saratoga,President,"Obama, Barack",334
+22-Saratoga,President,"Romney, Mitt",694
 22-Saratoga,School Board Trustee Area 1,"CHESSELL, KAREN",435
 22-Saratoga,School Board Trustee Area 1,"SANTI, RON",357
 22-Saratoga,School Board Trustee Area 4,"FREITAS, NEAL",398
@@ -1018,10 +1018,10 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2","Best, Russell",18
 22-Saratoga,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",23
 22-Saratoga,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",262
-22-Saratoga,United States Senator,"Berkley, Shelley",260
-22-Saratoga,United States Senator,"Heller, Dean",719
-22-Saratoga,United States Senator,None Of These Candidates,28
-22-Saratoga,United States Senator,"VANDERBEEK, DAVID LORY",29
+22-Saratoga,U.S. Senate,"Berkley, Shelley",260
+22-Saratoga,U.S. Senate,"Heller, Dean",719
+22-Saratoga,U.S. Senate,None Of These Candidates,28
+22-Saratoga,U.S. Senate,"VANDERBEEK, DAVID LORY",29
 22-Saratoga,"University Board of Regents, District  9","Knecht, Ron",539
 22-Saratoga,"University Board of Regents, District  9","Mackedon, Michon",267
 23-Indian Hills - East,County Commissioner District 1,"LYNN, GREG",477
@@ -1042,11 +1042,11 @@ precinct,office,candidate,votes
 23-Indian Hills - East,Indian Hills G I D - 2 Seats,"WEAVER, JIMMY R.",165
 23-Indian Hills - East,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",203
 23-Indian Hills - East,Justice of the Peace East Fork Township,"PERKINS, TOM",331
-23-Indian Hills - East,President and Vice President of the United States,"GOODE, VIRGIL",4
-23-Indian Hills - East,President and Vice President of the United States,"JOHNSON, GARY",7
-23-Indian Hills - East,President and Vice President of the United States,None Of These Candidates,5
-23-Indian Hills - East,President and Vice President of the United States,"Obama, Barack",251
-23-Indian Hills - East,President and Vice President of the United States,"Romney, Mitt",398
+23-Indian Hills - East,President,"GOODE, VIRGIL",4
+23-Indian Hills - East,President,"JOHNSON, GARY",7
+23-Indian Hills - East,President,None Of These Candidates,5
+23-Indian Hills - East,President,"Obama, Barack",251
+23-Indian Hills - East,President,"Romney, Mitt",398
 23-Indian Hills - East,School Board Trustee Area 1,"CHESSELL, KAREN",281
 23-Indian Hills - East,School Board Trustee Area 1,"SANTI, RON",202
 23-Indian Hills - East,School Board Trustee Area 4,"FREITAS, NEAL",239
@@ -1067,10 +1067,10 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","Best, Russell",12
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",192
-23-Indian Hills - East,United States Senator,"Berkley, Shelley",189
-23-Indian Hills - East,United States Senator,"Heller, Dean",405
-23-Indian Hills - East,United States Senator,None Of These Candidates,28
-23-Indian Hills - East,United States Senator,"VANDERBEEK, DAVID LORY",30
+23-Indian Hills - East,U.S. Senate,"Berkley, Shelley",189
+23-Indian Hills - East,U.S. Senate,"Heller, Dean",405
+23-Indian Hills - East,U.S. Senate,None Of These Candidates,28
+23-Indian Hills - East,U.S. Senate,"VANDERBEEK, DAVID LORY",30
 23-Indian Hills - East,"University Board of Regents, District  9","Knecht, Ron",342
 23-Indian Hills - East,"University Board of Regents, District  9","Mackedon, Michon",175
 24-Topaz Lake,County Commissioner District 1,"LYNN, GREG",281
@@ -1087,11 +1087,11 @@ precinct,office,candidate,votes
 24-Topaz Lake,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",97
 24-Topaz Lake,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",101
 24-Topaz Lake,Justice of the Peace East Fork Township,"PERKINS, TOM",186
-24-Topaz Lake,President and Vice President of the United States,"GOODE, VIRGIL",1
-24-Topaz Lake,President and Vice President of the United States,"JOHNSON, GARY",7
-24-Topaz Lake,President and Vice President of the United States,None Of These Candidates,2
-24-Topaz Lake,President and Vice President of the United States,"Obama, Barack",95
-24-Topaz Lake,President and Vice President of the United States,"Romney, Mitt",256
+24-Topaz Lake,President,"GOODE, VIRGIL",1
+24-Topaz Lake,President,"JOHNSON, GARY",7
+24-Topaz Lake,President,None Of These Candidates,2
+24-Topaz Lake,President,"Obama, Barack",95
+24-Topaz Lake,President,"Romney, Mitt",256
 24-Topaz Lake,School Board Trustee Area 1,"CHESSELL, KAREN",133
 24-Topaz Lake,School Board Trustee Area 1,"SANTI, RON",121
 24-Topaz Lake,School Board Trustee Area 4,"FREITAS, NEAL",126
@@ -1112,10 +1112,10 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2","Best, Russell",7
 24-Topaz Lake,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",13
 24-Topaz Lake,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",75
-24-Topaz Lake,United States Senator,"Berkley, Shelley",74
-24-Topaz Lake,United States Senator,"Heller, Dean",257
-24-Topaz Lake,United States Senator,None Of These Candidates,11
-24-Topaz Lake,United States Senator,"VANDERBEEK, DAVID LORY",16
+24-Topaz Lake,U.S. Senate,"Berkley, Shelley",74
+24-Topaz Lake,U.S. Senate,"Heller, Dean",257
+24-Topaz Lake,U.S. Senate,None Of These Candidates,11
+24-Topaz Lake,U.S. Senate,"VANDERBEEK, DAVID LORY",16
 24-Topaz Lake,"University Board of Regents, District  9","Knecht, Ron",180
 24-Topaz Lake,"University Board of Regents, District  9","Mackedon, Michon",92
 25-Pleasantview,County Commissioner District 1,"LYNN, GREG",878
@@ -1132,11 +1132,11 @@ precinct,office,candidate,votes
 25-Pleasantview,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",297
 25-Pleasantview,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",245
 25-Pleasantview,Justice of the Peace East Fork Township,"PERKINS, TOM",686
-25-Pleasantview,President and Vice President of the United States,"GOODE, VIRGIL",0
-25-Pleasantview,President and Vice President of the United States,"JOHNSON, GARY",8
-25-Pleasantview,President and Vice President of the United States,None Of These Candidates,7
-25-Pleasantview,President and Vice President of the United States,"Obama, Barack",391
-25-Pleasantview,President and Vice President of the United States,"Romney, Mitt",716
+25-Pleasantview,President,"GOODE, VIRGIL",0
+25-Pleasantview,President,"JOHNSON, GARY",8
+25-Pleasantview,President,None Of These Candidates,7
+25-Pleasantview,President,"Obama, Barack",391
+25-Pleasantview,President,"Romney, Mitt",716
 25-Pleasantview,School Board Trustee Area 1,"CHESSELL, KAREN",489
 25-Pleasantview,School Board Trustee Area 1,"SANTI, RON",342
 25-Pleasantview,School Board Trustee Area 4,"FREITAS, NEAL",463
@@ -1157,10 +1157,10 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2","Best, Russell",7
 25-Pleasantview,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",33
 25-Pleasantview,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",282
-25-Pleasantview,United States Senator,"Berkley, Shelley",293
-25-Pleasantview,United States Senator,"Heller, Dean",736
-25-Pleasantview,United States Senator,None Of These Candidates,43
-25-Pleasantview,United States Senator,"VANDERBEEK, DAVID LORY",39
+25-Pleasantview,U.S. Senate,"Berkley, Shelley",293
+25-Pleasantview,U.S. Senate,"Heller, Dean",736
+25-Pleasantview,U.S. Senate,None Of These Candidates,43
+25-Pleasantview,U.S. Senate,"VANDERBEEK, DAVID LORY",39
 25-Pleasantview,"University Board of Regents, District  9","Knecht, Ron",545
 25-Pleasantview,"University Board of Regents, District  9","Mackedon, Michon",301
 26-Westwood,County Commissioner District 1,"LYNN, GREG",385
@@ -1180,11 +1180,11 @@ precinct,office,candidate,votes
 26-Westwood,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",271
 26-Westwood,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",204
 26-Westwood,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",187
-26-Westwood,President and Vice President of the United States,"GOODE, VIRGIL",3
-26-Westwood,President and Vice President of the United States,"JOHNSON, GARY",4
-26-Westwood,President and Vice President of the United States,None Of These Candidates,1
-26-Westwood,President and Vice President of the United States,"Obama, Barack",161
-26-Westwood,President and Vice President of the United States,"Romney, Mitt",341
+26-Westwood,President,"GOODE, VIRGIL",3
+26-Westwood,President,"JOHNSON, GARY",4
+26-Westwood,President,None Of These Candidates,1
+26-Westwood,President,"Obama, Barack",161
+26-Westwood,President,"Romney, Mitt",341
 26-Westwood,School Board Trustee Area 1,"CHESSELL, KAREN",231
 26-Westwood,School Board Trustee Area 1,"SANTI, RON",152
 26-Westwood,School Board Trustee Area 4,"FREITAS, NEAL",232
@@ -1208,10 +1208,10 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2","Best, Russell",4
 26-Westwood,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",19
 26-Westwood,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",121
-26-Westwood,United States Senator,"Berkley, Shelley",129
-26-Westwood,United States Senator,"Heller, Dean",343
-26-Westwood,United States Senator,None Of These Candidates,13
-26-Westwood,United States Senator,"VANDERBEEK, DAVID LORY",17
+26-Westwood,U.S. Senate,"Berkley, Shelley",129
+26-Westwood,U.S. Senate,"Heller, Dean",343
+26-Westwood,U.S. Senate,None Of These Candidates,13
+26-Westwood,U.S. Senate,"VANDERBEEK, DAVID LORY",17
 26-Westwood,"University Board of Regents, District  9","Knecht, Ron",247
 26-Westwood,"University Board of Regents, District  9","Mackedon, Michon",142
 27-Winhaven,County Commissioner District 1,"LYNN, GREG",499
@@ -1231,11 +1231,11 @@ precinct,office,candidate,votes
 27-Winhaven,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",349
 27-Winhaven,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",277
 27-Winhaven,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",245
-27-Winhaven,President and Vice President of the United States,"GOODE, VIRGIL",0
-27-Winhaven,President and Vice President of the United States,"JOHNSON, GARY",7
-27-Winhaven,President and Vice President of the United States,None Of These Candidates,4
-27-Winhaven,President and Vice President of the United States,"Obama, Barack",216
-27-Winhaven,President and Vice President of the United States,"Romney, Mitt",441
+27-Winhaven,President,"GOODE, VIRGIL",0
+27-Winhaven,President,"JOHNSON, GARY",7
+27-Winhaven,President,None Of These Candidates,4
+27-Winhaven,President,"Obama, Barack",216
+27-Winhaven,President,"Romney, Mitt",441
 27-Winhaven,School Board Trustee Area 1,"CHESSELL, KAREN",291
 27-Winhaven,School Board Trustee Area 1,"SANTI, RON",184
 27-Winhaven,School Board Trustee Area 4,"FREITAS, NEAL",229
@@ -1259,10 +1259,10 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2","Best, Russell",5
 27-Winhaven,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
 27-Winhaven,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",159
-27-Winhaven,United States Senator,"Berkley, Shelley",169
-27-Winhaven,United States Senator,"Heller, Dean",444
-27-Winhaven,United States Senator,None Of These Candidates,30
-27-Winhaven,United States Senator,"VANDERBEEK, DAVID LORY",21
+27-Winhaven,U.S. Senate,"Berkley, Shelley",169
+27-Winhaven,U.S. Senate,"Heller, Dean",444
+27-Winhaven,U.S. Senate,None Of These Candidates,30
+27-Winhaven,U.S. Senate,"VANDERBEEK, DAVID LORY",21
 27-Winhaven,"University Board of Regents, District  9","Knecht, Ron",289
 27-Winhaven,"University Board of Regents, District  9","Mackedon, Michon",183
 28-Orchard Road,County Commissioner District 1,"LYNN, GREG",251
@@ -1282,11 +1282,11 @@ precinct,office,candidate,votes
 28-Orchard Road,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",6
 28-Orchard Road,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",11
 28-Orchard Road,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",9
-28-Orchard Road,President and Vice President of the United States,"GOODE, VIRGIL",3
-28-Orchard Road,President and Vice President of the United States,"JOHNSON, GARY",4
-28-Orchard Road,President and Vice President of the United States,None Of These Candidates,0
-28-Orchard Road,President and Vice President of the United States,"Obama, Barack",71
-28-Orchard Road,President and Vice President of the United States,"Romney, Mitt",252
+28-Orchard Road,President,"GOODE, VIRGIL",3
+28-Orchard Road,President,"JOHNSON, GARY",4
+28-Orchard Road,President,None Of These Candidates,0
+28-Orchard Road,President,"Obama, Barack",71
+28-Orchard Road,President,"Romney, Mitt",252
 28-Orchard Road,School Board Trustee Area 1,"CHESSELL, KAREN",130
 28-Orchard Road,School Board Trustee Area 1,"SANTI, RON",104
 28-Orchard Road,School Board Trustee Area 4,"FREITAS, NEAL",123
@@ -1310,10 +1310,10 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2","Best, Russell",5
 28-Orchard Road,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",7
 28-Orchard Road,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",45
-28-Orchard Road,United States Senator,"Berkley, Shelley",52
-28-Orchard Road,United States Senator,"Heller, Dean",253
-28-Orchard Road,United States Senator,None Of These Candidates,14
-28-Orchard Road,United States Senator,"VANDERBEEK, DAVID LORY",9
+28-Orchard Road,U.S. Senate,"Berkley, Shelley",52
+28-Orchard Road,U.S. Senate,"Heller, Dean",253
+28-Orchard Road,U.S. Senate,None Of These Candidates,14
+28-Orchard Road,U.S. Senate,"VANDERBEEK, DAVID LORY",9
 28-Orchard Road,"University Board of Regents, District  9","Knecht, Ron",155
 28-Orchard Road,"University Board of Regents, District  9","Mackedon, Michon",89
 29-Autumn Hils,County Commissioner District 1,"LYNN, GREG",402
@@ -1330,11 +1330,11 @@ precinct,office,candidate,votes
 29-Autumn Hils,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",187
 29-Autumn Hils,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",124
 29-Autumn Hils,Justice of the Peace East Fork Township,"PERKINS, TOM",321
-29-Autumn Hils,President and Vice President of the United States,"GOODE, VIRGIL",2
-29-Autumn Hils,President and Vice President of the United States,"JOHNSON, GARY",1
-29-Autumn Hils,President and Vice President of the United States,None Of These Candidates,1
-29-Autumn Hils,President and Vice President of the United States,"Obama, Barack",159
-29-Autumn Hils,President and Vice President of the United States,"Romney, Mitt",409
+29-Autumn Hils,President,"GOODE, VIRGIL",2
+29-Autumn Hils,President,"JOHNSON, GARY",1
+29-Autumn Hils,President,None Of These Candidates,1
+29-Autumn Hils,President,"Obama, Barack",159
+29-Autumn Hils,President,"Romney, Mitt",409
 29-Autumn Hils,School Board Trustee Area 1,"CHESSELL, KAREN",209
 29-Autumn Hils,School Board Trustee Area 1,"SANTI, RON",170
 29-Autumn Hils,School Board Trustee Area 4,"FREITAS, NEAL",184
@@ -1355,10 +1355,10 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2","Best, Russell",3
 29-Autumn Hils,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",6
 29-Autumn Hils,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",126
-29-Autumn Hils,United States Senator,"Berkley, Shelley",128
-29-Autumn Hils,United States Senator,"Heller, Dean",419
-29-Autumn Hils,United States Senator,None Of These Candidates,13
-29-Autumn Hils,United States Senator,"VANDERBEEK, DAVID LORY",7
+29-Autumn Hils,U.S. Senate,"Berkley, Shelley",128
+29-Autumn Hils,U.S. Senate,"Heller, Dean",419
+29-Autumn Hils,U.S. Senate,None Of These Candidates,13
+29-Autumn Hils,U.S. Senate,"VANDERBEEK, DAVID LORY",7
 29-Autumn Hils,"University Board of Regents, District  9","Knecht, Ron",263
 29-Autumn Hils,"University Board of Regents, District  9","Mackedon, Michon",158
 30-East Fork,County Commissioner District 1,"LYNN, GREG",
@@ -1375,11 +1375,11 @@ precinct,office,candidate,votes
 30-East Fork,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",
 30-East Fork,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",
 30-East Fork,Justice of the Peace East Fork Township,"PERKINS, TOM",
-30-East Fork,President and Vice President of the United States,"GOODE, VIRGIL",
-30-East Fork,President and Vice President of the United States,"JOHNSON, GARY",
-30-East Fork,President and Vice President of the United States,None Of These Candidates,
-30-East Fork,President and Vice President of the United States,"Obama, Barack",
-30-East Fork,President and Vice President of the United States,"Romney, Mitt",
+30-East Fork,President,"GOODE, VIRGIL",
+30-East Fork,President,"JOHNSON, GARY",
+30-East Fork,President,None Of These Candidates,
+30-East Fork,President,"Obama, Barack",
+30-East Fork,President,"Romney, Mitt",
 30-East Fork,School Board Trustee Area 1,"CHESSELL, KAREN",
 30-East Fork,School Board Trustee Area 1,"SANTI, RON",
 30-East Fork,School Board Trustee Area 4,"FREITAS, NEAL",
@@ -1400,10 +1400,10 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2","Best, Russell",
 30-East Fork,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",
 30-East Fork,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",
-30-East Fork,United States Senator,"Berkley, Shelley",
-30-East Fork,United States Senator,"Heller, Dean",
-30-East Fork,United States Senator,None Of These Candidates,
-30-East Fork,United States Senator,"VANDERBEEK, DAVID LORY",
+30-East Fork,U.S. Senate,"Berkley, Shelley",
+30-East Fork,U.S. Senate,"Heller, Dean",
+30-East Fork,U.S. Senate,None Of These Candidates,
+30-East Fork,U.S. Senate,"VANDERBEEK, DAVID LORY",
 30-East Fork,"University Board of Regents, District  9","Knecht, Ron",
 30-East Fork,"University Board of Regents, District  9","Mackedon, Michon",
 31-Chichester,County Commissioner District 1,"LYNN, GREG",398
@@ -1423,11 +1423,11 @@ precinct,office,candidate,votes
 31-Chichester,Minden-Gardnerville Sani/Dist-2 SEATS,"ALLGEIER, BOB",203
 31-Chichester,Minden-Gardnerville Sani/Dist-2 SEATS,"SMALLWOOD, BARBARA S.",244
 31-Chichester,Minden-Gardnerville Sani/Dist-2 SEATS,"SMITH, JERRY",221
-31-Chichester,President and Vice President of the United States,"GOODE, VIRGIL",0
-31-Chichester,President and Vice President of the United States,"JOHNSON, GARY",9
-31-Chichester,President and Vice President of the United States,None Of These Candidates,4
-31-Chichester,President and Vice President of the United States,"Obama, Barack",218
-31-Chichester,President and Vice President of the United States,"Romney, Mitt",332
+31-Chichester,President,"GOODE, VIRGIL",0
+31-Chichester,President,"JOHNSON, GARY",9
+31-Chichester,President,None Of These Candidates,4
+31-Chichester,President,"Obama, Barack",218
+31-Chichester,President,"Romney, Mitt",332
 31-Chichester,School Board Trustee Area 1,"CHESSELL, KAREN",227
 31-Chichester,School Board Trustee Area 1,"SANTI, RON",160
 31-Chichester,School Board Trustee Area 4,"FREITAS, NEAL",224
@@ -1452,10 +1452,10 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2","Best, Russell",4
 31-Chichester,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
 31-Chichester,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",174
-31-Chichester,United States Senator,"Berkley, Shelley",179
-31-Chichester,United States Senator,"Heller, Dean",337
-31-Chichester,United States Senator,None Of These Candidates,24
-31-Chichester,United States Senator,"VANDERBEEK, DAVID LORY",16
+31-Chichester,U.S. Senate,"Berkley, Shelley",179
+31-Chichester,U.S. Senate,"Heller, Dean",337
+31-Chichester,U.S. Senate,None Of These Candidates,24
+31-Chichester,U.S. Senate,"VANDERBEEK, DAVID LORY",16
 31-Chichester,"University Board of Regents, District  9","Knecht, Ron",232
 31-Chichester,"University Board of Regents, District  9","Mackedon, Michon",157
 32-East Valley,County Commissioner District 1,"LYNN, GREG",323
@@ -1472,11 +1472,11 @@ precinct,office,candidate,votes
 32-East Valley,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",105
 32-East Valley,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",138
 32-East Valley,Justice of the Peace East Fork Township,"PERKINS, TOM",197
-32-East Valley,President and Vice President of the United States,"GOODE, VIRGIL",0
-32-East Valley,President and Vice President of the United States,"JOHNSON, GARY",3
-32-East Valley,President and Vice President of the United States,None Of These Candidates,1
-32-East Valley,President and Vice President of the United States,"Obama, Barack",118
-32-East Valley,President and Vice President of the United States,"Romney, Mitt",311
+32-East Valley,President,"GOODE, VIRGIL",0
+32-East Valley,President,"JOHNSON, GARY",3
+32-East Valley,President,None Of These Candidates,1
+32-East Valley,President,"Obama, Barack",118
+32-East Valley,President,"Romney, Mitt",311
 32-East Valley,School Board Trustee Area 1,"CHESSELL, KAREN",179
 32-East Valley,School Board Trustee Area 1,"SANTI, RON",132
 32-East Valley,School Board Trustee Area 4,"FREITAS, NEAL",163
@@ -1497,10 +1497,10 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2","Best, Russell",5
 32-East Valley,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",13
 32-East Valley,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",89
-32-East Valley,United States Senator,"Berkley, Shelley",92
-32-East Valley,United States Senator,"Heller, Dean",313
-32-East Valley,United States Senator,None Of These Candidates,11
-32-East Valley,United States Senator,"VANDERBEEK, DAVID LORY",12
+32-East Valley,U.S. Senate,"Berkley, Shelley",92
+32-East Valley,U.S. Senate,"Heller, Dean",313
+32-East Valley,U.S. Senate,None Of These Candidates,11
+32-East Valley,U.S. Senate,"VANDERBEEK, DAVID LORY",12
 32-East Valley,"University Board of Regents, District  9","Knecht, Ron",208
 32-East Valley,"University Board of Regents, District  9","Mackedon, Michon",104
 33-Hot Springs,County Commissioner District 1,"LYNN, GREG",336
@@ -1517,11 +1517,11 @@ precinct,office,candidate,votes
 33-Hot Springs,East Fork Swimming Pool Dist - 3 SEATS,"SCHNOCK, CARL",97
 33-Hot Springs,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",171
 33-Hot Springs,Justice of the Peace East Fork Township,"PERKINS, TOM",195
-33-Hot Springs,President and Vice President of the United States,"GOODE, VIRGIL",2
-33-Hot Springs,President and Vice President of the United States,"JOHNSON, GARY",6
-33-Hot Springs,President and Vice President of the United States,None Of These Candidates,4
-33-Hot Springs,President and Vice President of the United States,"Obama, Barack",136
-33-Hot Springs,President and Vice President of the United States,"Romney, Mitt",307
+33-Hot Springs,President,"GOODE, VIRGIL",2
+33-Hot Springs,President,"JOHNSON, GARY",6
+33-Hot Springs,President,None Of These Candidates,4
+33-Hot Springs,President,"Obama, Barack",136
+33-Hot Springs,President,"Romney, Mitt",307
 33-Hot Springs,School Board Trustee Area 1,"CHESSELL, KAREN",198
 33-Hot Springs,School Board Trustee Area 1,"SANTI, RON",139
 33-Hot Springs,School Board Trustee Area 4,"FREITAS, NEAL",168
@@ -1542,10 +1542,10 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2","Best, Russell",4
 33-Hot Springs,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",14
 33-Hot Springs,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",107
-33-Hot Springs,United States Senator,"Berkley, Shelley",108
-33-Hot Springs,United States Senator,"Heller, Dean",311
-33-Hot Springs,United States Senator,None Of These Candidates,19
-33-Hot Springs,United States Senator,"VANDERBEEK, DAVID LORY",12
+33-Hot Springs,U.S. Senate,"Berkley, Shelley",108
+33-Hot Springs,U.S. Senate,"Heller, Dean",311
+33-Hot Springs,U.S. Senate,None Of These Candidates,19
+33-Hot Springs,U.S. Senate,"VANDERBEEK, DAVID LORY",12
 33-Hot Springs,"University Board of Regents, District  9","Knecht, Ron",223
 33-Hot Springs,"University Board of Regents, District  9","Mackedon, Michon",127
 34-Sunridge,County Commissioner District 1,"LYNN, GREG",283
@@ -1566,11 +1566,11 @@ precinct,office,candidate,votes
 34-Sunridge,Indian Hills G I D - 2 Seats,"WEAVER, JIMMY R.",98
 34-Sunridge,Justice of the Peace East Fork Township,"FAZZINO, WAYNE A.",155
 34-Sunridge,Justice of the Peace East Fork Township,"PERKINS, TOM",160
-34-Sunridge,President and Vice President of the United States,"GOODE, VIRGIL",1
-34-Sunridge,President and Vice President of the United States,"JOHNSON, GARY",1
-34-Sunridge,President and Vice President of the United States,None Of These Candidates,3
-34-Sunridge,President and Vice President of the United States,"Obama, Barack",140
-34-Sunridge,President and Vice President of the United States,"Romney, Mitt",240
+34-Sunridge,President,"GOODE, VIRGIL",1
+34-Sunridge,President,"JOHNSON, GARY",1
+34-Sunridge,President,None Of These Candidates,3
+34-Sunridge,President,"Obama, Barack",140
+34-Sunridge,President,"Romney, Mitt",240
 34-Sunridge,School Board Trustee Area 1,"CHESSELL, KAREN",159
 34-Sunridge,School Board Trustee Area 1,"SANTI, RON",118
 34-Sunridge,School Board Trustee Area 4,"FREITAS, NEAL",140
@@ -1591,10 +1591,10 @@ precinct,office,candidate,votes
 34-Sunridge,"U.S. Representative in Congress, District 2","Best, Russell",2
 34-Sunridge,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",9
 34-Sunridge,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",107
-34-Sunridge,United States Senator,"Berkley, Shelley",101
-34-Sunridge,United States Senator,"Heller, Dean",246
-34-Sunridge,United States Senator,None Of These Candidates,18
-34-Sunridge,United States Senator,"VANDERBEEK, DAVID LORY",13
+34-Sunridge,U.S. Senate,"Berkley, Shelley",101
+34-Sunridge,U.S. Senate,"Heller, Dean",246
+34-Sunridge,U.S. Senate,None Of These Candidates,18
+34-Sunridge,U.S. Senate,"VANDERBEEK, DAVID LORY",13
 34-Sunridge,"University Board of Regents, District  9","Knecht, Ron",194
 34-Sunridge,"University Board of Regents, District  9","Mackedon, Michon",102
 35-Glenbrook,County Commissioner District 1,"LYNN, GREG",256
@@ -1602,11 +1602,11 @@ precinct,office,candidate,votes
 35-Glenbrook,County Commissioner District 3,"JOHNSON, DOUG N.",154
 35-Glenbrook,County Commissioner District 5,"OLSON, MICHAEL",138
 35-Glenbrook,County Commissioner District 5,"PENZEL, BARRY",106
-35-Glenbrook,President and Vice President of the United States,"GOODE, VIRGIL",1
-35-Glenbrook,President and Vice President of the United States,"JOHNSON, GARY",2
-35-Glenbrook,President and Vice President of the United States,None Of These Candidates,3
-35-Glenbrook,President and Vice President of the United States,"Obama, Barack",103
-35-Glenbrook,President and Vice President of the United States,"Romney, Mitt",246
+35-Glenbrook,President,"GOODE, VIRGIL",1
+35-Glenbrook,President,"JOHNSON, GARY",2
+35-Glenbrook,President,None Of These Candidates,3
+35-Glenbrook,President,"Obama, Barack",103
+35-Glenbrook,President,"Romney, Mitt",246
 35-Glenbrook,School Board Trustee Area 1,"CHESSELL, KAREN",118
 35-Glenbrook,School Board Trustee Area 1,"SANTI, RON",98
 35-Glenbrook,School Board Trustee Area 4,"FREITAS, NEAL",86
@@ -1637,10 +1637,10 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2","Best, Russell",2
 35-Glenbrook,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",8
 35-Glenbrook,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",82
-35-Glenbrook,United States Senator,"Berkley, Shelley",84
-35-Glenbrook,United States Senator,"Heller, Dean",245
-35-Glenbrook,United States Senator,None Of These Candidates,9
-35-Glenbrook,United States Senator,"VANDERBEEK, DAVID LORY",9
+35-Glenbrook,U.S. Senate,"Berkley, Shelley",84
+35-Glenbrook,U.S. Senate,"Heller, Dean",245
+35-Glenbrook,U.S. Senate,None Of These Candidates,9
+35-Glenbrook,U.S. Senate,"VANDERBEEK, DAVID LORY",9
 35-Glenbrook,"University Board of Regents, District  9","Knecht, Ron",157
 35-Glenbrook,"University Board of Regents, District  9","Mackedon, Michon",76
 36-Skyland,County Commissioner District 1,"LYNN, GREG",304
@@ -1648,11 +1648,11 @@ precinct,office,candidate,votes
 36-Skyland,County Commissioner District 3,"JOHNSON, DOUG N.",197
 36-Skyland,County Commissioner District 5,"OLSON, MICHAEL",173
 36-Skyland,County Commissioner District 5,"PENZEL, BARRY",129
-36-Skyland,President and Vice President of the United States,"GOODE, VIRGIL",0
-36-Skyland,President and Vice President of the United States,"JOHNSON, GARY",3
-36-Skyland,President and Vice President of the United States,None Of These Candidates,1
-36-Skyland,President and Vice President of the United States,"Obama, Barack",108
-36-Skyland,President and Vice President of the United States,"Romney, Mitt",287
+36-Skyland,President,"GOODE, VIRGIL",0
+36-Skyland,President,"JOHNSON, GARY",3
+36-Skyland,President,None Of These Candidates,1
+36-Skyland,President,"Obama, Barack",108
+36-Skyland,President,"Romney, Mitt",287
 36-Skyland,School Board Trustee Area 1,"CHESSELL, KAREN",143
 36-Skyland,School Board Trustee Area 1,"SANTI, RON",105
 36-Skyland,School Board Trustee Area 4,"FREITAS, NEAL",110
@@ -1683,10 +1683,10 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2","Best, Russell",4
 36-Skyland,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
 36-Skyland,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",78
-36-Skyland,United States Senator,"Berkley, Shelley",83
-36-Skyland,United States Senator,"Heller, Dean",285
-36-Skyland,United States Senator,None Of These Candidates,15
-36-Skyland,United States Senator,"VANDERBEEK, DAVID LORY",13
+36-Skyland,U.S. Senate,"Berkley, Shelley",83
+36-Skyland,U.S. Senate,"Heller, Dean",285
+36-Skyland,U.S. Senate,None Of These Candidates,15
+36-Skyland,U.S. Senate,"VANDERBEEK, DAVID LORY",13
 36-Skyland,"University Board of Regents, District  9","Knecht, Ron",165
 36-Skyland,"University Board of Regents, District  9","Mackedon, Michon",96
 37-Zephyr Cove,County Commissioner District 1,"LYNN, GREG",253
@@ -1697,11 +1697,11 @@ precinct,office,candidate,votes
 37-Zephyr Cove,Marla Bay G I D - 2 SEATS,"BARNARD, ANN",41
 37-Zephyr Cove,Marla Bay G I D - 2 SEATS,"BORSOS, RONALD J.",13
 37-Zephyr Cove,Marla Bay G I D - 2 SEATS,"PIKE, ROY R.",35
-37-Zephyr Cove,President and Vice President of the United States,"GOODE, VIRGIL",2
-37-Zephyr Cove,President and Vice President of the United States,"JOHNSON, GARY",5
-37-Zephyr Cove,President and Vice President of the United States,None Of These Candidates,2
-37-Zephyr Cove,President and Vice President of the United States,"Obama, Barack",161
-37-Zephyr Cove,President and Vice President of the United States,"Romney, Mitt",207
+37-Zephyr Cove,President,"GOODE, VIRGIL",2
+37-Zephyr Cove,President,"JOHNSON, GARY",5
+37-Zephyr Cove,President,None Of These Candidates,2
+37-Zephyr Cove,President,"Obama, Barack",161
+37-Zephyr Cove,President,"Romney, Mitt",207
 37-Zephyr Cove,Round Hill G I D - 2 Seats,"POOK, MICHAEL",5
 37-Zephyr Cove,Round Hill G I D - 2 Seats,"RICE, WESLEY A.",11
 37-Zephyr Cove,Round Hill G I D - 2 Seats,"SMITH, GLEN T.",11
@@ -1735,10 +1735,10 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","Best, Russell",5
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",10
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",120
-37-Zephyr Cove,United States Senator,"Berkley, Shelley",122
-37-Zephyr Cove,United States Senator,"Heller, Dean",220
-37-Zephyr Cove,United States Senator,None Of These Candidates,12
-37-Zephyr Cove,United States Senator,"VANDERBEEK, DAVID LORY",16
+37-Zephyr Cove,U.S. Senate,"Berkley, Shelley",122
+37-Zephyr Cove,U.S. Senate,"Heller, Dean",220
+37-Zephyr Cove,U.S. Senate,None Of These Candidates,12
+37-Zephyr Cove,U.S. Senate,"VANDERBEEK, DAVID LORY",16
 37-Zephyr Cove,"University Board of Regents, District  9","Knecht, Ron",135
 37-Zephyr Cove,"University Board of Regents, District  9","Mackedon, Michon",105
 38-Round Hill,County Commissioner District 1,"LYNN, GREG",327
@@ -1746,11 +1746,11 @@ precinct,office,candidate,votes
 38-Round Hill,County Commissioner District 3,"JOHNSON, DOUG N.",182
 38-Round Hill,County Commissioner District 5,"OLSON, MICHAEL",191
 38-Round Hill,County Commissioner District 5,"PENZEL, BARRY",117
-38-Round Hill,President and Vice President of the United States,"GOODE, VIRGIL",0
-38-Round Hill,President and Vice President of the United States,"JOHNSON, GARY",9
-38-Round Hill,President and Vice President of the United States,None Of These Candidates,1
-38-Round Hill,President and Vice President of the United States,"Obama, Barack",225
-38-Round Hill,President and Vice President of the United States,"Romney, Mitt",272
+38-Round Hill,President,"GOODE, VIRGIL",0
+38-Round Hill,President,"JOHNSON, GARY",9
+38-Round Hill,President,None Of These Candidates,1
+38-Round Hill,President,"Obama, Barack",225
+38-Round Hill,President,"Romney, Mitt",272
 38-Round Hill,Round Hill G I D - 2 Seats,"POOK, MICHAEL",75
 38-Round Hill,Round Hill G I D - 2 Seats,"RICE, WESLEY A.",145
 38-Round Hill,Round Hill G I D - 2 Seats,"SMITH, GLEN T.",175
@@ -1778,10 +1778,10 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2","Best, Russell",4
 38-Round Hill,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
 38-Round Hill,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",179
-38-Round Hill,United States Senator,"Berkley, Shelley",182
-38-Round Hill,United States Senator,"Heller, Dean",279
-38-Round Hill,United States Senator,None Of These Candidates,8
-38-Round Hill,United States Senator,"VANDERBEEK, DAVID LORY",30
+38-Round Hill,U.S. Senate,"Berkley, Shelley",182
+38-Round Hill,U.S. Senate,"Heller, Dean",279
+38-Round Hill,U.S. Senate,None Of These Candidates,8
+38-Round Hill,U.S. Senate,"VANDERBEEK, DAVID LORY",30
 38-Round Hill,"University Board of Regents, District  9","Knecht, Ron",190
 38-Round Hill,"University Board of Regents, District  9","Mackedon, Michon",133
 39-Edgewood,County Commissioner District 1,"LYNN, GREG",130
@@ -1789,11 +1789,11 @@ precinct,office,candidate,votes
 39-Edgewood,County Commissioner District 3,"JOHNSON, DOUG N.",73
 39-Edgewood,County Commissioner District 5,"OLSON, MICHAEL",84
 39-Edgewood,County Commissioner District 5,"PENZEL, BARRY",48
-39-Edgewood,President and Vice President of the United States,"GOODE, VIRGIL",2
-39-Edgewood,President and Vice President of the United States,"JOHNSON, GARY",4
-39-Edgewood,President and Vice President of the United States,None Of These Candidates,0
-39-Edgewood,President and Vice President of the United States,"Obama, Barack",116
-39-Edgewood,President and Vice President of the United States,"Romney, Mitt",79
+39-Edgewood,President,"GOODE, VIRGIL",2
+39-Edgewood,President,"JOHNSON, GARY",4
+39-Edgewood,President,None Of These Candidates,0
+39-Edgewood,President,"Obama, Barack",116
+39-Edgewood,President,"Romney, Mitt",79
 39-Edgewood,School Board Trustee Area 1,"CHESSELL, KAREN",97
 39-Edgewood,School Board Trustee Area 1,"SANTI, RON",46
 39-Edgewood,School Board Trustee Area 4,"FREITAS, NEAL",78
@@ -1818,10 +1818,10 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2","Best, Russell",4
 39-Edgewood,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",12
 39-Edgewood,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",100
-39-Edgewood,United States Senator,"Berkley, Shelley",85
-39-Edgewood,United States Senator,"Heller, Dean",75
-39-Edgewood,United States Senator,None Of These Candidates,16
-39-Edgewood,United States Senator,"VANDERBEEK, DAVID LORY",23
+39-Edgewood,U.S. Senate,"Berkley, Shelley",85
+39-Edgewood,U.S. Senate,"Heller, Dean",75
+39-Edgewood,U.S. Senate,None Of These Candidates,16
+39-Edgewood,U.S. Senate,"VANDERBEEK, DAVID LORY",23
 39-Edgewood,"University Board of Regents, District  9","Knecht, Ron",89
 39-Edgewood,"University Board of Regents, District  9","Mackedon, Michon",47
 40-Kingsbury,County Commissioner District 1,"LYNN, GREG",483
@@ -1834,11 +1834,11 @@ precinct,office,candidate,votes
 40-Kingsbury,Kingsbury G I D - 3 Seats,"MCDOWELL, ROBERT",296
 40-Kingsbury,Kingsbury G I D - 3 Seats,"NELSON, JODIE",232
 40-Kingsbury,Kingsbury G I D - 3 Seats,"YANISH, NATALIE",309
-40-Kingsbury,President and Vice President of the United States,"GOODE, VIRGIL",1
-40-Kingsbury,President and Vice President of the United States,"JOHNSON, GARY",14
-40-Kingsbury,President and Vice President of the United States,None Of These Candidates,6
-40-Kingsbury,President and Vice President of the United States,"Obama, Barack",328
-40-Kingsbury,President and Vice President of the United States,"Romney, Mitt",372
+40-Kingsbury,President,"GOODE, VIRGIL",1
+40-Kingsbury,President,"JOHNSON, GARY",14
+40-Kingsbury,President,None Of These Candidates,6
+40-Kingsbury,President,"Obama, Barack",328
+40-Kingsbury,President,"Romney, Mitt",372
 40-Kingsbury,School Board Trustee Area 1,"CHESSELL, KAREN",261
 40-Kingsbury,School Board Trustee Area 1,"SANTI, RON",211
 40-Kingsbury,School Board Trustee Area 4,"FREITAS, NEAL",216
@@ -1863,10 +1863,10 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2","Best, Russell",12
 40-Kingsbury,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",43
 40-Kingsbury,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",262
-40-Kingsbury,United States Senator,"Berkley, Shelley",236
-40-Kingsbury,United States Senator,"Heller, Dean",376
-40-Kingsbury,United States Senator,None Of These Candidates,33
-40-Kingsbury,United States Senator,"VANDERBEEK, DAVID LORY",63
+40-Kingsbury,U.S. Senate,"Berkley, Shelley",236
+40-Kingsbury,U.S. Senate,"Heller, Dean",376
+40-Kingsbury,U.S. Senate,None Of These Candidates,33
+40-Kingsbury,U.S. Senate,"VANDERBEEK, DAVID LORY",63
 40-Kingsbury,"University Board of Regents, District  9","Knecht, Ron",288
 40-Kingsbury,"University Board of Regents, District  9","Mackedon, Michon",189
 41-Daggett,County Commissioner District 1,"LYNN, GREG",400
@@ -1879,11 +1879,11 @@ precinct,office,candidate,votes
 41-Daggett,Kingsbury G I D - 3 Seats,"MCDOWELL, ROBERT",240
 41-Daggett,Kingsbury G I D - 3 Seats,"NELSON, JODIE",257
 41-Daggett,Kingsbury G I D - 3 Seats,"YANISH, NATALIE",341
-41-Daggett,President and Vice President of the United States,"GOODE, VIRGIL",1
-41-Daggett,President and Vice President of the United States,"JOHNSON, GARY",19
-41-Daggett,President and Vice President of the United States,None Of These Candidates,1
-41-Daggett,President and Vice President of the United States,"Obama, Barack",343
-41-Daggett,President and Vice President of the United States,"Romney, Mitt",284
+41-Daggett,President,"GOODE, VIRGIL",1
+41-Daggett,President,"JOHNSON, GARY",19
+41-Daggett,President,None Of These Candidates,1
+41-Daggett,President,"Obama, Barack",343
+41-Daggett,President,"Romney, Mitt",284
 41-Daggett,School Board Trustee Area 1,"CHESSELL, KAREN",271
 41-Daggett,School Board Trustee Area 1,"SANTI, RON",165
 41-Daggett,School Board Trustee Area 4,"FREITAS, NEAL",199
@@ -1908,27 +1908,27 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2","Best, Russell",9
 41-Daggett,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",45
 41-Daggett,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",250
-41-Daggett,United States Senator,"Berkley, Shelley",271
-41-Daggett,United States Senator,"Heller, Dean",302
-41-Daggett,United States Senator,None Of These Candidates,27
-41-Daggett,United States Senator,"VANDERBEEK, DAVID LORY",39
+41-Daggett,U.S. Senate,"Berkley, Shelley",271
+41-Daggett,U.S. Senate,"Heller, Dean",302
+41-Daggett,U.S. Senate,None Of These Candidates,27
+41-Daggett,U.S. Senate,"VANDERBEEK, DAVID LORY",39
 41-Daggett,"University Board of Regents, District  9","Knecht, Ron",250
 41-Daggett,"University Board of Regents, District  9","Mackedon, Michon",168
-Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",
-Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"Obama, Barack",
-Precinct 88,President and Vice President of the United States,"Romney, Mitt",
-Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"Obama, Barack",9
-Precinct 99,President and Vice President of the United States,"Romney, Mitt",12
+Precinct 88,President,"GOODE, VIRGIL",
+Precinct 88,President,"JOHNSON, GARY",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"Obama, Barack",
+Precinct 88,President,"Romney, Mitt",
+Precinct 99,President,"GOODE, VIRGIL",0
+Precinct 99,President,"JOHNSON, GARY",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"Obama, Barack",9
+Precinct 99,President,"Romney, Mitt",12
 Precinct 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",10
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",3
 Precinct 99,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",8
-Precinct 99,United States Senator,"Berkley, Shelley",5
-Precinct 99,United States Senator,"Heller, Dean",15
-Precinct 99,United States Senator,None Of These Candidates,1
-Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",0
+Precinct 99,U.S. Senate,"Berkley, Shelley",5
+Precinct 99,U.S. Senate,"Heller, Dean",15
+Precinct 99,U.S. Senate,None Of These Candidates,1
+Precinct 99,U.S. Senate,"VANDERBEEK, DAVID LORY",0

@@ -60,12 +60,12 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 01-Centerville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",57
 01-Centerville,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-01-Centerville,United States Senator (Democratic),"Carter, Jack",34
-01-Centerville,United States Senator (Democratic),None Of These Candidates,8
-01-Centerville,United States Senator (Democratic),"Tun, Ruby jee",1
-01-Centerville,United States Senator (Republican),"Ensign, John",138
-01-Centerville,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",11
-01-Centerville,United States Senator (Republican),None Of These Candidates,8
+01-Centerville,U.S. Senate (Democratic),"Carter, Jack",34
+01-Centerville,U.S. Senate (Democratic),None Of These Candidates,8
+01-Centerville,U.S. Senate (Democratic),"Tun, Ruby jee",1
+01-Centerville,U.S. Senate (Republican),"Ensign, John",138
+01-Centerville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
+01-Centerville,U.S. Senate (Republican),None Of These Candidates,8
 01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",80
 01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",51
 01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",14
@@ -134,12 +134,12 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",80
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-02-Fish Springs,United States Senator (Democratic),"Carter, Jack",78
-02-Fish Springs,United States Senator (Democratic),None Of These Candidates,8
-02-Fish Springs,United States Senator (Democratic),"Tun, Ruby jee",16
-02-Fish Springs,United States Senator (Republican),"Ensign, John",211
-02-Fish Springs,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",17
-02-Fish Springs,United States Senator (Republican),None Of These Candidates,10
+02-Fish Springs,U.S. Senate (Democratic),"Carter, Jack",78
+02-Fish Springs,U.S. Senate (Democratic),None Of These Candidates,8
+02-Fish Springs,U.S. Senate (Democratic),"Tun, Ruby jee",16
+02-Fish Springs,U.S. Senate (Republican),"Ensign, John",211
+02-Fish Springs,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",17
+02-Fish Springs,U.S. Senate (Republican),None Of These Candidates,10
 02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",97
 02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",117
 02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",35
@@ -208,12 +208,12 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",115
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-03-Gardnerville,United States Senator (Democratic),"Carter, Jack",96
-03-Gardnerville,United States Senator (Democratic),None Of These Candidates,16
-03-Gardnerville,United States Senator (Democratic),"Tun, Ruby jee",7
-03-Gardnerville,United States Senator (Republican),"Ensign, John",246
-03-Gardnerville,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",12
-03-Gardnerville,United States Senator (Republican),None Of These Candidates,15
+03-Gardnerville,U.S. Senate (Democratic),"Carter, Jack",96
+03-Gardnerville,U.S. Senate (Democratic),None Of These Candidates,16
+03-Gardnerville,U.S. Senate (Democratic),"Tun, Ruby jee",7
+03-Gardnerville,U.S. Senate (Republican),"Ensign, John",246
+03-Gardnerville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",12
+03-Gardnerville,U.S. Senate (Republican),None Of These Candidates,15
 03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",120
 03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",117
 03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",35
@@ -282,12 +282,12 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",58
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-04-Carson Valley Estates,United States Senator (Democratic),"Carter, Jack",57
-04-Carson Valley Estates,United States Senator (Democratic),None Of These Candidates,7
-04-Carson Valley Estates,United States Senator (Democratic),"Tun, Ruby jee",7
-04-Carson Valley Estates,United States Senator (Republican),"Ensign, John",133
-04-Carson Valley Estates,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-04-Carson Valley Estates,United States Senator (Republican),None Of These Candidates,5
+04-Carson Valley Estates,U.S. Senate (Democratic),"Carter, Jack",57
+04-Carson Valley Estates,U.S. Senate (Democratic),None Of These Candidates,7
+04-Carson Valley Estates,U.S. Senate (Democratic),"Tun, Ruby jee",7
+04-Carson Valley Estates,U.S. Senate (Republican),"Ensign, John",133
+04-Carson Valley Estates,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+04-Carson Valley Estates,U.S. Senate (Republican),None Of These Candidates,5
 04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",57
 04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",79
 04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",20
@@ -353,12 +353,12 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 05-Genoa,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",115
 05-Genoa,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-05-Genoa,United States Senator (Democratic),"Carter, Jack",42
-05-Genoa,United States Senator (Democratic),None Of These Candidates,2
-05-Genoa,United States Senator (Democratic),"Tun, Ruby jee",5
-05-Genoa,United States Senator (Republican),"Ensign, John",240
-05-Genoa,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",15
-05-Genoa,United States Senator (Republican),None Of These Candidates,2
+05-Genoa,U.S. Senate (Democratic),"Carter, Jack",42
+05-Genoa,U.S. Senate (Democratic),None Of These Candidates,2
+05-Genoa,U.S. Senate (Democratic),"Tun, Ruby jee",5
+05-Genoa,U.S. Senate (Republican),"Ensign, John",240
+05-Genoa,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
+05-Genoa,U.S. Senate (Republican),None Of These Candidates,2
 05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",89
 05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",87
 05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",22
@@ -424,12 +424,12 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",83
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-06-Jacks Valley,United States Senator (Democratic),"Carter, Jack",89
-06-Jacks Valley,United States Senator (Democratic),None Of These Candidates,9
-06-Jacks Valley,United States Senator (Democratic),"Tun, Ruby jee",12
-06-Jacks Valley,United States Senator (Republican),"Ensign, John",187
-06-Jacks Valley,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",13
-06-Jacks Valley,United States Senator (Republican),None Of These Candidates,11
+06-Jacks Valley,U.S. Senate (Democratic),"Carter, Jack",89
+06-Jacks Valley,U.S. Senate (Democratic),None Of These Candidates,9
+06-Jacks Valley,U.S. Senate (Democratic),"Tun, Ruby jee",12
+06-Jacks Valley,U.S. Senate (Republican),"Ensign, John",187
+06-Jacks Valley,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
+06-Jacks Valley,U.S. Senate (Republican),None Of These Candidates,11
 06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",83
 06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",120
 06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",29
@@ -498,12 +498,12 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 07-Minden,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",130
 07-Minden,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-07-Minden,United States Senator (Democratic),"Carter, Jack",59
-07-Minden,United States Senator (Democratic),None Of These Candidates,10
-07-Minden,United States Senator (Democratic),"Tun, Ruby jee",7
-07-Minden,United States Senator (Republican),"Ensign, John",220
-07-Minden,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-07-Minden,United States Senator (Republican),None Of These Candidates,16
+07-Minden,U.S. Senate (Democratic),"Carter, Jack",59
+07-Minden,U.S. Senate (Democratic),None Of These Candidates,10
+07-Minden,U.S. Senate (Democratic),"Tun, Ruby jee",7
+07-Minden,U.S. Senate (Republican),"Ensign, John",220
+07-Minden,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+07-Minden,U.S. Senate (Republican),None Of These Candidates,16
 07-Minden,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",116
 07-Minden,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",98
 07-Minden,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",29
@@ -569,12 +569,12 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",50
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-08-Ranchos I,United States Senator (Democratic),"Carter, Jack",47
-08-Ranchos I,United States Senator (Democratic),None Of These Candidates,12
-08-Ranchos I,United States Senator (Democratic),"Tun, Ruby jee",4
-08-Ranchos I,United States Senator (Republican),"Ensign, John",142
-08-Ranchos I,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-08-Ranchos I,United States Senator (Republican),None Of These Candidates,2
+08-Ranchos I,U.S. Senate (Democratic),"Carter, Jack",47
+08-Ranchos I,U.S. Senate (Democratic),None Of These Candidates,12
+08-Ranchos I,U.S. Senate (Democratic),"Tun, Ruby jee",4
+08-Ranchos I,U.S. Senate (Republican),"Ensign, John",142
+08-Ranchos I,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+08-Ranchos I,U.S. Senate (Republican),None Of These Candidates,2
 08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
 08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",85
 08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",25
@@ -640,12 +640,12 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",5
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",56
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-09-Ranchos II,United States Senator (Democratic),"Carter, Jack",45
-09-Ranchos II,United States Senator (Democratic),None Of These Candidates,3
-09-Ranchos II,United States Senator (Democratic),"Tun, Ruby jee",5
-09-Ranchos II,United States Senator (Republican),"Ensign, John",141
-09-Ranchos II,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-09-Ranchos II,United States Senator (Republican),None Of These Candidates,6
+09-Ranchos II,U.S. Senate (Democratic),"Carter, Jack",45
+09-Ranchos II,U.S. Senate (Democratic),None Of These Candidates,3
+09-Ranchos II,U.S. Senate (Democratic),"Tun, Ruby jee",5
+09-Ranchos II,U.S. Senate (Republican),"Ensign, John",141
+09-Ranchos II,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+09-Ranchos II,U.S. Senate (Republican),None Of These Candidates,6
 09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",41
 09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",65
 09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",30
@@ -711,12 +711,12 @@ precinct,office,candidate,votes
 10-Topaz Ranch Estates,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 10-Topaz Ranch Estates,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
 10-Topaz Ranch Estates,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",13
-10-Topaz Ranch Estates,United States Senator (Democratic),"Carter, Jack",86
-10-Topaz Ranch Estates,United States Senator (Democratic),None Of These Candidates,18
-10-Topaz Ranch Estates,United States Senator (Democratic),"Tun, Ruby jee",11
-10-Topaz Ranch Estates,United States Senator (Republican),"Ensign, John",203
-10-Topaz Ranch Estates,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-10-Topaz Ranch Estates,United States Senator (Republican),None Of These Candidates,19
+10-Topaz Ranch Estates,U.S. Senate (Democratic),"Carter, Jack",86
+10-Topaz Ranch Estates,U.S. Senate (Democratic),None Of These Candidates,18
+10-Topaz Ranch Estates,U.S. Senate (Democratic),"Tun, Ruby jee",11
+10-Topaz Ranch Estates,U.S. Senate (Republican),"Ensign, John",203
+10-Topaz Ranch Estates,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+10-Topaz Ranch Estates,U.S. Senate (Republican),None Of These Candidates,19
 10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",101
 10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",92
 10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",52
@@ -782,12 +782,12 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",87
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-11-Johnson Lane,United States Senator (Democratic),"Carter, Jack",89
-11-Johnson Lane,United States Senator (Democratic),None Of These Candidates,12
-11-Johnson Lane,United States Senator (Democratic),"Tun, Ruby jee",10
-11-Johnson Lane,United States Senator (Republican),"Ensign, John",198
-11-Johnson Lane,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-11-Johnson Lane,United States Senator (Republican),None Of These Candidates,13
+11-Johnson Lane,U.S. Senate (Democratic),"Carter, Jack",89
+11-Johnson Lane,U.S. Senate (Democratic),None Of These Candidates,12
+11-Johnson Lane,U.S. Senate (Democratic),"Tun, Ruby jee",10
+11-Johnson Lane,U.S. Senate (Republican),"Ensign, John",198
+11-Johnson Lane,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+11-Johnson Lane,U.S. Senate (Republican),None Of These Candidates,13
 11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",55
 11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",154
 11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",38
@@ -853,12 +853,12 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",
-12-Dresslerville,United States Senator (Democratic),"Carter, Jack",
-12-Dresslerville,United States Senator (Democratic),None Of These Candidates,
-12-Dresslerville,United States Senator (Democratic),"Tun, Ruby jee",
-12-Dresslerville,United States Senator (Republican),"Ensign, John",
-12-Dresslerville,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",
-12-Dresslerville,United States Senator (Republican),None Of These Candidates,
+12-Dresslerville,U.S. Senate (Democratic),"Carter, Jack",
+12-Dresslerville,U.S. Senate (Democratic),None Of These Candidates,
+12-Dresslerville,U.S. Senate (Democratic),"Tun, Ruby jee",
+12-Dresslerville,U.S. Senate (Republican),"Ensign, John",
+12-Dresslerville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",
+12-Dresslerville,U.S. Senate (Republican),None Of These Candidates,
 12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",
 12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
 12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",
@@ -924,12 +924,12 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",72
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-13-Indian Hills - West,United States Senator (Democratic),"Carter, Jack",85
-13-Indian Hills - West,United States Senator (Democratic),None Of These Candidates,9
-13-Indian Hills - West,United States Senator (Democratic),"Tun, Ruby jee",8
-13-Indian Hills - West,United States Senator (Republican),"Ensign, John",150
-13-Indian Hills - West,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",13
-13-Indian Hills - West,United States Senator (Republican),None Of These Candidates,6
+13-Indian Hills - West,U.S. Senate (Democratic),"Carter, Jack",85
+13-Indian Hills - West,U.S. Senate (Democratic),None Of These Candidates,9
+13-Indian Hills - West,U.S. Senate (Democratic),"Tun, Ruby jee",8
+13-Indian Hills - West,U.S. Senate (Republican),"Ensign, John",150
+13-Indian Hills - West,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
+13-Indian Hills - West,U.S. Senate (Republican),None Of These Candidates,6
 13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",31
 13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",130
 13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",28
@@ -995,12 +995,12 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 14-Pinenut,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",66
 14-Pinenut,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-14-Pinenut,United States Senator (Democratic),"Carter, Jack",36
-14-Pinenut,United States Senator (Democratic),None Of These Candidates,6
-14-Pinenut,United States Senator (Democratic),"Tun, Ruby jee",7
-14-Pinenut,United States Senator (Republican),"Ensign, John",179
-14-Pinenut,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",13
-14-Pinenut,United States Senator (Republican),None Of These Candidates,11
+14-Pinenut,U.S. Senate (Democratic),"Carter, Jack",36
+14-Pinenut,U.S. Senate (Democratic),None Of These Candidates,6
+14-Pinenut,U.S. Senate (Democratic),"Tun, Ruby jee",7
+14-Pinenut,U.S. Senate (Republican),"Ensign, John",179
+14-Pinenut,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
+14-Pinenut,U.S. Senate (Republican),None Of These Candidates,11
 14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
 14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",100
 14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",16
@@ -1066,12 +1066,12 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 15-Valley,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",41
 15-Valley,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-15-Valley,United States Senator (Democratic),"Carter, Jack",22
-15-Valley,United States Senator (Democratic),None Of These Candidates,0
-15-Valley,United States Senator (Democratic),"Tun, Ruby jee",6
-15-Valley,United States Senator (Republican),"Ensign, John",98
-15-Valley,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-15-Valley,United States Senator (Republican),None Of These Candidates,3
+15-Valley,U.S. Senate (Democratic),"Carter, Jack",22
+15-Valley,U.S. Senate (Democratic),None Of These Candidates,0
+15-Valley,U.S. Senate (Democratic),"Tun, Ruby jee",6
+15-Valley,U.S. Senate (Republican),"Ensign, John",98
+15-Valley,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+15-Valley,U.S. Senate (Republican),None Of These Candidates,3
 15-Valley,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",21
 15-Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",65
 15-Valley,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
@@ -1137,12 +1137,12 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 16-Mottsville,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",89
 16-Mottsville,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-16-Mottsville,United States Senator (Democratic),"Carter, Jack",36
-16-Mottsville,United States Senator (Democratic),None Of These Candidates,8
-16-Mottsville,United States Senator (Democratic),"Tun, Ruby jee",8
-16-Mottsville,United States Senator (Republican),"Ensign, John",188
-16-Mottsville,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-16-Mottsville,United States Senator (Republican),None Of These Candidates,9
+16-Mottsville,U.S. Senate (Democratic),"Carter, Jack",36
+16-Mottsville,U.S. Senate (Democratic),None Of These Candidates,8
+16-Mottsville,U.S. Senate (Democratic),"Tun, Ruby jee",8
+16-Mottsville,U.S. Senate (Republican),"Ensign, John",188
+16-Mottsville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+16-Mottsville,U.S. Senate (Republican),None Of These Candidates,9
 16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",69
 16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",100
 16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",14
@@ -1208,12 +1208,12 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",92
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",9
-17-Ruhenstroth,United States Senator (Democratic),"Carter, Jack",86
-17-Ruhenstroth,United States Senator (Democratic),None Of These Candidates,7
-17-Ruhenstroth,United States Senator (Democratic),"Tun, Ruby jee",8
-17-Ruhenstroth,United States Senator (Republican),"Ensign, John",294
-17-Ruhenstroth,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",15
-17-Ruhenstroth,United States Senator (Republican),None Of These Candidates,24
+17-Ruhenstroth,U.S. Senate (Democratic),"Carter, Jack",86
+17-Ruhenstroth,U.S. Senate (Democratic),None Of These Candidates,7
+17-Ruhenstroth,U.S. Senate (Democratic),"Tun, Ruby jee",8
+17-Ruhenstroth,U.S. Senate (Republican),"Ensign, John",294
+17-Ruhenstroth,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
+17-Ruhenstroth,U.S. Senate (Republican),None Of These Candidates,24
 17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",127
 17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",164
 17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",38
@@ -1279,12 +1279,12 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",63
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-18-Ranchos III,United States Senator (Democratic),"Carter, Jack",74
-18-Ranchos III,United States Senator (Democratic),None Of These Candidates,14
-18-Ranchos III,United States Senator (Democratic),"Tun, Ruby jee",9
-18-Ranchos III,United States Senator (Republican),"Ensign, John",202
-18-Ranchos III,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
-18-Ranchos III,United States Senator (Republican),None Of These Candidates,13
+18-Ranchos III,U.S. Senate (Democratic),"Carter, Jack",74
+18-Ranchos III,U.S. Senate (Democratic),None Of These Candidates,14
+18-Ranchos III,U.S. Senate (Democratic),"Tun, Ruby jee",9
+18-Ranchos III,U.S. Senate (Republican),"Ensign, John",202
+18-Ranchos III,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
+18-Ranchos III,U.S. Senate (Republican),None Of These Candidates,13
 18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",81
 18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",116
 18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",33
@@ -1350,12 +1350,12 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-19-Ranchos IV,United States Senator (Democratic),"Carter, Jack",78
-19-Ranchos IV,United States Senator (Democratic),None Of These Candidates,3
-19-Ranchos IV,United States Senator (Democratic),"Tun, Ruby jee",14
-19-Ranchos IV,United States Senator (Republican),"Ensign, John",176
-19-Ranchos IV,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-19-Ranchos IV,United States Senator (Republican),None Of These Candidates,5
+19-Ranchos IV,U.S. Senate (Democratic),"Carter, Jack",78
+19-Ranchos IV,U.S. Senate (Democratic),None Of These Candidates,3
+19-Ranchos IV,U.S. Senate (Democratic),"Tun, Ruby jee",14
+19-Ranchos IV,U.S. Senate (Republican),"Ensign, John",176
+19-Ranchos IV,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+19-Ranchos IV,U.S. Senate (Republican),None Of These Candidates,5
 19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",39
 19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",113
 19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",44
@@ -1421,12 +1421,12 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",64
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-20-Birch/Ranchos,United States Senator (Democratic),"Carter, Jack",69
-20-Birch/Ranchos,United States Senator (Democratic),None Of These Candidates,12
-20-Birch/Ranchos,United States Senator (Democratic),"Tun, Ruby jee",8
-20-Birch/Ranchos,United States Senator (Republican),"Ensign, John",162
-20-Birch/Ranchos,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",11
-20-Birch/Ranchos,United States Senator (Republican),None Of These Candidates,7
+20-Birch/Ranchos,U.S. Senate (Democratic),"Carter, Jack",69
+20-Birch/Ranchos,U.S. Senate (Democratic),None Of These Candidates,12
+20-Birch/Ranchos,U.S. Senate (Democratic),"Tun, Ruby jee",8
+20-Birch/Ranchos,U.S. Senate (Republican),"Ensign, John",162
+20-Birch/Ranchos,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
+20-Birch/Ranchos,U.S. Senate (Republican),None Of These Candidates,7
 20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",29
 20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",132
 20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",37
@@ -1492,12 +1492,12 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",115
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-21-Wildhorse,United States Senator (Democratic),"Carter, Jack",85
-21-Wildhorse,United States Senator (Democratic),None Of These Candidates,10
-21-Wildhorse,United States Senator (Democratic),"Tun, Ruby jee",8
-21-Wildhorse,United States Senator (Republican),"Ensign, John",246
-21-Wildhorse,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-21-Wildhorse,United States Senator (Republican),None Of These Candidates,12
+21-Wildhorse,U.S. Senate (Democratic),"Carter, Jack",85
+21-Wildhorse,U.S. Senate (Democratic),None Of These Candidates,10
+21-Wildhorse,U.S. Senate (Democratic),"Tun, Ruby jee",8
+21-Wildhorse,U.S. Senate (Republican),"Ensign, John",246
+21-Wildhorse,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+21-Wildhorse,U.S. Senate (Republican),None Of These Candidates,12
 21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",67
 21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",147
 21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",36
@@ -1563,12 +1563,12 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 22-Saratoga,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",102
 22-Saratoga,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-22-Saratoga,United States Senator (Democratic),"Carter, Jack",97
-22-Saratoga,United States Senator (Democratic),None Of These Candidates,13
-22-Saratoga,United States Senator (Democratic),"Tun, Ruby jee",8
-22-Saratoga,United States Senator (Republican),"Ensign, John",266
-22-Saratoga,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-22-Saratoga,United States Senator (Republican),None Of These Candidates,7
+22-Saratoga,U.S. Senate (Democratic),"Carter, Jack",97
+22-Saratoga,U.S. Senate (Democratic),None Of These Candidates,13
+22-Saratoga,U.S. Senate (Democratic),"Tun, Ruby jee",8
+22-Saratoga,U.S. Senate (Republican),"Ensign, John",266
+22-Saratoga,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+22-Saratoga,U.S. Senate (Republican),None Of These Candidates,7
 22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
 22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",164
 22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",46
@@ -1634,12 +1634,12 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",54
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-23-Indian Hills - East,United States Senator (Democratic),"Carter, Jack",54
-23-Indian Hills - East,United States Senator (Democratic),None Of These Candidates,6
-23-Indian Hills - East,United States Senator (Democratic),"Tun, Ruby jee",7
-23-Indian Hills - East,United States Senator (Republican),"Ensign, John",119
-23-Indian Hills - East,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-23-Indian Hills - East,United States Senator (Republican),None Of These Candidates,7
+23-Indian Hills - East,U.S. Senate (Democratic),"Carter, Jack",54
+23-Indian Hills - East,U.S. Senate (Democratic),None Of These Candidates,6
+23-Indian Hills - East,U.S. Senate (Democratic),"Tun, Ruby jee",7
+23-Indian Hills - East,U.S. Senate (Republican),"Ensign, John",119
+23-Indian Hills - East,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+23-Indian Hills - East,U.S. Senate (Republican),None Of These Candidates,7
 23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",22
 23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",106
 23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
@@ -1705,12 +1705,12 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",38
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-24-Topaz Lake,United States Senator (Democratic),"Carter, Jack",32
-24-Topaz Lake,United States Senator (Democratic),None Of These Candidates,7
-24-Topaz Lake,United States Senator (Democratic),"Tun, Ruby jee",2
-24-Topaz Lake,United States Senator (Republican),"Ensign, John",108
-24-Topaz Lake,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-24-Topaz Lake,United States Senator (Republican),None Of These Candidates,14
+24-Topaz Lake,U.S. Senate (Democratic),"Carter, Jack",32
+24-Topaz Lake,U.S. Senate (Democratic),None Of These Candidates,7
+24-Topaz Lake,U.S. Senate (Democratic),"Tun, Ruby jee",2
+24-Topaz Lake,U.S. Senate (Republican),"Ensign, John",108
+24-Topaz Lake,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+24-Topaz Lake,U.S. Senate (Republican),None Of These Candidates,14
 24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",36
 24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",70
 24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",15
@@ -1776,12 +1776,12 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",156
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",11
-25-Pleasantview,United States Senator (Democratic),"Carter, Jack",114
-25-Pleasantview,United States Senator (Democratic),None Of These Candidates,8
-25-Pleasantview,United States Senator (Democratic),"Tun, Ruby jee",10
-25-Pleasantview,United States Senator (Republican),"Ensign, John",320
-25-Pleasantview,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",27
-25-Pleasantview,United States Senator (Republican),None Of These Candidates,17
+25-Pleasantview,U.S. Senate (Democratic),"Carter, Jack",114
+25-Pleasantview,U.S. Senate (Democratic),None Of These Candidates,8
+25-Pleasantview,U.S. Senate (Democratic),"Tun, Ruby jee",10
+25-Pleasantview,U.S. Senate (Republican),"Ensign, John",320
+25-Pleasantview,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",27
+25-Pleasantview,U.S. Senate (Republican),None Of These Candidates,17
 25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",100
 25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",191
 25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",51
@@ -1850,12 +1850,12 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 26-Westwood,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",74
 26-Westwood,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-26-Westwood,United States Senator (Democratic),"Carter, Jack",48
-26-Westwood,United States Senator (Democratic),None Of These Candidates,1
-26-Westwood,United States Senator (Democratic),"Tun, Ruby jee",3
-26-Westwood,United States Senator (Republican),"Ensign, John",150
-26-Westwood,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-26-Westwood,United States Senator (Republican),None Of These Candidates,5
+26-Westwood,U.S. Senate (Democratic),"Carter, Jack",48
+26-Westwood,U.S. Senate (Democratic),None Of These Candidates,1
+26-Westwood,U.S. Senate (Democratic),"Tun, Ruby jee",3
+26-Westwood,U.S. Senate (Republican),"Ensign, John",150
+26-Westwood,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+26-Westwood,U.S. Senate (Republican),None Of These Candidates,5
 26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",54
 26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",66
 26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",21
@@ -1924,12 +1924,12 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 27-Winhaven,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",99
 27-Winhaven,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-27-Winhaven,United States Senator (Democratic),"Carter, Jack",63
-27-Winhaven,United States Senator (Democratic),None Of These Candidates,9
-27-Winhaven,United States Senator (Democratic),"Tun, Ruby jee",9
-27-Winhaven,United States Senator (Republican),"Ensign, John",228
-27-Winhaven,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",11
-27-Winhaven,United States Senator (Republican),None Of These Candidates,9
+27-Winhaven,U.S. Senate (Democratic),"Carter, Jack",63
+27-Winhaven,U.S. Senate (Democratic),None Of These Candidates,9
+27-Winhaven,U.S. Senate (Democratic),"Tun, Ruby jee",9
+27-Winhaven,U.S. Senate (Republican),"Ensign, John",228
+27-Winhaven,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
+27-Winhaven,U.S. Senate (Republican),None Of These Candidates,9
 27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",51
 27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",140
 27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",25
@@ -1995,12 +1995,12 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",41
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-28-Orchard Road,United States Senator (Democratic),"Carter, Jack",10
-28-Orchard Road,United States Senator (Democratic),None Of These Candidates,3
-28-Orchard Road,United States Senator (Democratic),"Tun, Ruby jee",2
-28-Orchard Road,United States Senator (Republican),"Ensign, John",93
-28-Orchard Road,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-28-Orchard Road,United States Senator (Republican),None Of These Candidates,6
+28-Orchard Road,U.S. Senate (Democratic),"Carter, Jack",10
+28-Orchard Road,U.S. Senate (Democratic),None Of These Candidates,3
+28-Orchard Road,U.S. Senate (Democratic),"Tun, Ruby jee",2
+28-Orchard Road,U.S. Senate (Republican),"Ensign, John",93
+28-Orchard Road,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+28-Orchard Road,U.S. Senate (Republican),None Of These Candidates,6
 28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",37
 28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",34
 28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",11
@@ -2066,12 +2066,12 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",84
 29-Autumn Hils,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-29-Autumn Hils,United States Senator (Democratic),"Carter, Jack",39
-29-Autumn Hils,United States Senator (Democratic),None Of These Candidates,5
-29-Autumn Hils,United States Senator (Democratic),"Tun, Ruby jee",4
-29-Autumn Hils,United States Senator (Republican),"Ensign, John",170
-29-Autumn Hils,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-29-Autumn Hils,United States Senator (Republican),None Of These Candidates,12
+29-Autumn Hils,U.S. Senate (Democratic),"Carter, Jack",39
+29-Autumn Hils,U.S. Senate (Democratic),None Of These Candidates,5
+29-Autumn Hils,U.S. Senate (Democratic),"Tun, Ruby jee",4
+29-Autumn Hils,U.S. Senate (Republican),"Ensign, John",170
+29-Autumn Hils,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+29-Autumn Hils,U.S. Senate (Republican),None Of These Candidates,12
 29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",71
 29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",84
 29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",13
@@ -2137,12 +2137,12 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-30-East Fork,United States Senator (Democratic),"Carter, Jack",0
-30-East Fork,United States Senator (Democratic),None Of These Candidates,0
-30-East Fork,United States Senator (Democratic),"Tun, Ruby jee",0
-30-East Fork,United States Senator (Republican),"Ensign, John",0
-30-East Fork,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-30-East Fork,United States Senator (Republican),None Of These Candidates,0
+30-East Fork,U.S. Senate (Democratic),"Carter, Jack",0
+30-East Fork,U.S. Senate (Democratic),None Of These Candidates,0
+30-East Fork,U.S. Senate (Democratic),"Tun, Ruby jee",0
+30-East Fork,U.S. Senate (Republican),"Ensign, John",0
+30-East Fork,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+30-East Fork,U.S. Senate (Republican),None Of These Candidates,0
 30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",0
 30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
 30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",0
@@ -2211,12 +2211,12 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 31-Chichester,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",47
 31-Chichester,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-31-Chichester,United States Senator (Democratic),"Carter, Jack",23
-31-Chichester,United States Senator (Democratic),None Of These Candidates,5
-31-Chichester,United States Senator (Democratic),"Tun, Ruby jee",4
-31-Chichester,United States Senator (Republican),"Ensign, John",108
-31-Chichester,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-31-Chichester,United States Senator (Republican),None Of These Candidates,9
+31-Chichester,U.S. Senate (Democratic),"Carter, Jack",23
+31-Chichester,U.S. Senate (Democratic),None Of These Candidates,5
+31-Chichester,U.S. Senate (Democratic),"Tun, Ruby jee",4
+31-Chichester,U.S. Senate (Republican),"Ensign, John",108
+31-Chichester,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+31-Chichester,U.S. Senate (Republican),None Of These Candidates,9
 31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",17
 31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",74
 31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",19
@@ -2282,12 +2282,12 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 32-East Valley,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",37
 32-East Valley,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-32-East Valley,United States Senator (Democratic),"Carter, Jack",24
-32-East Valley,United States Senator (Democratic),None Of These Candidates,8
-32-East Valley,United States Senator (Democratic),"Tun, Ruby jee",4
-32-East Valley,United States Senator (Republican),"Ensign, John",88
-32-East Valley,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-32-East Valley,United States Senator (Republican),None Of These Candidates,12
+32-East Valley,U.S. Senate (Democratic),"Carter, Jack",24
+32-East Valley,U.S. Senate (Democratic),None Of These Candidates,8
+32-East Valley,U.S. Senate (Democratic),"Tun, Ruby jee",4
+32-East Valley,U.S. Senate (Republican),"Ensign, John",88
+32-East Valley,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+32-East Valley,U.S. Senate (Republican),None Of These Candidates,12
 32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",23
 32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",55
 32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",20
@@ -2353,12 +2353,12 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",39
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",7
-33-Hot Springs,United States Senator (Democratic),"Carter, Jack",46
-33-Hot Springs,United States Senator (Democratic),None Of These Candidates,7
-33-Hot Springs,United States Senator (Democratic),"Tun, Ruby jee",4
-33-Hot Springs,United States Senator (Republican),"Ensign, John",117
-33-Hot Springs,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-33-Hot Springs,United States Senator (Republican),None Of These Candidates,8
+33-Hot Springs,U.S. Senate (Democratic),"Carter, Jack",46
+33-Hot Springs,U.S. Senate (Democratic),None Of These Candidates,7
+33-Hot Springs,U.S. Senate (Democratic),"Tun, Ruby jee",4
+33-Hot Springs,U.S. Senate (Republican),"Ensign, John",117
+33-Hot Springs,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+33-Hot Springs,U.S. Senate (Republican),None Of These Candidates,8
 33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",25
 33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",90
 33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",19
@@ -2424,12 +2424,12 @@ precinct,office,candidate,votes
 34-Sunridge,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 34-Sunridge,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",46
 34-Sunridge,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-34-Sunridge,United States Senator (Democratic),"Carter, Jack",26
-34-Sunridge,United States Senator (Democratic),None Of These Candidates,4
-34-Sunridge,United States Senator (Democratic),"Tun, Ruby jee",1
-34-Sunridge,United States Senator (Republican),"Ensign, John",84
-34-Sunridge,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-34-Sunridge,United States Senator (Republican),None Of These Candidates,8
+34-Sunridge,U.S. Senate (Democratic),"Carter, Jack",26
+34-Sunridge,U.S. Senate (Democratic),None Of These Candidates,4
+34-Sunridge,U.S. Senate (Democratic),"Tun, Ruby jee",1
+34-Sunridge,U.S. Senate (Republican),"Ensign, John",84
+34-Sunridge,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+34-Sunridge,U.S. Senate (Republican),None Of These Candidates,8
 34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",9
 34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",64
 34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",17
@@ -2496,12 +2496,12 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",27
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-35-Glenbrook,United States Senator (Democratic),"Carter, Jack",23
-35-Glenbrook,United States Senator (Democratic),None Of These Candidates,3
-35-Glenbrook,United States Senator (Democratic),"Tun, Ruby jee",0
-35-Glenbrook,United States Senator (Republican),"Ensign, John",105
-35-Glenbrook,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",10
-35-Glenbrook,United States Senator (Republican),None Of These Candidates,3
+35-Glenbrook,U.S. Senate (Democratic),"Carter, Jack",23
+35-Glenbrook,U.S. Senate (Democratic),None Of These Candidates,3
+35-Glenbrook,U.S. Senate (Democratic),"Tun, Ruby jee",0
+35-Glenbrook,U.S. Senate (Republican),"Ensign, John",105
+35-Glenbrook,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
+35-Glenbrook,U.S. Senate (Republican),None Of These Candidates,3
 35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",55
 35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",42
 35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
@@ -2568,12 +2568,12 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 36-Skyland,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",53
 36-Skyland,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-36-Skyland,United States Senator (Democratic),"Carter, Jack",27
-36-Skyland,United States Senator (Democratic),None Of These Candidates,4
-36-Skyland,United States Senator (Democratic),"Tun, Ruby jee",5
-36-Skyland,United States Senator (Republican),"Ensign, John",149
-36-Skyland,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",1
-36-Skyland,United States Senator (Republican),None Of These Candidates,6
+36-Skyland,U.S. Senate (Democratic),"Carter, Jack",27
+36-Skyland,U.S. Senate (Democratic),None Of These Candidates,4
+36-Skyland,U.S. Senate (Democratic),"Tun, Ruby jee",5
+36-Skyland,U.S. Senate (Republican),"Ensign, John",149
+36-Skyland,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
+36-Skyland,U.S. Senate (Republican),None Of These Candidates,6
 36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",48
 36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",60
 36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",13
@@ -2640,12 +2640,12 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",49
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-37-Zephyr Cove,United States Senator (Democratic),"Carter, Jack",22
-37-Zephyr Cove,United States Senator (Democratic),None Of These Candidates,7
-37-Zephyr Cove,United States Senator (Democratic),"Tun, Ruby jee",5
-37-Zephyr Cove,United States Senator (Republican),"Ensign, John",94
-37-Zephyr Cove,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",3
-37-Zephyr Cove,United States Senator (Republican),None Of These Candidates,2
+37-Zephyr Cove,U.S. Senate (Democratic),"Carter, Jack",22
+37-Zephyr Cove,U.S. Senate (Democratic),None Of These Candidates,7
+37-Zephyr Cove,U.S. Senate (Democratic),"Tun, Ruby jee",5
+37-Zephyr Cove,U.S. Senate (Republican),"Ensign, John",94
+37-Zephyr Cove,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
+37-Zephyr Cove,U.S. Senate (Republican),None Of These Candidates,2
 37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",35
 37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",36
 37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",16
@@ -2712,12 +2712,12 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 38-Round Hill,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",49
 38-Round Hill,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-38-Round Hill,United States Senator (Democratic),"Carter, Jack",55
-38-Round Hill,United States Senator (Democratic),None Of These Candidates,3
-38-Round Hill,United States Senator (Democratic),"Tun, Ruby jee",6
-38-Round Hill,United States Senator (Republican),"Ensign, John",110
-38-Round Hill,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-38-Round Hill,United States Senator (Republican),None Of These Candidates,5
+38-Round Hill,U.S. Senate (Democratic),"Carter, Jack",55
+38-Round Hill,U.S. Senate (Democratic),None Of These Candidates,3
+38-Round Hill,U.S. Senate (Democratic),"Tun, Ruby jee",6
+38-Round Hill,U.S. Senate (Republican),"Ensign, John",110
+38-Round Hill,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+38-Round Hill,U.S. Senate (Republican),None Of These Candidates,5
 38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
 38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",59
 38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
@@ -2784,12 +2784,12 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 39-Edgewood,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",10
 39-Edgewood,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-39-Edgewood,United States Senator (Democratic),"Carter, Jack",8
-39-Edgewood,United States Senator (Democratic),None Of These Candidates,3
-39-Edgewood,United States Senator (Democratic),"Tun, Ruby jee",4
-39-Edgewood,United States Senator (Republican),"Ensign, John",30
-39-Edgewood,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",1
-39-Edgewood,United States Senator (Republican),None Of These Candidates,1
+39-Edgewood,U.S. Senate (Democratic),"Carter, Jack",8
+39-Edgewood,U.S. Senate (Democratic),None Of These Candidates,3
+39-Edgewood,U.S. Senate (Democratic),"Tun, Ruby jee",4
+39-Edgewood,U.S. Senate (Republican),"Ensign, John",30
+39-Edgewood,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
+39-Edgewood,U.S. Senate (Republican),None Of These Candidates,1
 39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",8
 39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",8
 39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",8
@@ -2856,12 +2856,12 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",81
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",8
-40-Kingsbury,United States Senator (Democratic),"Carter, Jack",55
-40-Kingsbury,United States Senator (Democratic),None Of These Candidates,1
-40-Kingsbury,United States Senator (Democratic),"Tun, Ruby jee",6
-40-Kingsbury,United States Senator (Republican),"Ensign, John",153
-40-Kingsbury,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",15
-40-Kingsbury,United States Senator (Republican),None Of These Candidates,7
+40-Kingsbury,U.S. Senate (Democratic),"Carter, Jack",55
+40-Kingsbury,U.S. Senate (Democratic),None Of These Candidates,1
+40-Kingsbury,U.S. Senate (Democratic),"Tun, Ruby jee",6
+40-Kingsbury,U.S. Senate (Republican),"Ensign, John",153
+40-Kingsbury,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
+40-Kingsbury,U.S. Senate (Republican),None Of These Candidates,7
 40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",47
 40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",73
 40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",26
@@ -2928,12 +2928,12 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 41-Daggett,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",28
 41-Daggett,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-41-Daggett,United States Senator (Democratic),"Carter, Jack",42
-41-Daggett,United States Senator (Democratic),None Of These Candidates,3
-41-Daggett,United States Senator (Democratic),"Tun, Ruby jee",5
-41-Daggett,United States Senator (Republican),"Ensign, John",71
-41-Daggett,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",2
-41-Daggett,United States Senator (Republican),None Of These Candidates,7
+41-Daggett,U.S. Senate (Democratic),"Carter, Jack",42
+41-Daggett,U.S. Senate (Democratic),None Of These Candidates,3
+41-Daggett,U.S. Senate (Democratic),"Tun, Ruby jee",5
+41-Daggett,U.S. Senate (Republican),"Ensign, John",71
+41-Daggett,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",2
+41-Daggett,U.S. Senate (Republican),None Of These Candidates,7
 41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",25
 41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",22
 41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
@@ -2943,9 +2943,9 @@ Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 99,United States Senator (Democratic),"Carter, Jack",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 99,United States Senator (Republican),"Ensign, John",0
-Precinct 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Carter, Jack",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 99,U.S. Senate (Republican),"Ensign, John",0
+Precinct 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0

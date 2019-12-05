@@ -60,12 +60,12 @@ precinct,office,candidate,votes
 1 - ALAMO,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 1 - ALAMO,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",64
 1 - ALAMO,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",14
-1 - ALAMO,United States Senator (Democratic),"Carter, Jack",71
-1 - ALAMO,United States Senator (Democratic),None Of These Candidates,44
-1 - ALAMO,United States Senator (Democratic),"Tun, Ruby jee",14
-1 - ALAMO,United States Senator (Republican),"Ensign, John",203
-1 - ALAMO,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-1 - ALAMO,United States Senator (Republican),None Of These Candidates,14
+1 - ALAMO,U.S. Senate (Democratic),"Carter, Jack",71
+1 - ALAMO,U.S. Senate (Democratic),None Of These Candidates,44
+1 - ALAMO,U.S. Senate (Democratic),"Tun, Ruby jee",14
+1 - ALAMO,U.S. Senate (Republican),"Ensign, John",203
+1 - ALAMO,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+1 - ALAMO,U.S. Senate (Republican),None Of These Candidates,14
 2 - CALIENTE,Governor (Democratic),"Gibson, James B.",107
 2 - CALIENTE,Governor (Democratic),"McConnell, Leola",5
 2 - CALIENTE,Governor (Democratic),None Of These Candidates,10
@@ -131,12 +131,12 @@ precinct,office,candidate,votes
 2 - CALIENTE,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 2 - CALIENTE,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",43
 2 - CALIENTE,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",9
-2 - CALIENTE,United States Senator (Democratic),"Carter, Jack",141
-2 - CALIENTE,United States Senator (Democratic),None Of These Candidates,31
-2 - CALIENTE,United States Senator (Democratic),"Tun, Ruby jee",23
-2 - CALIENTE,United States Senator (Republican),"Ensign, John",138
-2 - CALIENTE,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-2 - CALIENTE,United States Senator (Republican),None Of These Candidates,10
+2 - CALIENTE,U.S. Senate (Democratic),"Carter, Jack",141
+2 - CALIENTE,U.S. Senate (Democratic),None Of These Candidates,31
+2 - CALIENTE,U.S. Senate (Democratic),"Tun, Ruby jee",23
+2 - CALIENTE,U.S. Senate (Republican),"Ensign, John",138
+2 - CALIENTE,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+2 - CALIENTE,U.S. Senate (Republican),None Of These Candidates,10
 3 - PANACA,Governor (Democratic),"Gibson, James B.",61
 3 - PANACA,Governor (Democratic),"McConnell, Leola",0
 3 - PANACA,Governor (Democratic),None Of These Candidates,6
@@ -202,12 +202,12 @@ precinct,office,candidate,votes
 3 - PANACA,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 3 - PANACA,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",44
 3 - PANACA,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",8
-3 - PANACA,United States Senator (Democratic),"Carter, Jack",47
-3 - PANACA,United States Senator (Democratic),None Of These Candidates,29
-3 - PANACA,United States Senator (Democratic),"Tun, Ruby jee",9
-3 - PANACA,United States Senator (Republican),"Ensign, John",171
-3 - PANACA,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",11
-3 - PANACA,United States Senator (Republican),None Of These Candidates,12
+3 - PANACA,U.S. Senate (Democratic),"Carter, Jack",47
+3 - PANACA,U.S. Senate (Democratic),None Of These Candidates,29
+3 - PANACA,U.S. Senate (Democratic),"Tun, Ruby jee",9
+3 - PANACA,U.S. Senate (Republican),"Ensign, John",171
+3 - PANACA,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
+3 - PANACA,U.S. Senate (Republican),None Of These Candidates,12
 4 - PIOCHE,Governor (Democratic),"Gibson, James B.",55
 4 - PIOCHE,Governor (Democratic),"McConnell, Leola",7
 4 - PIOCHE,Governor (Democratic),None Of These Candidates,12
@@ -273,12 +273,12 @@ precinct,office,candidate,votes
 4 - PIOCHE,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 4 - PIOCHE,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",85
 4 - PIOCHE,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",7
-4 - PIOCHE,United States Senator (Democratic),"Carter, Jack",95
-4 - PIOCHE,United States Senator (Democratic),None Of These Candidates,37
-4 - PIOCHE,United States Senator (Democratic),"Tun, Ruby jee",13
-4 - PIOCHE,United States Senator (Republican),"Ensign, John",166
-4 - PIOCHE,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",9
-4 - PIOCHE,United States Senator (Republican),None Of These Candidates,15
+4 - PIOCHE,U.S. Senate (Democratic),"Carter, Jack",95
+4 - PIOCHE,U.S. Senate (Democratic),None Of These Candidates,37
+4 - PIOCHE,U.S. Senate (Democratic),"Tun, Ruby jee",13
+4 - PIOCHE,U.S. Senate (Republican),"Ensign, John",166
+4 - PIOCHE,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
+4 - PIOCHE,U.S. Senate (Republican),None Of These Candidates,15
 5 - RACHEL,Governor (Democratic),"Gibson, James B.",
 5 - RACHEL,Governor (Democratic),"McConnell, Leola",
 5 - RACHEL,Governor (Democratic),None Of These Candidates,
@@ -340,20 +340,20 @@ precinct,office,candidate,votes
 5 - RACHEL,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 5 - RACHEL,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",6
 5 - RACHEL,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-5 - RACHEL,United States Senator (Democratic),"Carter, Jack",
-5 - RACHEL,United States Senator (Democratic),None Of These Candidates,
-5 - RACHEL,United States Senator (Democratic),"Tun, Ruby jee",
-5 - RACHEL,United States Senator (Republican),"Ensign, John",14
-5 - RACHEL,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",1
-5 - RACHEL,United States Senator (Republican),None Of These Candidates,0
+5 - RACHEL,U.S. Senate (Democratic),"Carter, Jack",
+5 - RACHEL,U.S. Senate (Democratic),None Of These Candidates,
+5 - RACHEL,U.S. Senate (Democratic),"Tun, Ruby jee",
+5 - RACHEL,U.S. Senate (Republican),"Ensign, John",14
+5 - RACHEL,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
+5 - RACHEL,U.S. Senate (Republican),None Of These Candidates,0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 99,United States Senator (Democratic),"Carter, Jack",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 99,United States Senator (Republican),"Ensign, John",0
-Precinct 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Carter, Jack",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 99,U.S. Senate (Republican),"Ensign, John",0
+Precinct 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0

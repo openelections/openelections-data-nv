@@ -23,18 +23,18 @@ precinct,office,candidate,votes
 1 - ALAMO,"U.S. Representative in Congress, District 4 (Republican)","Tarkanian, Danny",114
 1 - ALAMO,"U.S. Representative in Congress, District 4 (Republican)","Wegner, Kenneth A.",41
 1 - ALAMO,"U.S. Representative in Congress, District 4 (Republican)","Zeller, Sid",0
-1 - ALAMO,United States Senator (Democratic),"Berkley, Shelley",26
-1 - ALAMO,United States Senator (Democratic),"Brown, Steve",3
-1 - ALAMO,United States Senator (Democratic),"Ellsworth, Barry",1
-1 - ALAMO,United States Senator (Democratic),"Macias, Louis",2
-1 - ALAMO,United States Senator (Democratic),None Of These Candidates,11
-1 - ALAMO,United States Senator (Democratic),"Price, Nancy",6
-1 - ALAMO,United States Senator (Republican),"Brooks, Sherry",1
-1 - ALAMO,United States Senator (Republican),"Charles, Richard",0
-1 - ALAMO,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
-1 - ALAMO,United States Senator (Republican),"Heller, Dean",155
-1 - ALAMO,United States Senator (Republican),None Of These Candidates,6
-1 - ALAMO,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+1 - ALAMO,U.S. Senate (Democratic),"Berkley, Shelley",26
+1 - ALAMO,U.S. Senate (Democratic),"Brown, Steve",3
+1 - ALAMO,U.S. Senate (Democratic),"Ellsworth, Barry",1
+1 - ALAMO,U.S. Senate (Democratic),"Macias, Louis",2
+1 - ALAMO,U.S. Senate (Democratic),None Of These Candidates,11
+1 - ALAMO,U.S. Senate (Democratic),"Price, Nancy",6
+1 - ALAMO,U.S. Senate (Republican),"Brooks, Sherry",1
+1 - ALAMO,U.S. Senate (Republican),"Charles, Richard",0
+1 - ALAMO,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
+1 - ALAMO,U.S. Senate (Republican),"Heller, Dean",155
+1 - ALAMO,U.S. Senate (Republican),None Of These Candidates,6
+1 - ALAMO,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 2 - CALIENTE,County Comm Dist. A (CW) (Republican),"DIXON, KEN",20
 2 - CALIENTE,County Comm Dist. A (CW) (Republican),"HURD, DAVE",36
 2 - CALIENTE,County Comm Dist. A (CW) (Republican),"KATSCHKE, ADAM P.",62
@@ -59,18 +59,18 @@ precinct,office,candidate,votes
 2 - CALIENTE,"U.S. Representative in Congress, District 4 (Republican)","Tarkanian, Danny",67
 2 - CALIENTE,"U.S. Representative in Congress, District 4 (Republican)","Wegner, Kenneth A.",16
 2 - CALIENTE,"U.S. Representative in Congress, District 4 (Republican)","Zeller, Sid",5
-2 - CALIENTE,United States Senator (Democratic),"Berkley, Shelley",39
-2 - CALIENTE,United States Senator (Democratic),"Brown, Steve",10
-2 - CALIENTE,United States Senator (Democratic),"Ellsworth, Barry",3
-2 - CALIENTE,United States Senator (Democratic),"Macias, Louis",0
-2 - CALIENTE,United States Senator (Democratic),None Of These Candidates,7
-2 - CALIENTE,United States Senator (Democratic),"Price, Nancy",5
-2 - CALIENTE,United States Senator (Republican),"Brooks, Sherry",12
-2 - CALIENTE,United States Senator (Republican),"Charles, Richard",1
-2 - CALIENTE,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-2 - CALIENTE,United States Senator (Republican),"Heller, Dean",98
-2 - CALIENTE,United States Senator (Republican),None Of These Candidates,7
-2 - CALIENTE,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+2 - CALIENTE,U.S. Senate (Democratic),"Berkley, Shelley",39
+2 - CALIENTE,U.S. Senate (Democratic),"Brown, Steve",10
+2 - CALIENTE,U.S. Senate (Democratic),"Ellsworth, Barry",3
+2 - CALIENTE,U.S. Senate (Democratic),"Macias, Louis",0
+2 - CALIENTE,U.S. Senate (Democratic),None Of These Candidates,7
+2 - CALIENTE,U.S. Senate (Democratic),"Price, Nancy",5
+2 - CALIENTE,U.S. Senate (Republican),"Brooks, Sherry",12
+2 - CALIENTE,U.S. Senate (Republican),"Charles, Richard",1
+2 - CALIENTE,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+2 - CALIENTE,U.S. Senate (Republican),"Heller, Dean",98
+2 - CALIENTE,U.S. Senate (Republican),None Of These Candidates,7
+2 - CALIENTE,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 3 - PANACA,County Comm Dist. A (CW) (Republican),"DIXON, KEN",15
 3 - PANACA,County Comm Dist. A (CW) (Republican),"HURD, DAVE",37
 3 - PANACA,County Comm Dist. A (CW) (Republican),"KATSCHKE, ADAM P.",101
@@ -91,18 +91,18 @@ precinct,office,candidate,votes
 3 - PANACA,"U.S. Representative in Congress, District 4 (Republican)","Tarkanian, Danny",66
 3 - PANACA,"U.S. Representative in Congress, District 4 (Republican)","Wegner, Kenneth A.",30
 3 - PANACA,"U.S. Representative in Congress, District 4 (Republican)","Zeller, Sid",0
-3 - PANACA,United States Senator (Democratic),"Berkley, Shelley",10
-3 - PANACA,United States Senator (Democratic),"Brown, Steve",1
-3 - PANACA,United States Senator (Democratic),"Ellsworth, Barry",4
-3 - PANACA,United States Senator (Democratic),"Macias, Louis",0
-3 - PANACA,United States Senator (Democratic),None Of These Candidates,5
-3 - PANACA,United States Senator (Democratic),"Price, Nancy",2
-3 - PANACA,United States Senator (Republican),"Brooks, Sherry",4
-3 - PANACA,United States Senator (Republican),"Charles, Richard",4
-3 - PANACA,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
-3 - PANACA,United States Senator (Republican),"Heller, Dean",134
-3 - PANACA,United States Senator (Republican),None Of These Candidates,7
-3 - PANACA,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+3 - PANACA,U.S. Senate (Democratic),"Berkley, Shelley",10
+3 - PANACA,U.S. Senate (Democratic),"Brown, Steve",1
+3 - PANACA,U.S. Senate (Democratic),"Ellsworth, Barry",4
+3 - PANACA,U.S. Senate (Democratic),"Macias, Louis",0
+3 - PANACA,U.S. Senate (Democratic),None Of These Candidates,5
+3 - PANACA,U.S. Senate (Democratic),"Price, Nancy",2
+3 - PANACA,U.S. Senate (Republican),"Brooks, Sherry",4
+3 - PANACA,U.S. Senate (Republican),"Charles, Richard",4
+3 - PANACA,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
+3 - PANACA,U.S. Senate (Republican),"Heller, Dean",134
+3 - PANACA,U.S. Senate (Republican),None Of These Candidates,7
+3 - PANACA,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 4 - PIOCHE,County Comm Dist. A (CW) (Republican),"DIXON, KEN",25
 4 - PIOCHE,County Comm Dist. A (CW) (Republican),"HURD, DAVE",32
 4 - PIOCHE,County Comm Dist. A (CW) (Republican),"KATSCHKE, ADAM P.",90
@@ -123,18 +123,18 @@ precinct,office,candidate,votes
 4 - PIOCHE,"U.S. Representative in Congress, District 4 (Republican)","Tarkanian, Danny",67
 4 - PIOCHE,"U.S. Representative in Congress, District 4 (Republican)","Wegner, Kenneth A.",18
 4 - PIOCHE,"U.S. Representative in Congress, District 4 (Republican)","Zeller, Sid",0
-4 - PIOCHE,United States Senator (Democratic),"Berkley, Shelley",46
-4 - PIOCHE,United States Senator (Democratic),"Brown, Steve",3
-4 - PIOCHE,United States Senator (Democratic),"Ellsworth, Barry",4
-4 - PIOCHE,United States Senator (Democratic),"Macias, Louis",2
-4 - PIOCHE,United States Senator (Democratic),None Of These Candidates,10
-4 - PIOCHE,United States Senator (Democratic),"Price, Nancy",8
-4 - PIOCHE,United States Senator (Republican),"Brooks, Sherry",8
-4 - PIOCHE,United States Senator (Republican),"Charles, Richard",3
-4 - PIOCHE,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
-4 - PIOCHE,United States Senator (Republican),"Heller, Dean",132
-4 - PIOCHE,United States Senator (Republican),None Of These Candidates,3
-4 - PIOCHE,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",1
+4 - PIOCHE,U.S. Senate (Democratic),"Berkley, Shelley",46
+4 - PIOCHE,U.S. Senate (Democratic),"Brown, Steve",3
+4 - PIOCHE,U.S. Senate (Democratic),"Ellsworth, Barry",4
+4 - PIOCHE,U.S. Senate (Democratic),"Macias, Louis",2
+4 - PIOCHE,U.S. Senate (Democratic),None Of These Candidates,10
+4 - PIOCHE,U.S. Senate (Democratic),"Price, Nancy",8
+4 - PIOCHE,U.S. Senate (Republican),"Brooks, Sherry",8
+4 - PIOCHE,U.S. Senate (Republican),"Charles, Richard",3
+4 - PIOCHE,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
+4 - PIOCHE,U.S. Senate (Republican),"Heller, Dean",132
+4 - PIOCHE,U.S. Senate (Republican),None Of These Candidates,3
+4 - PIOCHE,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 5 - RACHEL,County Comm Dist. A (CW) (Republican),"DIXON, KEN",2
 5 - RACHEL,County Comm Dist. A (CW) (Republican),"HURD, DAVE",2
 5 - RACHEL,County Comm Dist. A (CW) (Republican),"KATSCHKE, ADAM P.",7
@@ -159,18 +159,18 @@ precinct,office,candidate,votes
 5 - RACHEL,"U.S. Representative in Congress, District 4 (Republican)","Tarkanian, Danny",
 5 - RACHEL,"U.S. Representative in Congress, District 4 (Republican)","Wegner, Kenneth A.",
 5 - RACHEL,"U.S. Representative in Congress, District 4 (Republican)","Zeller, Sid",
-5 - RACHEL,United States Senator (Democratic),"Berkley, Shelley",
-5 - RACHEL,United States Senator (Democratic),"Brown, Steve",
-5 - RACHEL,United States Senator (Democratic),"Ellsworth, Barry",
-5 - RACHEL,United States Senator (Democratic),"Macias, Louis",
-5 - RACHEL,United States Senator (Democratic),None Of These Candidates,
-5 - RACHEL,United States Senator (Democratic),"Price, Nancy",
-5 - RACHEL,United States Senator (Republican),"Brooks, Sherry",2
-5 - RACHEL,United States Senator (Republican),"Charles, Richard",0
-5 - RACHEL,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-5 - RACHEL,United States Senator (Republican),"Heller, Dean",8
-5 - RACHEL,United States Senator (Republican),None Of These Candidates,1
-5 - RACHEL,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+5 - RACHEL,U.S. Senate (Democratic),"Berkley, Shelley",
+5 - RACHEL,U.S. Senate (Democratic),"Brown, Steve",
+5 - RACHEL,U.S. Senate (Democratic),"Ellsworth, Barry",
+5 - RACHEL,U.S. Senate (Democratic),"Macias, Louis",
+5 - RACHEL,U.S. Senate (Democratic),None Of These Candidates,
+5 - RACHEL,U.S. Senate (Democratic),"Price, Nancy",
+5 - RACHEL,U.S. Senate (Republican),"Brooks, Sherry",2
+5 - RACHEL,U.S. Senate (Republican),"Charles, Richard",0
+5 - RACHEL,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+5 - RACHEL,U.S. Senate (Republican),"Heller, Dean",8
+5 - RACHEL,U.S. Senate (Republican),None Of These Candidates,1
+5 - RACHEL,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Anderson, Diana R.",0
 Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Cegavske, Barbara K.",0
 Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Delarosa, Mike",0
@@ -180,15 +180,15 @@ Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Schwartz
 Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Tarkanian, Danny",0
 Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Wegner, Kenneth A.",0
 Precinct 99,"U.S. Representative in Congress, District 4 (Republican)","Zeller, Sid",0
-Precinct 99,United States Senator (Democratic),"Berkley, Shelley",0
-Precinct 99,United States Senator (Democratic),"Brown, Steve",0
-Precinct 99,United States Senator (Democratic),"Ellsworth, Barry",0
-Precinct 99,United States Senator (Democratic),"Macias, Louis",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Price, Nancy",0
-Precinct 99,United States Senator (Republican),"Brooks, Sherry",0
-Precinct 99,United States Senator (Republican),"Charles, Richard",0
-Precinct 99,United States Senator (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
-Precinct 99,United States Senator (Republican),"Heller, Dean",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
-Precinct 99,United States Senator (Republican),"Poliak, Carlo ""Nakusa""",0
+Precinct 99,U.S. Senate (Democratic),"Berkley, Shelley",0
+Precinct 99,U.S. Senate (Democratic),"Brown, Steve",0
+Precinct 99,U.S. Senate (Democratic),"Ellsworth, Barry",0
+Precinct 99,U.S. Senate (Democratic),"Macias, Louis",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Price, Nancy",0
+Precinct 99,U.S. Senate (Republican),"Brooks, Sherry",0
+Precinct 99,U.S. Senate (Republican),"Charles, Richard",0
+Precinct 99,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
+Precinct 99,U.S. Senate (Republican),"Heller, Dean",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0

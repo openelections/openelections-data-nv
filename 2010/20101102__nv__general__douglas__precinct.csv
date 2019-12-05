@@ -70,15 +70,15 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2","Best, Russell",21
 01-Centerville,"U.S. Representative in Congress, District 2","HELLER, DEAN",381
 01-Centerville,"U.S. Representative in Congress, District 2","Price, Nancy",115
-01-Centerville,United States Senator,"Angle, Sharron",332
-01-Centerville,United States Senator,"Ashjian, Scott",9
-01-Centerville,United States Senator,"Fasano, Tim",5
-01-Centerville,United States Senator,"Haines, Michael L.",1
-01-Centerville,United States Senator,"Holland, Jesse",2
-01-Centerville,United States Senator,None Of These Candidates,15
-01-Centerville,United States Senator,"Reeves, Jeffrey C.",3
-01-Centerville,United States Senator,"REID, HARRY",163
-01-Centerville,United States Senator,"Stand, Wil",1
+01-Centerville,U.S. Senate,"Angle, Sharron",332
+01-Centerville,U.S. Senate,"Ashjian, Scott",9
+01-Centerville,U.S. Senate,"Fasano, Tim",5
+01-Centerville,U.S. Senate,"Haines, Michael L.",1
+01-Centerville,U.S. Senate,"Holland, Jesse",2
+01-Centerville,U.S. Senate,None Of These Candidates,15
+01-Centerville,U.S. Senate,"Reeves, Jeffrey C.",3
+01-Centerville,U.S. Senate,"REID, HARRY",163
+01-Centerville,U.S. Senate,"Stand, Wil",1
 02-Fish Springs,Attorney General,"Barrick, Travis",408
 02-Fish Springs,Attorney General,"CORTEZ  MASTO, CATHERINE",293
 02-Fish Springs,Attorney General,"Hansen, Joel F.",74
@@ -150,15 +150,15 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2","Best, Russell",26
 02-Fish Springs,"U.S. Representative in Congress, District 2","HELLER, DEAN",584
 02-Fish Springs,"U.S. Representative in Congress, District 2","Price, Nancy",180
-02-Fish Springs,United States Senator,"Angle, Sharron",507
-02-Fish Springs,United States Senator,"Ashjian, Scott",8
-02-Fish Springs,United States Senator,"Fasano, Tim",11
-02-Fish Springs,United States Senator,"Haines, Michael L.",2
-02-Fish Springs,United States Senator,"Holland, Jesse",4
-02-Fish Springs,United States Senator,None Of These Candidates,16
-02-Fish Springs,United States Senator,"Reeves, Jeffrey C.",4
-02-Fish Springs,United States Senator,"REID, HARRY",260
-02-Fish Springs,United States Senator,"Stand, Wil",2
+02-Fish Springs,U.S. Senate,"Angle, Sharron",507
+02-Fish Springs,U.S. Senate,"Ashjian, Scott",8
+02-Fish Springs,U.S. Senate,"Fasano, Tim",11
+02-Fish Springs,U.S. Senate,"Haines, Michael L.",2
+02-Fish Springs,U.S. Senate,"Holland, Jesse",4
+02-Fish Springs,U.S. Senate,None Of These Candidates,16
+02-Fish Springs,U.S. Senate,"Reeves, Jeffrey C.",4
+02-Fish Springs,U.S. Senate,"REID, HARRY",260
+02-Fish Springs,U.S. Senate,"Stand, Wil",2
 03-Gardnerville,Attorney General,"Barrick, Travis",297
 03-Gardnerville,Attorney General,"CORTEZ  MASTO, CATHERINE",289
 03-Gardnerville,Attorney General,"Hansen, Joel F.",67
@@ -230,15 +230,15 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2","Best, Russell",42
 03-Gardnerville,"U.S. Representative in Congress, District 2","HELLER, DEAN",465
 03-Gardnerville,"U.S. Representative in Congress, District 2","Price, Nancy",186
-03-Gardnerville,United States Senator,"Angle, Sharron",387
-03-Gardnerville,United States Senator,"Ashjian, Scott",8
-03-Gardnerville,United States Senator,"Fasano, Tim",6
-03-Gardnerville,United States Senator,"Haines, Michael L.",5
-03-Gardnerville,United States Senator,"Holland, Jesse",4
-03-Gardnerville,United States Senator,None Of These Candidates,30
-03-Gardnerville,United States Senator,"Reeves, Jeffrey C.",2
-03-Gardnerville,United States Senator,"REID, HARRY",271
-03-Gardnerville,United States Senator,"Stand, Wil",4
+03-Gardnerville,U.S. Senate,"Angle, Sharron",387
+03-Gardnerville,U.S. Senate,"Ashjian, Scott",8
+03-Gardnerville,U.S. Senate,"Fasano, Tim",6
+03-Gardnerville,U.S. Senate,"Haines, Michael L.",5
+03-Gardnerville,U.S. Senate,"Holland, Jesse",4
+03-Gardnerville,U.S. Senate,None Of These Candidates,30
+03-Gardnerville,U.S. Senate,"Reeves, Jeffrey C.",2
+03-Gardnerville,U.S. Senate,"REID, HARRY",271
+03-Gardnerville,U.S. Senate,"Stand, Wil",4
 04-Carson Valley Estates,Attorney General,"Barrick, Travis",197
 04-Carson Valley Estates,Attorney General,"CORTEZ  MASTO, CATHERINE",214
 04-Carson Valley Estates,Attorney General,"Hansen, Joel F.",49
@@ -310,15 +310,15 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","Best, Russell",18
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","HELLER, DEAN",321
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","Price, Nancy",134
-04-Carson Valley Estates,United States Senator,"Angle, Sharron",259
-04-Carson Valley Estates,United States Senator,"Ashjian, Scott",6
-04-Carson Valley Estates,United States Senator,"Fasano, Tim",6
-04-Carson Valley Estates,United States Senator,"Haines, Michael L.",4
-04-Carson Valley Estates,United States Senator,"Holland, Jesse",4
-04-Carson Valley Estates,United States Senator,None Of These Candidates,14
-04-Carson Valley Estates,United States Senator,"Reeves, Jeffrey C.",2
-04-Carson Valley Estates,United States Senator,"REID, HARRY",191
-04-Carson Valley Estates,United States Senator,"Stand, Wil",3
+04-Carson Valley Estates,U.S. Senate,"Angle, Sharron",259
+04-Carson Valley Estates,U.S. Senate,"Ashjian, Scott",6
+04-Carson Valley Estates,U.S. Senate,"Fasano, Tim",6
+04-Carson Valley Estates,U.S. Senate,"Haines, Michael L.",4
+04-Carson Valley Estates,U.S. Senate,"Holland, Jesse",4
+04-Carson Valley Estates,U.S. Senate,None Of These Candidates,14
+04-Carson Valley Estates,U.S. Senate,"Reeves, Jeffrey C.",2
+04-Carson Valley Estates,U.S. Senate,"REID, HARRY",191
+04-Carson Valley Estates,U.S. Senate,"Stand, Wil",3
 05-Genoa,Attorney General,"Barrick, Travis",306
 05-Genoa,Attorney General,"CORTEZ  MASTO, CATHERINE",203
 05-Genoa,Attorney General,"Hansen, Joel F.",49
@@ -385,15 +385,15 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2","Best, Russell",16
 05-Genoa,"U.S. Representative in Congress, District 2","HELLER, DEAN",438
 05-Genoa,"U.S. Representative in Congress, District 2","Price, Nancy",122
-05-Genoa,United States Senator,"Angle, Sharron",400
-05-Genoa,United States Senator,"Ashjian, Scott",4
-05-Genoa,United States Senator,"Fasano, Tim",2
-05-Genoa,United States Senator,"Haines, Michael L.",3
-05-Genoa,United States Senator,"Holland, Jesse",0
-05-Genoa,United States Senator,None Of These Candidates,17
-05-Genoa,United States Senator,"Reeves, Jeffrey C.",2
-05-Genoa,United States Senator,"REID, HARRY",150
-05-Genoa,United States Senator,"Stand, Wil",1
+05-Genoa,U.S. Senate,"Angle, Sharron",400
+05-Genoa,U.S. Senate,"Ashjian, Scott",4
+05-Genoa,U.S. Senate,"Fasano, Tim",2
+05-Genoa,U.S. Senate,"Haines, Michael L.",3
+05-Genoa,U.S. Senate,"Holland, Jesse",0
+05-Genoa,U.S. Senate,None Of These Candidates,17
+05-Genoa,U.S. Senate,"Reeves, Jeffrey C.",2
+05-Genoa,U.S. Senate,"REID, HARRY",150
+05-Genoa,U.S. Senate,"Stand, Wil",1
 06-Jacks Valley,Attorney General,"Barrick, Travis",287
 06-Jacks Valley,Attorney General,"CORTEZ  MASTO, CATHERINE",299
 06-Jacks Valley,Attorney General,"Hansen, Joel F.",79
@@ -467,15 +467,15 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2","Best, Russell",25
 06-Jacks Valley,"U.S. Representative in Congress, District 2","HELLER, DEAN",471
 06-Jacks Valley,"U.S. Representative in Congress, District 2","Price, Nancy",186
-06-Jacks Valley,United States Senator,"Angle, Sharron",400
-06-Jacks Valley,United States Senator,"Ashjian, Scott",7
-06-Jacks Valley,United States Senator,"Fasano, Tim",6
-06-Jacks Valley,United States Senator,"Haines, Michael L.",5
-06-Jacks Valley,United States Senator,"Holland, Jesse",5
-06-Jacks Valley,United States Senator,None Of These Candidates,16
-06-Jacks Valley,United States Senator,"Reeves, Jeffrey C.",1
-06-Jacks Valley,United States Senator,"REID, HARRY",257
-06-Jacks Valley,United States Senator,"Stand, Wil",2
+06-Jacks Valley,U.S. Senate,"Angle, Sharron",400
+06-Jacks Valley,U.S. Senate,"Ashjian, Scott",7
+06-Jacks Valley,U.S. Senate,"Fasano, Tim",6
+06-Jacks Valley,U.S. Senate,"Haines, Michael L.",5
+06-Jacks Valley,U.S. Senate,"Holland, Jesse",5
+06-Jacks Valley,U.S. Senate,None Of These Candidates,16
+06-Jacks Valley,U.S. Senate,"Reeves, Jeffrey C.",1
+06-Jacks Valley,U.S. Senate,"REID, HARRY",257
+06-Jacks Valley,U.S. Senate,"Stand, Wil",2
 07-Minden,Attorney General,"Barrick, Travis",274
 07-Minden,Attorney General,"CORTEZ  MASTO, CATHERINE",259
 07-Minden,Attorney General,"Hansen, Joel F.",38
@@ -549,15 +549,15 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2","Best, Russell",27
 07-Minden,"U.S. Representative in Congress, District 2","HELLER, DEAN",416
 07-Minden,"U.S. Representative in Congress, District 2","Price, Nancy",155
-07-Minden,United States Senator,"Angle, Sharron",337
-07-Minden,United States Senator,"Ashjian, Scott",7
-07-Minden,United States Senator,"Fasano, Tim",6
-07-Minden,United States Senator,"Haines, Michael L.",5
-07-Minden,United States Senator,"Holland, Jesse",4
-07-Minden,United States Senator,None Of These Candidates,20
-07-Minden,United States Senator,"Reeves, Jeffrey C.",4
-07-Minden,United States Senator,"REID, HARRY",223
-07-Minden,United States Senator,"Stand, Wil",1
+07-Minden,U.S. Senate,"Angle, Sharron",337
+07-Minden,U.S. Senate,"Ashjian, Scott",7
+07-Minden,U.S. Senate,"Fasano, Tim",6
+07-Minden,U.S. Senate,"Haines, Michael L.",5
+07-Minden,U.S. Senate,"Holland, Jesse",4
+07-Minden,U.S. Senate,None Of These Candidates,20
+07-Minden,U.S. Senate,"Reeves, Jeffrey C.",4
+07-Minden,U.S. Senate,"REID, HARRY",223
+07-Minden,U.S. Senate,"Stand, Wil",1
 08-Ranchos I,Attorney General,"Barrick, Travis",207
 08-Ranchos I,Attorney General,"CORTEZ  MASTO, CATHERINE",173
 08-Ranchos I,Attorney General,"Hansen, Joel F.",45
@@ -629,15 +629,15 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2","Best, Russell",22
 08-Ranchos I,"U.S. Representative in Congress, District 2","HELLER, DEAN",289
 08-Ranchos I,"U.S. Representative in Congress, District 2","Price, Nancy",125
-08-Ranchos I,United States Senator,"Angle, Sharron",235
-08-Ranchos I,United States Senator,"Ashjian, Scott",11
-08-Ranchos I,United States Senator,"Fasano, Tim",6
-08-Ranchos I,United States Senator,"Haines, Michael L.",3
-08-Ranchos I,United States Senator,"Holland, Jesse",1
-08-Ranchos I,United States Senator,None Of These Candidates,12
-08-Ranchos I,United States Senator,"Reeves, Jeffrey C.",5
-08-Ranchos I,United States Senator,"REID, HARRY",169
-08-Ranchos I,United States Senator,"Stand, Wil",2
+08-Ranchos I,U.S. Senate,"Angle, Sharron",235
+08-Ranchos I,U.S. Senate,"Ashjian, Scott",11
+08-Ranchos I,U.S. Senate,"Fasano, Tim",6
+08-Ranchos I,U.S. Senate,"Haines, Michael L.",3
+08-Ranchos I,U.S. Senate,"Holland, Jesse",1
+08-Ranchos I,U.S. Senate,None Of These Candidates,12
+08-Ranchos I,U.S. Senate,"Reeves, Jeffrey C.",5
+08-Ranchos I,U.S. Senate,"REID, HARRY",169
+08-Ranchos I,U.S. Senate,"Stand, Wil",2
 09-Ranchos II,Attorney General,"Barrick, Travis",236
 09-Ranchos II,Attorney General,"CORTEZ  MASTO, CATHERINE",248
 09-Ranchos II,Attorney General,"Hansen, Joel F.",50
@@ -659,15 +659,15 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2","Best, Russell",20
 09-Ranchos II,"U.S. Representative in Congress, District 2","HELLER, DEAN",366
 09-Ranchos II,"U.S. Representative in Congress, District 2","Price, Nancy",153
-09-Ranchos II,United States Senator,"Angle, Sharron",302
-09-Ranchos II,United States Senator,"Ashjian, Scott",11
-09-Ranchos II,United States Senator,"Fasano, Tim",8
-09-Ranchos II,United States Senator,"Haines, Michael L.",6
-09-Ranchos II,United States Senator,"Holland, Jesse",2
-09-Ranchos II,United States Senator,None Of These Candidates,16
-09-Ranchos II,United States Senator,"Reeves, Jeffrey C.",2
-09-Ranchos II,United States Senator,"REID, HARRY",208
-09-Ranchos II,United States Senator,"Stand, Wil",2
+09-Ranchos II,U.S. Senate,"Angle, Sharron",302
+09-Ranchos II,U.S. Senate,"Ashjian, Scott",11
+09-Ranchos II,U.S. Senate,"Fasano, Tim",8
+09-Ranchos II,U.S. Senate,"Haines, Michael L.",6
+09-Ranchos II,U.S. Senate,"Holland, Jesse",2
+09-Ranchos II,U.S. Senate,None Of These Candidates,16
+09-Ranchos II,U.S. Senate,"Reeves, Jeffrey C.",2
+09-Ranchos II,U.S. Senate,"REID, HARRY",208
+09-Ranchos II,U.S. Senate,"Stand, Wil",2
 10-TRE,Attorney General,"Barrick, Travis",307
 10-TRE,Attorney General,"CORTEZ  MASTO, CATHERINE",268
 10-TRE,Attorney General,"Hansen, Joel F.",72
@@ -731,15 +731,15 @@ precinct,office,candidate,votes
 10-TRE,"U.S. Representative in Congress, District 2","Best, Russell",52
 10-TRE,"U.S. Representative in Congress, District 2","HELLER, DEAN",440
 10-TRE,"U.S. Representative in Congress, District 2","Price, Nancy",171
-10-TRE,United States Senator,"Angle, Sharron",382
-10-TRE,United States Senator,"Ashjian, Scott",16
-10-TRE,United States Senator,"Fasano, Tim",16
-10-TRE,United States Senator,"Haines, Michael L.",12
-10-TRE,United States Senator,"Holland, Jesse",4
-10-TRE,United States Senator,None Of These Candidates,29
-10-TRE,United States Senator,"Reeves, Jeffrey C.",3
-10-TRE,United States Senator,"REID, HARRY",226
-10-TRE,United States Senator,"Stand, Wil",3
+10-TRE,U.S. Senate,"Angle, Sharron",382
+10-TRE,U.S. Senate,"Ashjian, Scott",16
+10-TRE,U.S. Senate,"Fasano, Tim",16
+10-TRE,U.S. Senate,"Haines, Michael L.",12
+10-TRE,U.S. Senate,"Holland, Jesse",4
+10-TRE,U.S. Senate,None Of These Candidates,29
+10-TRE,U.S. Senate,"Reeves, Jeffrey C.",3
+10-TRE,U.S. Senate,"REID, HARRY",226
+10-TRE,U.S. Senate,"Stand, Wil",3
 11-Johnson Lane,Attorney General,"Barrick, Travis",354
 11-Johnson Lane,Attorney General,"CORTEZ  MASTO, CATHERINE",343
 11-Johnson Lane,Attorney General,"Hansen, Joel F.",77
@@ -806,15 +806,15 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2","Best, Russell",25
 11-Johnson Lane,"U.S. Representative in Congress, District 2","HELLER, DEAN",564
 11-Johnson Lane,"U.S. Representative in Congress, District 2","Price, Nancy",209
-11-Johnson Lane,United States Senator,"Angle, Sharron",487
-11-Johnson Lane,United States Senator,"Ashjian, Scott",7
-11-Johnson Lane,United States Senator,"Fasano, Tim",2
-11-Johnson Lane,United States Senator,"Haines, Michael L.",6
-11-Johnson Lane,United States Senator,"Holland, Jesse",1
-11-Johnson Lane,United States Senator,None Of These Candidates,14
-11-Johnson Lane,United States Senator,"Reeves, Jeffrey C.",2
-11-Johnson Lane,United States Senator,"REID, HARRY",291
-11-Johnson Lane,United States Senator,"Stand, Wil",1
+11-Johnson Lane,U.S. Senate,"Angle, Sharron",487
+11-Johnson Lane,U.S. Senate,"Ashjian, Scott",7
+11-Johnson Lane,U.S. Senate,"Fasano, Tim",2
+11-Johnson Lane,U.S. Senate,"Haines, Michael L.",6
+11-Johnson Lane,U.S. Senate,"Holland, Jesse",1
+11-Johnson Lane,U.S. Senate,None Of These Candidates,14
+11-Johnson Lane,U.S. Senate,"Reeves, Jeffrey C.",2
+11-Johnson Lane,U.S. Senate,"REID, HARRY",291
+11-Johnson Lane,U.S. Senate,"Stand, Wil",1
 12-Dresslerville,Attorney General,"Barrick, Travis",7
 12-Dresslerville,Attorney General,"CORTEZ  MASTO, CATHERINE",59
 12-Dresslerville,Attorney General,"Hansen, Joel F.",4
@@ -878,15 +878,15 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2","Best, Russell",6
 12-Dresslerville,"U.S. Representative in Congress, District 2","HELLER, DEAN",17
 12-Dresslerville,"U.S. Representative in Congress, District 2","Price, Nancy",54
-12-Dresslerville,United States Senator,"Angle, Sharron",9
-12-Dresslerville,United States Senator,"Ashjian, Scott",0
-12-Dresslerville,United States Senator,"Fasano, Tim",2
-12-Dresslerville,United States Senator,"Haines, Michael L.",0
-12-Dresslerville,United States Senator,"Holland, Jesse",0
-12-Dresslerville,United States Senator,None Of These Candidates,3
-12-Dresslerville,United States Senator,"Reeves, Jeffrey C.",0
-12-Dresslerville,United States Senator,"REID, HARRY",67
-12-Dresslerville,United States Senator,"Stand, Wil",0
+12-Dresslerville,U.S. Senate,"Angle, Sharron",9
+12-Dresslerville,U.S. Senate,"Ashjian, Scott",0
+12-Dresslerville,U.S. Senate,"Fasano, Tim",2
+12-Dresslerville,U.S. Senate,"Haines, Michael L.",0
+12-Dresslerville,U.S. Senate,"Holland, Jesse",0
+12-Dresslerville,U.S. Senate,None Of These Candidates,3
+12-Dresslerville,U.S. Senate,"Reeves, Jeffrey C.",0
+12-Dresslerville,U.S. Senate,"REID, HARRY",67
+12-Dresslerville,U.S. Senate,"Stand, Wil",0
 13-Indian Hills - West,Attorney General,"Barrick, Travis",327
 13-Indian Hills - West,Attorney General,"CORTEZ  MASTO, CATHERINE",362
 13-Indian Hills - West,Attorney General,"Hansen, Joel F.",68
@@ -960,15 +960,15 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","Best, Russell",44
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","HELLER, DEAN",485
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","Price, Nancy",245
-13-Indian Hills - West,United States Senator,"Angle, Sharron",401
-13-Indian Hills - West,United States Senator,"Ashjian, Scott",15
-13-Indian Hills - West,United States Senator,"Fasano, Tim",9
-13-Indian Hills - West,United States Senator,"Haines, Michael L.",5
-13-Indian Hills - West,United States Senator,"Holland, Jesse",4
-13-Indian Hills - West,United States Senator,None Of These Candidates,25
-13-Indian Hills - West,United States Senator,"Reeves, Jeffrey C.",3
-13-Indian Hills - West,United States Senator,"REID, HARRY",343
-13-Indian Hills - West,United States Senator,"Stand, Wil",4
+13-Indian Hills - West,U.S. Senate,"Angle, Sharron",401
+13-Indian Hills - West,U.S. Senate,"Ashjian, Scott",15
+13-Indian Hills - West,U.S. Senate,"Fasano, Tim",9
+13-Indian Hills - West,U.S. Senate,"Haines, Michael L.",5
+13-Indian Hills - West,U.S. Senate,"Holland, Jesse",4
+13-Indian Hills - West,U.S. Senate,None Of These Candidates,25
+13-Indian Hills - West,U.S. Senate,"Reeves, Jeffrey C.",3
+13-Indian Hills - West,U.S. Senate,"REID, HARRY",343
+13-Indian Hills - West,U.S. Senate,"Stand, Wil",4
 14-Pinenut,Attorney General,"Barrick, Travis",327
 14-Pinenut,Attorney General,"CORTEZ  MASTO, CATHERINE",203
 14-Pinenut,Attorney General,"Hansen, Joel F.",59
@@ -1032,15 +1032,15 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2","Best, Russell",23
 14-Pinenut,"U.S. Representative in Congress, District 2","HELLER, DEAN",459
 14-Pinenut,"U.S. Representative in Congress, District 2","Price, Nancy",119
-14-Pinenut,United States Senator,"Angle, Sharron",430
-14-Pinenut,United States Senator,"Ashjian, Scott",7
-14-Pinenut,United States Senator,"Fasano, Tim",2
-14-Pinenut,United States Senator,"Haines, Michael L.",2
-14-Pinenut,United States Senator,"Holland, Jesse",0
-14-Pinenut,United States Senator,None Of These Candidates,16
-14-Pinenut,United States Senator,"Reeves, Jeffrey C.",0
-14-Pinenut,United States Senator,"REID, HARRY",160
-14-Pinenut,United States Senator,"Stand, Wil",1
+14-Pinenut,U.S. Senate,"Angle, Sharron",430
+14-Pinenut,U.S. Senate,"Ashjian, Scott",7
+14-Pinenut,U.S. Senate,"Fasano, Tim",2
+14-Pinenut,U.S. Senate,"Haines, Michael L.",2
+14-Pinenut,U.S. Senate,"Holland, Jesse",0
+14-Pinenut,U.S. Senate,None Of These Candidates,16
+14-Pinenut,U.S. Senate,"Reeves, Jeffrey C.",0
+14-Pinenut,U.S. Senate,"REID, HARRY",160
+14-Pinenut,U.S. Senate,"Stand, Wil",1
 15-Valley,Attorney General,"Barrick, Travis",150
 15-Valley,Attorney General,"CORTEZ  MASTO, CATHERINE",123
 15-Valley,Attorney General,"Hansen, Joel F.",23
@@ -1107,15 +1107,15 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2","Best, Russell",8
 15-Valley,"U.S. Representative in Congress, District 2","HELLER, DEAN",233
 15-Valley,"U.S. Representative in Congress, District 2","Price, Nancy",61
-15-Valley,United States Senator,"Angle, Sharron",203
-15-Valley,United States Senator,"Ashjian, Scott",1
-15-Valley,United States Senator,"Fasano, Tim",2
-15-Valley,United States Senator,"Haines, Michael L.",3
-15-Valley,United States Senator,"Holland, Jesse",0
-15-Valley,United States Senator,None Of These Candidates,12
-15-Valley,United States Senator,"Reeves, Jeffrey C.",0
-15-Valley,United States Senator,"REID, HARRY",89
-15-Valley,United States Senator,"Stand, Wil",1
+15-Valley,U.S. Senate,"Angle, Sharron",203
+15-Valley,U.S. Senate,"Ashjian, Scott",1
+15-Valley,U.S. Senate,"Fasano, Tim",2
+15-Valley,U.S. Senate,"Haines, Michael L.",3
+15-Valley,U.S. Senate,"Holland, Jesse",0
+15-Valley,U.S. Senate,None Of These Candidates,12
+15-Valley,U.S. Senate,"Reeves, Jeffrey C.",0
+15-Valley,U.S. Senate,"REID, HARRY",89
+15-Valley,U.S. Senate,"Stand, Wil",1
 16-Mottsville,Attorney General,"Barrick, Travis",310
 16-Mottsville,Attorney General,"CORTEZ  MASTO, CATHERINE",201
 16-Mottsville,Attorney General,"Hansen, Joel F.",26
@@ -1182,15 +1182,15 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2","Best, Russell",14
 16-Mottsville,"U.S. Representative in Congress, District 2","HELLER, DEAN",430
 16-Mottsville,"U.S. Representative in Congress, District 2","Price, Nancy",117
-16-Mottsville,United States Senator,"Angle, Sharron",371
-16-Mottsville,United States Senator,"Ashjian, Scott",7
-16-Mottsville,United States Senator,"Fasano, Tim",2
-16-Mottsville,United States Senator,"Haines, Michael L.",2
-16-Mottsville,United States Senator,"Holland, Jesse",3
-16-Mottsville,United States Senator,None Of These Candidates,12
-16-Mottsville,United States Senator,"Reeves, Jeffrey C.",0
-16-Mottsville,United States Senator,"REID, HARRY",173
-16-Mottsville,United States Senator,"Stand, Wil",1
+16-Mottsville,U.S. Senate,"Angle, Sharron",371
+16-Mottsville,U.S. Senate,"Ashjian, Scott",7
+16-Mottsville,U.S. Senate,"Fasano, Tim",2
+16-Mottsville,U.S. Senate,"Haines, Michael L.",2
+16-Mottsville,U.S. Senate,"Holland, Jesse",3
+16-Mottsville,U.S. Senate,None Of These Candidates,12
+16-Mottsville,U.S. Senate,"Reeves, Jeffrey C.",0
+16-Mottsville,U.S. Senate,"REID, HARRY",173
+16-Mottsville,U.S. Senate,"Stand, Wil",1
 17-Ruhenstroth,Attorney General,"Barrick, Travis",497
 17-Ruhenstroth,Attorney General,"CORTEZ  MASTO, CATHERINE",350
 17-Ruhenstroth,Attorney General,"Hansen, Joel F.",61
@@ -1254,15 +1254,15 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","Best, Russell",30
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","HELLER, DEAN",708
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","Price, Nancy",209
-17-Ruhenstroth,United States Senator,"Angle, Sharron",627
-17-Ruhenstroth,United States Senator,"Ashjian, Scott",15
-17-Ruhenstroth,United States Senator,"Fasano, Tim",2
-17-Ruhenstroth,United States Senator,"Haines, Michael L.",4
-17-Ruhenstroth,United States Senator,"Holland, Jesse",3
-17-Ruhenstroth,United States Senator,None Of These Candidates,23
-17-Ruhenstroth,United States Senator,"Reeves, Jeffrey C.",2
-17-Ruhenstroth,United States Senator,"REID, HARRY",288
-17-Ruhenstroth,United States Senator,"Stand, Wil",0
+17-Ruhenstroth,U.S. Senate,"Angle, Sharron",627
+17-Ruhenstroth,U.S. Senate,"Ashjian, Scott",15
+17-Ruhenstroth,U.S. Senate,"Fasano, Tim",2
+17-Ruhenstroth,U.S. Senate,"Haines, Michael L.",4
+17-Ruhenstroth,U.S. Senate,"Holland, Jesse",3
+17-Ruhenstroth,U.S. Senate,None Of These Candidates,23
+17-Ruhenstroth,U.S. Senate,"Reeves, Jeffrey C.",2
+17-Ruhenstroth,U.S. Senate,"REID, HARRY",288
+17-Ruhenstroth,U.S. Senate,"Stand, Wil",0
 18-Ranchos III,Attorney General,"Barrick, Travis",321
 18-Ranchos III,Attorney General,"CORTEZ  MASTO, CATHERINE",289
 18-Ranchos III,Attorney General,"Hansen, Joel F.",55
@@ -1334,15 +1334,15 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2","Best, Russell",27
 18-Ranchos III,"U.S. Representative in Congress, District 2","HELLER, DEAN",500
 18-Ranchos III,"U.S. Representative in Congress, District 2","Price, Nancy",176
-18-Ranchos III,United States Senator,"Angle, Sharron",404
-18-Ranchos III,United States Senator,"Ashjian, Scott",10
-18-Ranchos III,United States Senator,"Fasano, Tim",9
-18-Ranchos III,United States Senator,"Haines, Michael L.",7
-18-Ranchos III,United States Senator,"Holland, Jesse",1
-18-Ranchos III,United States Senator,None Of These Candidates,27
-18-Ranchos III,United States Senator,"Reeves, Jeffrey C.",3
-18-Ranchos III,United States Senator,"REID, HARRY",257
-18-Ranchos III,United States Senator,"Stand, Wil",3
+18-Ranchos III,U.S. Senate,"Angle, Sharron",404
+18-Ranchos III,U.S. Senate,"Ashjian, Scott",10
+18-Ranchos III,U.S. Senate,"Fasano, Tim",9
+18-Ranchos III,U.S. Senate,"Haines, Michael L.",7
+18-Ranchos III,U.S. Senate,"Holland, Jesse",1
+18-Ranchos III,U.S. Senate,None Of These Candidates,27
+18-Ranchos III,U.S. Senate,"Reeves, Jeffrey C.",3
+18-Ranchos III,U.S. Senate,"REID, HARRY",257
+18-Ranchos III,U.S. Senate,"Stand, Wil",3
 19-Ranchos IV,Attorney General,"Barrick, Travis",285
 19-Ranchos IV,Attorney General,"CORTEZ  MASTO, CATHERINE",276
 19-Ranchos IV,Attorney General,"Hansen, Joel F.",57
@@ -1411,15 +1411,15 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2","Best, Russell",31
 19-Ranchos IV,"U.S. Representative in Congress, District 2","HELLER, DEAN",417
 19-Ranchos IV,"U.S. Representative in Congress, District 2","Price, Nancy",187
-19-Ranchos IV,United States Senator,"Angle, Sharron",352
-19-Ranchos IV,United States Senator,"Ashjian, Scott",14
-19-Ranchos IV,United States Senator,"Fasano, Tim",12
-19-Ranchos IV,United States Senator,"Haines, Michael L.",3
-19-Ranchos IV,United States Senator,"Holland, Jesse",3
-19-Ranchos IV,United States Senator,None Of These Candidates,16
-19-Ranchos IV,United States Senator,"Reeves, Jeffrey C.",0
-19-Ranchos IV,United States Senator,"REID, HARRY",253
-19-Ranchos IV,United States Senator,"Stand, Wil",2
+19-Ranchos IV,U.S. Senate,"Angle, Sharron",352
+19-Ranchos IV,U.S. Senate,"Ashjian, Scott",14
+19-Ranchos IV,U.S. Senate,"Fasano, Tim",12
+19-Ranchos IV,U.S. Senate,"Haines, Michael L.",3
+19-Ranchos IV,U.S. Senate,"Holland, Jesse",3
+19-Ranchos IV,U.S. Senate,None Of These Candidates,16
+19-Ranchos IV,U.S. Senate,"Reeves, Jeffrey C.",0
+19-Ranchos IV,U.S. Senate,"REID, HARRY",253
+19-Ranchos IV,U.S. Senate,"Stand, Wil",2
 20-Birch/Ranchos,Attorney General,"Barrick, Travis",257
 20-Birch/Ranchos,Attorney General,"CORTEZ  MASTO, CATHERINE",293
 20-Birch/Ranchos,Attorney General,"Hansen, Joel F.",45
@@ -1488,15 +1488,15 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","Best, Russell",27
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","HELLER, DEAN",377
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","Price, Nancy",204
-20-Birch/Ranchos,United States Senator,"Angle, Sharron",306
-20-Birch/Ranchos,United States Senator,"Ashjian, Scott",9
-20-Birch/Ranchos,United States Senator,"Fasano, Tim",8
-20-Birch/Ranchos,United States Senator,"Haines, Michael L.",3
-20-Birch/Ranchos,United States Senator,"Holland, Jesse",6
-20-Birch/Ranchos,United States Senator,None Of These Candidates,26
-20-Birch/Ranchos,United States Senator,"Reeves, Jeffrey C.",0
-20-Birch/Ranchos,United States Senator,"REID, HARRY",271
-20-Birch/Ranchos,United States Senator,"Stand, Wil",0
+20-Birch/Ranchos,U.S. Senate,"Angle, Sharron",306
+20-Birch/Ranchos,U.S. Senate,"Ashjian, Scott",9
+20-Birch/Ranchos,U.S. Senate,"Fasano, Tim",8
+20-Birch/Ranchos,U.S. Senate,"Haines, Michael L.",3
+20-Birch/Ranchos,U.S. Senate,"Holland, Jesse",6
+20-Birch/Ranchos,U.S. Senate,None Of These Candidates,26
+20-Birch/Ranchos,U.S. Senate,"Reeves, Jeffrey C.",0
+20-Birch/Ranchos,U.S. Senate,"REID, HARRY",271
+20-Birch/Ranchos,U.S. Senate,"Stand, Wil",0
 21-Wildhorse,Attorney General,"Barrick, Travis",385
 21-Wildhorse,Attorney General,"CORTEZ  MASTO, CATHERINE",344
 21-Wildhorse,Attorney General,"Hansen, Joel F.",74
@@ -1563,15 +1563,15 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2","Best, Russell",27
 21-Wildhorse,"U.S. Representative in Congress, District 2","HELLER, DEAN",602
 21-Wildhorse,"U.S. Representative in Congress, District 2","Price, Nancy",198
-21-Wildhorse,United States Senator,"Angle, Sharron",519
-21-Wildhorse,United States Senator,"Ashjian, Scott",11
-21-Wildhorse,United States Senator,"Fasano, Tim",8
-21-Wildhorse,United States Senator,"Haines, Michael L.",1
-21-Wildhorse,United States Senator,"Holland, Jesse",6
-21-Wildhorse,United States Senator,None Of These Candidates,23
-21-Wildhorse,United States Senator,"Reeves, Jeffrey C.",2
-21-Wildhorse,United States Senator,"REID, HARRY",267
-21-Wildhorse,United States Senator,"Stand, Wil",2
+21-Wildhorse,U.S. Senate,"Angle, Sharron",519
+21-Wildhorse,U.S. Senate,"Ashjian, Scott",11
+21-Wildhorse,U.S. Senate,"Fasano, Tim",8
+21-Wildhorse,U.S. Senate,"Haines, Michael L.",1
+21-Wildhorse,U.S. Senate,"Holland, Jesse",6
+21-Wildhorse,U.S. Senate,None Of These Candidates,23
+21-Wildhorse,U.S. Senate,"Reeves, Jeffrey C.",2
+21-Wildhorse,U.S. Senate,"REID, HARRY",267
+21-Wildhorse,U.S. Senate,"Stand, Wil",2
 22-Saratoga,Attorney General,"Barrick, Travis",470
 22-Saratoga,Attorney General,"CORTEZ  MASTO, CATHERINE",359
 22-Saratoga,Attorney General,"Hansen, Joel F.",57
@@ -1638,15 +1638,15 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2","Best, Russell",20
 22-Saratoga,"U.S. Representative in Congress, District 2","HELLER, DEAN",661
 22-Saratoga,"U.S. Representative in Congress, District 2","Price, Nancy",210
-22-Saratoga,United States Senator,"Angle, Sharron",587
-22-Saratoga,United States Senator,"Ashjian, Scott",5
-22-Saratoga,United States Senator,"Fasano, Tim",6
-22-Saratoga,United States Senator,"Haines, Michael L.",2
-22-Saratoga,United States Senator,"Holland, Jesse",4
-22-Saratoga,United States Senator,None Of These Candidates,18
-22-Saratoga,United States Senator,"Reeves, Jeffrey C.",1
-22-Saratoga,United States Senator,"REID, HARRY",287
-22-Saratoga,United States Senator,"Stand, Wil",0
+22-Saratoga,U.S. Senate,"Angle, Sharron",587
+22-Saratoga,U.S. Senate,"Ashjian, Scott",5
+22-Saratoga,U.S. Senate,"Fasano, Tim",6
+22-Saratoga,U.S. Senate,"Haines, Michael L.",2
+22-Saratoga,U.S. Senate,"Holland, Jesse",4
+22-Saratoga,U.S. Senate,None Of These Candidates,18
+22-Saratoga,U.S. Senate,"Reeves, Jeffrey C.",1
+22-Saratoga,U.S. Senate,"REID, HARRY",287
+22-Saratoga,U.S. Senate,"Stand, Wil",0
 23-Indian Hills - East,Attorney General,"Barrick, Travis",228
 23-Indian Hills - East,Attorney General,"CORTEZ  MASTO, CATHERINE",219
 23-Indian Hills - East,Attorney General,"Hansen, Joel F.",36
@@ -1720,15 +1720,15 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","Best, Russell",12
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","HELLER, DEAN",330
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","Price, Nancy",155
-23-Indian Hills - East,United States Senator,"Angle, Sharron",282
-23-Indian Hills - East,United States Senator,"Ashjian, Scott",2
-23-Indian Hills - East,United States Senator,"Fasano, Tim",1
-23-Indian Hills - East,United States Senator,"Haines, Michael L.",0
-23-Indian Hills - East,United States Senator,"Holland, Jesse",0
-23-Indian Hills - East,United States Senator,None Of These Candidates,13
-23-Indian Hills - East,United States Senator,"Reeves, Jeffrey C.",1
-23-Indian Hills - East,United States Senator,"REID, HARRY",209
-23-Indian Hills - East,United States Senator,"Stand, Wil",0
+23-Indian Hills - East,U.S. Senate,"Angle, Sharron",282
+23-Indian Hills - East,U.S. Senate,"Ashjian, Scott",2
+23-Indian Hills - East,U.S. Senate,"Fasano, Tim",1
+23-Indian Hills - East,U.S. Senate,"Haines, Michael L.",0
+23-Indian Hills - East,U.S. Senate,"Holland, Jesse",0
+23-Indian Hills - East,U.S. Senate,None Of These Candidates,13
+23-Indian Hills - East,U.S. Senate,"Reeves, Jeffrey C.",1
+23-Indian Hills - East,U.S. Senate,"REID, HARRY",209
+23-Indian Hills - East,U.S. Senate,"Stand, Wil",0
 24-Topaz Lake,Attorney General,"Barrick, Travis",171
 24-Topaz Lake,Attorney General,"CORTEZ  MASTO, CATHERINE",105
 24-Topaz Lake,Attorney General,"Hansen, Joel F.",39
@@ -1792,15 +1792,15 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2","Best, Russell",12
 24-Topaz Lake,"U.S. Representative in Congress, District 2","HELLER, DEAN",233
 24-Topaz Lake,"U.S. Representative in Congress, District 2","Price, Nancy",65
-24-Topaz Lake,United States Senator,"Angle, Sharron",222
-24-Topaz Lake,United States Senator,"Ashjian, Scott",7
-24-Topaz Lake,United States Senator,"Fasano, Tim",1
-24-Topaz Lake,United States Senator,"Haines, Michael L.",2
-24-Topaz Lake,United States Senator,"Holland, Jesse",0
-24-Topaz Lake,United States Senator,None Of These Candidates,11
-24-Topaz Lake,United States Senator,"Reeves, Jeffrey C.",0
-24-Topaz Lake,United States Senator,"REID, HARRY",81
-24-Topaz Lake,United States Senator,"Stand, Wil",0
+24-Topaz Lake,U.S. Senate,"Angle, Sharron",222
+24-Topaz Lake,U.S. Senate,"Ashjian, Scott",7
+24-Topaz Lake,U.S. Senate,"Fasano, Tim",1
+24-Topaz Lake,U.S. Senate,"Haines, Michael L.",2
+24-Topaz Lake,U.S. Senate,"Holland, Jesse",0
+24-Topaz Lake,U.S. Senate,None Of These Candidates,11
+24-Topaz Lake,U.S. Senate,"Reeves, Jeffrey C.",0
+24-Topaz Lake,U.S. Senate,"REID, HARRY",81
+24-Topaz Lake,U.S. Senate,"Stand, Wil",0
 25-Pleasantview,Attorney General,"Barrick, Travis",496
 25-Pleasantview,Attorney General,"CORTEZ  MASTO, CATHERINE",349
 25-Pleasantview,Attorney General,"Hansen, Joel F.",73
@@ -1872,15 +1872,15 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2","Best, Russell",42
 25-Pleasantview,"U.S. Representative in Congress, District 2","HELLER, DEAN",669
 25-Pleasantview,"U.S. Representative in Congress, District 2","Price, Nancy",233
-25-Pleasantview,United States Senator,"Angle, Sharron",584
-25-Pleasantview,United States Senator,"Ashjian, Scott",11
-25-Pleasantview,United States Senator,"Fasano, Tim",10
-25-Pleasantview,United States Senator,"Haines, Michael L.",8
-25-Pleasantview,United States Senator,"Holland, Jesse",0
-25-Pleasantview,United States Senator,None Of These Candidates,22
-25-Pleasantview,United States Senator,"Reeves, Jeffrey C.",5
-25-Pleasantview,United States Senator,"REID, HARRY",317
-25-Pleasantview,United States Senator,"Stand, Wil",3
+25-Pleasantview,U.S. Senate,"Angle, Sharron",584
+25-Pleasantview,U.S. Senate,"Ashjian, Scott",11
+25-Pleasantview,U.S. Senate,"Fasano, Tim",10
+25-Pleasantview,U.S. Senate,"Haines, Michael L.",8
+25-Pleasantview,U.S. Senate,"Holland, Jesse",0
+25-Pleasantview,U.S. Senate,None Of These Candidates,22
+25-Pleasantview,U.S. Senate,"Reeves, Jeffrey C.",5
+25-Pleasantview,U.S. Senate,"REID, HARRY",317
+25-Pleasantview,U.S. Senate,"Stand, Wil",3
 26-Westwood,Attorney General,"Barrick, Travis",205
 26-Westwood,Attorney General,"CORTEZ  MASTO, CATHERINE",171
 26-Westwood,Attorney General,"Hansen, Joel F.",27
@@ -1954,15 +1954,15 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2","Best, Russell",15
 26-Westwood,"U.S. Representative in Congress, District 2","HELLER, DEAN",306
 26-Westwood,"U.S. Representative in Congress, District 2","Price, Nancy",95
-26-Westwood,United States Senator,"Angle, Sharron",250
-26-Westwood,United States Senator,"Ashjian, Scott",6
-26-Westwood,United States Senator,"Fasano, Tim",1
-26-Westwood,United States Senator,"Haines, Michael L.",0
-26-Westwood,United States Senator,"Holland, Jesse",1
-26-Westwood,United States Senator,None Of These Candidates,17
-26-Westwood,United States Senator,"Reeves, Jeffrey C.",1
-26-Westwood,United States Senator,"REID, HARRY",141
-26-Westwood,United States Senator,"Stand, Wil",1
+26-Westwood,U.S. Senate,"Angle, Sharron",250
+26-Westwood,U.S. Senate,"Ashjian, Scott",6
+26-Westwood,U.S. Senate,"Fasano, Tim",1
+26-Westwood,U.S. Senate,"Haines, Michael L.",0
+26-Westwood,U.S. Senate,"Holland, Jesse",1
+26-Westwood,U.S. Senate,None Of These Candidates,17
+26-Westwood,U.S. Senate,"Reeves, Jeffrey C.",1
+26-Westwood,U.S. Senate,"REID, HARRY",141
+26-Westwood,U.S. Senate,"Stand, Wil",1
 27-Winhaven,Attorney General,"Barrick, Travis",299
 27-Winhaven,Attorney General,"CORTEZ  MASTO, CATHERINE",242
 27-Winhaven,Attorney General,"Hansen, Joel F.",29
@@ -2036,15 +2036,15 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2","Best, Russell",16
 27-Winhaven,"U.S. Representative in Congress, District 2","HELLER, DEAN",414
 27-Winhaven,"U.S. Representative in Congress, District 2","Price, Nancy",144
-27-Winhaven,United States Senator,"Angle, Sharron",367
-27-Winhaven,United States Senator,"Ashjian, Scott",5
-27-Winhaven,United States Senator,"Fasano, Tim",3
-27-Winhaven,United States Senator,"Haines, Michael L.",2
-27-Winhaven,United States Senator,"Holland, Jesse",3
-27-Winhaven,United States Senator,None Of These Candidates,12
-27-Winhaven,United States Senator,"Reeves, Jeffrey C.",2
-27-Winhaven,United States Senator,"REID, HARRY",194
-27-Winhaven,United States Senator,"Stand, Wil",0
+27-Winhaven,U.S. Senate,"Angle, Sharron",367
+27-Winhaven,U.S. Senate,"Ashjian, Scott",5
+27-Winhaven,U.S. Senate,"Fasano, Tim",3
+27-Winhaven,U.S. Senate,"Haines, Michael L.",2
+27-Winhaven,U.S. Senate,"Holland, Jesse",3
+27-Winhaven,U.S. Senate,None Of These Candidates,12
+27-Winhaven,U.S. Senate,"Reeves, Jeffrey C.",2
+27-Winhaven,U.S. Senate,"REID, HARRY",194
+27-Winhaven,U.S. Senate,"Stand, Wil",0
 28-Orchard Road,Attorney General,"Barrick, Travis",142
 28-Orchard Road,Attorney General,"CORTEZ  MASTO, CATHERINE",74
 28-Orchard Road,Attorney General,"Hansen, Joel F.",23
@@ -2118,15 +2118,15 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2","Best, Russell",6
 28-Orchard Road,"U.S. Representative in Congress, District 2","HELLER, DEAN",210
 28-Orchard Road,"U.S. Representative in Congress, District 2","Price, Nancy",35
-28-Orchard Road,United States Senator,"Angle, Sharron",189
-28-Orchard Road,United States Senator,"Ashjian, Scott",1
-28-Orchard Road,United States Senator,"Fasano, Tim",0
-28-Orchard Road,United States Senator,"Haines, Michael L.",1
-28-Orchard Road,United States Senator,"Holland, Jesse",1
-28-Orchard Road,United States Senator,None Of These Candidates,10
-28-Orchard Road,United States Senator,"Reeves, Jeffrey C.",0
-28-Orchard Road,United States Senator,"REID, HARRY",53
-28-Orchard Road,United States Senator,"Stand, Wil",0
+28-Orchard Road,U.S. Senate,"Angle, Sharron",189
+28-Orchard Road,U.S. Senate,"Ashjian, Scott",1
+28-Orchard Road,U.S. Senate,"Fasano, Tim",0
+28-Orchard Road,U.S. Senate,"Haines, Michael L.",1
+28-Orchard Road,U.S. Senate,"Holland, Jesse",1
+28-Orchard Road,U.S. Senate,None Of These Candidates,10
+28-Orchard Road,U.S. Senate,"Reeves, Jeffrey C.",0
+28-Orchard Road,U.S. Senate,"REID, HARRY",53
+28-Orchard Road,U.S. Senate,"Stand, Wil",0
 29-Autumn Hils,Attorney General,"Barrick, Travis",296
 29-Autumn Hils,Attorney General,"CORTEZ  MASTO, CATHERINE",144
 29-Autumn Hils,Attorney General,"Hansen, Joel F.",37
@@ -2193,15 +2193,15 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2","Best, Russell",18
 29-Autumn Hils,"U.S. Representative in Congress, District 2","HELLER, DEAN",383
 29-Autumn Hils,"U.S. Representative in Congress, District 2","Price, Nancy",103
-29-Autumn Hils,United States Senator,"Angle, Sharron",364
-29-Autumn Hils,United States Senator,"Ashjian, Scott",3
-29-Autumn Hils,United States Senator,"Fasano, Tim",0
-29-Autumn Hils,United States Senator,"Haines, Michael L.",1
-29-Autumn Hils,United States Senator,"Holland, Jesse",1
-29-Autumn Hils,United States Senator,None Of These Candidates,9
-29-Autumn Hils,United States Senator,"Reeves, Jeffrey C.",1
-29-Autumn Hils,United States Senator,"REID, HARRY",133
-29-Autumn Hils,United States Senator,"Stand, Wil",1
+29-Autumn Hils,U.S. Senate,"Angle, Sharron",364
+29-Autumn Hils,U.S. Senate,"Ashjian, Scott",3
+29-Autumn Hils,U.S. Senate,"Fasano, Tim",0
+29-Autumn Hils,U.S. Senate,"Haines, Michael L.",1
+29-Autumn Hils,U.S. Senate,"Holland, Jesse",1
+29-Autumn Hils,U.S. Senate,None Of These Candidates,9
+29-Autumn Hils,U.S. Senate,"Reeves, Jeffrey C.",1
+29-Autumn Hils,U.S. Senate,"REID, HARRY",133
+29-Autumn Hils,U.S. Senate,"Stand, Wil",1
 30-East Fork,Attorney General,"Barrick, Travis",
 30-East Fork,Attorney General,"CORTEZ  MASTO, CATHERINE",
 30-East Fork,Attorney General,"Hansen, Joel F.",
@@ -2265,15 +2265,15 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2","Best, Russell",
 30-East Fork,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 30-East Fork,"U.S. Representative in Congress, District 2","Price, Nancy",
-30-East Fork,United States Senator,"Angle, Sharron",
-30-East Fork,United States Senator,"Ashjian, Scott",
-30-East Fork,United States Senator,"Fasano, Tim",
-30-East Fork,United States Senator,"Haines, Michael L.",
-30-East Fork,United States Senator,"Holland, Jesse",
-30-East Fork,United States Senator,None Of These Candidates,
-30-East Fork,United States Senator,"Reeves, Jeffrey C.",
-30-East Fork,United States Senator,"REID, HARRY",
-30-East Fork,United States Senator,"Stand, Wil",
+30-East Fork,U.S. Senate,"Angle, Sharron",
+30-East Fork,U.S. Senate,"Ashjian, Scott",
+30-East Fork,U.S. Senate,"Fasano, Tim",
+30-East Fork,U.S. Senate,"Haines, Michael L.",
+30-East Fork,U.S. Senate,"Holland, Jesse",
+30-East Fork,U.S. Senate,None Of These Candidates,
+30-East Fork,U.S. Senate,"Reeves, Jeffrey C.",
+30-East Fork,U.S. Senate,"REID, HARRY",
+30-East Fork,U.S. Senate,"Stand, Wil",
 31-Chichester,Attorney General,"Barrick, Travis",222
 31-Chichester,Attorney General,"CORTEZ  MASTO, CATHERINE",171
 31-Chichester,Attorney General,"Hansen, Joel F.",27
@@ -2345,15 +2345,15 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2","Best, Russell",13
 31-Chichester,"U.S. Representative in Congress, District 2","HELLER, DEAN",314
 31-Chichester,"U.S. Representative in Congress, District 2","Price, Nancy",103
-31-Chichester,United States Senator,"Angle, Sharron",280
-31-Chichester,United States Senator,"Ashjian, Scott",5
-31-Chichester,United States Senator,"Fasano, Tim",6
-31-Chichester,United States Senator,"Haines, Michael L.",4
-31-Chichester,United States Senator,"Holland, Jesse",0
-31-Chichester,United States Senator,None Of These Candidates,9
-31-Chichester,United States Senator,"Reeves, Jeffrey C.",0
-31-Chichester,United States Senator,"REID, HARRY",142
-31-Chichester,United States Senator,"Stand, Wil",0
+31-Chichester,U.S. Senate,"Angle, Sharron",280
+31-Chichester,U.S. Senate,"Ashjian, Scott",5
+31-Chichester,U.S. Senate,"Fasano, Tim",6
+31-Chichester,U.S. Senate,"Haines, Michael L.",4
+31-Chichester,U.S. Senate,"Holland, Jesse",0
+31-Chichester,U.S. Senate,None Of These Candidates,9
+31-Chichester,U.S. Senate,"Reeves, Jeffrey C.",0
+31-Chichester,U.S. Senate,"REID, HARRY",142
+31-Chichester,U.S. Senate,"Stand, Wil",0
 32-East Valley,Attorney General,"Barrick, Travis",203
 32-East Valley,Attorney General,"CORTEZ  MASTO, CATHERINE",122
 32-East Valley,Attorney General,"Hansen, Joel F.",32
@@ -2420,15 +2420,15 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2","Best, Russell",11
 32-East Valley,"U.S. Representative in Congress, District 2","HELLER, DEAN",274
 32-East Valley,"U.S. Representative in Congress, District 2","Price, Nancy",83
-32-East Valley,United States Senator,"Angle, Sharron",246
-32-East Valley,United States Senator,"Ashjian, Scott",8
-32-East Valley,United States Senator,"Fasano, Tim",4
-32-East Valley,United States Senator,"Haines, Michael L.",1
-32-East Valley,United States Senator,"Holland, Jesse",5
-32-East Valley,United States Senator,None Of These Candidates,9
-32-East Valley,United States Senator,"Reeves, Jeffrey C.",0
-32-East Valley,United States Senator,"REID, HARRY",102
-32-East Valley,United States Senator,"Stand, Wil",1
+32-East Valley,U.S. Senate,"Angle, Sharron",246
+32-East Valley,U.S. Senate,"Ashjian, Scott",8
+32-East Valley,U.S. Senate,"Fasano, Tim",4
+32-East Valley,U.S. Senate,"Haines, Michael L.",1
+32-East Valley,U.S. Senate,"Holland, Jesse",5
+32-East Valley,U.S. Senate,None Of These Candidates,9
+32-East Valley,U.S. Senate,"Reeves, Jeffrey C.",0
+32-East Valley,U.S. Senate,"REID, HARRY",102
+32-East Valley,U.S. Senate,"Stand, Wil",1
 33-Hot Springs,Attorney General,"Barrick, Travis",166
 33-Hot Springs,Attorney General,"CORTEZ  MASTO, CATHERINE",141
 33-Hot Springs,Attorney General,"Hansen, Joel F.",41
@@ -2495,15 +2495,15 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2","Best, Russell",11
 33-Hot Springs,"U.S. Representative in Congress, District 2","HELLER, DEAN",251
 33-Hot Springs,"U.S. Representative in Congress, District 2","Price, Nancy",102
-33-Hot Springs,United States Senator,"Angle, Sharron",234
-33-Hot Springs,United States Senator,"Ashjian, Scott",3
-33-Hot Springs,United States Senator,"Fasano, Tim",1
-33-Hot Springs,United States Senator,"Haines, Michael L.",2
-33-Hot Springs,United States Senator,"Holland, Jesse",2
-33-Hot Springs,United States Senator,None Of These Candidates,7
-33-Hot Springs,United States Senator,"Reeves, Jeffrey C.",0
-33-Hot Springs,United States Senator,"REID, HARRY",121
-33-Hot Springs,United States Senator,"Stand, Wil",2
+33-Hot Springs,U.S. Senate,"Angle, Sharron",234
+33-Hot Springs,U.S. Senate,"Ashjian, Scott",3
+33-Hot Springs,U.S. Senate,"Fasano, Tim",1
+33-Hot Springs,U.S. Senate,"Haines, Michael L.",2
+33-Hot Springs,U.S. Senate,"Holland, Jesse",2
+33-Hot Springs,U.S. Senate,None Of These Candidates,7
+33-Hot Springs,U.S. Senate,"Reeves, Jeffrey C.",0
+33-Hot Springs,U.S. Senate,"REID, HARRY",121
+33-Hot Springs,U.S. Senate,"Stand, Wil",2
 34-Sunridge,Attorney General,"Barrick, Travis",155
 34-Sunridge,Attorney General,"CORTEZ  MASTO, CATHERINE",108
 34-Sunridge,Attorney General,"Hansen, Joel F.",28
@@ -2577,15 +2577,15 @@ precinct,office,candidate,votes
 34-Sunridge,"U.S. Representative in Congress, District 2","Best, Russell",11
 34-Sunridge,"U.S. Representative in Congress, District 2","HELLER, DEAN",207
 34-Sunridge,"U.S. Representative in Congress, District 2","Price, Nancy",74
-34-Sunridge,United States Senator,"Angle, Sharron",179
-34-Sunridge,United States Senator,"Ashjian, Scott",8
-34-Sunridge,United States Senator,"Fasano, Tim",2
-34-Sunridge,United States Senator,"Haines, Michael L.",0
-34-Sunridge,United States Senator,"Holland, Jesse",2
-34-Sunridge,United States Senator,None Of These Candidates,15
-34-Sunridge,United States Senator,"Reeves, Jeffrey C.",0
-34-Sunridge,United States Senator,"REID, HARRY",94
-34-Sunridge,United States Senator,"Stand, Wil",1
+34-Sunridge,U.S. Senate,"Angle, Sharron",179
+34-Sunridge,U.S. Senate,"Ashjian, Scott",8
+34-Sunridge,U.S. Senate,"Fasano, Tim",2
+34-Sunridge,U.S. Senate,"Haines, Michael L.",0
+34-Sunridge,U.S. Senate,"Holland, Jesse",2
+34-Sunridge,U.S. Senate,None Of These Candidates,15
+34-Sunridge,U.S. Senate,"Reeves, Jeffrey C.",0
+34-Sunridge,U.S. Senate,"REID, HARRY",94
+34-Sunridge,U.S. Senate,"Stand, Wil",1
 35-Glenbrook,Attorney General,"Barrick, Travis",204
 35-Glenbrook,Attorney General,"CORTEZ  MASTO, CATHERINE",85
 35-Glenbrook,Attorney General,"Hansen, Joel F.",17
@@ -2652,15 +2652,15 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2","Best, Russell",7
 35-Glenbrook,"U.S. Representative in Congress, District 2","HELLER, DEAN",244
 35-Glenbrook,"U.S. Representative in Congress, District 2","Price, Nancy",63
-35-Glenbrook,United States Senator,"Angle, Sharron",217
-35-Glenbrook,United States Senator,"Ashjian, Scott",4
-35-Glenbrook,United States Senator,"Fasano, Tim",0
-35-Glenbrook,United States Senator,"Haines, Michael L.",0
-35-Glenbrook,United States Senator,"Holland, Jesse",0
-35-Glenbrook,United States Senator,None Of These Candidates,8
-35-Glenbrook,United States Senator,"Reeves, Jeffrey C.",1
-35-Glenbrook,United States Senator,"REID, HARRY",87
-35-Glenbrook,United States Senator,"Stand, Wil",1
+35-Glenbrook,U.S. Senate,"Angle, Sharron",217
+35-Glenbrook,U.S. Senate,"Ashjian, Scott",4
+35-Glenbrook,U.S. Senate,"Fasano, Tim",0
+35-Glenbrook,U.S. Senate,"Haines, Michael L.",0
+35-Glenbrook,U.S. Senate,"Holland, Jesse",0
+35-Glenbrook,U.S. Senate,None Of These Candidates,8
+35-Glenbrook,U.S. Senate,"Reeves, Jeffrey C.",1
+35-Glenbrook,U.S. Senate,"REID, HARRY",87
+35-Glenbrook,U.S. Senate,"Stand, Wil",1
 36-Skyland,Attorney General,"Barrick, Travis",218
 36-Skyland,Attorney General,"CORTEZ  MASTO, CATHERINE",103
 36-Skyland,Attorney General,"Hansen, Joel F.",32
@@ -2730,15 +2730,15 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2","Best, Russell",13
 36-Skyland,"U.S. Representative in Congress, District 2","HELLER, DEAN",273
 36-Skyland,"U.S. Representative in Congress, District 2","Price, Nancy",63
-36-Skyland,United States Senator,"Angle, Sharron",247
-36-Skyland,United States Senator,"Ashjian, Scott",4
-36-Skyland,United States Senator,"Fasano, Tim",3
-36-Skyland,United States Senator,"Haines, Michael L.",1
-36-Skyland,United States Senator,"Holland, Jesse",0
-36-Skyland,United States Senator,None Of These Candidates,16
-36-Skyland,United States Senator,"Reeves, Jeffrey C.",2
-36-Skyland,United States Senator,"REID, HARRY",91
-36-Skyland,United States Senator,"Stand, Wil",0
+36-Skyland,U.S. Senate,"Angle, Sharron",247
+36-Skyland,U.S. Senate,"Ashjian, Scott",4
+36-Skyland,U.S. Senate,"Fasano, Tim",3
+36-Skyland,U.S. Senate,"Haines, Michael L.",1
+36-Skyland,U.S. Senate,"Holland, Jesse",0
+36-Skyland,U.S. Senate,None Of These Candidates,16
+36-Skyland,U.S. Senate,"Reeves, Jeffrey C.",2
+36-Skyland,U.S. Senate,"REID, HARRY",91
+36-Skyland,U.S. Senate,"Stand, Wil",0
 37-Zephyr Cove,Attorney General,"Barrick, Travis",162
 37-Zephyr Cove,Attorney General,"CORTEZ  MASTO, CATHERINE",130
 37-Zephyr Cove,Attorney General,"Hansen, Joel F.",8
@@ -2805,15 +2805,15 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","Best, Russell",6
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","HELLER, DEAN",202
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","Price, Nancy",108
-37-Zephyr Cove,United States Senator,"Angle, Sharron",183
-37-Zephyr Cove,United States Senator,"Ashjian, Scott",1
-37-Zephyr Cove,United States Senator,"Fasano, Tim",2
-37-Zephyr Cove,United States Senator,"Haines, Michael L.",3
-37-Zephyr Cove,United States Senator,"Holland, Jesse",1
-37-Zephyr Cove,United States Senator,None Of These Candidates,7
-37-Zephyr Cove,United States Senator,"Reeves, Jeffrey C.",0
-37-Zephyr Cove,United States Senator,"REID, HARRY",128
-37-Zephyr Cove,United States Senator,"Stand, Wil",2
+37-Zephyr Cove,U.S. Senate,"Angle, Sharron",183
+37-Zephyr Cove,U.S. Senate,"Ashjian, Scott",1
+37-Zephyr Cove,U.S. Senate,"Fasano, Tim",2
+37-Zephyr Cove,U.S. Senate,"Haines, Michael L.",3
+37-Zephyr Cove,U.S. Senate,"Holland, Jesse",1
+37-Zephyr Cove,U.S. Senate,None Of These Candidates,7
+37-Zephyr Cove,U.S. Senate,"Reeves, Jeffrey C.",0
+37-Zephyr Cove,U.S. Senate,"REID, HARRY",128
+37-Zephyr Cove,U.S. Senate,"Stand, Wil",2
 37-Zephyr Cove,Zephyr Heights G I D - 4 Seats,"CUMMINGS, TRACEY",74
 37-Zephyr Cove,Zephyr Heights G I D - 4 Seats,"DOXEY, BRUCE",46
 37-Zephyr Cove,Zephyr Heights G I D - 4 Seats,"IMBACH, DIANE ""DEE DEE""",82
@@ -2883,15 +2883,15 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2","Best, Russell",15
 38-Round Hill,"U.S. Representative in Congress, District 2","HELLER, DEAN",248
 38-Round Hill,"U.S. Representative in Congress, District 2","Price, Nancy",139
-38-Round Hill,United States Senator,"Angle, Sharron",223
-38-Round Hill,United States Senator,"Ashjian, Scott",7
-38-Round Hill,United States Senator,"Fasano, Tim",0
-38-Round Hill,United States Senator,"Haines, Michael L.",3
-38-Round Hill,United States Senator,"Holland, Jesse",0
-38-Round Hill,United States Senator,None Of These Candidates,5
-38-Round Hill,United States Senator,"Reeves, Jeffrey C.",1
-38-Round Hill,United States Senator,"REID, HARRY",175
-38-Round Hill,United States Senator,"Stand, Wil",1
+38-Round Hill,U.S. Senate,"Angle, Sharron",223
+38-Round Hill,U.S. Senate,"Ashjian, Scott",7
+38-Round Hill,U.S. Senate,"Fasano, Tim",0
+38-Round Hill,U.S. Senate,"Haines, Michael L.",3
+38-Round Hill,U.S. Senate,"Holland, Jesse",0
+38-Round Hill,U.S. Senate,None Of These Candidates,5
+38-Round Hill,U.S. Senate,"Reeves, Jeffrey C.",1
+38-Round Hill,U.S. Senate,"REID, HARRY",175
+38-Round Hill,U.S. Senate,"Stand, Wil",1
 39-Edgewood,Attorney General,"Barrick, Travis",55
 39-Edgewood,Attorney General,"CORTEZ  MASTO, CATHERINE",72
 39-Edgewood,Attorney General,"Hansen, Joel F.",11
@@ -2955,15 +2955,15 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2","Best, Russell",9
 39-Edgewood,"U.S. Representative in Congress, District 2","HELLER, DEAN",69
 39-Edgewood,"U.S. Representative in Congress, District 2","Price, Nancy",57
-39-Edgewood,United States Senator,"Angle, Sharron",56
-39-Edgewood,United States Senator,"Ashjian, Scott",5
-39-Edgewood,United States Senator,"Fasano, Tim",3
-39-Edgewood,United States Senator,"Haines, Michael L.",4
-39-Edgewood,United States Senator,"Holland, Jesse",1
-39-Edgewood,United States Senator,None Of These Candidates,2
-39-Edgewood,United States Senator,"Reeves, Jeffrey C.",0
-39-Edgewood,United States Senator,"REID, HARRY",73
-39-Edgewood,United States Senator,"Stand, Wil",0
+39-Edgewood,U.S. Senate,"Angle, Sharron",56
+39-Edgewood,U.S. Senate,"Ashjian, Scott",5
+39-Edgewood,U.S. Senate,"Fasano, Tim",3
+39-Edgewood,U.S. Senate,"Haines, Michael L.",4
+39-Edgewood,U.S. Senate,"Holland, Jesse",1
+39-Edgewood,U.S. Senate,None Of These Candidates,2
+39-Edgewood,U.S. Senate,"Reeves, Jeffrey C.",0
+39-Edgewood,U.S. Senate,"REID, HARRY",73
+39-Edgewood,U.S. Senate,"Stand, Wil",0
 40-Kingsbury,Attorney General,"Barrick, Travis",231
 40-Kingsbury,Attorney General,"CORTEZ  MASTO, CATHERINE",275
 40-Kingsbury,Attorney General,"Hansen, Joel F.",45
@@ -3038,15 +3038,15 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2","Best, Russell",22
 40-Kingsbury,"U.S. Representative in Congress, District 2","HELLER, DEAN",358
 40-Kingsbury,"U.S. Representative in Congress, District 2","Price, Nancy",194
-40-Kingsbury,United States Senator,"Angle, Sharron",280
-40-Kingsbury,United States Senator,"Ashjian, Scott",11
-40-Kingsbury,United States Senator,"Fasano, Tim",11
-40-Kingsbury,United States Senator,"Haines, Michael L.",1
-40-Kingsbury,United States Senator,"Holland, Jesse",1
-40-Kingsbury,United States Senator,None Of These Candidates,25
-40-Kingsbury,United States Senator,"Reeves, Jeffrey C.",2
-40-Kingsbury,United States Senator,"REID, HARRY",252
-40-Kingsbury,United States Senator,"Stand, Wil",4
+40-Kingsbury,U.S. Senate,"Angle, Sharron",280
+40-Kingsbury,U.S. Senate,"Ashjian, Scott",11
+40-Kingsbury,U.S. Senate,"Fasano, Tim",11
+40-Kingsbury,U.S. Senate,"Haines, Michael L.",1
+40-Kingsbury,U.S. Senate,"Holland, Jesse",1
+40-Kingsbury,U.S. Senate,None Of These Candidates,25
+40-Kingsbury,U.S. Senate,"Reeves, Jeffrey C.",2
+40-Kingsbury,U.S. Senate,"REID, HARRY",252
+40-Kingsbury,U.S. Senate,"Stand, Wil",4
 41-Daggett,Attorney General,"Barrick, Travis",205
 41-Daggett,Attorney General,"CORTEZ  MASTO, CATHERINE",234
 41-Daggett,Attorney General,"Hansen, Joel F.",33
@@ -3121,24 +3121,24 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2","Best, Russell",21
 41-Daggett,"U.S. Representative in Congress, District 2","HELLER, DEAN",262
 41-Daggett,"U.S. Representative in Congress, District 2","Price, Nancy",217
-41-Daggett,United States Senator,"Angle, Sharron",216
-41-Daggett,United States Senator,"Ashjian, Scott",3
-41-Daggett,United States Senator,"Fasano, Tim",6
-41-Daggett,United States Senator,"Haines, Michael L.",2
-41-Daggett,United States Senator,"Holland, Jesse",2
-41-Daggett,United States Senator,None Of These Candidates,7
-41-Daggett,United States Senator,"Reeves, Jeffrey C.",1
-41-Daggett,United States Senator,"REID, HARRY",271
-41-Daggett,United States Senator,"Stand, Wil",5
+41-Daggett,U.S. Senate,"Angle, Sharron",216
+41-Daggett,U.S. Senate,"Ashjian, Scott",3
+41-Daggett,U.S. Senate,"Fasano, Tim",6
+41-Daggett,U.S. Senate,"Haines, Michael L.",2
+41-Daggett,U.S. Senate,"Holland, Jesse",2
+41-Daggett,U.S. Senate,None Of These Candidates,7
+41-Daggett,U.S. Senate,"Reeves, Jeffrey C.",1
+41-Daggett,U.S. Senate,"REID, HARRY",271
+41-Daggett,U.S. Senate,"Stand, Wil",5
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 Precinct 99,"U.S. Representative in Congress, District 2","Price, Nancy",
-Precinct 99,United States Senator,"Angle, Sharron",
-Precinct 99,United States Senator,"Ashjian, Scott",
-Precinct 99,United States Senator,"Fasano, Tim",
-Precinct 99,United States Senator,"Haines, Michael L.",
-Precinct 99,United States Senator,"Holland, Jesse",
-Precinct 99,United States Senator,None Of These Candidates,
-Precinct 99,United States Senator,"Reeves, Jeffrey C.",
-Precinct 99,United States Senator,"REID, HARRY",
-Precinct 99,United States Senator,"Stand, Wil",
+Precinct 99,U.S. Senate,"Angle, Sharron",
+Precinct 99,U.S. Senate,"Ashjian, Scott",
+Precinct 99,U.S. Senate,"Fasano, Tim",
+Precinct 99,U.S. Senate,"Haines, Michael L.",
+Precinct 99,U.S. Senate,"Holland, Jesse",
+Precinct 99,U.S. Senate,None Of These Candidates,
+Precinct 99,U.S. Senate,"Reeves, Jeffrey C.",
+Precinct 99,U.S. Senate,"REID, HARRY",
+Precinct 99,U.S. Senate,"Stand, Wil",

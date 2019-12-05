@@ -97,12 +97,12 @@ Precinct 02,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 02,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 Precinct 02,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",22
 Precinct 02,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-Precinct 02,United States Senator (Democratic),"Carter, Jack",28
-Precinct 02,United States Senator (Democratic),None Of These Candidates,5
-Precinct 02,United States Senator (Democratic),"Tun, Ruby jee",7
-Precinct 02,United States Senator (Republican),"Ensign, John",100
-Precinct 02,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 02,United States Senator (Republican),None Of These Candidates,6
+Precinct 02,U.S. Senate (Democratic),"Carter, Jack",28
+Precinct 02,U.S. Senate (Democratic),None Of These Candidates,5
+Precinct 02,U.S. Senate (Democratic),"Tun, Ruby jee",7
+Precinct 02,U.S. Senate (Republican),"Ensign, John",100
+Precinct 02,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 02,U.S. Senate (Republican),None Of These Candidates,6
 Precinct 03,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",63
 Precinct 03,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",145
 Precinct 03,Board of School Trustees (Nonpartisan),"EVANS, RON",152
@@ -174,12 +174,12 @@ Precinct 03,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 03,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 Precinct 03,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",75
 Precinct 03,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 03,United States Senator (Democratic),"Carter, Jack",52
-Precinct 03,United States Senator (Democratic),None Of These Candidates,11
-Precinct 03,United States Senator (Democratic),"Tun, Ruby jee",8
-Precinct 03,United States Senator (Republican),"Ensign, John",144
-Precinct 03,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-Precinct 03,United States Senator (Republican),None Of These Candidates,2
+Precinct 03,U.S. Senate (Democratic),"Carter, Jack",52
+Precinct 03,U.S. Senate (Democratic),None Of These Candidates,11
+Precinct 03,U.S. Senate (Democratic),"Tun, Ruby jee",8
+Precinct 03,U.S. Senate (Republican),"Ensign, John",144
+Precinct 03,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+Precinct 03,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 04,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",74
 Precinct 04,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",116
 Precinct 04,Board of School Trustees (Nonpartisan),"EVANS, RON",122
@@ -251,12 +251,12 @@ Precinct 04,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 04,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 04,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",35
 Precinct 04,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 04,United States Senator (Democratic),"Carter, Jack",48
-Precinct 04,United States Senator (Democratic),None Of These Candidates,15
-Precinct 04,United States Senator (Democratic),"Tun, Ruby jee",9
-Precinct 04,United States Senator (Republican),"Ensign, John",101
-Precinct 04,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 04,United States Senator (Republican),None Of These Candidates,4
+Precinct 04,U.S. Senate (Democratic),"Carter, Jack",48
+Precinct 04,U.S. Senate (Democratic),None Of These Candidates,15
+Precinct 04,U.S. Senate (Democratic),"Tun, Ruby jee",9
+Precinct 04,U.S. Senate (Republican),"Ensign, John",101
+Precinct 04,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 04,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 05,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",66
 Precinct 05,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",119
 Precinct 05,Board of School Trustees (Nonpartisan),"EVANS, RON",128
@@ -328,12 +328,12 @@ Precinct 05,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 05,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 05,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",44
 Precinct 05,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-Precinct 05,United States Senator (Democratic),"Carter, Jack",66
-Precinct 05,United States Senator (Democratic),None Of These Candidates,8
-Precinct 05,United States Senator (Democratic),"Tun, Ruby jee",10
-Precinct 05,United States Senator (Republican),"Ensign, John",110
-Precinct 05,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-Precinct 05,United States Senator (Republican),None Of These Candidates,1
+Precinct 05,U.S. Senate (Democratic),"Carter, Jack",66
+Precinct 05,U.S. Senate (Democratic),None Of These Candidates,8
+Precinct 05,U.S. Senate (Democratic),"Tun, Ruby jee",10
+Precinct 05,U.S. Senate (Republican),"Ensign, John",110
+Precinct 05,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+Precinct 05,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 06,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",55
 Precinct 06,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",146
 Precinct 06,Board of School Trustees (Nonpartisan),"EVANS, RON",172
@@ -405,12 +405,12 @@ Precinct 06,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 06,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 06,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",65
 Precinct 06,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 06,United States Senator (Democratic),"Carter, Jack",59
-Precinct 06,United States Senator (Democratic),None Of These Candidates,9
-Precinct 06,United States Senator (Democratic),"Tun, Ruby jee",11
-Precinct 06,United States Senator (Republican),"Ensign, John",151
-Precinct 06,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-Precinct 06,United States Senator (Republican),None Of These Candidates,7
+Precinct 06,U.S. Senate (Democratic),"Carter, Jack",59
+Precinct 06,U.S. Senate (Democratic),None Of These Candidates,9
+Precinct 06,U.S. Senate (Democratic),"Tun, Ruby jee",11
+Precinct 06,U.S. Senate (Republican),"Ensign, John",151
+Precinct 06,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+Precinct 06,U.S. Senate (Republican),None Of These Candidates,7
 Precinct 07,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",82
 Precinct 07,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",190
 Precinct 07,Board of School Trustees (Nonpartisan),"EVANS, RON",230
@@ -482,12 +482,12 @@ Precinct 07,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 07,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 07,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",90
 Precinct 07,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",5
-Precinct 07,United States Senator (Democratic),"Carter, Jack",70
-Precinct 07,United States Senator (Democratic),None Of These Candidates,10
-Precinct 07,United States Senator (Democratic),"Tun, Ruby jee",10
-Precinct 07,United States Senator (Republican),"Ensign, John",220
-Precinct 07,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 07,United States Senator (Republican),None Of These Candidates,17
+Precinct 07,U.S. Senate (Democratic),"Carter, Jack",70
+Precinct 07,U.S. Senate (Democratic),None Of These Candidates,10
+Precinct 07,U.S. Senate (Democratic),"Tun, Ruby jee",10
+Precinct 07,U.S. Senate (Republican),"Ensign, John",220
+Precinct 07,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 07,U.S. Senate (Republican),None Of These Candidates,17
 Precinct 08,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",47
 Precinct 08,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",90
 Precinct 08,Board of School Trustees (Nonpartisan),"EVANS, RON",92
@@ -559,12 +559,12 @@ Precinct 08,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 08,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 08,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",28
 Precinct 08,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 08,United States Senator (Democratic),"Carter, Jack",46
-Precinct 08,United States Senator (Democratic),None Of These Candidates,10
-Precinct 08,United States Senator (Democratic),"Tun, Ruby jee",4
-Precinct 08,United States Senator (Republican),"Ensign, John",77
-Precinct 08,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-Precinct 08,United States Senator (Republican),None Of These Candidates,3
+Precinct 08,U.S. Senate (Democratic),"Carter, Jack",46
+Precinct 08,U.S. Senate (Democratic),None Of These Candidates,10
+Precinct 08,U.S. Senate (Democratic),"Tun, Ruby jee",4
+Precinct 08,U.S. Senate (Republican),"Ensign, John",77
+Precinct 08,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+Precinct 08,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 09,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",51
 Precinct 09,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",127
 Precinct 09,Board of School Trustees (Nonpartisan),"EVANS, RON",137
@@ -636,12 +636,12 @@ Precinct 09,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 09,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 09,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",59
 Precinct 09,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",3
-Precinct 09,United States Senator (Democratic),"Carter, Jack",24
-Precinct 09,United States Senator (Democratic),None Of These Candidates,8
-Precinct 09,United States Senator (Democratic),"Tun, Ruby jee",8
-Precinct 09,United States Senator (Republican),"Ensign, John",143
-Precinct 09,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",1
-Precinct 09,United States Senator (Republican),None Of These Candidates,9
+Precinct 09,U.S. Senate (Democratic),"Carter, Jack",24
+Precinct 09,U.S. Senate (Democratic),None Of These Candidates,8
+Precinct 09,U.S. Senate (Democratic),"Tun, Ruby jee",8
+Precinct 09,U.S. Senate (Republican),"Ensign, John",143
+Precinct 09,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
+Precinct 09,U.S. Senate (Republican),None Of These Candidates,9
 Precinct 10,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",87
 Precinct 10,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",191
 Precinct 10,Board of School Trustees (Nonpartisan),"EVANS, RON",235
@@ -713,12 +713,12 @@ Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",4
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",84
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",7
-Precinct 10,United States Senator (Democratic),"Carter, Jack",75
-Precinct 10,United States Senator (Democratic),None Of These Candidates,26
-Precinct 10,United States Senator (Democratic),"Tun, Ruby jee",17
-Precinct 10,United States Senator (Republican),"Ensign, John",200
-Precinct 10,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",6
-Precinct 10,United States Senator (Republican),None Of These Candidates,11
+Precinct 10,U.S. Senate (Democratic),"Carter, Jack",75
+Precinct 10,U.S. Senate (Democratic),None Of These Candidates,26
+Precinct 10,U.S. Senate (Democratic),"Tun, Ruby jee",17
+Precinct 10,U.S. Senate (Republican),"Ensign, John",200
+Precinct 10,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
+Precinct 10,U.S. Senate (Republican),None Of These Candidates,11
 Precinct 11,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",78
 Precinct 11,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",170
 Precinct 11,Board of School Trustees (Nonpartisan),"EVANS, RON",213
@@ -790,12 +790,12 @@ Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",78
 Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-Precinct 11,United States Senator (Democratic),"Carter, Jack",56
-Precinct 11,United States Senator (Democratic),None Of These Candidates,17
-Precinct 11,United States Senator (Democratic),"Tun, Ruby jee",5
-Precinct 11,United States Senator (Republican),"Ensign, John",224
-Precinct 11,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-Precinct 11,United States Senator (Republican),None Of These Candidates,12
+Precinct 11,U.S. Senate (Democratic),"Carter, Jack",56
+Precinct 11,U.S. Senate (Democratic),None Of These Candidates,17
+Precinct 11,U.S. Senate (Democratic),"Tun, Ruby jee",5
+Precinct 11,U.S. Senate (Republican),"Ensign, John",224
+Precinct 11,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+Precinct 11,U.S. Senate (Republican),None Of These Candidates,12
 Precinct 12,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",34
 Precinct 12,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",83
 Precinct 12,Board of School Trustees (Nonpartisan),"EVANS, RON",75
@@ -873,12 +873,12 @@ Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",24
 Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-Precinct 12,United States Senator (Democratic),"Carter, Jack",15
-Precinct 12,United States Senator (Democratic),None Of These Candidates,6
-Precinct 12,United States Senator (Democratic),"Tun, Ruby jee",3
-Precinct 12,United States Senator (Republican),"Ensign, John",84
-Precinct 12,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 12,United States Senator (Republican),None Of These Candidates,2
+Precinct 12,U.S. Senate (Democratic),"Carter, Jack",15
+Precinct 12,U.S. Senate (Democratic),None Of These Candidates,6
+Precinct 12,U.S. Senate (Democratic),"Tun, Ruby jee",3
+Precinct 12,U.S. Senate (Republican),"Ensign, John",84
+Precinct 12,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 12,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 13,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",42
 Precinct 13,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",124
 Precinct 13,Board of School Trustees (Nonpartisan),"EVANS, RON",112
@@ -956,12 +956,12 @@ Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",61
 Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",1
-Precinct 13,United States Senator (Democratic),"Carter, Jack",27
-Precinct 13,United States Senator (Democratic),None Of These Candidates,8
-Precinct 13,United States Senator (Democratic),"Tun, Ruby jee",6
-Precinct 13,United States Senator (Republican),"Ensign, John",147
-Precinct 13,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",5
-Precinct 13,United States Senator (Republican),None Of These Candidates,4
+Precinct 13,U.S. Senate (Democratic),"Carter, Jack",27
+Precinct 13,U.S. Senate (Democratic),None Of These Candidates,8
+Precinct 13,U.S. Senate (Democratic),"Tun, Ruby jee",6
+Precinct 13,U.S. Senate (Republican),"Ensign, John",147
+Precinct 13,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
+Precinct 13,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 14,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",72
 Precinct 14,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",135
 Precinct 14,Board of School Trustees (Nonpartisan),"EVANS, RON",164
@@ -1039,12 +1039,12 @@ Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",1
 Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",84
 Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 14,United States Senator (Democratic),"Carter, Jack",34
-Precinct 14,United States Senator (Democratic),None Of These Candidates,11
-Precinct 14,United States Senator (Democratic),"Tun, Ruby jee",8
-Precinct 14,United States Senator (Republican),"Ensign, John",183
-Precinct 14,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",8
-Precinct 14,United States Senator (Republican),None Of These Candidates,9
+Precinct 14,U.S. Senate (Democratic),"Carter, Jack",34
+Precinct 14,U.S. Senate (Democratic),None Of These Candidates,11
+Precinct 14,U.S. Senate (Democratic),"Tun, Ruby jee",8
+Precinct 14,U.S. Senate (Republican),"Ensign, John",183
+Precinct 14,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
+Precinct 14,U.S. Senate (Republican),None Of These Candidates,9
 Precinct 15,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",64
 Precinct 15,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",196
 Precinct 15,Board of School Trustees (Nonpartisan),"EVANS, RON",211
@@ -1122,12 +1122,12 @@ Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",6
 Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",86
 Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",6
-Precinct 15,United States Senator (Democratic),"Carter, Jack",60
-Precinct 15,United States Senator (Democratic),None Of These Candidates,9
-Precinct 15,United States Senator (Democratic),"Tun, Ruby jee",7
-Precinct 15,United States Senator (Republican),"Ensign, John",212
-Precinct 15,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",12
-Precinct 15,United States Senator (Republican),None Of These Candidates,12
+Precinct 15,U.S. Senate (Democratic),"Carter, Jack",60
+Precinct 15,U.S. Senate (Democratic),None Of These Candidates,9
+Precinct 15,U.S. Senate (Democratic),"Tun, Ruby jee",7
+Precinct 15,U.S. Senate (Republican),"Ensign, John",212
+Precinct 15,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",12
+Precinct 15,U.S. Senate (Republican),None Of These Candidates,12
 Precinct 16,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",45
 Precinct 16,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",102
 Precinct 16,Board of School Trustees (Nonpartisan),"EVANS, RON",95
@@ -1199,12 +1199,12 @@ Precinct 16,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 16,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 16,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",36
 Precinct 16,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",2
-Precinct 16,United States Senator (Democratic),"Carter, Jack",44
-Precinct 16,United States Senator (Democratic),None Of These Candidates,8
-Precinct 16,United States Senator (Democratic),"Tun, Ruby jee",9
-Precinct 16,United States Senator (Republican),"Ensign, John",83
-Precinct 16,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",4
-Precinct 16,United States Senator (Republican),None Of These Candidates,1
+Precinct 16,U.S. Senate (Democratic),"Carter, Jack",44
+Precinct 16,U.S. Senate (Democratic),None Of These Candidates,8
+Precinct 16,U.S. Senate (Democratic),"Tun, Ruby jee",9
+Precinct 16,U.S. Senate (Republican),"Ensign, John",83
+Precinct 16,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
+Precinct 16,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 17,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",125
 Precinct 17,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",192
 Precinct 17,Board of School Trustees (Nonpartisan),"EVANS, RON",203
@@ -1276,12 +1276,12 @@ Precinct 17,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 17,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 17,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",90
 Precinct 17,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",10
-Precinct 17,United States Senator (Democratic),"Carter, Jack",82
-Precinct 17,United States Senator (Democratic),None Of These Candidates,17
-Precinct 17,United States Senator (Democratic),"Tun, Ruby jee",20
-Precinct 17,United States Senator (Republican),"Ensign, John",214
-Precinct 17,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",16
-Precinct 17,United States Senator (Republican),None Of These Candidates,10
+Precinct 17,U.S. Senate (Democratic),"Carter, Jack",82
+Precinct 17,U.S. Senate (Democratic),None Of These Candidates,17
+Precinct 17,U.S. Senate (Democratic),"Tun, Ruby jee",20
+Precinct 17,U.S. Senate (Republican),"Ensign, John",214
+Precinct 17,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",16
+Precinct 17,U.S. Senate (Republican),None Of These Candidates,10
 Precinct 18,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",119
 Precinct 18,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",226
 Precinct 18,Board of School Trustees (Nonpartisan),"EVANS, RON",238
@@ -1353,12 +1353,12 @@ Precinct 18,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 18,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",2
 Precinct 18,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",113
 Precinct 18,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",7
-Precinct 18,United States Senator (Democratic),"Carter, Jack",103
-Precinct 18,United States Senator (Democratic),None Of These Candidates,26
-Precinct 18,United States Senator (Democratic),"Tun, Ruby jee",7
-Precinct 18,United States Senator (Republican),"Ensign, John",261
-Precinct 18,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",13
-Precinct 18,United States Senator (Republican),None Of These Candidates,8
+Precinct 18,U.S. Senate (Democratic),"Carter, Jack",103
+Precinct 18,U.S. Senate (Democratic),None Of These Candidates,26
+Precinct 18,U.S. Senate (Democratic),"Tun, Ruby jee",7
+Precinct 18,U.S. Senate (Republican),"Ensign, John",261
+Precinct 18,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
+Precinct 18,U.S. Senate (Republican),None Of These Candidates,8
 Precinct 19,Board of School Trustees (Nonpartisan),"ADAMS, LISA E.",71
 Precinct 19,Board of School Trustees (Nonpartisan),"BUCKMASTER, LOU",130
 Precinct 19,Board of School Trustees (Nonpartisan),"EVANS, RON",149
@@ -1430,20 +1430,20 @@ Precinct 19,"U.S. Representative in Congress, District 2 (Republican)","Gibbons,
 Precinct 19,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",3
 Precinct 19,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",66
 Precinct 19,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",4
-Precinct 19,United States Senator (Democratic),"Carter, Jack",35
-Precinct 19,United States Senator (Democratic),None Of These Candidates,10
-Precinct 19,United States Senator (Democratic),"Tun, Ruby jee",11
-Precinct 19,United States Senator (Republican),"Ensign, John",169
-Precinct 19,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",12
-Precinct 19,United States Senator (Republican),None Of These Candidates,6
+Precinct 19,U.S. Senate (Democratic),"Carter, Jack",35
+Precinct 19,U.S. Senate (Democratic),None Of These Candidates,10
+Precinct 19,U.S. Senate (Democratic),"Tun, Ruby jee",11
+Precinct 19,U.S. Senate (Republican),"Ensign, John",169
+Precinct 19,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",12
+Precinct 19,U.S. Senate (Republican),None Of These Candidates,6
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Thomas, Glenn",0
-Precinct 99,United States Senator (Democratic),"Carter, Jack",0
-Precinct 99,United States Senator (Democratic),None Of These Candidates,0
-Precinct 99,United States Senator (Democratic),"Tun, Ruby jee",0
-Precinct 99,United States Senator (Republican),"Ensign, John",0
-Precinct 99,United States Senator (Republican),"Hamilton, Edward ""Fast Eddie""",0
-Precinct 99,United States Senator (Republican),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Carter, Jack",0
+Precinct 99,U.S. Senate (Democratic),None Of These Candidates,0
+Precinct 99,U.S. Senate (Democratic),"Tun, Ruby jee",0
+Precinct 99,U.S. Senate (Republican),"Ensign, John",0
+Precinct 99,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
+Precinct 99,U.S. Senate (Republican),None Of These Candidates,0

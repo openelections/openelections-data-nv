@@ -1,13 +1,13 @@
 precinct,office,candidate,votes
 Precinct 101,Mayor CARSON CITY,"MASAYKO, RAY",376
 Precinct 101,Mayor CARSON CITY,"TEIXEIRA, MARV",445
-Precinct 101,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-Precinct 101,President and Vice President of the United States,"BUSH, GEORGE W.",409
-Precinct 101,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 101,President and Vice President of the United States,"KERRY, JOHN F.",429
-Precinct 101,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 101,President and Vice President of the United States,None Of These Candidates,10
-Precinct 101,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 101,President,"BADNARIK, MICHAEL",6
+Precinct 101,President,"BUSH, GEORGE W.",409
+Precinct 101,President,"COBB, DAVID",0
+Precinct 101,President,"KERRY, JOHN F.",429
+Precinct 101,President,"NADER, RALPH",4
+Precinct 101,President,None Of These Candidates,10
+Precinct 101,President,"PEROUTKA, MICHAEL A.",1
 Precinct 101,School Trustee District 5,"COHEN, KIM",280
 Precinct 101,School Trustee District 5,"MCKENNA, JOHN",454
 Precinct 101,School Trustee District 7,"DAILEY, DEBBY",267
@@ -32,21 +32,21 @@ Precinct 101,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 101,"U.S. Representative in Congress, District 2","GIBBONS, JIM",493
 Precinct 101,"U.S. Representative in Congress, District 2","HANSEN, JANINE",46
 Precinct 101,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-Precinct 101,United States Senator,"HURST, THOMAS L.",8
-Precinct 101,United States Senator,"MARINCH, GARY",4
-Precinct 101,United States Senator,None Of These Candidates,12
-Precinct 101,United States Senator,"REID, HARRY",514
-Precinct 101,United States Senator,"SCHUMANN, DAVID K.",13
-Precinct 101,United States Senator,"ZISER, RICHARD",295
+Precinct 101,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 101,U.S. Senate,"MARINCH, GARY",4
+Precinct 101,U.S. Senate,None Of These Candidates,12
+Precinct 101,U.S. Senate,"REID, HARRY",514
+Precinct 101,U.S. Senate,"SCHUMANN, DAVID K.",13
+Precinct 101,U.S. Senate,"ZISER, RICHARD",295
 Precinct 103,Mayor CARSON CITY,"MASAYKO, RAY",459
 Precinct 103,Mayor CARSON CITY,"TEIXEIRA, MARV",530
-Precinct 103,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 103,President and Vice President of the United States,"BUSH, GEORGE W.",586
-Precinct 103,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 103,President and Vice President of the United States,"KERRY, JOHN F.",421
-Precinct 103,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 103,President and Vice President of the United States,None Of These Candidates,4
-Precinct 103,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 103,President,"BADNARIK, MICHAEL",2
+Precinct 103,President,"BUSH, GEORGE W.",586
+Precinct 103,President,"COBB, DAVID",2
+Precinct 103,President,"KERRY, JOHN F.",421
+Precinct 103,President,"NADER, RALPH",4
+Precinct 103,President,None Of These Candidates,4
+Precinct 103,President,"PEROUTKA, MICHAEL A.",1
 Precinct 103,School Trustee District 5,"COHEN, KIM",317
 Precinct 103,School Trustee District 5,"MCKENNA, JOHN",546
 Precinct 105,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",236
@@ -60,21 +60,21 @@ Precinct 105,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Precinct 105,"U.S. Representative in Congress, District 2","GIBBONS, JIM",718
 Precinct 105,"U.S. Representative in Congress, District 2","HANSEN, JANINE",21
 Precinct 105,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-Precinct 105,United States Senator,"HURST, THOMAS L.",2
-Precinct 105,United States Senator,"MARINCH, GARY",1
-Precinct 105,United States Senator,None Of These Candidates,7
-Precinct 105,United States Senator,"REID, HARRY",408
-Precinct 105,United States Senator,"SCHUMANN, DAVID K.",3
-Precinct 105,United States Senator,"ZISER, RICHARD",507
+Precinct 105,U.S. Senate,"HURST, THOMAS L.",2
+Precinct 105,U.S. Senate,"MARINCH, GARY",1
+Precinct 105,U.S. Senate,None Of These Candidates,7
+Precinct 105,U.S. Senate,"REID, HARRY",408
+Precinct 105,U.S. Senate,"SCHUMANN, DAVID K.",3
+Precinct 105,U.S. Senate,"ZISER, RICHARD",507
 Precinct 107,Mayor CARSON CITY,"MASAYKO, RAY",505
 Precinct 107,Mayor CARSON CITY,"TEIXEIRA, MARV",545
-Precinct 107,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 107,President and Vice President of the United States,"BUSH, GEORGE W.",714
-Precinct 107,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 107,President and Vice President of the United States,"KERRY, JOHN F.",352
-Precinct 107,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 107,President and Vice President of the United States,None Of These Candidates,8
-Precinct 107,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 107,President,"BADNARIK, MICHAEL",4
+Precinct 107,President,"BUSH, GEORGE W.",714
+Precinct 107,President,"COBB, DAVID",2
+Precinct 107,President,"KERRY, JOHN F.",352
+Precinct 107,President,"NADER, RALPH",5
+Precinct 107,President,None Of These Candidates,8
+Precinct 107,President,"PEROUTKA, MICHAEL A.",1
 Precinct 107,School Trustee District 5,"COHEN, KIM",353
 Precinct 107,School Trustee District 5,"MCKENNA, JOHN",546
 Precinct 107,School Trustee District 7,"DAILEY, DEBBY",312
@@ -99,21 +99,21 @@ Precinct 107,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Precinct 107,"U.S. Representative in Congress, District 2","GIBBONS, JIM",823
 Precinct 107,"U.S. Representative in Congress, District 2","HANSEN, JANINE",24
 Precinct 107,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-Precinct 107,United States Senator,"HURST, THOMAS L.",5
-Precinct 107,United States Senator,"MARINCH, GARY",0
-Precinct 107,United States Senator,None Of These Candidates,15
-Precinct 107,United States Senator,"REID, HARRY",484
-Precinct 107,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 107,United States Senator,"ZISER, RICHARD",565
+Precinct 107,U.S. Senate,"HURST, THOMAS L.",5
+Precinct 107,U.S. Senate,"MARINCH, GARY",0
+Precinct 107,U.S. Senate,None Of These Candidates,15
+Precinct 107,U.S. Senate,"REID, HARRY",484
+Precinct 107,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 107,U.S. Senate,"ZISER, RICHARD",565
 Precinct 109,Mayor CARSON CITY,"MASAYKO, RAY",511
 Precinct 109,Mayor CARSON CITY,"TEIXEIRA, MARV",489
-Precinct 109,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 109,President and Vice President of the United States,"BUSH, GEORGE W.",616
-Precinct 109,President and Vice President of the United States,"COBB, DAVID",3
-Precinct 109,President and Vice President of the United States,"KERRY, JOHN F.",412
-Precinct 109,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 109,President and Vice President of the United States,None Of These Candidates,7
-Precinct 109,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+Precinct 109,President,"BADNARIK, MICHAEL",1
+Precinct 109,President,"BUSH, GEORGE W.",616
+Precinct 109,President,"COBB, DAVID",3
+Precinct 109,President,"KERRY, JOHN F.",412
+Precinct 109,President,"NADER, RALPH",3
+Precinct 109,President,None Of These Candidates,7
+Precinct 109,President,"PEROUTKA, MICHAEL A.",4
 Precinct 109,School Trustee District 5,"COHEN, KIM",338
 Precinct 109,School Trustee District 5,"MCKENNA, JOHN",540
 Precinct 109,School Trustee District 7,"DAILEY, DEBBY",332
@@ -138,21 +138,21 @@ Precinct 109,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 109,"U.S. Representative in Congress, District 2","GIBBONS, JIM",713
 Precinct 109,"U.S. Representative in Congress, District 2","HANSEN, JANINE",23
 Precinct 109,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",21
-Precinct 109,United States Senator,"HURST, THOMAS L.",8
-Precinct 109,United States Senator,"MARINCH, GARY",4
-Precinct 109,United States Senator,None Of These Candidates,14
-Precinct 109,United States Senator,"REID, HARRY",545
-Precinct 109,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 109,United States Senator,"ZISER, RICHARD",457
+Precinct 109,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 109,U.S. Senate,"MARINCH, GARY",4
+Precinct 109,U.S. Senate,None Of These Candidates,14
+Precinct 109,U.S. Senate,"REID, HARRY",545
+Precinct 109,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 109,U.S. Senate,"ZISER, RICHARD",457
 Precinct 111,Mayor CARSON CITY,"MASAYKO, RAY",551
 Precinct 111,Mayor CARSON CITY,"TEIXEIRA, MARV",545
-Precinct 111,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-Precinct 111,President and Vice President of the United States,"BUSH, GEORGE W.",596
-Precinct 111,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 111,President and Vice President of the United States,"KERRY, JOHN F.",523
-Precinct 111,President and Vice President of the United States,"NADER, RALPH",9
-Precinct 111,President and Vice President of the United States,None Of These Candidates,9
-Precinct 111,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 111,President,"BADNARIK, MICHAEL",6
+Precinct 111,President,"BUSH, GEORGE W.",596
+Precinct 111,President,"COBB, DAVID",1
+Precinct 111,President,"KERRY, JOHN F.",523
+Precinct 111,President,"NADER, RALPH",9
+Precinct 111,President,None Of These Candidates,9
+Precinct 111,President,"PEROUTKA, MICHAEL A.",2
 Precinct 111,School Trustee District 5,"COHEN, KIM",444
 Precinct 111,School Trustee District 5,"MCKENNA, JOHN",512
 Precinct 111,School Trustee District 7,"DAILEY, DEBBY",364
@@ -177,21 +177,21 @@ Precinct 111,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",3
 Precinct 111,"U.S. Representative in Congress, District 2","GIBBONS, JIM",679
 Precinct 111,"U.S. Representative in Congress, District 2","HANSEN, JANINE",54
 Precinct 111,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",27
-Precinct 111,United States Senator,"HURST, THOMAS L.",13
-Precinct 111,United States Senator,"MARINCH, GARY",6
-Precinct 111,United States Senator,None Of These Candidates,18
-Precinct 111,United States Senator,"REID, HARRY",669
-Precinct 111,United States Senator,"SCHUMANN, DAVID K.",19
-Precinct 111,United States Senator,"ZISER, RICHARD",409
+Precinct 111,U.S. Senate,"HURST, THOMAS L.",13
+Precinct 111,U.S. Senate,"MARINCH, GARY",6
+Precinct 111,U.S. Senate,None Of These Candidates,18
+Precinct 111,U.S. Senate,"REID, HARRY",669
+Precinct 111,U.S. Senate,"SCHUMANN, DAVID K.",19
+Precinct 111,U.S. Senate,"ZISER, RICHARD",409
 Precinct 113,Mayor CARSON CITY,"MASAYKO, RAY",447
 Precinct 113,Mayor CARSON CITY,"TEIXEIRA, MARV",526
-Precinct 113,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 113,President and Vice President of the United States,"BUSH, GEORGE W.",636
-Precinct 113,President and Vice President of the United States,"COBB, DAVID",3
-Precinct 113,President and Vice President of the United States,"KERRY, JOHN F.",359
-Precinct 113,President and Vice President of the United States,"NADER, RALPH",9
-Precinct 113,President and Vice President of the United States,None Of These Candidates,8
-Precinct 113,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+Precinct 113,President,"BADNARIK, MICHAEL",2
+Precinct 113,President,"BUSH, GEORGE W.",636
+Precinct 113,President,"COBB, DAVID",3
+Precinct 113,President,"KERRY, JOHN F.",359
+Precinct 113,President,"NADER, RALPH",9
+Precinct 113,President,None Of These Candidates,8
+Precinct 113,President,"PEROUTKA, MICHAEL A.",3
 Precinct 113,School Trustee District 5,"COHEN, KIM",346
 Precinct 113,School Trustee District 5,"MCKENNA, JOHN",527
 Precinct 113,School Trustee District 7,"DAILEY, DEBBY",330
@@ -216,21 +216,21 @@ Precinct 113,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 113,"U.S. Representative in Congress, District 2","GIBBONS, JIM",730
 Precinct 113,"U.S. Representative in Congress, District 2","HANSEN, JANINE",29
 Precinct 113,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",14
-Precinct 113,United States Senator,"HURST, THOMAS L.",10
-Precinct 113,United States Senator,"MARINCH, GARY",4
-Precinct 113,United States Senator,None Of These Candidates,18
-Precinct 113,United States Senator,"REID, HARRY",483
-Precinct 113,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 113,United States Senator,"ZISER, RICHARD",489
+Precinct 113,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 113,U.S. Senate,"MARINCH, GARY",4
+Precinct 113,U.S. Senate,None Of These Candidates,18
+Precinct 113,U.S. Senate,"REID, HARRY",483
+Precinct 113,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 113,U.S. Senate,"ZISER, RICHARD",489
 Precinct 201,Mayor CARSON CITY,"MASAYKO, RAY",388
 Precinct 201,Mayor CARSON CITY,"TEIXEIRA, MARV",388
-Precinct 201,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 201,President and Vice President of the United States,"BUSH, GEORGE W.",449
-Precinct 201,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 201,President and Vice President of the United States,"KERRY, JOHN F.",351
-Precinct 201,President and Vice President of the United States,"NADER, RALPH",6
-Precinct 201,President and Vice President of the United States,None Of These Candidates,13
-Precinct 201,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+Precinct 201,President,"BADNARIK, MICHAEL",4
+Precinct 201,President,"BUSH, GEORGE W.",449
+Precinct 201,President,"COBB, DAVID",1
+Precinct 201,President,"KERRY, JOHN F.",351
+Precinct 201,President,"NADER, RALPH",6
+Precinct 201,President,None Of These Candidates,13
+Precinct 201,President,"PEROUTKA, MICHAEL A.",4
 Precinct 201,School Trustee District 5,"COHEN, KIM",298
 Precinct 201,School Trustee District 5,"MCKENNA, JOHN",389
 Precinct 201,School Trustee District 7,"DAILEY, DEBBY",233
@@ -255,21 +255,21 @@ Precinct 201,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 201,"U.S. Representative in Congress, District 2","GIBBONS, JIM",516
 Precinct 201,"U.S. Representative in Congress, District 2","HANSEN, JANINE",33
 Precinct 201,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-Precinct 201,United States Senator,"HURST, THOMAS L.",11
-Precinct 201,United States Senator,"MARINCH, GARY",0
-Precinct 201,United States Senator,None Of These Candidates,14
-Precinct 201,United States Senator,"REID, HARRY",474
-Precinct 201,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 201,United States Senator,"ZISER, RICHARD",305
+Precinct 201,U.S. Senate,"HURST, THOMAS L.",11
+Precinct 201,U.S. Senate,"MARINCH, GARY",0
+Precinct 201,U.S. Senate,None Of These Candidates,14
+Precinct 201,U.S. Senate,"REID, HARRY",474
+Precinct 201,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 201,U.S. Senate,"ZISER, RICHARD",305
 Precinct 203,Mayor CARSON CITY,"MASAYKO, RAY",361
 Precinct 203,Mayor CARSON CITY,"TEIXEIRA, MARV",452
-Precinct 203,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 203,President and Vice President of the United States,"BUSH, GEORGE W.",481
-Precinct 203,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 203,President and Vice President of the United States,"KERRY, JOHN F.",356
-Precinct 203,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 203,President and Vice President of the United States,None Of These Candidates,6
-Precinct 203,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 203,President,"BADNARIK, MICHAEL",3
+Precinct 203,President,"BUSH, GEORGE W.",481
+Precinct 203,President,"COBB, DAVID",0
+Precinct 203,President,"KERRY, JOHN F.",356
+Precinct 203,President,"NADER, RALPH",4
+Precinct 203,President,None Of These Candidates,6
+Precinct 203,President,"PEROUTKA, MICHAEL A.",2
 Precinct 203,School Trustee District 5,"COHEN, KIM",290
 Precinct 203,School Trustee District 5,"MCKENNA, JOHN",444
 Precinct 203,School Trustee District 7,"DAILEY, DEBBY",297
@@ -294,21 +294,21 @@ Precinct 203,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 203,"U.S. Representative in Congress, District 2","GIBBONS, JIM",553
 Precinct 203,"U.S. Representative in Congress, District 2","HANSEN, JANINE",35
 Precinct 203,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",19
-Precinct 203,United States Senator,"HURST, THOMAS L.",7
-Precinct 203,United States Senator,"MARINCH, GARY",5
-Precinct 203,United States Senator,None Of These Candidates,13
-Precinct 203,United States Senator,"REID, HARRY",463
-Precinct 203,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 203,United States Senator,"ZISER, RICHARD",351
+Precinct 203,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 203,U.S. Senate,"MARINCH, GARY",5
+Precinct 203,U.S. Senate,None Of These Candidates,13
+Precinct 203,U.S. Senate,"REID, HARRY",463
+Precinct 203,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 203,U.S. Senate,"ZISER, RICHARD",351
 Precinct 205,Mayor CARSON CITY,"MASAYKO, RAY",533
 Precinct 205,Mayor CARSON CITY,"TEIXEIRA, MARV",505
-Precinct 205,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-Precinct 205,President and Vice President of the United States,"BUSH, GEORGE W.",628
-Precinct 205,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 205,President and Vice President of the United States,"KERRY, JOHN F.",427
-Precinct 205,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 205,President and Vice President of the United States,None Of These Candidates,7
-Precinct 205,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 205,President,"BADNARIK, MICHAEL",6
+Precinct 205,President,"BUSH, GEORGE W.",628
+Precinct 205,President,"COBB, DAVID",1
+Precinct 205,President,"KERRY, JOHN F.",427
+Precinct 205,President,"NADER, RALPH",4
+Precinct 205,President,None Of These Candidates,7
+Precinct 205,President,"PEROUTKA, MICHAEL A.",0
 Precinct 205,School Trustee District 5,"COHEN, KIM",427
 Precinct 205,School Trustee District 5,"MCKENNA, JOHN",496
 Precinct 205,School Trustee District 7,"DAILEY, DEBBY",356
@@ -333,21 +333,21 @@ Precinct 205,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 205,"U.S. Representative in Congress, District 2","GIBBONS, JIM",722
 Precinct 205,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
 Precinct 205,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-Precinct 205,United States Senator,"HURST, THOMAS L.",9
-Precinct 205,United States Senator,"MARINCH, GARY",1
-Precinct 205,United States Senator,None Of These Candidates,16
-Precinct 205,United States Senator,"REID, HARRY",583
-Precinct 205,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 205,United States Senator,"ZISER, RICHARD",445
+Precinct 205,U.S. Senate,"HURST, THOMAS L.",9
+Precinct 205,U.S. Senate,"MARINCH, GARY",1
+Precinct 205,U.S. Senate,None Of These Candidates,16
+Precinct 205,U.S. Senate,"REID, HARRY",583
+Precinct 205,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 205,U.S. Senate,"ZISER, RICHARD",445
 Precinct 207,Mayor CARSON CITY,"MASAYKO, RAY",471
 Precinct 207,Mayor CARSON CITY,"TEIXEIRA, MARV",468
-Precinct 207,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 207,President and Vice President of the United States,"BUSH, GEORGE W.",498
-Precinct 207,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 207,President and Vice President of the United States,"KERRY, JOHN F.",459
-Precinct 207,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 207,President and Vice President of the United States,None Of These Candidates,10
-Precinct 207,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+Precinct 207,President,"BADNARIK, MICHAEL",2
+Precinct 207,President,"BUSH, GEORGE W.",498
+Precinct 207,President,"COBB, DAVID",1
+Precinct 207,President,"KERRY, JOHN F.",459
+Precinct 207,President,"NADER, RALPH",4
+Precinct 207,President,None Of These Candidates,10
+Precinct 207,President,"PEROUTKA, MICHAEL A.",4
 Precinct 207,School Trustee District 5,"COHEN, KIM",336
 Precinct 207,School Trustee District 5,"MCKENNA, JOHN",482
 Precinct 207,School Trustee District 7,"DAILEY, DEBBY",340
@@ -372,21 +372,21 @@ Precinct 207,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 207,"U.S. Representative in Congress, District 2","GIBBONS, JIM",604
 Precinct 207,"U.S. Representative in Congress, District 2","HANSEN, JANINE",37
 Precinct 207,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-Precinct 207,United States Senator,"HURST, THOMAS L.",10
-Precinct 207,United States Senator,"MARINCH, GARY",4
-Precinct 207,United States Senator,None Of These Candidates,13
-Precinct 207,United States Senator,"REID, HARRY",592
-Precinct 207,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 207,United States Senator,"ZISER, RICHARD",334
+Precinct 207,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 207,U.S. Senate,"MARINCH, GARY",4
+Precinct 207,U.S. Senate,None Of These Candidates,13
+Precinct 207,U.S. Senate,"REID, HARRY",592
+Precinct 207,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 207,U.S. Senate,"ZISER, RICHARD",334
 Precinct 209,Mayor CARSON CITY,"MASAYKO, RAY",364
 Precinct 209,Mayor CARSON CITY,"TEIXEIRA, MARV",373
-Precinct 209,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-Precinct 209,President and Vice President of the United States,"BUSH, GEORGE W.",409
-Precinct 209,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 209,President and Vice President of the United States,"KERRY, JOHN F.",329
-Precinct 209,President and Vice President of the United States,"NADER, RALPH",17
-Precinct 209,President and Vice President of the United States,None Of These Candidates,9
-Precinct 209,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",6
+Precinct 209,President,"BADNARIK, MICHAEL",2
+Precinct 209,President,"BUSH, GEORGE W.",409
+Precinct 209,President,"COBB, DAVID",1
+Precinct 209,President,"KERRY, JOHN F.",329
+Precinct 209,President,"NADER, RALPH",17
+Precinct 209,President,None Of These Candidates,9
+Precinct 209,President,"PEROUTKA, MICHAEL A.",6
 Precinct 209,School Trustee District 5,"COHEN, KIM",294
 Precinct 209,School Trustee District 5,"MCKENNA, JOHN",379
 Precinct 209,School Trustee District 7,"DAILEY, DEBBY",298
@@ -411,21 +411,21 @@ Precinct 209,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Precinct 209,"U.S. Representative in Congress, District 2","GIBBONS, JIM",500
 Precinct 209,"U.S. Representative in Congress, District 2","HANSEN, JANINE",46
 Precinct 209,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-Precinct 209,United States Senator,"HURST, THOMAS L.",11
-Precinct 209,United States Senator,"MARINCH, GARY",8
-Precinct 209,United States Senator,None Of These Candidates,12
-Precinct 209,United States Senator,"REID, HARRY",461
-Precinct 209,United States Senator,"SCHUMANN, DAVID K.",14
-Precinct 209,United States Senator,"ZISER, RICHARD",261
+Precinct 209,U.S. Senate,"HURST, THOMAS L.",11
+Precinct 209,U.S. Senate,"MARINCH, GARY",8
+Precinct 209,U.S. Senate,None Of These Candidates,12
+Precinct 209,U.S. Senate,"REID, HARRY",461
+Precinct 209,U.S. Senate,"SCHUMANN, DAVID K.",14
+Precinct 209,U.S. Senate,"ZISER, RICHARD",261
 Precinct 211,Mayor CARSON CITY,"MASAYKO, RAY",150
 Precinct 211,Mayor CARSON CITY,"TEIXEIRA, MARV",173
-Precinct 211,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 211,President and Vice President of the United States,"BUSH, GEORGE W.",222
-Precinct 211,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 211,President and Vice President of the United States,"KERRY, JOHN F.",108
-Precinct 211,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 211,President and Vice President of the United States,None Of These Candidates,2
-Precinct 211,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 211,President,"BADNARIK, MICHAEL",0
+Precinct 211,President,"BUSH, GEORGE W.",222
+Precinct 211,President,"COBB, DAVID",0
+Precinct 211,President,"KERRY, JOHN F.",108
+Precinct 211,President,"NADER, RALPH",0
+Precinct 211,President,None Of These Candidates,2
+Precinct 211,President,"PEROUTKA, MICHAEL A.",1
 Precinct 211,School Trustee District 5,"COHEN, KIM",149
 Precinct 211,School Trustee District 5,"MCKENNA, JOHN",142
 Precinct 211,School Trustee District 7,"DAILEY, DEBBY",129
@@ -450,21 +450,21 @@ Precinct 211,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",6
 Precinct 211,"U.S. Representative in Congress, District 2","GIBBONS, JIM",246
 Precinct 211,"U.S. Representative in Congress, District 2","HANSEN, JANINE",12
 Precinct 211,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-Precinct 211,United States Senator,"HURST, THOMAS L.",1
-Precinct 211,United States Senator,"MARINCH, GARY",1
-Precinct 211,United States Senator,None Of These Candidates,4
-Precinct 211,United States Senator,"REID, HARRY",159
-Precinct 211,United States Senator,"SCHUMANN, DAVID K.",5
-Precinct 211,United States Senator,"ZISER, RICHARD",162
+Precinct 211,U.S. Senate,"HURST, THOMAS L.",1
+Precinct 211,U.S. Senate,"MARINCH, GARY",1
+Precinct 211,U.S. Senate,None Of These Candidates,4
+Precinct 211,U.S. Senate,"REID, HARRY",159
+Precinct 211,U.S. Senate,"SCHUMANN, DAVID K.",5
+Precinct 211,U.S. Senate,"ZISER, RICHARD",162
 Precinct 213,Mayor CARSON CITY,"MASAYKO, RAY",223
 Precinct 213,Mayor CARSON CITY,"TEIXEIRA, MARV",269
-Precinct 213,President and Vice President of the United States,"BADNARIK, MICHAEL",8
-Precinct 213,President and Vice President of the United States,"BUSH, GEORGE W.",316
-Precinct 213,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 213,President and Vice President of the United States,"KERRY, JOHN F.",184
-Precinct 213,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 213,President and Vice President of the United States,None Of These Candidates,1
-Precinct 213,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 213,President,"BADNARIK, MICHAEL",8
+Precinct 213,President,"BUSH, GEORGE W.",316
+Precinct 213,President,"COBB, DAVID",1
+Precinct 213,President,"KERRY, JOHN F.",184
+Precinct 213,President,"NADER, RALPH",1
+Precinct 213,President,None Of These Candidates,1
+Precinct 213,President,"PEROUTKA, MICHAEL A.",2
 Precinct 213,School Trustee District 5,"COHEN, KIM",171
 Precinct 213,School Trustee District 5,"MCKENNA, JOHN",273
 Precinct 213,School Trustee District 7,"DAILEY, DEBBY",170
@@ -489,21 +489,21 @@ Precinct 213,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Precinct 213,"U.S. Representative in Congress, District 2","GIBBONS, JIM",356
 Precinct 213,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
 Precinct 213,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-Precinct 213,United States Senator,"HURST, THOMAS L.",8
-Precinct 213,United States Senator,"MARINCH, GARY",1
-Precinct 213,United States Senator,None Of These Candidates,3
-Precinct 213,United States Senator,"REID, HARRY",256
-Precinct 213,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 213,United States Senator,"ZISER, RICHARD",233
+Precinct 213,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 213,U.S. Senate,"MARINCH, GARY",1
+Precinct 213,U.S. Senate,None Of These Candidates,3
+Precinct 213,U.S. Senate,"REID, HARRY",256
+Precinct 213,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 213,U.S. Senate,"ZISER, RICHARD",233
 Precinct 301,Mayor CARSON CITY,"MASAYKO, RAY",396
 Precinct 301,Mayor CARSON CITY,"TEIXEIRA, MARV",427
-Precinct 301,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-Precinct 301,President and Vice President of the United States,"BUSH, GEORGE W.",517
-Precinct 301,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 301,President and Vice President of the United States,"KERRY, JOHN F.",340
-Precinct 301,President and Vice President of the United States,"NADER, RALPH",7
-Precinct 301,President and Vice President of the United States,None Of These Candidates,6
-Precinct 301,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 301,President,"BADNARIK, MICHAEL",1
+Precinct 301,President,"BUSH, GEORGE W.",517
+Precinct 301,President,"COBB, DAVID",0
+Precinct 301,President,"KERRY, JOHN F.",340
+Precinct 301,President,"NADER, RALPH",7
+Precinct 301,President,None Of These Candidates,6
+Precinct 301,President,"PEROUTKA, MICHAEL A.",1
 Precinct 301,School Trustee District 5,"COHEN, KIM",311
 Precinct 301,School Trustee District 5,"MCKENNA, JOHN",410
 Precinct 301,School Trustee District 7,"DAILEY, DEBBY",299
@@ -528,21 +528,21 @@ Precinct 301,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 301,"U.S. Representative in Congress, District 2","GIBBONS, JIM",612
 Precinct 301,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
 Precinct 301,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",8
-Precinct 301,United States Senator,"HURST, THOMAS L.",2
-Precinct 301,United States Senator,"MARINCH, GARY",1
-Precinct 301,United States Senator,None Of These Candidates,14
-Precinct 301,United States Senator,"REID, HARRY",463
-Precinct 301,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 301,United States Senator,"ZISER, RICHARD",377
+Precinct 301,U.S. Senate,"HURST, THOMAS L.",2
+Precinct 301,U.S. Senate,"MARINCH, GARY",1
+Precinct 301,U.S. Senate,None Of These Candidates,14
+Precinct 301,U.S. Senate,"REID, HARRY",463
+Precinct 301,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 301,U.S. Senate,"ZISER, RICHARD",377
 Precinct 303,Mayor CARSON CITY,"MASAYKO, RAY",382
 Precinct 303,Mayor CARSON CITY,"TEIXEIRA, MARV",459
-Precinct 303,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 303,President and Vice President of the United States,"BUSH, GEORGE W.",486
-Precinct 303,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 303,President and Vice President of the United States,"KERRY, JOHN F.",366
-Precinct 303,President and Vice President of the United States,"NADER, RALPH",6
-Precinct 303,President and Vice President of the United States,None Of These Candidates,8
-Precinct 303,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 303,President,"BADNARIK, MICHAEL",3
+Precinct 303,President,"BUSH, GEORGE W.",486
+Precinct 303,President,"COBB, DAVID",2
+Precinct 303,President,"KERRY, JOHN F.",366
+Precinct 303,President,"NADER, RALPH",6
+Precinct 303,President,None Of These Candidates,8
+Precinct 303,President,"PEROUTKA, MICHAEL A.",1
 Precinct 303,School Trustee District 5,"COHEN, KIM",302
 Precinct 303,School Trustee District 5,"MCKENNA, JOHN",451
 Precinct 303,School Trustee District 7,"DAILEY, DEBBY",311
@@ -567,21 +567,21 @@ Precinct 303,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 303,"U.S. Representative in Congress, District 2","GIBBONS, JIM",580
 Precinct 303,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 Precinct 303,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-Precinct 303,United States Senator,"HURST, THOMAS L.",4
-Precinct 303,United States Senator,"MARINCH, GARY",5
-Precinct 303,United States Senator,None Of These Candidates,13
-Precinct 303,United States Senator,"REID, HARRY",481
-Precinct 303,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 303,United States Senator,"ZISER, RICHARD",347
+Precinct 303,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 303,U.S. Senate,"MARINCH, GARY",5
+Precinct 303,U.S. Senate,None Of These Candidates,13
+Precinct 303,U.S. Senate,"REID, HARRY",481
+Precinct 303,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 303,U.S. Senate,"ZISER, RICHARD",347
 Precinct 305,Mayor CARSON CITY,"MASAYKO, RAY",510
 Precinct 305,Mayor CARSON CITY,"TEIXEIRA, MARV",576
-Precinct 305,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 305,President and Vice President of the United States,"BUSH, GEORGE W.",680
-Precinct 305,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 305,President and Vice President of the United States,"KERRY, JOHN F.",421
-Precinct 305,President and Vice President of the United States,"NADER, RALPH",8
-Precinct 305,President and Vice President of the United States,None Of These Candidates,4
-Precinct 305,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 305,President,"BADNARIK, MICHAEL",4
+Precinct 305,President,"BUSH, GEORGE W.",680
+Precinct 305,President,"COBB, DAVID",1
+Precinct 305,President,"KERRY, JOHN F.",421
+Precinct 305,President,"NADER, RALPH",8
+Precinct 305,President,None Of These Candidates,4
+Precinct 305,President,"PEROUTKA, MICHAEL A.",0
 Precinct 305,School Trustee District 5,"COHEN, KIM",398
 Precinct 305,School Trustee District 5,"MCKENNA, JOHN",574
 Precinct 305,School Trustee District 7,"DAILEY, DEBBY",370
@@ -606,21 +606,21 @@ Precinct 305,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 305,"U.S. Representative in Congress, District 2","GIBBONS, JIM",825
 Precinct 305,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 Precinct 305,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-Precinct 305,United States Senator,"HURST, THOMAS L.",7
-Precinct 305,United States Senator,"MARINCH, GARY",2
-Precinct 305,United States Senator,None Of These Candidates,16
-Precinct 305,United States Senator,"REID, HARRY",599
-Precinct 305,United States Senator,"SCHUMANN, DAVID K.",2
-Precinct 305,United States Senator,"ZISER, RICHARD",481
+Precinct 305,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 305,U.S. Senate,"MARINCH, GARY",2
+Precinct 305,U.S. Senate,None Of These Candidates,16
+Precinct 305,U.S. Senate,"REID, HARRY",599
+Precinct 305,U.S. Senate,"SCHUMANN, DAVID K.",2
+Precinct 305,U.S. Senate,"ZISER, RICHARD",481
 Precinct 307,Mayor CARSON CITY,"MASAYKO, RAY",357
 Precinct 307,Mayor CARSON CITY,"TEIXEIRA, MARV",332
-Precinct 307,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 307,President and Vice President of the United States,"BUSH, GEORGE W.",379
-Precinct 307,President and Vice President of the United States,"COBB, DAVID",5
-Precinct 307,President and Vice President of the United States,"KERRY, JOHN F.",326
-Precinct 307,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 307,President and Vice President of the United States,None Of These Candidates,4
-Precinct 307,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 307,President,"BADNARIK, MICHAEL",3
+Precinct 307,President,"BUSH, GEORGE W.",379
+Precinct 307,President,"COBB, DAVID",5
+Precinct 307,President,"KERRY, JOHN F.",326
+Precinct 307,President,"NADER, RALPH",3
+Precinct 307,President,None Of These Candidates,4
+Precinct 307,President,"PEROUTKA, MICHAEL A.",2
 Precinct 307,School Trustee District 5,"COHEN, KIM",299
 Precinct 307,School Trustee District 5,"MCKENNA, JOHN",327
 Precinct 307,School Trustee District 7,"DAILEY, DEBBY",285
@@ -645,21 +645,21 @@ Precinct 307,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 307,"U.S. Representative in Congress, District 2","GIBBONS, JIM",446
 Precinct 307,"U.S. Representative in Congress, District 2","HANSEN, JANINE",18
 Precinct 307,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",14
-Precinct 307,United States Senator,"HURST, THOMAS L.",4
-Precinct 307,United States Senator,"MARINCH, GARY",2
-Precinct 307,United States Senator,None Of These Candidates,15
-Precinct 307,United States Senator,"REID, HARRY",437
-Precinct 307,United States Senator,"SCHUMANN, DAVID K.",7
-Precinct 307,United States Senator,"ZISER, RICHARD",248
+Precinct 307,U.S. Senate,"HURST, THOMAS L.",4
+Precinct 307,U.S. Senate,"MARINCH, GARY",2
+Precinct 307,U.S. Senate,None Of These Candidates,15
+Precinct 307,U.S. Senate,"REID, HARRY",437
+Precinct 307,U.S. Senate,"SCHUMANN, DAVID K.",7
+Precinct 307,U.S. Senate,"ZISER, RICHARD",248
 Precinct 309,Mayor CARSON CITY,"MASAYKO, RAY",208
 Precinct 309,Mayor CARSON CITY,"TEIXEIRA, MARV",198
-Precinct 309,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-Precinct 309,President and Vice President of the United States,"BUSH, GEORGE W.",239
-Precinct 309,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 309,President and Vice President of the United States,"KERRY, JOHN F.",181
-Precinct 309,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 309,President and Vice President of the United States,None Of These Candidates,1
-Precinct 309,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 309,President,"BADNARIK, MICHAEL",3
+Precinct 309,President,"BUSH, GEORGE W.",239
+Precinct 309,President,"COBB, DAVID",1
+Precinct 309,President,"KERRY, JOHN F.",181
+Precinct 309,President,"NADER, RALPH",4
+Precinct 309,President,None Of These Candidates,1
+Precinct 309,President,"PEROUTKA, MICHAEL A.",1
 Precinct 309,School Trustee District 5,"COHEN, KIM",174
 Precinct 309,School Trustee District 5,"MCKENNA, JOHN",194
 Precinct 309,School Trustee District 7,"DAILEY, DEBBY",147
@@ -684,21 +684,21 @@ Precinct 309,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Precinct 309,"U.S. Representative in Congress, District 2","GIBBONS, JIM",273
 Precinct 309,"U.S. Representative in Congress, District 2","HANSEN, JANINE",17
 Precinct 309,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-Precinct 309,United States Senator,"HURST, THOMAS L.",6
-Precinct 309,United States Senator,"MARINCH, GARY",0
-Precinct 309,United States Senator,None Of These Candidates,6
-Precinct 309,United States Senator,"REID, HARRY",244
-Precinct 309,United States Senator,"SCHUMANN, DAVID K.",1
-Precinct 309,United States Senator,"ZISER, RICHARD",170
+Precinct 309,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 309,U.S. Senate,"MARINCH, GARY",0
+Precinct 309,U.S. Senate,None Of These Candidates,6
+Precinct 309,U.S. Senate,"REID, HARRY",244
+Precinct 309,U.S. Senate,"SCHUMANN, DAVID K.",1
+Precinct 309,U.S. Senate,"ZISER, RICHARD",170
 Precinct 311,Mayor CARSON CITY,"MASAYKO, RAY",541
 Precinct 311,Mayor CARSON CITY,"TEIXEIRA, MARV",564
-Precinct 311,President and Vice President of the United States,"BADNARIK, MICHAEL",9
-Precinct 311,President and Vice President of the United States,"BUSH, GEORGE W.",726
-Precinct 311,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 311,President and Vice President of the United States,"KERRY, JOHN F.",395
-Precinct 311,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 311,President and Vice President of the United States,None Of These Candidates,9
-Precinct 311,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 311,President,"BADNARIK, MICHAEL",9
+Precinct 311,President,"BUSH, GEORGE W.",726
+Precinct 311,President,"COBB, DAVID",0
+Precinct 311,President,"KERRY, JOHN F.",395
+Precinct 311,President,"NADER, RALPH",4
+Precinct 311,President,None Of These Candidates,9
+Precinct 311,President,"PEROUTKA, MICHAEL A.",1
 Precinct 311,School Trustee District 5,"COHEN, KIM",398
 Precinct 311,School Trustee District 5,"MCKENNA, JOHN",573
 Precinct 311,School Trustee District 7,"DAILEY, DEBBY",368
@@ -723,21 +723,21 @@ Precinct 311,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 311,"U.S. Representative in Congress, District 2","GIBBONS, JIM",840
 Precinct 311,"U.S. Representative in Congress, District 2","HANSEN, JANINE",33
 Precinct 311,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",21
-Precinct 311,United States Senator,"HURST, THOMAS L.",13
-Precinct 311,United States Senator,"MARINCH, GARY",2
-Precinct 311,United States Senator,None Of These Candidates,9
-Precinct 311,United States Senator,"REID, HARRY",537
-Precinct 311,United States Senator,"SCHUMANN, DAVID K.",10
-Precinct 311,United States Senator,"ZISER, RICHARD",563
+Precinct 311,U.S. Senate,"HURST, THOMAS L.",13
+Precinct 311,U.S. Senate,"MARINCH, GARY",2
+Precinct 311,U.S. Senate,None Of These Candidates,9
+Precinct 311,U.S. Senate,"REID, HARRY",537
+Precinct 311,U.S. Senate,"SCHUMANN, DAVID K.",10
+Precinct 311,U.S. Senate,"ZISER, RICHARD",563
 Precinct 401,Mayor CARSON CITY,"MASAYKO, RAY",326
 Precinct 401,Mayor CARSON CITY,"TEIXEIRA, MARV",413
-Precinct 401,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 401,President and Vice President of the United States,"BUSH, GEORGE W.",373
-Precinct 401,President and Vice President of the United States,"COBB, DAVID",2
-Precinct 401,President and Vice President of the United States,"KERRY, JOHN F.",383
-Precinct 401,President and Vice President of the United States,"NADER, RALPH",9
-Precinct 401,President and Vice President of the United States,None Of These Candidates,7
-Precinct 401,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 401,President,"BADNARIK, MICHAEL",4
+Precinct 401,President,"BUSH, GEORGE W.",373
+Precinct 401,President,"COBB, DAVID",2
+Precinct 401,President,"KERRY, JOHN F.",383
+Precinct 401,President,"NADER, RALPH",9
+Precinct 401,President,None Of These Candidates,7
+Precinct 401,President,"PEROUTKA, MICHAEL A.",2
 Precinct 401,School Trustee District 5,"COHEN, KIM",282
 Precinct 401,School Trustee District 5,"MCKENNA, JOHN",364
 Precinct 401,School Trustee District 7,"DAILEY, DEBBY",285
@@ -762,21 +762,21 @@ Precinct 401,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 401,"U.S. Representative in Congress, District 2","GIBBONS, JIM",461
 Precinct 401,"U.S. Representative in Congress, District 2","HANSEN, JANINE",36
 Precinct 401,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",15
-Precinct 401,United States Senator,"HURST, THOMAS L.",8
-Precinct 401,United States Senator,"MARINCH, GARY",4
-Precinct 401,United States Senator,None Of These Candidates,19
-Precinct 401,United States Senator,"REID, HARRY",465
-Precinct 401,United States Senator,"SCHUMANN, DAVID K.",6
-Precinct 401,United States Senator,"ZISER, RICHARD",264
+Precinct 401,U.S. Senate,"HURST, THOMAS L.",8
+Precinct 401,U.S. Senate,"MARINCH, GARY",4
+Precinct 401,U.S. Senate,None Of These Candidates,19
+Precinct 401,U.S. Senate,"REID, HARRY",465
+Precinct 401,U.S. Senate,"SCHUMANN, DAVID K.",6
+Precinct 401,U.S. Senate,"ZISER, RICHARD",264
 Precinct 403,Mayor CARSON CITY,"MASAYKO, RAY",508
 Precinct 403,Mayor CARSON CITY,"TEIXEIRA, MARV",530
-Precinct 403,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-Precinct 403,President and Vice President of the United States,"BUSH, GEORGE W.",564
-Precinct 403,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 403,President and Vice President of the United States,"KERRY, JOHN F.",509
-Precinct 403,President and Vice President of the United States,"NADER, RALPH",7
-Precinct 403,President and Vice President of the United States,None Of These Candidates,7
-Precinct 403,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 403,President,"BADNARIK, MICHAEL",4
+Precinct 403,President,"BUSH, GEORGE W.",564
+Precinct 403,President,"COBB, DAVID",0
+Precinct 403,President,"KERRY, JOHN F.",509
+Precinct 403,President,"NADER, RALPH",7
+Precinct 403,President,None Of These Candidates,7
+Precinct 403,President,"PEROUTKA, MICHAEL A.",0
 Precinct 403,School Trustee District 5,"COHEN, KIM",423
 Precinct 403,School Trustee District 5,"MCKENNA, JOHN",500
 Precinct 403,School Trustee District 7,"DAILEY, DEBBY",394
@@ -801,21 +801,21 @@ Precinct 403,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",3
 Precinct 403,"U.S. Representative in Congress, District 2","GIBBONS, JIM",684
 Precinct 403,"U.S. Representative in Congress, District 2","HANSEN, JANINE",33
 Precinct 403,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",13
-Precinct 403,United States Senator,"HURST, THOMAS L.",7
-Precinct 403,United States Senator,"MARINCH, GARY",2
-Precinct 403,United States Senator,None Of These Candidates,20
-Precinct 403,United States Senator,"REID, HARRY",641
-Precinct 403,United States Senator,"SCHUMANN, DAVID K.",14
-Precinct 403,United States Senator,"ZISER, RICHARD",400
+Precinct 403,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 403,U.S. Senate,"MARINCH, GARY",2
+Precinct 403,U.S. Senate,None Of These Candidates,20
+Precinct 403,U.S. Senate,"REID, HARRY",641
+Precinct 403,U.S. Senate,"SCHUMANN, DAVID K.",14
+Precinct 403,U.S. Senate,"ZISER, RICHARD",400
 Precinct 405,Mayor CARSON CITY,"MASAYKO, RAY",423
 Precinct 405,Mayor CARSON CITY,"TEIXEIRA, MARV",482
-Precinct 405,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-Precinct 405,President and Vice President of the United States,"BUSH, GEORGE W.",496
-Precinct 405,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 405,President and Vice President of the United States,"KERRY, JOHN F.",429
-Precinct 405,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 405,President and Vice President of the United States,None Of These Candidates,6
-Precinct 405,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+Precinct 405,President,"BADNARIK, MICHAEL",5
+Precinct 405,President,"BUSH, GEORGE W.",496
+Precinct 405,President,"COBB, DAVID",0
+Precinct 405,President,"KERRY, JOHN F.",429
+Precinct 405,President,"NADER, RALPH",3
+Precinct 405,President,None Of These Candidates,6
+Precinct 405,President,"PEROUTKA, MICHAEL A.",1
 Precinct 405,School Trustee District 5,"COHEN, KIM",318
 Precinct 405,School Trustee District 5,"MCKENNA, JOHN",479
 Precinct 405,School Trustee District 7,"DAILEY, DEBBY",328
@@ -840,21 +840,21 @@ Precinct 405,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 405,"U.S. Representative in Congress, District 2","GIBBONS, JIM",607
 Precinct 405,"U.S. Representative in Congress, District 2","HANSEN, JANINE",30
 Precinct 405,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-Precinct 405,United States Senator,"HURST, THOMAS L.",7
-Precinct 405,United States Senator,"MARINCH, GARY",2
-Precinct 405,United States Senator,None Of These Candidates,15
-Precinct 405,United States Senator,"REID, HARRY",542
-Precinct 405,United States Senator,"SCHUMANN, DAVID K.",4
-Precinct 405,United States Senator,"ZISER, RICHARD",355
+Precinct 405,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 405,U.S. Senate,"MARINCH, GARY",2
+Precinct 405,U.S. Senate,None Of These Candidates,15
+Precinct 405,U.S. Senate,"REID, HARRY",542
+Precinct 405,U.S. Senate,"SCHUMANN, DAVID K.",4
+Precinct 405,U.S. Senate,"ZISER, RICHARD",355
 Precinct 407,Mayor CARSON CITY,"MASAYKO, RAY",440
 Precinct 407,Mayor CARSON CITY,"TEIXEIRA, MARV",446
-Precinct 407,President and Vice President of the United States,"BADNARIK, MICHAEL",7
-Precinct 407,President and Vice President of the United States,"BUSH, GEORGE W.",548
-Precinct 407,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 407,President and Vice President of the United States,"KERRY, JOHN F.",340
-Precinct 407,President and Vice President of the United States,"NADER, RALPH",8
-Precinct 407,President and Vice President of the United States,None Of These Candidates,7
-Precinct 407,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",5
+Precinct 407,President,"BADNARIK, MICHAEL",7
+Precinct 407,President,"BUSH, GEORGE W.",548
+Precinct 407,President,"COBB, DAVID",1
+Precinct 407,President,"KERRY, JOHN F.",340
+Precinct 407,President,"NADER, RALPH",8
+Precinct 407,President,None Of These Candidates,7
+Precinct 407,President,"PEROUTKA, MICHAEL A.",5
 Precinct 407,School Trustee District 5,"COHEN, KIM",363
 Precinct 407,School Trustee District 5,"MCKENNA, JOHN",441
 Precinct 407,School Trustee District 7,"DAILEY, DEBBY",341
@@ -879,21 +879,21 @@ Precinct 407,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",2
 Precinct 407,"U.S. Representative in Congress, District 2","GIBBONS, JIM",626
 Precinct 407,"U.S. Representative in Congress, District 2","HANSEN, JANINE",43
 Precinct 407,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",11
-Precinct 407,United States Senator,"HURST, THOMAS L.",10
-Precinct 407,United States Senator,"MARINCH, GARY",3
-Precinct 407,United States Senator,None Of These Candidates,10
-Precinct 407,United States Senator,"REID, HARRY",487
-Precinct 407,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 407,United States Senator,"ZISER, RICHARD",387
+Precinct 407,U.S. Senate,"HURST, THOMAS L.",10
+Precinct 407,U.S. Senate,"MARINCH, GARY",3
+Precinct 407,U.S. Senate,None Of These Candidates,10
+Precinct 407,U.S. Senate,"REID, HARRY",487
+Precinct 407,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 407,U.S. Senate,"ZISER, RICHARD",387
 Precinct 409,Mayor CARSON CITY,"MASAYKO, RAY",512
 Precinct 409,Mayor CARSON CITY,"TEIXEIRA, MARV",519
-Precinct 409,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-Precinct 409,President and Vice President of the United States,"BUSH, GEORGE W.",538
-Precinct 409,President and Vice President of the United States,"COBB, DAVID",1
-Precinct 409,President and Vice President of the United States,"KERRY, JOHN F.",524
-Precinct 409,President and Vice President of the United States,"NADER, RALPH",9
-Precinct 409,President and Vice President of the United States,None Of These Candidates,6
-Precinct 409,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+Precinct 409,President,"BADNARIK, MICHAEL",6
+Precinct 409,President,"BUSH, GEORGE W.",538
+Precinct 409,President,"COBB, DAVID",1
+Precinct 409,President,"KERRY, JOHN F.",524
+Precinct 409,President,"NADER, RALPH",9
+Precinct 409,President,None Of These Candidates,6
+Precinct 409,President,"PEROUTKA, MICHAEL A.",2
 Precinct 409,School Trustee District 5,"COHEN, KIM",365
 Precinct 409,School Trustee District 5,"MCKENNA, JOHN",553
 Precinct 409,School Trustee District 7,"DAILEY, DEBBY",335
@@ -918,21 +918,21 @@ Precinct 409,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",3
 Precinct 409,"U.S. Representative in Congress, District 2","GIBBONS, JIM",677
 Precinct 409,"U.S. Representative in Congress, District 2","HANSEN, JANINE",40
 Precinct 409,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",24
-Precinct 409,United States Senator,"HURST, THOMAS L.",7
-Precinct 409,United States Senator,"MARINCH, GARY",2
-Precinct 409,United States Senator,None Of These Candidates,14
-Precinct 409,United States Senator,"REID, HARRY",640
-Precinct 409,United States Senator,"SCHUMANN, DAVID K.",8
-Precinct 409,United States Senator,"ZISER, RICHARD",400
+Precinct 409,U.S. Senate,"HURST, THOMAS L.",7
+Precinct 409,U.S. Senate,"MARINCH, GARY",2
+Precinct 409,U.S. Senate,None Of These Candidates,14
+Precinct 409,U.S. Senate,"REID, HARRY",640
+Precinct 409,U.S. Senate,"SCHUMANN, DAVID K.",8
+Precinct 409,U.S. Senate,"ZISER, RICHARD",400
 Precinct 411,Mayor CARSON CITY,"MASAYKO, RAY",343
 Precinct 411,Mayor CARSON CITY,"TEIXEIRA, MARV",272
-Precinct 411,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 411,President and Vice President of the United States,"BUSH, GEORGE W.",407
-Precinct 411,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 411,President and Vice President of the United States,"KERRY, JOHN F.",212
-Precinct 411,President and Vice President of the United States,"NADER, RALPH",7
-Precinct 411,President and Vice President of the United States,None Of These Candidates,8
-Precinct 411,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+Precinct 411,President,"BADNARIK, MICHAEL",0
+Precinct 411,President,"BUSH, GEORGE W.",407
+Precinct 411,President,"COBB, DAVID",0
+Precinct 411,President,"KERRY, JOHN F.",212
+Precinct 411,President,"NADER, RALPH",7
+Precinct 411,President,None Of These Candidates,8
+Precinct 411,President,"PEROUTKA, MICHAEL A.",0
 Precinct 411,School Trustee District 5,"COHEN, KIM",260
 Precinct 411,School Trustee District 5,"MCKENNA, JOHN",288
 Precinct 411,School Trustee District 7,"DAILEY, DEBBY",209
@@ -957,33 +957,33 @@ Precinct 411,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",1
 Precinct 411,"U.S. Representative in Congress, District 2","GIBBONS, JIM",463
 Precinct 411,"U.S. Representative in Congress, District 2","HANSEN, JANINE",27
 Precinct 411,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-Precinct 411,United States Senator,"HURST, THOMAS L.",6
-Precinct 411,United States Senator,"MARINCH, GARY",1
-Precinct 411,United States Senator,None Of These Candidates,7
-Precinct 411,United States Senator,"REID, HARRY",297
-Precinct 411,United States Senator,"SCHUMANN, DAVID K.",4
-Precinct 411,United States Senator,"ZISER, RICHARD",316
-Precinct 998,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 998,President and Vice President of the United States,"BUSH, GEORGE W.",24
-Precinct 998,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 998,President and Vice President of the United States,"KERRY, JOHN F.",9
-Precinct 998,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 998,President and Vice President of the United States,None Of These Candidates,0
-Precinct 998,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
-Precinct 999,President and Vice President of the United States,"BADNARIK, MICHAEL",
-Precinct 999,President and Vice President of the United States,"BUSH, GEORGE W.",
-Precinct 999,President and Vice President of the United States,"COBB, DAVID",
-Precinct 999,President and Vice President of the United States,"KERRY, JOHN F.",
-Precinct 999,President and Vice President of the United States,"NADER, RALPH",
-Precinct 999,President and Vice President of the United States,None Of These Candidates,
-Precinct 999,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+Precinct 411,U.S. Senate,"HURST, THOMAS L.",6
+Precinct 411,U.S. Senate,"MARINCH, GARY",1
+Precinct 411,U.S. Senate,None Of These Candidates,7
+Precinct 411,U.S. Senate,"REID, HARRY",297
+Precinct 411,U.S. Senate,"SCHUMANN, DAVID K.",4
+Precinct 411,U.S. Senate,"ZISER, RICHARD",316
+Precinct 998,President,"BADNARIK, MICHAEL",0
+Precinct 998,President,"BUSH, GEORGE W.",24
+Precinct 998,President,"COBB, DAVID",0
+Precinct 998,President,"KERRY, JOHN F.",9
+Precinct 998,President,"NADER, RALPH",0
+Precinct 998,President,None Of These Candidates,0
+Precinct 998,President,"PEROUTKA, MICHAEL A.",0
+Precinct 999,President,"BADNARIK, MICHAEL",
+Precinct 999,President,"BUSH, GEORGE W.",
+Precinct 999,President,"COBB, DAVID",
+Precinct 999,President,"KERRY, JOHN F.",
+Precinct 999,President,"NADER, RALPH",
+Precinct 999,President,None Of These Candidates,
+Precinct 999,President,"PEROUTKA, MICHAEL A.",
 Precinct 999,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
 Precinct 999,"U.S. Representative in Congress, District 2","GIBBONS, JIM",
 Precinct 999,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
 Precinct 999,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",
-Precinct 999,United States Senator,"HURST, THOMAS L.",
-Precinct 999,United States Senator,"MARINCH, GARY",
-Precinct 999,United States Senator,None Of These Candidates,
-Precinct 999,United States Senator,"REID, HARRY",
-Precinct 999,United States Senator,"SCHUMANN, DAVID K.",
-Precinct 999,United States Senator,"ZISER, RICHARD",
+Precinct 999,U.S. Senate,"HURST, THOMAS L.",
+Precinct 999,U.S. Senate,"MARINCH, GARY",
+Precinct 999,U.S. Senate,None Of These Candidates,
+Precinct 999,U.S. Senate,"REID, HARRY",
+Precinct 999,U.S. Senate,"SCHUMANN, DAVID K.",
+Precinct 999,U.S. Senate,"ZISER, RICHARD",

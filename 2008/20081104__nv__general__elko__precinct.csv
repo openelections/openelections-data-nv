@@ -8,13 +8,13 @@ Precinct 1,"District Court Judge, District 4, Department  1","MEMEO, MIKE",232
 Precinct 1,"District Court Judge, District 4, Department  1","TORVINEN, MARK",158
 Precinct 1,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",159
 Precinct 1,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",199
-Precinct 1,President and Vice President of the United States,"Baldwin, Chuck",11
-Precinct 1,President and Vice President of the United States,"Barr, Bob",1
-Precinct 1,President and Vice President of the United States,"McCain, John",253
-Precinct 1,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 1,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 1,President and Vice President of the United States,None Of These Candidates,3
-Precinct 1,President and Vice President of the United States,"Obama, Barack",141
+Precinct 1,President,"Baldwin, Chuck",11
+Precinct 1,President,"Barr, Bob",1
+Precinct 1,President,"McCain, John",253
+Precinct 1,President,"McKinney, Cynthia",2
+Precinct 1,President,"NADER, RALPH",0
+Precinct 1,President,None Of These Candidates,3
+Precinct 1,President,"Obama, Barack",141
 Precinct 1,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",163
 Precinct 1,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",197
 Precinct 1,"State Assembly, District 33","CARPENTER, JOHN C.",251
@@ -41,13 +41,13 @@ Precinct 10,"District Court Judge, District 4, Department  1","MEMEO, MIKE",294
 Precinct 10,"District Court Judge, District 4, Department  1","TORVINEN, MARK",343
 Precinct 10,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",193
 Precinct 10,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",387
-Precinct 10,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 10,President and Vice President of the United States,"Barr, Bob",3
-Precinct 10,President and Vice President of the United States,"McCain, John",442
-Precinct 10,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 10,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 10,President and Vice President of the United States,None Of These Candidates,12
-Precinct 10,President and Vice President of the United States,"Obama, Barack",198
+Precinct 10,President,"Baldwin, Chuck",4
+Precinct 10,President,"Barr, Bob",3
+Precinct 10,President,"McCain, John",442
+Precinct 10,President,"McKinney, Cynthia",1
+Precinct 10,President,"NADER, RALPH",3
+Precinct 10,President,None Of These Candidates,12
+Precinct 10,President,"Obama, Barack",198
 Precinct 10,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",266
 Precinct 10,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",317
 Precinct 10,"State Assembly, District 33","CARPENTER, JOHN C.",455
@@ -74,13 +74,13 @@ Precinct 11,"District Court Judge, District 4, Department  1","MEMEO, MIKE",229
 Precinct 11,"District Court Judge, District 4, Department  1","TORVINEN, MARK",142
 Precinct 11,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",133
 Precinct 11,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",218
-Precinct 11,President and Vice President of the United States,"Baldwin, Chuck",8
-Precinct 11,President and Vice President of the United States,"Barr, Bob",0
-Precinct 11,President and Vice President of the United States,"McCain, John",218
-Precinct 11,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 11,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 11,President and Vice President of the United States,None Of These Candidates,4
-Precinct 11,President and Vice President of the United States,"Obama, Barack",142
+Precinct 11,President,"Baldwin, Chuck",8
+Precinct 11,President,"Barr, Bob",0
+Precinct 11,President,"McCain, John",218
+Precinct 11,President,"McKinney, Cynthia",1
+Precinct 11,President,"NADER, RALPH",5
+Precinct 11,President,None Of These Candidates,4
+Precinct 11,President,"Obama, Barack",142
 Precinct 11,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",180
 Precinct 11,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",169
 Precinct 11,"State Assembly, District 33","CARPENTER, JOHN C.",231
@@ -107,13 +107,13 @@ Precinct 12,"District Court Judge, District 4, Department  1","MEMEO, MIKE",418
 Precinct 12,"District Court Judge, District 4, Department  1","TORVINEN, MARK",331
 Precinct 12,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",252
 Precinct 12,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",456
-Precinct 12,President and Vice President of the United States,"Baldwin, Chuck",8
-Precinct 12,President and Vice President of the United States,"Barr, Bob",2
-Precinct 12,President and Vice President of the United States,"McCain, John",542
-Precinct 12,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 12,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 12,President and Vice President of the United States,None Of These Candidates,7
-Precinct 12,President and Vice President of the United States,"Obama, Barack",207
+Precinct 12,President,"Baldwin, Chuck",8
+Precinct 12,President,"Barr, Bob",2
+Precinct 12,President,"McCain, John",542
+Precinct 12,President,"McKinney, Cynthia",2
+Precinct 12,President,"NADER, RALPH",3
+Precinct 12,President,None Of These Candidates,7
+Precinct 12,President,"Obama, Barack",207
 Precinct 12,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",325
 Precinct 12,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",376
 Precinct 12,"State Assembly, District 33","CARPENTER, JOHN C.",536
@@ -140,13 +140,13 @@ Precinct 13,"District Court Judge, District 4, Department  1","MEMEO, MIKE",117
 Precinct 13,"District Court Judge, District 4, Department  1","TORVINEN, MARK",93
 Precinct 13,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",79
 Precinct 13,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",117
-Precinct 13,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 13,President and Vice President of the United States,"Barr, Bob",0
-Precinct 13,President and Vice President of the United States,"McCain, John",167
-Precinct 13,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 13,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 13,President and Vice President of the United States,None Of These Candidates,2
-Precinct 13,President and Vice President of the United States,"Obama, Barack",43
+Precinct 13,President,"Baldwin, Chuck",4
+Precinct 13,President,"Barr, Bob",0
+Precinct 13,President,"McCain, John",167
+Precinct 13,President,"McKinney, Cynthia",0
+Precinct 13,President,"NADER, RALPH",3
+Precinct 13,President,None Of These Candidates,2
+Precinct 13,President,"Obama, Barack",43
 Precinct 13,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",86
 Precinct 13,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",112
 Precinct 13,"State Assembly, District 33","CARPENTER, JOHN C.",138
@@ -173,13 +173,13 @@ Precinct 14,"District Court Judge, District 4, Department  1","MEMEO, MIKE",375
 Precinct 14,"District Court Judge, District 4, Department  1","TORVINEN, MARK",351
 Precinct 14,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",289
 Precinct 14,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",381
-Precinct 14,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 14,President and Vice President of the United States,"Barr, Bob",2
-Precinct 14,President and Vice President of the United States,"McCain, John",553
-Precinct 14,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 14,President and Vice President of the United States,"NADER, RALPH",6
-Precinct 14,President and Vice President of the United States,None Of These Candidates,4
-Precinct 14,President and Vice President of the United States,"Obama, Barack",175
+Precinct 14,President,"Baldwin, Chuck",4
+Precinct 14,President,"Barr, Bob",2
+Precinct 14,President,"McCain, John",553
+Precinct 14,President,"McKinney, Cynthia",1
+Precinct 14,President,"NADER, RALPH",6
+Precinct 14,President,None Of These Candidates,4
+Precinct 14,President,"Obama, Barack",175
 Precinct 14,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",302
 Precinct 14,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",376
 Precinct 14,"State Assembly, District 33","CARPENTER, JOHN C.",497
@@ -206,13 +206,13 @@ Precinct 15,County Comm Dist. 5 (CW),"RUSSELL, WARREN",245
 Precinct 15,County Comm Dist. 5 (CW),"WEEKS, ZEB",94
 Precinct 15,"District Court Judge, District 4, Department  1","MEMEO, MIKE",217
 Precinct 15,"District Court Judge, District 4, Department  1","TORVINEN, MARK",140
-Precinct 15,President and Vice President of the United States,"Baldwin, Chuck",3
-Precinct 15,President and Vice President of the United States,"Barr, Bob",4
-Precinct 15,President and Vice President of the United States,"McCain, John",237
-Precinct 15,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 15,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 15,President and Vice President of the United States,None Of These Candidates,2
-Precinct 15,President and Vice President of the United States,"Obama, Barack",120
+Precinct 15,President,"Baldwin, Chuck",3
+Precinct 15,President,"Barr, Bob",4
+Precinct 15,President,"McCain, John",237
+Precinct 15,President,"McKinney, Cynthia",2
+Precinct 15,President,"NADER, RALPH",2
+Precinct 15,President,None Of These Candidates,2
+Precinct 15,President,"Obama, Barack",120
 Precinct 15,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",188
 Precinct 15,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",154
 Precinct 15,"State Assembly, District 33","CARPENTER, JOHN C.",235
@@ -239,13 +239,13 @@ Precinct 16,County Comm Dist. 5 (CW),"RUSSELL, WARREN",200
 Precinct 16,County Comm Dist. 5 (CW),"WEEKS, ZEB",69
 Precinct 16,"District Court Judge, District 4, Department  1","MEMEO, MIKE",151
 Precinct 16,"District Court Judge, District 4, Department  1","TORVINEN, MARK",129
-Precinct 16,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 16,President and Vice President of the United States,"Barr, Bob",3
-Precinct 16,President and Vice President of the United States,"McCain, John",216
-Precinct 16,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 16,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 16,President and Vice President of the United States,None Of These Candidates,3
-Precinct 16,President and Vice President of the United States,"Obama, Barack",70
+Precinct 16,President,"Baldwin, Chuck",0
+Precinct 16,President,"Barr, Bob",3
+Precinct 16,President,"McCain, John",216
+Precinct 16,President,"McKinney, Cynthia",0
+Precinct 16,President,"NADER, RALPH",4
+Precinct 16,President,None Of These Candidates,3
+Precinct 16,President,"Obama, Barack",70
 Precinct 16,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",131
 Precinct 16,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",132
 Precinct 16,"State Assembly, District 33","CARPENTER, JOHN C.",206
@@ -272,13 +272,13 @@ Precinct 17,"District Court Judge, District 4, Department  1","MEMEO, MIKE",3
 Precinct 17,"District Court Judge, District 4, Department  1","TORVINEN, MARK",15
 Precinct 17,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",8
 Precinct 17,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",8
-Precinct 17,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 17,President and Vice President of the United States,"Barr, Bob",0
-Precinct 17,President and Vice President of the United States,"McCain, John",12
-Precinct 17,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 17,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 17,President and Vice President of the United States,None Of These Candidates,0
-Precinct 17,President and Vice President of the United States,"Obama, Barack",6
+Precinct 17,President,"Baldwin, Chuck",0
+Precinct 17,President,"Barr, Bob",0
+Precinct 17,President,"McCain, John",12
+Precinct 17,President,"McKinney, Cynthia",0
+Precinct 17,President,"NADER, RALPH",0
+Precinct 17,President,None Of These Candidates,0
+Precinct 17,President,"Obama, Barack",6
 Precinct 17,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",3
 Precinct 17,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",15
 Precinct 17,"State Assembly, District 33","CARPENTER, JOHN C.",15
@@ -303,13 +303,13 @@ Precinct 18,County Comm Dist. 5 (CW),"RUSSELL, WARREN",137
 Precinct 18,County Comm Dist. 5 (CW),"WEEKS, ZEB",68
 Precinct 18,"District Court Judge, District 4, Department  1","MEMEO, MIKE",88
 Precinct 18,"District Court Judge, District 4, Department  1","TORVINEN, MARK",133
-Precinct 18,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 18,President and Vice President of the United States,"Barr, Bob",4
-Precinct 18,President and Vice President of the United States,"McCain, John",160
-Precinct 18,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 18,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 18,President and Vice President of the United States,None Of These Candidates,1
-Precinct 18,President and Vice President of the United States,"Obama, Barack",66
+Precinct 18,President,"Baldwin, Chuck",0
+Precinct 18,President,"Barr, Bob",4
+Precinct 18,President,"McCain, John",160
+Precinct 18,President,"McKinney, Cynthia",1
+Precinct 18,President,"NADER, RALPH",2
+Precinct 18,President,None Of These Candidates,1
+Precinct 18,President,"Obama, Barack",66
 Precinct 18,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",94
 Precinct 18,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",106
 Precinct 18,"State Assembly, District 33","CARPENTER, JOHN C.",156
@@ -334,13 +334,13 @@ Precinct 19,County Comm Dist. 5 (CW),"RUSSELL, WARREN",141
 Precinct 19,County Comm Dist. 5 (CW),"WEEKS, ZEB",60
 Precinct 19,"District Court Judge, District 4, Department  1","MEMEO, MIKE",88
 Precinct 19,"District Court Judge, District 4, Department  1","TORVINEN, MARK",131
-Precinct 19,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 19,President and Vice President of the United States,"Barr, Bob",3
-Precinct 19,President and Vice President of the United States,"McCain, John",153
-Precinct 19,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 19,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 19,President and Vice President of the United States,None Of These Candidates,3
-Precinct 19,President and Vice President of the United States,"Obama, Barack",68
+Precinct 19,President,"Baldwin, Chuck",0
+Precinct 19,President,"Barr, Bob",3
+Precinct 19,President,"McCain, John",153
+Precinct 19,President,"McKinney, Cynthia",1
+Precinct 19,President,"NADER, RALPH",1
+Precinct 19,President,None Of These Candidates,3
+Precinct 19,President,"Obama, Barack",68
 Precinct 19,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",94
 Precinct 19,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",98
 Precinct 19,"State Assembly, District 33","CARPENTER, JOHN C.",162
@@ -367,13 +367,13 @@ Precinct 2,"District Court Judge, District 4, Department  1","MEMEO, MIKE",180
 Precinct 2,"District Court Judge, District 4, Department  1","TORVINEN, MARK",150
 Precinct 2,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",144
 Precinct 2,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",171
-Precinct 2,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 2,President and Vice President of the United States,"Barr, Bob",1
-Precinct 2,President and Vice President of the United States,"McCain, John",197
-Precinct 2,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 2,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 2,President and Vice President of the United States,None Of These Candidates,4
-Precinct 2,President and Vice President of the United States,"Obama, Barack",129
+Precinct 2,President,"Baldwin, Chuck",4
+Precinct 2,President,"Barr, Bob",1
+Precinct 2,President,"McCain, John",197
+Precinct 2,President,"McKinney, Cynthia",2
+Precinct 2,President,"NADER, RALPH",4
+Precinct 2,President,None Of These Candidates,4
+Precinct 2,President,"Obama, Barack",129
 Precinct 2,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",147
 Precinct 2,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",161
 Precinct 2,"State Assembly, District 33","CARPENTER, JOHN C.",187
@@ -405,13 +405,13 @@ Precinct 20,"District Court Judge, District 4, Department  1","TORVINEN, MARK",1
 Precinct 20,Mayor WEST WENDOVER,"ANDERSEN, DONNIE",234
 Precinct 20,Mayor WEST WENDOVER,"CARTER, EMILY",100
 Precinct 20,Mayor WEST WENDOVER,"THAUT, JOEY",89
-Precinct 20,President and Vice President of the United States,"Baldwin, Chuck",5
-Precinct 20,President and Vice President of the United States,"Barr, Bob",5
-Precinct 20,President and Vice President of the United States,"McCain, John",217
-Precinct 20,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 20,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 20,President and Vice President of the United States,None Of These Candidates,7
-Precinct 20,President and Vice President of the United States,"Obama, Barack",192
+Precinct 20,President,"Baldwin, Chuck",5
+Precinct 20,President,"Barr, Bob",5
+Precinct 20,President,"McCain, John",217
+Precinct 20,President,"McKinney, Cynthia",1
+Precinct 20,President,"NADER, RALPH",5
+Precinct 20,President,None Of These Candidates,7
+Precinct 20,President,"Obama, Barack",192
 Precinct 20,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",198
 Precinct 20,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",165
 Precinct 20,"State Assembly, District 33","CARPENTER, JOHN C.",247
@@ -445,13 +445,13 @@ Precinct 21,"District Court Judge, District 4, Department  1","TORVINEN, MARK",6
 Precinct 21,Mayor WEST WENDOVER,"ANDERSEN, DONNIE",97
 Precinct 21,Mayor WEST WENDOVER,"CARTER, EMILY",33
 Precinct 21,Mayor WEST WENDOVER,"THAUT, JOEY",29
-Precinct 21,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 21,President and Vice President of the United States,"Barr, Bob",6
-Precinct 21,President and Vice President of the United States,"McCain, John",67
-Precinct 21,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 21,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 21,President and Vice President of the United States,None Of These Candidates,1
-Precinct 21,President and Vice President of the United States,"Obama, Barack",80
+Precinct 21,President,"Baldwin, Chuck",4
+Precinct 21,President,"Barr, Bob",6
+Precinct 21,President,"McCain, John",67
+Precinct 21,President,"McKinney, Cynthia",1
+Precinct 21,President,"NADER, RALPH",3
+Precinct 21,President,None Of These Candidates,1
+Precinct 21,President,"Obama, Barack",80
 Precinct 21,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",70
 Precinct 21,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",58
 Precinct 21,"State Assembly, District 33","CARPENTER, JOHN C.",87
@@ -480,13 +480,13 @@ Precinct 22,"District Court Judge, District 4, Department  1","MEMEO, MIKE",468
 Precinct 22,"District Court Judge, District 4, Department  1","TORVINEN, MARK",439
 Precinct 22,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",355
 Precinct 22,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",443
-Precinct 22,President and Vice President of the United States,"Baldwin, Chuck",7
-Precinct 22,President and Vice President of the United States,"Barr, Bob",4
-Precinct 22,President and Vice President of the United States,"McCain, John",695
-Precinct 22,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 22,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 22,President and Vice President of the United States,None Of These Candidates,5
-Precinct 22,President and Vice President of the United States,"Obama, Barack",235
+Precinct 22,President,"Baldwin, Chuck",7
+Precinct 22,President,"Barr, Bob",4
+Precinct 22,President,"McCain, John",695
+Precinct 22,President,"McKinney, Cynthia",2
+Precinct 22,President,"NADER, RALPH",4
+Precinct 22,President,None Of These Candidates,5
+Precinct 22,President,"Obama, Barack",235
 Precinct 22,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",345
 Precinct 22,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",491
 Precinct 22,"State Assembly, District 33","CARPENTER, JOHN C.",628
@@ -513,13 +513,13 @@ Precinct 23,"District Court Judge, District 4, Department  1","MEMEO, MIKE",483
 Precinct 23,"District Court Judge, District 4, Department  1","TORVINEN, MARK",434
 Precinct 23,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",371
 Precinct 23,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",445
-Precinct 23,President and Vice President of the United States,"Baldwin, Chuck",10
-Precinct 23,President and Vice President of the United States,"Barr, Bob",2
-Precinct 23,President and Vice President of the United States,"McCain, John",707
-Precinct 23,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 23,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 23,President and Vice President of the United States,None Of These Candidates,4
-Precinct 23,President and Vice President of the United States,"Obama, Barack",239
+Precinct 23,President,"Baldwin, Chuck",10
+Precinct 23,President,"Barr, Bob",2
+Precinct 23,President,"McCain, John",707
+Precinct 23,President,"McKinney, Cynthia",0
+Precinct 23,President,"NADER, RALPH",3
+Precinct 23,President,None Of These Candidates,4
+Precinct 23,President,"Obama, Barack",239
 Precinct 23,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",331
 Precinct 23,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",536
 Precinct 23,"State Assembly, District 33","CARPENTER, JOHN C.",662
@@ -546,13 +546,13 @@ Precinct 24,"District Court Judge, District 4, Department  1","MEMEO, MIKE",376
 Precinct 24,"District Court Judge, District 4, Department  1","TORVINEN, MARK",289
 Precinct 24,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",294
 Precinct 24,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",319
-Precinct 24,President and Vice President of the United States,"Baldwin, Chuck",12
-Precinct 24,President and Vice President of the United States,"Barr, Bob",3
-Precinct 24,President and Vice President of the United States,"McCain, John",495
-Precinct 24,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 24,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 24,President and Vice President of the United States,None Of These Candidates,4
-Precinct 24,President and Vice President of the United States,"Obama, Barack",171
+Precinct 24,President,"Baldwin, Chuck",12
+Precinct 24,President,"Barr, Bob",3
+Precinct 24,President,"McCain, John",495
+Precinct 24,President,"McKinney, Cynthia",0
+Precinct 24,President,"NADER, RALPH",5
+Precinct 24,President,None Of These Candidates,4
+Precinct 24,President,"Obama, Barack",171
 Precinct 24,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",221
 Precinct 24,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",410
 Precinct 24,"State Assembly, District 33","CARPENTER, JOHN C.",443
@@ -579,13 +579,13 @@ Precinct 25,"District Court Judge, District 4, Department  1","MEMEO, MIKE",328
 Precinct 25,"District Court Judge, District 4, Department  1","TORVINEN, MARK",272
 Precinct 25,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",279
 Precinct 25,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",295
-Precinct 25,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 25,President and Vice President of the United States,"Barr, Bob",5
-Precinct 25,President and Vice President of the United States,"McCain, John",459
-Precinct 25,President and Vice President of the United States,"McKinney, Cynthia",3
-Precinct 25,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 25,President and Vice President of the United States,None Of These Candidates,6
-Precinct 25,President and Vice President of the United States,"Obama, Barack",141
+Precinct 25,President,"Baldwin, Chuck",4
+Precinct 25,President,"Barr, Bob",5
+Precinct 25,President,"McCain, John",459
+Precinct 25,President,"McKinney, Cynthia",3
+Precinct 25,President,"NADER, RALPH",4
+Precinct 25,President,None Of These Candidates,6
+Precinct 25,President,"Obama, Barack",141
 Precinct 25,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",226
 Precinct 25,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",350
 Precinct 25,"State Assembly, District 33","CARPENTER, JOHN C.",397
@@ -612,13 +612,13 @@ Precinct 26,"District Court Judge, District 4, Department  1","MEMEO, MIKE",242
 Precinct 26,"District Court Judge, District 4, Department  1","TORVINEN, MARK",233
 Precinct 26,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",149
 Precinct 26,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",266
-Precinct 26,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 26,President and Vice President of the United States,"Barr, Bob",3
-Precinct 26,President and Vice President of the United States,"McCain, John",376
-Precinct 26,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 26,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 26,President and Vice President of the United States,None Of These Candidates,3
-Precinct 26,President and Vice President of the United States,"Obama, Barack",103
+Precinct 26,President,"Baldwin, Chuck",4
+Precinct 26,President,"Barr, Bob",3
+Precinct 26,President,"McCain, John",376
+Precinct 26,President,"McKinney, Cynthia",0
+Precinct 26,President,"NADER, RALPH",4
+Precinct 26,President,None Of These Candidates,3
+Precinct 26,President,"Obama, Barack",103
 Precinct 26,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",185
 Precinct 26,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",251
 Precinct 26,"State Assembly, District 33","CARPENTER, JOHN C.",344
@@ -645,13 +645,13 @@ Precinct 27,"District Court Judge, District 4, Department  1","MEMEO, MIKE",145
 Precinct 27,"District Court Judge, District 4, Department  1","TORVINEN, MARK",106
 Precinct 27,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",87
 Precinct 27,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",148
-Precinct 27,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 27,President and Vice President of the United States,"Barr, Bob",0
-Precinct 27,President and Vice President of the United States,"McCain, John",200
-Precinct 27,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 27,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 27,President and Vice President of the United States,None Of These Candidates,0
-Precinct 27,President and Vice President of the United States,"Obama, Barack",55
+Precinct 27,President,"Baldwin, Chuck",4
+Precinct 27,President,"Barr, Bob",0
+Precinct 27,President,"McCain, John",200
+Precinct 27,President,"McKinney, Cynthia",0
+Precinct 27,President,"NADER, RALPH",3
+Precinct 27,President,None Of These Candidates,0
+Precinct 27,President,"Obama, Barack",55
 Precinct 27,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",105
 Precinct 27,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",138
 Precinct 27,"State Assembly, District 33","CARPENTER, JOHN C.",191
@@ -678,13 +678,13 @@ Precinct 28,"District Court Judge, District 4, Department  1","MEMEO, MIKE",28
 Precinct 28,"District Court Judge, District 4, Department  1","TORVINEN, MARK",48
 Precinct 28,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",22
 Precinct 28,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",39
-Precinct 28,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 28,President and Vice President of the United States,"Barr, Bob",0
-Precinct 28,President and Vice President of the United States,"McCain, John",64
-Precinct 28,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 28,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 28,President and Vice President of the United States,None Of These Candidates,3
-Precinct 28,President and Vice President of the United States,"Obama, Barack",14
+Precinct 28,President,"Baldwin, Chuck",0
+Precinct 28,President,"Barr, Bob",0
+Precinct 28,President,"McCain, John",64
+Precinct 28,President,"McKinney, Cynthia",0
+Precinct 28,President,"NADER, RALPH",0
+Precinct 28,President,None Of These Candidates,3
+Precinct 28,President,"Obama, Barack",14
 Precinct 28,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",37
 Precinct 28,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",32
 Precinct 28,"State Assembly, District 33","CARPENTER, JOHN C.",64
@@ -725,13 +725,13 @@ Precinct 30,"District Court Judge, District 4, Department  1","MEMEO, MIKE",41
 Precinct 30,"District Court Judge, District 4, Department  1","TORVINEN, MARK",17
 Precinct 30,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",16
 Precinct 30,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",29
-Precinct 30,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 30,President and Vice President of the United States,"Barr, Bob",0
-Precinct 30,President and Vice President of the United States,"McCain, John",55
-Precinct 30,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 30,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 30,President and Vice President of the United States,None Of These Candidates,0
-Precinct 30,President and Vice President of the United States,"Obama, Barack",7
+Precinct 30,President,"Baldwin, Chuck",0
+Precinct 30,President,"Barr, Bob",0
+Precinct 30,President,"McCain, John",55
+Precinct 30,President,"McKinney, Cynthia",0
+Precinct 30,President,"NADER, RALPH",0
+Precinct 30,President,None Of These Candidates,0
+Precinct 30,President,"Obama, Barack",7
 Precinct 30,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",25
 Precinct 30,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",26
 Precinct 30,"State Assembly, District 33","CARPENTER, JOHN C.",52
@@ -758,13 +758,13 @@ Precinct 31,"District Court Judge, District 4, Department  1","MEMEO, MIKE",20
 Precinct 31,"District Court Judge, District 4, Department  1","TORVINEN, MARK",25
 Precinct 31,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",20
 Precinct 31,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",19
-Precinct 31,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 31,President and Vice President of the United States,"Barr, Bob",0
-Precinct 31,President and Vice President of the United States,"McCain, John",39
-Precinct 31,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 31,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 31,President and Vice President of the United States,None Of These Candidates,0
-Precinct 31,President and Vice President of the United States,"Obama, Barack",11
+Precinct 31,President,"Baldwin, Chuck",0
+Precinct 31,President,"Barr, Bob",0
+Precinct 31,President,"McCain, John",39
+Precinct 31,President,"McKinney, Cynthia",0
+Precinct 31,President,"NADER, RALPH",1
+Precinct 31,President,None Of These Candidates,0
+Precinct 31,President,"Obama, Barack",11
 Precinct 31,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",27
 Precinct 31,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",12
 Precinct 31,"State Assembly, District 33","CARPENTER, JOHN C.",42
@@ -791,13 +791,13 @@ Precinct 32,"District Court Judge, District 4, Department  1","MEMEO, MIKE",276
 Precinct 32,"District Court Judge, District 4, Department  1","TORVINEN, MARK",247
 Precinct 32,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",232
 Precinct 32,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",262
-Precinct 32,President and Vice President of the United States,"Baldwin, Chuck",13
-Precinct 32,President and Vice President of the United States,"Barr, Bob",6
-Precinct 32,President and Vice President of the United States,"McCain, John",409
-Precinct 32,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 32,President and Vice President of the United States,"NADER, RALPH",6
-Precinct 32,President and Vice President of the United States,None Of These Candidates,5
-Precinct 32,President and Vice President of the United States,"Obama, Barack",106
+Precinct 32,President,"Baldwin, Chuck",13
+Precinct 32,President,"Barr, Bob",6
+Precinct 32,President,"McCain, John",409
+Precinct 32,President,"McKinney, Cynthia",2
+Precinct 32,President,"NADER, RALPH",6
+Precinct 32,President,None Of These Candidates,5
+Precinct 32,President,"Obama, Barack",106
 Precinct 32,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",221
 Precinct 32,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",276
 Precinct 32,"State Assembly, District 33","CARPENTER, JOHN C.",352
@@ -824,13 +824,13 @@ Precinct 33,"District Court Judge, District 4, Department  1","MEMEO, MIKE",47
 Precinct 33,"District Court Judge, District 4, Department  1","TORVINEN, MARK",42
 Precinct 33,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",35
 Precinct 33,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",31
-Precinct 33,President and Vice President of the United States,"Baldwin, Chuck",1
-Precinct 33,President and Vice President of the United States,"Barr, Bob",1
-Precinct 33,President and Vice President of the United States,"McCain, John",69
-Precinct 33,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 33,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 33,President and Vice President of the United States,None Of These Candidates,0
-Precinct 33,President and Vice President of the United States,"Obama, Barack",23
+Precinct 33,President,"Baldwin, Chuck",1
+Precinct 33,President,"Barr, Bob",1
+Precinct 33,President,"McCain, John",69
+Precinct 33,President,"McKinney, Cynthia",0
+Precinct 33,President,"NADER, RALPH",1
+Precinct 33,President,None Of These Candidates,0
+Precinct 33,President,"Obama, Barack",23
 Precinct 33,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",40
 Precinct 33,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",37
 Precinct 33,"State Assembly, District 33","CARPENTER, JOHN C.",68
@@ -857,13 +857,13 @@ Precinct 34,"District Court Judge, District 4, Department  1","MEMEO, MIKE",58
 Precinct 34,"District Court Judge, District 4, Department  1","TORVINEN, MARK",52
 Precinct 34,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",42
 Precinct 34,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",41
-Precinct 34,President and Vice President of the United States,"Baldwin, Chuck",2
-Precinct 34,President and Vice President of the United States,"Barr, Bob",0
-Precinct 34,President and Vice President of the United States,"McCain, John",101
-Precinct 34,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 34,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 34,President and Vice President of the United States,None Of These Candidates,2
-Precinct 34,President and Vice President of the United States,"Obama, Barack",21
+Precinct 34,President,"Baldwin, Chuck",2
+Precinct 34,President,"Barr, Bob",0
+Precinct 34,President,"McCain, John",101
+Precinct 34,President,"McKinney, Cynthia",0
+Precinct 34,President,"NADER, RALPH",0
+Precinct 34,President,None Of These Candidates,2
+Precinct 34,President,"Obama, Barack",21
 Precinct 34,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",51
 Precinct 34,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",40
 Precinct 34,"State Assembly, District 33","CARPENTER, JOHN C.",98
@@ -888,13 +888,13 @@ Precinct 35,County Comm Dist. 5 (CW),"RUSSELL, WARREN",52
 Precinct 35,County Comm Dist. 5 (CW),"WEEKS, ZEB",41
 Precinct 35,"District Court Judge, District 4, Department  1","MEMEO, MIKE",62
 Precinct 35,"District Court Judge, District 4, Department  1","TORVINEN, MARK",37
-Precinct 35,President and Vice President of the United States,"Baldwin, Chuck",2
-Precinct 35,President and Vice President of the United States,"Barr, Bob",0
-Precinct 35,President and Vice President of the United States,"McCain, John",93
-Precinct 35,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 35,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 35,President and Vice President of the United States,None Of These Candidates,0
-Precinct 35,President and Vice President of the United States,"Obama, Barack",12
+Precinct 35,President,"Baldwin, Chuck",2
+Precinct 35,President,"Barr, Bob",0
+Precinct 35,President,"McCain, John",93
+Precinct 35,President,"McKinney, Cynthia",0
+Precinct 35,President,"NADER, RALPH",3
+Precinct 35,President,None Of These Candidates,0
+Precinct 35,President,"Obama, Barack",12
 Precinct 35,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",50
 Precinct 35,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",48
 Precinct 35,"State Assembly, District 33","CARPENTER, JOHN C.",70
@@ -919,13 +919,13 @@ Precinct 36,County Comm Dist. 5 (CW),"RUSSELL, WARREN",65
 Precinct 36,County Comm Dist. 5 (CW),"WEEKS, ZEB",48
 Precinct 36,"District Court Judge, District 4, Department  1","MEMEO, MIKE",62
 Precinct 36,"District Court Judge, District 4, Department  1","TORVINEN, MARK",61
-Precinct 36,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 36,President and Vice President of the United States,"Barr, Bob",1
-Precinct 36,President and Vice President of the United States,"McCain, John",95
-Precinct 36,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 36,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 36,President and Vice President of the United States,None Of These Candidates,0
-Precinct 36,President and Vice President of the United States,"Obama, Barack",30
+Precinct 36,President,"Baldwin, Chuck",0
+Precinct 36,President,"Barr, Bob",1
+Precinct 36,President,"McCain, John",95
+Precinct 36,President,"McKinney, Cynthia",0
+Precinct 36,President,"NADER, RALPH",0
+Precinct 36,President,None Of These Candidates,0
+Precinct 36,President,"Obama, Barack",30
 Precinct 36,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",47
 Precinct 36,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",61
 Precinct 36,"State Assembly, District 33","CARPENTER, JOHN C.",90
@@ -950,13 +950,13 @@ Precinct 37,County Comm Dist. 5 (CW),"RUSSELL, WARREN",45
 Precinct 37,County Comm Dist. 5 (CW),"WEEKS, ZEB",31
 Precinct 37,"District Court Judge, District 4, Department  1","MEMEO, MIKE",44
 Precinct 37,"District Court Judge, District 4, Department  1","TORVINEN, MARK",39
-Precinct 37,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 37,President and Vice President of the United States,"Barr, Bob",1
-Precinct 37,President and Vice President of the United States,"McCain, John",57
-Precinct 37,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 37,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 37,President and Vice President of the United States,None Of These Candidates,2
-Precinct 37,President and Vice President of the United States,"Obama, Barack",26
+Precinct 37,President,"Baldwin, Chuck",0
+Precinct 37,President,"Barr, Bob",1
+Precinct 37,President,"McCain, John",57
+Precinct 37,President,"McKinney, Cynthia",0
+Precinct 37,President,"NADER, RALPH",2
+Precinct 37,President,None Of These Candidates,2
+Precinct 37,President,"Obama, Barack",26
 Precinct 37,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",38
 Precinct 37,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",38
 Precinct 37,"State Assembly, District 33","CARPENTER, JOHN C.",52
@@ -981,13 +981,13 @@ Precinct 38,County Comm Dist. 5 (CW),"RUSSELL, WARREN",90
 Precinct 38,County Comm Dist. 5 (CW),"WEEKS, ZEB",37
 Precinct 38,"District Court Judge, District 4, Department  1","MEMEO, MIKE",83
 Precinct 38,"District Court Judge, District 4, Department  1","TORVINEN, MARK",60
-Precinct 38,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 38,President and Vice President of the United States,"Barr, Bob",3
-Precinct 38,President and Vice President of the United States,"McCain, John",71
-Precinct 38,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 38,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 38,President and Vice President of the United States,None Of These Candidates,1
-Precinct 38,President and Vice President of the United States,"Obama, Barack",95
+Precinct 38,President,"Baldwin, Chuck",0
+Precinct 38,President,"Barr, Bob",3
+Precinct 38,President,"McCain, John",71
+Precinct 38,President,"McKinney, Cynthia",0
+Precinct 38,President,"NADER, RALPH",0
+Precinct 38,President,None Of These Candidates,1
+Precinct 38,President,"Obama, Barack",95
 Precinct 38,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",63
 Precinct 38,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",67
 Precinct 38,"State Assembly, District 33","CARPENTER, JOHN C.",85
@@ -1012,13 +1012,13 @@ Precinct 39,County Comm Dist. 5 (CW),"RUSSELL, WARREN",45
 Precinct 39,County Comm Dist. 5 (CW),"WEEKS, ZEB",27
 Precinct 39,"District Court Judge, District 4, Department  1","MEMEO, MIKE",49
 Precinct 39,"District Court Judge, District 4, Department  1","TORVINEN, MARK",34
-Precinct 39,President and Vice President of the United States,"Baldwin, Chuck",6
-Precinct 39,President and Vice President of the United States,"Barr, Bob",4
-Precinct 39,President and Vice President of the United States,"McCain, John",40
-Precinct 39,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 39,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 39,President and Vice President of the United States,None Of These Candidates,0
-Precinct 39,President and Vice President of the United States,"Obama, Barack",36
+Precinct 39,President,"Baldwin, Chuck",6
+Precinct 39,President,"Barr, Bob",4
+Precinct 39,President,"McCain, John",40
+Precinct 39,President,"McKinney, Cynthia",2
+Precinct 39,President,"NADER, RALPH",3
+Precinct 39,President,None Of These Candidates,0
+Precinct 39,President,"Obama, Barack",36
 Precinct 39,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",31
 Precinct 39,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",41
 Precinct 39,"State Assembly, District 33","CARPENTER, JOHN C.",37
@@ -1045,13 +1045,13 @@ Precinct 4,"District Court Judge, District 4, Department  1","MEMEO, MIKE",229
 Precinct 4,"District Court Judge, District 4, Department  1","TORVINEN, MARK",280
 Precinct 4,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",172
 Precinct 4,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",300
-Precinct 4,President and Vice President of the United States,"Baldwin, Chuck",3
-Precinct 4,President and Vice President of the United States,"Barr, Bob",1
-Precinct 4,President and Vice President of the United States,"McCain, John",334
-Precinct 4,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 4,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 4,President and Vice President of the United States,None Of These Candidates,7
-Precinct 4,President and Vice President of the United States,"Obama, Barack",189
+Precinct 4,President,"Baldwin, Chuck",3
+Precinct 4,President,"Barr, Bob",1
+Precinct 4,President,"McCain, John",334
+Precinct 4,President,"McKinney, Cynthia",1
+Precinct 4,President,"NADER, RALPH",1
+Precinct 4,President,None Of These Candidates,7
+Precinct 4,President,"Obama, Barack",189
 Precinct 4,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",232
 Precinct 4,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",241
 Precinct 4,"State Assembly, District 33","CARPENTER, JOHN C.",355
@@ -1078,13 +1078,13 @@ Precinct 40,"District Court Judge, District 4, Department  1","MEMEO, MIKE",410
 Precinct 40,"District Court Judge, District 4, Department  1","TORVINEN, MARK",330
 Precinct 40,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",293
 Precinct 40,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",357
-Precinct 40,President and Vice President of the United States,"Baldwin, Chuck",7
-Precinct 40,President and Vice President of the United States,"Barr, Bob",3
-Precinct 40,President and Vice President of the United States,"McCain, John",565
-Precinct 40,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 40,President and Vice President of the United States,"NADER, RALPH",3
-Precinct 40,President and Vice President of the United States,None Of These Candidates,5
-Precinct 40,President and Vice President of the United States,"Obama, Barack",186
+Precinct 40,President,"Baldwin, Chuck",7
+Precinct 40,President,"Barr, Bob",3
+Precinct 40,President,"McCain, John",565
+Precinct 40,President,"McKinney, Cynthia",2
+Precinct 40,President,"NADER, RALPH",3
+Precinct 40,President,None Of These Candidates,5
+Precinct 40,President,"Obama, Barack",186
 Precinct 40,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",285
 Precinct 40,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",400
 Precinct 40,"State Assembly, District 33","CARPENTER, JOHN C.",535
@@ -1111,13 +1111,13 @@ Precinct 41,"District Court Judge, District 4, Department  1","MEMEO, MIKE",419
 Precinct 41,"District Court Judge, District 4, Department  1","TORVINEN, MARK",351
 Precinct 41,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",299
 Precinct 41,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",384
-Precinct 41,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 41,President and Vice President of the United States,"Barr, Bob",1
-Precinct 41,President and Vice President of the United States,"McCain, John",595
-Precinct 41,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 41,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 41,President and Vice President of the United States,None Of These Candidates,2
-Precinct 41,President and Vice President of the United States,"Obama, Barack",200
+Precinct 41,President,"Baldwin, Chuck",4
+Precinct 41,President,"Barr, Bob",1
+Precinct 41,President,"McCain, John",595
+Precinct 41,President,"McKinney, Cynthia",0
+Precinct 41,President,"NADER, RALPH",1
+Precinct 41,President,None Of These Candidates,2
+Precinct 41,President,"Obama, Barack",200
 Precinct 41,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",245
 Precinct 41,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",471
 Precinct 41,"State Assembly, District 33","CARPENTER, JOHN C.",566
@@ -1144,13 +1144,13 @@ Precinct 5,"District Court Judge, District 4, Department  1","MEMEO, MIKE",209
 Precinct 5,"District Court Judge, District 4, Department  1","TORVINEN, MARK",267
 Precinct 5,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",135
 Precinct 5,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",303
-Precinct 5,President and Vice President of the United States,"Baldwin, Chuck",0
-Precinct 5,President and Vice President of the United States,"Barr, Bob",3
-Precinct 5,President and Vice President of the United States,"McCain, John",320
-Precinct 5,President and Vice President of the United States,"McKinney, Cynthia",2
-Precinct 5,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 5,President and Vice President of the United States,None Of These Candidates,6
-Precinct 5,President and Vice President of the United States,"Obama, Barack",156
+Precinct 5,President,"Baldwin, Chuck",0
+Precinct 5,President,"Barr, Bob",3
+Precinct 5,President,"McCain, John",320
+Precinct 5,President,"McKinney, Cynthia",2
+Precinct 5,President,"NADER, RALPH",2
+Precinct 5,President,None Of These Candidates,6
+Precinct 5,President,"Obama, Barack",156
 Precinct 5,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",202
 Precinct 5,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",233
 Precinct 5,"State Assembly, District 33","CARPENTER, JOHN C.",327
@@ -1177,13 +1177,13 @@ Precinct 6,"District Court Judge, District 4, Department  1","MEMEO, MIKE",246
 Precinct 6,"District Court Judge, District 4, Department  1","TORVINEN, MARK",220
 Precinct 6,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",193
 Precinct 6,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",234
-Precinct 6,President and Vice President of the United States,"Baldwin, Chuck",8
-Precinct 6,President and Vice President of the United States,"Barr, Bob",2
-Precinct 6,President and Vice President of the United States,"McCain, John",347
-Precinct 6,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 6,President and Vice President of the United States,"NADER, RALPH",2
-Precinct 6,President and Vice President of the United States,None Of These Candidates,1
-Precinct 6,President and Vice President of the United States,"Obama, Barack",128
+Precinct 6,President,"Baldwin, Chuck",8
+Precinct 6,President,"Barr, Bob",2
+Precinct 6,President,"McCain, John",347
+Precinct 6,President,"McKinney, Cynthia",0
+Precinct 6,President,"NADER, RALPH",2
+Precinct 6,President,None Of These Candidates,1
+Precinct 6,President,"Obama, Barack",128
 Precinct 6,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",197
 Precinct 6,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",232
 Precinct 6,"State Assembly, District 33","CARPENTER, JOHN C.",318
@@ -1210,13 +1210,13 @@ Precinct 7,"District Court Judge, District 4, Department  1","MEMEO, MIKE",205
 Precinct 7,"District Court Judge, District 4, Department  1","TORVINEN, MARK",188
 Precinct 7,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",124
 Precinct 7,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",235
-Precinct 7,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 7,President and Vice President of the United States,"Barr, Bob",1
-Precinct 7,President and Vice President of the United States,"McCain, John",306
-Precinct 7,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 7,President and Vice President of the United States,"NADER, RALPH",1
-Precinct 7,President and Vice President of the United States,None Of These Candidates,1
-Precinct 7,President and Vice President of the United States,"Obama, Barack",98
+Precinct 7,President,"Baldwin, Chuck",4
+Precinct 7,President,"Barr, Bob",1
+Precinct 7,President,"McCain, John",306
+Precinct 7,President,"McKinney, Cynthia",0
+Precinct 7,President,"NADER, RALPH",1
+Precinct 7,President,None Of These Candidates,1
+Precinct 7,President,"Obama, Barack",98
 Precinct 7,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",155
 Precinct 7,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",194
 Precinct 7,"State Assembly, District 33","CARPENTER, JOHN C.",293
@@ -1243,13 +1243,13 @@ Precinct 8,"District Court Judge, District 4, Department  1","MEMEO, MIKE",269
 Precinct 8,"District Court Judge, District 4, Department  1","TORVINEN, MARK",313
 Precinct 8,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",196
 Precinct 8,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",344
-Precinct 8,President and Vice President of the United States,"Baldwin, Chuck",3
-Precinct 8,President and Vice President of the United States,"Barr, Bob",2
-Precinct 8,President and Vice President of the United States,"McCain, John",404
-Precinct 8,President and Vice President of the United States,"McKinney, Cynthia",0
-Precinct 8,President and Vice President of the United States,"NADER, RALPH",4
-Precinct 8,President and Vice President of the United States,None Of These Candidates,5
-Precinct 8,President and Vice President of the United States,"Obama, Barack",186
+Precinct 8,President,"Baldwin, Chuck",3
+Precinct 8,President,"Barr, Bob",2
+Precinct 8,President,"McCain, John",404
+Precinct 8,President,"McKinney, Cynthia",0
+Precinct 8,President,"NADER, RALPH",4
+Precinct 8,President,None Of These Candidates,5
+Precinct 8,President,"Obama, Barack",186
 Precinct 8,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",225
 Precinct 8,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",315
 Precinct 8,"State Assembly, District 33","CARPENTER, JOHN C.",406
@@ -1267,13 +1267,13 @@ Precinct 8,"U.S. Representative in Congress, District 2","DERBY, JILL",173
 Precinct 8,"U.S. Representative in Congress, District 2","Everhart, John",19
 Precinct 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",384
 Precinct 8,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
-Precinct 88,President and Vice President of the United States,"Baldwin, Chuck",
-Precinct 88,President and Vice President of the United States,"Barr, Bob",
-Precinct 88,President and Vice President of the United States,"McCain, John",
-Precinct 88,President and Vice President of the United States,"McKinney, Cynthia",
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"Obama, Barack",
+Precinct 88,President,"Baldwin, Chuck",
+Precinct 88,President,"Barr, Bob",
+Precinct 88,President,"McCain, John",
+Precinct 88,President,"McKinney, Cynthia",
+Precinct 88,President,"NADER, RALPH",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"Obama, Barack",
 Precinct 9,County Comm Dist. 1 (CW),"DAHL, DEMAR",274
 Precinct 9,County Comm Dist. 1 (CW),"NEFF, DAVID E.",132
 Precinct 9,County Comm Dist. 3 (CW),"ELLISON, JOHN",372
@@ -1283,13 +1283,13 @@ Precinct 9,"District Court Judge, District 4, Department  1","MEMEO, MIKE",185
 Precinct 9,"District Court Judge, District 4, Department  1","TORVINEN, MARK",219
 Precinct 9,ELKO CONVENTION  AUD BD SEAT A,"GRAVELIN, VICTORIA E.",139
 Precinct 9,ELKO CONVENTION  AUD BD SEAT A,"MORFIN, GARY H.",238
-Precinct 9,President and Vice President of the United States,"Baldwin, Chuck",4
-Precinct 9,President and Vice President of the United States,"Barr, Bob",0
-Precinct 9,President and Vice President of the United States,"McCain, John",267
-Precinct 9,President and Vice President of the United States,"McKinney, Cynthia",1
-Precinct 9,President and Vice President of the United States,"NADER, RALPH",5
-Precinct 9,President and Vice President of the United States,None Of These Candidates,6
-Precinct 9,President and Vice President of the United States,"Obama, Barack",148
+Precinct 9,President,"Baldwin, Chuck",4
+Precinct 9,President,"Barr, Bob",0
+Precinct 9,President,"McCain, John",267
+Precinct 9,President,"McKinney, Cynthia",1
+Precinct 9,President,"NADER, RALPH",5
+Precinct 9,President,None Of These Candidates,6
+Precinct 9,President,"Obama, Barack",148
 Precinct 9,School Board Trustee Dist. 4 - AL,"FOBES, GORDON L.",183
 Precinct 9,School Board Trustee Dist. 4 - AL,"HARTWIG, DEAN A.",199
 Precinct 9,"State Assembly, District 33","CARPENTER, JOHN C.",298
@@ -1307,13 +1307,13 @@ Precinct 9,"U.S. Representative in Congress, District 2","DERBY, JILL",131
 Precinct 9,"U.S. Representative in Congress, District 2","Everhart, John",20
 Precinct 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",255
 Precinct 9,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",5
-Precinct 99,President and Vice President of the United States,"Baldwin, Chuck",
-Precinct 99,President and Vice President of the United States,"Barr, Bob",
-Precinct 99,President and Vice President of the United States,"McCain, John",
-Precinct 99,President and Vice President of the United States,"McKinney, Cynthia",
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",
-Precinct 99,President and Vice President of the United States,None Of These Candidates,
-Precinct 99,President and Vice President of the United States,"Obama, Barack",
+Precinct 99,President,"Baldwin, Chuck",
+Precinct 99,President,"Barr, Bob",
+Precinct 99,President,"McCain, John",
+Precinct 99,President,"McKinney, Cynthia",
+Precinct 99,President,"NADER, RALPH",
+Precinct 99,President,None Of These Candidates,
+Precinct 99,President,"Obama, Barack",
 Precinct 99,"U.S. Representative in Congress, District 2","Bergland, Craig",
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",
 Precinct 99,"U.S. Representative in Congress, District 2","Everhart, John",

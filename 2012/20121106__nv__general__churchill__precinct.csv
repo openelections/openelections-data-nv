@@ -16,11 +16,11 @@ Precinct 01,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",358
 Precinct 01,Mosquito Abatement Dist.,"CHIPP, SHELDON",361
 Precinct 01,Mosquito Abatement Dist.,"JONTE, MARION",263
 Precinct 01,Mosquito Abatement Dist.,"RUDDEN, RON J.",311
-Precinct 01,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 01,President and Vice President of the United States,"JOHNSON, GARY",11
-Precinct 01,President and Vice President of the United States,None Of These Candidates,7
-Precinct 01,President and Vice President of the United States,"Obama, Barack",195
-Precinct 01,President and Vice President of the United States,"Romney, Mitt",425
+Precinct 01,President,"GOODE, VIRGIL",5
+Precinct 01,President,"JOHNSON, GARY",11
+Precinct 01,President,None Of These Candidates,7
+Precinct 01,President,"Obama, Barack",195
+Precinct 01,President,"Romney, Mitt",425
 Precinct 01,"State Assembly, District 38","Grady, Tom",542
 Precinct 01,"State Board of Education, District 2","Clontz, Donna",199
 Precinct 01,"State Board of Education, District 2","Cook, Dave",345
@@ -34,10 +34,10 @@ Precinct 01,"U.S. Representative in Congress, District 2","Amodei, Mark E.",426
 Precinct 01,"U.S. Representative in Congress, District 2","Best, Russell",24
 Precinct 01,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",25
 Precinct 01,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",151
-Precinct 01,United States Senator,"Berkley, Shelley",128
-Precinct 01,United States Senator,"Heller, Dean",429
-Precinct 01,United States Senator,None Of These Candidates,33
-Precinct 01,United States Senator,"VANDERBEEK, DAVID LORY",46
+Precinct 01,U.S. Senate,"Berkley, Shelley",128
+Precinct 01,U.S. Senate,"Heller, Dean",429
+Precinct 01,U.S. Senate,None Of These Candidates,33
+Precinct 01,U.S. Senate,"VANDERBEEK, DAVID LORY",46
 Precinct 01,"University Board of Regents, District  9","Knecht, Ron",155
 Precinct 01,"University Board of Regents, District  9","Mackedon, Michon",417
 Precinct 02,Board of School Trustees - 2yr,"SCHANK, CARMEN",282
@@ -57,11 +57,11 @@ Precinct 02,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",255
 Precinct 02,Mosquito Abatement Dist.,"CHIPP, SHELDON",267
 Precinct 02,Mosquito Abatement Dist.,"JONTE, MARION",187
 Precinct 02,Mosquito Abatement Dist.,"RUDDEN, RON J.",214
-Precinct 02,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 02,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 02,President and Vice President of the United States,None Of These Candidates,4
-Precinct 02,President and Vice President of the United States,"Obama, Barack",172
-Precinct 02,President and Vice President of the United States,"Romney, Mitt",317
+Precinct 02,President,"GOODE, VIRGIL",4
+Precinct 02,President,"JOHNSON, GARY",4
+Precinct 02,President,None Of These Candidates,4
+Precinct 02,President,"Obama, Barack",172
+Precinct 02,President,"Romney, Mitt",317
 Precinct 02,"State Assembly, District 38","Grady, Tom",421
 Precinct 02,"State Board of Education, District 2","Clontz, Donna",169
 Precinct 02,"State Board of Education, District 2","Cook, Dave",235
@@ -75,10 +75,10 @@ Precinct 02,"U.S. Representative in Congress, District 2","Amodei, Mark E.",321
 Precinct 02,"U.S. Representative in Congress, District 2","Best, Russell",18
 Precinct 02,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",15
 Precinct 02,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",121
-Precinct 02,United States Senator,"Berkley, Shelley",128
-Precinct 02,United States Senator,"Heller, Dean",307
-Precinct 02,United States Senator,None Of These Candidates,22
-Precinct 02,United States Senator,"VANDERBEEK, DAVID LORY",31
+Precinct 02,U.S. Senate,"Berkley, Shelley",128
+Precinct 02,U.S. Senate,"Heller, Dean",307
+Precinct 02,U.S. Senate,None Of These Candidates,22
+Precinct 02,U.S. Senate,"VANDERBEEK, DAVID LORY",31
 Precinct 02,"University Board of Regents, District  9","Knecht, Ron",132
 Precinct 02,"University Board of Regents, District  9","Mackedon, Michon",295
 Precinct 03,Board of School Trustees - 2yr,"SCHANK, CARMEN",294
@@ -98,11 +98,11 @@ Precinct 03,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",255
 Precinct 03,Mosquito Abatement Dist.,"CHIPP, SHELDON",224
 Precinct 03,Mosquito Abatement Dist.,"JONTE, MARION",205
 Precinct 03,Mosquito Abatement Dist.,"RUDDEN, RON J.",237
-Precinct 03,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 03,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 03,President and Vice President of the United States,None Of These Candidates,2
-Precinct 03,President and Vice President of the United States,"Obama, Barack",165
-Precinct 03,President and Vice President of the United States,"Romney, Mitt",287
+Precinct 03,President,"GOODE, VIRGIL",5
+Precinct 03,President,"JOHNSON, GARY",0
+Precinct 03,President,None Of These Candidates,2
+Precinct 03,President,"Obama, Barack",165
+Precinct 03,President,"Romney, Mitt",287
 Precinct 03,"State Assembly, District 38","Grady, Tom",382
 Precinct 03,"State Board of Education, District 2","Clontz, Donna",138
 Precinct 03,"State Board of Education, District 2","Cook, Dave",248
@@ -116,10 +116,10 @@ Precinct 03,"U.S. Representative in Congress, District 2","Amodei, Mark E.",289
 Precinct 03,"U.S. Representative in Congress, District 2","Best, Russell",19
 Precinct 03,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",27
 Precinct 03,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",109
-Precinct 03,United States Senator,"Berkley, Shelley",105
-Precinct 03,United States Senator,"Heller, Dean",296
-Precinct 03,United States Senator,None Of These Candidates,32
-Precinct 03,United States Senator,"VANDERBEEK, DAVID LORY",24
+Precinct 03,U.S. Senate,"Berkley, Shelley",105
+Precinct 03,U.S. Senate,"Heller, Dean",296
+Precinct 03,U.S. Senate,None Of These Candidates,32
+Precinct 03,U.S. Senate,"VANDERBEEK, DAVID LORY",24
 Precinct 03,"University Board of Regents, District  9","Knecht, Ron",98
 Precinct 03,"University Board of Regents, District  9","Mackedon, Michon",310
 Precinct 04,Board of School Trustees - 2yr,"SCHANK, CARMEN",267
@@ -139,11 +139,11 @@ Precinct 04,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",231
 Precinct 04,Mosquito Abatement Dist.,"CHIPP, SHELDON",253
 Precinct 04,Mosquito Abatement Dist.,"JONTE, MARION",188
 Precinct 04,Mosquito Abatement Dist.,"RUDDEN, RON J.",189
-Precinct 04,President and Vice President of the United States,"GOODE, VIRGIL",8
-Precinct 04,President and Vice President of the United States,"JOHNSON, GARY",5
-Precinct 04,President and Vice President of the United States,None Of These Candidates,2
-Precinct 04,President and Vice President of the United States,"Obama, Barack",177
-Precinct 04,President and Vice President of the United States,"Romney, Mitt",268
+Precinct 04,President,"GOODE, VIRGIL",8
+Precinct 04,President,"JOHNSON, GARY",5
+Precinct 04,President,None Of These Candidates,2
+Precinct 04,President,"Obama, Barack",177
+Precinct 04,President,"Romney, Mitt",268
 Precinct 04,"State Assembly, District 38","Grady, Tom",367
 Precinct 04,"State Board of Education, District 2","Clontz, Donna",149
 Precinct 04,"State Board of Education, District 2","Cook, Dave",229
@@ -157,10 +157,10 @@ Precinct 04,"U.S. Representative in Congress, District 2","Amodei, Mark E.",267
 Precinct 04,"U.S. Representative in Congress, District 2","Best, Russell",26
 Precinct 04,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",18
 Precinct 04,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",127
-Precinct 04,United States Senator,"Berkley, Shelley",116
-Precinct 04,United States Senator,"Heller, Dean",258
-Precinct 04,United States Senator,None Of These Candidates,22
-Precinct 04,United States Senator,"VANDERBEEK, DAVID LORY",51
+Precinct 04,U.S. Senate,"Berkley, Shelley",116
+Precinct 04,U.S. Senate,"Heller, Dean",258
+Precinct 04,U.S. Senate,None Of These Candidates,22
+Precinct 04,U.S. Senate,"VANDERBEEK, DAVID LORY",51
 Precinct 04,"University Board of Regents, District  9","Knecht, Ron",140
 Precinct 04,"University Board of Regents, District  9","Mackedon, Michon",256
 Precinct 05,Board of School Trustees - 2yr,"SCHANK, CARMEN",291
@@ -180,11 +180,11 @@ Precinct 05,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",221
 Precinct 05,Mosquito Abatement Dist.,"CHIPP, SHELDON",227
 Precinct 05,Mosquito Abatement Dist.,"JONTE, MARION",179
 Precinct 05,Mosquito Abatement Dist.,"RUDDEN, RON J.",223
-Precinct 05,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 05,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 05,President and Vice President of the United States,None Of These Candidates,4
-Precinct 05,President and Vice President of the United States,"Obama, Barack",197
-Precinct 05,President and Vice President of the United States,"Romney, Mitt",231
+Precinct 05,President,"GOODE, VIRGIL",5
+Precinct 05,President,"JOHNSON, GARY",4
+Precinct 05,President,None Of These Candidates,4
+Precinct 05,President,"Obama, Barack",197
+Precinct 05,President,"Romney, Mitt",231
 Precinct 05,"State Assembly, District 38","Grady, Tom",378
 Precinct 05,"State Board of Education, District 2","Clontz, Donna",165
 Precinct 05,"State Board of Education, District 2","Cook, Dave",227
@@ -198,10 +198,10 @@ Precinct 05,"U.S. Representative in Congress, District 2","Amodei, Mark E.",261
 Precinct 05,"U.S. Representative in Congress, District 2","Best, Russell",13
 Precinct 05,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",21
 Precinct 05,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",139
-Precinct 05,United States Senator,"Berkley, Shelley",124
-Precinct 05,United States Senator,"Heller, Dean",245
-Precinct 05,United States Senator,None Of These Candidates,28
-Precinct 05,United States Senator,"VANDERBEEK, DAVID LORY",41
+Precinct 05,U.S. Senate,"Berkley, Shelley",124
+Precinct 05,U.S. Senate,"Heller, Dean",245
+Precinct 05,U.S. Senate,None Of These Candidates,28
+Precinct 05,U.S. Senate,"VANDERBEEK, DAVID LORY",41
 Precinct 05,"University Board of Regents, District  9","Knecht, Ron",117
 Precinct 05,"University Board of Regents, District  9","Mackedon, Michon",282
 Precinct 06,Board of School Trustees - 2yr,"SCHANK, CARMEN",266
@@ -221,11 +221,11 @@ Precinct 06,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",256
 Precinct 06,Mosquito Abatement Dist.,"CHIPP, SHELDON",232
 Precinct 06,Mosquito Abatement Dist.,"JONTE, MARION",177
 Precinct 06,Mosquito Abatement Dist.,"RUDDEN, RON J.",232
-Precinct 06,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 06,President and Vice President of the United States,"JOHNSON, GARY",5
-Precinct 06,President and Vice President of the United States,None Of These Candidates,1
-Precinct 06,President and Vice President of the United States,"Obama, Barack",153
-Precinct 06,President and Vice President of the United States,"Romney, Mitt",265
+Precinct 06,President,"GOODE, VIRGIL",2
+Precinct 06,President,"JOHNSON, GARY",5
+Precinct 06,President,None Of These Candidates,1
+Precinct 06,President,"Obama, Barack",153
+Precinct 06,President,"Romney, Mitt",265
 Precinct 06,"State Assembly, District 38","Grady, Tom",360
 Precinct 06,"State Board of Education, District 2","Clontz, Donna",154
 Precinct 06,"State Board of Education, District 2","Cook, Dave",206
@@ -239,10 +239,10 @@ Precinct 06,"U.S. Representative in Congress, District 2","Amodei, Mark E.",275
 Precinct 06,"U.S. Representative in Congress, District 2","Best, Russell",9
 Precinct 06,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",19
 Precinct 06,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",106
-Precinct 06,United States Senator,"Berkley, Shelley",107
-Precinct 06,United States Senator,"Heller, Dean",266
-Precinct 06,United States Senator,None Of These Candidates,21
-Precinct 06,United States Senator,"VANDERBEEK, DAVID LORY",29
+Precinct 06,U.S. Senate,"Berkley, Shelley",107
+Precinct 06,U.S. Senate,"Heller, Dean",266
+Precinct 06,U.S. Senate,None Of These Candidates,21
+Precinct 06,U.S. Senate,"VANDERBEEK, DAVID LORY",29
 Precinct 06,"University Board of Regents, District  9","Knecht, Ron",99
 Precinct 06,"University Board of Regents, District  9","Mackedon, Michon",290
 Precinct 07,Board of School Trustees - 2yr,"SCHANK, CARMEN",403
@@ -262,11 +262,11 @@ Precinct 07,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",341
 Precinct 07,Mosquito Abatement Dist.,"CHIPP, SHELDON",364
 Precinct 07,Mosquito Abatement Dist.,"JONTE, MARION",262
 Precinct 07,Mosquito Abatement Dist.,"RUDDEN, RON J.",336
-Precinct 07,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 07,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 07,President and Vice President of the United States,None Of These Candidates,5
-Precinct 07,President and Vice President of the United States,"Obama, Barack",168
-Precinct 07,President and Vice President of the United States,"Romney, Mitt",462
+Precinct 07,President,"GOODE, VIRGIL",2
+Precinct 07,President,"JOHNSON, GARY",4
+Precinct 07,President,None Of These Candidates,5
+Precinct 07,President,"Obama, Barack",168
+Precinct 07,President,"Romney, Mitt",462
 Precinct 07,"State Assembly, District 38","Grady, Tom",557
 Precinct 07,"State Board of Education, District 2","Clontz, Donna",213
 Precinct 07,"State Board of Education, District 2","Cook, Dave",331
@@ -280,10 +280,10 @@ Precinct 07,"U.S. Representative in Congress, District 2","Amodei, Mark E.",460
 Precinct 07,"U.S. Representative in Congress, District 2","Best, Russell",17
 Precinct 07,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",13
 Precinct 07,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",140
-Precinct 07,United States Senator,"Berkley, Shelley",134
-Precinct 07,United States Senator,"Heller, Dean",447
-Precinct 07,United States Senator,None Of These Candidates,23
-Precinct 07,United States Senator,"VANDERBEEK, DAVID LORY",32
+Precinct 07,U.S. Senate,"Berkley, Shelley",134
+Precinct 07,U.S. Senate,"Heller, Dean",447
+Precinct 07,U.S. Senate,None Of These Candidates,23
+Precinct 07,U.S. Senate,"VANDERBEEK, DAVID LORY",32
 Precinct 07,"University Board of Regents, District  9","Knecht, Ron",139
 Precinct 07,"University Board of Regents, District  9","Mackedon, Michon",449
 Precinct 08,Board of School Trustees - 2yr,"SCHANK, CARMEN",192
@@ -303,11 +303,11 @@ Precinct 08,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",201
 Precinct 08,Mosquito Abatement Dist.,"CHIPP, SHELDON",181
 Precinct 08,Mosquito Abatement Dist.,"JONTE, MARION",144
 Precinct 08,Mosquito Abatement Dist.,"RUDDEN, RON J.",182
-Precinct 08,President and Vice President of the United States,"GOODE, VIRGIL",6
-Precinct 08,President and Vice President of the United States,"JOHNSON, GARY",3
-Precinct 08,President and Vice President of the United States,None Of These Candidates,3
-Precinct 08,President and Vice President of the United States,"Obama, Barack",100
-Precinct 08,President and Vice President of the United States,"Romney, Mitt",224
+Precinct 08,President,"GOODE, VIRGIL",6
+Precinct 08,President,"JOHNSON, GARY",3
+Precinct 08,President,None Of These Candidates,3
+Precinct 08,President,"Obama, Barack",100
+Precinct 08,President,"Romney, Mitt",224
 Precinct 08,"State Assembly, District 38","Grady, Tom",303
 Precinct 08,"State Board of Education, District 2","Clontz, Donna",113
 Precinct 08,"State Board of Education, District 2","Cook, Dave",192
@@ -321,10 +321,10 @@ Precinct 08,"U.S. Representative in Congress, District 2","Amodei, Mark E.",229
 Precinct 08,"U.S. Representative in Congress, District 2","Best, Russell",12
 Precinct 08,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",14
 Precinct 08,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",75
-Precinct 08,United States Senator,"Berkley, Shelley",67
-Precinct 08,United States Senator,"Heller, Dean",238
-Precinct 08,United States Senator,None Of These Candidates,10
-Precinct 08,United States Senator,"VANDERBEEK, DAVID LORY",20
+Precinct 08,U.S. Senate,"Berkley, Shelley",67
+Precinct 08,U.S. Senate,"Heller, Dean",238
+Precinct 08,U.S. Senate,None Of These Candidates,10
+Precinct 08,U.S. Senate,"VANDERBEEK, DAVID LORY",20
 Precinct 08,"University Board of Regents, District  9","Knecht, Ron",100
 Precinct 08,"University Board of Regents, District  9","Mackedon, Michon",212
 Precinct 09,Board of School Trustees - 2yr,"SCHANK, CARMEN",264
@@ -344,11 +344,11 @@ Precinct 09,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",237
 Precinct 09,Mosquito Abatement Dist.,"CHIPP, SHELDON",231
 Precinct 09,Mosquito Abatement Dist.,"JONTE, MARION",205
 Precinct 09,Mosquito Abatement Dist.,"RUDDEN, RON J.",212
-Precinct 09,President and Vice President of the United States,"GOODE, VIRGIL",1
-Precinct 09,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 09,President and Vice President of the United States,None Of These Candidates,9
-Precinct 09,President and Vice President of the United States,"Obama, Barack",122
-Precinct 09,President and Vice President of the United States,"Romney, Mitt",308
+Precinct 09,President,"GOODE, VIRGIL",1
+Precinct 09,President,"JOHNSON, GARY",1
+Precinct 09,President,None Of These Candidates,9
+Precinct 09,President,"Obama, Barack",122
+Precinct 09,President,"Romney, Mitt",308
 Precinct 09,"State Assembly, District 38","Grady, Tom",386
 Precinct 09,"State Board of Education, District 2","Clontz, Donna",157
 Precinct 09,"State Board of Education, District 2","Cook, Dave",211
@@ -362,10 +362,10 @@ Precinct 09,"U.S. Representative in Congress, District 2","Amodei, Mark E.",320
 Precinct 09,"U.S. Representative in Congress, District 2","Best, Russell",9
 Precinct 09,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",14
 Precinct 09,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",81
-Precinct 09,United States Senator,"Berkley, Shelley",75
-Precinct 09,United States Senator,"Heller, Dean",319
-Precinct 09,United States Senator,None Of These Candidates,18
-Precinct 09,United States Senator,"VANDERBEEK, DAVID LORY",26
+Precinct 09,U.S. Senate,"Berkley, Shelley",75
+Precinct 09,U.S. Senate,"Heller, Dean",319
+Precinct 09,U.S. Senate,None Of These Candidates,18
+Precinct 09,U.S. Senate,"VANDERBEEK, DAVID LORY",26
 Precinct 09,"University Board of Regents, District  9","Knecht, Ron",84
 Precinct 09,"University Board of Regents, District  9","Mackedon, Michon",325
 Precinct 10,Board of School Trustees - 2yr,"SCHANK, CARMEN",450
@@ -385,11 +385,11 @@ Precinct 10,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",427
 Precinct 10,Mosquito Abatement Dist.,"CHIPP, SHELDON",408
 Precinct 10,Mosquito Abatement Dist.,"JONTE, MARION",306
 Precinct 10,Mosquito Abatement Dist.,"RUDDEN, RON J.",345
-Precinct 10,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 10,President and Vice President of the United States,"JOHNSON, GARY",9
-Precinct 10,President and Vice President of the United States,None Of These Candidates,5
-Precinct 10,President and Vice President of the United States,"Obama, Barack",186
-Precinct 10,President and Vice President of the United States,"Romney, Mitt",516
+Precinct 10,President,"GOODE, VIRGIL",2
+Precinct 10,President,"JOHNSON, GARY",9
+Precinct 10,President,None Of These Candidates,5
+Precinct 10,President,"Obama, Barack",186
+Precinct 10,President,"Romney, Mitt",516
 Precinct 10,"State Assembly, District 38","Grady, Tom",638
 Precinct 10,"State Board of Education, District 2","Clontz, Donna",243
 Precinct 10,"State Board of Education, District 2","Cook, Dave",349
@@ -403,10 +403,10 @@ Precinct 10,"U.S. Representative in Congress, District 2","Amodei, Mark E.",522
 Precinct 10,"U.S. Representative in Congress, District 2","Best, Russell",24
 Precinct 10,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",27
 Precinct 10,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",127
-Precinct 10,United States Senator,"Berkley, Shelley",126
-Precinct 10,United States Senator,"Heller, Dean",518
-Precinct 10,United States Senator,None Of These Candidates,20
-Precinct 10,United States Senator,"VANDERBEEK, DAVID LORY",51
+Precinct 10,U.S. Senate,"Berkley, Shelley",126
+Precinct 10,U.S. Senate,"Heller, Dean",518
+Precinct 10,U.S. Senate,None Of These Candidates,20
+Precinct 10,U.S. Senate,"VANDERBEEK, DAVID LORY",51
 Precinct 10,"University Board of Regents, District  9","Knecht, Ron",134
 Precinct 10,"University Board of Regents, District  9","Mackedon, Michon",506
 Precinct 11,Board of School Trustees - 2yr,"SCHANK, CARMEN",487
@@ -426,11 +426,11 @@ Precinct 11,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",399
 Precinct 11,Mosquito Abatement Dist.,"CHIPP, SHELDON",415
 Precinct 11,Mosquito Abatement Dist.,"JONTE, MARION",285
 Precinct 11,Mosquito Abatement Dist.,"RUDDEN, RON J.",372
-Precinct 11,President and Vice President of the United States,"GOODE, VIRGIL",9
-Precinct 11,President and Vice President of the United States,"JOHNSON, GARY",4
-Precinct 11,President and Vice President of the United States,None Of These Candidates,5
-Precinct 11,President and Vice President of the United States,"Obama, Barack",186
-Precinct 11,President and Vice President of the United States,"Romney, Mitt",545
+Precinct 11,President,"GOODE, VIRGIL",9
+Precinct 11,President,"JOHNSON, GARY",4
+Precinct 11,President,None Of These Candidates,5
+Precinct 11,President,"Obama, Barack",186
+Precinct 11,President,"Romney, Mitt",545
 Precinct 11,"State Assembly, District 38","Grady, Tom",635
 Precinct 11,"State Board of Education, District 2","Clontz, Donna",258
 Precinct 11,"State Board of Education, District 2","Cook, Dave",365
@@ -444,10 +444,10 @@ Precinct 11,"U.S. Representative in Congress, District 2","Amodei, Mark E.",555
 Precinct 11,"U.S. Representative in Congress, District 2","Best, Russell",24
 Precinct 11,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",24
 Precinct 11,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",125
-Precinct 11,United States Senator,"Berkley, Shelley",117
-Precinct 11,United States Senator,"Heller, Dean",556
-Precinct 11,United States Senator,None Of These Candidates,30
-Precinct 11,United States Senator,"VANDERBEEK, DAVID LORY",37
+Precinct 11,U.S. Senate,"Berkley, Shelley",117
+Precinct 11,U.S. Senate,"Heller, Dean",556
+Precinct 11,U.S. Senate,None Of These Candidates,30
+Precinct 11,U.S. Senate,"VANDERBEEK, DAVID LORY",37
 Precinct 11,"University Board of Regents, District  9","Knecht, Ron",186
 Precinct 13,County Comm Dist. 1 (CW),"JOHNSON, JAMES",182
 Precinct 13,County Comm Dist. 1 (CW),"SCHARMANN, HARRY (BUS)",189
@@ -458,11 +458,11 @@ Precinct 13,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",216
 Precinct 13,Mosquito Abatement Dist.,"CHIPP, SHELDON",216
 Precinct 13,Mosquito Abatement Dist.,"JONTE, MARION",171
 Precinct 13,Mosquito Abatement Dist.,"RUDDEN, RON J.",211
-Precinct 13,President and Vice President of the United States,"GOODE, VIRGIL",4
-Precinct 13,President and Vice President of the United States,"JOHNSON, GARY",1
-Precinct 13,President and Vice President of the United States,None Of These Candidates,4
-Precinct 13,President and Vice President of the United States,"Obama, Barack",82
-Precinct 13,President and Vice President of the United States,"Romney, Mitt",309
+Precinct 13,President,"GOODE, VIRGIL",4
+Precinct 13,President,"JOHNSON, GARY",1
+Precinct 13,President,None Of These Candidates,4
+Precinct 13,President,"Obama, Barack",82
+Precinct 13,President,"Romney, Mitt",309
 Precinct 13,"State Assembly, District 38","Grady, Tom",348
 Precinct 13,"State Board of Education, District 2","Clontz, Donna",120
 Precinct 13,"State Board of Education, District 2","Cook, Dave",217
@@ -476,10 +476,10 @@ Precinct 13,"U.S. Representative in Congress, District 2","Amodei, Mark E.",314
 Precinct 13,"U.S. Representative in Congress, District 2","Best, Russell",11
 Precinct 13,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",9
 Precinct 13,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",56
-Precinct 13,United States Senator,"Berkley, Shelley",58
-Precinct 13,United States Senator,"Heller, Dean",303
-Precinct 13,United States Senator,None Of These Candidates,14
-Precinct 13,United States Senator,"VANDERBEEK, DAVID LORY",22
+Precinct 13,U.S. Senate,"Berkley, Shelley",58
+Precinct 13,U.S. Senate,"Heller, Dean",303
+Precinct 13,U.S. Senate,None Of These Candidates,14
+Precinct 13,U.S. Senate,"VANDERBEEK, DAVID LORY",22
 Precinct 13,"University Board of Regents, District  9","Knecht, Ron",90
 Precinct 13,"University Board of Regents, District  9","Mackedon, Michon",285
 Precinct 14,Board of School Trustees - 2yr,"SCHANK, CARMEN",300
@@ -499,11 +499,11 @@ Precinct 14,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",272
 Precinct 14,Mosquito Abatement Dist.,"CHIPP, SHELDON",252
 Precinct 14,Mosquito Abatement Dist.,"JONTE, MARION",218
 Precinct 14,Mosquito Abatement Dist.,"RUDDEN, RON J.",251
-Precinct 14,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 14,President and Vice President of the United States,"JOHNSON, GARY",5
-Precinct 14,President and Vice President of the United States,None Of These Candidates,2
-Precinct 14,President and Vice President of the United States,"Obama, Barack",112
-Precinct 14,President and Vice President of the United States,"Romney, Mitt",382
+Precinct 14,President,"GOODE, VIRGIL",2
+Precinct 14,President,"JOHNSON, GARY",5
+Precinct 14,President,None Of These Candidates,2
+Precinct 14,President,"Obama, Barack",112
+Precinct 14,President,"Romney, Mitt",382
 Precinct 14,"State Assembly, District 38","Grady, Tom",432
 Precinct 14,"State Board of Education, District 2","Clontz, Donna",153
 Precinct 14,"State Board of Education, District 2","Cook, Dave",264
@@ -517,10 +517,10 @@ Precinct 14,"U.S. Representative in Congress, District 2","Amodei, Mark E.",381
 Precinct 14,"U.S. Representative in Congress, District 2","Best, Russell",10
 Precinct 14,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",18
 Precinct 14,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",85
-Precinct 14,United States Senator,"Berkley, Shelley",81
-Precinct 14,United States Senator,"Heller, Dean",376
-Precinct 14,United States Senator,None Of These Candidates,12
-Precinct 14,United States Senator,"VANDERBEEK, DAVID LORY",33
+Precinct 14,U.S. Senate,"Berkley, Shelley",81
+Precinct 14,U.S. Senate,"Heller, Dean",376
+Precinct 14,U.S. Senate,None Of These Candidates,12
+Precinct 14,U.S. Senate,"VANDERBEEK, DAVID LORY",33
 Precinct 14,"University Board of Regents, District  9","Knecht, Ron",115
 Precinct 14,"University Board of Regents, District  9","Mackedon, Michon",334
 Precinct 15,Board of School Trustees - 2yr,"SCHANK, CARMEN",344
@@ -540,11 +540,11 @@ Precinct 15,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",330
 Precinct 15,Mosquito Abatement Dist.,"CHIPP, SHELDON",303
 Precinct 15,Mosquito Abatement Dist.,"JONTE, MARION",200
 Precinct 15,Mosquito Abatement Dist.,"RUDDEN, RON J.",270
-Precinct 15,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 15,President and Vice President of the United States,"JOHNSON, GARY",2
-Precinct 15,President and Vice President of the United States,None Of These Candidates,4
-Precinct 15,President and Vice President of the United States,"Obama, Barack",111
-Precinct 15,President and Vice President of the United States,"Romney, Mitt",441
+Precinct 15,President,"GOODE, VIRGIL",2
+Precinct 15,President,"JOHNSON, GARY",2
+Precinct 15,President,None Of These Candidates,4
+Precinct 15,President,"Obama, Barack",111
+Precinct 15,President,"Romney, Mitt",441
 Precinct 15,"State Assembly, District 38","Grady, Tom",473
 Precinct 15,"State Board of Education, District 2","Clontz, Donna",161
 Precinct 15,"State Board of Education, District 2","Cook, Dave",274
@@ -558,10 +558,10 @@ Precinct 15,"U.S. Representative in Congress, District 2","Amodei, Mark E.",428
 Precinct 15,"U.S. Representative in Congress, District 2","Best, Russell",21
 Precinct 15,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",15
 Precinct 15,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",82
-Precinct 15,United States Senator,"Berkley, Shelley",80
-Precinct 15,United States Senator,"Heller, Dean",427
-Precinct 15,United States Senator,None Of These Candidates,18
-Precinct 15,United States Senator,"VANDERBEEK, DAVID LORY",28
+Precinct 15,U.S. Senate,"Berkley, Shelley",80
+Precinct 15,U.S. Senate,"Heller, Dean",427
+Precinct 15,U.S. Senate,None Of These Candidates,18
+Precinct 15,U.S. Senate,"VANDERBEEK, DAVID LORY",28
 Precinct 15,"University Board of Regents, District  9","Knecht, Ron",117
 Precinct 15,"University Board of Regents, District  9","Mackedon, Michon",387
 Precinct 16,Board of School Trustees - 2yr,"SCHANK, CARMEN",259
@@ -581,11 +581,11 @@ Precinct 16,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",206
 Precinct 16,Mosquito Abatement Dist.,"CHIPP, SHELDON",190
 Precinct 16,Mosquito Abatement Dist.,"JONTE, MARION",179
 Precinct 16,Mosquito Abatement Dist.,"RUDDEN, RON J.",209
-Precinct 16,President and Vice President of the United States,"GOODE, VIRGIL",2
-Precinct 16,President and Vice President of the United States,"JOHNSON, GARY",2
-Precinct 16,President and Vice President of the United States,None Of These Candidates,3
-Precinct 16,President and Vice President of the United States,"Obama, Barack",158
-Precinct 16,President and Vice President of the United States,"Romney, Mitt",237
+Precinct 16,President,"GOODE, VIRGIL",2
+Precinct 16,President,"JOHNSON, GARY",2
+Precinct 16,President,None Of These Candidates,3
+Precinct 16,President,"Obama, Barack",158
+Precinct 16,President,"Romney, Mitt",237
 Precinct 16,"State Assembly, District 38","Grady, Tom",333
 Precinct 16,"State Board of Education, District 2","Clontz, Donna",142
 Precinct 16,"State Board of Education, District 2","Cook, Dave",189
@@ -599,10 +599,10 @@ Precinct 16,"U.S. Representative in Congress, District 2","Amodei, Mark E.",239
 Precinct 16,"U.S. Representative in Congress, District 2","Best, Russell",16
 Precinct 16,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",20
 Precinct 16,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",112
-Precinct 16,United States Senator,"Berkley, Shelley",99
-Precinct 16,United States Senator,"Heller, Dean",247
-Precinct 16,United States Senator,None Of These Candidates,22
-Precinct 16,United States Senator,"VANDERBEEK, DAVID LORY",29
+Precinct 16,U.S. Senate,"Berkley, Shelley",99
+Precinct 16,U.S. Senate,"Heller, Dean",247
+Precinct 16,U.S. Senate,None Of These Candidates,22
+Precinct 16,U.S. Senate,"VANDERBEEK, DAVID LORY",29
 Precinct 16,"University Board of Regents, District  9","Knecht, Ron",65
 Precinct 16,"University Board of Regents, District  9","Mackedon, Michon",297
 Precinct 17,Board of School Trustees - 2yr,"SCHANK, CARMEN",511
@@ -622,11 +622,11 @@ Precinct 17,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",458
 Precinct 17,Mosquito Abatement Dist.,"CHIPP, SHELDON",492
 Precinct 17,Mosquito Abatement Dist.,"JONTE, MARION",344
 Precinct 17,Mosquito Abatement Dist.,"RUDDEN, RON J.",394
-Precinct 17,President and Vice President of the United States,"GOODE, VIRGIL",6
-Precinct 17,President and Vice President of the United States,"JOHNSON, GARY",8
-Precinct 17,President and Vice President of the United States,None Of These Candidates,11
-Precinct 17,President and Vice President of the United States,"Obama, Barack",232
-Precinct 17,President and Vice President of the United States,"Romney, Mitt",592
+Precinct 17,President,"GOODE, VIRGIL",6
+Precinct 17,President,"JOHNSON, GARY",8
+Precinct 17,President,None Of These Candidates,11
+Precinct 17,President,"Obama, Barack",232
+Precinct 17,President,"Romney, Mitt",592
 Precinct 17,"State Assembly, District 38","Grady, Tom",751
 Precinct 17,"State Board of Education, District 2","Clontz, Donna",269
 Precinct 17,"State Board of Education, District 2","Cook, Dave",459
@@ -640,10 +640,10 @@ Precinct 17,"U.S. Representative in Congress, District 2","Amodei, Mark E.",597
 Precinct 17,"U.S. Representative in Congress, District 2","Best, Russell",30
 Precinct 17,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",36
 Precinct 17,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",159
-Precinct 17,United States Senator,"Berkley, Shelley",145
-Precinct 17,United States Senator,"Heller, Dean",587
-Precinct 17,United States Senator,None Of These Candidates,39
-Precinct 17,United States Senator,"VANDERBEEK, DAVID LORY",73
+Precinct 17,U.S. Senate,"Berkley, Shelley",145
+Precinct 17,U.S. Senate,"Heller, Dean",587
+Precinct 17,U.S. Senate,None Of These Candidates,39
+Precinct 17,U.S. Senate,"VANDERBEEK, DAVID LORY",73
 Precinct 17,"University Board of Regents, District  9","Knecht, Ron",251
 Precinct 17,"University Board of Regents, District  9","Mackedon, Michon",511
 Precinct 18,Board of School Trustees - 2yr,"SCHANK, CARMEN",555
@@ -663,11 +663,11 @@ Precinct 18,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",549
 Precinct 18,Mosquito Abatement Dist.,"CHIPP, SHELDON",487
 Precinct 18,Mosquito Abatement Dist.,"JONTE, MARION",370
 Precinct 18,Mosquito Abatement Dist.,"RUDDEN, RON J.",433
-Precinct 18,President and Vice President of the United States,"GOODE, VIRGIL",5
-Precinct 18,President and Vice President of the United States,"JOHNSON, GARY",11
-Precinct 18,President and Vice President of the United States,None Of These Candidates,8
-Precinct 18,President and Vice President of the United States,"Obama, Barack",256
-Precinct 18,President and Vice President of the United States,"Romney, Mitt",656
+Precinct 18,President,"GOODE, VIRGIL",5
+Precinct 18,President,"JOHNSON, GARY",11
+Precinct 18,President,None Of These Candidates,8
+Precinct 18,President,"Obama, Barack",256
+Precinct 18,President,"Romney, Mitt",656
 Precinct 18,"State Assembly, District 38","Grady, Tom",793
 Precinct 18,"State Board of Education, District 2","Clontz, Donna",322
 Precinct 18,"State Board of Education, District 2","Cook, Dave",451
@@ -681,10 +681,10 @@ Precinct 18,"U.S. Representative in Congress, District 2","Amodei, Mark E.",655
 Precinct 18,"U.S. Representative in Congress, District 2","Best, Russell",30
 Precinct 18,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",33
 Precinct 18,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",189
-Precinct 18,United States Senator,"Berkley, Shelley",184
-Precinct 18,United States Senator,"Heller, Dean",658
-Precinct 18,United States Senator,None Of These Candidates,30
-Precinct 18,United States Senator,"VANDERBEEK, DAVID LORY",55
+Precinct 18,U.S. Senate,"Berkley, Shelley",184
+Precinct 18,U.S. Senate,"Heller, Dean",658
+Precinct 18,U.S. Senate,None Of These Candidates,30
+Precinct 18,U.S. Senate,"VANDERBEEK, DAVID LORY",55
 Precinct 18,"University Board of Regents, District  9","Knecht, Ron",233
 Precinct 18,"University Board of Regents, District  9","Mackedon, Michon",612
 Precinct 19,Board of School Trustees - 2yr,"SCHANK, CARMEN",305
@@ -704,11 +704,11 @@ Precinct 19,Justice of the Peace CHURCHILL,"RICHARDS, MIKE",263
 Precinct 19,Mosquito Abatement Dist.,"CHIPP, SHELDON",284
 Precinct 19,Mosquito Abatement Dist.,"JONTE, MARION",186
 Precinct 19,Mosquito Abatement Dist.,"RUDDEN, RON J.",240
-Precinct 19,President and Vice President of the United States,"GOODE, VIRGIL",3
-Precinct 19,President and Vice President of the United States,"JOHNSON, GARY",3
-Precinct 19,President and Vice President of the United States,None Of These Candidates,1
-Precinct 19,President and Vice President of the United States,"Obama, Barack",123
-Precinct 19,President and Vice President of the United States,"Romney, Mitt",367
+Precinct 19,President,"GOODE, VIRGIL",3
+Precinct 19,President,"JOHNSON, GARY",3
+Precinct 19,President,None Of These Candidates,1
+Precinct 19,President,"Obama, Barack",123
+Precinct 19,President,"Romney, Mitt",367
 Precinct 19,"State Assembly, District 38","Grady, Tom",430
 Precinct 19,"State Board of Education, District 2","Clontz, Donna",144
 Precinct 19,"State Board of Education, District 2","Cook, Dave",270
@@ -722,27 +722,27 @@ Precinct 19,"U.S. Representative in Congress, District 2","Amodei, Mark E.",366
 Precinct 19,"U.S. Representative in Congress, District 2","Best, Russell",14
 Precinct 19,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",9
 Precinct 19,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",95
-Precinct 19,United States Senator,"Berkley, Shelley",94
-Precinct 19,United States Senator,"Heller, Dean",359
-Precinct 19,United States Senator,None Of These Candidates,14
-Precinct 19,United States Senator,"VANDERBEEK, DAVID LORY",27
+Precinct 19,U.S. Senate,"Berkley, Shelley",94
+Precinct 19,U.S. Senate,"Heller, Dean",359
+Precinct 19,U.S. Senate,None Of These Candidates,14
+Precinct 19,U.S. Senate,"VANDERBEEK, DAVID LORY",27
 Precinct 19,"University Board of Regents, District  9","Knecht, Ron",121
 Precinct 19,"University Board of Regents, District  9","Mackedon, Michon",318
-Precinct 88,President and Vice President of the United States,"GOODE, VIRGIL",
-Precinct 88,President and Vice President of the United States,"JOHNSON, GARY",
-Precinct 88,President and Vice President of the United States,None Of These Candidates,
-Precinct 88,President and Vice President of the United States,"Obama, Barack",
-Precinct 88,President and Vice President of the United States,"Romney, Mitt",
-Precinct 99,President and Vice President of the United States,"GOODE, VIRGIL",0
-Precinct 99,President and Vice President of the United States,"JOHNSON, GARY",0
-Precinct 99,President and Vice President of the United States,None Of These Candidates,0
-Precinct 99,President and Vice President of the United States,"Obama, Barack",0
-Precinct 99,President and Vice President of the United States,"Romney, Mitt",0
+Precinct 88,President,"GOODE, VIRGIL",
+Precinct 88,President,"JOHNSON, GARY",
+Precinct 88,President,None Of These Candidates,
+Precinct 88,President,"Obama, Barack",
+Precinct 88,President,"Romney, Mitt",
+Precinct 99,President,"GOODE, VIRGIL",0
+Precinct 99,President,"JOHNSON, GARY",0
+Precinct 99,President,None Of These Candidates,0
+Precinct 99,President,"Obama, Barack",0
+Precinct 99,President,"Romney, Mitt",0
 Precinct 99,"U.S. Representative in Congress, District 2","Amodei, Mark E.",0
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HAINES, MICHAEL L.",0
 Precinct 99,"U.S. Representative in Congress, District 2","KOEPNICK, SAMUEL",0
-Precinct 99,United States Senator,"Berkley, Shelley",0
-Precinct 99,United States Senator,"Heller, Dean",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"VANDERBEEK, DAVID LORY",0
+Precinct 99,U.S. Senate,"Berkley, Shelley",0
+Precinct 99,U.S. Senate,"Heller, Dean",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"VANDERBEEK, DAVID LORY",0

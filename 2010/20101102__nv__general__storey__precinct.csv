@@ -50,15 +50,15 @@ PRECINCT 1,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",198
 PRECINCT 1,"U.S. Representative in Congress, District 2","Best, Russell",14
 PRECINCT 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",177
 PRECINCT 1,"U.S. Representative in Congress, District 2","Price, Nancy",84
-PRECINCT 1,United States Senator,"Angle, Sharron",136
-PRECINCT 1,United States Senator,"Ashjian, Scott",5
-PRECINCT 1,United States Senator,"Fasano, Tim",3
-PRECINCT 1,United States Senator,"Haines, Michael L.",3
-PRECINCT 1,United States Senator,"Holland, Jesse",1
-PRECINCT 1,United States Senator,None Of These Candidates,10
-PRECINCT 1,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 1,United States Senator,"REID, HARRY",123
-PRECINCT 1,United States Senator,"Stand, Wil",1
+PRECINCT 1,U.S. Senate,"Angle, Sharron",136
+PRECINCT 1,U.S. Senate,"Ashjian, Scott",5
+PRECINCT 1,U.S. Senate,"Fasano, Tim",3
+PRECINCT 1,U.S. Senate,"Haines, Michael L.",3
+PRECINCT 1,U.S. Senate,"Holland, Jesse",1
+PRECINCT 1,U.S. Senate,None Of These Candidates,10
+PRECINCT 1,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 1,U.S. Senate,"REID, HARRY",123
+PRECINCT 1,U.S. Senate,"Stand, Wil",1
 PRECINCT 10,Attorney General,"Barrick, Travis",0
 PRECINCT 10,Attorney General,"CORTEZ  MASTO, CATHERINE",0
 PRECINCT 10,Attorney General,"Hansen, Joel F.",0
@@ -110,15 +110,15 @@ PRECINCT 10,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",0
 PRECINCT 10,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 10,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 10,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 10,United States Senator,"Angle, Sharron",0
-PRECINCT 10,United States Senator,"Ashjian, Scott",0
-PRECINCT 10,United States Senator,"Fasano, Tim",0
-PRECINCT 10,United States Senator,"Haines, Michael L.",0
-PRECINCT 10,United States Senator,"Holland, Jesse",0
-PRECINCT 10,United States Senator,None Of These Candidates,0
-PRECINCT 10,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 10,United States Senator,"REID, HARRY",0
-PRECINCT 10,United States Senator,"Stand, Wil",0
+PRECINCT 10,U.S. Senate,"Angle, Sharron",0
+PRECINCT 10,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 10,U.S. Senate,"Fasano, Tim",0
+PRECINCT 10,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 10,U.S. Senate,"Holland, Jesse",0
+PRECINCT 10,U.S. Senate,None Of These Candidates,0
+PRECINCT 10,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 10,U.S. Senate,"REID, HARRY",0
+PRECINCT 10,U.S. Senate,"Stand, Wil",0
 PRECINCT 11,Attorney General,"Barrick, Travis",4
 PRECINCT 11,Attorney General,"CORTEZ  MASTO, CATHERINE",0
 PRECINCT 11,Attorney General,"Hansen, Joel F.",7
@@ -169,15 +169,15 @@ PRECINCT 11,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",
 PRECINCT 11,"U.S. Representative in Congress, District 2","Best, Russell",3
 PRECINCT 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",8
 PRECINCT 11,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 11,United States Senator,"Angle, Sharron",9
-PRECINCT 11,United States Senator,"Ashjian, Scott",0
-PRECINCT 11,United States Senator,"Fasano, Tim",0
-PRECINCT 11,United States Senator,"Haines, Michael L.",0
-PRECINCT 11,United States Senator,"Holland, Jesse",0
-PRECINCT 11,United States Senator,None Of These Candidates,1
-PRECINCT 11,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 11,United States Senator,"REID, HARRY",0
-PRECINCT 11,United States Senator,"Stand, Wil",1
+PRECINCT 11,U.S. Senate,"Angle, Sharron",9
+PRECINCT 11,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 11,U.S. Senate,"Fasano, Tim",0
+PRECINCT 11,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 11,U.S. Senate,"Holland, Jesse",0
+PRECINCT 11,U.S. Senate,None Of These Candidates,1
+PRECINCT 11,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 11,U.S. Senate,"REID, HARRY",0
+PRECINCT 11,U.S. Senate,"Stand, Wil",1
 PRECINCT 12,Attorney General,"Barrick, Travis",
 PRECINCT 12,Attorney General,"CORTEZ  MASTO, CATHERINE",
 PRECINCT 12,Attorney General,"Hansen, Joel F.",
@@ -238,15 +238,15 @@ PRECINCT 13,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",0
 PRECINCT 13,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 13,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 13,United States Senator,"Angle, Sharron",0
-PRECINCT 13,United States Senator,"Ashjian, Scott",0
-PRECINCT 13,United States Senator,"Fasano, Tim",0
-PRECINCT 13,United States Senator,"Haines, Michael L.",0
-PRECINCT 13,United States Senator,"Holland, Jesse",0
-PRECINCT 13,United States Senator,None Of These Candidates,0
-PRECINCT 13,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 13,United States Senator,"REID, HARRY",0
-PRECINCT 13,United States Senator,"Stand, Wil",0
+PRECINCT 13,U.S. Senate,"Angle, Sharron",0
+PRECINCT 13,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 13,U.S. Senate,"Fasano, Tim",0
+PRECINCT 13,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 13,U.S. Senate,"Holland, Jesse",0
+PRECINCT 13,U.S. Senate,None Of These Candidates,0
+PRECINCT 13,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 13,U.S. Senate,"REID, HARRY",0
+PRECINCT 13,U.S. Senate,"Stand, Wil",0
 PRECINCT 14,Attorney General,"Barrick, Travis",0
 PRECINCT 14,Attorney General,"CORTEZ  MASTO, CATHERINE",0
 PRECINCT 14,Attorney General,"Hansen, Joel F.",0
@@ -297,15 +297,15 @@ PRECINCT 14,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",0
 PRECINCT 14,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 14,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 14,United States Senator,"Angle, Sharron",0
-PRECINCT 14,United States Senator,"Ashjian, Scott",0
-PRECINCT 14,United States Senator,"Fasano, Tim",0
-PRECINCT 14,United States Senator,"Haines, Michael L.",0
-PRECINCT 14,United States Senator,"Holland, Jesse",0
-PRECINCT 14,United States Senator,None Of These Candidates,0
-PRECINCT 14,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 14,United States Senator,"REID, HARRY",0
-PRECINCT 14,United States Senator,"Stand, Wil",0
+PRECINCT 14,U.S. Senate,"Angle, Sharron",0
+PRECINCT 14,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 14,U.S. Senate,"Fasano, Tim",0
+PRECINCT 14,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 14,U.S. Senate,"Holland, Jesse",0
+PRECINCT 14,U.S. Senate,None Of These Candidates,0
+PRECINCT 14,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 14,U.S. Senate,"REID, HARRY",0
+PRECINCT 14,U.S. Senate,"Stand, Wil",0
 PRECINCT 15,Attorney General,"Barrick, Travis",10
 PRECINCT 15,Attorney General,"CORTEZ  MASTO, CATHERINE",5
 PRECINCT 15,Attorney General,"Hansen, Joel F.",6
@@ -357,15 +357,15 @@ PRECINCT 15,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",21
 PRECINCT 15,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 15,"U.S. Representative in Congress, District 2","HELLER, DEAN",20
 PRECINCT 15,"U.S. Representative in Congress, District 2","Price, Nancy",3
-PRECINCT 15,United States Senator,"Angle, Sharron",12
-PRECINCT 15,United States Senator,"Ashjian, Scott",0
-PRECINCT 15,United States Senator,"Fasano, Tim",0
-PRECINCT 15,United States Senator,"Haines, Michael L.",0
-PRECINCT 15,United States Senator,"Holland, Jesse",1
-PRECINCT 15,United States Senator,None Of These Candidates,2
-PRECINCT 15,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 15,United States Senator,"REID, HARRY",8
-PRECINCT 15,United States Senator,"Stand, Wil",0
+PRECINCT 15,U.S. Senate,"Angle, Sharron",12
+PRECINCT 15,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 15,U.S. Senate,"Fasano, Tim",0
+PRECINCT 15,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 15,U.S. Senate,"Holland, Jesse",1
+PRECINCT 15,U.S. Senate,None Of These Candidates,2
+PRECINCT 15,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 15,U.S. Senate,"REID, HARRY",8
+PRECINCT 15,U.S. Senate,"Stand, Wil",0
 PRECINCT 2,Attorney General,"Barrick, Travis",102
 PRECINCT 2,Attorney General,"CORTEZ  MASTO, CATHERINE",152
 PRECINCT 2,Attorney General,"Hansen, Joel F.",23
@@ -417,15 +417,15 @@ PRECINCT 2,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",221
 PRECINCT 2,"U.S. Representative in Congress, District 2","Best, Russell",12
 PRECINCT 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",188
 PRECINCT 2,"U.S. Representative in Congress, District 2","Price, Nancy",88
-PRECINCT 2,United States Senator,"Angle, Sharron",131
-PRECINCT 2,United States Senator,"Ashjian, Scott",5
-PRECINCT 2,United States Senator,"Fasano, Tim",4
-PRECINCT 2,United States Senator,"Haines, Michael L.",1
-PRECINCT 2,United States Senator,"Holland, Jesse",0
-PRECINCT 2,United States Senator,None Of These Candidates,14
-PRECINCT 2,United States Senator,"Reeves, Jeffrey C.",1
-PRECINCT 2,United States Senator,"REID, HARRY",135
-PRECINCT 2,United States Senator,"Stand, Wil",1
+PRECINCT 2,U.S. Senate,"Angle, Sharron",131
+PRECINCT 2,U.S. Senate,"Ashjian, Scott",5
+PRECINCT 2,U.S. Senate,"Fasano, Tim",4
+PRECINCT 2,U.S. Senate,"Haines, Michael L.",1
+PRECINCT 2,U.S. Senate,"Holland, Jesse",0
+PRECINCT 2,U.S. Senate,None Of These Candidates,14
+PRECINCT 2,U.S. Senate,"Reeves, Jeffrey C.",1
+PRECINCT 2,U.S. Senate,"REID, HARRY",135
+PRECINCT 2,U.S. Senate,"Stand, Wil",1
 PRECINCT 3,Attorney General,"Barrick, Travis",
 PRECINCT 3,Attorney General,"CORTEZ  MASTO, CATHERINE",
 PRECINCT 3,Attorney General,"Hansen, Joel F.",
@@ -476,15 +476,15 @@ PRECINCT 3,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",
 PRECINCT 3,"U.S. Representative in Congress, District 2","Best, Russell",
 PRECINCT 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 PRECINCT 3,"U.S. Representative in Congress, District 2","Price, Nancy",
-PRECINCT 3,United States Senator,"Angle, Sharron",
-PRECINCT 3,United States Senator,"Ashjian, Scott",
-PRECINCT 3,United States Senator,"Fasano, Tim",
-PRECINCT 3,United States Senator,"Haines, Michael L.",
-PRECINCT 3,United States Senator,"Holland, Jesse",
-PRECINCT 3,United States Senator,None Of These Candidates,
-PRECINCT 3,United States Senator,"Reeves, Jeffrey C.",
-PRECINCT 3,United States Senator,"REID, HARRY",
-PRECINCT 3,United States Senator,"Stand, Wil",
+PRECINCT 3,U.S. Senate,"Angle, Sharron",
+PRECINCT 3,U.S. Senate,"Ashjian, Scott",
+PRECINCT 3,U.S. Senate,"Fasano, Tim",
+PRECINCT 3,U.S. Senate,"Haines, Michael L.",
+PRECINCT 3,U.S. Senate,"Holland, Jesse",
+PRECINCT 3,U.S. Senate,None Of These Candidates,
+PRECINCT 3,U.S. Senate,"Reeves, Jeffrey C.",
+PRECINCT 3,U.S. Senate,"REID, HARRY",
+PRECINCT 3,U.S. Senate,"Stand, Wil",
 PRECINCT 4,Attorney General,"Barrick, Travis",132
 PRECINCT 4,Attorney General,"CORTEZ  MASTO, CATHERINE",127
 PRECINCT 4,Attorney General,"Hansen, Joel F.",33
@@ -536,15 +536,15 @@ PRECINCT 4,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",224
 PRECINCT 4,"U.S. Representative in Congress, District 2","Best, Russell",16
 PRECINCT 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",207
 PRECINCT 4,"U.S. Representative in Congress, District 2","Price, Nancy",85
-PRECINCT 4,United States Senator,"Angle, Sharron",170
-PRECINCT 4,United States Senator,"Ashjian, Scott",13
-PRECINCT 4,United States Senator,"Fasano, Tim",3
-PRECINCT 4,United States Senator,"Haines, Michael L.",1
-PRECINCT 4,United States Senator,"Holland, Jesse",2
-PRECINCT 4,United States Senator,None Of These Candidates,9
-PRECINCT 4,United States Senator,"Reeves, Jeffrey C.",1
-PRECINCT 4,United States Senator,"REID, HARRY",107
-PRECINCT 4,United States Senator,"Stand, Wil",4
+PRECINCT 4,U.S. Senate,"Angle, Sharron",170
+PRECINCT 4,U.S. Senate,"Ashjian, Scott",13
+PRECINCT 4,U.S. Senate,"Fasano, Tim",3
+PRECINCT 4,U.S. Senate,"Haines, Michael L.",1
+PRECINCT 4,U.S. Senate,"Holland, Jesse",2
+PRECINCT 4,U.S. Senate,None Of These Candidates,9
+PRECINCT 4,U.S. Senate,"Reeves, Jeffrey C.",1
+PRECINCT 4,U.S. Senate,"REID, HARRY",107
+PRECINCT 4,U.S. Senate,"Stand, Wil",4
 PRECINCT 5,Attorney General,"Barrick, Travis",355
 PRECINCT 5,Attorney General,"CORTEZ  MASTO, CATHERINE",300
 PRECINCT 5,Attorney General,"Hansen, Joel F.",62
@@ -595,15 +595,15 @@ PRECINCT 5,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",570
 PRECINCT 5,"U.S. Representative in Congress, District 2","Best, Russell",29
 PRECINCT 5,"U.S. Representative in Congress, District 2","HELLER, DEAN",531
 PRECINCT 5,"U.S. Representative in Congress, District 2","Price, Nancy",180
-PRECINCT 5,United States Senator,"Angle, Sharron",463
-PRECINCT 5,United States Senator,"Ashjian, Scott",4
-PRECINCT 5,United States Senator,"Fasano, Tim",5
-PRECINCT 5,United States Senator,"Haines, Michael L.",4
-PRECINCT 5,United States Senator,"Holland, Jesse",4
-PRECINCT 5,United States Senator,None Of These Candidates,17
-PRECINCT 5,United States Senator,"Reeves, Jeffrey C.",1
-PRECINCT 5,United States Senator,"REID, HARRY",245
-PRECINCT 5,United States Senator,"Stand, Wil",4
+PRECINCT 5,U.S. Senate,"Angle, Sharron",463
+PRECINCT 5,U.S. Senate,"Ashjian, Scott",4
+PRECINCT 5,U.S. Senate,"Fasano, Tim",5
+PRECINCT 5,U.S. Senate,"Haines, Michael L.",4
+PRECINCT 5,U.S. Senate,"Holland, Jesse",4
+PRECINCT 5,U.S. Senate,None Of These Candidates,17
+PRECINCT 5,U.S. Senate,"Reeves, Jeffrey C.",1
+PRECINCT 5,U.S. Senate,"REID, HARRY",245
+PRECINCT 5,U.S. Senate,"Stand, Wil",4
 PRECINCT 6,Attorney General,"Barrick, Travis",155
 PRECINCT 6,Attorney General,"CORTEZ  MASTO, CATHERINE",237
 PRECINCT 6,Attorney General,"Hansen, Joel F.",40
@@ -658,15 +658,15 @@ PRECINCT 6,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",353
 PRECINCT 6,"U.S. Representative in Congress, District 2","Best, Russell",29
 PRECINCT 6,"U.S. Representative in Congress, District 2","HELLER, DEAN",242
 PRECINCT 6,"U.S. Representative in Congress, District 2","Price, Nancy",167
-PRECINCT 6,United States Senator,"Angle, Sharron",194
-PRECINCT 6,United States Senator,"Ashjian, Scott",8
-PRECINCT 6,United States Senator,"Fasano, Tim",4
-PRECINCT 6,United States Senator,"Haines, Michael L.",5
-PRECINCT 6,United States Senator,"Holland, Jesse",3
-PRECINCT 6,United States Senator,None Of These Candidates,16
-PRECINCT 6,United States Senator,"Reeves, Jeffrey C.",3
-PRECINCT 6,United States Senator,"REID, HARRY",221
-PRECINCT 6,United States Senator,"Stand, Wil",2
+PRECINCT 6,U.S. Senate,"Angle, Sharron",194
+PRECINCT 6,U.S. Senate,"Ashjian, Scott",8
+PRECINCT 6,U.S. Senate,"Fasano, Tim",4
+PRECINCT 6,U.S. Senate,"Haines, Michael L.",5
+PRECINCT 6,U.S. Senate,"Holland, Jesse",3
+PRECINCT 6,U.S. Senate,None Of These Candidates,16
+PRECINCT 6,U.S. Senate,"Reeves, Jeffrey C.",3
+PRECINCT 6,U.S. Senate,"REID, HARRY",221
+PRECINCT 6,U.S. Senate,"Stand, Wil",2
 PRECINCT 7,Attorney General,"Barrick, Travis",0
 PRECINCT 7,Attorney General,"CORTEZ  MASTO, CATHERINE",0
 PRECINCT 7,Attorney General,"Hansen, Joel F.",0
@@ -717,15 +717,15 @@ PRECINCT 7,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",0
 PRECINCT 7,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 7,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 7,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 7,United States Senator,"Angle, Sharron",0
-PRECINCT 7,United States Senator,"Ashjian, Scott",0
-PRECINCT 7,United States Senator,"Fasano, Tim",0
-PRECINCT 7,United States Senator,"Haines, Michael L.",0
-PRECINCT 7,United States Senator,"Holland, Jesse",0
-PRECINCT 7,United States Senator,None Of These Candidates,0
-PRECINCT 7,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 7,United States Senator,"REID, HARRY",0
-PRECINCT 7,United States Senator,"Stand, Wil",0
+PRECINCT 7,U.S. Senate,"Angle, Sharron",0
+PRECINCT 7,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 7,U.S. Senate,"Fasano, Tim",0
+PRECINCT 7,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 7,U.S. Senate,"Holland, Jesse",0
+PRECINCT 7,U.S. Senate,None Of These Candidates,0
+PRECINCT 7,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 7,U.S. Senate,"REID, HARRY",0
+PRECINCT 7,U.S. Senate,"Stand, Wil",0
 PRECINCT 8,Attorney General,"Barrick, Travis",
 PRECINCT 8,Attorney General,"CORTEZ  MASTO, CATHERINE",
 PRECINCT 8,Attorney General,"Hansen, Joel F.",
@@ -777,15 +777,15 @@ PRECINCT 8,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",
 PRECINCT 8,"U.S. Representative in Congress, District 2","Best, Russell",
 PRECINCT 8,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 PRECINCT 8,"U.S. Representative in Congress, District 2","Price, Nancy",
-PRECINCT 8,United States Senator,"Angle, Sharron",
-PRECINCT 8,United States Senator,"Ashjian, Scott",
-PRECINCT 8,United States Senator,"Fasano, Tim",
-PRECINCT 8,United States Senator,"Haines, Michael L.",
-PRECINCT 8,United States Senator,"Holland, Jesse",
-PRECINCT 8,United States Senator,None Of These Candidates,
-PRECINCT 8,United States Senator,"Reeves, Jeffrey C.",
-PRECINCT 8,United States Senator,"REID, HARRY",
-PRECINCT 8,United States Senator,"Stand, Wil",
+PRECINCT 8,U.S. Senate,"Angle, Sharron",
+PRECINCT 8,U.S. Senate,"Ashjian, Scott",
+PRECINCT 8,U.S. Senate,"Fasano, Tim",
+PRECINCT 8,U.S. Senate,"Haines, Michael L.",
+PRECINCT 8,U.S. Senate,"Holland, Jesse",
+PRECINCT 8,U.S. Senate,None Of These Candidates,
+PRECINCT 8,U.S. Senate,"Reeves, Jeffrey C.",
+PRECINCT 8,U.S. Senate,"REID, HARRY",
+PRECINCT 8,U.S. Senate,"Stand, Wil",
 PRECINCT 9,Attorney General,"Barrick, Travis",0
 PRECINCT 9,Attorney General,"CORTEZ  MASTO, CATHERINE",0
 PRECINCT 9,Attorney General,"Hansen, Joel F.",0
@@ -837,24 +837,24 @@ PRECINCT 9,"Supreme Court Justice, Seat E","PARRAGUIRRE, RONALD D.",0
 PRECINCT 9,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 9,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 9,"U.S. Representative in Congress, District 2","Price, Nancy",0
-PRECINCT 9,United States Senator,"Angle, Sharron",0
-PRECINCT 9,United States Senator,"Ashjian, Scott",0
-PRECINCT 9,United States Senator,"Fasano, Tim",0
-PRECINCT 9,United States Senator,"Haines, Michael L.",0
-PRECINCT 9,United States Senator,"Holland, Jesse",0
-PRECINCT 9,United States Senator,None Of These Candidates,0
-PRECINCT 9,United States Senator,"Reeves, Jeffrey C.",0
-PRECINCT 9,United States Senator,"REID, HARRY",0
-PRECINCT 9,United States Senator,"Stand, Wil",0
+PRECINCT 9,U.S. Senate,"Angle, Sharron",0
+PRECINCT 9,U.S. Senate,"Ashjian, Scott",0
+PRECINCT 9,U.S. Senate,"Fasano, Tim",0
+PRECINCT 9,U.S. Senate,"Haines, Michael L.",0
+PRECINCT 9,U.S. Senate,"Holland, Jesse",0
+PRECINCT 9,U.S. Senate,None Of These Candidates,0
+PRECINCT 9,U.S. Senate,"Reeves, Jeffrey C.",0
+PRECINCT 9,U.S. Senate,"REID, HARRY",0
+PRECINCT 9,U.S. Senate,"Stand, Wil",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","Best, Russell",
 PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 PRECINCT 99,"U.S. Representative in Congress, District 2","Price, Nancy",
-PRECINCT 99,United States Senator,"Angle, Sharron",
-PRECINCT 99,United States Senator,"Ashjian, Scott",
-PRECINCT 99,United States Senator,"Fasano, Tim",
-PRECINCT 99,United States Senator,"Haines, Michael L.",
-PRECINCT 99,United States Senator,"Holland, Jesse",
-PRECINCT 99,United States Senator,None Of These Candidates,
-PRECINCT 99,United States Senator,"Reeves, Jeffrey C.",
-PRECINCT 99,United States Senator,"REID, HARRY",
-PRECINCT 99,United States Senator,"Stand, Wil",
+PRECINCT 99,U.S. Senate,"Angle, Sharron",
+PRECINCT 99,U.S. Senate,"Ashjian, Scott",
+PRECINCT 99,U.S. Senate,"Fasano, Tim",
+PRECINCT 99,U.S. Senate,"Haines, Michael L.",
+PRECINCT 99,U.S. Senate,"Holland, Jesse",
+PRECINCT 99,U.S. Senate,None Of These Candidates,
+PRECINCT 99,U.S. Senate,"Reeves, Jeffrey C.",
+PRECINCT 99,U.S. Senate,"REID, HARRY",
+PRECINCT 99,U.S. Senate,"Stand, Wil",

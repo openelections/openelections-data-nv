@@ -62,11 +62,11 @@ Argenta 01,"U.S. Representative in Congress, District 2","DERBY, JILL",105
 Argenta 01,"U.S. Representative in Congress, District 2","HELLER, DEAN",219
 Argenta 01,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 Argenta 01,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",13
-Argenta 01,United States Senator,"CARTER, JACK",91
-Argenta 01,United States Senator,"ENSIGN, JOHN",240
-Argenta 01,United States Senator,None Of These Candidates,7
-Argenta 01,United States Senator,"SCHUMANN, DAVID K.",6
-Argenta 01,United States Senator,"TRAINOR, BRENDAN",1
+Argenta 01,U.S. Senate,"CARTER, JACK",91
+Argenta 01,U.S. Senate,"ENSIGN, JOHN",240
+Argenta 01,U.S. Senate,None Of These Candidates,7
+Argenta 01,U.S. Senate,"SCHUMANN, DAVID K.",6
+Argenta 01,U.S. Senate,"TRAINOR, BRENDAN",1
 Argenta 02,Attorney General,"CHAIREZ, DON",160
 Argenta 02,Attorney General,"CORTEZ  MASTO, CATHERINE",147
 Argenta 02,Attorney General,None Of These Candidates,37
@@ -130,11 +130,11 @@ Argenta 02,"U.S. Representative in Congress, District 2","DERBY, JILL",106
 Argenta 02,"U.S. Representative in Congress, District 2","HELLER, DEAN",206
 Argenta 02,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",13
 Argenta 02,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",12
-Argenta 02,United States Senator,"CARTER, JACK",92
-Argenta 02,United States Senator,"ENSIGN, JOHN",230
-Argenta 02,United States Senator,None Of These Candidates,9
-Argenta 02,United States Senator,"SCHUMANN, DAVID K.",10
-Argenta 02,United States Senator,"TRAINOR, BRENDAN",3
+Argenta 02,U.S. Senate,"CARTER, JACK",92
+Argenta 02,U.S. Senate,"ENSIGN, JOHN",230
+Argenta 02,U.S. Senate,None Of These Candidates,9
+Argenta 02,U.S. Senate,"SCHUMANN, DAVID K.",10
+Argenta 02,U.S. Senate,"TRAINOR, BRENDAN",3
 Argenta 03,Attorney General,"CHAIREZ, DON",52
 Argenta 03,Attorney General,"CORTEZ  MASTO, CATHERINE",61
 Argenta 03,Attorney General,None Of These Candidates,10
@@ -197,11 +197,11 @@ Argenta 03,"U.S. Representative in Congress, District 2","DERBY, JILL",47
 Argenta 03,"U.S. Representative in Congress, District 2","HELLER, DEAN",69
 Argenta 03,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 Argenta 03,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-Argenta 03,United States Senator,"CARTER, JACK",44
-Argenta 03,United States Senator,"ENSIGN, JOHN",76
-Argenta 03,United States Senator,None Of These Candidates,1
-Argenta 03,United States Senator,"SCHUMANN, DAVID K.",2
-Argenta 03,United States Senator,"TRAINOR, BRENDAN",1
+Argenta 03,U.S. Senate,"CARTER, JACK",44
+Argenta 03,U.S. Senate,"ENSIGN, JOHN",76
+Argenta 03,U.S. Senate,None Of These Candidates,1
+Argenta 03,U.S. Senate,"SCHUMANN, DAVID K.",2
+Argenta 03,U.S. Senate,"TRAINOR, BRENDAN",1
 Argenta 04,Attorney General,"CHAIREZ, DON",191
 Argenta 04,Attorney General,"CORTEZ  MASTO, CATHERINE",142
 Argenta 04,Attorney General,None Of These Candidates,34
@@ -264,11 +264,11 @@ Argenta 04,"U.S. Representative in Congress, District 2","DERBY, JILL",107
 Argenta 04,"U.S. Representative in Congress, District 2","HELLER, DEAN",248
 Argenta 04,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 Argenta 04,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",6
-Argenta 04,United States Senator,"CARTER, JACK",79
-Argenta 04,United States Senator,"ENSIGN, JOHN",269
-Argenta 04,United States Senator,None Of These Candidates,11
-Argenta 04,United States Senator,"SCHUMANN, DAVID K.",7
-Argenta 04,United States Senator,"TRAINOR, BRENDAN",3
+Argenta 04,U.S. Senate,"CARTER, JACK",79
+Argenta 04,U.S. Senate,"ENSIGN, JOHN",269
+Argenta 04,U.S. Senate,None Of These Candidates,11
+Argenta 04,U.S. Senate,"SCHUMANN, DAVID K.",7
+Argenta 04,U.S. Senate,"TRAINOR, BRENDAN",3
 Argenta 05,Attorney General,"CHAIREZ, DON",186
 Argenta 05,Attorney General,"CORTEZ  MASTO, CATHERINE",124
 Argenta 05,Attorney General,None Of These Candidates,37
@@ -331,11 +331,11 @@ Argenta 05,"U.S. Representative in Congress, District 2","DERBY, JILL",103
 Argenta 05,"U.S. Representative in Congress, District 2","HELLER, DEAN",221
 Argenta 05,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",7
 Argenta 05,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",9
-Argenta 05,United States Senator,"CARTER, JACK",77
-Argenta 05,United States Senator,"ENSIGN, JOHN",252
-Argenta 05,United States Senator,None Of These Candidates,9
-Argenta 05,United States Senator,"SCHUMANN, DAVID K.",6
-Argenta 05,United States Senator,"TRAINOR, BRENDAN",1
+Argenta 05,U.S. Senate,"CARTER, JACK",77
+Argenta 05,U.S. Senate,"ENSIGN, JOHN",252
+Argenta 05,U.S. Senate,None Of These Candidates,9
+Argenta 05,U.S. Senate,"SCHUMANN, DAVID K.",6
+Argenta 05,U.S. Senate,"TRAINOR, BRENDAN",1
 Austin 07,Attorney General,"CHAIREZ, DON",48
 Austin 07,Attorney General,"CORTEZ  MASTO, CATHERINE",60
 Austin 07,Attorney General,None Of These Candidates,5
@@ -400,11 +400,11 @@ Austin 07,"U.S. Representative in Congress, District 2","DERBY, JILL",44
 Austin 07,"U.S. Representative in Congress, District 2","HELLER, DEAN",64
 Austin 07,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",3
 Austin 07,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
-Austin 07,United States Senator,"CARTER, JACK",41
-Austin 07,United States Senator,"ENSIGN, JOHN",72
-Austin 07,United States Senator,None Of These Candidates,1
-Austin 07,United States Senator,"SCHUMANN, DAVID K.",0
-Austin 07,United States Senator,"TRAINOR, BRENDAN",0
+Austin 07,U.S. Senate,"CARTER, JACK",41
+Austin 07,U.S. Senate,"ENSIGN, JOHN",72
+Austin 07,U.S. Senate,None Of These Candidates,1
+Austin 07,U.S. Senate,"SCHUMANN, DAVID K.",0
+Austin 07,U.S. Senate,"TRAINOR, BRENDAN",0
 Gillman Springs 08,Attorney General,"CHAIREZ, DON",9
 Gillman Springs 08,Attorney General,"CORTEZ  MASTO, CATHERINE",5
 Gillman Springs 08,Attorney General,None Of These Candidates,1
@@ -469,11 +469,11 @@ Gillman Springs 08,"U.S. Representative in Congress, District 2","DERBY, JILL",6
 Gillman Springs 08,"U.S. Representative in Congress, District 2","HELLER, DEAN",9
 Gillman Springs 08,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 Gillman Springs 08,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Gillman Springs 08,United States Senator,"CARTER, JACK",5
-Gillman Springs 08,United States Senator,"ENSIGN, JOHN",10
-Gillman Springs 08,United States Senator,None Of These Candidates,0
-Gillman Springs 08,United States Senator,"SCHUMANN, DAVID K.",0
-Gillman Springs 08,United States Senator,"TRAINOR, BRENDAN",0
+Gillman Springs 08,U.S. Senate,"CARTER, JACK",5
+Gillman Springs 08,U.S. Senate,"ENSIGN, JOHN",10
+Gillman Springs 08,U.S. Senate,None Of These Candidates,0
+Gillman Springs 08,U.S. Senate,"SCHUMANN, DAVID K.",0
+Gillman Springs 08,U.S. Senate,"TRAINOR, BRENDAN",0
 Kingston 09,Attorney General,"CHAIREZ, DON",38
 Kingston 09,Attorney General,"CORTEZ  MASTO, CATHERINE",18
 Kingston 09,Attorney General,None Of These Candidates,10
@@ -542,20 +542,20 @@ Kingston 09,"U.S. Representative in Congress, District 2","DERBY, JILL",13
 Kingston 09,"U.S. Representative in Congress, District 2","HELLER, DEAN",47
 Kingston 09,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",6
 Kingston 09,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",1
-Kingston 09,United States Senator,"CARTER, JACK",12
-Kingston 09,United States Senator,"ENSIGN, JOHN",51
-Kingston 09,United States Senator,None Of These Candidates,1
-Kingston 09,United States Senator,"SCHUMANN, DAVID K.",2
-Kingston 09,United States Senator,"TRAINOR, BRENDAN",1
+Kingston 09,U.S. Senate,"CARTER, JACK",12
+Kingston 09,U.S. Senate,"ENSIGN, JOHN",51
+Kingston 09,U.S. Senate,None Of These Candidates,1
+Kingston 09,U.S. Senate,"SCHUMANN, DAVID K.",2
+Kingston 09,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 Precinct 99,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",0
-Precinct 99,United States Senator,"CARTER, JACK",0
-Precinct 99,United States Senator,"ENSIGN, JOHN",0
-Precinct 99,United States Senator,None Of These Candidates,0
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",0
-Precinct 99,United States Senator,"TRAINOR, BRENDAN",0
+Precinct 99,U.S. Senate,"CARTER, JACK",0
+Precinct 99,U.S. Senate,"ENSIGN, JOHN",0
+Precinct 99,U.S. Senate,None Of These Candidates,0
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
+Precinct 99,U.S. Senate,"TRAINOR, BRENDAN",0
 Southern Lander County 06,Attorney General,"CHAIREZ, DON",49
 Southern Lander County 06,Attorney General,"CORTEZ  MASTO, CATHERINE",11
 Southern Lander County 06,Attorney General,None Of These Candidates,2
@@ -620,8 +620,8 @@ Southern Lander County 06,"U.S. Representative in Congress, District 2","DERBY, 
 Southern Lander County 06,"U.S. Representative in Congress, District 2","HELLER, DEAN",50
 Southern Lander County 06,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
 Southern Lander County 06,"U.S. Representative in Congress, District 2","ROSEN, DANIEL",2
-Southern Lander County 06,United States Senator,"CARTER, JACK",9
-Southern Lander County 06,United States Senator,"ENSIGN, JOHN",52
-Southern Lander County 06,United States Senator,None Of These Candidates,0
-Southern Lander County 06,United States Senator,"SCHUMANN, DAVID K.",0
-Southern Lander County 06,United States Senator,"TRAINOR, BRENDAN",1
+Southern Lander County 06,U.S. Senate,"CARTER, JACK",9
+Southern Lander County 06,U.S. Senate,"ENSIGN, JOHN",52
+Southern Lander County 06,U.S. Senate,None Of These Candidates,0
+Southern Lander County 06,U.S. Senate,"SCHUMANN, DAVID K.",0
+Southern Lander County 06,U.S. Senate,"TRAINOR, BRENDAN",1

@@ -9,13 +9,13 @@ precinct,office,candidate,votes
 01-Centerville,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",179
 01-Centerville,East Fork Swimming Pool Dist,"LENHART, WARREN",140
 01-Centerville,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",159
-01-Centerville,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-01-Centerville,President and Vice President of the United States,"BUSH, GEORGE W.",316
-01-Centerville,President and Vice President of the United States,"COBB, DAVID",1
-01-Centerville,President and Vice President of the United States,"KERRY, JOHN F.",113
-01-Centerville,President and Vice President of the United States,"NADER, RALPH",2
-01-Centerville,President and Vice President of the United States,None Of These Candidates,1
-01-Centerville,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+01-Centerville,President,"BADNARIK, MICHAEL",0
+01-Centerville,President,"BUSH, GEORGE W.",316
+01-Centerville,President,"COBB, DAVID",1
+01-Centerville,President,"KERRY, JOHN F.",113
+01-Centerville,President,"NADER, RALPH",2
+01-Centerville,President,None Of These Candidates,1
+01-Centerville,President,"PEROUTKA, MICHAEL A.",0
 01-Centerville,School Board Trustee Area 1 CW,"BECK, RON",147
 01-Centerville,School Board Trustee Area 1 CW,"ORR, LOREN R.",170
 01-Centerville,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",167
@@ -39,12 +39,12 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2","GIBBONS, JIM",333
 01-Centerville,"U.S. Representative in Congress, District 2","HANSEN, JANINE",11
 01-Centerville,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",2
-01-Centerville,United States Senator,"HURST, THOMAS L.",1
-01-Centerville,United States Senator,"MARINCH, GARY",0
-01-Centerville,United States Senator,None Of These Candidates,6
-01-Centerville,United States Senator,"REID, HARRY",153
-01-Centerville,United States Senator,"SCHUMANN, DAVID K.",3
-01-Centerville,United States Senator,"ZISER, RICHARD",254
+01-Centerville,U.S. Senate,"HURST, THOMAS L.",1
+01-Centerville,U.S. Senate,"MARINCH, GARY",0
+01-Centerville,U.S. Senate,None Of These Candidates,6
+01-Centerville,U.S. Senate,"REID, HARRY",153
+01-Centerville,U.S. Senate,"SCHUMANN, DAVID K.",3
+01-Centerville,U.S. Senate,"ZISER, RICHARD",254
 02-Fish Springs,County Commissioner District 1,"BAUSHKE, JAMES L.",528
 02-Fish Springs,County Commissioner District 3,"DUPUIS, SAM",58
 02-Fish Springs,County Commissioner District 3,"FORAKER-THOMPSON, JANE",180
@@ -55,13 +55,13 @@ precinct,office,candidate,votes
 02-Fish Springs,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",331
 02-Fish Springs,East Fork Swimming Pool Dist,"LENHART, WARREN",255
 02-Fish Springs,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",265
-02-Fish Springs,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-02-Fish Springs,President and Vice President of the United States,"BUSH, GEORGE W.",488
-02-Fish Springs,President and Vice President of the United States,"COBB, DAVID",0
-02-Fish Springs,President and Vice President of the United States,"KERRY, JOHN F.",202
-02-Fish Springs,President and Vice President of the United States,"NADER, RALPH",2
-02-Fish Springs,President and Vice President of the United States,None Of These Candidates,6
-02-Fish Springs,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+02-Fish Springs,President,"BADNARIK, MICHAEL",0
+02-Fish Springs,President,"BUSH, GEORGE W.",488
+02-Fish Springs,President,"COBB, DAVID",0
+02-Fish Springs,President,"KERRY, JOHN F.",202
+02-Fish Springs,President,"NADER, RALPH",2
+02-Fish Springs,President,None Of These Candidates,6
+02-Fish Springs,President,"PEROUTKA, MICHAEL A.",1
 02-Fish Springs,School Board Trustee Area 1 CW,"BECK, RON",217
 02-Fish Springs,School Board Trustee Area 1 CW,"ORR, LOREN R.",315
 02-Fish Springs,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",261
@@ -88,12 +88,12 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2","GIBBONS, JIM",519
 02-Fish Springs,"U.S. Representative in Congress, District 2","HANSEN, JANINE",22
 02-Fish Springs,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-02-Fish Springs,United States Senator,"HURST, THOMAS L.",1
-02-Fish Springs,United States Senator,"MARINCH, GARY",3
-02-Fish Springs,United States Senator,None Of These Candidates,6
-02-Fish Springs,United States Senator,"REID, HARRY",254
-02-Fish Springs,United States Senator,"SCHUMANN, DAVID K.",5
-02-Fish Springs,United States Senator,"ZISER, RICHARD",412
+02-Fish Springs,U.S. Senate,"HURST, THOMAS L.",1
+02-Fish Springs,U.S. Senate,"MARINCH, GARY",3
+02-Fish Springs,U.S. Senate,None Of These Candidates,6
+02-Fish Springs,U.S. Senate,"REID, HARRY",254
+02-Fish Springs,U.S. Senate,"SCHUMANN, DAVID K.",5
+02-Fish Springs,U.S. Senate,"ZISER, RICHARD",412
 03-Gardnerville,County Commissioner District 1,"BAUSHKE, JAMES L.",690
 03-Gardnerville,County Commissioner District 3,"DUPUIS, SAM",64
 03-Gardnerville,County Commissioner District 3,"FORAKER-THOMPSON, JANE",313
@@ -104,13 +104,13 @@ precinct,office,candidate,votes
 03-Gardnerville,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",427
 03-Gardnerville,East Fork Swimming Pool Dist,"LENHART, WARREN",354
 03-Gardnerville,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",389
-03-Gardnerville,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-03-Gardnerville,President and Vice President of the United States,"BUSH, GEORGE W.",563
-03-Gardnerville,President and Vice President of the United States,"COBB, DAVID",1
-03-Gardnerville,President and Vice President of the United States,"KERRY, JOHN F.",380
-03-Gardnerville,President and Vice President of the United States,"NADER, RALPH",5
-03-Gardnerville,President and Vice President of the United States,None Of These Candidates,2
-03-Gardnerville,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+03-Gardnerville,President,"BADNARIK, MICHAEL",5
+03-Gardnerville,President,"BUSH, GEORGE W.",563
+03-Gardnerville,President,"COBB, DAVID",1
+03-Gardnerville,President,"KERRY, JOHN F.",380
+03-Gardnerville,President,"NADER, RALPH",5
+03-Gardnerville,President,None Of These Candidates,2
+03-Gardnerville,President,"PEROUTKA, MICHAEL A.",1
 03-Gardnerville,School Board Trustee Area 1 CW,"BECK, RON",341
 03-Gardnerville,School Board Trustee Area 1 CW,"ORR, LOREN R.",377
 03-Gardnerville,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",329
@@ -137,12 +137,12 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2","GIBBONS, JIM",624
 03-Gardnerville,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 03-Gardnerville,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",17
-03-Gardnerville,United States Senator,"HURST, THOMAS L.",11
-03-Gardnerville,United States Senator,"MARINCH, GARY",4
-03-Gardnerville,United States Senator,None Of These Candidates,11
-03-Gardnerville,United States Senator,"REID, HARRY",462
-03-Gardnerville,United States Senator,"SCHUMANN, DAVID K.",11
-03-Gardnerville,United States Senator,"ZISER, RICHARD",432
+03-Gardnerville,U.S. Senate,"HURST, THOMAS L.",11
+03-Gardnerville,U.S. Senate,"MARINCH, GARY",4
+03-Gardnerville,U.S. Senate,None Of These Candidates,11
+03-Gardnerville,U.S. Senate,"REID, HARRY",462
+03-Gardnerville,U.S. Senate,"SCHUMANN, DAVID K.",11
+03-Gardnerville,U.S. Senate,"ZISER, RICHARD",432
 04-Carson Valley Estates,County Commissioner District 1,"BAUSHKE, JAMES L.",843
 04-Carson Valley Estates,County Commissioner District 3,"DUPUIS, SAM",58
 04-Carson Valley Estates,County Commissioner District 3,"FORAKER-THOMPSON, JANE",357
@@ -153,13 +153,13 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",575
 04-Carson Valley Estates,East Fork Swimming Pool Dist,"LENHART, WARREN",417
 04-Carson Valley Estates,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",423
-04-Carson Valley Estates,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-04-Carson Valley Estates,President and Vice President of the United States,"BUSH, GEORGE W.",735
-04-Carson Valley Estates,President and Vice President of the United States,"COBB, DAVID",3
-04-Carson Valley Estates,President and Vice President of the United States,"KERRY, JOHN F.",370
-04-Carson Valley Estates,President and Vice President of the United States,"NADER, RALPH",7
-04-Carson Valley Estates,President and Vice President of the United States,None Of These Candidates,4
-04-Carson Valley Estates,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+04-Carson Valley Estates,President,"BADNARIK, MICHAEL",2
+04-Carson Valley Estates,President,"BUSH, GEORGE W.",735
+04-Carson Valley Estates,President,"COBB, DAVID",3
+04-Carson Valley Estates,President,"KERRY, JOHN F.",370
+04-Carson Valley Estates,President,"NADER, RALPH",7
+04-Carson Valley Estates,President,None Of These Candidates,4
+04-Carson Valley Estates,President,"PEROUTKA, MICHAEL A.",1
 04-Carson Valley Estates,School Board Trustee Area 1 CW,"BECK, RON",377
 04-Carson Valley Estates,School Board Trustee Area 1 CW,"ORR, LOREN R.",484
 04-Carson Valley Estates,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",359
@@ -186,12 +186,12 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","GIBBONS, JIM",787
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","HANSEN, JANINE",28
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-04-Carson Valley Estates,United States Senator,"HURST, THOMAS L.",8
-04-Carson Valley Estates,United States Senator,"MARINCH, GARY",3
-04-Carson Valley Estates,United States Senator,None Of These Candidates,16
-04-Carson Valley Estates,United States Senator,"REID, HARRY",479
-04-Carson Valley Estates,United States Senator,"SCHUMANN, DAVID K.",9
-04-Carson Valley Estates,United States Senator,"ZISER, RICHARD",578
+04-Carson Valley Estates,U.S. Senate,"HURST, THOMAS L.",8
+04-Carson Valley Estates,U.S. Senate,"MARINCH, GARY",3
+04-Carson Valley Estates,U.S. Senate,None Of These Candidates,16
+04-Carson Valley Estates,U.S. Senate,"REID, HARRY",479
+04-Carson Valley Estates,U.S. Senate,"SCHUMANN, DAVID K.",9
+04-Carson Valley Estates,U.S. Senate,"ZISER, RICHARD",578
 05-Genoa,County Commissioner District 1,"BAUSHKE, JAMES L.",480
 05-Genoa,County Commissioner District 3,"DUPUIS, SAM",31
 05-Genoa,County Commissioner District 3,"FORAKER-THOMPSON, JANE",164
@@ -202,13 +202,13 @@ precinct,office,candidate,votes
 05-Genoa,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",265
 05-Genoa,East Fork Swimming Pool Dist,"LENHART, WARREN",220
 05-Genoa,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",202
-05-Genoa,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-05-Genoa,President and Vice President of the United States,"BUSH, GEORGE W.",411
-05-Genoa,President and Vice President of the United States,"COBB, DAVID",0
-05-Genoa,President and Vice President of the United States,"KERRY, JOHN F.",176
-05-Genoa,President and Vice President of the United States,"NADER, RALPH",7
-05-Genoa,President and Vice President of the United States,None Of These Candidates,1
-05-Genoa,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+05-Genoa,President,"BADNARIK, MICHAEL",3
+05-Genoa,President,"BUSH, GEORGE W.",411
+05-Genoa,President,"COBB, DAVID",0
+05-Genoa,President,"KERRY, JOHN F.",176
+05-Genoa,President,"NADER, RALPH",7
+05-Genoa,President,None Of These Candidates,1
+05-Genoa,President,"PEROUTKA, MICHAEL A.",1
 05-Genoa,School Board Trustee Area 1 CW,"BECK, RON",185
 05-Genoa,School Board Trustee Area 1 CW,"ORR, LOREN R.",247
 05-Genoa,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",223
@@ -232,12 +232,12 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2","GIBBONS, JIM",453
 05-Genoa,"U.S. Representative in Congress, District 2","HANSEN, JANINE",15
 05-Genoa,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-05-Genoa,United States Senator,"HURST, THOMAS L.",6
-05-Genoa,United States Senator,"MARINCH, GARY",1
-05-Genoa,United States Senator,None Of These Candidates,6
-05-Genoa,United States Senator,"REID, HARRY",205
-05-Genoa,United States Senator,"SCHUMANN, DAVID K.",6
-05-Genoa,United States Senator,"ZISER, RICHARD",364
+05-Genoa,U.S. Senate,"HURST, THOMAS L.",6
+05-Genoa,U.S. Senate,"MARINCH, GARY",1
+05-Genoa,U.S. Senate,None Of These Candidates,6
+05-Genoa,U.S. Senate,"REID, HARRY",205
+05-Genoa,U.S. Senate,"SCHUMANN, DAVID K.",6
+05-Genoa,U.S. Senate,"ZISER, RICHARD",364
 06-Jacks Valley,County Commissioner District 1,"BAUSHKE, JAMES L.",509
 06-Jacks Valley,County Commissioner District 3,"DUPUIS, SAM",34
 06-Jacks Valley,County Commissioner District 3,"FORAKER-THOMPSON, JANE",247
@@ -252,13 +252,13 @@ precinct,office,candidate,votes
 06-Jacks Valley,Indian Hills G I D,"KRUSER, RONALD",54
 06-Jacks Valley,Indian Hills G I D,"LAU, LAURA",96
 06-Jacks Valley,Indian Hills G I D,"NELSON, BRIAN L.",82
-06-Jacks Valley,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-06-Jacks Valley,President and Vice President of the United States,"BUSH, GEORGE W.",455
-06-Jacks Valley,President and Vice President of the United States,"COBB, DAVID",0
-06-Jacks Valley,President and Vice President of the United States,"KERRY, JOHN F.",260
-06-Jacks Valley,President and Vice President of the United States,"NADER, RALPH",3
-06-Jacks Valley,President and Vice President of the United States,None Of These Candidates,3
-06-Jacks Valley,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+06-Jacks Valley,President,"BADNARIK, MICHAEL",6
+06-Jacks Valley,President,"BUSH, GEORGE W.",455
+06-Jacks Valley,President,"COBB, DAVID",0
+06-Jacks Valley,President,"KERRY, JOHN F.",260
+06-Jacks Valley,President,"NADER, RALPH",3
+06-Jacks Valley,President,None Of These Candidates,3
+06-Jacks Valley,President,"PEROUTKA, MICHAEL A.",0
 06-Jacks Valley,School Board Trustee Area 1 CW,"BECK, RON",286
 06-Jacks Valley,School Board Trustee Area 1 CW,"ORR, LOREN R.",252
 06-Jacks Valley,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",229
@@ -282,12 +282,12 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2","GIBBONS, JIM",524
 06-Jacks Valley,"U.S. Representative in Congress, District 2","HANSEN, JANINE",21
 06-Jacks Valley,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-06-Jacks Valley,United States Senator,"HURST, THOMAS L.",3
-06-Jacks Valley,United States Senator,"MARINCH, GARY",0
-06-Jacks Valley,United States Senator,None Of These Candidates,11
-06-Jacks Valley,United States Senator,"REID, HARRY",335
-06-Jacks Valley,United States Senator,"SCHUMANN, DAVID K.",5
-06-Jacks Valley,United States Senator,"ZISER, RICHARD",364
+06-Jacks Valley,U.S. Senate,"HURST, THOMAS L.",3
+06-Jacks Valley,U.S. Senate,"MARINCH, GARY",0
+06-Jacks Valley,U.S. Senate,None Of These Candidates,11
+06-Jacks Valley,U.S. Senate,"REID, HARRY",335
+06-Jacks Valley,U.S. Senate,"SCHUMANN, DAVID K.",5
+06-Jacks Valley,U.S. Senate,"ZISER, RICHARD",364
 07-Minden,County Commissioner District 1,"BAUSHKE, JAMES L.",572
 07-Minden,County Commissioner District 3,"DUPUIS, SAM",49
 07-Minden,County Commissioner District 3,"FORAKER-THOMPSON, JANE",217
@@ -298,13 +298,13 @@ precinct,office,candidate,votes
 07-Minden,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",333
 07-Minden,East Fork Swimming Pool Dist,"LENHART, WARREN",253
 07-Minden,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",341
-07-Minden,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-07-Minden,President and Vice President of the United States,"BUSH, GEORGE W.",489
-07-Minden,President and Vice President of the United States,"COBB, DAVID",0
-07-Minden,President and Vice President of the United States,"KERRY, JOHN F.",239
-07-Minden,President and Vice President of the United States,"NADER, RALPH",2
-07-Minden,President and Vice President of the United States,None Of These Candidates,9
-07-Minden,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+07-Minden,President,"BADNARIK, MICHAEL",1
+07-Minden,President,"BUSH, GEORGE W.",489
+07-Minden,President,"COBB, DAVID",0
+07-Minden,President,"KERRY, JOHN F.",239
+07-Minden,President,"NADER, RALPH",2
+07-Minden,President,None Of These Candidates,9
+07-Minden,President,"PEROUTKA, MICHAEL A.",0
 07-Minden,School Board Trustee Area 1 CW,"BECK, RON",277
 07-Minden,School Board Trustee Area 1 CW,"ORR, LOREN R.",309
 07-Minden,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",293
@@ -331,12 +331,12 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2","GIBBONS, JIM",547
 07-Minden,"U.S. Representative in Congress, District 2","HANSEN, JANINE",17
 07-Minden,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-07-Minden,United States Senator,"HURST, THOMAS L.",0
-07-Minden,United States Senator,"MARINCH, GARY",0
-07-Minden,United States Senator,None Of These Candidates,12
-07-Minden,United States Senator,"REID, HARRY",332
-07-Minden,United States Senator,"SCHUMANN, DAVID K.",5
-07-Minden,United States Senator,"ZISER, RICHARD",369
+07-Minden,U.S. Senate,"HURST, THOMAS L.",0
+07-Minden,U.S. Senate,"MARINCH, GARY",0
+07-Minden,U.S. Senate,None Of These Candidates,12
+07-Minden,U.S. Senate,"REID, HARRY",332
+07-Minden,U.S. Senate,"SCHUMANN, DAVID K.",5
+07-Minden,U.S. Senate,"ZISER, RICHARD",369
 08-Ranchos I,County Commissioner District 1,"BAUSHKE, JAMES L.",423
 08-Ranchos I,County Commissioner District 3,"DUPUIS, SAM",46
 08-Ranchos I,County Commissioner District 3,"FORAKER-THOMPSON, JANE",160
@@ -351,13 +351,13 @@ precinct,office,candidate,votes
 08-Ranchos I,Gardnerville Ranchos G I D,"BUDDEN, ED",142
 08-Ranchos I,Gardnerville Ranchos G I D,"FIELDS, JIMMIE H.",111
 08-Ranchos I,Gardnerville Ranchos G I D,"PAGE, BEVERLY J.",183
-08-Ranchos I,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-08-Ranchos I,President and Vice President of the United States,"BUSH, GEORGE W.",355
-08-Ranchos I,President and Vice President of the United States,"COBB, DAVID",0
-08-Ranchos I,President and Vice President of the United States,"KERRY, JOHN F.",188
-08-Ranchos I,President and Vice President of the United States,"NADER, RALPH",2
-08-Ranchos I,President and Vice President of the United States,None Of These Candidates,6
-08-Ranchos I,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+08-Ranchos I,President,"BADNARIK, MICHAEL",0
+08-Ranchos I,President,"BUSH, GEORGE W.",355
+08-Ranchos I,President,"COBB, DAVID",0
+08-Ranchos I,President,"KERRY, JOHN F.",188
+08-Ranchos I,President,"NADER, RALPH",2
+08-Ranchos I,President,None Of These Candidates,6
+08-Ranchos I,President,"PEROUTKA, MICHAEL A.",0
 08-Ranchos I,School Board Trustee Area 1 CW,"BECK, RON",208
 08-Ranchos I,School Board Trustee Area 1 CW,"ORR, LOREN R.",248
 08-Ranchos I,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",227
@@ -381,12 +381,12 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2","GIBBONS, JIM",390
 08-Ranchos I,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
 08-Ranchos I,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-08-Ranchos I,United States Senator,"HURST, THOMAS L.",2
-08-Ranchos I,United States Senator,"MARINCH, GARY",2
-08-Ranchos I,United States Senator,None Of These Candidates,9
-08-Ranchos I,United States Senator,"REID, HARRY",243
-08-Ranchos I,United States Senator,"SCHUMANN, DAVID K.",6
-08-Ranchos I,United States Senator,"ZISER, RICHARD",278
+08-Ranchos I,U.S. Senate,"HURST, THOMAS L.",2
+08-Ranchos I,U.S. Senate,"MARINCH, GARY",2
+08-Ranchos I,U.S. Senate,None Of These Candidates,9
+08-Ranchos I,U.S. Senate,"REID, HARRY",243
+08-Ranchos I,U.S. Senate,"SCHUMANN, DAVID K.",6
+08-Ranchos I,U.S. Senate,"ZISER, RICHARD",278
 09-Ranchos II,County Commissioner District 1,"BAUSHKE, JAMES L.",555
 09-Ranchos II,County Commissioner District 3,"DUPUIS, SAM",48
 09-Ranchos II,County Commissioner District 3,"FORAKER-THOMPSON, JANE",221
@@ -401,13 +401,13 @@ precinct,office,candidate,votes
 09-Ranchos II,Gardnerville Ranchos G I D,"BUDDEN, ED",212
 09-Ranchos II,Gardnerville Ranchos G I D,"FIELDS, JIMMIE H.",218
 09-Ranchos II,Gardnerville Ranchos G I D,"PAGE, BEVERLY J.",304
-09-Ranchos II,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-09-Ranchos II,President and Vice President of the United States,"BUSH, GEORGE W.",449
-09-Ranchos II,President and Vice President of the United States,"COBB, DAVID",0
-09-Ranchos II,President and Vice President of the United States,"KERRY, JOHN F.",242
-09-Ranchos II,President and Vice President of the United States,"NADER, RALPH",3
-09-Ranchos II,President and Vice President of the United States,None Of These Candidates,4
-09-Ranchos II,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+09-Ranchos II,President,"BADNARIK, MICHAEL",4
+09-Ranchos II,President,"BUSH, GEORGE W.",449
+09-Ranchos II,President,"COBB, DAVID",0
+09-Ranchos II,President,"KERRY, JOHN F.",242
+09-Ranchos II,President,"NADER, RALPH",3
+09-Ranchos II,President,None Of These Candidates,4
+09-Ranchos II,President,"PEROUTKA, MICHAEL A.",0
 09-Ranchos II,School Board Trustee Area 1 CW,"BECK, RON",270
 09-Ranchos II,School Board Trustee Area 1 CW,"ORR, LOREN R.",294
 09-Ranchos II,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",251
@@ -431,12 +431,12 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2","GIBBONS, JIM",489
 09-Ranchos II,"U.S. Representative in Congress, District 2","HANSEN, JANINE",24
 09-Ranchos II,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",8
-09-Ranchos II,United States Senator,"HURST, THOMAS L.",2
-09-Ranchos II,United States Senator,"MARINCH, GARY",1
-09-Ranchos II,United States Senator,None Of These Candidates,6
-09-Ranchos II,United States Senator,"REID, HARRY",335
-09-Ranchos II,United States Senator,"SCHUMANN, DAVID K.",8
-09-Ranchos II,United States Senator,"ZISER, RICHARD",330
+09-Ranchos II,U.S. Senate,"HURST, THOMAS L.",2
+09-Ranchos II,U.S. Senate,"MARINCH, GARY",1
+09-Ranchos II,U.S. Senate,None Of These Candidates,6
+09-Ranchos II,U.S. Senate,"REID, HARRY",335
+09-Ranchos II,U.S. Senate,"SCHUMANN, DAVID K.",8
+09-Ranchos II,U.S. Senate,"ZISER, RICHARD",330
 10-TRE,County Commissioner District 1,"BAUSHKE, JAMES L.",599
 10-TRE,County Commissioner District 3,"DUPUIS, SAM",86
 10-TRE,County Commissioner District 3,"FORAKER-THOMPSON, JANE",248
@@ -447,13 +447,13 @@ precinct,office,candidate,votes
 10-TRE,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",415
 10-TRE,East Fork Swimming Pool Dist,"LENHART, WARREN",303
 10-TRE,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",253
-10-TRE,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-10-TRE,President and Vice President of the United States,"BUSH, GEORGE W.",513
-10-TRE,President and Vice President of the United States,"COBB, DAVID",0
-10-TRE,President and Vice President of the United States,"KERRY, JOHN F.",257
-10-TRE,President and Vice President of the United States,"NADER, RALPH",6
-10-TRE,President and Vice President of the United States,None Of These Candidates,7
-10-TRE,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",4
+10-TRE,President,"BADNARIK, MICHAEL",5
+10-TRE,President,"BUSH, GEORGE W.",513
+10-TRE,President,"COBB, DAVID",0
+10-TRE,President,"KERRY, JOHN F.",257
+10-TRE,President,"NADER, RALPH",6
+10-TRE,President,None Of These Candidates,7
+10-TRE,President,"PEROUTKA, MICHAEL A.",4
 10-TRE,School Board Trustee Area 1 CW,"BECK, RON",316
 10-TRE,School Board Trustee Area 1 CW,"ORR, LOREN R.",281
 10-TRE,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",259
@@ -483,12 +483,12 @@ precinct,office,candidate,votes
 10-TRE,"U.S. Representative in Congress, District 2","GIBBONS, JIM",526
 10-TRE,"U.S. Representative in Congress, District 2","HANSEN, JANINE",33
 10-TRE,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",16
-10-TRE,United States Senator,"HURST, THOMAS L.",8
-10-TRE,United States Senator,"MARINCH, GARY",4
-10-TRE,United States Senator,None Of These Candidates,10
-10-TRE,United States Senator,"REID, HARRY",352
-10-TRE,United States Senator,"SCHUMANN, DAVID K.",18
-10-TRE,United States Senator,"ZISER, RICHARD",389
+10-TRE,U.S. Senate,"HURST, THOMAS L.",8
+10-TRE,U.S. Senate,"MARINCH, GARY",4
+10-TRE,U.S. Senate,None Of These Candidates,10
+10-TRE,U.S. Senate,"REID, HARRY",352
+10-TRE,U.S. Senate,"SCHUMANN, DAVID K.",18
+10-TRE,U.S. Senate,"ZISER, RICHARD",389
 11-Johnson Lane,County Commissioner District 1,"BAUSHKE, JAMES L.",802
 11-Johnson Lane,County Commissioner District 3,"DUPUIS, SAM",58
 11-Johnson Lane,County Commissioner District 3,"FORAKER-THOMPSON, JANE",335
@@ -499,13 +499,13 @@ precinct,office,candidate,votes
 11-Johnson Lane,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",520
 11-Johnson Lane,East Fork Swimming Pool Dist,"LENHART, WARREN",402
 11-Johnson Lane,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",380
-11-Johnson Lane,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-11-Johnson Lane,President and Vice President of the United States,"BUSH, GEORGE W.",698
-11-Johnson Lane,President and Vice President of the United States,"COBB, DAVID",1
-11-Johnson Lane,President and Vice President of the United States,"KERRY, JOHN F.",373
-11-Johnson Lane,President and Vice President of the United States,"NADER, RALPH",6
-11-Johnson Lane,President and Vice President of the United States,None Of These Candidates,4
-11-Johnson Lane,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+11-Johnson Lane,President,"BADNARIK, MICHAEL",2
+11-Johnson Lane,President,"BUSH, GEORGE W.",698
+11-Johnson Lane,President,"COBB, DAVID",1
+11-Johnson Lane,President,"KERRY, JOHN F.",373
+11-Johnson Lane,President,"NADER, RALPH",6
+11-Johnson Lane,President,None Of These Candidates,4
+11-Johnson Lane,President,"PEROUTKA, MICHAEL A.",1
 11-Johnson Lane,School Board Trustee Area 1 CW,"BECK, RON",397
 11-Johnson Lane,School Board Trustee Area 1 CW,"ORR, LOREN R.",415
 11-Johnson Lane,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",362
@@ -529,12 +529,12 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2","GIBBONS, JIM",765
 11-Johnson Lane,"U.S. Representative in Congress, District 2","HANSEN, JANINE",33
 11-Johnson Lane,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-11-Johnson Lane,United States Senator,"HURST, THOMAS L.",7
-11-Johnson Lane,United States Senator,"MARINCH, GARY",1
-11-Johnson Lane,United States Senator,None Of These Candidates,10
-11-Johnson Lane,United States Senator,"REID, HARRY",495
-11-Johnson Lane,United States Senator,"SCHUMANN, DAVID K.",5
-11-Johnson Lane,United States Senator,"ZISER, RICHARD",543
+11-Johnson Lane,U.S. Senate,"HURST, THOMAS L.",7
+11-Johnson Lane,U.S. Senate,"MARINCH, GARY",1
+11-Johnson Lane,U.S. Senate,None Of These Candidates,10
+11-Johnson Lane,U.S. Senate,"REID, HARRY",495
+11-Johnson Lane,U.S. Senate,"SCHUMANN, DAVID K.",5
+11-Johnson Lane,U.S. Senate,"ZISER, RICHARD",543
 12-Dresslerville,County Commissioner District 1,"BAUSHKE, JAMES L.",67
 12-Dresslerville,County Commissioner District 3,"DUPUIS, SAM",4
 12-Dresslerville,County Commissioner District 3,"FORAKER-THOMPSON, JANE",97
@@ -545,13 +545,13 @@ precinct,office,candidate,votes
 12-Dresslerville,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",62
 12-Dresslerville,East Fork Swimming Pool Dist,"LENHART, WARREN",38
 12-Dresslerville,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",54
-12-Dresslerville,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-12-Dresslerville,President and Vice President of the United States,"BUSH, GEORGE W.",24
-12-Dresslerville,President and Vice President of the United States,"COBB, DAVID",0
-12-Dresslerville,President and Vice President of the United States,"KERRY, JOHN F.",101
-12-Dresslerville,President and Vice President of the United States,"NADER, RALPH",0
-12-Dresslerville,President and Vice President of the United States,None Of These Candidates,2
-12-Dresslerville,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+12-Dresslerville,President,"BADNARIK, MICHAEL",1
+12-Dresslerville,President,"BUSH, GEORGE W.",24
+12-Dresslerville,President,"COBB, DAVID",0
+12-Dresslerville,President,"KERRY, JOHN F.",101
+12-Dresslerville,President,"NADER, RALPH",0
+12-Dresslerville,President,None Of These Candidates,2
+12-Dresslerville,President,"PEROUTKA, MICHAEL A.",0
 12-Dresslerville,School Board Trustee Area 1 CW,"BECK, RON",60
 12-Dresslerville,School Board Trustee Area 1 CW,"ORR, LOREN R.",46
 12-Dresslerville,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",33
@@ -578,12 +578,12 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2","GIBBONS, JIM",34
 12-Dresslerville,"U.S. Representative in Congress, District 2","HANSEN, JANINE",8
 12-Dresslerville,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",1
-12-Dresslerville,United States Senator,"HURST, THOMAS L.",0
-12-Dresslerville,United States Senator,"MARINCH, GARY",0
-12-Dresslerville,United States Senator,None Of These Candidates,4
-12-Dresslerville,United States Senator,"REID, HARRY",105
-12-Dresslerville,United States Senator,"SCHUMANN, DAVID K.",3
-12-Dresslerville,United States Senator,"ZISER, RICHARD",14
+12-Dresslerville,U.S. Senate,"HURST, THOMAS L.",0
+12-Dresslerville,U.S. Senate,"MARINCH, GARY",0
+12-Dresslerville,U.S. Senate,None Of These Candidates,4
+12-Dresslerville,U.S. Senate,"REID, HARRY",105
+12-Dresslerville,U.S. Senate,"SCHUMANN, DAVID K.",3
+12-Dresslerville,U.S. Senate,"ZISER, RICHARD",14
 13-Indian Hills - West,County Commissioner District 1,"BAUSHKE, JAMES L.",664
 13-Indian Hills - West,County Commissioner District 3,"DUPUIS, SAM",61
 13-Indian Hills - West,County Commissioner District 3,"FORAKER-THOMPSON, JANE",307
@@ -598,13 +598,13 @@ precinct,office,candidate,votes
 13-Indian Hills - West,Indian Hills G I D,"KRUSER, RONALD",234
 13-Indian Hills - West,Indian Hills G I D,"LAU, LAURA",353
 13-Indian Hills - West,Indian Hills G I D,"NELSON, BRIAN L.",283
-13-Indian Hills - West,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-13-Indian Hills - West,President and Vice President of the United States,"BUSH, GEORGE W.",497
-13-Indian Hills - West,President and Vice President of the United States,"COBB, DAVID",2
-13-Indian Hills - West,President and Vice President of the United States,"KERRY, JOHN F.",368
-13-Indian Hills - West,President and Vice President of the United States,"NADER, RALPH",12
-13-Indian Hills - West,President and Vice President of the United States,None Of These Candidates,5
-13-Indian Hills - West,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",5
+13-Indian Hills - West,President,"BADNARIK, MICHAEL",4
+13-Indian Hills - West,President,"BUSH, GEORGE W.",497
+13-Indian Hills - West,President,"COBB, DAVID",2
+13-Indian Hills - West,President,"KERRY, JOHN F.",368
+13-Indian Hills - West,President,"NADER, RALPH",12
+13-Indian Hills - West,President,None Of These Candidates,5
+13-Indian Hills - West,President,"PEROUTKA, MICHAEL A.",5
 13-Indian Hills - West,School Board Trustee Area 1 CW,"BECK, RON",369
 13-Indian Hills - West,School Board Trustee Area 1 CW,"ORR, LOREN R.",312
 13-Indian Hills - West,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",281
@@ -628,12 +628,12 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","GIBBONS, JIM",595
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","HANSEN, JANINE",35
 13-Indian Hills - West,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",16
-13-Indian Hills - West,United States Senator,"HURST, THOMAS L.",18
-13-Indian Hills - West,United States Senator,"MARINCH, GARY",2
-13-Indian Hills - West,United States Senator,None Of These Candidates,17
-13-Indian Hills - West,United States Senator,"REID, HARRY",464
-13-Indian Hills - West,United States Senator,"SCHUMANN, DAVID K.",13
-13-Indian Hills - West,United States Senator,"ZISER, RICHARD",358
+13-Indian Hills - West,U.S. Senate,"HURST, THOMAS L.",18
+13-Indian Hills - West,U.S. Senate,"MARINCH, GARY",2
+13-Indian Hills - West,U.S. Senate,None Of These Candidates,17
+13-Indian Hills - West,U.S. Senate,"REID, HARRY",464
+13-Indian Hills - West,U.S. Senate,"SCHUMANN, DAVID K.",13
+13-Indian Hills - West,U.S. Senate,"ZISER, RICHARD",358
 14-Pinenut,County Commissioner District 1,"BAUSHKE, JAMES L.",412
 14-Pinenut,County Commissioner District 3,"DUPUIS, SAM",36
 14-Pinenut,County Commissioner District 3,"FORAKER-THOMPSON, JANE",112
@@ -644,12 +644,12 @@ precinct,office,candidate,votes
 14-Pinenut,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",223
 14-Pinenut,East Fork Swimming Pool Dist,"LENHART, WARREN",168
 14-Pinenut,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",185
-14-Pinenut,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-14-Pinenut,President and Vice President of the United States,"BUSH, GEORGE W.",400
-14-Pinenut,President and Vice President of the United States,"COBB, DAVID",0
-14-Pinenut,President and Vice President of the United States,"KERRY, JOHN F.",131
-14-Pinenut,President and Vice President of the United States,"NADER, RALPH",5
-15-Valley,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+14-Pinenut,President,"BADNARIK, MICHAEL",3
+14-Pinenut,President,"BUSH, GEORGE W.",400
+14-Pinenut,President,"COBB, DAVID",0
+14-Pinenut,President,"KERRY, JOHN F.",131
+14-Pinenut,President,"NADER, RALPH",5
+15-Valley,President,"PEROUTKA, MICHAEL A.",1
 15-Valley,School Board Trustee Area 1 CW,"BECK, RON",112
 15-Valley,School Board Trustee Area 1 CW,"ORR, LOREN R.",118
 15-Valley,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",122
@@ -673,12 +673,12 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2","GIBBONS, JIM",226
 15-Valley,"U.S. Representative in Congress, District 2","HANSEN, JANINE",11
 15-Valley,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",3
-15-Valley,United States Senator,"HURST, THOMAS L.",3
-15-Valley,United States Senator,"MARINCH, GARY",1
-15-Valley,United States Senator,None Of These Candidates,0
-15-Valley,United States Senator,"REID, HARRY",118
-15-Valley,United States Senator,"SCHUMANN, DAVID K.",3
-15-Valley,United States Senator,"ZISER, RICHARD",168
+15-Valley,U.S. Senate,"HURST, THOMAS L.",3
+15-Valley,U.S. Senate,"MARINCH, GARY",1
+15-Valley,U.S. Senate,None Of These Candidates,0
+15-Valley,U.S. Senate,"REID, HARRY",118
+15-Valley,U.S. Senate,"SCHUMANN, DAVID K.",3
+15-Valley,U.S. Senate,"ZISER, RICHARD",168
 16-Mottsville,County Commissioner District 1,"BAUSHKE, JAMES L.",433
 16-Mottsville,County Commissioner District 3,"DUPUIS, SAM",34
 16-Mottsville,County Commissioner District 3,"FORAKER-THOMPSON, JANE",150
@@ -689,13 +689,13 @@ precinct,office,candidate,votes
 16-Mottsville,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",256
 16-Mottsville,East Fork Swimming Pool Dist,"LENHART, WARREN",205
 16-Mottsville,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",232
-16-Mottsville,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-16-Mottsville,President and Vice President of the United States,"BUSH, GEORGE W.",417
-16-Mottsville,President and Vice President of the United States,"COBB, DAVID",0
-16-Mottsville,President and Vice President of the United States,"KERRY, JOHN F.",170
-16-Mottsville,President and Vice President of the United States,"NADER, RALPH",0
-16-Mottsville,President and Vice President of the United States,None Of These Candidates,5
-16-Mottsville,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+16-Mottsville,President,"BADNARIK, MICHAEL",2
+16-Mottsville,President,"BUSH, GEORGE W.",417
+16-Mottsville,President,"COBB, DAVID",0
+16-Mottsville,President,"KERRY, JOHN F.",170
+16-Mottsville,President,"NADER, RALPH",0
+16-Mottsville,President,None Of These Candidates,5
+16-Mottsville,President,"PEROUTKA, MICHAEL A.",0
 16-Mottsville,School Board Trustee Area 1 CW,"BECK, RON",198
 16-Mottsville,School Board Trustee Area 1 CW,"ORR, LOREN R.",245
 16-Mottsville,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",235
@@ -719,12 +719,12 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2","GIBBONS, JIM",464
 16-Mottsville,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 16-Mottsville,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-16-Mottsville,United States Senator,"HURST, THOMAS L.",4
-16-Mottsville,United States Senator,"MARINCH, GARY",2
-16-Mottsville,United States Senator,None Of These Candidates,3
-16-Mottsville,United States Senator,"REID, HARRY",226
-16-Mottsville,United States Senator,"SCHUMANN, DAVID K.",3
-16-Mottsville,United States Senator,"ZISER, RICHARD",345
+16-Mottsville,U.S. Senate,"HURST, THOMAS L.",4
+16-Mottsville,U.S. Senate,"MARINCH, GARY",2
+16-Mottsville,U.S. Senate,None Of These Candidates,3
+16-Mottsville,U.S. Senate,"REID, HARRY",226
+16-Mottsville,U.S. Senate,"SCHUMANN, DAVID K.",3
+16-Mottsville,U.S. Senate,"ZISER, RICHARD",345
 17-Ruhenstroth,County Commissioner District 1,"BAUSHKE, JAMES L.",702
 17-Ruhenstroth,County Commissioner District 3,"DUPUIS, SAM",63
 17-Ruhenstroth,County Commissioner District 3,"FORAKER-THOMPSON, JANE",184
@@ -735,13 +735,13 @@ precinct,office,candidate,votes
 17-Ruhenstroth,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",434
 17-Ruhenstroth,East Fork Swimming Pool Dist,"LENHART, WARREN",323
 17-Ruhenstroth,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",326
-17-Ruhenstroth,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-17-Ruhenstroth,President and Vice President of the United States,"BUSH, GEORGE W.",607
-17-Ruhenstroth,President and Vice President of the United States,"COBB, DAVID",2
-17-Ruhenstroth,President and Vice President of the United States,"KERRY, JOHN F.",260
-17-Ruhenstroth,President and Vice President of the United States,"NADER, RALPH",0
-17-Ruhenstroth,President and Vice President of the United States,None Of These Candidates,3
-17-Ruhenstroth,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",3
+17-Ruhenstroth,President,"BADNARIK, MICHAEL",4
+17-Ruhenstroth,President,"BUSH, GEORGE W.",607
+17-Ruhenstroth,President,"COBB, DAVID",2
+17-Ruhenstroth,President,"KERRY, JOHN F.",260
+17-Ruhenstroth,President,"NADER, RALPH",0
+17-Ruhenstroth,President,None Of These Candidates,3
+17-Ruhenstroth,President,"PEROUTKA, MICHAEL A.",3
 17-Ruhenstroth,School Board Trustee Area 1 CW,"BECK, RON",333
 17-Ruhenstroth,School Board Trustee Area 1 CW,"ORR, LOREN R.",347
 17-Ruhenstroth,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",335
@@ -768,12 +768,12 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","GIBBONS, JIM",653
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","HANSEN, JANINE",23
 17-Ruhenstroth,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",13
-17-Ruhenstroth,United States Senator,"HURST, THOMAS L.",9
-17-Ruhenstroth,United States Senator,"MARINCH, GARY",1
-17-Ruhenstroth,United States Senator,None Of These Candidates,12
-17-Ruhenstroth,United States Senator,"REID, HARRY",333
-17-Ruhenstroth,United States Senator,"SCHUMANN, DAVID K.",8
-17-Ruhenstroth,United States Senator,"ZISER, RICHARD",493
+17-Ruhenstroth,U.S. Senate,"HURST, THOMAS L.",9
+17-Ruhenstroth,U.S. Senate,"MARINCH, GARY",1
+17-Ruhenstroth,U.S. Senate,None Of These Candidates,12
+17-Ruhenstroth,U.S. Senate,"REID, HARRY",333
+17-Ruhenstroth,U.S. Senate,"SCHUMANN, DAVID K.",8
+17-Ruhenstroth,U.S. Senate,"ZISER, RICHARD",493
 18-Ranchos III,County Commissioner District 1,"BAUSHKE, JAMES L.",595
 18-Ranchos III,County Commissioner District 3,"DUPUIS, SAM",60
 18-Ranchos III,County Commissioner District 3,"FORAKER-THOMPSON, JANE",238
@@ -788,13 +788,13 @@ precinct,office,candidate,votes
 18-Ranchos III,Gardnerville Ranchos G I D,"BUDDEN, ED",265
 18-Ranchos III,Gardnerville Ranchos G I D,"FIELDS, JIMMIE H.",150
 18-Ranchos III,Gardnerville Ranchos G I D,"PAGE, BEVERLY J.",276
-18-Ranchos III,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-18-Ranchos III,President and Vice President of the United States,"BUSH, GEORGE W.",490
-18-Ranchos III,President and Vice President of the United States,"COBB, DAVID",3
-18-Ranchos III,President and Vice President of the United States,"KERRY, JOHN F.",285
-18-Ranchos III,President and Vice President of the United States,"NADER, RALPH",4
-18-Ranchos III,President and Vice President of the United States,None Of These Candidates,4
-18-Ranchos III,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",7
+18-Ranchos III,President,"BADNARIK, MICHAEL",3
+18-Ranchos III,President,"BUSH, GEORGE W.",490
+18-Ranchos III,President,"COBB, DAVID",3
+18-Ranchos III,President,"KERRY, JOHN F.",285
+18-Ranchos III,President,"NADER, RALPH",4
+18-Ranchos III,President,None Of These Candidates,4
+18-Ranchos III,President,"PEROUTKA, MICHAEL A.",7
 18-Ranchos III,School Board Trustee Area 1 CW,"BECK, RON",291
 18-Ranchos III,School Board Trustee Area 1 CW,"ORR, LOREN R.",352
 18-Ranchos III,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",286
@@ -818,12 +818,12 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2","GIBBONS, JIM",566
 18-Ranchos III,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 18-Ranchos III,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",13
-18-Ranchos III,United States Senator,"HURST, THOMAS L.",7
-18-Ranchos III,United States Senator,"MARINCH, GARY",4
-18-Ranchos III,United States Senator,None Of These Candidates,11
-18-Ranchos III,United States Senator,"REID, HARRY",365
-18-Ranchos III,United States Senator,"SCHUMANN, DAVID K.",9
-18-Ranchos III,United States Senator,"ZISER, RICHARD",387
+18-Ranchos III,U.S. Senate,"HURST, THOMAS L.",7
+18-Ranchos III,U.S. Senate,"MARINCH, GARY",4
+18-Ranchos III,U.S. Senate,None Of These Candidates,11
+18-Ranchos III,U.S. Senate,"REID, HARRY",365
+18-Ranchos III,U.S. Senate,"SCHUMANN, DAVID K.",9
+18-Ranchos III,U.S. Senate,"ZISER, RICHARD",387
 19-Ranchos IV,County Commissioner District 1,"BAUSHKE, JAMES L.",589
 19-Ranchos IV,County Commissioner District 3,"DUPUIS, SAM",40
 19-Ranchos IV,County Commissioner District 3,"FORAKER-THOMPSON, JANE",251
@@ -838,13 +838,13 @@ precinct,office,candidate,votes
 19-Ranchos IV,Gardnerville Ranchos G I D,"BUDDEN, ED",211
 19-Ranchos IV,Gardnerville Ranchos G I D,"FIELDS, JIMMIE H.",298
 19-Ranchos IV,Gardnerville Ranchos G I D,"PAGE, BEVERLY J.",297
-19-Ranchos IV,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-19-Ranchos IV,President and Vice President of the United States,"BUSH, GEORGE W.",494
-19-Ranchos IV,President and Vice President of the United States,"COBB, DAVID",0
-19-Ranchos IV,President and Vice President of the United States,"KERRY, JOHN F.",303
-19-Ranchos IV,President and Vice President of the United States,"NADER, RALPH",5
-19-Ranchos IV,President and Vice President of the United States,None Of These Candidates,4
-19-Ranchos IV,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+19-Ranchos IV,President,"BADNARIK, MICHAEL",1
+19-Ranchos IV,President,"BUSH, GEORGE W.",494
+19-Ranchos IV,President,"COBB, DAVID",0
+19-Ranchos IV,President,"KERRY, JOHN F.",303
+19-Ranchos IV,President,"NADER, RALPH",5
+19-Ranchos IV,President,None Of These Candidates,4
+19-Ranchos IV,President,"PEROUTKA, MICHAEL A.",1
 19-Ranchos IV,School Board Trustee Area 1 CW,"BECK, RON",292
 19-Ranchos IV,School Board Trustee Area 1 CW,"ORR, LOREN R.",337
 19-Ranchos IV,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",284
@@ -871,12 +871,12 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2","GIBBONS, JIM",542
 19-Ranchos IV,"U.S. Representative in Congress, District 2","HANSEN, JANINE",31
 19-Ranchos IV,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",14
-19-Ranchos IV,United States Senator,"HURST, THOMAS L.",6
-19-Ranchos IV,United States Senator,"MARINCH, GARY",4
-19-Ranchos IV,United States Senator,None Of These Candidates,9
-19-Ranchos IV,United States Senator,"REID, HARRY",367
-19-Ranchos IV,United States Senator,"SCHUMANN, DAVID K.",4
-19-Ranchos IV,United States Senator,"ZISER, RICHARD",407
+19-Ranchos IV,U.S. Senate,"HURST, THOMAS L.",6
+19-Ranchos IV,U.S. Senate,"MARINCH, GARY",4
+19-Ranchos IV,U.S. Senate,None Of These Candidates,9
+19-Ranchos IV,U.S. Senate,"REID, HARRY",367
+19-Ranchos IV,U.S. Senate,"SCHUMANN, DAVID K.",4
+19-Ranchos IV,U.S. Senate,"ZISER, RICHARD",407
 20-Birch/Ranchos,County Commissioner District 1,"BAUSHKE, JAMES L.",671
 20-Birch/Ranchos,County Commissioner District 3,"DUPUIS, SAM",72
 20-Birch/Ranchos,County Commissioner District 3,"FORAKER-THOMPSON, JANE",299
@@ -891,13 +891,13 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,Gardnerville Ranchos G I D,"BUDDEN, ED",225
 20-Birch/Ranchos,Gardnerville Ranchos G I D,"FIELDS, JIMMIE H.",276
 20-Birch/Ranchos,Gardnerville Ranchos G I D,"PAGE, BEVERLY J.",342
-20-Birch/Ranchos,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-20-Birch/Ranchos,President and Vice President of the United States,"BUSH, GEORGE W.",506
-20-Birch/Ranchos,President and Vice President of the United States,"COBB, DAVID",2
-20-Birch/Ranchos,President and Vice President of the United States,"KERRY, JOHN F.",373
-20-Birch/Ranchos,President and Vice President of the United States,"NADER, RALPH",4
-20-Birch/Ranchos,President and Vice President of the United States,None Of These Candidates,9
-20-Birch/Ranchos,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+20-Birch/Ranchos,President,"BADNARIK, MICHAEL",3
+20-Birch/Ranchos,President,"BUSH, GEORGE W.",506
+20-Birch/Ranchos,President,"COBB, DAVID",2
+20-Birch/Ranchos,President,"KERRY, JOHN F.",373
+20-Birch/Ranchos,President,"NADER, RALPH",4
+20-Birch/Ranchos,President,None Of These Candidates,9
+20-Birch/Ranchos,President,"PEROUTKA, MICHAEL A.",2
 20-Birch/Ranchos,School Board Trustee Area 1 CW,"BECK, RON",304
 20-Birch/Ranchos,School Board Trustee Area 1 CW,"ORR, LOREN R.",382
 20-Birch/Ranchos,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",317
@@ -924,12 +924,12 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","GIBBONS, JIM",581
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","HANSEN, JANINE",30
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",9
-20-Birch/Ranchos,United States Senator,"HURST, THOMAS L.",3
-20-Birch/Ranchos,United States Senator,"MARINCH, GARY",2
-20-Birch/Ranchos,United States Senator,None Of These Candidates,12
-20-Birch/Ranchos,United States Senator,"REID, HARRY",461
-20-Birch/Ranchos,United States Senator,"SCHUMANN, DAVID K.",8
-20-Birch/Ranchos,United States Senator,"ZISER, RICHARD",392
+20-Birch/Ranchos,U.S. Senate,"HURST, THOMAS L.",3
+20-Birch/Ranchos,U.S. Senate,"MARINCH, GARY",2
+20-Birch/Ranchos,U.S. Senate,None Of These Candidates,12
+20-Birch/Ranchos,U.S. Senate,"REID, HARRY",461
+20-Birch/Ranchos,U.S. Senate,"SCHUMANN, DAVID K.",8
+20-Birch/Ranchos,U.S. Senate,"ZISER, RICHARD",392
 21-Wildhorse,County Commissioner District 1,"BAUSHKE, JAMES L.",732
 21-Wildhorse,County Commissioner District 3,"DUPUIS, SAM",53
 21-Wildhorse,County Commissioner District 3,"FORAKER-THOMPSON, JANE",228
@@ -940,13 +940,13 @@ precinct,office,candidate,votes
 21-Wildhorse,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",467
 21-Wildhorse,East Fork Swimming Pool Dist,"LENHART, WARREN",379
 21-Wildhorse,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",326
-21-Wildhorse,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-21-Wildhorse,President and Vice President of the United States,"BUSH, GEORGE W.",672
-21-Wildhorse,President and Vice President of the United States,"COBB, DAVID",1
-21-Wildhorse,President and Vice President of the United States,"KERRY, JOHN F.",255
-21-Wildhorse,President and Vice President of the United States,"NADER, RALPH",4
-21-Wildhorse,President and Vice President of the United States,None Of These Candidates,9
-21-Wildhorse,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+21-Wildhorse,President,"BADNARIK, MICHAEL",2
+21-Wildhorse,President,"BUSH, GEORGE W.",672
+21-Wildhorse,President,"COBB, DAVID",1
+21-Wildhorse,President,"KERRY, JOHN F.",255
+21-Wildhorse,President,"NADER, RALPH",4
+21-Wildhorse,President,None Of These Candidates,9
+21-Wildhorse,President,"PEROUTKA, MICHAEL A.",2
 21-Wildhorse,School Board Trustee Area 1 CW,"BECK, RON",381
 21-Wildhorse,School Board Trustee Area 1 CW,"ORR, LOREN R.",339
 21-Wildhorse,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",357
@@ -970,12 +970,12 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2","GIBBONS, JIM",725
 21-Wildhorse,"U.S. Representative in Congress, District 2","HANSEN, JANINE",28
 21-Wildhorse,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-21-Wildhorse,United States Senator,"HURST, THOMAS L.",7
-21-Wildhorse,United States Senator,"MARINCH, GARY",5
-21-Wildhorse,United States Senator,None Of These Candidates,12
-21-Wildhorse,United States Senator,"REID, HARRY",352
-21-Wildhorse,United States Senator,"SCHUMANN, DAVID K.",8
-21-Wildhorse,United States Senator,"ZISER, RICHARD",538
+21-Wildhorse,U.S. Senate,"HURST, THOMAS L.",7
+21-Wildhorse,U.S. Senate,"MARINCH, GARY",5
+21-Wildhorse,U.S. Senate,None Of These Candidates,12
+21-Wildhorse,U.S. Senate,"REID, HARRY",352
+21-Wildhorse,U.S. Senate,"SCHUMANN, DAVID K.",8
+21-Wildhorse,U.S. Senate,"ZISER, RICHARD",538
 22-Saratoga,County Commissioner District 1,"BAUSHKE, JAMES L.",953
 22-Saratoga,County Commissioner District 3,"DUPUIS, SAM",76
 22-Saratoga,County Commissioner District 3,"FORAKER-THOMPSON, JANE",367
@@ -986,13 +986,13 @@ precinct,office,candidate,votes
 22-Saratoga,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",632
 22-Saratoga,East Fork Swimming Pool Dist,"LENHART, WARREN",473
 22-Saratoga,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",424
-22-Saratoga,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-22-Saratoga,President and Vice President of the United States,"BUSH, GEORGE W.",846
-22-Saratoga,President and Vice President of the United States,"COBB, DAVID",0
-22-Saratoga,President and Vice President of the United States,"KERRY, JOHN F.",386
-22-Saratoga,President and Vice President of the United States,"NADER, RALPH",4
-22-Saratoga,President and Vice President of the United States,None Of These Candidates,10
-22-Saratoga,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+22-Saratoga,President,"BADNARIK, MICHAEL",5
+22-Saratoga,President,"BUSH, GEORGE W.",846
+22-Saratoga,President,"COBB, DAVID",0
+22-Saratoga,President,"KERRY, JOHN F.",386
+22-Saratoga,President,"NADER, RALPH",4
+22-Saratoga,President,None Of These Candidates,10
+22-Saratoga,President,"PEROUTKA, MICHAEL A.",1
 22-Saratoga,School Board Trustee Area 1 CW,"BECK, RON",472
 22-Saratoga,School Board Trustee Area 1 CW,"ORR, LOREN R.",488
 22-Saratoga,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",419
@@ -1016,12 +1016,12 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","GIBBONS, JIM",609
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","HANSEN, JANINE",17
 23-Indian Hills - East,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-23-Indian Hills - East,United States Senator,"HURST, THOMAS L.",6
-23-Indian Hills - East,United States Senator,"MARINCH, GARY",1
-23-Indian Hills - East,United States Senator,None Of These Candidates,7
-23-Indian Hills - East,United States Senator,"REID, HARRY",364
-23-Indian Hills - East,United States Senator,"SCHUMANN, DAVID K.",3
-23-Indian Hills - East,United States Senator,"ZISER, RICHARD",471
+23-Indian Hills - East,U.S. Senate,"HURST, THOMAS L.",6
+23-Indian Hills - East,U.S. Senate,"MARINCH, GARY",1
+23-Indian Hills - East,U.S. Senate,None Of These Candidates,7
+23-Indian Hills - East,U.S. Senate,"REID, HARRY",364
+23-Indian Hills - East,U.S. Senate,"SCHUMANN, DAVID K.",3
+23-Indian Hills - East,U.S. Senate,"ZISER, RICHARD",471
 24-Topaz Lake,County Commissioner District 1,"BAUSHKE, JAMES L.",252
 24-Topaz Lake,County Commissioner District 3,"DUPUIS, SAM",27
 24-Topaz Lake,County Commissioner District 3,"FORAKER-THOMPSON, JANE",71
@@ -1032,13 +1032,13 @@ precinct,office,candidate,votes
 24-Topaz Lake,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",163
 24-Topaz Lake,East Fork Swimming Pool Dist,"LENHART, WARREN",124
 24-Topaz Lake,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",99
-24-Topaz Lake,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-24-Topaz Lake,President and Vice President of the United States,"BUSH, GEORGE W.",236
-24-Topaz Lake,President and Vice President of the United States,"COBB, DAVID",0
-24-Topaz Lake,President and Vice President of the United States,"KERRY, JOHN F.",73
-24-Topaz Lake,President and Vice President of the United States,"NADER, RALPH",5
-24-Topaz Lake,President and Vice President of the United States,None Of These Candidates,1
-24-Topaz Lake,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+24-Topaz Lake,President,"BADNARIK, MICHAEL",2
+24-Topaz Lake,President,"BUSH, GEORGE W.",236
+24-Topaz Lake,President,"COBB, DAVID",0
+24-Topaz Lake,President,"KERRY, JOHN F.",73
+24-Topaz Lake,President,"NADER, RALPH",5
+24-Topaz Lake,President,None Of These Candidates,1
+24-Topaz Lake,President,"PEROUTKA, MICHAEL A.",1
 24-Topaz Lake,School Board Trustee Area 1 CW,"BECK, RON",133
 24-Topaz Lake,School Board Trustee Area 1 CW,"ORR, LOREN R.",107
 24-Topaz Lake,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",111
@@ -1065,12 +1065,12 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2","GIBBONS, JIM",241
 24-Topaz Lake,"U.S. Representative in Congress, District 2","HANSEN, JANINE",10
 24-Topaz Lake,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-24-Topaz Lake,United States Senator,"HURST, THOMAS L.",4
-24-Topaz Lake,United States Senator,"MARINCH, GARY",1
-24-Topaz Lake,United States Senator,None Of These Candidates,8
-24-Topaz Lake,United States Senator,"REID, HARRY",98
-24-Topaz Lake,United States Senator,"SCHUMANN, DAVID K.",5
-24-Topaz Lake,United States Senator,"ZISER, RICHARD",192
+24-Topaz Lake,U.S. Senate,"HURST, THOMAS L.",4
+24-Topaz Lake,U.S. Senate,"MARINCH, GARY",1
+24-Topaz Lake,U.S. Senate,None Of These Candidates,8
+24-Topaz Lake,U.S. Senate,"REID, HARRY",98
+24-Topaz Lake,U.S. Senate,"SCHUMANN, DAVID K.",5
+24-Topaz Lake,U.S. Senate,"ZISER, RICHARD",192
 25-Pleasantview,County Commissioner District 1,"BAUSHKE, JAMES L.",811
 25-Pleasantview,County Commissioner District 3,"DUPUIS, SAM",55
 25-Pleasantview,County Commissioner District 3,"FORAKER-THOMPSON, JANE",297
@@ -1085,13 +1085,13 @@ precinct,office,candidate,votes
 25-Pleasantview,Gardnerville Ranchos G I D,"BUDDEN, ED",309
 25-Pleasantview,Gardnerville Ranchos G I D,"FIELDS, JIMMIE H.",328
 25-Pleasantview,Gardnerville Ranchos G I D,"PAGE, BEVERLY J.",410
-25-Pleasantview,President and Vice President of the United States,"BADNARIK, MICHAEL",4
-25-Pleasantview,President and Vice President of the United States,"BUSH, GEORGE W.",688
-25-Pleasantview,President and Vice President of the United States,"COBB, DAVID",0
-25-Pleasantview,President and Vice President of the United States,"KERRY, JOHN F.",356
-25-Pleasantview,President and Vice President of the United States,"NADER, RALPH",7
-25-Pleasantview,President and Vice President of the United States,None Of These Candidates,6
-25-Pleasantview,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+25-Pleasantview,President,"BADNARIK, MICHAEL",4
+25-Pleasantview,President,"BUSH, GEORGE W.",688
+25-Pleasantview,President,"COBB, DAVID",0
+25-Pleasantview,President,"KERRY, JOHN F.",356
+25-Pleasantview,President,"NADER, RALPH",7
+25-Pleasantview,President,None Of These Candidates,6
+25-Pleasantview,President,"PEROUTKA, MICHAEL A.",1
 25-Pleasantview,School Board Trustee Area 1 CW,"BECK, RON",397
 25-Pleasantview,School Board Trustee Area 1 CW,"ORR, LOREN R.",430
 25-Pleasantview,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",392
@@ -1115,12 +1115,12 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2","GIBBONS, JIM",750
 25-Pleasantview,"U.S. Representative in Congress, District 2","HANSEN, JANINE",37
 25-Pleasantview,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",24
-25-Pleasantview,United States Senator,"HURST, THOMAS L.",16
-25-Pleasantview,United States Senator,"MARINCH, GARY",4
-25-Pleasantview,United States Senator,None Of These Candidates,14
-25-Pleasantview,United States Senator,"REID, HARRY",452
-25-Pleasantview,United States Senator,"SCHUMANN, DAVID K.",6
-25-Pleasantview,United States Senator,"ZISER, RICHARD",551
+25-Pleasantview,U.S. Senate,"HURST, THOMAS L.",16
+25-Pleasantview,U.S. Senate,"MARINCH, GARY",4
+25-Pleasantview,U.S. Senate,None Of These Candidates,14
+25-Pleasantview,U.S. Senate,"REID, HARRY",452
+25-Pleasantview,U.S. Senate,"SCHUMANN, DAVID K.",6
+25-Pleasantview,U.S. Senate,"ZISER, RICHARD",551
 26-Westwood,County Commissioner District 1,"BAUSHKE, JAMES L.",360
 26-Westwood,County Commissioner District 3,"DUPUIS, SAM",29
 26-Westwood,County Commissioner District 3,"FORAKER-THOMPSON, JANE",108
@@ -1131,13 +1131,13 @@ precinct,office,candidate,votes
 26-Westwood,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",204
 26-Westwood,East Fork Swimming Pool Dist,"LENHART, WARREN",164
 26-Westwood,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",185
-26-Westwood,President and Vice President of the United States,"BADNARIK, MICHAEL",5
-26-Westwood,President and Vice President of the United States,"BUSH, GEORGE W.",314
-26-Westwood,President and Vice President of the United States,"COBB, DAVID",0
-26-Westwood,President and Vice President of the United States,"KERRY, JOHN F.",130
-26-Westwood,President and Vice President of the United States,"NADER, RALPH",1
-26-Westwood,President and Vice President of the United States,None Of These Candidates,2
-26-Westwood,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+26-Westwood,President,"BADNARIK, MICHAEL",5
+26-Westwood,President,"BUSH, GEORGE W.",314
+26-Westwood,President,"COBB, DAVID",0
+26-Westwood,President,"KERRY, JOHN F.",130
+26-Westwood,President,"NADER, RALPH",1
+26-Westwood,President,None Of These Candidates,2
+26-Westwood,President,"PEROUTKA, MICHAEL A.",0
 26-Westwood,School Board Trustee Area 1 CW,"BECK, RON",151
 26-Westwood,School Board Trustee Area 1 CW,"ORR, LOREN R.",212
 26-Westwood,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",189
@@ -1164,12 +1164,12 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2","GIBBONS, JIM",349
 26-Westwood,"U.S. Representative in Congress, District 2","HANSEN, JANINE",16
 26-Westwood,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-26-Westwood,United States Senator,"HURST, THOMAS L.",1
-26-Westwood,United States Senator,"MARINCH, GARY",1
-26-Westwood,United States Senator,None Of These Candidates,8
-26-Westwood,United States Senator,"REID, HARRY",177
-26-Westwood,United States Senator,"SCHUMANN, DAVID K.",5
-26-Westwood,United States Senator,"ZISER, RICHARD",250
+26-Westwood,U.S. Senate,"HURST, THOMAS L.",1
+26-Westwood,U.S. Senate,"MARINCH, GARY",1
+26-Westwood,U.S. Senate,None Of These Candidates,8
+26-Westwood,U.S. Senate,"REID, HARRY",177
+26-Westwood,U.S. Senate,"SCHUMANN, DAVID K.",5
+26-Westwood,U.S. Senate,"ZISER, RICHARD",250
 27-Winhaven,County Commissioner District 1,"BAUSHKE, JAMES L.",499
 27-Winhaven,County Commissioner District 3,"DUPUIS, SAM",31
 27-Winhaven,County Commissioner District 3,"FORAKER-THOMPSON, JANE",199
@@ -1180,13 +1180,13 @@ precinct,office,candidate,votes
 27-Winhaven,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",343
 27-Winhaven,East Fork Swimming Pool Dist,"LENHART, WARREN",252
 27-Winhaven,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",250
-27-Winhaven,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-27-Winhaven,President and Vice President of the United States,"BUSH, GEORGE W.",419
-27-Winhaven,President and Vice President of the United States,"COBB, DAVID",1
-27-Winhaven,President and Vice President of the United States,"KERRY, JOHN F.",234
-27-Winhaven,President and Vice President of the United States,"NADER, RALPH",5
-27-Winhaven,President and Vice President of the United States,None Of These Candidates,5
-27-Winhaven,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+27-Winhaven,President,"BADNARIK, MICHAEL",3
+27-Winhaven,President,"BUSH, GEORGE W.",419
+27-Winhaven,President,"COBB, DAVID",1
+27-Winhaven,President,"KERRY, JOHN F.",234
+27-Winhaven,President,"NADER, RALPH",5
+27-Winhaven,President,None Of These Candidates,5
+27-Winhaven,President,"PEROUTKA, MICHAEL A.",0
 27-Winhaven,School Board Trustee Area 1 CW,"BECK, RON",221
 27-Winhaven,School Board Trustee Area 1 CW,"ORR, LOREN R.",283
 27-Winhaven,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",238
@@ -1213,12 +1213,12 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2","GIBBONS, JIM",478
 27-Winhaven,"U.S. Representative in Congress, District 2","HANSEN, JANINE",12
 27-Winhaven,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",12
-27-Winhaven,United States Senator,"HURST, THOMAS L.",7
-27-Winhaven,United States Senator,"MARINCH, GARY",1
-27-Winhaven,United States Senator,None Of These Candidates,7
-27-Winhaven,United States Senator,"REID, HARRY",312
-27-Winhaven,United States Senator,"SCHUMANN, DAVID K.",3
-27-Winhaven,United States Senator,"ZISER, RICHARD",326
+27-Winhaven,U.S. Senate,"HURST, THOMAS L.",7
+27-Winhaven,U.S. Senate,"MARINCH, GARY",1
+27-Winhaven,U.S. Senate,None Of These Candidates,7
+27-Winhaven,U.S. Senate,"REID, HARRY",312
+27-Winhaven,U.S. Senate,"SCHUMANN, DAVID K.",3
+27-Winhaven,U.S. Senate,"ZISER, RICHARD",326
 28-Orchard Road,County Commissioner District 1,"BAUSHKE, JAMES L.",190
 28-Orchard Road,County Commissioner District 3,"DUPUIS, SAM",17
 28-Orchard Road,County Commissioner District 3,"FORAKER-THOMPSON, JANE",45
@@ -1229,13 +1229,13 @@ precinct,office,candidate,votes
 28-Orchard Road,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",106
 28-Orchard Road,East Fork Swimming Pool Dist,"LENHART, WARREN",94
 28-Orchard Road,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",90
-28-Orchard Road,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-28-Orchard Road,President and Vice President of the United States,"BUSH, GEORGE W.",183
-28-Orchard Road,President and Vice President of the United States,"COBB, DAVID",0
-28-Orchard Road,President and Vice President of the United States,"KERRY, JOHN F.",61
-28-Orchard Road,President and Vice President of the United States,"NADER, RALPH",1
-28-Orchard Road,President and Vice President of the United States,None Of These Candidates,2
-28-Orchard Road,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",2
+28-Orchard Road,President,"BADNARIK, MICHAEL",0
+28-Orchard Road,President,"BUSH, GEORGE W.",183
+28-Orchard Road,President,"COBB, DAVID",0
+28-Orchard Road,President,"KERRY, JOHN F.",61
+28-Orchard Road,President,"NADER, RALPH",1
+28-Orchard Road,President,None Of These Candidates,2
+28-Orchard Road,President,"PEROUTKA, MICHAEL A.",2
 28-Orchard Road,School Board Trustee Area 1 CW,"BECK, RON",90
 28-Orchard Road,School Board Trustee Area 1 CW,"ORR, LOREN R.",86
 28-Orchard Road,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",99
@@ -1262,12 +1262,12 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2","GIBBONS, JIM",189
 28-Orchard Road,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 28-Orchard Road,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",7
-28-Orchard Road,United States Senator,"HURST, THOMAS L.",0
-28-Orchard Road,United States Senator,"MARINCH, GARY",1
-28-Orchard Road,United States Senator,None Of These Candidates,6
-28-Orchard Road,United States Senator,"REID, HARRY",75
-28-Orchard Road,United States Senator,"SCHUMANN, DAVID K.",2
-28-Orchard Road,United States Senator,"ZISER, RICHARD",160
+28-Orchard Road,U.S. Senate,"HURST, THOMAS L.",0
+28-Orchard Road,U.S. Senate,"MARINCH, GARY",1
+28-Orchard Road,U.S. Senate,None Of These Candidates,6
+28-Orchard Road,U.S. Senate,"REID, HARRY",75
+28-Orchard Road,U.S. Senate,"SCHUMANN, DAVID K.",2
+28-Orchard Road,U.S. Senate,"ZISER, RICHARD",160
 29-Autumn Hils,County Commissioner District 1,"BAUSHKE, JAMES L.",339
 29-Autumn Hils,County Commissioner District 3,"DUPUIS, SAM",33
 29-Autumn Hils,County Commissioner District 3,"FORAKER-THOMPSON, JANE",124
@@ -1278,13 +1278,13 @@ precinct,office,candidate,votes
 29-Autumn Hils,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",189
 29-Autumn Hils,East Fork Swimming Pool Dist,"LENHART, WARREN",150
 29-Autumn Hils,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",150
-29-Autumn Hils,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-29-Autumn Hils,President and Vice President of the United States,"BUSH, GEORGE W.",315
-29-Autumn Hils,President and Vice President of the United States,"COBB, DAVID",0
-29-Autumn Hils,President and Vice President of the United States,"KERRY, JOHN F.",141
-29-Autumn Hils,President and Vice President of the United States,"NADER, RALPH",0
-29-Autumn Hils,President and Vice President of the United States,None Of These Candidates,2
-29-Autumn Hils,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+29-Autumn Hils,President,"BADNARIK, MICHAEL",3
+29-Autumn Hils,President,"BUSH, GEORGE W.",315
+29-Autumn Hils,President,"COBB, DAVID",0
+29-Autumn Hils,President,"KERRY, JOHN F.",141
+29-Autumn Hils,President,"NADER, RALPH",0
+29-Autumn Hils,President,None Of These Candidates,2
+29-Autumn Hils,President,"PEROUTKA, MICHAEL A.",1
 29-Autumn Hils,School Board Trustee Area 1 CW,"BECK, RON",162
 29-Autumn Hils,School Board Trustee Area 1 CW,"ORR, LOREN R.",161
 29-Autumn Hils,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",168
@@ -1308,12 +1308,12 @@ precinct,office,candidate,votes
 29-Autumn Hils,"U.S. Representative in Congress, District 2","GIBBONS, JIM",341
 29-Autumn Hils,"U.S. Representative in Congress, District 2","HANSEN, JANINE",10
 29-Autumn Hils,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",8
-29-Autumn Hils,United States Senator,"HURST, THOMAS L.",7
-29-Autumn Hils,United States Senator,"MARINCH, GARY",0
-29-Autumn Hils,United States Senator,None Of These Candidates,7
-29-Autumn Hils,United States Senator,"REID, HARRY",163
-29-Autumn Hils,United States Senator,"SCHUMANN, DAVID K.",3
-29-Autumn Hils,United States Senator,"ZISER, RICHARD",275
+29-Autumn Hils,U.S. Senate,"HURST, THOMAS L.",7
+29-Autumn Hils,U.S. Senate,"MARINCH, GARY",0
+29-Autumn Hils,U.S. Senate,None Of These Candidates,7
+29-Autumn Hils,U.S. Senate,"REID, HARRY",163
+29-Autumn Hils,U.S. Senate,"SCHUMANN, DAVID K.",3
+29-Autumn Hils,U.S. Senate,"ZISER, RICHARD",275
 30-East Fork,County Commissioner District 1,"BAUSHKE, JAMES L.",
 30-East Fork,County Commissioner District 3,"DUPUIS, SAM",
 30-East Fork,County Commissioner District 3,"FORAKER-THOMPSON, JANE",
@@ -1324,13 +1324,13 @@ precinct,office,candidate,votes
 30-East Fork,East Fork Swimming Pool Dist,"BRUNNER, PATRICIA",
 30-East Fork,East Fork Swimming Pool Dist,"LENHART, WARREN",
 30-East Fork,East Fork Swimming Pool Dist,"NISHIKIDA, DAVIS JO",
-30-East Fork,President and Vice President of the United States,"BADNARIK, MICHAEL",
-30-East Fork,President and Vice President of the United States,"BUSH, GEORGE W.",
-30-East Fork,President and Vice President of the United States,"COBB, DAVID",
-30-East Fork,President and Vice President of the United States,"KERRY, JOHN F.",
-30-East Fork,President and Vice President of the United States,"NADER, RALPH",
-30-East Fork,President and Vice President of the United States,None Of These Candidates,
-30-East Fork,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+30-East Fork,President,"BADNARIK, MICHAEL",
+30-East Fork,President,"BUSH, GEORGE W.",
+30-East Fork,President,"COBB, DAVID",
+30-East Fork,President,"KERRY, JOHN F.",
+30-East Fork,President,"NADER, RALPH",
+30-East Fork,President,None Of These Candidates,
+30-East Fork,President,"PEROUTKA, MICHAEL A.",
 30-East Fork,School Board Trustee Area 1 CW,"BECK, RON",
 30-East Fork,School Board Trustee Area 1 CW,"ORR, LOREN R.",
 30-East Fork,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",
@@ -1357,25 +1357,25 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2","GIBBONS, JIM",
 30-East Fork,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
 30-East Fork,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",
-30-East Fork,United States Senator,"HURST, THOMAS L.",
-30-East Fork,United States Senator,"MARINCH, GARY",
-30-East Fork,United States Senator,None Of These Candidates,
-30-East Fork,United States Senator,"REID, HARRY",
-30-East Fork,United States Senator,"SCHUMANN, DAVID K.",
-30-East Fork,United States Senator,"ZISER, RICHARD",
+30-East Fork,U.S. Senate,"HURST, THOMAS L.",
+30-East Fork,U.S. Senate,"MARINCH, GARY",
+30-East Fork,U.S. Senate,None Of These Candidates,
+30-East Fork,U.S. Senate,"REID, HARRY",
+30-East Fork,U.S. Senate,"SCHUMANN, DAVID K.",
+30-East Fork,U.S. Senate,"ZISER, RICHARD",
 35-Glenbrook,County Commissioner District 1,"BAUSHKE, JAMES L.",272
 35-Glenbrook,County Commissioner District 3,"DUPUIS, SAM",9
 35-Glenbrook,County Commissioner District 3,"FORAKER-THOMPSON, JANE",74
 35-Glenbrook,County Commissioner District 3,"JOHNSON, DOUG N.",245
 35-Glenbrook,County Commissioner District 5,"KITE, KELLY",168
 35-Glenbrook,County Commissioner District 5,"WEBBERE, EDITH",135
-35-Glenbrook,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-35-Glenbrook,President and Vice President of the United States,"BUSH, GEORGE W.",247
-35-Glenbrook,President and Vice President of the United States,"COBB, DAVID",0
-35-Glenbrook,President and Vice President of the United States,"KERRY, JOHN F.",106
-35-Glenbrook,President and Vice President of the United States,"NADER, RALPH",0
-35-Glenbrook,President and Vice President of the United States,None Of These Candidates,0
-35-Glenbrook,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+35-Glenbrook,President,"BADNARIK, MICHAEL",1
+35-Glenbrook,President,"BUSH, GEORGE W.",247
+35-Glenbrook,President,"COBB, DAVID",0
+35-Glenbrook,President,"KERRY, JOHN F.",106
+35-Glenbrook,President,"NADER, RALPH",0
+35-Glenbrook,President,None Of These Candidates,0
+35-Glenbrook,President,"PEROUTKA, MICHAEL A.",0
 35-Glenbrook,School Board Trustee Area 1 CW,"BECK, RON",119
 35-Glenbrook,School Board Trustee Area 1 CW,"ORR, LOREN R.",100
 35-Glenbrook,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",114
@@ -1399,25 +1399,25 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2","GIBBONS, JIM",268
 35-Glenbrook,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 35-Glenbrook,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",4
-35-Glenbrook,United States Senator,"HURST, THOMAS L.",3
-35-Glenbrook,United States Senator,"MARINCH, GARY",0
-35-Glenbrook,United States Senator,None Of These Candidates,2
-35-Glenbrook,United States Senator,"REID, HARRY",124
-35-Glenbrook,United States Senator,"SCHUMANN, DAVID K.",3
-35-Glenbrook,United States Senator,"ZISER, RICHARD",219
+35-Glenbrook,U.S. Senate,"HURST, THOMAS L.",3
+35-Glenbrook,U.S. Senate,"MARINCH, GARY",0
+35-Glenbrook,U.S. Senate,None Of These Candidates,2
+35-Glenbrook,U.S. Senate,"REID, HARRY",124
+35-Glenbrook,U.S. Senate,"SCHUMANN, DAVID K.",3
+35-Glenbrook,U.S. Senate,"ZISER, RICHARD",219
 36-Skyland,County Commissioner District 1,"BAUSHKE, JAMES L.",298
 36-Skyland,County Commissioner District 3,"DUPUIS, SAM",13
 36-Skyland,County Commissioner District 3,"FORAKER-THOMPSON, JANE",87
 36-Skyland,County Commissioner District 3,"JOHNSON, DOUG N.",269
 36-Skyland,County Commissioner District 5,"KITE, KELLY",144
 36-Skyland,County Commissioner District 5,"WEBBERE, EDITH",206
-36-Skyland,President and Vice President of the United States,"BADNARIK, MICHAEL",1
-36-Skyland,President and Vice President of the United States,"BUSH, GEORGE W.",284
-36-Skyland,President and Vice President of the United States,"COBB, DAVID",1
-36-Skyland,President and Vice President of the United States,"KERRY, JOHN F.",123
-36-Skyland,President and Vice President of the United States,"NADER, RALPH",1
-36-Skyland,President and Vice President of the United States,None Of These Candidates,1
-36-Skyland,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+36-Skyland,President,"BADNARIK, MICHAEL",1
+36-Skyland,President,"BUSH, GEORGE W.",284
+36-Skyland,President,"COBB, DAVID",1
+36-Skyland,President,"KERRY, JOHN F.",123
+36-Skyland,President,"NADER, RALPH",1
+36-Skyland,President,None Of These Candidates,1
+36-Skyland,President,"PEROUTKA, MICHAEL A.",0
 36-Skyland,School Board Trustee Area 1 CW,"BECK, RON",152
 36-Skyland,School Board Trustee Area 1 CW,"ORR, LOREN R.",125
 36-Skyland,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",158
@@ -1445,25 +1445,25 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2","GIBBONS, JIM",305
 36-Skyland,"U.S. Representative in Congress, District 2","HANSEN, JANINE",7
 36-Skyland,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",8
-36-Skyland,United States Senator,"HURST, THOMAS L.",6
-36-Skyland,United States Senator,"MARINCH, GARY",0
-36-Skyland,United States Senator,None Of These Candidates,12
-36-Skyland,United States Senator,"REID, HARRY",159
-36-Skyland,United States Senator,"SCHUMANN, DAVID K.",3
-36-Skyland,United States Senator,"ZISER, RICHARD",225
+36-Skyland,U.S. Senate,"HURST, THOMAS L.",6
+36-Skyland,U.S. Senate,"MARINCH, GARY",0
+36-Skyland,U.S. Senate,None Of These Candidates,12
+36-Skyland,U.S. Senate,"REID, HARRY",159
+36-Skyland,U.S. Senate,"SCHUMANN, DAVID K.",3
+36-Skyland,U.S. Senate,"ZISER, RICHARD",225
 37-Zephyr Cove,County Commissioner District 1,"BAUSHKE, JAMES L.",285
 37-Zephyr Cove,County Commissioner District 3,"DUPUIS, SAM",11
 37-Zephyr Cove,County Commissioner District 3,"FORAKER-THOMPSON, JANE",142
 37-Zephyr Cove,County Commissioner District 3,"JOHNSON, DOUG N.",215
 37-Zephyr Cove,County Commissioner District 5,"KITE, KELLY",139
 37-Zephyr Cove,County Commissioner District 5,"WEBBERE, EDITH",192
-37-Zephyr Cove,President and Vice President of the United States,"BADNARIK, MICHAEL",2
-37-Zephyr Cove,President and Vice President of the United States,"BUSH, GEORGE W.",225
-37-Zephyr Cove,President and Vice President of the United States,"COBB, DAVID",2
-37-Zephyr Cove,President and Vice President of the United States,"KERRY, JOHN F.",174
-37-Zephyr Cove,President and Vice President of the United States,"NADER, RALPH",5
-37-Zephyr Cove,President and Vice President of the United States,None Of These Candidates,2
-37-Zephyr Cove,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+37-Zephyr Cove,President,"BADNARIK, MICHAEL",2
+37-Zephyr Cove,President,"BUSH, GEORGE W.",225
+37-Zephyr Cove,President,"COBB, DAVID",2
+37-Zephyr Cove,President,"KERRY, JOHN F.",174
+37-Zephyr Cove,President,"NADER, RALPH",5
+37-Zephyr Cove,President,None Of These Candidates,2
+37-Zephyr Cove,President,"PEROUTKA, MICHAEL A.",0
 37-Zephyr Cove,Round Hill G I D,"CASE, RAYMOND J.",2
 37-Zephyr Cove,Round Hill G I D,"DORTON, BRAD",7
 37-Zephyr Cove,Round Hill G I D,"SMITH, GLEN",2
@@ -1490,25 +1490,25 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","GIBBONS, JIM",261
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","HANSEN, JANINE",6
 37-Zephyr Cove,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",10
-37-Zephyr Cove,United States Senator,"HURST, THOMAS L.",8
-37-Zephyr Cove,United States Senator,"MARINCH, GARY",2
-37-Zephyr Cove,United States Senator,None Of These Candidates,3
-37-Zephyr Cove,United States Senator,"REID, HARRY",215
-37-Zephyr Cove,United States Senator,"SCHUMANN, DAVID K.",2
-37-Zephyr Cove,United States Senator,"ZISER, RICHARD",169
+37-Zephyr Cove,U.S. Senate,"HURST, THOMAS L.",8
+37-Zephyr Cove,U.S. Senate,"MARINCH, GARY",2
+37-Zephyr Cove,U.S. Senate,None Of These Candidates,3
+37-Zephyr Cove,U.S. Senate,"REID, HARRY",215
+37-Zephyr Cove,U.S. Senate,"SCHUMANN, DAVID K.",2
+37-Zephyr Cove,U.S. Senate,"ZISER, RICHARD",169
 38-Round Hill,County Commissioner District 1,"BAUSHKE, JAMES L.",354
 38-Round Hill,County Commissioner District 3,"DUPUIS, SAM",16
 38-Round Hill,County Commissioner District 3,"FORAKER-THOMPSON, JANE",178
 38-Round Hill,County Commissioner District 3,"JOHNSON, DOUG N.",277
 38-Round Hill,County Commissioner District 5,"KITE, KELLY",174
 38-Round Hill,County Commissioner District 5,"WEBBERE, EDITH",242
-38-Round Hill,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-38-Round Hill,President and Vice President of the United States,"BUSH, GEORGE W.",280
-38-Round Hill,President and Vice President of the United States,"COBB, DAVID",0
-38-Round Hill,President and Vice President of the United States,"KERRY, JOHN F.",220
-38-Round Hill,President and Vice President of the United States,"NADER, RALPH",2
-38-Round Hill,President and Vice President of the United States,None Of These Candidates,1
-38-Round Hill,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",1
+38-Round Hill,President,"BADNARIK, MICHAEL",0
+38-Round Hill,President,"BUSH, GEORGE W.",280
+38-Round Hill,President,"COBB, DAVID",0
+38-Round Hill,President,"KERRY, JOHN F.",220
+38-Round Hill,President,"NADER, RALPH",2
+38-Round Hill,President,None Of These Candidates,1
+38-Round Hill,President,"PEROUTKA, MICHAEL A.",1
 38-Round Hill,Round Hill G I D,"CASE, RAYMOND J.",157
 38-Round Hill,Round Hill G I D,"DORTON, BRAD",114
 38-Round Hill,Round Hill G I D,"SMITH, GLEN",195
@@ -1535,25 +1535,25 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2","GIBBONS, JIM",318
 38-Round Hill,"U.S. Representative in Congress, District 2","HANSEN, JANINE",17
 38-Round Hill,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",6
-38-Round Hill,United States Senator,"HURST, THOMAS L.",2
-38-Round Hill,United States Senator,"MARINCH, GARY",0
-38-Round Hill,United States Senator,None Of These Candidates,8
-38-Round Hill,United States Senator,"REID, HARRY",242
-38-Round Hill,United States Senator,"SCHUMANN, DAVID K.",3
-38-Round Hill,United States Senator,"ZISER, RICHARD",240
+38-Round Hill,U.S. Senate,"HURST, THOMAS L.",2
+38-Round Hill,U.S. Senate,"MARINCH, GARY",0
+38-Round Hill,U.S. Senate,None Of These Candidates,8
+38-Round Hill,U.S. Senate,"REID, HARRY",242
+38-Round Hill,U.S. Senate,"SCHUMANN, DAVID K.",3
+38-Round Hill,U.S. Senate,"ZISER, RICHARD",240
 39-Edgewood,County Commissioner District 1,"BAUSHKE, JAMES L.",152
 39-Edgewood,County Commissioner District 3,"DUPUIS, SAM",9
 39-Edgewood,County Commissioner District 3,"FORAKER-THOMPSON, JANE",111
 39-Edgewood,County Commissioner District 3,"JOHNSON, DOUG N.",89
 39-Edgewood,County Commissioner District 5,"KITE, KELLY",71
 39-Edgewood,County Commissioner District 5,"WEBBERE, EDITH",110
-39-Edgewood,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-39-Edgewood,President and Vice President of the United States,"BUSH, GEORGE W.",107
-39-Edgewood,President and Vice President of the United States,"COBB, DAVID",0
-39-Edgewood,President and Vice President of the United States,"KERRY, JOHN F.",116
-39-Edgewood,President and Vice President of the United States,"NADER, RALPH",3
-39-Edgewood,President and Vice President of the United States,None Of These Candidates,2
-39-Edgewood,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+39-Edgewood,President,"BADNARIK, MICHAEL",3
+39-Edgewood,President,"BUSH, GEORGE W.",107
+39-Edgewood,President,"COBB, DAVID",0
+39-Edgewood,President,"KERRY, JOHN F.",116
+39-Edgewood,President,"NADER, RALPH",3
+39-Edgewood,President,None Of These Candidates,2
+39-Edgewood,President,"PEROUTKA, MICHAEL A.",0
 39-Edgewood,School Board Trustee Area 1 CW,"BECK, RON",80
 39-Edgewood,School Board Trustee Area 1 CW,"ORR, LOREN R.",89
 39-Edgewood,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",59
@@ -1577,12 +1577,12 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2","GIBBONS, JIM",115
 39-Edgewood,"U.S. Representative in Congress, District 2","HANSEN, JANINE",10
 39-Edgewood,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",5
-39-Edgewood,United States Senator,"HURST, THOMAS L.",4
-39-Edgewood,United States Senator,"MARINCH, GARY",0
-39-Edgewood,United States Senator,None Of These Candidates,3
-39-Edgewood,United States Senator,"REID, HARRY",132
-39-Edgewood,United States Senator,"SCHUMANN, DAVID K.",3
-39-Edgewood,United States Senator,"ZISER, RICHARD",76
+39-Edgewood,U.S. Senate,"HURST, THOMAS L.",4
+39-Edgewood,U.S. Senate,"MARINCH, GARY",0
+39-Edgewood,U.S. Senate,None Of These Candidates,3
+39-Edgewood,U.S. Senate,"REID, HARRY",132
+39-Edgewood,U.S. Senate,"SCHUMANN, DAVID K.",3
+39-Edgewood,U.S. Senate,"ZISER, RICHARD",76
 40-Kingsbury,County Commissioner District 1,"BAUSHKE, JAMES L.",482
 40-Kingsbury,County Commissioner District 3,"DUPUIS, SAM",37
 40-Kingsbury,County Commissioner District 3,"FORAKER-THOMPSON, JANE",258
@@ -1593,13 +1593,13 @@ precinct,office,candidate,votes
 40-Kingsbury,Kingsbury G I D,"COOK, BOB",374
 40-Kingsbury,Kingsbury G I D,"GEYER, EUGENE",172
 40-Kingsbury,Kingsbury G I D,"TREANOR, CAROLYN R.",291
-40-Kingsbury,President and Vice President of the United States,"BADNARIK, MICHAEL",6
-40-Kingsbury,President and Vice President of the United States,"BUSH, GEORGE W.",379
-40-Kingsbury,President and Vice President of the United States,"COBB, DAVID",0
-40-Kingsbury,President and Vice President of the United States,"KERRY, JOHN F.",310
-40-Kingsbury,President and Vice President of the United States,"NADER, RALPH",6
-40-Kingsbury,President and Vice President of the United States,None Of These Candidates,6
-40-Kingsbury,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+40-Kingsbury,President,"BADNARIK, MICHAEL",6
+40-Kingsbury,President,"BUSH, GEORGE W.",379
+40-Kingsbury,President,"COBB, DAVID",0
+40-Kingsbury,President,"KERRY, JOHN F.",310
+40-Kingsbury,President,"NADER, RALPH",6
+40-Kingsbury,President,None Of These Candidates,6
+40-Kingsbury,President,"PEROUTKA, MICHAEL A.",0
 40-Kingsbury,School Board Trustee Area 1 CW,"BECK, RON",223
 40-Kingsbury,School Board Trustee Area 1 CW,"ORR, LOREN R.",248
 40-Kingsbury,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",228
@@ -1623,12 +1623,12 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2","GIBBONS, JIM",425
 40-Kingsbury,"U.S. Representative in Congress, District 2","HANSEN, JANINE",12
 40-Kingsbury,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",24
-40-Kingsbury,United States Senator,"HURST, THOMAS L.",14
-40-Kingsbury,United States Senator,"MARINCH, GARY",1
-40-Kingsbury,United States Senator,None Of These Candidates,10
-40-Kingsbury,United States Senator,"REID, HARRY",371
-40-Kingsbury,United States Senator,"SCHUMANN, DAVID K.",6
-40-Kingsbury,United States Senator,"ZISER, RICHARD",286
+40-Kingsbury,U.S. Senate,"HURST, THOMAS L.",14
+40-Kingsbury,U.S. Senate,"MARINCH, GARY",1
+40-Kingsbury,U.S. Senate,None Of These Candidates,10
+40-Kingsbury,U.S. Senate,"REID, HARRY",371
+40-Kingsbury,U.S. Senate,"SCHUMANN, DAVID K.",6
+40-Kingsbury,U.S. Senate,"ZISER, RICHARD",286
 41-Daggett,County Commissioner District 1,"BAUSHKE, JAMES L.",416
 41-Daggett,County Commissioner District 3,"DUPUIS, SAM",56
 41-Daggett,County Commissioner District 3,"FORAKER-THOMPSON, JANE",277
@@ -1639,13 +1639,13 @@ precinct,office,candidate,votes
 41-Daggett,Kingsbury G I D,"COOK, BOB",324
 41-Daggett,Kingsbury G I D,"GEYER, EUGENE",212
 41-Daggett,Kingsbury G I D,"TREANOR, CAROLYN R.",307
-41-Daggett,President and Vice President of the United States,"BADNARIK, MICHAEL",3
-41-Daggett,President and Vice President of the United States,"BUSH, GEORGE W.",285
-41-Daggett,President and Vice President of the United States,"COBB, DAVID",1
-41-Daggett,President and Vice President of the United States,"KERRY, JOHN F.",390
-41-Daggett,President and Vice President of the United States,"NADER, RALPH",9
-41-Daggett,President and Vice President of the United States,None Of These Candidates,2
-41-Daggett,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
+41-Daggett,President,"BADNARIK, MICHAEL",3
+41-Daggett,President,"BUSH, GEORGE W.",285
+41-Daggett,President,"COBB, DAVID",1
+41-Daggett,President,"KERRY, JOHN F.",390
+41-Daggett,President,"NADER, RALPH",9
+41-Daggett,President,None Of These Candidates,2
+41-Daggett,President,"PEROUTKA, MICHAEL A.",0
 41-Daggett,School Board Trustee Area 1 CW,"BECK, RON",190
 41-Daggett,School Board Trustee Area 1 CW,"ORR, LOREN R.",254
 41-Daggett,School Board Trustee Area 3 CW,"HOWELL, LAWRENCE W.",177
@@ -1669,33 +1669,33 @@ precinct,office,candidate,votes
 41-Daggett,"U.S. Representative in Congress, District 2","GIBBONS, JIM",324
 41-Daggett,"U.S. Representative in Congress, District 2","HANSEN, JANINE",34
 41-Daggett,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",23
-41-Daggett,United States Senator,"HURST, THOMAS L.",11
-41-Daggett,United States Senator,"MARINCH, GARY",3
-41-Daggett,United States Senator,None Of These Candidates,6
-41-Daggett,United States Senator,"REID, HARRY",407
-41-Daggett,United States Senator,"SCHUMANN, DAVID K.",16
-41-Daggett,United States Senator,"ZISER, RICHARD",222
-Precinct 88,President and Vice President of the United States,"BADNARIK, MICHAEL",0
-Precinct 88,President and Vice President of the United States,"BUSH, GEORGE W.",33
-Precinct 88,President and Vice President of the United States,"COBB, DAVID",0
-Precinct 88,President and Vice President of the United States,"KERRY, JOHN F.",12
-Precinct 88,President and Vice President of the United States,"NADER, RALPH",0
-Precinct 88,President and Vice President of the United States,None Of These Candidates,0
-Precinct 88,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",0
-Precinct 99,President and Vice President of the United States,"BADNARIK, MICHAEL",
-Precinct 99,President and Vice President of the United States,"BUSH, GEORGE W.",
-Precinct 99,President and Vice President of the United States,"COBB, DAVID",
-Precinct 99,President and Vice President of the United States,"KERRY, JOHN F.",
-Precinct 99,President and Vice President of the United States,"NADER, RALPH",
-Precinct 99,President and Vice President of the United States,None Of These Candidates,
-Precinct 99,President and Vice President of the United States,"PEROUTKA, MICHAEL A.",
+41-Daggett,U.S. Senate,"HURST, THOMAS L.",11
+41-Daggett,U.S. Senate,"MARINCH, GARY",3
+41-Daggett,U.S. Senate,None Of These Candidates,6
+41-Daggett,U.S. Senate,"REID, HARRY",407
+41-Daggett,U.S. Senate,"SCHUMANN, DAVID K.",16
+41-Daggett,U.S. Senate,"ZISER, RICHARD",222
+Precinct 88,President,"BADNARIK, MICHAEL",0
+Precinct 88,President,"BUSH, GEORGE W.",33
+Precinct 88,President,"COBB, DAVID",0
+Precinct 88,President,"KERRY, JOHN F.",12
+Precinct 88,President,"NADER, RALPH",0
+Precinct 88,President,None Of These Candidates,0
+Precinct 88,President,"PEROUTKA, MICHAEL A.",0
+Precinct 99,President,"BADNARIK, MICHAEL",
+Precinct 99,President,"BUSH, GEORGE W.",
+Precinct 99,President,"COBB, DAVID",
+Precinct 99,President,"KERRY, JOHN F.",
+Precinct 99,President,"NADER, RALPH",
+Precinct 99,President,None Of These Candidates,
+Precinct 99,President,"PEROUTKA, MICHAEL A.",
 Precinct 99,"U.S. Representative in Congress, District 2","COCHRAN, ANGIE G.",
 Precinct 99,"U.S. Representative in Congress, District 2","GIBBONS, JIM",
 Precinct 99,"U.S. Representative in Congress, District 2","HANSEN, JANINE",
 Precinct 99,"U.S. Representative in Congress, District 2","TRAINOR, BRENDAN J.",
-Precinct 99,United States Senator,"HURST, THOMAS L.",
-Precinct 99,United States Senator,"MARINCH, GARY",
-Precinct 99,United States Senator,None Of These Candidates,
-Precinct 99,United States Senator,"REID, HARRY",
-Precinct 99,United States Senator,"SCHUMANN, DAVID K.",
-Precinct 99,United States Senator,"ZISER, RICHARD",
+Precinct 99,U.S. Senate,"HURST, THOMAS L.",
+Precinct 99,U.S. Senate,"MARINCH, GARY",
+Precinct 99,U.S. Senate,None Of These Candidates,
+Precinct 99,U.S. Senate,"REID, HARRY",
+Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",
+Precinct 99,U.S. Senate,"ZISER, RICHARD",
