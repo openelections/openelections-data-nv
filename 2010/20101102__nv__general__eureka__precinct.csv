@@ -1,7 +1,7 @@
 precinct,office,candidate,votes
 Precinct 1,Assessor,"MEARS, MICHAEL A.",246
 Precinct 1,Attorney General,"Barrick, Travis",165
-Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",52
+Precinct 1,Attorney General,"CORTEZ MASTO, CATHERINE",52
 Precinct 1,Attorney General,"Hansen, Joel F.",31
 Precinct 1,Attorney General,None Of These Candidates,17
 Precinct 1,Clerk/Treasurer,"BERG, JACKIE",130
@@ -54,11 +54,11 @@ Precinct 1,U.S. Senate,None Of These Candidates,15
 Precinct 1,U.S. Senate,"Reeves, Jeffrey C.",1
 Precinct 1,U.S. Senate,"REID, HARRY",47
 Precinct 1,U.S. Senate,"Stand, Wil",3
-Precinct 1,"University Board of Regents, District  8","MELCHER, KEVIN C.",102
-Precinct 1,"University Board of Regents, District  8","PUCCINELLI, MARGARET",123
+Precinct 1,"University Board of Regents, District 8","MELCHER, KEVIN C.",102
+Precinct 1,"University Board of Regents, District 8","PUCCINELLI, MARGARET",123
 Precinct 2,Assessor,"MEARS, MICHAEL A.",240
 Precinct 2,Attorney General,"Barrick, Travis",172
-Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",50
+Precinct 2,Attorney General,"CORTEZ MASTO, CATHERINE",50
 Precinct 2,Attorney General,"Hansen, Joel F.",28
 Precinct 2,Attorney General,None Of These Candidates,20
 Precinct 2,Clerk/Treasurer,"BERG, JACKIE",97
@@ -111,11 +111,11 @@ Precinct 2,U.S. Senate,None Of These Candidates,18
 Precinct 2,U.S. Senate,"Reeves, Jeffrey C.",0
 Precinct 2,U.S. Senate,"REID, HARRY",37
 Precinct 2,U.S. Senate,"Stand, Wil",0
-Precinct 2,"University Board of Regents, District  8","MELCHER, KEVIN C.",106
-Precinct 2,"University Board of Regents, District  8","PUCCINELLI, MARGARET",133
+Precinct 2,"University Board of Regents, District 8","MELCHER, KEVIN C.",106
+Precinct 2,"University Board of Regents, District 8","PUCCINELLI, MARGARET",133
 Precinct 3,Assessor,"MEARS, MICHAEL A.",82
 Precinct 3,Attorney General,"Barrick, Travis",54
-Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",18
+Precinct 3,Attorney General,"CORTEZ MASTO, CATHERINE",18
 Precinct 3,Attorney General,"Hansen, Joel F.",21
 Precinct 3,Attorney General,None Of These Candidates,1
 Precinct 3,Clerk/Treasurer,"BERG, JACKIE",55
@@ -168,11 +168,11 @@ Precinct 3,U.S. Senate,None Of These Candidates,2
 Precinct 3,U.S. Senate,"Reeves, Jeffrey C.",0
 Precinct 3,U.S. Senate,"REID, HARRY",16
 Precinct 3,U.S. Senate,"Stand, Wil",0
-Precinct 3,"University Board of Regents, District  8","MELCHER, KEVIN C.",45
-Precinct 3,"University Board of Regents, District  8","PUCCINELLI, MARGARET",39
+Precinct 3,"University Board of Regents, District 8","MELCHER, KEVIN C.",45
+Precinct 3,"University Board of Regents, District 8","PUCCINELLI, MARGARET",39
 Precinct 4,Assessor,"MEARS, MICHAEL A.",107
 Precinct 4,Attorney General,"Barrick, Travis",57
-Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",32
+Precinct 4,Attorney General,"CORTEZ MASTO, CATHERINE",32
 Precinct 4,Attorney General,"Hansen, Joel F.",27
 Precinct 4,Attorney General,None Of These Candidates,6
 Precinct 4,Clerk/Treasurer,"BERG, JACKIE",94
@@ -225,8 +225,8 @@ Precinct 4,U.S. Senate,None Of These Candidates,8
 Precinct 4,U.S. Senate,"Reeves, Jeffrey C.",3
 Precinct 4,U.S. Senate,"REID, HARRY",37
 Precinct 4,U.S. Senate,"Stand, Wil",1
-Precinct 4,"University Board of Regents, District  8","MELCHER, KEVIN C.",39
-Precinct 4,"University Board of Regents, District  8","PUCCINELLI, MARGARET",68
+Precinct 4,"University Board of Regents, District 8","MELCHER, KEVIN C.",39
+Precinct 4,"University Board of Regents, District 8","PUCCINELLI, MARGARET",68
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","Price, Nancy",0

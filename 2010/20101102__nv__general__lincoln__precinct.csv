@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 1 - ALAMO,Attorney General,"Barrick, Travis",174
-1 - ALAMO,Attorney General,"CORTEZ  MASTO, CATHERINE",159
+1 - ALAMO,Attorney General,"CORTEZ MASTO, CATHERINE",159
 1 - ALAMO,Attorney General,"Hansen, Joel F.",121
 1 - ALAMO,Attorney General,None Of These Candidates,13
 1 - ALAMO,COUNTY ASSESSOR,"MCBRIDE, MELANIE K.",404
@@ -57,10 +57,10 @@ precinct,office,candidate,votes
 1 - ALAMO,U.S. Senate,"Reeves, Jeffrey C.",0
 1 - ALAMO,U.S. Senate,"REID, HARRY",89
 1 - ALAMO,U.S. Senate,"Stand, Wil",0
-1 - ALAMO,"University Board of Regents, District  8","MELCHER, KEVIN C.",266
-1 - ALAMO,"University Board of Regents, District  8","PUCCINELLI, MARGARET",124
+1 - ALAMO,"University Board of Regents, District 8","MELCHER, KEVIN C.",266
+1 - ALAMO,"University Board of Regents, District 8","PUCCINELLI, MARGARET",124
 2 - CALIENTE,Attorney General,"Barrick, Travis",185
-2 - CALIENTE,Attorney General,"CORTEZ  MASTO, CATHERINE",231
+2 - CALIENTE,Attorney General,"CORTEZ MASTO, CATHERINE",231
 2 - CALIENTE,Attorney General,"Hansen, Joel F.",76
 2 - CALIENTE,Attorney General,None Of These Candidates,27
 2 - CALIENTE,COUNTY ASSESSOR,"MCBRIDE, MELANIE K.",454
@@ -117,10 +117,10 @@ precinct,office,candidate,votes
 2 - CALIENTE,U.S. Senate,"Reeves, Jeffrey C.",3
 2 - CALIENTE,U.S. Senate,"REID, HARRY",146
 2 - CALIENTE,U.S. Senate,"Stand, Wil",10
-2 - CALIENTE,"University Board of Regents, District  8","MELCHER, KEVIN C.",259
-2 - CALIENTE,"University Board of Regents, District  8","PUCCINELLI, MARGARET",199
+2 - CALIENTE,"University Board of Regents, District 8","MELCHER, KEVIN C.",259
+2 - CALIENTE,"University Board of Regents, District 8","PUCCINELLI, MARGARET",199
 3 - PANACA,Attorney General,"Barrick, Travis",203
-3 - PANACA,Attorney General,"CORTEZ  MASTO, CATHERINE",121
+3 - PANACA,Attorney General,"CORTEZ MASTO, CATHERINE",121
 3 - PANACA,Attorney General,"Hansen, Joel F.",69
 3 - PANACA,Attorney General,None Of These Candidates,23
 3 - PANACA,COUNTY ASSESSOR,"MCBRIDE, MELANIE K.",356
@@ -177,10 +177,10 @@ precinct,office,candidate,votes
 3 - PANACA,U.S. Senate,"Reeves, Jeffrey C.",3
 3 - PANACA,U.S. Senate,"REID, HARRY",60
 3 - PANACA,U.S. Senate,"Stand, Wil",4
-3 - PANACA,"University Board of Regents, District  8","MELCHER, KEVIN C.",220
-3 - PANACA,"University Board of Regents, District  8","PUCCINELLI, MARGARET",131
+3 - PANACA,"University Board of Regents, District 8","MELCHER, KEVIN C.",220
+3 - PANACA,"University Board of Regents, District 8","PUCCINELLI, MARGARET",131
 4 - PIOCHE,Attorney General,"Barrick, Travis",216
-4 - PIOCHE,Attorney General,"CORTEZ  MASTO, CATHERINE",197
+4 - PIOCHE,Attorney General,"CORTEZ MASTO, CATHERINE",197
 4 - PIOCHE,Attorney General,"Hansen, Joel F.",42
 4 - PIOCHE,Attorney General,None Of These Candidates,34
 4 - PIOCHE,COUNTY ASSESSOR,"MCBRIDE, MELANIE K.",399
@@ -237,10 +237,10 @@ precinct,office,candidate,votes
 4 - PIOCHE,U.S. Senate,"Reeves, Jeffrey C.",7
 4 - PIOCHE,U.S. Senate,"REID, HARRY",140
 4 - PIOCHE,U.S. Senate,"Stand, Wil",4
-4 - PIOCHE,"University Board of Regents, District  8","MELCHER, KEVIN C.",253
-4 - PIOCHE,"University Board of Regents, District  8","PUCCINELLI, MARGARET",157
+4 - PIOCHE,"University Board of Regents, District 8","MELCHER, KEVIN C.",253
+4 - PIOCHE,"University Board of Regents, District 8","PUCCINELLI, MARGARET",157
 5 - RACHEL,Attorney General,"Barrick, Travis",18
-5 - RACHEL,Attorney General,"CORTEZ  MASTO, CATHERINE",3
+5 - RACHEL,Attorney General,"CORTEZ MASTO, CATHERINE",3
 5 - RACHEL,Attorney General,"Hansen, Joel F.",6
 5 - RACHEL,Attorney General,None Of These Candidates,4
 5 - RACHEL,COUNTY ASSESSOR,"MCBRIDE, MELANIE K.",29
@@ -297,8 +297,8 @@ precinct,office,candidate,votes
 5 - RACHEL,U.S. Senate,"Reeves, Jeffrey C.",0
 5 - RACHEL,U.S. Senate,"REID, HARRY",7
 5 - RACHEL,U.S. Senate,"Stand, Wil",0
-5 - RACHEL,"University Board of Regents, District  8","MELCHER, KEVIN C.",14
-5 - RACHEL,"University Board of Regents, District  8","PUCCINELLI, MARGARET",13
+5 - RACHEL,"University Board of Regents, District 8","MELCHER, KEVIN C.",14
+5 - RACHEL,"University Board of Regents, District 8","PUCCINELLI, MARGARET",13
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","Price, Nancy",0

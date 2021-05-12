@@ -6,10 +6,10 @@ Argenta 01,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",8
 Argenta 01,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",89
 Argenta 01,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",15
 Argenta 01,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",27
-Argenta 01,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",52
-Argenta 01,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",45
-Argenta 01,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",87
-Argenta 01,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",167
+Argenta 01,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",52
+Argenta 01,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",45
+Argenta 01,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",87
+Argenta 01,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",167
 Argenta 01,Governor (Democratic),"Chang, Charles ""Charlie""",2
 Argenta 01,Governor (Democratic),"Conquest, Frederick L.",1
 Argenta 01,Governor (Democratic),"Frye, Stephen H.",3
@@ -58,10 +58,10 @@ Argenta 02,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",20
 Argenta 02,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",58
 Argenta 02,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",23
 Argenta 02,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",30
-Argenta 02,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",49
-Argenta 02,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",47
-Argenta 02,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",84
-Argenta 02,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",163
+Argenta 02,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",49
+Argenta 02,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",47
+Argenta 02,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",84
+Argenta 02,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",163
 Argenta 02,Governor (Democratic),"Chang, Charles ""Charlie""",4
 Argenta 02,Governor (Democratic),"Conquest, Frederick L.",1
 Argenta 02,Governor (Democratic),"Frye, Stephen H.",3
@@ -110,10 +110,10 @@ Argenta 03,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",2
 Argenta 03,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",29
 Argenta 03,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",7
 Argenta 03,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",9
-Argenta 03,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",27
-Argenta 03,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",20
-Argenta 03,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",18
-Argenta 03,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",60
+Argenta 03,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",27
+Argenta 03,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",20
+Argenta 03,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",18
+Argenta 03,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",60
 Argenta 03,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Argenta 03,Governor (Democratic),"Conquest, Frederick L.",0
 Argenta 03,Governor (Democratic),"Frye, Stephen H.",2
@@ -162,10 +162,10 @@ Argenta 04,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",22
 Argenta 04,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",81
 Argenta 04,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",28
 Argenta 04,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",33
-Argenta 04,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",53
-Argenta 04,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",53
-Argenta 04,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",91
-Argenta 04,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",177
+Argenta 04,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",53
+Argenta 04,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",53
+Argenta 04,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",91
+Argenta 04,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",177
 Argenta 04,Governor (Democratic),"Chang, Charles ""Charlie""",3
 Argenta 04,Governor (Democratic),"Conquest, Frederick L.",0
 Argenta 04,Governor (Democratic),"Frye, Stephen H.",3
@@ -214,10 +214,10 @@ Argenta 05,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",20
 Argenta 05,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",81
 Argenta 05,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",29
 Argenta 05,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",30
-Argenta 05,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",55
-Argenta 05,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",41
-Argenta 05,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",95
-Argenta 05,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",176
+Argenta 05,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",55
+Argenta 05,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",41
+Argenta 05,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",95
+Argenta 05,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",176
 Argenta 05,Governor (Democratic),"Chang, Charles ""Charlie""",1
 Argenta 05,Governor (Democratic),"Conquest, Frederick L.",1
 Argenta 05,Governor (Democratic),"Frye, Stephen H.",3
@@ -266,10 +266,10 @@ Austin 07,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",9
 Austin 07,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",27
 Austin 07,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",8
 Austin 07,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",13
-Austin 07,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",21
-Austin 07,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",18
-Austin 07,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",34
-Austin 07,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",56
+Austin 07,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",21
+Austin 07,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",18
+Austin 07,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",34
+Austin 07,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",56
 Austin 07,Governor (Democratic),"Chang, Charles ""Charlie""",2
 Austin 07,Governor (Democratic),"Conquest, Frederick L.",0
 Austin 07,Governor (Democratic),"Frye, Stephen H.",4
@@ -318,10 +318,10 @@ Gillman Springs Ranch 08,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOL
 Gillman Springs Ranch 08,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",1
 Gillman Springs Ranch 08,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",1
 Gillman Springs Ranch 08,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",4
-Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",0
-Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",4
-Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",4
-Gillman Springs Ranch 08,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",8
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",0
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",4
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",4
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",8
 Gillman Springs Ranch 08,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Gillman Springs Ranch 08,Governor (Democratic),"Conquest, Frederick L.",0
 Gillman Springs Ranch 08,Governor (Democratic),"Frye, Stephen H.",0
@@ -370,10 +370,10 @@ Kingston 09,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHOLAS A.",6
 Kingston 09,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",10
 Kingston 09,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",6
 Kingston 09,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",11
-Kingston 09,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",6
-Kingston 09,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",6
-Kingston 09,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",33
-Kingston 09,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",40
+Kingston 09,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",6
+Kingston 09,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",6
+Kingston 09,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",33
+Kingston 09,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",40
 Kingston 09,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Kingston 09,Governor (Democratic),"Conquest, Frederick L.",0
 Kingston 09,Governor (Democratic),"Frye, Stephen H.",1
@@ -426,10 +426,10 @@ Southern Lander County 06,County Comm Dist. NO. 2 (CW) (Republican),"LOVE, NICHO
 Southern Lander County 06,County Comm Dist. NO. 5 (CW) (Republican),"BAKKER, SEAN",26
 Southern Lander County 06,County Comm Dist. NO. 5 (CW) (Republican),"LAURITZEN, NATHAN",6
 Southern Lander County 06,County Comm Dist. NO. 5 (CW) (Republican),"MASON, DAVID R.",11
-Southern Lander County 06,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",16
-Southern Lander County 06,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",6
-Southern Lander County 06,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",32
-Southern Lander County 06,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",49
+Southern Lander County 06,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",16
+Southern Lander County 06,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",6
+Southern Lander County 06,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",32
+Southern Lander County 06,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",49
 Southern Lander County 06,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Southern Lander County 06,Governor (Democratic),"Conquest, Frederick L.",0
 Southern Lander County 06,Governor (Democratic),"Frye, Stephen H.",0

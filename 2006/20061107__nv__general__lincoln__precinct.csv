@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 1 - ALAMO,Attorney General,"CHAIREZ, DON",241
-1 - ALAMO,Attorney General,"CORTEZ  MASTO, CATHERINE",148
+1 - ALAMO,Attorney General,"CORTEZ MASTO, CATHERINE",148
 1 - ALAMO,Attorney General,None Of These Candidates,41
 1 - ALAMO,COUNTY ASSESSOR,"HULSE, FRANK C.",113
 1 - ALAMO,COUNTY ASSESSOR,"MCBRIDE, MELANIE",317
@@ -59,7 +59,7 @@ precinct,office,candidate,votes
 1 - ALAMO,U.S. Senate,"SCHUMANN, DAVID K.",6
 1 - ALAMO,U.S. Senate,"TRAINOR, BRENDAN",1
 2 - CALIENTE,Attorney General,"CHAIREZ, DON",184
-2 - CALIENTE,Attorney General,"CORTEZ  MASTO, CATHERINE",272
+2 - CALIENTE,Attorney General,"CORTEZ MASTO, CATHERINE",272
 2 - CALIENTE,Attorney General,None Of These Candidates,50
 2 - CALIENTE,COUNTY ASSESSOR,"HULSE, FRANK C.",96
 2 - CALIENTE,COUNTY ASSESSOR,"MCBRIDE, MELANIE",402
@@ -118,7 +118,7 @@ precinct,office,candidate,votes
 2 - CALIENTE,U.S. Senate,"SCHUMANN, DAVID K.",22
 2 - CALIENTE,U.S. Senate,"TRAINOR, BRENDAN",6
 3 - PANACA,Attorney General,"CHAIREZ, DON",219
-3 - PANACA,Attorney General,"CORTEZ  MASTO, CATHERINE",138
+3 - PANACA,Attorney General,"CORTEZ MASTO, CATHERINE",138
 3 - PANACA,Attorney General,None Of These Candidates,31
 3 - PANACA,COUNTY ASSESSOR,"HULSE, FRANK C.",116
 3 - PANACA,COUNTY ASSESSOR,"MCBRIDE, MELANIE",275
@@ -177,7 +177,7 @@ precinct,office,candidate,votes
 3 - PANACA,U.S. Senate,"SCHUMANN, DAVID K.",19
 3 - PANACA,U.S. Senate,"TRAINOR, BRENDAN",1
 4 - PIOCHE,Attorney General,"CHAIREZ, DON",197
-4 - PIOCHE,Attorney General,"CORTEZ  MASTO, CATHERINE",229
+4 - PIOCHE,Attorney General,"CORTEZ MASTO, CATHERINE",229
 4 - PIOCHE,Attorney General,None Of These Candidates,50
 4 - PIOCHE,COUNTY ASSESSOR,"HULSE, FRANK C.",97
 4 - PIOCHE,COUNTY ASSESSOR,"MCBRIDE, MELANIE",377
@@ -236,7 +236,7 @@ precinct,office,candidate,votes
 4 - PIOCHE,U.S. Senate,"SCHUMANN, DAVID K.",10
 4 - PIOCHE,U.S. Senate,"TRAINOR, BRENDAN",3
 5 - RACHEL,Attorney General,"CHAIREZ, DON",17
-5 - RACHEL,Attorney General,"CORTEZ  MASTO, CATHERINE",5
+5 - RACHEL,Attorney General,"CORTEZ MASTO, CATHERINE",5
 5 - RACHEL,Attorney General,None Of These Candidates,2
 5 - RACHEL,COUNTY ASSESSOR,"HULSE, FRANK C.",5
 5 - RACHEL,COUNTY ASSESSOR,"MCBRIDE, MELANIE",20

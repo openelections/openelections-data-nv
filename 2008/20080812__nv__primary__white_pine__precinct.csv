@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
 Precinct 1,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",13
 Precinct 1,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",46
-Precinct 1,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",120
-Precinct 1,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",124
+Precinct 1,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",120
+Precinct 1,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",124
 Precinct 1,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",117
 Precinct 1,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",118
 Precinct 1,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",115
@@ -20,8 +20,8 @@ Precinct 1,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 1,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",111
 Precinct 10,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",10
 Precinct 10,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",13
-Precinct 10,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",63
-Precinct 10,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",64
+Precinct 10,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",63
+Precinct 10,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",64
 Precinct 10,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",60
 Precinct 10,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",61
 Precinct 10,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",60
@@ -39,8 +39,8 @@ Precinct 10,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, 
 Precinct 10,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",55
 Precinct 2,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",12
 Precinct 2,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",29
-Precinct 2,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",56
-Precinct 2,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",63
+Precinct 2,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",56
+Precinct 2,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",63
 Precinct 2,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",59
 Precinct 2,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",59
 Precinct 2,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",59
@@ -58,8 +58,8 @@ Precinct 2,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 2,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",60
 Precinct 3,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",11
 Precinct 3,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",50
-Precinct 3,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",96
-Precinct 3,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",103
+Precinct 3,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",96
+Precinct 3,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",103
 Precinct 3,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",92
 Precinct 3,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",88
 Precinct 3,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",92
@@ -77,8 +77,8 @@ Precinct 3,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 3,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",84
 Precinct 4,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",22
 Precinct 4,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",48
-Precinct 4,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",117
-Precinct 4,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",119
+Precinct 4,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",117
+Precinct 4,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",119
 Precinct 4,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",114
 Precinct 4,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",111
 Precinct 4,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",105
@@ -96,8 +96,8 @@ Precinct 4,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 4,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",101
 Precinct 5,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",25
 Precinct 5,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",57
-Precinct 5,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",172
-Precinct 5,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",176
+Precinct 5,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",172
+Precinct 5,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",176
 Precinct 5,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",164
 Precinct 5,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",150
 Precinct 5,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",155
@@ -115,8 +115,8 @@ Precinct 5,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 5,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",150
 Precinct 6,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",15
 Precinct 6,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",54
-Precinct 6,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",97
-Precinct 6,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",100
+Precinct 6,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",97
+Precinct 6,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",100
 Precinct 6,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",94
 Precinct 6,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",93
 Precinct 6,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",95
@@ -134,8 +134,8 @@ Precinct 6,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 6,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",90
 Precinct 7,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",5
 Precinct 7,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",30
-Precinct 7,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",55
-Precinct 7,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",51
+Precinct 7,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",55
+Precinct 7,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",51
 Precinct 7,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",46
 Precinct 7,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",43
 Precinct 7,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",45
@@ -153,8 +153,8 @@ Precinct 7,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 7,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",47
 Precinct 8,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",1
 Precinct 8,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",18
-Precinct 8,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",50
-Precinct 8,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",53
+Precinct 8,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",50
+Precinct 8,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",53
 Precinct 8,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",50
 Precinct 8,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",51
 Precinct 8,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",53
@@ -172,8 +172,8 @@ Precinct 8,"WHITE PINE Hospital Dist Trustee, Seat 3 (Nonpartisan)","DERBIDGE, G
 Precinct 8,"WHITE PINE Hospital Dist Trustee, Seat 5 (Nonpartisan)","HASLEM, PAULOS P. ""PAX""",47
 Precinct 9,County Commissioner Seat 4 (Democratic),"HALLY, WILLIAM S. ""BILL""",2
 Precinct 9,County Commissioner Seat 4 (Democratic),"PEREA, GARY A.",32
-Precinct 9,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",49
-Precinct 9,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",50
+Precinct 9,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",49
+Precinct 9,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",50
 Precinct 9,School Board Trustee Seat D (Nonpartisan),"SANBORN, CYNDI",43
 Precinct 9,School Board Trustee Seat F (Nonpartisan),"HILL, BUNNY",49
 Precinct 9,"School Board Trustee, Seat C (Nonpartisan)","CHACHAS, IRENE L.",51

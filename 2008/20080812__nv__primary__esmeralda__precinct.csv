@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
-Precinct 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",11
-Precinct 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",56
-Precinct 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",24
-Precinct 1,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",80
+Precinct 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",11
+Precinct 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",56
+Precinct 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",24
+Precinct 1,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",80
 Precinct 1,School Board Trustee Seat B (Nonpartisan),"SNIFFEN, JOYCE",68
 Precinct 1,School Board Trustee Seat D (Nonpartisan),"KILE, DOUGLAS",61
 Precinct 1,"School Board Trustee, Seat A (Nonpartisan)","PAPPALARDO, DOMONINIC G.",82
@@ -14,10 +14,10 @@ Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",10
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",40
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",5
-Precinct 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",0
-Precinct 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",16
-Precinct 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",5
-Precinct 2,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",16
+Precinct 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",0
+Precinct 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",16
+Precinct 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",5
+Precinct 2,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",16
 Precinct 2,School Board Trustee Seat B (Nonpartisan),"SNIFFEN, JOYCE",18
 Precinct 2,School Board Trustee Seat D (Nonpartisan),"KILE, DOUGLAS",17
 Precinct 2,"School Board Trustee, Seat E (Nonpartisan)","WOOD, CHARLES",16
@@ -28,10 +28,10 @@ Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",6
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",12
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",1
-Precinct 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",5
-Precinct 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",68
-Precinct 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",18
-Precinct 3,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",69
+Precinct 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",5
+Precinct 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",68
+Precinct 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",18
+Precinct 3,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",69
 Precinct 3,School Board Trustee Seat B (Nonpartisan),"SNIFFEN, JOYCE",65
 Precinct 3,School Board Trustee Seat D (Nonpartisan),"KILE, DOUGLAS",76
 Precinct 3,"School Board Trustee, Seat E (Nonpartisan)","WOOD, CHARLES",72
@@ -42,10 +42,10 @@ Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",8
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",49
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",12
-Precinct 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",
-Precinct 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",
-Precinct 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",
-Precinct 4,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",
+Precinct 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",
+Precinct 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",
+Precinct 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",
+Precinct 4,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",
 Precinct 4,School Board Trustee Seat B (Nonpartisan),"SNIFFEN, JOYCE",
 Precinct 4,School Board Trustee Seat D (Nonpartisan),"KILE, DOUGLAS",
 Precinct 4,"School Board Trustee, Seat E (Nonpartisan)","WOOD, CHARLES",
@@ -56,10 +56,10 @@ Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
-Precinct 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",0
-Precinct 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",0
-Precinct 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",0
-Precinct 5,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",0
+Precinct 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",0
+Precinct 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",0
+Precinct 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",0
+Precinct 5,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",0
 Precinct 5,School Board Trustee Seat B (Nonpartisan),"SNIFFEN, JOYCE",0
 Precinct 5,School Board Trustee Seat D (Nonpartisan),"KILE, DOUGLAS",0
 Precinct 5,"School Board Trustee, Seat E (Nonpartisan)","WOOD, CHARLES",0

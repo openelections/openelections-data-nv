@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
-Precinct 1,"District Court Judge, District 5, Department  1","Lord, Nancy",33
-Precinct 1,"District Court Judge, District 5, Department  1","Wanker, Kimberly A. ""Kim""",129
+Precinct 1,"District Court Judge, District 5, Department 1","Lord, Nancy",33
+Precinct 1,"District Court Judge, District 5, Department 1","Wanker, Kimberly A. ""Kim""",129
 Precinct 1,Justice of the Peace - ESMERALDA - NP,"COLVIN, JUANITA M.",149
 Precinct 1,Justice of the Peace - ESMERALDA - NP,"GUMBMANN, STARLA RAE",31
 Precinct 1,President,"GOODE, VIRGIL",5
@@ -23,11 +23,11 @@ Precinct 1,U.S. Senate,"Berkley, Shelley",30
 Precinct 1,U.S. Senate,"Heller, Dean",129
 Precinct 1,U.S. Senate,None Of These Candidates,10
 Precinct 1,U.S. Senate,"VANDERBEEK, DAVID LORY",15
-Precinct 1,"University Board of Regents, District  9","Knecht, Ron",72
-Precinct 1,"University Board of Regents, District  9","Mackedon, Michon",72
+Precinct 1,"University Board of Regents, District 9","Knecht, Ron",72
+Precinct 1,"University Board of Regents, District 9","Mackedon, Michon",72
 Precinct 2,County Commissioner District 2,"BOLAND, NANCY",35
-Precinct 2,"District Court Judge, District 5, Department  1","Lord, Nancy",12
-Precinct 2,"District Court Judge, District 5, Department  1","Wanker, Kimberly A. ""Kim""",24
+Precinct 2,"District Court Judge, District 5, Department 1","Lord, Nancy",12
+Precinct 2,"District Court Judge, District 5, Department 1","Wanker, Kimberly A. ""Kim""",24
 Precinct 2,Justice of the Peace - ESMERALDA - NP,"COLVIN, JUANITA M.",37
 Precinct 2,Justice of the Peace - ESMERALDA - NP,"GUMBMANN, STARLA RAE",6
 Precinct 2,President,"GOODE, VIRGIL",1
@@ -50,12 +50,12 @@ Precinct 2,U.S. Senate,"Berkley, Shelley",4
 Precinct 2,U.S. Senate,"Heller, Dean",34
 Precinct 2,U.S. Senate,None Of These Candidates,1
 Precinct 2,U.S. Senate,"VANDERBEEK, DAVID LORY",6
-Precinct 2,"University Board of Regents, District  9","Knecht, Ron",16
-Precinct 2,"University Board of Regents, District  9","Mackedon, Michon",20
+Precinct 2,"University Board of Regents, District 9","Knecht, Ron",16
+Precinct 2,"University Board of Regents, District 9","Mackedon, Michon",20
 Precinct 3,County Commissioner District 3,"KEYES, RALPH M.",146
 Precinct 3,County Commissioner District 3,"MUNEKIYO, WAYNE M.",38
-Precinct 3,"District Court Judge, District 5, Department  1","Lord, Nancy",53
-Precinct 3,"District Court Judge, District 5, Department  1","Wanker, Kimberly A. ""Kim""",97
+Precinct 3,"District Court Judge, District 5, Department 1","Lord, Nancy",53
+Precinct 3,"District Court Judge, District 5, Department 1","Wanker, Kimberly A. ""Kim""",97
 Precinct 3,Justice of the Peace - ESMERALDA - NP,"COLVIN, JUANITA M.",138
 Precinct 3,Justice of the Peace - ESMERALDA - NP,"GUMBMANN, STARLA RAE",41
 Precinct 3,President,"GOODE, VIRGIL",3
@@ -78,11 +78,11 @@ Precinct 3,U.S. Senate,"Berkley, Shelley",23
 Precinct 3,U.S. Senate,"Heller, Dean",133
 Precinct 3,U.S. Senate,None Of These Candidates,14
 Precinct 3,U.S. Senate,"VANDERBEEK, DAVID LORY",16
-Precinct 3,"University Board of Regents, District  9","Knecht, Ron",72
-Precinct 3,"University Board of Regents, District  9","Mackedon, Michon",62
+Precinct 3,"University Board of Regents, District 9","Knecht, Ron",72
+Precinct 3,"University Board of Regents, District 9","Mackedon, Michon",62
 Precinct 4,County Commissioner District 2,"BOLAND, NANCY",10
-Precinct 4,"District Court Judge, District 5, Department  1","Lord, Nancy",5
-Precinct 4,"District Court Judge, District 5, Department  1","Wanker, Kimberly A. ""Kim""",8
+Precinct 4,"District Court Judge, District 5, Department 1","Lord, Nancy",5
+Precinct 4,"District Court Judge, District 5, Department 1","Wanker, Kimberly A. ""Kim""",8
 Precinct 4,Justice of the Peace - ESMERALDA - NP,"COLVIN, JUANITA M.",13
 Precinct 4,Justice of the Peace - ESMERALDA - NP,"GUMBMANN, STARLA RAE",0
 Precinct 4,President,"GOODE, VIRGIL",0
@@ -105,11 +105,11 @@ Precinct 4,U.S. Senate,"Berkley, Shelley",4
 Precinct 4,U.S. Senate,"Heller, Dean",9
 Precinct 4,U.S. Senate,None Of These Candidates,0
 Precinct 4,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-Precinct 4,"University Board of Regents, District  9","Knecht, Ron",5
-Precinct 4,"University Board of Regents, District  9","Mackedon, Michon",7
+Precinct 4,"University Board of Regents, District 9","Knecht, Ron",5
+Precinct 4,"University Board of Regents, District 9","Mackedon, Michon",7
 Precinct 5,County Commissioner District 2,"BOLAND, NANCY",
-Precinct 5,"District Court Judge, District 5, Department  1","Lord, Nancy",
-Precinct 5,"District Court Judge, District 5, Department  1","Wanker, Kimberly A. ""Kim""",
+Precinct 5,"District Court Judge, District 5, Department 1","Lord, Nancy",
+Precinct 5,"District Court Judge, District 5, Department 1","Wanker, Kimberly A. ""Kim""",
 Precinct 5,Justice of the Peace - ESMERALDA - NP,"COLVIN, JUANITA M.",
 Precinct 5,Justice of the Peace - ESMERALDA - NP,"GUMBMANN, STARLA RAE",
 Precinct 5,President,"GOODE, VIRGIL",
@@ -132,8 +132,8 @@ Precinct 5,U.S. Senate,"Berkley, Shelley",
 Precinct 5,U.S. Senate,"Heller, Dean",
 Precinct 5,U.S. Senate,None Of These Candidates,
 Precinct 5,U.S. Senate,"VANDERBEEK, DAVID LORY",
-Precinct 5,"University Board of Regents, District  9","Knecht, Ron",
-Precinct 5,"University Board of Regents, District  9","Mackedon, Michon",
+Precinct 5,"University Board of Regents, District 9","Knecht, Ron",
+Precinct 5,"University Board of Regents, District 9","Mackedon, Michon",
 Precinct 88,President,"GOODE, VIRGIL",0
 Precinct 88,President,"JOHNSON, GARY",0
 Precinct 88,President,None Of These Candidates,0

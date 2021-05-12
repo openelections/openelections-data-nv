@@ -1,7 +1,7 @@
 precinct,office,candidate,votes
 PRECINCT 1,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",20
 PRECINCT 1,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",52
-PRECINCT 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",104
+PRECINCT 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",104
 PRECINCT 1,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 1,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 1,Governor (Democratic),"Frye, Stephen H.",7
@@ -43,7 +43,7 @@ PRECINCT 1,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 1,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",2
 PRECINCT 10,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",0
 PRECINCT 10,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",0
-PRECINCT 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",0
+PRECINCT 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",0
 PRECINCT 10,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 10,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 10,Governor (Democratic),"Frye, Stephen H.",1
@@ -85,7 +85,7 @@ PRECINCT 10,"U.S. Representative in Congress, District 4 (Republican)","Monroe, 
 PRECINCT 10,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
 PRECINCT 11,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",6
 PRECINCT 11,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",8
-PRECINCT 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",49
+PRECINCT 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",49
 PRECINCT 11,Governor (Democratic),"Chang, Charles ""Charlie""",8
 PRECINCT 11,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 11,Governor (Democratic),"Frye, Stephen H.",6
@@ -127,7 +127,7 @@ PRECINCT 11,"U.S. Representative in Congress, District 4 (Republican)","Monroe, 
 PRECINCT 11,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
 PRECINCT 12,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",15
 PRECINCT 12,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",25
-PRECINCT 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",66
+PRECINCT 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",66
 PRECINCT 12,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PRECINCT 12,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 12,Governor (Democratic),"Frye, Stephen H.",4
@@ -171,7 +171,7 @@ PRECINCT 12,WALKER LAKE Water District 2 yr (Nonpartisan),"HARTMANN, SHELLEY",66
 PRECINCT 12,WALKER LAKE Water District 2 yr (Nonpartisan),"LACROIX, RUSSELL",56
 PRECINCT 2,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",14
 PRECINCT 2,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",44
-PRECINCT 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",105
+PRECINCT 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",105
 PRECINCT 2,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PRECINCT 2,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 2,Governor (Democratic),"Frye, Stephen H.",7
@@ -213,7 +213,7 @@ PRECINCT 2,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 2,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",2
 PRECINCT 3,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",14
 PRECINCT 3,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",24
-PRECINCT 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",63
+PRECINCT 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",63
 PRECINCT 3,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PRECINCT 3,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 3,Governor (Democratic),"Frye, Stephen H.",4
@@ -255,7 +255,7 @@ PRECINCT 3,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 3,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
 PRECINCT 4,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",6
 PRECINCT 4,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",26
-PRECINCT 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",53
+PRECINCT 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",53
 PRECINCT 4,Governor (Democratic),"Chang, Charles ""Charlie""",1
 PRECINCT 4,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 4,Governor (Democratic),"Frye, Stephen H.",4
@@ -297,7 +297,7 @@ PRECINCT 4,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 4,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
 PRECINCT 5,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",6
 PRECINCT 5,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",29
-PRECINCT 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",75
+PRECINCT 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",75
 PRECINCT 5,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PRECINCT 5,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 5,Governor (Democratic),"Frye, Stephen H.",5
@@ -339,7 +339,7 @@ PRECINCT 5,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 5,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
 PRECINCT 6,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",22
 PRECINCT 6,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",22
-PRECINCT 6,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",82
+PRECINCT 6,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",82
 PRECINCT 6,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PRECINCT 6,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 6,Governor (Democratic),"Frye, Stephen H.",5
@@ -381,7 +381,7 @@ PRECINCT 6,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 6,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",1
 PRECINCT 7,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",8
 PRECINCT 7,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",5
-PRECINCT 7,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",17
+PRECINCT 7,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",17
 PRECINCT 7,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 7,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 7,Governor (Democratic),"Frye, Stephen H.",0
@@ -423,7 +423,7 @@ PRECINCT 7,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 7,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",1
 PRECINCT 8,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",0
 PRECINCT 8,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",3
-PRECINCT 8,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",8
+PRECINCT 8,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",8
 PRECINCT 8,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 8,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 8,Governor (Democratic),"Frye, Stephen H.",2
@@ -465,7 +465,7 @@ PRECINCT 8,"U.S. Representative in Congress, District 4 (Republican)","Monroe, M
 PRECINCT 8,"U.S. Representative in Congress, District 4 (Republican)","Poliak, Carlo ""Mazunga""",0
 PRECINCT 9,Clerk/Treasurer (Republican),"FARLEY, TERESA ""TERI""",11
 PRECINCT 9,Clerk/Treasurer (Republican),"HAIGHT, LORRAINE",24
-PRECINCT 9,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",51
+PRECINCT 9,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",51
 PRECINCT 9,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 9,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 9,Governor (Democratic),"Frye, Stephen H.",0

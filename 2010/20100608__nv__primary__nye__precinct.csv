@@ -10,11 +10,11 @@ AMARGOSA VLY 06,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",27
 AMARGOSA VLY 06,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",46
 AMARGOSA VLY 06,COUNTY RECORDER (Republican),"FOSTER, BYRON",34
 AMARGOSA VLY 06,COUNTY RECORDER (Republican),"WYRICK, CINDY",20
-AMARGOSA VLY 06,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",23
-AMARGOSA VLY 06,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",95
-AMARGOSA VLY 06,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",46
-AMARGOSA VLY 06,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",18
-AMARGOSA VLY 06,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",9
+AMARGOSA VLY 06,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",23
+AMARGOSA VLY 06,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",95
+AMARGOSA VLY 06,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",46
+AMARGOSA VLY 06,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",18
+AMARGOSA VLY 06,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",9
 AMARGOSA VLY 06,County Treasurer (Republican),"LACKEY, DARRYL",37
 AMARGOSA VLY 06,County Treasurer (Republican),"MAHER, MICHAEL W.",58
 AMARGOSA VLY 06,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",9
@@ -72,9 +72,9 @@ AMARGOSA VLY 06,U.S. Senate (Republican),"Parson, Bill",3
 AMARGOSA VLY 06,U.S. Senate (Republican),"Stern, Cecilia",1
 AMARGOSA VLY 06,U.S. Senate (Republican),"Suominen, Terry",0
 AMARGOSA VLY 06,U.S. Senate (Republican),"Tarkanian, Danny",29
-AMARGOSA VLY 06,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",44
-AMARGOSA VLY 06,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",57
-AMARGOSA VLY 06,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",60
+AMARGOSA VLY 06,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",44
+AMARGOSA VLY 06,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",57
+AMARGOSA VLY 06,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",60
 BEATTY 01,Attorney General (Republican),"Barrick, Travis",42
 BEATTY 01,Attorney General (Republican),"Hafter, Jacob",34
 BEATTY 01,Attorney General (Republican),None Of These Candidates,29
@@ -86,11 +86,11 @@ BEATTY 01,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",21
 BEATTY 01,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",40
 BEATTY 01,COUNTY RECORDER (Republican),"FOSTER, BYRON",34
 BEATTY 01,COUNTY RECORDER (Republican),"WYRICK, CINDY",34
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",32
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",104
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",55
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",4
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",6
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",32
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",104
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",55
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",4
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",6
 BEATTY 01,County Treasurer (Republican),"LACKEY, DARRYL",28
 BEATTY 01,County Treasurer (Republican),"MAHER, MICHAEL W.",67
 BEATTY 01,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",14
@@ -148,9 +148,9 @@ BEATTY 01,U.S. Senate (Republican),"Parson, Bill",2
 BEATTY 01,U.S. Senate (Republican),"Stern, Cecilia",0
 BEATTY 01,U.S. Senate (Republican),"Suominen, Terry",0
 BEATTY 01,U.S. Senate (Republican),"Tarkanian, Danny",15
-BEATTY 01,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",42
-BEATTY 01,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",58
-BEATTY 01,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",61
+BEATTY 01,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",42
+BEATTY 01,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",58
+BEATTY 01,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",61
 CURRANT 02,Attorney General (Republican),"Barrick, Travis",9
 CURRANT 02,Attorney General (Republican),"Hafter, Jacob",4
 CURRANT 02,Attorney General (Republican),None Of These Candidates,5
@@ -162,11 +162,11 @@ CURRANT 02,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",1
 CURRANT 02,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",4
 CURRANT 02,COUNTY RECORDER (Republican),"FOSTER, BYRON",7
 CURRANT 02,COUNTY RECORDER (Republican),"WYRICK, CINDY",7
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",4
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",23
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",4
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",3
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",1
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",4
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",23
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",4
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",3
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",1
 CURRANT 02,County Treasurer (Republican),"LACKEY, DARRYL",3
 CURRANT 02,County Treasurer (Republican),"MAHER, MICHAEL W.",10
 CURRANT 02,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",
@@ -225,9 +225,9 @@ CURRANT 02,U.S. Senate (Republican),"Parson, Bill",0
 CURRANT 02,U.S. Senate (Republican),"Stern, Cecilia",0
 CURRANT 02,U.S. Senate (Republican),"Suominen, Terry",0
 CURRANT 02,U.S. Senate (Republican),"Tarkanian, Danny",9
-CURRANT 02,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",3
-CURRANT 02,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",8
-CURRANT 02,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",14
+CURRANT 02,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",3
+CURRANT 02,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",8
+CURRANT 02,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",14
 DUCKWATER 03,Attorney General (Republican),"Barrick, Travis",
 DUCKWATER 03,Attorney General (Republican),"Hafter, Jacob",
 DUCKWATER 03,Attorney General (Republican),None Of These Candidates,
@@ -239,11 +239,11 @@ DUCKWATER 03,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",
 DUCKWATER 03,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",
 DUCKWATER 03,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 DUCKWATER 03,COUNTY RECORDER (Republican),"WYRICK, CINDY",
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",5
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",10
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",4
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",2
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",5
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",5
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",10
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",4
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",2
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",5
 DUCKWATER 03,County Treasurer (Republican),"LACKEY, DARRYL",
 DUCKWATER 03,County Treasurer (Republican),"MAHER, MICHAEL W.",
 DUCKWATER 03,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",11
@@ -252,9 +252,9 @@ DUCKWATER 03,DISTRICT ATTORNEY (Republican),"BECKETT, BOB",
 DUCKWATER 03,U.S. Senate (Republican),"Stern, Cecilia",
 DUCKWATER 03,U.S. Senate (Republican),"Suominen, Terry",
 DUCKWATER 03,U.S. Senate (Republican),"Tarkanian, Danny",
-DUCKWATER 03,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",4
-DUCKWATER 03,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",5
-DUCKWATER 03,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",16
+DUCKWATER 03,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",4
+DUCKWATER 03,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",5
+DUCKWATER 03,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",16
 FORTY BAR 18,Attorney General (Republican),"Barrick, Travis",3
 FORTY BAR 18,Attorney General (Republican),"Hafter, Jacob",7
 FORTY BAR 18,Attorney General (Republican),None Of These Candidates,8
@@ -266,11 +266,11 @@ FORTY BAR 18,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",3
 FORTY BAR 18,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",7
 FORTY BAR 18,COUNTY RECORDER (Republican),"FOSTER, BYRON",7
 FORTY BAR 18,COUNTY RECORDER (Republican),"WYRICK, CINDY",3
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",9
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",13
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",7
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",9
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",2
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",9
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",13
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",7
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",9
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",2
 FORTY BAR 18,County Treasurer (Republican),"LACKEY, DARRYL",4
 FORTY BAR 18,County Treasurer (Republican),"MAHER, MICHAEL W.",12
 FORTY BAR 18,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",2
@@ -328,9 +328,9 @@ FORTY BAR 18,U.S. Senate (Republican),"Parson, Bill",1
 FORTY BAR 18,U.S. Senate (Republican),"Stern, Cecilia",0
 FORTY BAR 18,U.S. Senate (Republican),"Suominen, Terry",0
 FORTY BAR 18,U.S. Senate (Republican),"Tarkanian, Danny",7
-FORTY BAR 18,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",6
-FORTY BAR 18,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",12
-FORTY BAR 18,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",9
+FORTY BAR 18,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",6
+FORTY BAR 18,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",12
+FORTY BAR 18,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",9
 GABBS 04,Attorney General (Republican),"Barrick, Travis",18
 GABBS 04,Attorney General (Republican),"Hafter, Jacob",12
 GABBS 04,Attorney General (Republican),None Of These Candidates,7
@@ -342,11 +342,11 @@ GABBS 04,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",5
 GABBS 04,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",7
 GABBS 04,COUNTY RECORDER (Republican),"FOSTER, BYRON",14
 GABBS 04,COUNTY RECORDER (Republican),"WYRICK, CINDY",13
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",14
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",21
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",18
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",10
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",15
+GABBS 04,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",14
+GABBS 04,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",21
+GABBS 04,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",18
+GABBS 04,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",10
+GABBS 04,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",15
 GABBS 04,County Treasurer (Republican),"LACKEY, DARRYL",20
 GABBS 04,County Treasurer (Republican),"MAHER, MICHAEL W.",15
 GABBS 04,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",14
@@ -405,9 +405,9 @@ GABBS 04,U.S. Senate (Republican),"Parson, Bill",1
 GABBS 04,U.S. Senate (Republican),"Stern, Cecilia",1
 GABBS 04,U.S. Senate (Republican),"Suominen, Terry",0
 GABBS 04,U.S. Senate (Republican),"Tarkanian, Danny",11
-GABBS 04,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",18
-GABBS 04,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",18
-GABBS 04,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",38
+GABBS 04,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",18
+GABBS 04,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",18
+GABBS 04,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",38
 IONE 05,Attorney General (Republican),"Barrick, Travis",
 IONE 05,Attorney General (Republican),"Hafter, Jacob",
 IONE 05,Attorney General (Republican),None Of These Candidates,
@@ -419,11 +419,11 @@ IONE 05,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",
 IONE 05,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",
 IONE 05,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 IONE 05,COUNTY RECORDER (Republican),"WYRICK, CINDY",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",
+IONE 05,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",
+IONE 05,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",
+IONE 05,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",
+IONE 05,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
+IONE 05,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",
 IONE 05,County Treasurer (Republican),"LACKEY, DARRYL",
 IONE 05,County Treasurer (Republican),"MAHER, MICHAEL W.",
 IONE 05,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",
@@ -449,8 +449,8 @@ IONE 05,Lieutenant Governor (Democratic),"Randazzo, Robert S.",
 IONE 05,Lieutenant Governor (Democratic),"Sferrazza, Jessica",
 IONE 05,Lieutenant Governor (Republican),"Krolicki, Brian",
 IONE 05,Lieutenant Governor (Republican),None Of These Candidates,
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",0
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",0
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",0
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",0
 MANHATTAN 07,County Treasurer (Republican),"LACKEY, DARRYL",7
 MANHATTAN 07,County Treasurer (Republican),"MAHER, MICHAEL W.",11
 MANHATTAN 07,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",
@@ -509,9 +509,9 @@ MANHATTAN 07,U.S. Senate (Republican),"Parson, Bill",1
 MANHATTAN 07,U.S. Senate (Republican),"Stern, Cecilia",0
 MANHATTAN 07,U.S. Senate (Republican),"Suominen, Terry",0
 MANHATTAN 07,U.S. Senate (Republican),"Tarkanian, Danny",4
-MANHATTAN 07,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",6
-MANHATTAN 07,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",13
-MANHATTAN 07,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",8
+MANHATTAN 07,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",6
+MANHATTAN 07,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",13
+MANHATTAN 07,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",8
 MERCURY 08,Attorney General (Republican),"Barrick, Travis",
 MERCURY 08,Attorney General (Republican),"Hafter, Jacob",
 MERCURY 08,Attorney General (Republican),None Of These Candidates,
@@ -523,11 +523,11 @@ MERCURY 08,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",
 MERCURY 08,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",
 MERCURY 08,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 MERCURY 08,COUNTY RECORDER (Republican),"WYRICK, CINDY",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",
 MERCURY 08,County Treasurer (Republican),"LACKEY, DARRYL",
 MERCURY 08,County Treasurer (Republican),"MAHER, MICHAEL W.",
 MERCURY 08,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",
@@ -585,9 +585,9 @@ MERCURY 08,U.S. Senate (Republican),"Parson, Bill",
 MERCURY 08,U.S. Senate (Republican),"Stern, Cecilia",
 MERCURY 08,U.S. Senate (Republican),"Suominen, Terry",
 MERCURY 08,U.S. Senate (Republican),"Tarkanian, Danny",
-MERCURY 08,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",
-MERCURY 08,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",
-MERCURY 08,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",
+MERCURY 08,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",
+MERCURY 08,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",
+MERCURY 08,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",
 PAHRUMP 09,Attorney General (Republican),"Barrick, Travis",123
 PAHRUMP 09,Attorney General (Republican),"Hafter, Jacob",85
 PAHRUMP 09,Attorney General (Republican),None Of These Candidates,63
@@ -599,11 +599,11 @@ PAHRUMP 09,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",102
 PAHRUMP 09,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",116
 PAHRUMP 09,COUNTY RECORDER (Republican),"FOSTER, BYRON",115
 PAHRUMP 09,COUNTY RECORDER (Republican),"WYRICK, CINDY",51
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",136
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",219
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",117
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",43
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",18
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",136
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",219
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",117
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",43
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",18
 PAHRUMP 09,County Treasurer (Republican),"LACKEY, DARRYL",108
 PAHRUMP 09,County Treasurer (Republican),"MAHER, MICHAEL W.",159
 PAHRUMP 09,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",47
@@ -677,9 +677,9 @@ PAHRUMP 09,U.S. Senate (Republican),"Parson, Bill",10
 PAHRUMP 09,U.S. Senate (Republican),"Stern, Cecilia",1
 PAHRUMP 09,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 09,U.S. Senate (Republican),"Tarkanian, Danny",57
-PAHRUMP 09,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",93
-PAHRUMP 09,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",180
-PAHRUMP 09,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",170
+PAHRUMP 09,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",93
+PAHRUMP 09,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",180
+PAHRUMP 09,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",170
 PAHRUMP 10,Attorney General (Republican),"Barrick, Travis",53
 PAHRUMP 10,Attorney General (Republican),"Hafter, Jacob",36
 PAHRUMP 10,Attorney General (Republican),None Of These Candidates,44
@@ -694,11 +694,11 @@ PAHRUMP 10,County Commissioner District IV (Republican),"MOORE SR., CARL L.",49
 PAHRUMP 10,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",67
 PAHRUMP 10,COUNTY RECORDER (Republican),"FOSTER, BYRON",40
 PAHRUMP 10,COUNTY RECORDER (Republican),"WYRICK, CINDY",22
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",62
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",99
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",63
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",23
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",6
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",62
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",99
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",63
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",23
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",6
 PAHRUMP 10,County Treasurer (Republican),"LACKEY, DARRYL",52
 PAHRUMP 10,County Treasurer (Republican),"MAHER, MICHAEL W.",78
 PAHRUMP 10,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",21
@@ -776,9 +776,9 @@ PAHRUMP 10,U.S. Senate (Republican),"Parson, Bill",5
 PAHRUMP 10,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 10,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 10,U.S. Senate (Republican),"Tarkanian, Danny",28
-PAHRUMP 10,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",41
-PAHRUMP 10,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",81
-PAHRUMP 10,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",75
+PAHRUMP 10,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",41
+PAHRUMP 10,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",81
+PAHRUMP 10,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",75
 PAHRUMP 11,Attorney General (Republican),"Barrick, Travis",49
 PAHRUMP 11,Attorney General (Republican),"Hafter, Jacob",42
 PAHRUMP 11,Attorney General (Republican),None Of These Candidates,37
@@ -793,11 +793,11 @@ PAHRUMP 11,County Commissioner District IV (Republican),"MOORE SR., CARL L.",56
 PAHRUMP 11,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",43
 PAHRUMP 11,COUNTY RECORDER (Republican),"FOSTER, BYRON",62
 PAHRUMP 11,COUNTY RECORDER (Republican),"WYRICK, CINDY",27
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",58
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",136
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",35
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",20
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",8
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",58
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",136
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",35
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",20
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",8
 PAHRUMP 11,County Treasurer (Republican),"LACKEY, DARRYL",35
 PAHRUMP 11,County Treasurer (Republican),"MAHER, MICHAEL W.",92
 PAHRUMP 11,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",18
@@ -870,9 +870,9 @@ PAHRUMP 11,U.S. Senate (Republican),"Parson, Bill",0
 PAHRUMP 11,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 11,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 11,U.S. Senate (Republican),"Tarkanian, Danny",30
-PAHRUMP 11,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",34
-PAHRUMP 11,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",77
-PAHRUMP 11,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",86
+PAHRUMP 11,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",34
+PAHRUMP 11,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",77
+PAHRUMP 11,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",86
 PAHRUMP 16,Attorney General (Republican),"Barrick, Travis",73
 PAHRUMP 16,Attorney General (Republican),"Hafter, Jacob",61
 PAHRUMP 16,Attorney General (Republican),None Of These Candidates,41
@@ -887,11 +887,11 @@ PAHRUMP 16,County Commissioner District IV (Republican),"MOORE SR., CARL L.",62
 PAHRUMP 16,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",55
 PAHRUMP 16,COUNTY RECORDER (Republican),"FOSTER, BYRON",71
 PAHRUMP 16,COUNTY RECORDER (Republican),"WYRICK, CINDY",43
-PAHRUMP 16,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",81
-PAHRUMP 16,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",173
-PAHRUMP 16,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",61
-PAHRUMP 16,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
-PAHRUMP 16,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",9
+PAHRUMP 16,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",81
+PAHRUMP 16,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",173
+PAHRUMP 16,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",61
+PAHRUMP 16,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
+PAHRUMP 16,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",9
 PAHRUMP 16,County Treasurer (Republican),"LACKEY, DARRYL",52
 PAHRUMP 16,County Treasurer (Republican),"MAHER, MICHAEL W.",115
 PAHRUMP 16,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",25
@@ -969,9 +969,9 @@ PAHRUMP 16,U.S. Senate (Republican),"Parson, Bill",3
 PAHRUMP 16,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 16,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 16,U.S. Senate (Republican),"Tarkanian, Danny",44
-PAHRUMP 16,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",52
-PAHRUMP 16,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",95
-PAHRUMP 16,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",125
+PAHRUMP 16,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",52
+PAHRUMP 16,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",95
+PAHRUMP 16,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",125
 PAHRUMP 17,Attorney General (Republican),"Barrick, Travis",76
 PAHRUMP 17,Attorney General (Republican),"Hafter, Jacob",56
 PAHRUMP 17,Attorney General (Republican),None Of These Candidates,37
@@ -987,11 +987,11 @@ PAHRUMP 17,County Commissioner District V (Republican),"SCHINHOFEN, DAN",110
 PAHRUMP 17,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",68
 PAHRUMP 17,COUNTY RECORDER (Republican),"FOSTER, BYRON",75
 PAHRUMP 17,COUNTY RECORDER (Republican),"WYRICK, CINDY",27
-PAHRUMP 17,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",130
-PAHRUMP 17,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",155
-PAHRUMP 17,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",34
-PAHRUMP 17,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",12
-PAHRUMP 17,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",6
+PAHRUMP 17,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",130
+PAHRUMP 17,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",155
+PAHRUMP 17,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",34
+PAHRUMP 17,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",12
+PAHRUMP 17,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",6
 PAHRUMP 17,County Treasurer (Republican),"LACKEY, DARRYL",54
 PAHRUMP 17,County Treasurer (Republican),"MAHER, MICHAEL W.",115
 PAHRUMP 17,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",18
@@ -1064,9 +1064,9 @@ PAHRUMP 17,U.S. Senate (Republican),"Parson, Bill",7
 PAHRUMP 17,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 17,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 17,U.S. Senate (Republican),"Tarkanian, Danny",44
-PAHRUMP 17,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",34
-PAHRUMP 17,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",111
-PAHRUMP 17,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",142
+PAHRUMP 17,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",34
+PAHRUMP 17,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",111
+PAHRUMP 17,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",142
 PAHRUMP 19,Attorney General (Republican),"Barrick, Travis",159
 PAHRUMP 19,Attorney General (Republican),"Hafter, Jacob",88
 PAHRUMP 19,Attorney General (Republican),None Of These Candidates,91
@@ -1078,11 +1078,11 @@ PAHRUMP 19,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",122
 PAHRUMP 19,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",129
 PAHRUMP 19,COUNTY RECORDER (Republican),"FOSTER, BYRON",146
 PAHRUMP 19,COUNTY RECORDER (Republican),"WYRICK, CINDY",65
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",122
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",308
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",117
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",35
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",22
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",122
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",308
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",117
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",35
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",22
 PAHRUMP 19,County Treasurer (Republican),"LACKEY, DARRYL",124
 PAHRUMP 19,County Treasurer (Republican),"MAHER, MICHAEL W.",204
 PAHRUMP 19,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",44
@@ -1160,9 +1160,9 @@ PAHRUMP 19,U.S. Senate (Republican),"Parson, Bill",7
 PAHRUMP 19,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 19,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 19,U.S. Senate (Republican),"Tarkanian, Danny",64
-PAHRUMP 19,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",102
-PAHRUMP 19,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",176
-PAHRUMP 19,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",217
+PAHRUMP 19,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",102
+PAHRUMP 19,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",176
+PAHRUMP 19,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",217
 PAHRUMP 20,Attorney General (Republican),"Barrick, Travis",49
 PAHRUMP 20,Attorney General (Republican),"Hafter, Jacob",29
 PAHRUMP 20,Attorney General (Republican),None Of These Candidates,32
@@ -1178,11 +1178,11 @@ PAHRUMP 20,County Commissioner District V (Republican),"SCHINHOFEN, DAN",71
 PAHRUMP 20,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",45
 PAHRUMP 20,COUNTY RECORDER (Republican),"FOSTER, BYRON",37
 PAHRUMP 20,COUNTY RECORDER (Republican),"WYRICK, CINDY",18
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",55
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",67
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",50
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",19
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",5
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",55
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",67
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",50
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",19
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",5
 PAHRUMP 20,County Treasurer (Republican),"LACKEY, DARRYL",39
 PAHRUMP 20,County Treasurer (Republican),"MAHER, MICHAEL W.",61
 PAHRUMP 20,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",13
@@ -1296,9 +1296,9 @@ PAHRUMP 21,U.S. Senate (Republican),"Parson, Bill",8
 PAHRUMP 21,U.S. Senate (Republican),"Stern, Cecilia",2
 PAHRUMP 21,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 21,U.S. Senate (Republican),"Tarkanian, Danny",57
-PAHRUMP 21,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",83
-PAHRUMP 21,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",151
-PAHRUMP 21,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",184
+PAHRUMP 21,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",83
+PAHRUMP 21,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",151
+PAHRUMP 21,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",184
 PAHRUMP 22,Attorney General (Republican),"Barrick, Travis",54
 PAHRUMP 22,Attorney General (Republican),"Hafter, Jacob",57
 PAHRUMP 22,Attorney General (Republican),None Of These Candidates,23
@@ -1314,11 +1314,11 @@ PAHRUMP 22,County Commissioner District V (Republican),"SCHINHOFEN, DAN",97
 PAHRUMP 22,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",55
 PAHRUMP 22,COUNTY RECORDER (Republican),"FOSTER, BYRON",47
 PAHRUMP 22,COUNTY RECORDER (Republican),"WYRICK, CINDY",30
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",79
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",113
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",64
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",12
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",79
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",113
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",64
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",12
 PAHRUMP 22,County Treasurer (Republican),"LACKEY, DARRYL",45
 PAHRUMP 22,County Treasurer (Republican),"MAHER, MICHAEL W.",82
 PAHRUMP 22,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",23
@@ -1391,9 +1391,9 @@ PAHRUMP 22,U.S. Senate (Republican),"Parson, Bill",3
 PAHRUMP 22,U.S. Senate (Republican),"Stern, Cecilia",1
 PAHRUMP 22,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 22,U.S. Senate (Republican),"Tarkanian, Danny",31
-PAHRUMP 22,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",49
-PAHRUMP 22,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",85
-PAHRUMP 22,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",99
+PAHRUMP 22,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",49
+PAHRUMP 22,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",85
+PAHRUMP 22,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",99
 PAHRUMP 23,Attorney General (Republican),"Barrick, Travis",49
 PAHRUMP 23,Attorney General (Republican),"Hafter, Jacob",35
 PAHRUMP 23,Attorney General (Republican),None Of These Candidates,18
@@ -1405,11 +1405,11 @@ PAHRUMP 23,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",40
 PAHRUMP 23,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",38
 PAHRUMP 23,COUNTY RECORDER (Republican),"FOSTER, BYRON",43
 PAHRUMP 23,COUNTY RECORDER (Republican),"WYRICK, CINDY",21
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",58
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",85
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",36
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",16
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",10
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",58
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",85
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",36
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",16
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",10
 PAHRUMP 23,County Treasurer (Republican),"LACKEY, DARRYL",47
 PAHRUMP 23,County Treasurer (Republican),"MAHER, MICHAEL W.",53
 PAHRUMP 23,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",16
@@ -1482,9 +1482,9 @@ PAHRUMP 23,U.S. Senate (Republican),"Parson, Bill",0
 PAHRUMP 23,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 23,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 23,U.S. Senate (Republican),"Tarkanian, Danny",26
-PAHRUMP 23,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",42
-PAHRUMP 23,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",47
-PAHRUMP 23,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",70
+PAHRUMP 23,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",42
+PAHRUMP 23,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",47
+PAHRUMP 23,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",70
 PAHRUMP 24,Attorney General (Republican),"Barrick, Travis",83
 PAHRUMP 24,Attorney General (Republican),"Hafter, Jacob",69
 PAHRUMP 24,Attorney General (Republican),None Of These Candidates,40
@@ -1500,11 +1500,11 @@ PAHRUMP 24,County Commissioner District V (Republican),"SCHINHOFEN, DAN",141
 PAHRUMP 24,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",73
 PAHRUMP 24,COUNTY RECORDER (Republican),"FOSTER, BYRON",86
 PAHRUMP 24,COUNTY RECORDER (Republican),"WYRICK, CINDY",28
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",121
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",128
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",65
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",27
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",7
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",121
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",128
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",65
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",27
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",7
 PAHRUMP 24,County Treasurer (Republican),"LACKEY, DARRYL",51
 PAHRUMP 24,County Treasurer (Republican),"MAHER, MICHAEL W.",133
 PAHRUMP 24,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",26
@@ -1577,9 +1577,9 @@ PAHRUMP 24,U.S. Senate (Republican),"Parson, Bill",10
 PAHRUMP 24,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 24,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 24,U.S. Senate (Republican),"Tarkanian, Danny",54
-PAHRUMP 24,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",42
-PAHRUMP 24,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",116
-PAHRUMP 24,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",111
+PAHRUMP 24,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",42
+PAHRUMP 24,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",116
+PAHRUMP 24,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",111
 PAHRUMP 25,Attorney General (Republican),"Barrick, Travis",105
 PAHRUMP 25,Attorney General (Republican),"Hafter, Jacob",44
 PAHRUMP 25,Attorney General (Republican),None Of These Candidates,54
@@ -1591,11 +1591,11 @@ PAHRUMP 25,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",59
 PAHRUMP 25,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",73
 PAHRUMP 25,COUNTY RECORDER (Republican),"FOSTER, BYRON",89
 PAHRUMP 25,COUNTY RECORDER (Republican),"WYRICK, CINDY",39
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",111
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",188
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",72
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",41
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",11
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",111
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",188
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",72
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",41
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",11
 PAHRUMP 25,County Treasurer (Republican),"LACKEY, DARRYL",73
 PAHRUMP 25,County Treasurer (Republican),"MAHER, MICHAEL W.",119
 PAHRUMP 25,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",20
@@ -1668,9 +1668,9 @@ PAHRUMP 25,U.S. Senate (Republican),"Parson, Bill",6
 PAHRUMP 25,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 25,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 25,U.S. Senate (Republican),"Tarkanian, Danny",55
-PAHRUMP 25,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",75
-PAHRUMP 25,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",115
-PAHRUMP 25,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",141
+PAHRUMP 25,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",75
+PAHRUMP 25,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",115
+PAHRUMP 25,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",141
 PAHRUMP 26,Attorney General (Republican),"Barrick, Travis",65
 PAHRUMP 26,Attorney General (Republican),"Hafter, Jacob",68
 PAHRUMP 26,Attorney General (Republican),None Of These Candidates,41
@@ -1682,11 +1682,11 @@ PAHRUMP 26,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",49
 PAHRUMP 26,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",74
 PAHRUMP 26,COUNTY RECORDER (Republican),"FOSTER, BYRON",62
 PAHRUMP 26,COUNTY RECORDER (Republican),"WYRICK, CINDY",34
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",82
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",143
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",81
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",30
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",23
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",82
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",143
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",81
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",30
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",23
 PAHRUMP 26,County Treasurer (Republican),"LACKEY, DARRYL",74
 PAHRUMP 26,County Treasurer (Republican),"MAHER, MICHAEL W.",92
 PAHRUMP 26,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",32
@@ -1760,9 +1760,9 @@ PAHRUMP 26,U.S. Senate (Republican),"Parson, Bill",5
 PAHRUMP 26,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 26,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 26,U.S. Senate (Republican),"Tarkanian, Danny",41
-PAHRUMP 26,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",64
-PAHRUMP 26,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",118
-PAHRUMP 26,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",115
+PAHRUMP 26,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",64
+PAHRUMP 26,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",118
+PAHRUMP 26,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",115
 PAHRUMP 27,Attorney General (Republican),"Barrick, Travis",83
 PAHRUMP 27,Attorney General (Republican),"Hafter, Jacob",62
 PAHRUMP 27,Attorney General (Republican),None Of These Candidates,56
@@ -1774,11 +1774,11 @@ PAHRUMP 27,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",51
 PAHRUMP 27,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",82
 PAHRUMP 27,COUNTY RECORDER (Republican),"FOSTER, BYRON",80
 PAHRUMP 27,COUNTY RECORDER (Republican),"WYRICK, CINDY",28
-PAHRUMP 27,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",109
-PAHRUMP 27,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",169
-PAHRUMP 27,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",58
-PAHRUMP 27,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",38
-PAHRUMP 27,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",17
+PAHRUMP 27,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",109
+PAHRUMP 27,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",169
+PAHRUMP 27,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",58
+PAHRUMP 27,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",38
+PAHRUMP 27,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",17
 PAHRUMP 27,County Treasurer (Republican),"LACKEY, DARRYL",66
 PAHRUMP 27,County Treasurer (Republican),"MAHER, MICHAEL W.",119
 PAHRUMP 27,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",38
@@ -1852,9 +1852,9 @@ PAHRUMP 27,U.S. Senate (Republican),"Parson, Bill",3
 PAHRUMP 27,U.S. Senate (Republican),"Stern, Cecilia",1
 PAHRUMP 27,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 27,U.S. Senate (Republican),"Tarkanian, Danny",55
-PAHRUMP 27,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",50
-PAHRUMP 27,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",133
-PAHRUMP 27,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",127
+PAHRUMP 27,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",50
+PAHRUMP 27,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",133
+PAHRUMP 27,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",127
 PAHRUMP 28,Attorney General (Republican),"Barrick, Travis",131
 PAHRUMP 28,Attorney General (Republican),"Hafter, Jacob",79
 PAHRUMP 28,Attorney General (Republican),None Of These Candidates,87
@@ -1869,11 +1869,11 @@ PAHRUMP 28,County Commissioner District IV (Republican),"MOORE SR., CARL L.",118
 PAHRUMP 28,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",118
 PAHRUMP 28,COUNTY RECORDER (Republican),"FOSTER, BYRON",132
 PAHRUMP 28,COUNTY RECORDER (Republican),"WYRICK, CINDY",47
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",146
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",273
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",75
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",29
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",22
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",146
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",273
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",75
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",29
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",22
 PAHRUMP 28,County Treasurer (Republican),"LACKEY, DARRYL",99
 PAHRUMP 28,County Treasurer (Republican),"MAHER, MICHAEL W.",183
 PAHRUMP 28,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",40
@@ -1946,9 +1946,9 @@ PAHRUMP 28,U.S. Senate (Republican),"Parson, Bill",3
 PAHRUMP 28,U.S. Senate (Republican),"Stern, Cecilia",1
 PAHRUMP 28,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 28,U.S. Senate (Republican),"Tarkanian, Danny",71
-PAHRUMP 28,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",79
-PAHRUMP 28,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",183
-PAHRUMP 28,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",166
+PAHRUMP 28,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",79
+PAHRUMP 28,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",183
+PAHRUMP 28,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",166
 PAHRUMP 29,Attorney General (Republican),"Barrick, Travis",104
 PAHRUMP 29,Attorney General (Republican),"Hafter, Jacob",55
 PAHRUMP 29,Attorney General (Republican),None Of These Candidates,63
@@ -1963,11 +1963,11 @@ PAHRUMP 29,County Commissioner District IV (Republican),"MOORE SR., CARL L.",96
 PAHRUMP 29,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",87
 PAHRUMP 29,COUNTY RECORDER (Republican),"FOSTER, BYRON",86
 PAHRUMP 29,COUNTY RECORDER (Republican),"WYRICK, CINDY",43
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",98
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",200
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",80
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",12
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",98
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",200
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",80
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",12
 PAHRUMP 29,County Treasurer (Republican),"LACKEY, DARRYL",70
 PAHRUMP 29,County Treasurer (Republican),"MAHER, MICHAEL W.",140
 PAHRUMP 29,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",27
@@ -2045,9 +2045,9 @@ PAHRUMP 29,U.S. Senate (Republican),"Parson, Bill",4
 PAHRUMP 29,U.S. Senate (Republican),"Stern, Cecilia",2
 PAHRUMP 29,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 29,U.S. Senate (Republican),"Tarkanian, Danny",49
-PAHRUMP 29,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",54
-PAHRUMP 29,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",141
-PAHRUMP 29,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",133
+PAHRUMP 29,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",54
+PAHRUMP 29,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",141
+PAHRUMP 29,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",133
 PAHRUMP 30,Attorney General (Republican),"Barrick, Travis",115
 PAHRUMP 30,Attorney General (Republican),"Hafter, Jacob",81
 PAHRUMP 30,Attorney General (Republican),None Of These Candidates,65
@@ -2063,11 +2063,11 @@ PAHRUMP 30,County Commissioner District V (Republican),"SCHINHOFEN, DAN",183
 PAHRUMP 30,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",94
 PAHRUMP 30,COUNTY RECORDER (Republican),"FOSTER, BYRON",122
 PAHRUMP 30,COUNTY RECORDER (Republican),"WYRICK, CINDY",39
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",151
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",204
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",97
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",31
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",14
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",151
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",204
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",97
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",31
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",14
 PAHRUMP 30,County Treasurer (Republican),"LACKEY, DARRYL",83
 PAHRUMP 30,County Treasurer (Republican),"MAHER, MICHAEL W.",167
 PAHRUMP 30,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",22
@@ -2140,9 +2140,9 @@ PAHRUMP 30,U.S. Senate (Republican),"Parson, Bill",5
 PAHRUMP 30,U.S. Senate (Republican),"Stern, Cecilia",0
 PAHRUMP 30,U.S. Senate (Republican),"Suominen, Terry",0
 PAHRUMP 30,U.S. Senate (Republican),"Tarkanian, Danny",71
-PAHRUMP 30,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",76
-PAHRUMP 30,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",158
-PAHRUMP 30,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",145
+PAHRUMP 30,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",76
+PAHRUMP 30,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",158
+PAHRUMP 30,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",145
 PAHRUMP 31,Attorney General (Republican),"Barrick, Travis",68
 PAHRUMP 31,Attorney General (Republican),"Hafter, Jacob",83
 PAHRUMP 31,Attorney General (Republican),None Of These Candidates,75
@@ -2158,11 +2158,11 @@ PAHRUMP 31,County Commissioner District V (Republican),"SCHINHOFEN, DAN",156
 PAHRUMP 31,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",92
 PAHRUMP 31,COUNTY RECORDER (Republican),"FOSTER, BYRON",84
 PAHRUMP 31,COUNTY RECORDER (Republican),"WYRICK, CINDY",44
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",110
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",177
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",82
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",19
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",16
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",110
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",177
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",82
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",19
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",16
 PAHRUMP 31,County Treasurer (Republican),"LACKEY, DARRYL",90
 PAHRUMP 31,County Treasurer (Republican),"MAHER, MICHAEL W.",116
 PAHRUMP 31,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",25
@@ -2235,9 +2235,9 @@ PAHRUMP 31,U.S. Senate (Republican),"Parson, Bill",2
 PAHRUMP 31,U.S. Senate (Republican),"Stern, Cecilia",1
 PAHRUMP 31,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 31,U.S. Senate (Republican),"Tarkanian, Danny",53
-PAHRUMP 31,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",63
-PAHRUMP 31,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",131
-PAHRUMP 31,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",131
+PAHRUMP 31,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",63
+PAHRUMP 31,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",131
+PAHRUMP 31,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",131
 PAHRUMP 32,Attorney General (Republican),"Barrick, Travis",134
 PAHRUMP 32,Attorney General (Republican),"Hafter, Jacob",99
 PAHRUMP 32,Attorney General (Republican),None Of These Candidates,62
@@ -2249,11 +2249,11 @@ PAHRUMP 32,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",103
 PAHRUMP 32,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",127
 PAHRUMP 32,COUNTY RECORDER (Republican),"FOSTER, BYRON",112
 PAHRUMP 32,COUNTY RECORDER (Republican),"WYRICK, CINDY",53
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",140
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",256
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",135
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",49
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",10
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",140
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",256
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",135
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",49
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",10
 PAHRUMP 32,County Treasurer (Republican),"LACKEY, DARRYL",110
 PAHRUMP 32,County Treasurer (Republican),"MAHER, MICHAEL W.",174
 PAHRUMP 32,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",56
@@ -2326,9 +2326,9 @@ PAHRUMP 32,U.S. Senate (Republican),"Parson, Bill",14
 PAHRUMP 32,U.S. Senate (Republican),"Stern, Cecilia",1
 PAHRUMP 32,U.S. Senate (Republican),"Suominen, Terry",1
 PAHRUMP 32,U.S. Senate (Republican),"Tarkanian, Danny",73
-PAHRUMP 32,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",99
-PAHRUMP 32,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",185
-PAHRUMP 32,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",212
+PAHRUMP 32,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",99
+PAHRUMP 32,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",185
+PAHRUMP 32,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",212
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",
@@ -2363,11 +2363,11 @@ ROUND MTN 12,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",8
 ROUND MTN 12,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",24
 ROUND MTN 12,COUNTY RECORDER (Republican),"FOSTER, BYRON",17
 ROUND MTN 12,COUNTY RECORDER (Republican),"WYRICK, CINDY",20
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",15
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",50
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",12
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",5
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",15
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",15
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",50
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",12
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",5
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",15
 ROUND MTN 12,County Treasurer (Republican),"LACKEY, DARRYL",20
 ROUND MTN 12,County Treasurer (Republican),"MAHER, MICHAEL W.",37
 ROUND MTN 12,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",6
@@ -2426,9 +2426,9 @@ ROUND MTN 12,U.S. Senate (Republican),"Parson, Bill",10
 ROUND MTN 12,U.S. Senate (Republican),"Stern, Cecilia",0
 ROUND MTN 12,U.S. Senate (Republican),"Suominen, Terry",0
 ROUND MTN 12,U.S. Senate (Republican),"Tarkanian, Danny",13
-ROUND MTN 12,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",17
-ROUND MTN 12,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",26
-ROUND MTN 12,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",37
+ROUND MTN 12,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",17
+ROUND MTN 12,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",26
+ROUND MTN 12,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",37
 SMOKY VALLEY 35,Attorney General (Republican),"Barrick, Travis",21
 SMOKY VALLEY 35,Attorney General (Republican),"Hafter, Jacob",17
 SMOKY VALLEY 35,Attorney General (Republican),None Of These Candidates,10
@@ -2440,11 +2440,11 @@ SMOKY VALLEY 35,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",3
 SMOKY VALLEY 35,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",4
 SMOKY VALLEY 35,COUNTY RECORDER (Republican),"FOSTER, BYRON",22
 SMOKY VALLEY 35,COUNTY RECORDER (Republican),"WYRICK, CINDY",24
-SMOKY VALLEY 35,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",6
-SMOKY VALLEY 35,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",51
-SMOKY VALLEY 35,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",8
-SMOKY VALLEY 35,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",3
-SMOKY VALLEY 35,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",6
+SMOKY VALLEY 35,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",6
+SMOKY VALLEY 35,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",51
+SMOKY VALLEY 35,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",8
+SMOKY VALLEY 35,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",3
+SMOKY VALLEY 35,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",6
 SMOKY VALLEY 35,County Treasurer (Republican),"LACKEY, DARRYL",22
 SMOKY VALLEY 35,County Treasurer (Republican),"MAHER, MICHAEL W.",19
 SMOKY VALLEY 35,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",4
@@ -2503,9 +2503,9 @@ SMOKY VALLEY 35,U.S. Senate (Republican),"Parson, Bill",4
 SMOKY VALLEY 35,U.S. Senate (Republican),"Stern, Cecilia",0
 SMOKY VALLEY 35,U.S. Senate (Republican),"Suominen, Terry",0
 SMOKY VALLEY 35,U.S. Senate (Republican),"Tarkanian, Danny",10
-SMOKY VALLEY 35,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",6
-SMOKY VALLEY 35,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",23
-SMOKY VALLEY 35,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",37
+SMOKY VALLEY 35,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",6
+SMOKY VALLEY 35,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",23
+SMOKY VALLEY 35,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",37
 SUNNYSIDE 13,Attorney General (Republican),"Barrick, Travis",
 SUNNYSIDE 13,Attorney General (Republican),"Hafter, Jacob",
 SUNNYSIDE 13,Attorney General (Republican),None Of These Candidates,
@@ -2517,11 +2517,11 @@ SUNNYSIDE 13,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"WYRICK, CINDY",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",
 SUNNYSIDE 13,County Treasurer (Republican),"LACKEY, DARRYL",
 SUNNYSIDE 13,County Treasurer (Republican),"MAHER, MICHAEL W.",
 SUNNYSIDE 13,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",
@@ -2580,9 +2580,9 @@ SUNNYSIDE 13,U.S. Senate (Republican),"Parson, Bill",
 SUNNYSIDE 13,U.S. Senate (Republican),"Stern, Cecilia",
 SUNNYSIDE 13,U.S. Senate (Republican),"Suominen, Terry",
 SUNNYSIDE 13,U.S. Senate (Republican),"Tarkanian, Danny",
-SUNNYSIDE 13,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",
-SUNNYSIDE 13,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",
-SUNNYSIDE 13,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",
+SUNNYSIDE 13,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",
+SUNNYSIDE 13,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",
+SUNNYSIDE 13,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",
 TONOPAH 14,Attorney General (Republican),"Barrick, Travis",48
 TONOPAH 14,Attorney General (Republican),"Hafter, Jacob",46
 TONOPAH 14,Attorney General (Republican),None Of These Candidates,60
@@ -2594,11 +2594,11 @@ TONOPAH 14,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",10
 TONOPAH 14,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",5
 TONOPAH 14,COUNTY RECORDER (Republican),"FOSTER, BYRON",32
 TONOPAH 14,COUNTY RECORDER (Republican),"WYRICK, CINDY",118
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",32
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",156
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",34
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",8
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",31
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",32
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",156
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",34
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",8
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",31
 TONOPAH 14,County Treasurer (Republican),"LACKEY, DARRYL",61
 TONOPAH 14,County Treasurer (Republican),"MAHER, MICHAEL W.",79
 TONOPAH 14,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",14
@@ -2657,9 +2657,9 @@ TONOPAH 14,U.S. Senate (Republican),"Parson, Bill",4
 TONOPAH 14,U.S. Senate (Republican),"Stern, Cecilia",1
 TONOPAH 14,U.S. Senate (Republican),"Suominen, Terry",0
 TONOPAH 14,U.S. Senate (Republican),"Tarkanian, Danny",40
-TONOPAH 14,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",54
-TONOPAH 14,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",68
-TONOPAH 14,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",90
+TONOPAH 14,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",54
+TONOPAH 14,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",68
+TONOPAH 14,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",90
 TONOPAH 15,Attorney General (Republican),"Barrick, Travis",52
 TONOPAH 15,Attorney General (Republican),"Hafter, Jacob",28
 TONOPAH 15,Attorney General (Republican),None Of These Candidates,41
@@ -2671,11 +2671,11 @@ TONOPAH 15,COUNTY CLERK (Republican),"OPATIK, NORMA JEAN",6
 TONOPAH 15,COUNTY RECORDER (Republican),"BEATTY, DEBORAH",11
 TONOPAH 15,COUNTY RECORDER (Republican),"FOSTER, BYRON",27
 TONOPAH 15,COUNTY RECORDER (Republican),"WYRICK, CINDY",88
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"COBEL, SCOTT",23
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",151
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",30
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",6
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"SMITH, GERALD ""BEAR""",14
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"COBEL, SCOTT",23
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",151
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",30
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",6
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"SMITH, GERALD ""BEAR""",14
 TONOPAH 15,County Treasurer (Republican),"LACKEY, DARRYL",55
 TONOPAH 15,County Treasurer (Republican),"MAHER, MICHAEL W.",58
 TONOPAH 15,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",19
@@ -2734,6 +2734,6 @@ TONOPAH 15,U.S. Senate (Republican),"Parson, Bill",1
 TONOPAH 15,U.S. Senate (Republican),"Stern, Cecilia",0
 TONOPAH 15,U.S. Senate (Republican),"Suominen, Terry",0
 TONOPAH 15,U.S. Senate (Republican),"Tarkanian, Danny",42
-TONOPAH 15,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",34
-TONOPAH 15,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",70
-TONOPAH 15,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",80
+TONOPAH 15,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",34
+TONOPAH 15,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",70
+TONOPAH 15,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",80

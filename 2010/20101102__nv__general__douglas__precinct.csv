@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 01-Centerville,Attorney General,"Barrick, Travis",251
-01-Centerville,Attorney General,"CORTEZ  MASTO, CATHERINE",211
+01-Centerville,Attorney General,"CORTEZ MASTO, CATHERINE",211
 01-Centerville,Attorney General,"Hansen, Joel F.",36
 01-Centerville,Attorney General,None Of These Candidates,25
 01-Centerville,Constable - East Fork Township,"GILBERT, PAUL E.",422
@@ -80,7 +80,7 @@ precinct,office,candidate,votes
 01-Centerville,U.S. Senate,"REID, HARRY",163
 01-Centerville,U.S. Senate,"Stand, Wil",1
 02-Fish Springs,Attorney General,"Barrick, Travis",408
-02-Fish Springs,Attorney General,"CORTEZ  MASTO, CATHERINE",293
+02-Fish Springs,Attorney General,"CORTEZ MASTO, CATHERINE",293
 02-Fish Springs,Attorney General,"Hansen, Joel F.",74
 02-Fish Springs,Attorney General,None Of These Candidates,16
 02-Fish Springs,Constable - East Fork Township,"GILBERT, PAUL E.",646
@@ -160,7 +160,7 @@ precinct,office,candidate,votes
 02-Fish Springs,U.S. Senate,"REID, HARRY",260
 02-Fish Springs,U.S. Senate,"Stand, Wil",2
 03-Gardnerville,Attorney General,"Barrick, Travis",297
-03-Gardnerville,Attorney General,"CORTEZ  MASTO, CATHERINE",289
+03-Gardnerville,Attorney General,"CORTEZ MASTO, CATHERINE",289
 03-Gardnerville,Attorney General,"Hansen, Joel F.",67
 03-Gardnerville,Attorney General,None Of These Candidates,43
 03-Gardnerville,Constable - East Fork Township,"GILBERT, PAUL E.",564
@@ -240,7 +240,7 @@ precinct,office,candidate,votes
 03-Gardnerville,U.S. Senate,"REID, HARRY",271
 03-Gardnerville,U.S. Senate,"Stand, Wil",4
 04-Carson Valley Estates,Attorney General,"Barrick, Travis",197
-04-Carson Valley Estates,Attorney General,"CORTEZ  MASTO, CATHERINE",214
+04-Carson Valley Estates,Attorney General,"CORTEZ MASTO, CATHERINE",214
 04-Carson Valley Estates,Attorney General,"Hansen, Joel F.",49
 04-Carson Valley Estates,Attorney General,None Of These Candidates,25
 04-Carson Valley Estates,Constable - East Fork Township,"GILBERT, PAUL E.",392
@@ -320,7 +320,7 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,U.S. Senate,"REID, HARRY",191
 04-Carson Valley Estates,U.S. Senate,"Stand, Wil",3
 05-Genoa,Attorney General,"Barrick, Travis",306
-05-Genoa,Attorney General,"CORTEZ  MASTO, CATHERINE",203
+05-Genoa,Attorney General,"CORTEZ MASTO, CATHERINE",203
 05-Genoa,Attorney General,"Hansen, Joel F.",49
 05-Genoa,Attorney General,None Of These Candidates,17
 05-Genoa,Constable - East Fork Township,"GILBERT, PAUL E.",484
@@ -395,7 +395,7 @@ precinct,office,candidate,votes
 05-Genoa,U.S. Senate,"REID, HARRY",150
 05-Genoa,U.S. Senate,"Stand, Wil",1
 06-Jacks Valley,Attorney General,"Barrick, Travis",287
-06-Jacks Valley,Attorney General,"CORTEZ  MASTO, CATHERINE",299
+06-Jacks Valley,Attorney General,"CORTEZ MASTO, CATHERINE",299
 06-Jacks Valley,Attorney General,"Hansen, Joel F.",79
 06-Jacks Valley,Attorney General,None Of These Candidates,24
 06-Jacks Valley,Constable - East Fork Township,"GILBERT, PAUL E.",539
@@ -477,7 +477,7 @@ precinct,office,candidate,votes
 06-Jacks Valley,U.S. Senate,"REID, HARRY",257
 06-Jacks Valley,U.S. Senate,"Stand, Wil",2
 07-Minden,Attorney General,"Barrick, Travis",274
-07-Minden,Attorney General,"CORTEZ  MASTO, CATHERINE",259
+07-Minden,Attorney General,"CORTEZ MASTO, CATHERINE",259
 07-Minden,Attorney General,"Hansen, Joel F.",38
 07-Minden,Attorney General,None Of These Candidates,21
 07-Minden,Constable - East Fork Township,"GILBERT, PAUL E.",504
@@ -559,7 +559,7 @@ precinct,office,candidate,votes
 07-Minden,U.S. Senate,"REID, HARRY",223
 07-Minden,U.S. Senate,"Stand, Wil",1
 08-Ranchos I,Attorney General,"Barrick, Travis",207
-08-Ranchos I,Attorney General,"CORTEZ  MASTO, CATHERINE",173
+08-Ranchos I,Attorney General,"CORTEZ MASTO, CATHERINE",173
 08-Ranchos I,Attorney General,"Hansen, Joel F.",45
 08-Ranchos I,Attorney General,None Of These Candidates,11
 08-Ranchos I,Constable - East Fork Township,"GILBERT, PAUL E.",361
@@ -639,7 +639,7 @@ precinct,office,candidate,votes
 08-Ranchos I,U.S. Senate,"REID, HARRY",169
 08-Ranchos I,U.S. Senate,"Stand, Wil",2
 09-Ranchos II,Attorney General,"Barrick, Travis",236
-09-Ranchos II,Attorney General,"CORTEZ  MASTO, CATHERINE",248
+09-Ranchos II,Attorney General,"CORTEZ MASTO, CATHERINE",248
 09-Ranchos II,Attorney General,"Hansen, Joel F.",50
 09-Ranchos II,Attorney General,None Of These Candidates,17
 09-Ranchos II,Constable - East Fork Township,"GILBERT, PAUL E.",470
@@ -669,7 +669,7 @@ precinct,office,candidate,votes
 09-Ranchos II,U.S. Senate,"REID, HARRY",208
 09-Ranchos II,U.S. Senate,"Stand, Wil",2
 10-TRE,Attorney General,"Barrick, Travis",307
-10-TRE,Attorney General,"CORTEZ  MASTO, CATHERINE",268
+10-TRE,Attorney General,"CORTEZ MASTO, CATHERINE",268
 10-TRE,Attorney General,"Hansen, Joel F.",72
 10-TRE,Attorney General,None Of These Candidates,31
 10-TRE,Constable - East Fork Township,"GILBERT, PAUL E.",527
@@ -741,7 +741,7 @@ precinct,office,candidate,votes
 10-TRE,U.S. Senate,"REID, HARRY",226
 10-TRE,U.S. Senate,"Stand, Wil",3
 11-Johnson Lane,Attorney General,"Barrick, Travis",354
-11-Johnson Lane,Attorney General,"CORTEZ  MASTO, CATHERINE",343
+11-Johnson Lane,Attorney General,"CORTEZ MASTO, CATHERINE",343
 11-Johnson Lane,Attorney General,"Hansen, Joel F.",77
 11-Johnson Lane,Attorney General,None Of These Candidates,29
 11-Johnson Lane,Constable - East Fork Township,"GILBERT, PAUL E.",672
@@ -816,7 +816,7 @@ precinct,office,candidate,votes
 11-Johnson Lane,U.S. Senate,"REID, HARRY",291
 11-Johnson Lane,U.S. Senate,"Stand, Wil",1
 12-Dresslerville,Attorney General,"Barrick, Travis",7
-12-Dresslerville,Attorney General,"CORTEZ  MASTO, CATHERINE",59
+12-Dresslerville,Attorney General,"CORTEZ MASTO, CATHERINE",59
 12-Dresslerville,Attorney General,"Hansen, Joel F.",4
 12-Dresslerville,Attorney General,None Of These Candidates,10
 12-Dresslerville,Constable - East Fork Township,"GILBERT, PAUL E.",44
@@ -888,7 +888,7 @@ precinct,office,candidate,votes
 12-Dresslerville,U.S. Senate,"REID, HARRY",67
 12-Dresslerville,U.S. Senate,"Stand, Wil",0
 13-Indian Hills - West,Attorney General,"Barrick, Travis",327
-13-Indian Hills - West,Attorney General,"CORTEZ  MASTO, CATHERINE",362
+13-Indian Hills - West,Attorney General,"CORTEZ MASTO, CATHERINE",362
 13-Indian Hills - West,Attorney General,"Hansen, Joel F.",68
 13-Indian Hills - West,Attorney General,None Of These Candidates,37
 13-Indian Hills - West,Constable - East Fork Township,"GILBERT, PAUL E.",612
@@ -970,7 +970,7 @@ precinct,office,candidate,votes
 13-Indian Hills - West,U.S. Senate,"REID, HARRY",343
 13-Indian Hills - West,U.S. Senate,"Stand, Wil",4
 14-Pinenut,Attorney General,"Barrick, Travis",327
-14-Pinenut,Attorney General,"CORTEZ  MASTO, CATHERINE",203
+14-Pinenut,Attorney General,"CORTEZ MASTO, CATHERINE",203
 14-Pinenut,Attorney General,"Hansen, Joel F.",59
 14-Pinenut,Attorney General,None Of These Candidates,16
 14-Pinenut,Constable - East Fork Township,"GILBERT, PAUL E.",485
@@ -1042,7 +1042,7 @@ precinct,office,candidate,votes
 14-Pinenut,U.S. Senate,"REID, HARRY",160
 14-Pinenut,U.S. Senate,"Stand, Wil",1
 15-Valley,Attorney General,"Barrick, Travis",150
-15-Valley,Attorney General,"CORTEZ  MASTO, CATHERINE",123
+15-Valley,Attorney General,"CORTEZ MASTO, CATHERINE",123
 15-Valley,Attorney General,"Hansen, Joel F.",23
 15-Valley,Attorney General,None Of These Candidates,8
 15-Valley,Constable - East Fork Township,"GILBERT, PAUL E.",246
@@ -1117,7 +1117,7 @@ precinct,office,candidate,votes
 15-Valley,U.S. Senate,"REID, HARRY",89
 15-Valley,U.S. Senate,"Stand, Wil",1
 16-Mottsville,Attorney General,"Barrick, Travis",310
-16-Mottsville,Attorney General,"CORTEZ  MASTO, CATHERINE",201
+16-Mottsville,Attorney General,"CORTEZ MASTO, CATHERINE",201
 16-Mottsville,Attorney General,"Hansen, Joel F.",26
 16-Mottsville,Attorney General,None Of These Candidates,21
 16-Mottsville,Constable - East Fork Township,"GILBERT, PAUL E.",472
@@ -1192,7 +1192,7 @@ precinct,office,candidate,votes
 16-Mottsville,U.S. Senate,"REID, HARRY",173
 16-Mottsville,U.S. Senate,"Stand, Wil",1
 17-Ruhenstroth,Attorney General,"Barrick, Travis",497
-17-Ruhenstroth,Attorney General,"CORTEZ  MASTO, CATHERINE",350
+17-Ruhenstroth,Attorney General,"CORTEZ MASTO, CATHERINE",350
 17-Ruhenstroth,Attorney General,"Hansen, Joel F.",61
 17-Ruhenstroth,Attorney General,None Of These Candidates,41
 17-Ruhenstroth,Constable - East Fork Township,"GILBERT, PAUL E.",787
@@ -1264,7 +1264,7 @@ precinct,office,candidate,votes
 17-Ruhenstroth,U.S. Senate,"REID, HARRY",288
 17-Ruhenstroth,U.S. Senate,"Stand, Wil",0
 18-Ranchos III,Attorney General,"Barrick, Travis",321
-18-Ranchos III,Attorney General,"CORTEZ  MASTO, CATHERINE",289
+18-Ranchos III,Attorney General,"CORTEZ MASTO, CATHERINE",289
 18-Ranchos III,Attorney General,"Hansen, Joel F.",55
 18-Ranchos III,Attorney General,None Of These Candidates,40
 18-Ranchos III,Constable - East Fork Township,"GILBERT, PAUL E.",605
@@ -1344,7 +1344,7 @@ precinct,office,candidate,votes
 18-Ranchos III,U.S. Senate,"REID, HARRY",257
 18-Ranchos III,U.S. Senate,"Stand, Wil",3
 19-Ranchos IV,Attorney General,"Barrick, Travis",285
-19-Ranchos IV,Attorney General,"CORTEZ  MASTO, CATHERINE",276
+19-Ranchos IV,Attorney General,"CORTEZ MASTO, CATHERINE",276
 19-Ranchos IV,Attorney General,"Hansen, Joel F.",57
 19-Ranchos IV,Attorney General,None Of These Candidates,26
 19-Ranchos IV,Constable - East Fork Township,"GILBERT, PAUL E.",507
@@ -1421,7 +1421,7 @@ precinct,office,candidate,votes
 19-Ranchos IV,U.S. Senate,"REID, HARRY",253
 19-Ranchos IV,U.S. Senate,"Stand, Wil",2
 20-Birch/Ranchos,Attorney General,"Barrick, Travis",257
-20-Birch/Ranchos,Attorney General,"CORTEZ  MASTO, CATHERINE",293
+20-Birch/Ranchos,Attorney General,"CORTEZ MASTO, CATHERINE",293
 20-Birch/Ranchos,Attorney General,"Hansen, Joel F.",45
 20-Birch/Ranchos,Attorney General,None Of These Candidates,25
 20-Birch/Ranchos,Constable - East Fork Township,"GILBERT, PAUL E.",483
@@ -1498,7 +1498,7 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,U.S. Senate,"REID, HARRY",271
 20-Birch/Ranchos,U.S. Senate,"Stand, Wil",0
 21-Wildhorse,Attorney General,"Barrick, Travis",385
-21-Wildhorse,Attorney General,"CORTEZ  MASTO, CATHERINE",344
+21-Wildhorse,Attorney General,"CORTEZ MASTO, CATHERINE",344
 21-Wildhorse,Attorney General,"Hansen, Joel F.",74
 21-Wildhorse,Attorney General,None Of These Candidates,30
 21-Wildhorse,Constable - East Fork Township,"GILBERT, PAUL E.",672
@@ -1573,7 +1573,7 @@ precinct,office,candidate,votes
 21-Wildhorse,U.S. Senate,"REID, HARRY",267
 21-Wildhorse,U.S. Senate,"Stand, Wil",2
 22-Saratoga,Attorney General,"Barrick, Travis",470
-22-Saratoga,Attorney General,"CORTEZ  MASTO, CATHERINE",359
+22-Saratoga,Attorney General,"CORTEZ MASTO, CATHERINE",359
 22-Saratoga,Attorney General,"Hansen, Joel F.",57
 22-Saratoga,Attorney General,None Of These Candidates,17
 22-Saratoga,Constable - East Fork Township,"GILBERT, PAUL E.",730
@@ -1648,7 +1648,7 @@ precinct,office,candidate,votes
 22-Saratoga,U.S. Senate,"REID, HARRY",287
 22-Saratoga,U.S. Senate,"Stand, Wil",0
 23-Indian Hills - East,Attorney General,"Barrick, Travis",228
-23-Indian Hills - East,Attorney General,"CORTEZ  MASTO, CATHERINE",219
+23-Indian Hills - East,Attorney General,"CORTEZ MASTO, CATHERINE",219
 23-Indian Hills - East,Attorney General,"Hansen, Joel F.",36
 23-Indian Hills - East,Attorney General,None Of These Candidates,16
 23-Indian Hills - East,Constable - East Fork Township,"GILBERT, PAUL E.",393
@@ -1730,7 +1730,7 @@ precinct,office,candidate,votes
 23-Indian Hills - East,U.S. Senate,"REID, HARRY",209
 23-Indian Hills - East,U.S. Senate,"Stand, Wil",0
 24-Topaz Lake,Attorney General,"Barrick, Travis",171
-24-Topaz Lake,Attorney General,"CORTEZ  MASTO, CATHERINE",105
+24-Topaz Lake,Attorney General,"CORTEZ MASTO, CATHERINE",105
 24-Topaz Lake,Attorney General,"Hansen, Joel F.",39
 24-Topaz Lake,Attorney General,None Of These Candidates,5
 24-Topaz Lake,Constable - East Fork Township,"GILBERT, PAUL E.",250
@@ -1802,7 +1802,7 @@ precinct,office,candidate,votes
 24-Topaz Lake,U.S. Senate,"REID, HARRY",81
 24-Topaz Lake,U.S. Senate,"Stand, Wil",0
 25-Pleasantview,Attorney General,"Barrick, Travis",496
-25-Pleasantview,Attorney General,"CORTEZ  MASTO, CATHERINE",349
+25-Pleasantview,Attorney General,"CORTEZ MASTO, CATHERINE",349
 25-Pleasantview,Attorney General,"Hansen, Joel F.",73
 25-Pleasantview,Attorney General,None Of These Candidates,32
 25-Pleasantview,Constable - East Fork Township,"GILBERT, PAUL E.",805
@@ -1882,7 +1882,7 @@ precinct,office,candidate,votes
 25-Pleasantview,U.S. Senate,"REID, HARRY",317
 25-Pleasantview,U.S. Senate,"Stand, Wil",3
 26-Westwood,Attorney General,"Barrick, Travis",205
-26-Westwood,Attorney General,"CORTEZ  MASTO, CATHERINE",171
+26-Westwood,Attorney General,"CORTEZ MASTO, CATHERINE",171
 26-Westwood,Attorney General,"Hansen, Joel F.",27
 26-Westwood,Attorney General,None Of These Candidates,11
 26-Westwood,Constable - East Fork Township,"GILBERT, PAUL E.",352
@@ -1964,7 +1964,7 @@ precinct,office,candidate,votes
 26-Westwood,U.S. Senate,"REID, HARRY",141
 26-Westwood,U.S. Senate,"Stand, Wil",1
 27-Winhaven,Attorney General,"Barrick, Travis",299
-27-Winhaven,Attorney General,"CORTEZ  MASTO, CATHERINE",242
+27-Winhaven,Attorney General,"CORTEZ MASTO, CATHERINE",242
 27-Winhaven,Attorney General,"Hansen, Joel F.",29
 27-Winhaven,Attorney General,None Of These Candidates,13
 27-Winhaven,Constable - East Fork Township,"GILBERT, PAUL E.",471
@@ -2046,7 +2046,7 @@ precinct,office,candidate,votes
 27-Winhaven,U.S. Senate,"REID, HARRY",194
 27-Winhaven,U.S. Senate,"Stand, Wil",0
 28-Orchard Road,Attorney General,"Barrick, Travis",142
-28-Orchard Road,Attorney General,"CORTEZ  MASTO, CATHERINE",74
+28-Orchard Road,Attorney General,"CORTEZ MASTO, CATHERINE",74
 28-Orchard Road,Attorney General,"Hansen, Joel F.",23
 28-Orchard Road,Attorney General,None Of These Candidates,11
 28-Orchard Road,Constable - East Fork Township,"GILBERT, PAUL E.",202
@@ -2128,7 +2128,7 @@ precinct,office,candidate,votes
 28-Orchard Road,U.S. Senate,"REID, HARRY",53
 28-Orchard Road,U.S. Senate,"Stand, Wil",0
 29-Autumn Hils,Attorney General,"Barrick, Travis",296
-29-Autumn Hils,Attorney General,"CORTEZ  MASTO, CATHERINE",144
+29-Autumn Hils,Attorney General,"CORTEZ MASTO, CATHERINE",144
 29-Autumn Hils,Attorney General,"Hansen, Joel F.",37
 29-Autumn Hils,Attorney General,None Of These Candidates,22
 29-Autumn Hils,Constable - East Fork Township,"GILBERT, PAUL E.",408
@@ -2203,7 +2203,7 @@ precinct,office,candidate,votes
 29-Autumn Hils,U.S. Senate,"REID, HARRY",133
 29-Autumn Hils,U.S. Senate,"Stand, Wil",1
 30-East Fork,Attorney General,"Barrick, Travis",
-30-East Fork,Attorney General,"CORTEZ  MASTO, CATHERINE",
+30-East Fork,Attorney General,"CORTEZ MASTO, CATHERINE",
 30-East Fork,Attorney General,"Hansen, Joel F.",
 30-East Fork,Attorney General,None Of These Candidates,
 30-East Fork,Constable - East Fork Township,"GILBERT, PAUL E.",
@@ -2275,7 +2275,7 @@ precinct,office,candidate,votes
 30-East Fork,U.S. Senate,"REID, HARRY",
 30-East Fork,U.S. Senate,"Stand, Wil",
 31-Chichester,Attorney General,"Barrick, Travis",222
-31-Chichester,Attorney General,"CORTEZ  MASTO, CATHERINE",171
+31-Chichester,Attorney General,"CORTEZ MASTO, CATHERINE",171
 31-Chichester,Attorney General,"Hansen, Joel F.",27
 31-Chichester,Attorney General,None Of These Candidates,13
 31-Chichester,Constable - East Fork Township,"GILBERT, PAUL E.",348
@@ -2355,7 +2355,7 @@ precinct,office,candidate,votes
 31-Chichester,U.S. Senate,"REID, HARRY",142
 31-Chichester,U.S. Senate,"Stand, Wil",0
 32-East Valley,Attorney General,"Barrick, Travis",203
-32-East Valley,Attorney General,"CORTEZ  MASTO, CATHERINE",122
+32-East Valley,Attorney General,"CORTEZ MASTO, CATHERINE",122
 32-East Valley,Attorney General,"Hansen, Joel F.",32
 32-East Valley,Attorney General,None Of These Candidates,12
 32-East Valley,Constable - East Fork Township,"GILBERT, PAUL E.",288
@@ -2430,7 +2430,7 @@ precinct,office,candidate,votes
 32-East Valley,U.S. Senate,"REID, HARRY",102
 32-East Valley,U.S. Senate,"Stand, Wil",1
 33-Hot Springs,Attorney General,"Barrick, Travis",166
-33-Hot Springs,Attorney General,"CORTEZ  MASTO, CATHERINE",141
+33-Hot Springs,Attorney General,"CORTEZ MASTO, CATHERINE",141
 33-Hot Springs,Attorney General,"Hansen, Joel F.",41
 33-Hot Springs,Attorney General,None Of These Candidates,16
 33-Hot Springs,Constable - East Fork Township,"GILBERT, PAUL E.",294
@@ -2505,7 +2505,7 @@ precinct,office,candidate,votes
 33-Hot Springs,U.S. Senate,"REID, HARRY",121
 33-Hot Springs,U.S. Senate,"Stand, Wil",2
 34-Sunridge,Attorney General,"Barrick, Travis",155
-34-Sunridge,Attorney General,"CORTEZ  MASTO, CATHERINE",108
+34-Sunridge,Attorney General,"CORTEZ MASTO, CATHERINE",108
 34-Sunridge,Attorney General,"Hansen, Joel F.",28
 34-Sunridge,Attorney General,None Of These Candidates,8
 34-Sunridge,Constable - East Fork Township,"GILBERT, PAUL E.",226
@@ -2587,7 +2587,7 @@ precinct,office,candidate,votes
 34-Sunridge,U.S. Senate,"REID, HARRY",94
 34-Sunridge,U.S. Senate,"Stand, Wil",1
 35-Glenbrook,Attorney General,"Barrick, Travis",204
-35-Glenbrook,Attorney General,"CORTEZ  MASTO, CATHERINE",85
+35-Glenbrook,Attorney General,"CORTEZ MASTO, CATHERINE",85
 35-Glenbrook,Attorney General,"Hansen, Joel F.",17
 35-Glenbrook,Attorney General,None Of These Candidates,6
 35-Glenbrook,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",267
@@ -2662,7 +2662,7 @@ precinct,office,candidate,votes
 35-Glenbrook,U.S. Senate,"REID, HARRY",87
 35-Glenbrook,U.S. Senate,"Stand, Wil",1
 36-Skyland,Attorney General,"Barrick, Travis",218
-36-Skyland,Attorney General,"CORTEZ  MASTO, CATHERINE",103
+36-Skyland,Attorney General,"CORTEZ MASTO, CATHERINE",103
 36-Skyland,Attorney General,"Hansen, Joel F.",32
 36-Skyland,Attorney General,None Of These Candidates,6
 36-Skyland,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",302
@@ -2740,7 +2740,7 @@ precinct,office,candidate,votes
 36-Skyland,U.S. Senate,"REID, HARRY",91
 36-Skyland,U.S. Senate,"Stand, Wil",0
 37-Zephyr Cove,Attorney General,"Barrick, Travis",162
-37-Zephyr Cove,Attorney General,"CORTEZ  MASTO, CATHERINE",130
+37-Zephyr Cove,Attorney General,"CORTEZ MASTO, CATHERINE",130
 37-Zephyr Cove,Attorney General,"Hansen, Joel F.",8
 37-Zephyr Cove,Attorney General,None Of These Candidates,15
 37-Zephyr Cove,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",231
@@ -2821,7 +2821,7 @@ precinct,office,candidate,votes
 37-Zephyr Cove,Zephyr Heights G I D - 4 Seats,"SUTTER, ALLAN",68
 37-Zephyr Cove,Zephyr Heights G I D - 4 Seats,"VARZOS, TOMMY N.",48
 38-Round Hill,Attorney General,"Barrick, Travis",193
-38-Round Hill,Attorney General,"CORTEZ  MASTO, CATHERINE",168
+38-Round Hill,Attorney General,"CORTEZ MASTO, CATHERINE",168
 38-Round Hill,Attorney General,"Hansen, Joel F.",27
 38-Round Hill,Attorney General,None Of These Candidates,19
 38-Round Hill,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",308
@@ -2893,7 +2893,7 @@ precinct,office,candidate,votes
 38-Round Hill,U.S. Senate,"REID, HARRY",175
 38-Round Hill,U.S. Senate,"Stand, Wil",1
 39-Edgewood,Attorney General,"Barrick, Travis",55
-39-Edgewood,Attorney General,"CORTEZ  MASTO, CATHERINE",72
+39-Edgewood,Attorney General,"CORTEZ MASTO, CATHERINE",72
 39-Edgewood,Attorney General,"Hansen, Joel F.",11
 39-Edgewood,Attorney General,None Of These Candidates,4
 39-Edgewood,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",112
@@ -2965,7 +2965,7 @@ precinct,office,candidate,votes
 39-Edgewood,U.S. Senate,"REID, HARRY",73
 39-Edgewood,U.S. Senate,"Stand, Wil",0
 40-Kingsbury,Attorney General,"Barrick, Travis",231
-40-Kingsbury,Attorney General,"CORTEZ  MASTO, CATHERINE",275
+40-Kingsbury,Attorney General,"CORTEZ MASTO, CATHERINE",275
 40-Kingsbury,Attorney General,"Hansen, Joel F.",45
 40-Kingsbury,Attorney General,None Of These Candidates,16
 40-Kingsbury,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",450
@@ -3048,7 +3048,7 @@ precinct,office,candidate,votes
 40-Kingsbury,U.S. Senate,"REID, HARRY",252
 40-Kingsbury,U.S. Senate,"Stand, Wil",4
 41-Daggett,Attorney General,"Barrick, Travis",205
-41-Daggett,Attorney General,"CORTEZ  MASTO, CATHERINE",234
+41-Daggett,Attorney General,"CORTEZ MASTO, CATHERINE",234
 41-Daggett,Attorney General,"Hansen, Joel F.",33
 41-Daggett,Attorney General,None Of These Candidates,29
 41-Daggett,COUNTY ASSESSOR,"SONNEMANN, DOUGLAS W. ""Doug""",356

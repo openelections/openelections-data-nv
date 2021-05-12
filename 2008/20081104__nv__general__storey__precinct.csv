@@ -3,8 +3,8 @@ PRECINCT 1,County Clerk/Treasurer,"DIXON, VANESSA",205
 PRECINCT 1,County Clerk/Treasurer,"HESS, ROLLIE",100
 PRECINCT 1,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",243
 PRECINCT 1,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",231
-PRECINCT 1,"District Court Judge, District 1, Department  2","WATERS, NOEL",136
-PRECINCT 1,"District Court Judge, District 1, Department  2","WILSON, JIM",136
+PRECINCT 1,"District Court Judge, District 1, Department 2","WATERS, NOEL",136
+PRECINCT 1,"District Court Judge, District 1, Department 2","WILSON, JIM",136
 PRECINCT 1,President,"Baldwin, Chuck",1
 PRECINCT 1,President,"Barr, Bob",2
 PRECINCT 1,President,"McCain, John",150
@@ -34,8 +34,8 @@ PRECINCT 10,County Clerk/Treasurer,"DIXON, VANESSA",0
 PRECINCT 10,County Clerk/Treasurer,"HESS, ROLLIE",0
 PRECINCT 10,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 10,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
-PRECINCT 10,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
-PRECINCT 10,"District Court Judge, District 1, Department  2","WILSON, JIM",0
+PRECINCT 10,"District Court Judge, District 1, Department 2","WATERS, NOEL",0
+PRECINCT 10,"District Court Judge, District 1, Department 2","WILSON, JIM",0
 PRECINCT 10,President,"Baldwin, Chuck",0
 PRECINCT 10,President,"Barr, Bob",0
 PRECINCT 10,President,"McCain, John",0
@@ -65,8 +65,8 @@ PRECINCT 11,County Clerk/Treasurer,"DIXON, VANESSA",
 PRECINCT 11,County Clerk/Treasurer,"HESS, ROLLIE",
 PRECINCT 11,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
 PRECINCT 11,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
-PRECINCT 11,"District Court Judge, District 1, Department  2","WATERS, NOEL",
-PRECINCT 11,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 11,"District Court Judge, District 1, Department 2","WATERS, NOEL",
+PRECINCT 11,"District Court Judge, District 1, Department 2","WILSON, JIM",
 PRECINCT 11,President,"Baldwin, Chuck",
 PRECINCT 11,President,"Barr, Bob",
 PRECINCT 11,President,"McCain, John",
@@ -96,8 +96,8 @@ PRECINCT 12,County Clerk/Treasurer,"DIXON, VANESSA",
 PRECINCT 12,County Clerk/Treasurer,"HESS, ROLLIE",
 PRECINCT 12,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 12,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
-PRECINCT 12,"District Court Judge, District 1, Department  2","WATERS, NOEL",
-PRECINCT 12,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 12,"District Court Judge, District 1, Department 2","WATERS, NOEL",
+PRECINCT 12,"District Court Judge, District 1, Department 2","WILSON, JIM",
 PRECINCT 12,President,"Baldwin, Chuck",
 PRECINCT 12,President,"Barr, Bob",
 PRECINCT 12,President,"McCain, John",
@@ -127,8 +127,8 @@ PRECINCT 13,County Clerk/Treasurer,"DIXON, VANESSA",0
 PRECINCT 13,County Clerk/Treasurer,"HESS, ROLLIE",0
 PRECINCT 13,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 13,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
-PRECINCT 13,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
-PRECINCT 13,"District Court Judge, District 1, Department  2","WILSON, JIM",0
+PRECINCT 13,"District Court Judge, District 1, Department 2","WATERS, NOEL",0
+PRECINCT 13,"District Court Judge, District 1, Department 2","WILSON, JIM",0
 PRECINCT 13,President,"Baldwin, Chuck",0
 PRECINCT 13,President,"Barr, Bob",0
 PRECINCT 13,President,"McCain, John",0
@@ -158,8 +158,8 @@ PRECINCT 15,County Clerk/Treasurer,"DIXON, VANESSA",11
 PRECINCT 15,County Clerk/Treasurer,"HESS, ROLLIE",14
 PRECINCT 15,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",25
 PRECINCT 15,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",25
-PRECINCT 15,"District Court Judge, District 1, Department  2","WATERS, NOEL",10
-PRECINCT 15,"District Court Judge, District 1, Department  2","WILSON, JIM",13
+PRECINCT 15,"District Court Judge, District 1, Department 2","WATERS, NOEL",10
+PRECINCT 15,"District Court Judge, District 1, Department 2","WILSON, JIM",13
 PRECINCT 15,President,"Baldwin, Chuck",0
 PRECINCT 15,President,"Barr, Bob",0
 PRECINCT 15,President,"McCain, John",18
@@ -189,8 +189,8 @@ PRECINCT 2,County Clerk/Treasurer,"DIXON, VANESSA",235
 PRECINCT 2,County Clerk/Treasurer,"HESS, ROLLIE",67
 PRECINCT 2,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",248
 PRECINCT 2,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",224
-PRECINCT 2,"District Court Judge, District 1, Department  2","WATERS, NOEL",146
-PRECINCT 2,"District Court Judge, District 1, Department  2","WILSON, JIM",128
+PRECINCT 2,"District Court Judge, District 1, Department 2","WATERS, NOEL",146
+PRECINCT 2,"District Court Judge, District 1, Department 2","WILSON, JIM",128
 PRECINCT 2,President,"Baldwin, Chuck",1
 PRECINCT 2,President,"Barr, Bob",2
 PRECINCT 2,President,"McCain, John",146
@@ -220,8 +220,8 @@ PRECINCT 3,County Clerk/Treasurer,"DIXON, VANESSA",
 PRECINCT 3,County Clerk/Treasurer,"HESS, ROLLIE",
 PRECINCT 3,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
 PRECINCT 3,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
-PRECINCT 3,"District Court Judge, District 1, Department  2","WATERS, NOEL",
-PRECINCT 3,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 3,"District Court Judge, District 1, Department 2","WATERS, NOEL",
+PRECINCT 3,"District Court Judge, District 1, Department 2","WILSON, JIM",
 PRECINCT 3,President,"Baldwin, Chuck",
 PRECINCT 3,President,"Barr, Bob",
 PRECINCT 3,President,"McCain, John",
@@ -251,8 +251,8 @@ PRECINCT 4,County Clerk/Treasurer,"DIXON, VANESSA",206
 PRECINCT 4,County Clerk/Treasurer,"HESS, ROLLIE",124
 PRECINCT 4,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",284
 PRECINCT 4,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",276
-PRECINCT 4,"District Court Judge, District 1, Department  2","WATERS, NOEL",161
-PRECINCT 4,"District Court Judge, District 1, Department  2","WILSON, JIM",161
+PRECINCT 4,"District Court Judge, District 1, Department 2","WATERS, NOEL",161
+PRECINCT 4,"District Court Judge, District 1, Department 2","WILSON, JIM",161
 PRECINCT 4,President,"Baldwin, Chuck",1
 PRECINCT 4,President,"Barr, Bob",1
 PRECINCT 4,President,"McCain, John",196
@@ -282,8 +282,8 @@ PRECINCT 5,County Clerk/Treasurer,"DIXON, VANESSA",496
 PRECINCT 5,County Clerk/Treasurer,"HESS, ROLLIE",232
 PRECINCT 5,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",634
 PRECINCT 5,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",616
-PRECINCT 5,"District Court Judge, District 1, Department  2","WATERS, NOEL",291
-PRECINCT 5,"District Court Judge, District 1, Department  2","WILSON, JIM",347
+PRECINCT 5,"District Court Judge, District 1, Department 2","WATERS, NOEL",291
+PRECINCT 5,"District Court Judge, District 1, Department 2","WILSON, JIM",347
 PRECINCT 5,President,"Baldwin, Chuck",3
 PRECINCT 5,President,"Barr, Bob",4
 PRECINCT 5,President,"McCain, John",485
@@ -313,8 +313,8 @@ PRECINCT 6,County Clerk/Treasurer,"DIXON, VANESSA",272
 PRECINCT 6,County Clerk/Treasurer,"HESS, ROLLIE",183
 PRECINCT 6,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",423
 PRECINCT 6,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",412
-PRECINCT 6,"District Court Judge, District 1, Department  2","WATERS, NOEL",171
-PRECINCT 6,"District Court Judge, District 1, Department  2","WILSON, JIM",282
+PRECINCT 6,"District Court Judge, District 1, Department 2","WATERS, NOEL",171
+PRECINCT 6,"District Court Judge, District 1, Department 2","WILSON, JIM",282
 PRECINCT 6,President,"Baldwin, Chuck",3
 PRECINCT 6,President,"Barr, Bob",3
 PRECINCT 6,President,"McCain, John",232
@@ -344,8 +344,8 @@ PRECINCT 7,County Clerk/Treasurer,"DIXON, VANESSA",0
 PRECINCT 7,County Clerk/Treasurer,"HESS, ROLLIE",0
 PRECINCT 7,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 7,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
-PRECINCT 7,"District Court Judge, District 1, Department  2","WATERS, NOEL",0
-PRECINCT 7,"District Court Judge, District 1, Department  2","WILSON, JIM",0
+PRECINCT 7,"District Court Judge, District 1, Department 2","WATERS, NOEL",0
+PRECINCT 7,"District Court Judge, District 1, Department 2","WILSON, JIM",0
 PRECINCT 7,President,"Baldwin, Chuck",0
 PRECINCT 7,President,"Barr, Bob",0
 PRECINCT 7,President,"McCain, John",0
@@ -375,8 +375,8 @@ PRECINCT 8,County Clerk/Treasurer,"DIXON, VANESSA",
 PRECINCT 8,County Clerk/Treasurer,"HESS, ROLLIE",
 PRECINCT 8,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",
 PRECINCT 8,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",
-PRECINCT 8,"District Court Judge, District 1, Department  2","WATERS, NOEL",
-PRECINCT 8,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 8,"District Court Judge, District 1, Department 2","WATERS, NOEL",
+PRECINCT 8,"District Court Judge, District 1, Department 2","WILSON, JIM",
 PRECINCT 8,President,"Baldwin, Chuck",
 PRECINCT 8,President,"Barr, Bob",
 PRECINCT 8,President,"McCain, John",
@@ -413,8 +413,8 @@ PRECINCT 9,County Clerk/Treasurer,"DIXON, VANESSA",
 PRECINCT 9,County Clerk/Treasurer,"HESS, ROLLIE",
 PRECINCT 9,County Comm Dist. THREE (CW),"KERSHAW, BOB T.",0
 PRECINCT 9,County Comm Dist. TWO (CW),"HESS, GREG ""BUM""",0
-PRECINCT 9,"District Court Judge, District 1, Department  2","WATERS, NOEL",
-PRECINCT 9,"District Court Judge, District 1, Department  2","WILSON, JIM",
+PRECINCT 9,"District Court Judge, District 1, Department 2","WATERS, NOEL",
+PRECINCT 9,"District Court Judge, District 1, Department 2","WILSON, JIM",
 PRECINCT 9,President,"Baldwin, Chuck",
 PRECINCT 9,President,"Barr, Bob",
 PRECINCT 9,President,"McCain, John",

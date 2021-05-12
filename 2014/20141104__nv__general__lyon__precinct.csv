@@ -11,8 +11,8 @@ E Mason Valley 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",321
 E Mason Valley 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",75
 E Mason Valley 1,COUNTY RECORDER,"WARR, DAWNA L",359
 E Mason Valley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",358
-E Mason Valley 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",111
-E Mason Valley 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",284
+E Mason Valley 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",111
+E Mason Valley 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",284
 E Mason Valley 1,Governor,"Goodman, Robert ""Bob""",39
 E Mason Valley 1,Governor,None Of These Candidates,6
 E Mason Valley 1,Governor,"Sandoval, Brian",339
@@ -62,8 +62,8 @@ E Mason Valley 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",384
 E Mason Valley 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",90
 E Mason Valley 2,COUNTY RECORDER,"WARR, DAWNA L",435
 E Mason Valley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",452
-E Mason Valley 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",146
-E Mason Valley 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",321
+E Mason Valley 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",146
+E Mason Valley 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",321
 E Mason Valley 2,Governor,"Goodman, Robert ""Bob""",31
 E Mason Valley 2,Governor,None Of These Candidates,8
 E Mason Valley 2,Governor,"Sandoval, Brian",439
@@ -113,8 +113,8 @@ Fernley 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",329
 Fernley 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",146
 Fernley 1,COUNTY RECORDER,"WARR, DAWNA L",430
 Fernley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",438
-Fernley 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",261
-Fernley 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",205
+Fernley 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",261
+Fernley 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",205
 Fernley 1,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",167
 Fernley 1,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",182
 Fernley 1,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",167
@@ -172,8 +172,8 @@ Fernley 10,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",127
 Fernley 10,County Comm Dist. 5 (CW),"ROEMER, JOHN",30
 Fernley 10,COUNTY RECORDER,"WARR, DAWNA L",149
 Fernley 10,DISTRICT ATTORNEY,"RYE, STEPHEN B.",152
-Fernley 10,"District Court Judge, District 3, Department  1","KENNEDY, JACK",97
-Fernley 10,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",53
+Fernley 10,"District Court Judge, District 3, Department 1","KENNEDY, JACK",97
+Fernley 10,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",53
 Fernley 10,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",54
 Fernley 10,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",57
 Fernley 10,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",57
@@ -231,8 +231,8 @@ Fernley 11,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",195
 Fernley 11,County Comm Dist. 5 (CW),"ROEMER, JOHN",74
 Fernley 11,COUNTY RECORDER,"WARR, DAWNA L",244
 Fernley 11,DISTRICT ATTORNEY,"RYE, STEPHEN B.",256
-Fernley 11,"District Court Judge, District 3, Department  1","KENNEDY, JACK",174
-Fernley 11,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",97
+Fernley 11,"District Court Judge, District 3, Department 1","KENNEDY, JACK",174
+Fernley 11,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",97
 Fernley 11,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",94
 Fernley 11,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",97
 Fernley 11,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",90
@@ -290,8 +290,8 @@ Fernley 12,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",270
 Fernley 12,County Comm Dist. 5 (CW),"ROEMER, JOHN",98
 Fernley 12,COUNTY RECORDER,"WARR, DAWNA L",344
 Fernley 12,DISTRICT ATTORNEY,"RYE, STEPHEN B.",347
-Fernley 12,"District Court Judge, District 3, Department  1","KENNEDY, JACK",196
-Fernley 12,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",159
+Fernley 12,"District Court Judge, District 3, Department 1","KENNEDY, JACK",196
+Fernley 12,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",159
 Fernley 12,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",120
 Fernley 12,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",128
 Fernley 12,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",144
@@ -351,8 +351,8 @@ Fernley 13,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",427
 Fernley 13,County Comm Dist. 5 (CW),"ROEMER, JOHN",127
 Fernley 13,COUNTY RECORDER,"WARR, DAWNA L",507
 Fernley 13,DISTRICT ATTORNEY,"RYE, STEPHEN B.",516
-Fernley 13,"District Court Judge, District 3, Department  1","KENNEDY, JACK",364
-Fernley 13,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",194
+Fernley 13,"District Court Judge, District 3, Department 1","KENNEDY, JACK",364
+Fernley 13,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",194
 Fernley 13,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",195
 Fernley 13,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",172
 Fernley 13,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",237
@@ -412,8 +412,8 @@ Fernley 14,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",217
 Fernley 14,County Comm Dist. 5 (CW),"ROEMER, JOHN",89
 Fernley 14,COUNTY RECORDER,"WARR, DAWNA L",285
 Fernley 14,DISTRICT ATTORNEY,"RYE, STEPHEN B.",292
-Fernley 14,"District Court Judge, District 3, Department  1","KENNEDY, JACK",174
-Fernley 14,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",128
+Fernley 14,"District Court Judge, District 3, Department 1","KENNEDY, JACK",174
+Fernley 14,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",128
 Fernley 14,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",125
 Fernley 14,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",111
 Fernley 14,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",126
@@ -471,8 +471,8 @@ Fernley 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",173
 Fernley 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",45
 Fernley 2,COUNTY RECORDER,"WARR, DAWNA L",198
 Fernley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",201
-Fernley 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",116
-Fernley 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",108
+Fernley 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",116
+Fernley 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",108
 Fernley 2,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",86
 Fernley 2,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",60
 Fernley 2,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",85
@@ -530,8 +530,8 @@ Fernley 3,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",122
 Fernley 3,County Comm Dist. 5 (CW),"ROEMER, JOHN",31
 Fernley 3,COUNTY RECORDER,"WARR, DAWNA L",148
 Fernley 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",148
-Fernley 3,"District Court Judge, District 3, Department  1","KENNEDY, JACK",80
-Fernley 3,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",70
+Fernley 3,"District Court Judge, District 3, Department 1","KENNEDY, JACK",80
+Fernley 3,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",70
 Fernley 3,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",61
 Fernley 3,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",56
 Fernley 3,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",53
@@ -589,8 +589,8 @@ Fernley 4,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",218
 Fernley 4,County Comm Dist. 5 (CW),"ROEMER, JOHN",86
 Fernley 4,COUNTY RECORDER,"WARR, DAWNA L",280
 Fernley 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",283
-Fernley 4,"District Court Judge, District 3, Department  1","KENNEDY, JACK",153
-Fernley 4,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",131
+Fernley 4,"District Court Judge, District 3, Department 1","KENNEDY, JACK",153
+Fernley 4,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",131
 Fernley 4,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",106
 Fernley 4,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",99
 Fernley 4,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",106
@@ -650,8 +650,8 @@ Fernley 5,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",202
 Fernley 5,County Comm Dist. 5 (CW),"ROEMER, JOHN",54
 Fernley 5,COUNTY RECORDER,"WARR, DAWNA L",238
 Fernley 5,DISTRICT ATTORNEY,"RYE, STEPHEN B.",239
-Fernley 5,"District Court Judge, District 3, Department  1","KENNEDY, JACK",129
-Fernley 5,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",116
+Fernley 5,"District Court Judge, District 3, Department 1","KENNEDY, JACK",129
+Fernley 5,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",116
 Fernley 5,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",89
 Fernley 5,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",94
 Fernley 5,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",94
@@ -709,8 +709,8 @@ Fernley 6,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",207
 Fernley 6,County Comm Dist. 5 (CW),"ROEMER, JOHN",96
 Fernley 6,COUNTY RECORDER,"WARR, DAWNA L",267
 Fernley 6,DISTRICT ATTORNEY,"RYE, STEPHEN B.",279
-Fernley 6,"District Court Judge, District 3, Department  1","KENNEDY, JACK",183
-Fernley 6,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",116
+Fernley 6,"District Court Judge, District 3, Department 1","KENNEDY, JACK",183
+Fernley 6,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",116
 Fernley 6,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",109
 Fernley 6,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",122
 Fernley 6,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",119
@@ -770,8 +770,8 @@ Fernley 7,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",295
 Fernley 7,County Comm Dist. 5 (CW),"ROEMER, JOHN",113
 Fernley 7,COUNTY RECORDER,"WARR, DAWNA L",380
 Fernley 7,DISTRICT ATTORNEY,"RYE, STEPHEN B.",386
-Fernley 7,"District Court Judge, District 3, Department  1","KENNEDY, JACK",238
-Fernley 7,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",167
+Fernley 7,"District Court Judge, District 3, Department 1","KENNEDY, JACK",238
+Fernley 7,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",167
 Fernley 7,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",166
 Fernley 7,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",134
 Fernley 7,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",176
@@ -829,8 +829,8 @@ Fernley 8,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",123
 Fernley 8,County Comm Dist. 5 (CW),"ROEMER, JOHN",30
 Fernley 8,COUNTY RECORDER,"WARR, DAWNA L",143
 Fernley 8,DISTRICT ATTORNEY,"RYE, STEPHEN B.",149
-Fernley 8,"District Court Judge, District 3, Department  1","KENNEDY, JACK",76
-Fernley 8,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",74
+Fernley 8,"District Court Judge, District 3, Department 1","KENNEDY, JACK",76
+Fernley 8,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",74
 Fernley 8,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",81
 Fernley 8,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",46
 Fernley 8,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",67
@@ -888,8 +888,8 @@ Fernley 9,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",86
 Fernley 9,County Comm Dist. 5 (CW),"ROEMER, JOHN",22
 Fernley 9,COUNTY RECORDER,"WARR, DAWNA L",105
 Fernley 9,DISTRICT ATTORNEY,"RYE, STEPHEN B.",105
-Fernley 9,"District Court Judge, District 3, Department  1","KENNEDY, JACK",64
-Fernley 9,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",39
+Fernley 9,"District Court Judge, District 3, Department 1","KENNEDY, JACK",64
+Fernley 9,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",39
 Fernley 9,Fernley Swimming Pool GID District Trustees,"CLEGG, WILLIAM B.",35
 Fernley 9,Fernley Swimming Pool GID District Trustees,"DARLING-ZECH, JANICE",45
 Fernley 9,Fernley Swimming Pool GID District Trustees,"HANNA, MARTY",47
@@ -947,8 +947,8 @@ Mound House 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",115
 Mound House 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",40
 Mound House 1,COUNTY RECORDER,"WARR, DAWNA L",140
 Mound House 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",141
-Mound House 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",80
-Mound House 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",66
+Mound House 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",80
+Mound House 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",66
 Mound House 1,Governor,"Goodman, Robert ""Bob""",16
 Mound House 1,Governor,None Of These Candidates,8
 Mound House 1,Governor,"Sandoval, Brian",141
@@ -996,8 +996,8 @@ Mound House 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",132
 Mound House 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",62
 Mound House 2,COUNTY RECORDER,"WARR, DAWNA L",170
 Mound House 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",170
-Mound House 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",94
-Mound House 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",88
+Mound House 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",94
+Mound House 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",88
 Mound House 2,Governor,"Goodman, Robert ""Bob""",29
 Mound House 2,Governor,None Of These Candidates,3
 Mound House 2,Governor,"Sandoval, Brian",172
@@ -1045,8 +1045,8 @@ North Dayton 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",381
 North Dayton 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",124
 North Dayton 1,COUNTY RECORDER,"WARR, DAWNA L",462
 North Dayton 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",474
-North Dayton 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",241
-North Dayton 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",229
+North Dayton 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",241
+North Dayton 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",229
 North Dayton 1,Governor,"Goodman, Robert ""Bob""",49
 North Dayton 1,Governor,None Of These Candidates,17
 North Dayton 1,Governor,"Sandoval, Brian",454
@@ -1095,8 +1095,8 @@ North Dayton 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",446
 North Dayton 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",141
 North Dayton 2,COUNTY RECORDER,"WARR, DAWNA L",537
 North Dayton 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",550
-North Dayton 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",255
-North Dayton 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",295
+North Dayton 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",255
+North Dayton 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",295
 North Dayton 2,Governor,"Goodman, Robert ""Bob""",73
 North Dayton 2,Governor,None Of These Candidates,16
 North Dayton 2,Governor,"Sandoval, Brian",513
@@ -1144,8 +1144,8 @@ North Dayton 3,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",231
 North Dayton 3,County Comm Dist. 5 (CW),"ROEMER, JOHN",151
 North Dayton 3,COUNTY RECORDER,"WARR, DAWNA L",336
 North Dayton 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",335
-North Dayton 3,"District Court Judge, District 3, Department  1","KENNEDY, JACK",184
-North Dayton 3,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",173
+North Dayton 3,"District Court Judge, District 3, Department 1","KENNEDY, JACK",184
+North Dayton 3,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",173
 North Dayton 3,Governor,"Goodman, Robert ""Bob""",65
 North Dayton 3,Governor,None Of These Candidates,11
 North Dayton 3,Governor,"Sandoval, Brian",310
@@ -1193,8 +1193,8 @@ North Dayton 4,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",282
 North Dayton 4,County Comm Dist. 5 (CW),"ROEMER, JOHN",128
 North Dayton 4,COUNTY RECORDER,"WARR, DAWNA L",365
 North Dayton 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",363
-North Dayton 4,"District Court Judge, District 3, Department  1","KENNEDY, JACK",198
-North Dayton 4,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",195
+North Dayton 4,"District Court Judge, District 3, Department 1","KENNEDY, JACK",198
+North Dayton 4,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",195
 North Dayton 4,Governor,"Goodman, Robert ""Bob""",66
 North Dayton 4,Governor,None Of These Candidates,18
 North Dayton 4,Governor,"Sandoval, Brian",341
@@ -1242,8 +1242,8 @@ North Dayton 5,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",302
 North Dayton 5,County Comm Dist. 5 (CW),"ROEMER, JOHN",83
 North Dayton 5,COUNTY RECORDER,"WARR, DAWNA L",345
 North Dayton 5,DISTRICT ATTORNEY,"RYE, STEPHEN B.",357
-North Dayton 5,"District Court Judge, District 3, Department  1","KENNEDY, JACK",170
-North Dayton 5,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",179
+North Dayton 5,"District Court Judge, District 3, Department 1","KENNEDY, JACK",170
+North Dayton 5,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",179
 North Dayton 5,Governor,"Goodman, Robert ""Bob""",47
 North Dayton 5,Governor,None Of These Candidates,12
 North Dayton 5,Governor,"Sandoval, Brian",345
@@ -1298,8 +1298,8 @@ Silver City,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",39
 Silver City,County Comm Dist. 5 (CW),"ROEMER, JOHN",57
 Silver City,COUNTY RECORDER,"WARR, DAWNA L",67
 Silver City,DISTRICT ATTORNEY,"RYE, STEPHEN B.",70
-Silver City,"District Court Judge, District 3, Department  1","KENNEDY, JACK",45
-Silver City,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",41
+Silver City,"District Court Judge, District 3, Department 1","KENNEDY, JACK",45
+Silver City,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",41
 Silver City,Governor,"Goodman, Robert ""Bob""",42
 Silver City,Governor,None Of These Candidates,7
 Silver City,Governor,"Sandoval, Brian",56
@@ -1347,8 +1347,8 @@ Silver Springs 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",259
 Silver Springs 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",115
 Silver Springs 1,COUNTY RECORDER,"WARR, DAWNA L",335
 Silver Springs 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",339
-Silver Springs 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",192
-Silver Springs 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",171
+Silver Springs 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",192
+Silver Springs 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",171
 Silver Springs 1,Governor,"Goodman, Robert ""Bob""",52
 Silver Springs 1,Governor,None Of These Candidates,13
 Silver Springs 1,Governor,"Sandoval, Brian",290
@@ -1397,8 +1397,8 @@ Silver Springs 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",155
 Silver Springs 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",80
 Silver Springs 2,COUNTY RECORDER,"WARR, DAWNA L",214
 Silver Springs 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",217
-Silver Springs 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",119
-Silver Springs 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",106
+Silver Springs 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",119
+Silver Springs 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",106
 Silver Springs 2,Governor,"Goodman, Robert ""Bob""",32
 Silver Springs 2,Governor,None Of These Candidates,4
 Silver Springs 2,Governor,"Sandoval, Brian",199
@@ -1447,8 +1447,8 @@ Silver Springs 3,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",259
 Silver Springs 3,County Comm Dist. 5 (CW),"ROEMER, JOHN",98
 Silver Springs 3,COUNTY RECORDER,"WARR, DAWNA L",314
 Silver Springs 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",315
-Silver Springs 3,"District Court Judge, District 3, Department  1","KENNEDY, JACK",162
-Silver Springs 3,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",180
+Silver Springs 3,"District Court Judge, District 3, Department 1","KENNEDY, JACK",162
+Silver Springs 3,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",180
 Silver Springs 3,Governor,"Goodman, Robert ""Bob""",53
 Silver Springs 3,Governor,None Of These Candidates,10
 Silver Springs 3,Governor,"Sandoval, Brian",303
@@ -1497,8 +1497,8 @@ Silver Springs 4,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",170
 Silver Springs 4,County Comm Dist. 5 (CW),"ROEMER, JOHN",72
 Silver Springs 4,COUNTY RECORDER,"WARR, DAWNA L",217
 Silver Springs 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",224
-Silver Springs 4,"District Court Judge, District 3, Department  1","KENNEDY, JACK",124
-Silver Springs 4,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",109
+Silver Springs 4,"District Court Judge, District 3, Department 1","KENNEDY, JACK",124
+Silver Springs 4,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",109
 Silver Springs 4,Governor,"Goodman, Robert ""Bob""",30
 Silver Springs 4,Governor,None Of These Candidates,3
 Silver Springs 4,Governor,"Sandoval, Brian",209
@@ -1547,8 +1547,8 @@ Smith Valley 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",509
 Smith Valley 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",135
 Smith Valley 1,COUNTY RECORDER,"WARR, DAWNA L",573
 Smith Valley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",567
-Smith Valley 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",179
-Smith Valley 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",406
+Smith Valley 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",179
+Smith Valley 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",406
 Smith Valley 1,Governor,"Goodman, Robert ""Bob""",34
 Smith Valley 1,Governor,None Of These Candidates,19
 Smith Valley 1,Governor,"Sandoval, Brian",580
@@ -1598,8 +1598,8 @@ Smith Valley 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",219
 Smith Valley 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",28
 Smith Valley 2,COUNTY RECORDER,"WARR, DAWNA L",220
 Smith Valley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",225
-Smith Valley 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",74
-Smith Valley 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",158
+Smith Valley 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",74
+Smith Valley 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",158
 Smith Valley 2,Governor,"Goodman, Robert ""Bob""",8
 Smith Valley 2,Governor,None Of These Candidates,8
 Smith Valley 2,Governor,"Sandoval, Brian",222
@@ -1649,8 +1649,8 @@ South Dayton 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",308
 South Dayton 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",126
 South Dayton 1,COUNTY RECORDER,"WARR, DAWNA L",368
 South Dayton 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",384
-South Dayton 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",172
-South Dayton 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",234
+South Dayton 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",172
+South Dayton 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",234
 South Dayton 1,Governor,"Goodman, Robert ""Bob""",53
 South Dayton 1,Governor,None Of These Candidates,4
 South Dayton 1,Governor,"Sandoval, Brian",382
@@ -1698,8 +1698,8 @@ South Dayton 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",94
 South Dayton 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",40
 South Dayton 2,COUNTY RECORDER,"WARR, DAWNA L",121
 South Dayton 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",122
-South Dayton 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",61
-South Dayton 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",66
+South Dayton 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",61
+South Dayton 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",66
 South Dayton 2,Governor,"Goodman, Robert ""Bob""",23
 South Dayton 2,Governor,None Of These Candidates,3
 South Dayton 2,Governor,"Sandoval, Brian",112
@@ -1747,8 +1747,8 @@ South Dayton 3,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",369
 South Dayton 3,County Comm Dist. 5 (CW),"ROEMER, JOHN",166
 South Dayton 3,COUNTY RECORDER,"WARR, DAWNA L",476
 South Dayton 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",490
-South Dayton 3,"District Court Judge, District 3, Department  1","KENNEDY, JACK",277
-South Dayton 3,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",229
+South Dayton 3,"District Court Judge, District 3, Department 1","KENNEDY, JACK",277
+South Dayton 3,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",229
 South Dayton 3,Governor,"Goodman, Robert ""Bob""",62
 South Dayton 3,Governor,None Of These Candidates,13
 South Dayton 3,Governor,"Sandoval, Brian",485
@@ -1796,8 +1796,8 @@ South Dayton 4,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",167
 South Dayton 4,County Comm Dist. 5 (CW),"ROEMER, JOHN",79
 South Dayton 4,COUNTY RECORDER,"WARR, DAWNA L",217
 South Dayton 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",220
-South Dayton 4,"District Court Judge, District 3, Department  1","KENNEDY, JACK",113
-South Dayton 4,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",117
+South Dayton 4,"District Court Judge, District 3, Department 1","KENNEDY, JACK",113
+South Dayton 4,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",117
 South Dayton 4,Governor,"Goodman, Robert ""Bob""",36
 South Dayton 4,Governor,None Of These Candidates,5
 South Dayton 4,Governor,"Sandoval, Brian",212
@@ -1845,8 +1845,8 @@ Spragg-Plummer,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",632
 Spragg-Plummer,County Comm Dist. 5 (CW),"ROEMER, JOHN",148
 Spragg-Plummer,COUNTY RECORDER,"WARR, DAWNA L",712
 Spragg-Plummer,DISTRICT ATTORNEY,"RYE, STEPHEN B.",716
-Spragg-Plummer,"District Court Judge, District 3, Department  1","KENNEDY, JACK",260
-Spragg-Plummer,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",504
+Spragg-Plummer,"District Court Judge, District 3, Department 1","KENNEDY, JACK",260
+Spragg-Plummer,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",504
 Spragg-Plummer,Governor,"Goodman, Robert ""Bob""",79
 Spragg-Plummer,Governor,None Of These Candidates,18
 Spragg-Plummer,Governor,"Sandoval, Brian",699
@@ -1896,8 +1896,8 @@ Stagecoach 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",374
 Stagecoach 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",159
 Stagecoach 1,COUNTY RECORDER,"WARR, DAWNA L",488
 Stagecoach 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",494
-Stagecoach 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",249
-Stagecoach 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",274
+Stagecoach 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",249
+Stagecoach 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",274
 Stagecoach 1,Governor,"Goodman, Robert ""Bob""",74
 Stagecoach 1,Governor,None Of These Candidates,18
 Stagecoach 1,Governor,"Sandoval, Brian",456
@@ -1946,8 +1946,8 @@ Stagecoach 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",127
 Stagecoach 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",49
 Stagecoach 2,COUNTY RECORDER,"WARR, DAWNA L",160
 Stagecoach 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",162
-Stagecoach 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",83
-Stagecoach 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",87
+Stagecoach 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",83
+Stagecoach 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",87
 Stagecoach 2,Governor,"Goodman, Robert ""Bob""",22
 Stagecoach 2,Governor,None Of These Candidates,4
 Stagecoach 2,Governor,"Sandoval, Brian",157
@@ -1996,8 +1996,8 @@ W Mason Valley 1,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",375
 W Mason Valley 1,County Comm Dist. 5 (CW),"ROEMER, JOHN",92
 W Mason Valley 1,COUNTY RECORDER,"WARR, DAWNA L",428
 W Mason Valley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",443
-W Mason Valley 1,"District Court Judge, District 3, Department  1","KENNEDY, JACK",122
-W Mason Valley 1,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",346
+W Mason Valley 1,"District Court Judge, District 3, Department 1","KENNEDY, JACK",122
+W Mason Valley 1,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",346
 W Mason Valley 1,Governor,"Goodman, Robert ""Bob""",63
 W Mason Valley 1,Governor,None Of These Candidates,3
 W Mason Valley 1,Governor,"Sandoval, Brian",407
@@ -2047,8 +2047,8 @@ W Mason Valley 2,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",213
 W Mason Valley 2,County Comm Dist. 5 (CW),"ROEMER, JOHN",32
 W Mason Valley 2,COUNTY RECORDER,"WARR, DAWNA L",229
 W Mason Valley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",234
-W Mason Valley 2,"District Court Judge, District 3, Department  1","KENNEDY, JACK",57
-W Mason Valley 2,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",188
+W Mason Valley 2,"District Court Judge, District 3, Department 1","KENNEDY, JACK",57
+W Mason Valley 2,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",188
 W Mason Valley 2,Governor,"Goodman, Robert ""Bob""",24
 W Mason Valley 2,Governor,None Of These Candidates,3
 W Mason Valley 2,Governor,"Sandoval, Brian",218
@@ -2098,8 +2098,8 @@ W Mason Valley 3,County Comm Dist. 5 (CW),"HUNEWILL, GREG A",28
 W Mason Valley 3,County Comm Dist. 5 (CW),"ROEMER, JOHN",7
 W Mason Valley 3,COUNTY RECORDER,"WARR, DAWNA L",35
 W Mason Valley 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",34
-W Mason Valley 3,"District Court Judge, District 3, Department  1","KENNEDY, JACK",11
-W Mason Valley 3,"District Court Judge, District 3, Department  1","SCHLEGELMILCH, JOHN ""JP""",24
+W Mason Valley 3,"District Court Judge, District 3, Department 1","KENNEDY, JACK",11
+W Mason Valley 3,"District Court Judge, District 3, Department 1","SCHLEGELMILCH, JOHN ""JP""",24
 W Mason Valley 3,Governor,"Goodman, Robert ""Bob""",6
 W Mason Valley 3,Governor,None Of These Candidates,0
 W Mason Valley 3,Governor,"Sandoval, Brian",29

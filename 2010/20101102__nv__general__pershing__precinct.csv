@@ -1,7 +1,7 @@
 precinct,office,candidate,votes
 PRECINCT 1,Assessor,"HAMILTON, CELESTE",526
 PRECINCT 1,Attorney General,"Barrick, Travis",206
-PRECINCT 1,Attorney General,"CORTEZ  MASTO, CATHERINE",274
+PRECINCT 1,Attorney General,"CORTEZ MASTO, CATHERINE",274
 PRECINCT 1,Attorney General,"Hansen, Joel F.",66
 PRECINCT 1,Attorney General,None Of These Candidates,34
 PRECINCT 1,Big Meadow Conservation District -vf3,"CLINGER, CARL F.",405
@@ -72,11 +72,11 @@ PRECINCT 1,U.S. Senate,None Of These Candidates,27
 PRECINCT 1,U.S. Senate,"Reeves, Jeffrey C.",4
 PRECINCT 1,U.S. Senate,"REID, HARRY",183
 PRECINCT 1,U.S. Senate,"Stand, Wil",1
-PRECINCT 1,"University Board of Regents, District  8","MELCHER, KEVIN C.",294
-PRECINCT 1,"University Board of Regents, District  8","PUCCINELLI, MARGARET",219
+PRECINCT 1,"University Board of Regents, District 8","MELCHER, KEVIN C.",294
+PRECINCT 1,"University Board of Regents, District 8","PUCCINELLI, MARGARET",219
 PRECINCT 3,Assessor,"HAMILTON, CELESTE",316
 PRECINCT 3,Attorney General,"Barrick, Travis",109
-PRECINCT 3,Attorney General,"CORTEZ  MASTO, CATHERINE",184
+PRECINCT 3,Attorney General,"CORTEZ MASTO, CATHERINE",184
 PRECINCT 3,Attorney General,"Hansen, Joel F.",35
 PRECINCT 3,Attorney General,None Of These Candidates,16
 PRECINCT 3,Big Meadow Conservation District -vf3,"CLINGER, CARL F.",257
@@ -147,11 +147,11 @@ PRECINCT 3,U.S. Senate,None Of These Candidates,15
 PRECINCT 3,U.S. Senate,"Reeves, Jeffrey C.",2
 PRECINCT 3,U.S. Senate,"REID, HARRY",144
 PRECINCT 3,U.S. Senate,"Stand, Wil",4
-PRECINCT 3,"University Board of Regents, District  8","MELCHER, KEVIN C.",160
-PRECINCT 3,"University Board of Regents, District  8","PUCCINELLI, MARGARET",144
+PRECINCT 3,"University Board of Regents, District 8","MELCHER, KEVIN C.",160
+PRECINCT 3,"University Board of Regents, District 8","PUCCINELLI, MARGARET",144
 PRECINCT 4,Assessor,"HAMILTON, CELESTE",237
 PRECINCT 4,Attorney General,"Barrick, Travis",62
-PRECINCT 4,Attorney General,"CORTEZ  MASTO, CATHERINE",157
+PRECINCT 4,Attorney General,"CORTEZ MASTO, CATHERINE",157
 PRECINCT 4,Attorney General,"Hansen, Joel F.",27
 PRECINCT 4,Attorney General,None Of These Candidates,14
 PRECINCT 4,Big Meadow Conservation District -vf3,"CLINGER, CARL F.",183
@@ -222,11 +222,11 @@ PRECINCT 4,U.S. Senate,None Of These Candidates,19
 PRECINCT 4,U.S. Senate,"Reeves, Jeffrey C.",4
 PRECINCT 4,U.S. Senate,"REID, HARRY",129
 PRECINCT 4,U.S. Senate,"Stand, Wil",0
-PRECINCT 4,"University Board of Regents, District  8","MELCHER, KEVIN C.",134
-PRECINCT 4,"University Board of Regents, District  8","PUCCINELLI, MARGARET",103
+PRECINCT 4,"University Board of Regents, District 8","MELCHER, KEVIN C.",134
+PRECINCT 4,"University Board of Regents, District 8","PUCCINELLI, MARGARET",103
 PRECINCT 5,Assessor,"HAMILTON, CELESTE",65
 PRECINCT 5,Attorney General,"Barrick, Travis",38
-PRECINCT 5,Attorney General,"CORTEZ  MASTO, CATHERINE",22
+PRECINCT 5,Attorney General,"CORTEZ MASTO, CATHERINE",22
 PRECINCT 5,Attorney General,"Hansen, Joel F.",18
 PRECINCT 5,Attorney General,None Of These Candidates,5
 PRECINCT 5,Big Meadow Conservation District -vf3,"CLINGER, CARL F.",40
@@ -291,11 +291,11 @@ PRECINCT 5,U.S. Senate,None Of These Candidates,4
 PRECINCT 5,U.S. Senate,"Reeves, Jeffrey C.",3
 PRECINCT 5,U.S. Senate,"REID, HARRY",23
 PRECINCT 5,U.S. Senate,"Stand, Wil",0
-PRECINCT 5,"University Board of Regents, District  8","MELCHER, KEVIN C.",30
-PRECINCT 5,"University Board of Regents, District  8","PUCCINELLI, MARGARET",38
+PRECINCT 5,"University Board of Regents, District 8","MELCHER, KEVIN C.",30
+PRECINCT 5,"University Board of Regents, District 8","PUCCINELLI, MARGARET",38
 PRECINCT 6,Assessor,"HAMILTON, CELESTE",199
 PRECINCT 6,Attorney General,"Barrick, Travis",123
-PRECINCT 6,Attorney General,"CORTEZ  MASTO, CATHERINE",93
+PRECINCT 6,Attorney General,"CORTEZ MASTO, CATHERINE",93
 PRECINCT 6,Attorney General,"Hansen, Joel F.",39
 PRECINCT 6,Attorney General,None Of These Candidates,7
 PRECINCT 6,Big Meadow Conservation District -vf3,"CLINGER, CARL F.",137
@@ -360,11 +360,11 @@ PRECINCT 6,U.S. Senate,None Of These Candidates,8
 PRECINCT 6,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 6,U.S. Senate,"REID, HARRY",72
 PRECINCT 6,U.S. Senate,"Stand, Wil",0
-PRECINCT 6,"University Board of Regents, District  8","MELCHER, KEVIN C.",110
-PRECINCT 6,"University Board of Regents, District  8","PUCCINELLI, MARGARET",110
+PRECINCT 6,"University Board of Regents, District 8","MELCHER, KEVIN C.",110
+PRECINCT 6,"University Board of Regents, District 8","PUCCINELLI, MARGARET",110
 PRECINCT 7,Assessor,"HAMILTON, CELESTE",152
 PRECINCT 7,Attorney General,"Barrick, Travis",83
-PRECINCT 7,Attorney General,"CORTEZ  MASTO, CATHERINE",61
+PRECINCT 7,Attorney General,"CORTEZ MASTO, CATHERINE",61
 PRECINCT 7,Attorney General,"Hansen, Joel F.",34
 PRECINCT 7,Attorney General,None Of These Candidates,9
 PRECINCT 7,Big Meadow Conservation District -vf3,"CLINGER, CARL F.",111
@@ -429,8 +429,8 @@ PRECINCT 7,U.S. Senate,None Of These Candidates,10
 PRECINCT 7,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 7,U.S. Senate,"REID, HARRY",46
 PRECINCT 7,U.S. Senate,"Stand, Wil",0
-PRECINCT 7,"University Board of Regents, District  8","MELCHER, KEVIN C.",77
-PRECINCT 7,"University Board of Regents, District  8","PUCCINELLI, MARGARET",71
+PRECINCT 7,"University Board of Regents, District 8","MELCHER, KEVIN C.",77
+PRECINCT 7,"University Board of Regents, District 8","PUCCINELLI, MARGARET",71
 PRECINCT 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","Price, Nancy",0

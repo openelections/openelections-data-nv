@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 Precinct 1,Attorney General,"CHAIREZ, DON",131
-Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",225
+Precinct 1,Attorney General,"CORTEZ MASTO, CATHERINE",225
 Precinct 1,Attorney General,None Of These Candidates,24
 Precinct 1,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",329
 Precinct 1,COUNTY CLERK (Republican),"SPERO, TAMI RAE",341
@@ -68,7 +68,7 @@ Precinct 1,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 1,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",171
 Precinct 1,"Winnemucca Councilman, Seat Number 2","WARR, LES",161
 Precinct 10,Attorney General,"CHAIREZ, DON",35
-Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",66
+Precinct 10,Attorney General,"CORTEZ MASTO, CATHERINE",66
 Precinct 10,Attorney General,None Of These Candidates,10
 Precinct 10,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",86
 Precinct 10,COUNTY CLERK (Republican),"SPERO, TAMI RAE",87
@@ -132,7 +132,7 @@ Precinct 10,U.S. Senate,None Of These Candidates,5
 Precinct 10,U.S. Senate,"SCHUMANN, DAVID K.",2
 Precinct 10,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 11,Attorney General,"CHAIREZ, DON",92
-Precinct 11,Attorney General,"CORTEZ  MASTO, CATHERINE",34
+Precinct 11,Attorney General,"CORTEZ MASTO, CATHERINE",34
 Precinct 11,Attorney General,None Of These Candidates,16
 Precinct 11,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",129
 Precinct 11,COUNTY CLERK (Republican),"SPERO, TAMI RAE",130
@@ -194,7 +194,7 @@ Precinct 11,U.S. Senate,None Of These Candidates,1
 Precinct 11,U.S. Senate,"SCHUMANN, DAVID K.",5
 Precinct 11,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 12,Attorney General,"CHAIREZ, DON",70
-Precinct 12,Attorney General,"CORTEZ  MASTO, CATHERINE",42
+Precinct 12,Attorney General,"CORTEZ MASTO, CATHERINE",42
 Precinct 12,Attorney General,None Of These Candidates,6
 Precinct 12,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",98
 Precinct 12,COUNTY CLERK (Republican),"SPERO, TAMI RAE",101
@@ -256,7 +256,7 @@ Precinct 12,U.S. Senate,None Of These Candidates,1
 Precinct 12,U.S. Senate,"SCHUMANN, DAVID K.",2
 Precinct 12,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 13,Attorney General,"CHAIREZ, DON",64
-Precinct 13,Attorney General,"CORTEZ  MASTO, CATHERINE",72
+Precinct 13,Attorney General,"CORTEZ MASTO, CATHERINE",72
 Precinct 13,Attorney General,None Of These Candidates,15
 Precinct 13,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",124
 Precinct 13,COUNTY CLERK (Republican),"SPERO, TAMI RAE",130
@@ -318,7 +318,7 @@ Precinct 13,U.S. Senate,None Of These Candidates,3
 Precinct 13,U.S. Senate,"SCHUMANN, DAVID K.",7
 Precinct 13,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 14,Attorney General,"CHAIREZ, DON",67
-Precinct 14,Attorney General,"CORTEZ  MASTO, CATHERINE",80
+Precinct 14,Attorney General,"CORTEZ MASTO, CATHERINE",80
 Precinct 14,Attorney General,None Of These Candidates,7
 Precinct 14,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",143
 Precinct 14,COUNTY CLERK (Republican),"SPERO, TAMI RAE",145
@@ -381,7 +381,7 @@ Precinct 14,U.S. Senate,None Of These Candidates,4
 Precinct 14,U.S. Senate,"SCHUMANN, DAVID K.",0
 Precinct 14,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 15,Attorney General,"CHAIREZ, DON",54
-Precinct 15,Attorney General,"CORTEZ  MASTO, CATHERINE",51
+Precinct 15,Attorney General,"CORTEZ MASTO, CATHERINE",51
 Precinct 15,Attorney General,None Of These Candidates,9
 Precinct 15,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",104
 Precinct 15,COUNTY CLERK (Republican),"SPERO, TAMI RAE",106
@@ -443,7 +443,7 @@ Precinct 15,U.S. Senate,None Of These Candidates,6
 Precinct 15,U.S. Senate,"SCHUMANN, DAVID K.",4
 Precinct 15,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 2,Attorney General,"CHAIREZ, DON",108
-Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",180
+Precinct 2,Attorney General,"CORTEZ MASTO, CATHERINE",180
 Precinct 2,Attorney General,None Of These Candidates,36
 Precinct 2,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",277
 Precinct 2,COUNTY CLERK (Republican),"SPERO, TAMI RAE",275
@@ -511,7 +511,7 @@ Precinct 2,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 2,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",176
 Precinct 2,"Winnemucca Councilman, Seat Number 2","WARR, LES",135
 Precinct 3,Attorney General,"CHAIREZ, DON",135
-Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",274
+Precinct 3,Attorney General,"CORTEZ MASTO, CATHERINE",274
 Precinct 3,Attorney General,None Of These Candidates,34
 Precinct 3,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",377
 Precinct 3,COUNTY CLERK (Republican),"SPERO, TAMI RAE",384
@@ -579,7 +579,7 @@ Precinct 3,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 3,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",224
 Precinct 3,"Winnemucca Councilman, Seat Number 2","WARR, LES",198
 Precinct 4,Attorney General,"CHAIREZ, DON",128
-Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",194
+Precinct 4,Attorney General,"CORTEZ MASTO, CATHERINE",194
 Precinct 4,Attorney General,None Of These Candidates,36
 Precinct 4,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",324
 Precinct 4,COUNTY CLERK (Republican),"SPERO, TAMI RAE",329
@@ -646,7 +646,7 @@ Precinct 4,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 4,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",112
 Precinct 4,"Winnemucca Councilman, Seat Number 2","WARR, LES",133
 Precinct 5,Attorney General,"CHAIREZ, DON",298
-Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",411
+Precinct 5,Attorney General,"CORTEZ MASTO, CATHERINE",411
 Precinct 5,Attorney General,None Of These Candidates,38
 Precinct 5,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",684
 Precinct 5,COUNTY CLERK (Republican),"SPERO, TAMI RAE",692
@@ -713,7 +713,7 @@ Precinct 5,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 5,"Winnemucca Councilman, Seat Number 2","CAIN, DOUGLAS",385
 Precinct 5,"Winnemucca Councilman, Seat Number 2","WARR, LES",322
 Precinct 6,Attorney General,"CHAIREZ, DON",309
-Precinct 6,Attorney General,"CORTEZ  MASTO, CATHERINE",299
+Precinct 6,Attorney General,"CORTEZ MASTO, CATHERINE",299
 Precinct 6,Attorney General,None Of These Candidates,40
 Precinct 6,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",582
 Precinct 6,COUNTY CLERK (Republican),"SPERO, TAMI RAE",589
@@ -775,7 +775,7 @@ Precinct 6,U.S. Senate,None Of These Candidates,9
 Precinct 6,U.S. Senate,"SCHUMANN, DAVID K.",15
 Precinct 6,U.S. Senate,"TRAINOR, BRENDAN",8
 Precinct 7,Attorney General,"CHAIREZ, DON",246
-Precinct 7,Attorney General,"CORTEZ  MASTO, CATHERINE",311
+Precinct 7,Attorney General,"CORTEZ MASTO, CATHERINE",311
 Precinct 7,Attorney General,None Of These Candidates,34
 Precinct 7,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",512
 Precinct 7,COUNTY CLERK (Republican),"SPERO, TAMI RAE",512
@@ -837,7 +837,7 @@ Precinct 7,U.S. Senate,None Of These Candidates,10
 Precinct 7,U.S. Senate,"SCHUMANN, DAVID K.",9
 Precinct 7,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 8,Attorney General,"CHAIREZ, DON",48
-Precinct 8,Attorney General,"CORTEZ  MASTO, CATHERINE",26
+Precinct 8,Attorney General,"CORTEZ MASTO, CATHERINE",26
 Precinct 8,Attorney General,None Of These Candidates,7
 Precinct 8,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",70
 Precinct 8,COUNTY CLERK (Republican),"SPERO, TAMI RAE",68
@@ -901,7 +901,7 @@ Precinct 8,U.S. Senate,None Of These Candidates,0
 Precinct 8,U.S. Senate,"SCHUMANN, DAVID K.",2
 Precinct 8,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 9,Attorney General,"CHAIREZ, DON",60
-Precinct 9,Attorney General,"CORTEZ  MASTO, CATHERINE",25
+Precinct 9,Attorney General,"CORTEZ MASTO, CATHERINE",25
 Precinct 9,Attorney General,None Of These Candidates,9
 Precinct 9,COUNTY ASSESSOR,"JOHNSON, WILLIAM ""JEFF""",89
 Precinct 9,COUNTY CLERK (Republican),"SPERO, TAMI RAE",87

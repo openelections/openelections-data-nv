@@ -1,7 +1,7 @@
 precinct,office,candidate,votes
 PRECINCT 1,Assessor,"FOWLER, DOROTHY J.",245
 PRECINCT 1,Attorney General,"Barrick, Travis",111
-PRECINCT 1,Attorney General,"CORTEZ  MASTO, CATHERINE",140
+PRECINCT 1,Attorney General,"CORTEZ MASTO, CATHERINE",140
 PRECINCT 1,Attorney General,"Hansen, Joel F.",18
 PRECINCT 1,Attorney General,None Of These Candidates,22
 PRECINCT 1,Clerk/Treasurer,"GEORGE, CHERRIE A.",157
@@ -55,11 +55,11 @@ PRECINCT 1,U.S. Senate,None Of These Candidates,8
 PRECINCT 1,U.S. Senate,"Reeves, Jeffrey C.",2
 PRECINCT 1,U.S. Senate,"REID, HARRY",128
 PRECINCT 1,U.S. Senate,"Stand, Wil",3
-PRECINCT 1,"University Board of Regents, District  8","MELCHER, KEVIN C.",113
-PRECINCT 1,"University Board of Regents, District  8","PUCCINELLI, MARGARET",120
+PRECINCT 1,"University Board of Regents, District 8","MELCHER, KEVIN C.",113
+PRECINCT 1,"University Board of Regents, District 8","PUCCINELLI, MARGARET",120
 PRECINCT 10 (MB),Assessor,"FOWLER, DOROTHY J.",
 PRECINCT 10 (MB),Attorney General,"Barrick, Travis",
-PRECINCT 10 (MB),Attorney General,"CORTEZ  MASTO, CATHERINE",
+PRECINCT 10 (MB),Attorney General,"CORTEZ MASTO, CATHERINE",
 PRECINCT 10 (MB),Attorney General,"Hansen, Joel F.",
 PRECINCT 10 (MB),Attorney General,None Of These Candidates,
 PRECINCT 10 (MB),Clerk/Treasurer,"GEORGE, CHERRIE A.",
@@ -113,11 +113,11 @@ PRECINCT 10 (MB),U.S. Senate,None Of These Candidates,
 PRECINCT 10 (MB),U.S. Senate,"Reeves, Jeffrey C.",
 PRECINCT 10 (MB),U.S. Senate,"REID, HARRY",
 PRECINCT 10 (MB),U.S. Senate,"Stand, Wil",
-PRECINCT 10 (MB),"University Board of Regents, District  8","MELCHER, KEVIN C.",
-PRECINCT 10 (MB),"University Board of Regents, District  8","PUCCINELLI, MARGARET",
+PRECINCT 10 (MB),"University Board of Regents, District 8","MELCHER, KEVIN C.",
+PRECINCT 10 (MB),"University Board of Regents, District 8","PUCCINELLI, MARGARET",
 PRECINCT 11,Assessor,"FOWLER, DOROTHY J.",148
 PRECINCT 11,Attorney General,"Barrick, Travis",18
-PRECINCT 11,Attorney General,"CORTEZ  MASTO, CATHERINE",177
+PRECINCT 11,Attorney General,"CORTEZ MASTO, CATHERINE",177
 PRECINCT 11,Attorney General,"Hansen, Joel F.",12
 PRECINCT 11,Attorney General,None Of These Candidates,14
 PRECINCT 11,Clerk/Treasurer,"GEORGE, CHERRIE A.",71
@@ -171,11 +171,11 @@ PRECINCT 11,U.S. Senate,None Of These Candidates,6
 PRECINCT 11,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 11,U.S. Senate,"REID, HARRY",163
 PRECINCT 11,U.S. Senate,"Stand, Wil",2
-PRECINCT 11,"University Board of Regents, District  8","MELCHER, KEVIN C.",80
-PRECINCT 11,"University Board of Regents, District  8","PUCCINELLI, MARGARET",107
+PRECINCT 11,"University Board of Regents, District 8","MELCHER, KEVIN C.",80
+PRECINCT 11,"University Board of Regents, District 8","PUCCINELLI, MARGARET",107
 PRECINCT 12,Assessor,"FOWLER, DOROTHY J.",126
 PRECINCT 12,Attorney General,"Barrick, Travis",63
-PRECINCT 12,Attorney General,"CORTEZ  MASTO, CATHERINE",59
+PRECINCT 12,Attorney General,"CORTEZ MASTO, CATHERINE",59
 PRECINCT 12,Attorney General,"Hansen, Joel F.",14
 PRECINCT 12,Attorney General,None Of These Candidates,2
 PRECINCT 12,Clerk/Treasurer,"GEORGE, CHERRIE A.",86
@@ -229,14 +229,14 @@ PRECINCT 12,U.S. Senate,None Of These Candidates,4
 PRECINCT 12,U.S. Senate,"Reeves, Jeffrey C.",2
 PRECINCT 12,U.S. Senate,"REID, HARRY",47
 PRECINCT 12,U.S. Senate,"Stand, Wil",0
-PRECINCT 12,"University Board of Regents, District  8","MELCHER, KEVIN C.",64
-PRECINCT 12,"University Board of Regents, District  8","PUCCINELLI, MARGARET",56
+PRECINCT 12,"University Board of Regents, District 8","MELCHER, KEVIN C.",64
+PRECINCT 12,"University Board of Regents, District 8","PUCCINELLI, MARGARET",56
 PRECINCT 12,WALKER LAKE Water District -vf 2 4 yr,"DZVONICK, ANDREW ROY",48
 PRECINCT 12,WALKER LAKE Water District -vf 2 4 yr,"HORTON, CHARLES E.",101
 PRECINCT 12,WALKER LAKE Water District -vf 2 4 yr,"SMITH, ALAN J.",74
 PRECINCT 2,Assessor,"FOWLER, DOROTHY J.",227
 PRECINCT 2,Attorney General,"Barrick, Travis",83
-PRECINCT 2,Attorney General,"CORTEZ  MASTO, CATHERINE",143
+PRECINCT 2,Attorney General,"CORTEZ MASTO, CATHERINE",143
 PRECINCT 2,Attorney General,"Hansen, Joel F.",21
 PRECINCT 2,Attorney General,None Of These Candidates,23
 PRECINCT 2,Clerk/Treasurer,"GEORGE, CHERRIE A.",154
@@ -290,11 +290,11 @@ PRECINCT 2,U.S. Senate,None Of These Candidates,17
 PRECINCT 2,U.S. Senate,"Reeves, Jeffrey C.",2
 PRECINCT 2,U.S. Senate,"REID, HARRY",113
 PRECINCT 2,U.S. Senate,"Stand, Wil",2
-PRECINCT 2,"University Board of Regents, District  8","MELCHER, KEVIN C.",94
-PRECINCT 2,"University Board of Regents, District  8","PUCCINELLI, MARGARET",136
+PRECINCT 2,"University Board of Regents, District 8","MELCHER, KEVIN C.",94
+PRECINCT 2,"University Board of Regents, District 8","PUCCINELLI, MARGARET",136
 PRECINCT 3,Assessor,"FOWLER, DOROTHY J.",148
 PRECINCT 3,Attorney General,"Barrick, Travis",65
-PRECINCT 3,Attorney General,"CORTEZ  MASTO, CATHERINE",71
+PRECINCT 3,Attorney General,"CORTEZ MASTO, CATHERINE",71
 PRECINCT 3,Attorney General,"Hansen, Joel F.",14
 PRECINCT 3,Attorney General,None Of These Candidates,11
 PRECINCT 3,Clerk/Treasurer,"GEORGE, CHERRIE A.",92
@@ -348,11 +348,11 @@ PRECINCT 3,U.S. Senate,None Of These Candidates,11
 PRECINCT 3,U.S. Senate,"Reeves, Jeffrey C.",2
 PRECINCT 3,U.S. Senate,"REID, HARRY",70
 PRECINCT 3,U.S. Senate,"Stand, Wil",1
-PRECINCT 3,"University Board of Regents, District  8","MELCHER, KEVIN C.",53
-PRECINCT 3,"University Board of Regents, District  8","PUCCINELLI, MARGARET",81
+PRECINCT 3,"University Board of Regents, District 8","MELCHER, KEVIN C.",53
+PRECINCT 3,"University Board of Regents, District 8","PUCCINELLI, MARGARET",81
 PRECINCT 4,Assessor,"FOWLER, DOROTHY J.",118
 PRECINCT 4,Attorney General,"Barrick, Travis",46
-PRECINCT 4,Attorney General,"CORTEZ  MASTO, CATHERINE",74
+PRECINCT 4,Attorney General,"CORTEZ MASTO, CATHERINE",74
 PRECINCT 4,Attorney General,"Hansen, Joel F.",17
 PRECINCT 4,Attorney General,None Of These Candidates,10
 PRECINCT 4,Clerk/Treasurer,"GEORGE, CHERRIE A.",80
@@ -406,11 +406,11 @@ PRECINCT 4,U.S. Senate,None Of These Candidates,11
 PRECINCT 4,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 4,U.S. Senate,"REID, HARRY",64
 PRECINCT 4,U.S. Senate,"Stand, Wil",0
-PRECINCT 4,"University Board of Regents, District  8","MELCHER, KEVIN C.",61
-PRECINCT 4,"University Board of Regents, District  8","PUCCINELLI, MARGARET",65
+PRECINCT 4,"University Board of Regents, District 8","MELCHER, KEVIN C.",61
+PRECINCT 4,"University Board of Regents, District 8","PUCCINELLI, MARGARET",65
 PRECINCT 5,Assessor,"FOWLER, DOROTHY J.",172
 PRECINCT 5,Attorney General,"Barrick, Travis",49
-PRECINCT 5,Attorney General,"CORTEZ  MASTO, CATHERINE",124
+PRECINCT 5,Attorney General,"CORTEZ MASTO, CATHERINE",124
 PRECINCT 5,Attorney General,"Hansen, Joel F.",20
 PRECINCT 5,Attorney General,None Of These Candidates,14
 PRECINCT 5,Clerk/Treasurer,"GEORGE, CHERRIE A.",117
@@ -464,11 +464,11 @@ PRECINCT 5,U.S. Senate,None Of These Candidates,14
 PRECINCT 5,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 5,U.S. Senate,"REID, HARRY",97
 PRECINCT 5,U.S. Senate,"Stand, Wil",3
-PRECINCT 5,"University Board of Regents, District  8","MELCHER, KEVIN C.",77
-PRECINCT 5,"University Board of Regents, District  8","PUCCINELLI, MARGARET",104
+PRECINCT 5,"University Board of Regents, District 8","MELCHER, KEVIN C.",77
+PRECINCT 5,"University Board of Regents, District 8","PUCCINELLI, MARGARET",104
 PRECINCT 6,Assessor,"FOWLER, DOROTHY J.",202
 PRECINCT 6,Attorney General,"Barrick, Travis",72
-PRECINCT 6,Attorney General,"CORTEZ  MASTO, CATHERINE",133
+PRECINCT 6,Attorney General,"CORTEZ MASTO, CATHERINE",133
 PRECINCT 6,Attorney General,"Hansen, Joel F.",24
 PRECINCT 6,Attorney General,None Of These Candidates,13
 PRECINCT 6,Clerk/Treasurer,"GEORGE, CHERRIE A.",135
@@ -522,11 +522,11 @@ PRECINCT 6,U.S. Senate,None Of These Candidates,11
 PRECINCT 6,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 6,U.S. Senate,"REID, HARRY",110
 PRECINCT 6,U.S. Senate,"Stand, Wil",4
-PRECINCT 6,"University Board of Regents, District  8","MELCHER, KEVIN C.",98
-PRECINCT 6,"University Board of Regents, District  8","PUCCINELLI, MARGARET",112
+PRECINCT 6,"University Board of Regents, District 8","MELCHER, KEVIN C.",98
+PRECINCT 6,"University Board of Regents, District 8","PUCCINELLI, MARGARET",112
 PRECINCT 7,Assessor,"FOWLER, DOROTHY J.",65
 PRECINCT 7,Attorney General,"Barrick, Travis",29
-PRECINCT 7,Attorney General,"CORTEZ  MASTO, CATHERINE",36
+PRECINCT 7,Attorney General,"CORTEZ MASTO, CATHERINE",36
 PRECINCT 7,Attorney General,"Hansen, Joel F.",8
 PRECINCT 7,Attorney General,None Of These Candidates,4
 PRECINCT 7,Clerk/Treasurer,"GEORGE, CHERRIE A.",54
@@ -580,11 +580,11 @@ PRECINCT 7,U.S. Senate,None Of These Candidates,3
 PRECINCT 7,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 7,U.S. Senate,"REID, HARRY",18
 PRECINCT 7,U.S. Senate,"Stand, Wil",1
-PRECINCT 7,"University Board of Regents, District  8","MELCHER, KEVIN C.",24
-PRECINCT 7,"University Board of Regents, District  8","PUCCINELLI, MARGARET",36
+PRECINCT 7,"University Board of Regents, District 8","MELCHER, KEVIN C.",24
+PRECINCT 7,"University Board of Regents, District 8","PUCCINELLI, MARGARET",36
 PRECINCT 8,Assessor,"FOWLER, DOROTHY J.",21
 PRECINCT 8,Attorney General,"Barrick, Travis",8
-PRECINCT 8,Attorney General,"CORTEZ  MASTO, CATHERINE",7
+PRECINCT 8,Attorney General,"CORTEZ MASTO, CATHERINE",7
 PRECINCT 8,Attorney General,"Hansen, Joel F.",7
 PRECINCT 8,Attorney General,None Of These Candidates,0
 PRECINCT 8,Clerk/Treasurer,"GEORGE, CHERRIE A.",16
@@ -638,11 +638,11 @@ PRECINCT 8,U.S. Senate,None Of These Candidates,0
 PRECINCT 8,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 8,U.S. Senate,"REID, HARRY",6
 PRECINCT 8,U.S. Senate,"Stand, Wil",0
-PRECINCT 8,"University Board of Regents, District  8","MELCHER, KEVIN C.",10
-PRECINCT 8,"University Board of Regents, District  8","PUCCINELLI, MARGARET",10
+PRECINCT 8,"University Board of Regents, District 8","MELCHER, KEVIN C.",10
+PRECINCT 8,"University Board of Regents, District 8","PUCCINELLI, MARGARET",10
 PRECINCT 9,Assessor,"FOWLER, DOROTHY J.",73
 PRECINCT 9,Attorney General,"Barrick, Travis",37
-PRECINCT 9,Attorney General,"CORTEZ  MASTO, CATHERINE",43
+PRECINCT 9,Attorney General,"CORTEZ MASTO, CATHERINE",43
 PRECINCT 9,Attorney General,"Hansen, Joel F.",8
 PRECINCT 9,Attorney General,None Of These Candidates,4
 PRECINCT 9,Clerk/Treasurer,"GEORGE, CHERRIE A.",71
@@ -696,8 +696,8 @@ PRECINCT 9,U.S. Senate,None Of These Candidates,1
 PRECINCT 9,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 9,U.S. Senate,"REID, HARRY",39
 PRECINCT 9,U.S. Senate,"Stand, Wil",1
-PRECINCT 9,"University Board of Regents, District  8","MELCHER, KEVIN C.",34
-PRECINCT 9,"University Board of Regents, District  8","PUCCINELLI, MARGARET",39
+PRECINCT 9,"University Board of Regents, District 8","MELCHER, KEVIN C.",34
+PRECINCT 9,"University Board of Regents, District 8","PUCCINELLI, MARGARET",39
 PRECINCT 99,"U.S. Representative in Congress, District 2","Best, Russell",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 PRECINCT 99,"U.S. Representative in Congress, District 2","Price, Nancy",0

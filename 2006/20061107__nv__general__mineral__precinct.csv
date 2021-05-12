@@ -2,7 +2,7 @@ precinct,office,candidate,votes
 Precinct 01,Assessor,"BISIAUX, STARLA M.",108
 Precinct 01,Assessor,"HUGHES, GLORIA",237
 Precinct 01,Attorney General,"CHAIREZ, DON",94
-Precinct 01,Attorney General,"CORTEZ  MASTO, CATHERINE",220
+Precinct 01,Attorney General,"CORTEZ MASTO, CATHERINE",220
 Precinct 01,Attorney General,None Of These Candidates,34
 Precinct 01,Clerk/Treasurer,"GEORGE, CHERRIE A.",197
 Precinct 01,Clerk/Treasurer,"STODDARD, PATRICIA A.",137
@@ -68,7 +68,7 @@ Precinct 01,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 02,Assessor,"BISIAUX, STARLA M.",85
 Precinct 02,Assessor,"HUGHES, GLORIA",220
 Precinct 02,Attorney General,"CHAIREZ, DON",83
-Precinct 02,Attorney General,"CORTEZ  MASTO, CATHERINE",195
+Precinct 02,Attorney General,"CORTEZ MASTO, CATHERINE",195
 Precinct 02,Attorney General,None Of These Candidates,31
 Precinct 02,Clerk/Treasurer,"GEORGE, CHERRIE A.",185
 Precinct 02,Clerk/Treasurer,"STODDARD, PATRICIA A.",122
@@ -134,7 +134,7 @@ Precinct 02,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 03,Assessor,"BISIAUX, STARLA M.",66
 Precinct 03,Assessor,"HUGHES, GLORIA",123
 Precinct 03,Attorney General,"CHAIREZ, DON",67
-Precinct 03,Attorney General,"CORTEZ  MASTO, CATHERINE",109
+Precinct 03,Attorney General,"CORTEZ MASTO, CATHERINE",109
 Precinct 03,Attorney General,None Of These Candidates,18
 Precinct 03,Clerk/Treasurer,"GEORGE, CHERRIE A.",115
 Precinct 03,Clerk/Treasurer,"STODDARD, PATRICIA A.",73
@@ -200,7 +200,7 @@ Precinct 03,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 04,Assessor,"BISIAUX, STARLA M.",36
 Precinct 04,Assessor,"HUGHES, GLORIA",123
 Precinct 04,Attorney General,"CHAIREZ, DON",33
-Precinct 04,Attorney General,"CORTEZ  MASTO, CATHERINE",111
+Precinct 04,Attorney General,"CORTEZ MASTO, CATHERINE",111
 Precinct 04,Attorney General,None Of These Candidates,25
 Precinct 04,Clerk/Treasurer,"GEORGE, CHERRIE A.",89
 Precinct 04,Clerk/Treasurer,"STODDARD, PATRICIA A.",72
@@ -266,7 +266,7 @@ Precinct 04,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 05,Assessor,"BISIAUX, STARLA M.",48
 Precinct 05,Assessor,"HUGHES, GLORIA",175
 Precinct 05,Attorney General,"CHAIREZ, DON",51
-Precinct 05,Attorney General,"CORTEZ  MASTO, CATHERINE",152
+Precinct 05,Attorney General,"CORTEZ MASTO, CATHERINE",152
 Precinct 05,Attorney General,None Of These Candidates,20
 Precinct 05,Clerk/Treasurer,"GEORGE, CHERRIE A.",131
 Precinct 05,Clerk/Treasurer,"STODDARD, PATRICIA A.",84
@@ -332,7 +332,7 @@ Precinct 05,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 06,Assessor,"BISIAUX, STARLA M.",74
 Precinct 06,Assessor,"HUGHES, GLORIA",191
 Precinct 06,Attorney General,"CHAIREZ, DON",67
-Precinct 06,Attorney General,"CORTEZ  MASTO, CATHERINE",172
+Precinct 06,Attorney General,"CORTEZ MASTO, CATHERINE",172
 Precinct 06,Attorney General,None Of These Candidates,25
 Precinct 06,Clerk/Treasurer,"GEORGE, CHERRIE A.",155
 Precinct 06,Clerk/Treasurer,"STODDARD, PATRICIA A.",104
@@ -398,7 +398,7 @@ Precinct 06,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 07,Assessor,"BISIAUX, STARLA M.",34
 Precinct 07,Assessor,"HUGHES, GLORIA",47
 Precinct 07,Attorney General,"CHAIREZ, DON",35
-Precinct 07,Attorney General,"CORTEZ  MASTO, CATHERINE",39
+Precinct 07,Attorney General,"CORTEZ MASTO, CATHERINE",39
 Precinct 07,Attorney General,None Of These Candidates,8
 Precinct 07,Clerk/Treasurer,"GEORGE, CHERRIE A.",48
 Precinct 07,Clerk/Treasurer,"STODDARD, PATRICIA A.",32
@@ -464,7 +464,7 @@ Precinct 07,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 08,Assessor,"BISIAUX, STARLA M.",4
 Precinct 08,Assessor,"HUGHES, GLORIA",25
 Precinct 08,Attorney General,"CHAIREZ, DON",11
-Precinct 08,Attorney General,"CORTEZ  MASTO, CATHERINE",16
+Precinct 08,Attorney General,"CORTEZ MASTO, CATHERINE",16
 Precinct 08,Attorney General,None Of These Candidates,2
 Precinct 08,Clerk/Treasurer,"GEORGE, CHERRIE A.",24
 Precinct 08,Clerk/Treasurer,"STODDARD, PATRICIA A.",4
@@ -530,7 +530,7 @@ Precinct 08,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 09,Assessor,"BISIAUX, STARLA M.",26
 Precinct 09,Assessor,"HUGHES, GLORIA",80
 Precinct 09,Attorney General,"CHAIREZ, DON",33
-Precinct 09,Attorney General,"CORTEZ  MASTO, CATHERINE",69
+Precinct 09,Attorney General,"CORTEZ MASTO, CATHERINE",69
 Precinct 09,Attorney General,None Of These Candidates,8
 Precinct 09,Clerk/Treasurer,"GEORGE, CHERRIE A.",75
 Precinct 09,Clerk/Treasurer,"STODDARD, PATRICIA A.",29
@@ -596,7 +596,7 @@ Precinct 09,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 10,Assessor,"BISIAUX, STARLA M.",0
 Precinct 10,Assessor,"HUGHES, GLORIA",0
 Precinct 10,Attorney General,"CHAIREZ, DON",0
-Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+Precinct 10,Attorney General,"CORTEZ MASTO, CATHERINE",0
 Precinct 10,Attorney General,None Of These Candidates,0
 Precinct 10,Clerk/Treasurer,"GEORGE, CHERRIE A.",0
 Precinct 10,Clerk/Treasurer,"STODDARD, PATRICIA A.",0
@@ -656,7 +656,7 @@ Precinct 10,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 11,Assessor,"BISIAUX, STARLA M.",39
 Precinct 11,Assessor,"HUGHES, GLORIA",135
 Precinct 11,Attorney General,"CHAIREZ, DON",18
-Precinct 11,Attorney General,"CORTEZ  MASTO, CATHERINE",153
+Precinct 11,Attorney General,"CORTEZ MASTO, CATHERINE",153
 Precinct 11,Attorney General,None Of These Candidates,16
 Precinct 11,Clerk/Treasurer,"GEORGE, CHERRIE A.",57
 Precinct 11,Clerk/Treasurer,"STODDARD, PATRICIA A.",122

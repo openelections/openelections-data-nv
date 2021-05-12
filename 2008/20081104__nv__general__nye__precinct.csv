@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
 AMARGOSA VLY 06,County Commissioner District II,"EASTLEY, JONI",220
 AMARGOSA VLY 06,County Commissioner District II,"PETELL, JIM",109
-AMARGOSA VLY 06,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",261
-AMARGOSA VLY 06,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",69
+AMARGOSA VLY 06,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",261
+AMARGOSA VLY 06,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",69
 AMARGOSA VLY 06,President,"Baldwin, Chuck",4
 AMARGOSA VLY 06,President,"Barr, Bob",5
 AMARGOSA VLY 06,President,"McCain, John",204
@@ -28,8 +28,8 @@ AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","HELLER, DEAN",186
 AMARGOSA VLY 06,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",9
 BEATTY 01,County Commissioner District II,"EASTLEY, JONI",269
 BEATTY 01,County Commissioner District II,"PETELL, JIM",91
-BEATTY 01,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",280
-BEATTY 01,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",82
+BEATTY 01,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",280
+BEATTY 01,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",82
 BEATTY 01,President,"Baldwin, Chuck",7
 BEATTY 01,President,"Barr, Bob",4
 BEATTY 01,President,"McCain, John",240
@@ -55,8 +55,8 @@ BEATTY 01,"U.S. Representative in Congress, District 2","HELLER, DEAN",220
 BEATTY 01,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",15
 CURRANT 02,County Commissioner District I,"MOBLEY, ROB",10
 CURRANT 02,County Commissioner District I,"WICHMAN, LORINDA A.",30
-CURRANT 02,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",29
-CURRANT 02,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",9
+CURRANT 02,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",29
+CURRANT 02,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",9
 CURRANT 02,President,"Baldwin, Chuck",0
 CURRANT 02,President,"Barr, Bob",0
 CURRANT 02,President,"McCain, John",33
@@ -81,8 +81,8 @@ CURRANT 02,"U.S. Representative in Congress, District 2","HELLER, DEAN",29
 CURRANT 02,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
 DUCKWATER 03,County Commissioner District I,"MOBLEY, ROB",16
 DUCKWATER 03,County Commissioner District I,"WICHMAN, LORINDA A.",21
-DUCKWATER 03,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",31
-DUCKWATER 03,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",6
+DUCKWATER 03,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",31
+DUCKWATER 03,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",6
 DUCKWATER 03,President,"Baldwin, Chuck",0
 DUCKWATER 03,President,"Barr, Bob",0
 DUCKWATER 03,President,"McCain, John",13
@@ -107,8 +107,8 @@ DUCKWATER 03,"U.S. Representative in Congress, District 2","HELLER, DEAN",19
 DUCKWATER 03,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
 FORTY BAR 18,County Commissioner District I,"MOBLEY, ROB",25
 FORTY BAR 18,County Commissioner District I,"WICHMAN, LORINDA A.",15
-FORTY BAR 18,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",34
-FORTY BAR 18,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",20
+FORTY BAR 18,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",34
+FORTY BAR 18,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",20
 FORTY BAR 18,President,"Baldwin, Chuck",0
 FORTY BAR 18,President,"Barr, Bob",4
 FORTY BAR 18,President,"McCain, John",25
@@ -134,8 +134,8 @@ FORTY BAR 18,"U.S. Representative in Congress, District 2","HELLER, DEAN",22
 FORTY BAR 18,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",4
 GABBS 04,County Commissioner District I,"MOBLEY, ROB",33
 GABBS 04,County Commissioner District I,"WICHMAN, LORINDA A.",85
-GABBS 04,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",77
-GABBS 04,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",43
+GABBS 04,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",77
+GABBS 04,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",43
 GABBS 04,President,"Baldwin, Chuck",0
 GABBS 04,President,"Barr, Bob",1
 GABBS 04,President,"McCain, John",78
@@ -159,8 +159,8 @@ GABBS 04,"U.S. Representative in Congress, District 2","HELLER, DEAN",77
 GABBS 04,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
 IONE 05,County Commissioner District I,"MOBLEY, ROB",5
 IONE 05,County Commissioner District I,"WICHMAN, LORINDA A.",10
-IONE 05,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",13
-IONE 05,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",3
+IONE 05,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",13
+IONE 05,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",3
 IONE 05,President,"Baldwin, Chuck",0
 IONE 05,President,"Barr, Bob",0
 IONE 05,President,"McCain, John",6
@@ -185,8 +185,8 @@ IONE 05,"U.S. Representative in Congress, District 2","HELLER, DEAN",6
 IONE 05,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
 MANHATTAN 07,County Commissioner District I,"MOBLEY, ROB",4
 MANHATTAN 07,County Commissioner District I,"WICHMAN, LORINDA A.",41
-MANHATTAN 07,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",39
-MANHATTAN 07,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",7
+MANHATTAN 07,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",39
+MANHATTAN 07,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",7
 MANHATTAN 07,President,"Baldwin, Chuck",2
 MANHATTAN 07,President,"Barr, Bob",0
 MANHATTAN 07,President,"McCain, John",35
@@ -211,8 +211,8 @@ MANHATTAN 07,"U.S. Representative in Congress, District 2","HELLER, DEAN",33
 MANHATTAN 07,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",1
 MERCURY 08,County Commissioner District I,"MOBLEY, ROB",
 MERCURY 08,County Commissioner District I,"WICHMAN, LORINDA A.",
-MERCURY 08,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
-MERCURY 08,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
+MERCURY 08,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",
+MERCURY 08,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",
 MERCURY 08,President,"Baldwin, Chuck",
 MERCURY 08,President,"Barr, Bob",
 MERCURY 08,President,"McCain, John",
@@ -238,8 +238,8 @@ MERCURY 08,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 MERCURY 08,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
 PAHRUMP 09,County Commissioner District III,"HOLLIS, GARY",555
 PAHRUMP 09,County Commissioner District III,"KULKIN, HARLEY ZANE",432
-PAHRUMP 09,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",545
-PAHRUMP 09,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",392
+PAHRUMP 09,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",545
+PAHRUMP 09,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",392
 PAHRUMP 09,Justice of the Peace PAHRUMP,"DEMEO, LINDA",307
 PAHRUMP 09,Justice of the Peace PAHRUMP,"JASPERSON, KENT",658
 PAHRUMP 09,PAHRUMP TOWN Board,"BROOKS, SEAN",353
@@ -277,8 +277,8 @@ PAHRUMP 11,"U.S. Representative in Congress, District 2","DERBY, JILL",223
 PAHRUMP 11,"U.S. Representative in Congress, District 2","Everhart, John",31
 PAHRUMP 11,"U.S. Representative in Congress, District 2","HELLER, DEAN",263
 PAHRUMP 11,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",8
-PAHRUMP 16,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",366
-PAHRUMP 16,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",231
+PAHRUMP 16,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",366
+PAHRUMP 16,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",231
 PAHRUMP 16,Justice of the Peace PAHRUMP,"DEMEO, LINDA",217
 PAHRUMP 16,Justice of the Peace PAHRUMP,"JASPERSON, KENT",398
 PAHRUMP 16,PAHRUMP TOWN Board,"BROOKS, SEAN",182
@@ -306,8 +306,8 @@ PAHRUMP 16,"U.S. Representative in Congress, District 2","DERBY, JILL",243
 PAHRUMP 16,"U.S. Representative in Congress, District 2","Everhart, John",40
 PAHRUMP 16,"U.S. Representative in Congress, District 2","HELLER, DEAN",322
 PAHRUMP 16,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",12
-PAHRUMP 17,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",293
-PAHRUMP 17,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",264
+PAHRUMP 17,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",293
+PAHRUMP 17,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",264
 PAHRUMP 17,Justice of the Peace PAHRUMP,"DEMEO, LINDA",178
 PAHRUMP 17,Justice of the Peace PAHRUMP,"JASPERSON, KENT",400
 PAHRUMP 17,PAHRUMP TOWN Board,"BROOKS, SEAN",176
@@ -337,8 +337,8 @@ PAHRUMP 17,"U.S. Representative in Congress, District 2","HELLER, DEAN",296
 PAHRUMP 17,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",15
 PAHRUMP 19,County Commissioner District I,"MOBLEY, ROB",555
 PAHRUMP 19,County Commissioner District I,"WICHMAN, LORINDA A.",499
-PAHRUMP 19,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",587
-PAHRUMP 19,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",487
+PAHRUMP 19,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",587
+PAHRUMP 19,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",487
 PAHRUMP 19,Justice of the Peace PAHRUMP,"DEMEO, LINDA",387
 PAHRUMP 19,Justice of the Peace PAHRUMP,"JASPERSON, KENT",737
 PAHRUMP 19,PAHRUMP TOWN Board,"BROOKS, SEAN",401
@@ -366,8 +366,8 @@ PAHRUMP 19,"U.S. Representative in Congress, District 2","DERBY, JILL",417
 PAHRUMP 19,"U.S. Representative in Congress, District 2","Everhart, John",63
 PAHRUMP 19,"U.S. Representative in Congress, District 2","HELLER, DEAN",646
 PAHRUMP 19,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",27
-PAHRUMP 20,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",232
-PAHRUMP 20,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",146
+PAHRUMP 20,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",232
+PAHRUMP 20,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",146
 PAHRUMP 20,Justice of the Peace PAHRUMP,"DEMEO, LINDA",153
 PAHRUMP 20,Justice of the Peace PAHRUMP,"JASPERSON, KENT",237
 PAHRUMP 20,PAHRUMP TOWN Board,"BROOKS, SEAN",132
@@ -397,8 +397,8 @@ PAHRUMP 20,"U.S. Representative in Congress, District 2","HELLER, DEAN",219
 PAHRUMP 20,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",8
 PAHRUMP 21,County Commissioner District III,"HOLLIS, GARY",523
 PAHRUMP 21,County Commissioner District III,"KULKIN, HARLEY ZANE",481
-PAHRUMP 21,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",556
-PAHRUMP 21,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",400
+PAHRUMP 21,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",556
+PAHRUMP 21,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",400
 PAHRUMP 21,Justice of the Peace PAHRUMP,"DEMEO, LINDA",311
 PAHRUMP 21,Justice of the Peace PAHRUMP,"JASPERSON, KENT",675
 PAHRUMP 21,PAHRUMP TOWN Board,"BROOKS, SEAN",316
@@ -426,8 +426,8 @@ PAHRUMP 21,"U.S. Representative in Congress, District 2","DERBY, JILL",426
 PAHRUMP 21,"U.S. Representative in Congress, District 2","Everhart, John",59
 PAHRUMP 21,"U.S. Representative in Congress, District 2","HELLER, DEAN",465
 PAHRUMP 21,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",30
-PAHRUMP 22,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",295
-PAHRUMP 22,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",251
+PAHRUMP 22,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",295
+PAHRUMP 22,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",251
 PAHRUMP 22,Justice of the Peace PAHRUMP,"DEMEO, LINDA",211
 PAHRUMP 22,Justice of the Peace PAHRUMP,"JASPERSON, KENT",356
 PAHRUMP 22,PAHRUMP TOWN Board,"BROOKS, SEAN",169
@@ -457,8 +457,8 @@ PAHRUMP 22,"U.S. Representative in Congress, District 2","HELLER, DEAN",292
 PAHRUMP 22,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
 PAHRUMP 23,County Commissioner District I,"MOBLEY, ROB",173
 PAHRUMP 23,County Commissioner District I,"WICHMAN, LORINDA A.",136
-PAHRUMP 23,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",200
-PAHRUMP 23,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",125
+PAHRUMP 23,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",200
+PAHRUMP 23,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",125
 PAHRUMP 23,Justice of the Peace PAHRUMP,"DEMEO, LINDA",111
 PAHRUMP 23,Justice of the Peace PAHRUMP,"JASPERSON, KENT",222
 PAHRUMP 23,PAHRUMP TOWN Board,"BROOKS, SEAN",132
@@ -488,8 +488,8 @@ PAHRUMP 23,"U.S. Representative in Congress, District 2","DERBY, JILL",157
 PAHRUMP 23,"U.S. Representative in Congress, District 2","Everhart, John",20
 PAHRUMP 23,"U.S. Representative in Congress, District 2","HELLER, DEAN",160
 PAHRUMP 23,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",6
-PAHRUMP 24,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",338
-PAHRUMP 24,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",296
+PAHRUMP 24,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",338
+PAHRUMP 24,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",296
 PAHRUMP 24,Justice of the Peace PAHRUMP,"DEMEO, LINDA",251
 PAHRUMP 24,Justice of the Peace PAHRUMP,"JASPERSON, KENT",412
 PAHRUMP 24,PAHRUMP TOWN Board,"BROOKS, SEAN",201
@@ -519,8 +519,8 @@ PAHRUMP 24,"U.S. Representative in Congress, District 2","HELLER, DEAN",334
 PAHRUMP 24,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",17
 PAHRUMP 25,County Commissioner District III,"HOLLIS, GARY",424
 PAHRUMP 25,County Commissioner District III,"KULKIN, HARLEY ZANE",333
-PAHRUMP 25,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",413
-PAHRUMP 25,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",314
+PAHRUMP 25,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",413
+PAHRUMP 25,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",314
 PAHRUMP 25,Justice of the Peace PAHRUMP,"DEMEO, LINDA",235
 PAHRUMP 25,Justice of the Peace PAHRUMP,"JASPERSON, KENT",517
 PAHRUMP 25,PAHRUMP TOWN Board,"BROOKS, SEAN",250
@@ -550,8 +550,8 @@ PAHRUMP 25,"U.S. Representative in Congress, District 2","HELLER, DEAN",387
 PAHRUMP 25,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",19
 PAHRUMP 26,County Commissioner District II,"EASTLEY, JONI",412
 PAHRUMP 26,County Commissioner District II,"PETELL, JIM",228
-PAHRUMP 26,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",426
-PAHRUMP 26,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",255
+PAHRUMP 26,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",426
+PAHRUMP 26,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",255
 PAHRUMP 26,Justice of the Peace PAHRUMP,"DEMEO, LINDA",242
 PAHRUMP 26,Justice of the Peace PAHRUMP,"JASPERSON, KENT",458
 PAHRUMP 26,PAHRUMP TOWN Board,"BROOKS, SEAN",245
@@ -581,8 +581,8 @@ PAHRUMP 26,"U.S. Representative in Congress, District 2","HELLER, DEAN",353
 PAHRUMP 26,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",14
 PAHRUMP 27,County Commissioner District III,"HOLLIS, GARY",374
 PAHRUMP 27,County Commissioner District III,"KULKIN, HARLEY ZANE",313
-PAHRUMP 27,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",403
-PAHRUMP 27,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",258
+PAHRUMP 27,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",403
+PAHRUMP 27,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",258
 PAHRUMP 27,Justice of the Peace PAHRUMP,"DEMEO, LINDA",207
 PAHRUMP 27,Justice of the Peace PAHRUMP,"JASPERSON, KENT",480
 PAHRUMP 27,PAHRUMP TOWN Board,"BROOKS, SEAN",216
@@ -610,8 +610,8 @@ PAHRUMP 27,"U.S. Representative in Congress, District 2","DERBY, JILL",269
 PAHRUMP 27,"U.S. Representative in Congress, District 2","Everhart, John",39
 PAHRUMP 27,"U.S. Representative in Congress, District 2","HELLER, DEAN",349
 PAHRUMP 27,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",17
-PAHRUMP 28,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",465
-PAHRUMP 28,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",479
+PAHRUMP 28,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",465
+PAHRUMP 28,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",479
 PAHRUMP 28,Justice of the Peace PAHRUMP,"DEMEO, LINDA",331
 PAHRUMP 28,Justice of the Peace PAHRUMP,"JASPERSON, KENT",637
 PAHRUMP 28,PAHRUMP TOWN Board,"BROOKS, SEAN",327
@@ -641,8 +641,8 @@ PAHRUMP 28,"U.S. Representative in Congress, District 2","DERBY, JILL",358
 PAHRUMP 28,"U.S. Representative in Congress, District 2","Everhart, John",60
 PAHRUMP 28,"U.S. Representative in Congress, District 2","HELLER, DEAN",526
 PAHRUMP 28,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",19
-PAHRUMP 29,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",460
-PAHRUMP 29,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",373
+PAHRUMP 29,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",460
+PAHRUMP 29,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",373
 PAHRUMP 29,Justice of the Peace PAHRUMP,"DEMEO, LINDA",367
 PAHRUMP 29,Justice of the Peace PAHRUMP,"JASPERSON, KENT",493
 PAHRUMP 29,PAHRUMP TOWN Board,"BROOKS, SEAN",262
@@ -670,8 +670,8 @@ PAHRUMP 29,"U.S. Representative in Congress, District 2","DERBY, JILL",351
 PAHRUMP 29,"U.S. Representative in Congress, District 2","Everhart, John",46
 PAHRUMP 29,"U.S. Representative in Congress, District 2","HELLER, DEAN",441
 PAHRUMP 29,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",25
-PAHRUMP 30,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",435
-PAHRUMP 30,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",362
+PAHRUMP 30,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",435
+PAHRUMP 30,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",362
 PAHRUMP 30,Justice of the Peace PAHRUMP,"DEMEO, LINDA",262
 PAHRUMP 30,Justice of the Peace PAHRUMP,"JASPERSON, KENT",555
 PAHRUMP 30,PAHRUMP TOWN Board,"BROOKS, SEAN",265
@@ -701,8 +701,8 @@ PAHRUMP 30,"U.S. Representative in Congress, District 2","DERBY, JILL",298
 PAHRUMP 30,"U.S. Representative in Congress, District 2","Everhart, John",44
 PAHRUMP 30,"U.S. Representative in Congress, District 2","HELLER, DEAN",450
 PAHRUMP 30,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",27
-PAHRUMP 31,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",348
-PAHRUMP 31,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",311
+PAHRUMP 31,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",348
+PAHRUMP 31,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",311
 PAHRUMP 31,Justice of the Peace PAHRUMP,"DEMEO, LINDA",252
 PAHRUMP 31,Justice of the Peace PAHRUMP,"JASPERSON, KENT",447
 PAHRUMP 31,PAHRUMP TOWN Board,"BROOKS, SEAN",206
@@ -732,8 +732,8 @@ PAHRUMP 31,"U.S. Representative in Congress, District 2","HELLER, DEAN",393
 PAHRUMP 31,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",15
 PAHRUMP 32,County Commissioner District I,"MOBLEY, ROB",511
 PAHRUMP 32,County Commissioner District I,"WICHMAN, LORINDA A.",480
-PAHRUMP 32,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",639
-PAHRUMP 32,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",424
+PAHRUMP 32,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",639
+PAHRUMP 32,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",424
 PAHRUMP 32,Justice of the Peace PAHRUMP,"DEMEO, LINDA",388
 PAHRUMP 32,Justice of the Peace PAHRUMP,"JASPERSON, KENT",704
 PAHRUMP 32,PAHRUMP TOWN Board,"BROOKS, SEAN",418
@@ -784,8 +784,8 @@ Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
 ROUND MTN 12,County Commissioner District I,"MOBLEY, ROB",33
 ROUND MTN 12,County Commissioner District I,"WICHMAN, LORINDA A.",260
-ROUND MTN 12,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",227
-ROUND MTN 12,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",54
+ROUND MTN 12,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",227
+ROUND MTN 12,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",54
 ROUND MTN 12,President,"Baldwin, Chuck",1
 ROUND MTN 12,President,"Barr, Bob",2
 ROUND MTN 12,President,"McCain, John",225
@@ -810,8 +810,8 @@ ROUND MTN 12,"U.S. Representative in Congress, District 2","HELLER, DEAN",209
 ROUND MTN 12,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
 SMOKY VALLEY 35,County Commissioner District I,"MOBLEY, ROB",35
 SMOKY VALLEY 35,County Commissioner District I,"WICHMAN, LORINDA A.",200
-SMOKY VALLEY 35,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",193
-SMOKY VALLEY 35,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",33
+SMOKY VALLEY 35,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",193
+SMOKY VALLEY 35,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",33
 SMOKY VALLEY 35,President,"Baldwin, Chuck",0
 SMOKY VALLEY 35,President,"Barr, Bob",1
 SMOKY VALLEY 35,President,"McCain, John",200
@@ -836,8 +836,8 @@ SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","HELLER, DEAN",180
 SMOKY VALLEY 35,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",4
 SUNNYSIDE 13,County Commissioner District I,"MOBLEY, ROB",
 SUNNYSIDE 13,County Commissioner District I,"WICHMAN, LORINDA A.",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",
 SUNNYSIDE 13,President,"Baldwin, Chuck",0
 SUNNYSIDE 13,President,"Barr, Bob",0
 SUNNYSIDE 13,President,"McCain, John",8
@@ -862,8 +862,8 @@ SUNNYSIDE 13,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",
 TONOPAH 14,County Commissioner District II,"EASTLEY, JONI",447
 TONOPAH 14,County Commissioner District II,"PETELL, JIM",82
-TONOPAH 14,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",460
-TONOPAH 14,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",62
+TONOPAH 14,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",460
+TONOPAH 14,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",62
 TONOPAH 14,President,"Baldwin, Chuck",9
 TONOPAH 14,President,"Barr, Bob",6
 TONOPAH 14,President,"McCain, John",342
@@ -887,8 +887,8 @@ TONOPAH 14,"U.S. Representative in Congress, District 2","HELLER, DEAN",333
 TONOPAH 14,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
 TONOPAH 15,County Commissioner District II,"EASTLEY, JONI",365
 TONOPAH 15,County Commissioner District II,"PETELL, JIM",54
-TONOPAH 15,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",365
-TONOPAH 15,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",46
+TONOPAH 15,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",365
+TONOPAH 15,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",46
 TONOPAH 15,President,"Baldwin, Chuck",4
 TONOPAH 15,President,"Barr, Bob",1
 TONOPAH 15,President,"McCain, John",281

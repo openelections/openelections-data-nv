@@ -58,9 +58,9 @@ precinct,office,candidate,votes
 1 - ALAMO,U.S. Senate (Republican),"Stern, Cecilia",0
 1 - ALAMO,U.S. Senate (Republican),"Suominen, Terry",0
 1 - ALAMO,U.S. Senate (Republican),"Tarkanian, Danny",120
-1 - ALAMO,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",46
-1 - ALAMO,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",116
-1 - ALAMO,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",106
+1 - ALAMO,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",46
+1 - ALAMO,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",116
+1 - ALAMO,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",106
 2 - CALIENTE,Attorney General (Republican),"Barrick, Travis",70
 2 - CALIENTE,Attorney General (Republican),"Hafter, Jacob",52
 2 - CALIENTE,Attorney General (Republican),None Of These Candidates,41
@@ -120,9 +120,9 @@ precinct,office,candidate,votes
 2 - CALIENTE,U.S. Senate (Republican),"Stern, Cecilia",0
 2 - CALIENTE,U.S. Senate (Republican),"Suominen, Terry",0
 2 - CALIENTE,U.S. Senate (Republican),"Tarkanian, Danny",40
-2 - CALIENTE,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",74
-2 - CALIENTE,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",99
-2 - CALIENTE,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",123
+2 - CALIENTE,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",74
+2 - CALIENTE,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",99
+2 - CALIENTE,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",123
 3 - PANACA,Attorney General (Republican),"Barrick, Travis",67
 3 - PANACA,Attorney General (Republican),"Hafter, Jacob",58
 3 - PANACA,Attorney General (Republican),None Of These Candidates,65
@@ -182,9 +182,9 @@ precinct,office,candidate,votes
 3 - PANACA,U.S. Senate (Republican),"Stern, Cecilia",0
 3 - PANACA,U.S. Senate (Republican),"Suominen, Terry",0
 3 - PANACA,U.S. Senate (Republican),"Tarkanian, Danny",58
-3 - PANACA,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",52
-3 - PANACA,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",91
-3 - PANACA,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",76
+3 - PANACA,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",52
+3 - PANACA,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",91
+3 - PANACA,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",76
 4 - PIOCHE,Attorney General (Republican),"Barrick, Travis",75
 4 - PIOCHE,Attorney General (Republican),"Hafter, Jacob",46
 4 - PIOCHE,Attorney General (Republican),None Of These Candidates,55
@@ -244,9 +244,9 @@ precinct,office,candidate,votes
 4 - PIOCHE,U.S. Senate (Republican),"Stern, Cecilia",0
 4 - PIOCHE,U.S. Senate (Republican),"Suominen, Terry",0
 4 - PIOCHE,U.S. Senate (Republican),"Tarkanian, Danny",55
-4 - PIOCHE,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",88
-4 - PIOCHE,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",71
-4 - PIOCHE,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",100
+4 - PIOCHE,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",88
+4 - PIOCHE,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",71
+4 - PIOCHE,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",100
 5 - RACHEL,Attorney General (Republican),"Barrick, Travis",6
 5 - RACHEL,Attorney General (Republican),"Hafter, Jacob",1
 5 - RACHEL,Attorney General (Republican),None Of These Candidates,6
@@ -306,9 +306,9 @@ precinct,office,candidate,votes
 5 - RACHEL,U.S. Senate (Republican),"Stern, Cecilia",0
 5 - RACHEL,U.S. Senate (Republican),"Suominen, Terry",0
 5 - RACHEL,U.S. Senate (Republican),"Tarkanian, Danny",2
-5 - RACHEL,"University Board of Regents, District  8 (Nonpartisan)","FEEST, MARK",6
-5 - RACHEL,"University Board of Regents, District  8 (Nonpartisan)","MELCHER, KEVIN C.",7
-5 - RACHEL,"University Board of Regents, District  8 (Nonpartisan)","PUCCINELLI, MARGARET",9
+5 - RACHEL,"University Board of Regents, District 8 (Nonpartisan)","FEEST, MARK",6
+5 - RACHEL,"University Board of Regents, District 8 (Nonpartisan)","MELCHER, KEVIN C.",7
+5 - RACHEL,"University Board of Regents, District 8 (Nonpartisan)","PUCCINELLI, MARGARET",9
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0

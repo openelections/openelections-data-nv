@@ -1,10 +1,10 @@
 precinct,office,candidate,votes
 Precinct 1,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",102
 Precinct 1,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",56
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",156
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",46
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",159
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",166
+Precinct 1,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",156
+Precinct 1,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",46
+Precinct 1,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",159
+Precinct 1,"EUREKA COUNTY TV District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",166
 Precinct 1,Governor (Democratic),"Gibson, James B.",18
 Precinct 1,Governor (Democratic),"McConnell, Leola",2
 Precinct 1,Governor (Democratic),None Of These Candidates,5
@@ -70,10 +70,10 @@ Precinct 1,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
 Precinct 1,U.S. Senate (Republican),None Of These Candidates,9
 Precinct 2,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",98
 Precinct 2,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",54
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",150
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",44
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",153
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",155
+Precinct 2,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",150
+Precinct 2,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",44
+Precinct 2,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",153
+Precinct 2,"EUREKA COUNTY TV District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",155
 Precinct 2,Governor (Democratic),"Gibson, James B.",8
 Precinct 2,Governor (Democratic),"McConnell, Leola",1
 Precinct 2,Governor (Democratic),None Of These Candidates,5
@@ -139,10 +139,10 @@ Precinct 2,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",7
 Precinct 2,U.S. Senate (Republican),None Of These Candidates,16
 Precinct 3,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",25
 Precinct 3,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",20
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",39
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",27
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",53
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",59
+Precinct 3,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",39
+Precinct 3,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",27
+Precinct 3,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",53
+Precinct 3,"EUREKA COUNTY TV District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",59
 Precinct 3,Governor (Democratic),"Gibson, James B.",4
 Precinct 3,Governor (Democratic),"McConnell, Leola",1
 Precinct 3,Governor (Democratic),None Of These Candidates,4
@@ -208,10 +208,10 @@ Precinct 3,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
 Precinct 3,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 4,County Commissioner District 2 (Republican),"ITHURRALDE, JAMES P.",28
 Precinct 4,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",15
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",31
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",48
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",75
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",77
+Precinct 4,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","BAILEY, BOOTH E.",31
+Precinct 4,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","SMITH, CHRISTOPHER",48
+Precinct 4,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","STINNETT, CARSON ""BYRNIE""",75
+Precinct 4,"EUREKA COUNTY TV District, Seat 4D (Nonpartisan)","MILANO, MARTIN ""SONNY""",77
 Precinct 4,Governor (Democratic),"Gibson, James B.",9
 Precinct 4,Governor (Democratic),"McConnell, Leola",2
 Precinct 4,Governor (Democratic),None Of These Candidates,3

@@ -1,10 +1,10 @@
 precinct,office,candidate,votes
-Precinct 1,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",180
-Precinct 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",50
-Precinct 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",50
-Precinct 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",93
-Precinct 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",6
-Precinct 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",19
+Precinct 1,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",180
+Precinct 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",50
+Precinct 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",50
+Precinct 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",93
+Precinct 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",6
+Precinct 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",19
 Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",97
 Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",38
 Precinct 1,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",60
@@ -27,12 +27,12 @@ Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 1,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",48
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",107
 Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",19
-Precinct 10,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",59
-Precinct 10,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",7
-Precinct 10,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",25
-Precinct 10,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",31
-Precinct 10,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
-Precinct 10,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",12
+Precinct 10,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",59
+Precinct 10,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",7
+Precinct 10,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",25
+Precinct 10,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",31
+Precinct 10,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
+Precinct 10,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",12
 Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",39
 Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",13
 Precinct 10,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",12
@@ -49,12 +49,12 @@ Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kri
 Precinct 10,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",18
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",31
 Precinct 10,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",4
-Precinct 11,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",63
-Precinct 11,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",12
-Precinct 11,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",10
-Precinct 11,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",51
-Precinct 11,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
-Precinct 11,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",4
+Precinct 11,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",63
+Precinct 11,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",12
+Precinct 11,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",10
+Precinct 11,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",51
+Precinct 11,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
+Precinct 11,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",4
 Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",25
 Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",16
 Precinct 11,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",14
@@ -71,12 +71,12 @@ Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kri
 Precinct 11,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",19
 Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",56
 Precinct 11,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",3
-Precinct 12,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",73
-Precinct 12,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",8
-Precinct 12,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",15
-Precinct 12,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",64
-Precinct 12,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
-Precinct 12,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",0
+Precinct 12,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",73
+Precinct 12,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",8
+Precinct 12,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",15
+Precinct 12,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",64
+Precinct 12,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
+Precinct 12,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",0
 Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",37
 Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",18
 Precinct 12,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",16
@@ -93,12 +93,12 @@ Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kri
 Precinct 12,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
 Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",66
 Precinct 12,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
-Precinct 13,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",77
-Precinct 13,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",24
-Precinct 13,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",12
-Precinct 13,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",52
-Precinct 13,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
-Precinct 13,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",9
+Precinct 13,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",77
+Precinct 13,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",24
+Precinct 13,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",12
+Precinct 13,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",52
+Precinct 13,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
+Precinct 13,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",9
 Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",37
 Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",21
 Precinct 13,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",25
@@ -115,12 +115,12 @@ Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kri
 Precinct 13,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",27
 Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",41
 Precinct 13,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",14
-Precinct 14,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",78
-Precinct 14,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",14
-Precinct 14,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",21
-Precinct 14,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",48
-Precinct 14,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
-Precinct 14,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",9
+Precinct 14,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",78
+Precinct 14,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",14
+Precinct 14,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",21
+Precinct 14,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",48
+Precinct 14,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
+Precinct 14,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",9
 Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",28
 Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",36
 Precinct 14,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",22
@@ -143,12 +143,12 @@ Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kri
 Precinct 14,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",26
 Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",61
 Precinct 14,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
-Precinct 15,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",37
-Precinct 15,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",9
-Precinct 15,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",7
-Precinct 15,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",18
-Precinct 15,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
-Precinct 15,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",5
+Precinct 15,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",37
+Precinct 15,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",9
+Precinct 15,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",7
+Precinct 15,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",18
+Precinct 15,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
+Precinct 15,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",5
 Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",15
 Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",5
 Precinct 15,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",15
@@ -165,12 +165,12 @@ Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kri
 Precinct 15,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",7
 Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",17
 Precinct 15,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",4
-Precinct 2,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",134
-Precinct 2,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",31
-Precinct 2,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",48
-Precinct 2,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",78
-Precinct 2,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",2
-Precinct 2,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",10
+Precinct 2,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",134
+Precinct 2,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",31
+Precinct 2,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",48
+Precinct 2,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",78
+Precinct 2,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",2
+Precinct 2,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",10
 Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",61
 Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",43
 Precinct 2,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",47
@@ -193,12 +193,12 @@ Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 2,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",40
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",73
 Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",9
-Precinct 3,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",186
-Precinct 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",50
-Precinct 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",64
-Precinct 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",102
-Precinct 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
-Precinct 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",16
+Precinct 3,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",186
+Precinct 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",50
+Precinct 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",64
+Precinct 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",102
+Precinct 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
+Precinct 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",16
 Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",83
 Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",50
 Precinct 3,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",76
@@ -221,12 +221,12 @@ Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 3,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",62
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",100
 Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",16
-Precinct 4,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",139
-Precinct 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",35
-Precinct 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",40
-Precinct 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",53
-Precinct 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
-Precinct 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",23
+Precinct 4,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",139
+Precinct 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",35
+Precinct 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",40
+Precinct 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",53
+Precinct 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
+Precinct 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",23
 Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",57
 Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",28
 Precinct 4,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",59
@@ -243,12 +243,12 @@ Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 4,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",37
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",73
 Precinct 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",13
-Precinct 5,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",343
-Precinct 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",91
-Precinct 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",95
-Precinct 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",184
-Precinct 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",6
-Precinct 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",24
+Precinct 5,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",343
+Precinct 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",91
+Precinct 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",95
+Precinct 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",184
+Precinct 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",6
+Precinct 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",24
 Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",143
 Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",82
 Precinct 5,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",137
@@ -265,12 +265,12 @@ Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 5,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",130
 Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",223
 Precinct 5,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",24
-Precinct 6,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",263
-Precinct 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",55
-Precinct 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",62
-Precinct 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",139
-Precinct 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
-Precinct 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",40
+Precinct 6,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",263
+Precinct 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",55
+Precinct 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",62
+Precinct 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",139
+Precinct 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
+Precinct 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",40
 Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",119
 Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",63
 Precinct 6,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",101
@@ -287,12 +287,12 @@ Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 6,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",67
 Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",165
 Precinct 6,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",23
-Precinct 7,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",219
-Precinct 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",49
-Precinct 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",64
-Precinct 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",118
-Precinct 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
-Precinct 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",25
+Precinct 7,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",219
+Precinct 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",49
+Precinct 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",64
+Precinct 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",118
+Precinct 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
+Precinct 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",25
 Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",99
 Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",61
 Precinct 7,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",85
@@ -309,12 +309,12 @@ Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 7,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",62
 Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",146
 Precinct 7,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",21
-Precinct 8,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",48
-Precinct 8,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",0
-Precinct 8,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",7
-Precinct 8,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",54
-Precinct 8,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
-Precinct 8,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",3
+Precinct 8,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",48
+Precinct 8,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",0
+Precinct 8,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",7
+Precinct 8,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",54
+Precinct 8,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
+Precinct 8,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",3
 Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",17
 Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",13
 Precinct 8,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",12
@@ -337,12 +337,12 @@ Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 Precinct 8,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",14
 Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",41
 Precinct 8,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",8
-Precinct 9,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",65
-Precinct 9,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",16
-Precinct 9,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",20
-Precinct 9,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",21
-Precinct 9,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
-Precinct 9,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",11
+Precinct 9,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",65
+Precinct 9,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",16
+Precinct 9,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",20
+Precinct 9,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",21
+Precinct 9,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",4
+Precinct 9,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",11
 Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","COONEY, SHARLEEN C. ""SHELLIE""",35
 Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","GUILBERT, SAMMY",9
 Precinct 9,"Humboldt County Hospital Dist Trustee, Seat D (Nonpartisan)","HLADEK, KENNETH L.",18

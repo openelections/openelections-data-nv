@@ -6,14 +6,14 @@ candidate,party,percent,votes,office
 "PICKERING, MARY ""KRIS""",NP,29.44%,"1,718","Supreme Court Justice, Seat B (Nonpartisan)"
 "SCHUMACHER, DEBORAH",NP,11.10%,648,"Supreme Court Justice, Seat B (Nonpartisan)"
 NONE OF THESE CANDIDATES,,11.48%,670,"Supreme Court Justice, Seat B (Nonpartisan)"
-"BECKETT, BOB",NP,14.12%,838,"District Court Judge, District 5, Department  1 (Nonpartisan)"
-"DAVIS, JOHN P.",NP,53.74%,"3,190","District Court Judge, District 5, Department  1 (Nonpartisan)"
-"ZLOTEK, MARLA",NP,32.14%,"1,908","District Court Judge, District 5, Department  1 (Nonpartisan)"
-"LANE, ROBERT W.",NP,100.00%,"5,171","District Court Judge, District 5, Department  2 (Nonpartisan)"
-"BOBECK, JEFFREY",REP,19.53%,132,"District Court Judge, District 5, Department  2 (Nonpartisan)"
-"MOBLEY, ROB",REP,21.89%,148,"District Court Judge, District 5, Department  2 (Nonpartisan)"
-"VAN LOON, JOHN T.",REP,12.57%,85,"District Court Judge, District 5, Department  2 (Nonpartisan)"
-"WICHMAN, LORINDA A.",REP,46.01%,311,"District Court Judge, District 5, Department  2 (Nonpartisan)"
+"BECKETT, BOB",NP,14.12%,838,"District Court Judge, District 5, Department 1 (Nonpartisan)"
+"DAVIS, JOHN P.",NP,53.74%,"3,190","District Court Judge, District 5, Department 1 (Nonpartisan)"
+"ZLOTEK, MARLA",NP,32.14%,"1,908","District Court Judge, District 5, Department 1 (Nonpartisan)"
+"LANE, ROBERT W.",NP,100.00%,"5,171","District Court Judge, District 5, Department 2 (Nonpartisan)"
+"BOBECK, JEFFREY",REP,19.53%,132,"District Court Judge, District 5, Department 2 (Nonpartisan)"
+"MOBLEY, ROB",REP,21.89%,148,"District Court Judge, District 5, Department 2 (Nonpartisan)"
+"VAN LOON, JOHN T.",REP,12.57%,85,"District Court Judge, District 5, Department 2 (Nonpartisan)"
+"WICHMAN, LORINDA A.",REP,46.01%,311,"District Court Judge, District 5, Department 2 (Nonpartisan)"
 "DOLE, ROBERT ""BUTCH""",REP,20.07%,122,County Commissioner District I (Republican)
 "HOLLIS, GARY",REP,56.58%,344,County Commissioner District I (Republican)
 "LACKEY, DARRYL",REP,23.36%,142,County Commissioner District I (Republican)
@@ -22,7 +22,7 @@ NONE OF THESE CANDIDATES,,11.48%,670,"Supreme Court Justice, Seat B (Nonpartisan
 "PARSONS, LESLIE W.",NP,23.90%,120,County Commissioner District III (Republican)
 "REVERT, BOB",NP,21.71%,109,County Commissioner District III (Republican)
 "VERRILLI, ALBERT M.",NP,15.14%,76,County Commissioner District III (Republican)
-"WARD, TRACIE",NP,100.00%,739,BEATTY  Water & San Dist 2 yr (Nonpartisan)
+"WARD, TRACIE",NP,100.00%,739,BEATTY Water & San Dist 2 yr (Nonpartisan)
 "PAPE, KEVIN",NP,100.00%,860,School Board Trustee Area IV (Nonpartisan)
 "OFELT, COURTLAND H.",NP,32.93%,244,School Board Trustee Area V (Nonpartisan)
 "TOKERUD, HAROLD",NP,67.07%,497,School Board Trustee Area V (Nonpartisan)

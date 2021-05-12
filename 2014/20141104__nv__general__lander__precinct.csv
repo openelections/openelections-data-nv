@@ -15,8 +15,8 @@ Argenta 01,COUNTY RECORDER,"TREVINO, IDONNA",148
 Argenta 01,COUNTY TREASURER,"DIAS, ELIZABETH",124
 Argenta 01,COUNTY TREASURER,"POWRIE, GRACE",172
 Argenta 01,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",244
-Argenta 01,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",123
-Argenta 01,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",166
+Argenta 01,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",123
+Argenta 01,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",166
 Argenta 01,Governor,"Goodman, Robert ""Bob""",27
 Argenta 01,Governor,None Of These Candidates,5
 Argenta 01,Governor,"Sandoval, Brian",256
@@ -68,8 +68,8 @@ Argenta 02,COUNTY RECORDER,"TREVINO, IDONNA",141
 Argenta 02,COUNTY TREASURER,"DIAS, ELIZABETH",124
 Argenta 02,COUNTY TREASURER,"POWRIE, GRACE",220
 Argenta 02,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",307
-Argenta 02,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",147
-Argenta 02,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",195
+Argenta 02,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",147
+Argenta 02,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",195
 Argenta 02,Governor,"Goodman, Robert ""Bob""",43
 Argenta 02,Governor,None Of These Candidates,9
 Argenta 02,Governor,"Sandoval, Brian",279
@@ -121,8 +121,8 @@ Argenta 03,COUNTY RECORDER,"TREVINO, IDONNA",43
 Argenta 03,COUNTY TREASURER,"DIAS, ELIZABETH",36
 Argenta 03,COUNTY TREASURER,"POWRIE, GRACE",64
 Argenta 03,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",83
-Argenta 03,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",55
-Argenta 03,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",46
+Argenta 03,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",55
+Argenta 03,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",46
 Argenta 03,Governor,"Goodman, Robert ""Bob""",12
 Argenta 03,Governor,None Of These Candidates,1
 Argenta 03,Governor,"Sandoval, Brian",85
@@ -174,8 +174,8 @@ Argenta 04,COUNTY RECORDER,"TREVINO, IDONNA",198
 Argenta 04,COUNTY TREASURER,"DIAS, ELIZABETH",159
 Argenta 04,COUNTY TREASURER,"POWRIE, GRACE",252
 Argenta 04,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",363
-Argenta 04,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",161
-Argenta 04,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",240
+Argenta 04,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",161
+Argenta 04,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",240
 Argenta 04,Governor,"Goodman, Robert ""Bob""",35
 Argenta 04,Governor,None Of These Candidates,10
 Argenta 04,Governor,"Sandoval, Brian",348
@@ -227,8 +227,8 @@ Argenta 05,COUNTY RECORDER,"TREVINO, IDONNA",143
 Argenta 05,COUNTY TREASURER,"DIAS, ELIZABETH",150
 Argenta 05,COUNTY TREASURER,"POWRIE, GRACE",215
 Argenta 05,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",333
-Argenta 05,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",134
-Argenta 05,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",221
+Argenta 05,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",134
+Argenta 05,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",221
 Argenta 05,Governor,"Goodman, Robert ""Bob""",26
 Argenta 05,Governor,None Of These Candidates,11
 Argenta 05,Governor,"Sandoval, Brian",313
@@ -280,8 +280,8 @@ Austin 07,COUNTY RECORDER,"TREVINO, IDONNA",44
 Austin 07,COUNTY TREASURER,"DIAS, ELIZABETH",18
 Austin 07,COUNTY TREASURER,"POWRIE, GRACE",57
 Austin 07,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",68
-Austin 07,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",33
-Austin 07,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",42
+Austin 07,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",33
+Austin 07,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",42
 Austin 07,Governor,"Goodman, Robert ""Bob""",4
 Austin 07,Governor,None Of These Candidates,1
 Austin 07,Governor,"Sandoval, Brian",61
@@ -333,8 +333,8 @@ Gillman Springs Ranch 08,COUNTY RECORDER,"TREVINO, IDONNA",9
 Gillman Springs Ranch 08,COUNTY TREASURER,"DIAS, ELIZABETH",2
 Gillman Springs Ranch 08,COUNTY TREASURER,"POWRIE, GRACE",10
 Gillman Springs Ranch 08,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",12
-Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",7
-Gillman Springs Ranch 08,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",5
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",7
+Gillman Springs Ranch 08,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",5
 Gillman Springs Ranch 08,Governor,"Goodman, Robert ""Bob""",4
 Gillman Springs Ranch 08,Governor,None Of These Candidates,0
 Gillman Springs Ranch 08,Governor,"Sandoval, Brian",9
@@ -386,8 +386,8 @@ Kingston 09,COUNTY RECORDER,"TREVINO, IDONNA",31
 Kingston 09,COUNTY TREASURER,"DIAS, ELIZABETH",10
 Kingston 09,COUNTY TREASURER,"POWRIE, GRACE",55
 Kingston 09,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",54
-Kingston 09,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",17
-Kingston 09,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",48
+Kingston 09,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",17
+Kingston 09,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",48
 Kingston 09,Governor,"Goodman, Robert ""Bob""",10
 Kingston 09,Governor,None Of These Candidates,5
 Kingston 09,Governor,"Sandoval, Brian",55
@@ -442,8 +442,8 @@ Southern Lander County 06,COUNTY RECORDER,"TREVINO, IDONNA",46
 Southern Lander County 06,COUNTY TREASURER,"DIAS, ELIZABETH",8
 Southern Lander County 06,COUNTY TREASURER,"POWRIE, GRACE",64
 Southern Lander County 06,DISTRICT ATTORNEY,"HERRERA, THEODORE C.",66
-Southern Lander County 06,"District Court Judge, District 6, Department  1","PLIMPTON, TODD",17
-Southern Lander County 06,"District Court Judge, District 6, Department  1","SHIRLEY, JIM C.",50
+Southern Lander County 06,"District Court Judge, District 6, Department 1","PLIMPTON, TODD",17
+Southern Lander County 06,"District Court Judge, District 6, Department 1","SHIRLEY, JIM C.",50
 Southern Lander County 06,Governor,"Goodman, Robert ""Bob""",2
 Southern Lander County 06,Governor,None Of These Candidates,0
 Southern Lander County 06,Governor,"Sandoval, Brian",69

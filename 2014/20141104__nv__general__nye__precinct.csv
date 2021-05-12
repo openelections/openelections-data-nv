@@ -13,8 +13,8 @@ AMARGOSA VLY 06,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",196
 AMARGOSA VLY 06,COUNTY TREASURER,"BILLMAN, RICHARD",201
 AMARGOSA VLY 06,DISTRICT ATTORNEY,"BELLO, ANGELA A.",152
 AMARGOSA VLY 06,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",90
-AMARGOSA VLY 06,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",70
-AMARGOSA VLY 06,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",157
+AMARGOSA VLY 06,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",70
+AMARGOSA VLY 06,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",157
 AMARGOSA VLY 06,Governor,"Goodman, Robert ""Bob""",45
 AMARGOSA VLY 06,Governor,None Of These Candidates,2
 AMARGOSA VLY 06,Governor,"Sandoval, Brian",174
@@ -59,8 +59,8 @@ BEATTY 01,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",172
 BEATTY 01,COUNTY TREASURER,"BILLMAN, RICHARD",206
 BEATTY 01,DISTRICT ATTORNEY,"BELLO, ANGELA A.",130
 BEATTY 01,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",107
-BEATTY 01,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",83
-BEATTY 01,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",133
+BEATTY 01,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",83
+BEATTY 01,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",133
 BEATTY 01,Governor,"Goodman, Robert ""Bob""",39
 BEATTY 01,Governor,None Of These Candidates,8
 BEATTY 01,Governor,"Sandoval, Brian",172
@@ -107,8 +107,8 @@ CURRANT 02,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",17
 CURRANT 02,COUNTY TREASURER,"BILLMAN, RICHARD",25
 CURRANT 02,DISTRICT ATTORNEY,"BELLO, ANGELA A.",23
 CURRANT 02,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",9
-CURRANT 02,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",18
-CURRANT 02,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",15
+CURRANT 02,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",18
+CURRANT 02,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",15
 CURRANT 02,Governor,"Goodman, Robert ""Bob""",1
 CURRANT 02,Governor,None Of These Candidates,1
 CURRANT 02,Governor,"Sandoval, Brian",29
@@ -155,8 +155,8 @@ DUCKWATER 03,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",7
 DUCKWATER 03,COUNTY TREASURER,"BILLMAN, RICHARD",26
 DUCKWATER 03,DISTRICT ATTORNEY,"BELLO, ANGELA A.",8
 DUCKWATER 03,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",24
-DUCKWATER 03,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",20
-DUCKWATER 03,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",8
+DUCKWATER 03,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",20
+DUCKWATER 03,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",8
 DUCKWATER 03,Governor,"Goodman, Robert ""Bob""",20
 DUCKWATER 03,Governor,None Of These Candidates,0
 DUCKWATER 03,Governor,"Sandoval, Brian",11
@@ -203,8 +203,8 @@ FORTY BAR 18,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",26
 FORTY BAR 18,COUNTY TREASURER,"BILLMAN, RICHARD",28
 FORTY BAR 18,DISTRICT ATTORNEY,"BELLO, ANGELA A.",20
 FORTY BAR 18,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",19
-FORTY BAR 18,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",16
-FORTY BAR 18,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",14
+FORTY BAR 18,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",16
+FORTY BAR 18,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",14
 FORTY BAR 18,Governor,"Goodman, Robert ""Bob""",19
 FORTY BAR 18,Governor,None Of These Candidates,0
 FORTY BAR 18,Governor,"Sandoval, Brian",21
@@ -251,8 +251,8 @@ GABBS 04,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",45
 GABBS 04,COUNTY TREASURER,"BILLMAN, RICHARD",75
 GABBS 04,DISTRICT ATTORNEY,"BELLO, ANGELA A.",60
 GABBS 04,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",21
-GABBS 04,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",25
-GABBS 04,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",49
+GABBS 04,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",25
+GABBS 04,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",49
 GABBS 04,Governor,"Goodman, Robert ""Bob""",9
 GABBS 04,Governor,None Of These Candidates,3
 GABBS 04,Governor,"Sandoval, Brian",64
@@ -303,8 +303,8 @@ IONE 05,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",
 IONE 05,COUNTY TREASURER,"BILLMAN, RICHARD",
 IONE 05,DISTRICT ATTORNEY,"BELLO, ANGELA A.",
 IONE 05,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",
-IONE 05,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",
-IONE 05,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",
+IONE 05,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",
+IONE 05,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",
 IONE 05,Governor,"Goodman, Robert ""Bob""",
 IONE 05,Governor,None Of These Candidates,
 IONE 05,Governor,"Sandoval, Brian",
@@ -355,8 +355,8 @@ MANHATTAN 07,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",30
 MANHATTAN 07,COUNTY TREASURER,"BILLMAN, RICHARD",38
 MANHATTAN 07,DISTRICT ATTORNEY,"BELLO, ANGELA A.",22
 MANHATTAN 07,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",21
-MANHATTAN 07,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",9
-MANHATTAN 07,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",31
+MANHATTAN 07,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",9
+MANHATTAN 07,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",31
 MANHATTAN 07,Governor,"Goodman, Robert ""Bob""",4
 MANHATTAN 07,Governor,None Of These Candidates,0
 MANHATTAN 07,Governor,"Sandoval, Brian",35
@@ -403,8 +403,8 @@ MERCURY 08,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",
 MERCURY 08,COUNTY TREASURER,"BILLMAN, RICHARD",
 MERCURY 08,DISTRICT ATTORNEY,"BELLO, ANGELA A.",
 MERCURY 08,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",
-MERCURY 08,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",
-MERCURY 08,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",
+MERCURY 08,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",
+MERCURY 08,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",
 MERCURY 08,Governor,"Goodman, Robert ""Bob""",
 MERCURY 08,Governor,None Of These Candidates,
 MERCURY 08,Governor,"Sandoval, Brian",
@@ -451,8 +451,8 @@ PAHRUMP 09,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",602
 PAHRUMP 09,COUNTY TREASURER,"BILLMAN, RICHARD",707
 PAHRUMP 09,DISTRICT ATTORNEY,"BELLO, ANGELA A.",511
 PAHRUMP 09,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",293
-PAHRUMP 09,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",257
-PAHRUMP 09,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",522
+PAHRUMP 09,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",257
+PAHRUMP 09,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",522
 PAHRUMP 09,Governor,"Goodman, Robert ""Bob""",126
 PAHRUMP 09,Governor,None Of These Candidates,17
 PAHRUMP 09,Governor,"Sandoval, Brian",614
@@ -499,8 +499,8 @@ PAHRUMP 10,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",220
 PAHRUMP 10,COUNTY TREASURER,"BILLMAN, RICHARD",277
 PAHRUMP 10,DISTRICT ATTORNEY,"BELLO, ANGELA A.",196
 PAHRUMP 10,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",116
-PAHRUMP 10,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",110
-PAHRUMP 10,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",195
+PAHRUMP 10,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",110
+PAHRUMP 10,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",195
 PAHRUMP 10,Governor,"Goodman, Robert ""Bob""",60
 PAHRUMP 10,Governor,None Of These Candidates,14
 PAHRUMP 10,Governor,"Sandoval, Brian",230
@@ -550,8 +550,8 @@ PAHRUMP 11,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",339
 PAHRUMP 11,COUNTY TREASURER,"BILLMAN, RICHARD",431
 PAHRUMP 11,DISTRICT ATTORNEY,"BELLO, ANGELA A.",281
 PAHRUMP 11,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",231
-PAHRUMP 11,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",163
-PAHRUMP 11,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",323
+PAHRUMP 11,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",163
+PAHRUMP 11,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",323
 PAHRUMP 11,Governor,"Goodman, Robert ""Bob""",105
 PAHRUMP 11,Governor,None Of These Candidates,18
 PAHRUMP 11,Governor,"Sandoval, Brian",366
@@ -598,8 +598,8 @@ PAHRUMP 16,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",335
 PAHRUMP 16,COUNTY TREASURER,"BILLMAN, RICHARD",406
 PAHRUMP 16,DISTRICT ATTORNEY,"BELLO, ANGELA A.",290
 PAHRUMP 16,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",186
-PAHRUMP 16,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",152
-PAHRUMP 16,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",296
+PAHRUMP 16,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",152
+PAHRUMP 16,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",296
 PAHRUMP 16,Governor,"Goodman, Robert ""Bob""",101
 PAHRUMP 16,Governor,None Of These Candidates,17
 PAHRUMP 16,Governor,"Sandoval, Brian",344
@@ -649,8 +649,8 @@ PAHRUMP 17,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",336
 PAHRUMP 17,COUNTY TREASURER,"BILLMAN, RICHARD",426
 PAHRUMP 17,DISTRICT ATTORNEY,"BELLO, ANGELA A.",264
 PAHRUMP 17,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",231
-PAHRUMP 17,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",124
-PAHRUMP 17,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",329
+PAHRUMP 17,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",124
+PAHRUMP 17,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",329
 PAHRUMP 17,Governor,"Goodman, Robert ""Bob""",95
 PAHRUMP 17,Governor,None Of These Candidates,9
 PAHRUMP 17,Governor,"Sandoval, Brian",371
@@ -700,8 +700,8 @@ PAHRUMP 19,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",608
 PAHRUMP 19,COUNTY TREASURER,"BILLMAN, RICHARD",895
 PAHRUMP 19,DISTRICT ATTORNEY,"BELLO, ANGELA A.",647
 PAHRUMP 19,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",360
-PAHRUMP 19,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",297
-PAHRUMP 19,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",653
+PAHRUMP 19,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",297
+PAHRUMP 19,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",653
 PAHRUMP 19,Governor,"Goodman, Robert ""Bob""",141
 PAHRUMP 19,Governor,None Of These Candidates,26
 PAHRUMP 19,Governor,"Sandoval, Brian",817
@@ -753,8 +753,8 @@ PAHRUMP 20,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",204
 PAHRUMP 20,COUNTY TREASURER,"BILLMAN, RICHARD",265
 PAHRUMP 20,DISTRICT ATTORNEY,"BELLO, ANGELA A.",197
 PAHRUMP 20,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",105
-PAHRUMP 20,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",103
-PAHRUMP 20,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",178
+PAHRUMP 20,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",103
+PAHRUMP 20,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",178
 PAHRUMP 20,Governor,"Goodman, Robert ""Bob""",58
 PAHRUMP 20,Governor,None Of These Candidates,9
 PAHRUMP 20,Governor,"Sandoval, Brian",216
@@ -801,8 +801,8 @@ PAHRUMP 21,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",408
 PAHRUMP 21,COUNTY TREASURER,"BILLMAN, RICHARD",561
 PAHRUMP 21,DISTRICT ATTORNEY,"BELLO, ANGELA A.",413
 PAHRUMP 21,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",237
-PAHRUMP 21,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",227
-PAHRUMP 21,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",391
+PAHRUMP 21,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",227
+PAHRUMP 21,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",391
 PAHRUMP 21,Governor,"Goodman, Robert ""Bob""",122
 PAHRUMP 21,Governor,None Of These Candidates,8
 PAHRUMP 21,Governor,"Sandoval, Brian",472
@@ -852,8 +852,8 @@ PAHRUMP 22,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",299
 PAHRUMP 22,COUNTY TREASURER,"BILLMAN, RICHARD",358
 PAHRUMP 22,DISTRICT ATTORNEY,"BELLO, ANGELA A.",280
 PAHRUMP 22,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",142
-PAHRUMP 22,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",133
-PAHRUMP 22,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",259
+PAHRUMP 22,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",133
+PAHRUMP 22,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",259
 PAHRUMP 22,Governor,"Goodman, Robert ""Bob""",81
 PAHRUMP 22,Governor,None Of These Candidates,17
 PAHRUMP 22,Governor,"Sandoval, Brian",297
@@ -900,8 +900,8 @@ PAHRUMP 23,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",168
 PAHRUMP 23,COUNTY TREASURER,"BILLMAN, RICHARD",198
 PAHRUMP 23,DISTRICT ATTORNEY,"BELLO, ANGELA A.",144
 PAHRUMP 23,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",87
-PAHRUMP 23,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",69
-PAHRUMP 23,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",152
+PAHRUMP 23,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",69
+PAHRUMP 23,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",152
 PAHRUMP 23,Governor,"Goodman, Robert ""Bob""",43
 PAHRUMP 23,Governor,None Of These Candidates,7
 PAHRUMP 23,Governor,"Sandoval, Brian",174
@@ -951,8 +951,8 @@ PAHRUMP 24,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",302
 PAHRUMP 24,COUNTY TREASURER,"BILLMAN, RICHARD",411
 PAHRUMP 24,DISTRICT ATTORNEY,"BELLO, ANGELA A.",308
 PAHRUMP 24,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",154
-PAHRUMP 24,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",143
-PAHRUMP 24,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",298
+PAHRUMP 24,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",143
+PAHRUMP 24,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",298
 PAHRUMP 24,Governor,"Goodman, Robert ""Bob""",75
 PAHRUMP 24,Governor,None Of These Candidates,11
 PAHRUMP 24,Governor,"Sandoval, Brian",342
@@ -999,8 +999,8 @@ PAHRUMP 25,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",157
 PAHRUMP 25,COUNTY TREASURER,"BILLMAN, RICHARD",202
 PAHRUMP 25,DISTRICT ATTORNEY,"BELLO, ANGELA A.",150
 PAHRUMP 25,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",89
-PAHRUMP 25,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",74
-PAHRUMP 25,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",148
+PAHRUMP 25,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",74
+PAHRUMP 25,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",148
 PAHRUMP 25,Governor,"Goodman, Robert ""Bob""",42
 PAHRUMP 25,Governor,None Of These Candidates,3
 PAHRUMP 25,Governor,"Sandoval, Brian",177
@@ -1047,8 +1047,8 @@ PAHRUMP 26,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",248
 PAHRUMP 26,COUNTY TREASURER,"BILLMAN, RICHARD",296
 PAHRUMP 26,DISTRICT ATTORNEY,"BELLO, ANGELA A.",210
 PAHRUMP 26,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",128
-PAHRUMP 26,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",102
-PAHRUMP 26,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",232
+PAHRUMP 26,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",102
+PAHRUMP 26,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",232
 PAHRUMP 26,Governor,"Goodman, Robert ""Bob""",60
 PAHRUMP 26,Governor,None Of These Candidates,12
 PAHRUMP 26,Governor,"Sandoval, Brian",243
@@ -1095,8 +1095,8 @@ PAHRUMP 27,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",343
 PAHRUMP 27,COUNTY TREASURER,"BILLMAN, RICHARD",461
 PAHRUMP 27,DISTRICT ATTORNEY,"BELLO, ANGELA A.",321
 PAHRUMP 27,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",191
-PAHRUMP 27,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",159
-PAHRUMP 27,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",337
+PAHRUMP 27,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",159
+PAHRUMP 27,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",337
 PAHRUMP 27,Governor,"Goodman, Robert ""Bob""",86
 PAHRUMP 27,Governor,None Of These Candidates,12
 PAHRUMP 27,Governor,"Sandoval, Brian",373
@@ -1144,8 +1144,8 @@ PAHRUMP 28,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",497
 PAHRUMP 28,COUNTY TREASURER,"BILLMAN, RICHARD",601
 PAHRUMP 28,DISTRICT ATTORNEY,"BELLO, ANGELA A.",422
 PAHRUMP 28,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",302
-PAHRUMP 28,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",217
-PAHRUMP 28,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",480
+PAHRUMP 28,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",217
+PAHRUMP 28,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",480
 PAHRUMP 28,Governor,"Goodman, Robert ""Bob""",118
 PAHRUMP 28,Governor,None Of These Candidates,18
 PAHRUMP 28,Governor,"Sandoval, Brian",569
@@ -1193,8 +1193,8 @@ PAHRUMP 30,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",432
 PAHRUMP 30,COUNTY TREASURER,"BILLMAN, RICHARD",544
 PAHRUMP 30,DISTRICT ATTORNEY,"BELLO, ANGELA A.",383
 PAHRUMP 30,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",243
-PAHRUMP 30,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",172
-PAHRUMP 30,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",419
+PAHRUMP 30,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",172
+PAHRUMP 30,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",419
 PAHRUMP 30,Governor,"Goodman, Robert ""Bob""",75
 PAHRUMP 30,Governor,None Of These Candidates,26
 PAHRUMP 30,Governor,"Sandoval, Brian",497
@@ -1242,8 +1242,8 @@ PAHRUMP 31,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",532
 PAHRUMP 31,COUNTY TREASURER,"BILLMAN, RICHARD",617
 PAHRUMP 31,DISTRICT ATTORNEY,"BELLO, ANGELA A.",435
 PAHRUMP 31,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",306
-PAHRUMP 31,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",237
-PAHRUMP 31,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",469
+PAHRUMP 31,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",237
+PAHRUMP 31,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",469
 PAHRUMP 31,Governor,"Goodman, Robert ""Bob""",115
 PAHRUMP 31,Governor,None Of These Candidates,16
 PAHRUMP 31,Governor,"Sandoval, Brian",569
@@ -1290,8 +1290,8 @@ PAHRUMP 32,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",614
 PAHRUMP 32,COUNTY TREASURER,"BILLMAN, RICHARD",747
 PAHRUMP 32,DISTRICT ATTORNEY,"BELLO, ANGELA A.",550
 PAHRUMP 32,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",305
-PAHRUMP 32,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",267
-PAHRUMP 32,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",552
+PAHRUMP 32,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",267
+PAHRUMP 32,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",552
 PAHRUMP 32,Governor,"Goodman, Robert ""Bob""",156
 PAHRUMP 32,Governor,None Of These Candidates,22
 PAHRUMP 32,Governor,"Sandoval, Brian",637
@@ -1342,8 +1342,8 @@ ROUND MTN 12,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",91
 ROUND MTN 12,COUNTY TREASURER,"BILLMAN, RICHARD",149
 ROUND MTN 12,DISTRICT ATTORNEY,"BELLO, ANGELA A.",116
 ROUND MTN 12,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",43
-ROUND MTN 12,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",63
-ROUND MTN 12,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",81
+ROUND MTN 12,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",63
+ROUND MTN 12,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",81
 ROUND MTN 12,Governor,"Goodman, Robert ""Bob""",17
 ROUND MTN 12,Governor,None Of These Candidates,7
 ROUND MTN 12,Governor,"Sandoval, Brian",127
@@ -1390,8 +1390,8 @@ SMOKY VALLEY 35,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",79
 SMOKY VALLEY 35,COUNTY TREASURER,"BILLMAN, RICHARD",142
 SMOKY VALLEY 35,DISTRICT ATTORNEY,"BELLO, ANGELA A.",95
 SMOKY VALLEY 35,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",49
-SMOKY VALLEY 35,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",50
-SMOKY VALLEY 35,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",87
+SMOKY VALLEY 35,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",50
+SMOKY VALLEY 35,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",87
 SMOKY VALLEY 35,Governor,"Goodman, Robert ""Bob""",5
 SMOKY VALLEY 35,Governor,None Of These Candidates,2
 SMOKY VALLEY 35,Governor,"Sandoval, Brian",127
@@ -1442,8 +1442,8 @@ SUNNYSIDE 13,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",4
 SUNNYSIDE 13,COUNTY TREASURER,"BILLMAN, RICHARD",10
 SUNNYSIDE 13,DISTRICT ATTORNEY,"BELLO, ANGELA A.",8
 SUNNYSIDE 13,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",4
-SUNNYSIDE 13,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",
 SUNNYSIDE 13,Governor,"Goodman, Robert ""Bob""",2
 SUNNYSIDE 13,Governor,None Of These Candidates,2
 SUNNYSIDE 13,Governor,"Sandoval, Brian",8
@@ -1490,8 +1490,8 @@ TONOPAH 14,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",478
 TONOPAH 14,COUNTY TREASURER,"BILLMAN, RICHARD",529
 TONOPAH 14,DISTRICT ATTORNEY,"BELLO, ANGELA A.",321
 TONOPAH 14,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",283
-TONOPAH 14,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",183
-TONOPAH 14,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",403
+TONOPAH 14,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",183
+TONOPAH 14,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",403
 TONOPAH 14,Governor,"Goodman, Robert ""Bob""",70
 TONOPAH 14,Governor,None Of These Candidates,12
 TONOPAH 14,Governor,"Sandoval, Brian",507
@@ -1542,8 +1542,8 @@ TONOPAH 15,County Sheriff - NYE - NonPartisan,"WEHRLY, SHARON",19
 TONOPAH 15,COUNTY TREASURER,"BILLMAN, RICHARD",22
 TONOPAH 15,DISTRICT ATTORNEY,"BELLO, ANGELA A.",15
 TONOPAH 15,DISTRICT ATTORNEY,"KUNZI, BRIAN T.",12
-TONOPAH 15,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",9
-TONOPAH 15,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",14
+TONOPAH 15,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",9
+TONOPAH 15,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",14
 TONOPAH 15,Governor,"Goodman, Robert ""Bob""",6
 TONOPAH 15,Governor,None Of These Candidates,0
 TONOPAH 15,Governor,"Sandoval, Brian",19

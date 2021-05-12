@@ -3,8 +3,8 @@ PRECINCT 1,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",24
 PRECINCT 1,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",31
 PRECINCT 1,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",19
 PRECINCT 1,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",6
-PRECINCT 1,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",147
-PRECINCT 1,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",144
+PRECINCT 1,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",147
+PRECINCT 1,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",144
 PRECINCT 1,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PRECINCT 1,Governor (Democratic),"Conquest, Frederick L.",2
 PRECINCT 1,Governor (Democratic),"Frye, Stephen H.",3
@@ -49,8 +49,8 @@ PRECINCT 10,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 10,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 10,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",0
 PRECINCT 10,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 10,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
-PRECINCT 10,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 10,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 10,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",0
 PRECINCT 10,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 10,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 10,Governor (Democratic),"Frye, Stephen H.",0
@@ -95,8 +95,8 @@ PRECINCT 11,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 11,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",2
 PRECINCT 11,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",1
 PRECINCT 11,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 11,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",3
-PRECINCT 11,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",4
+PRECINCT 11,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",3
+PRECINCT 11,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",4
 PRECINCT 11,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 11,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 11,Governor (Democratic),"Frye, Stephen H.",0
@@ -141,8 +141,8 @@ PRECINCT 12,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",1
 PRECINCT 12,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 12,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",0
 PRECINCT 12,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 12,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",1
-PRECINCT 12,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",1
+PRECINCT 12,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",1
+PRECINCT 12,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",1
 PRECINCT 12,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 12,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 12,Governor (Democratic),"Frye, Stephen H.",0
@@ -187,8 +187,8 @@ PRECINCT 13,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 13,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 13,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",0
 PRECINCT 13,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 13,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
-PRECINCT 13,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 13,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 13,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",0
 PRECINCT 13,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 13,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 13,Governor (Democratic),"Frye, Stephen H.",0
@@ -233,8 +233,8 @@ PRECINCT 14,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 14,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 14,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",0
 PRECINCT 14,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 14,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
-PRECINCT 14,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 14,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 14,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",0
 PRECINCT 14,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 14,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 14,Governor (Democratic),"Frye, Stephen H.",0
@@ -279,8 +279,8 @@ PRECINCT 15,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",3
 PRECINCT 15,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",2
 PRECINCT 15,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",2
 PRECINCT 15,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",1
-PRECINCT 15,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",12
-PRECINCT 15,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",13
+PRECINCT 15,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",12
+PRECINCT 15,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",13
 PRECINCT 15,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 15,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 15,Governor (Democratic),"Frye, Stephen H.",0
@@ -325,8 +325,8 @@ PRECINCT 2,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",29
 PRECINCT 2,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",34
 PRECINCT 2,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",34
 PRECINCT 2,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",10
-PRECINCT 2,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",172
-PRECINCT 2,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",172
+PRECINCT 2,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",172
+PRECINCT 2,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",172
 PRECINCT 2,Governor (Democratic),"Chang, Charles ""Charlie""",6
 PRECINCT 2,Governor (Democratic),"Conquest, Frederick L.",3
 PRECINCT 2,Governor (Democratic),"Frye, Stephen H.",9
@@ -367,8 +367,8 @@ PRECINCT 4,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",38
 PRECINCT 4,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",16
 PRECINCT 4,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",20
 PRECINCT 4,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",9
-PRECINCT 4,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",134
-PRECINCT 4,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",137
+PRECINCT 4,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",134
+PRECINCT 4,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",137
 PRECINCT 4,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 4,Governor (Democratic),"Conquest, Frederick L.",2
 PRECINCT 4,Governor (Democratic),"Frye, Stephen H.",3
@@ -413,8 +413,8 @@ PRECINCT 5,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",89
 PRECINCT 5,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",104
 PRECINCT 5,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",36
 PRECINCT 5,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",38
-PRECINCT 5,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",352
-PRECINCT 5,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",356
+PRECINCT 5,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",352
+PRECINCT 5,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",356
 PRECINCT 5,Governor (Democratic),"Chang, Charles ""Charlie""",1
 PRECINCT 5,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 5,Governor (Democratic),"Frye, Stephen H.",8
@@ -459,8 +459,8 @@ PRECINCT 6,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",38
 PRECINCT 6,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",12
 PRECINCT 6,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",32
 PRECINCT 6,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",16
-PRECINCT 6,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",212
-PRECINCT 6,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",212
+PRECINCT 6,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",212
+PRECINCT 6,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",212
 PRECINCT 6,Governor (Democratic),"Chang, Charles ""Charlie""",11
 PRECINCT 6,Governor (Democratic),"Conquest, Frederick L.",3
 PRECINCT 6,Governor (Democratic),"Frye, Stephen H.",10
@@ -505,8 +505,8 @@ PRECINCT 7,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 7,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 7,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",0
 PRECINCT 7,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 7,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
-PRECINCT 7,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 7,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 7,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",0
 PRECINCT 7,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 7,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 7,Governor (Democratic),"Frye, Stephen H.",0
@@ -551,8 +551,8 @@ PRECINCT 8,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 8,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 8,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",1
 PRECINCT 8,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 8,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",2
-PRECINCT 8,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",2
+PRECINCT 8,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",2
+PRECINCT 8,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",2
 PRECINCT 8,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 8,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 8,Governor (Democratic),"Frye, Stephen H.",0
@@ -597,8 +597,8 @@ PRECINCT 9,County Comm Dist. 2 (CW) (Republican),"MCGUFFEY, JACK",0
 PRECINCT 9,County Comm Dist. 2 (CW) (Republican),"PURSEL, LOREN",0
 PRECINCT 9,County Comm Dist. 2 (CW) (Republican),"SJOVANGEN, WILLIAM ""BILL""",0
 PRECINCT 9,County Comm Dist. 2 (CW) (Republican),"SLABY, ROBERT",0
-PRECINCT 9,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",0
-PRECINCT 9,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",0
+PRECINCT 9,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",0
+PRECINCT 9,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",0
 PRECINCT 9,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 9,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 9,Governor (Democratic),"Frye, Stephen H.",0

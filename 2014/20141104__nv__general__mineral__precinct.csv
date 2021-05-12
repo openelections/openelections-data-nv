@@ -9,8 +9,8 @@ PRECINCT 1,Clerk/Treasurer,"HAIGHT, LORRAINE",127
 PRECINCT 1,Clerk/Treasurer,"NEPPER, CHRISTOPHER",88
 PRECINCT 1,County Commissioner Seat C,"TIPTON, JERRIE C.",157
 PRECINCT 1,DISTRICT ATTORNEY,"ROWE, SEAN",170
-PRECINCT 1,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",34
-PRECINCT 1,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",155
+PRECINCT 1,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",34
+PRECINCT 1,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",155
 PRECINCT 1,Governor,"Goodman, Robert ""Bob""",20
 PRECINCT 1,Governor,None Of These Candidates,5
 PRECINCT 1,Governor,"Sandoval, Brian",187
@@ -59,8 +59,8 @@ PRECINCT 10,Clerk/Treasurer,"HAIGHT, LORRAINE",
 PRECINCT 10,Clerk/Treasurer,"NEPPER, CHRISTOPHER",
 PRECINCT 10,County Commissioner Seat C,"TIPTON, JERRIE C.",
 PRECINCT 10,DISTRICT ATTORNEY,"ROWE, SEAN",
-PRECINCT 10,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",
-PRECINCT 10,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",
+PRECINCT 10,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",
+PRECINCT 10,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",
 PRECINCT 10,Governor,"Goodman, Robert ""Bob""",
 PRECINCT 10,Governor,None Of These Candidates,
 PRECINCT 10,Governor,"Sandoval, Brian",
@@ -109,8 +109,8 @@ PRECINCT 11,Clerk/Treasurer,"HAIGHT, LORRAINE",48
 PRECINCT 11,Clerk/Treasurer,"NEPPER, CHRISTOPHER",99
 PRECINCT 11,County Commissioner Seat C,"TIPTON, JERRIE C.",130
 PRECINCT 11,DISTRICT ATTORNEY,"ROWE, SEAN",124
-PRECINCT 11,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",58
-PRECINCT 11,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",78
+PRECINCT 11,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",58
+PRECINCT 11,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",78
 PRECINCT 11,Governor,"Goodman, Robert ""Bob""",47
 PRECINCT 11,Governor,None Of These Candidates,0
 PRECINCT 11,Governor,"Sandoval, Brian",95
@@ -159,8 +159,8 @@ PRECINCT 12,Clerk/Treasurer,"HAIGHT, LORRAINE",81
 PRECINCT 12,Clerk/Treasurer,"NEPPER, CHRISTOPHER",43
 PRECINCT 12,County Commissioner Seat C,"TIPTON, JERRIE C.",67
 PRECINCT 12,DISTRICT ATTORNEY,"ROWE, SEAN",95
-PRECINCT 12,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",34
-PRECINCT 12,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",75
+PRECINCT 12,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",34
+PRECINCT 12,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",75
 PRECINCT 12,Governor,"Goodman, Robert ""Bob""",11
 PRECINCT 12,Governor,None Of These Candidates,3
 PRECINCT 12,Governor,"Sandoval, Brian",107
@@ -209,8 +209,8 @@ PRECINCT 2,Clerk/Treasurer,"HAIGHT, LORRAINE",115
 PRECINCT 2,Clerk/Treasurer,"NEPPER, CHRISTOPHER",90
 PRECINCT 2,County Commissioner Seat C,"TIPTON, JERRIE C.",168
 PRECINCT 2,DISTRICT ATTORNEY,"ROWE, SEAN",172
-PRECINCT 2,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",38
-PRECINCT 2,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",154
+PRECINCT 2,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",38
+PRECINCT 2,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",154
 PRECINCT 2,Governor,"Goodman, Robert ""Bob""",29
 PRECINCT 2,Governor,None Of These Candidates,11
 PRECINCT 2,Governor,"Sandoval, Brian",170
@@ -259,8 +259,8 @@ PRECINCT 3,Clerk/Treasurer,"HAIGHT, LORRAINE",61
 PRECINCT 3,Clerk/Treasurer,"NEPPER, CHRISTOPHER",66
 PRECINCT 3,County Commissioner Seat C,"TIPTON, JERRIE C.",93
 PRECINCT 3,DISTRICT ATTORNEY,"ROWE, SEAN",103
-PRECINCT 3,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",35
-PRECINCT 3,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",85
+PRECINCT 3,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",35
+PRECINCT 3,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",85
 PRECINCT 3,Governor,"Goodman, Robert ""Bob""",14
 PRECINCT 3,Governor,None Of These Candidates,6
 PRECINCT 3,Governor,"Sandoval, Brian",104
@@ -309,8 +309,8 @@ PRECINCT 4,Clerk/Treasurer,"HAIGHT, LORRAINE",58
 PRECINCT 4,Clerk/Treasurer,"NEPPER, CHRISTOPHER",45
 PRECINCT 4,County Commissioner Seat C,"TIPTON, JERRIE C.",77
 PRECINCT 4,DISTRICT ATTORNEY,"ROWE, SEAN",83
-PRECINCT 4,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",23
-PRECINCT 4,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",70
+PRECINCT 4,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",23
+PRECINCT 4,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",70
 PRECINCT 4,Governor,"Goodman, Robert ""Bob""",16
 PRECINCT 4,Governor,None Of These Candidates,6
 PRECINCT 4,Governor,"Sandoval, Brian",76
@@ -359,8 +359,8 @@ PRECINCT 5,Clerk/Treasurer,"HAIGHT, LORRAINE",71
 PRECINCT 5,Clerk/Treasurer,"NEPPER, CHRISTOPHER",68
 PRECINCT 5,County Commissioner Seat C,"TIPTON, JERRIE C.",117
 PRECINCT 5,DISTRICT ATTORNEY,"ROWE, SEAN",115
-PRECINCT 5,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",29
-PRECINCT 5,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",102
+PRECINCT 5,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",29
+PRECINCT 5,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",102
 PRECINCT 5,Governor,"Goodman, Robert ""Bob""",23
 PRECINCT 5,Governor,None Of These Candidates,4
 PRECINCT 5,Governor,"Sandoval, Brian",110
@@ -409,8 +409,8 @@ PRECINCT 6,Clerk/Treasurer,"HAIGHT, LORRAINE",77
 PRECINCT 6,Clerk/Treasurer,"NEPPER, CHRISTOPHER",92
 PRECINCT 6,County Commissioner Seat C,"TIPTON, JERRIE C.",134
 PRECINCT 6,DISTRICT ATTORNEY,"ROWE, SEAN",141
-PRECINCT 6,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",47
-PRECINCT 6,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",106
+PRECINCT 6,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",47
+PRECINCT 6,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",106
 PRECINCT 6,Governor,"Goodman, Robert ""Bob""",32
 PRECINCT 6,Governor,None Of These Candidates,7
 PRECINCT 6,Governor,"Sandoval, Brian",126
@@ -459,8 +459,8 @@ PRECINCT 7,Clerk/Treasurer,"HAIGHT, LORRAINE",26
 PRECINCT 7,Clerk/Treasurer,"NEPPER, CHRISTOPHER",21
 PRECINCT 7,County Commissioner Seat C,"TIPTON, JERRIE C.",32
 PRECINCT 7,DISTRICT ATTORNEY,"ROWE, SEAN",39
-PRECINCT 7,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",11
-PRECINCT 7,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",28
+PRECINCT 7,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",11
+PRECINCT 7,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",28
 PRECINCT 7,Governor,"Goodman, Robert ""Bob""",11
 PRECINCT 7,Governor,None Of These Candidates,1
 PRECINCT 7,Governor,"Sandoval, Brian",35
@@ -509,8 +509,8 @@ PRECINCT 8,Clerk/Treasurer,"HAIGHT, LORRAINE",13
 PRECINCT 8,Clerk/Treasurer,"NEPPER, CHRISTOPHER",6
 PRECINCT 8,County Commissioner Seat C,"TIPTON, JERRIE C.",14
 PRECINCT 8,DISTRICT ATTORNEY,"ROWE, SEAN",17
-PRECINCT 8,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",4
-PRECINCT 8,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",12
+PRECINCT 8,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",4
+PRECINCT 8,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",12
 PRECINCT 8,Governor,"Goodman, Robert ""Bob""",3
 PRECINCT 8,Governor,None Of These Candidates,1
 PRECINCT 8,Governor,"Sandoval, Brian",15
@@ -559,8 +559,8 @@ PRECINCT 9,Clerk/Treasurer,"HAIGHT, LORRAINE",57
 PRECINCT 9,Clerk/Treasurer,"NEPPER, CHRISTOPHER",29
 PRECINCT 9,County Commissioner Seat C,"TIPTON, JERRIE C.",37
 PRECINCT 9,DISTRICT ATTORNEY,"ROWE, SEAN",55
-PRECINCT 9,"District Court Judge, District 5, Department  2","DONOHUE, LILLIAN JO ""LIL""",19
-PRECINCT 9,"District Court Judge, District 5, Department  2","LANE, ROBERT W.",56
+PRECINCT 9,"District Court Judge, District 5, Department 2","DONOHUE, LILLIAN JO ""LIL""",19
+PRECINCT 9,"District Court Judge, District 5, Department 2","LANE, ROBERT W.",56
 PRECINCT 9,Governor,"Goodman, Robert ""Bob""",4
 PRECINCT 9,Governor,None Of These Candidates,4
 PRECINCT 9,Governor,"Sandoval, Brian",76

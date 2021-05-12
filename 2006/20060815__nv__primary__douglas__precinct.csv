@@ -66,10 +66,10 @@ precinct,office,candidate,votes
 01-Centerville,U.S. Senate (Republican),"Ensign, John",138
 01-Centerville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
 01-Centerville,U.S. Senate (Republican),None Of These Candidates,8
-01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",80
-01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",51
-01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",14
-01-Centerville,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",26
+01-Centerville,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",80
+01-Centerville,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",51
+01-Centerville,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",14
+01-Centerville,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",26
 02-Fish Springs,County Commissioner District 4 (Republican),"MCDERMID, NANCY",130
 02-Fish Springs,County Commissioner District 4 (Republican),"MURPHY, JANET",80
 02-Fish Springs,Governor (Democratic),"Gibson, James B.",26
@@ -140,10 +140,10 @@ precinct,office,candidate,votes
 02-Fish Springs,U.S. Senate (Republican),"Ensign, John",211
 02-Fish Springs,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",17
 02-Fish Springs,U.S. Senate (Republican),None Of These Candidates,10
-02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",97
-02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",117
-02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",35
-02-Fish Springs,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",64
+02-Fish Springs,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",97
+02-Fish Springs,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",117
+02-Fish Springs,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",35
+02-Fish Springs,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",64
 03-Gardnerville,County Commissioner District 4 (Republican),"MCDERMID, NANCY",139
 03-Gardnerville,County Commissioner District 4 (Republican),"MURPHY, JANET",114
 03-Gardnerville,Governor (Democratic),"Gibson, James B.",34
@@ -214,10 +214,10 @@ precinct,office,candidate,votes
 03-Gardnerville,U.S. Senate (Republican),"Ensign, John",246
 03-Gardnerville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",12
 03-Gardnerville,U.S. Senate (Republican),None Of These Candidates,15
-03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",120
-03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",117
-03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",35
-03-Gardnerville,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",90
+03-Gardnerville,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",120
+03-Gardnerville,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",117
+03-Gardnerville,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",35
+03-Gardnerville,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",90
 04-Carson Valley Estates,County Commissioner District 4 (Republican),"MCDERMID, NANCY",84
 04-Carson Valley Estates,County Commissioner District 4 (Republican),"MURPHY, JANET",46
 04-Carson Valley Estates,Governor (Democratic),"Gibson, James B.",21
@@ -288,10 +288,10 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,U.S. Senate (Republican),"Ensign, John",133
 04-Carson Valley Estates,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
 04-Carson Valley Estates,U.S. Senate (Republican),None Of These Candidates,5
-04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",57
-04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",79
-04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",20
-04-Carson Valley Estates,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",36
+04-Carson Valley Estates,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",57
+04-Carson Valley Estates,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",79
+04-Carson Valley Estates,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",20
+04-Carson Valley Estates,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",36
 05-Genoa,County Commissioner District 4 (Republican),"MCDERMID, NANCY",167
 05-Genoa,County Commissioner District 4 (Republican),"MURPHY, JANET",66
 05-Genoa,Governor (Democratic),"Gibson, James B.",4
@@ -359,10 +359,10 @@ precinct,office,candidate,votes
 05-Genoa,U.S. Senate (Republican),"Ensign, John",240
 05-Genoa,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
 05-Genoa,U.S. Senate (Republican),None Of These Candidates,2
-05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",89
-05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",87
-05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",22
-05-Genoa,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",46
+05-Genoa,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",89
+05-Genoa,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",87
+05-Genoa,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",22
+05-Genoa,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",46
 06-Jacks Valley,County Commissioner District 4 (Republican),"MCDERMID, NANCY",108
 06-Jacks Valley,County Commissioner District 4 (Republican),"MURPHY, JANET",69
 06-Jacks Valley,Governor (Democratic),"Gibson, James B.",24
@@ -430,10 +430,10 @@ precinct,office,candidate,votes
 06-Jacks Valley,U.S. Senate (Republican),"Ensign, John",187
 06-Jacks Valley,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
 06-Jacks Valley,U.S. Senate (Republican),None Of These Candidates,11
-06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",83
-06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",120
-06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",29
-06-Jacks Valley,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",63
+06-Jacks Valley,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",83
+06-Jacks Valley,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",120
+06-Jacks Valley,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",29
+06-Jacks Valley,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",63
 07-Minden,County Commissioner District 4 (Republican),"MCDERMID, NANCY",129
 07-Minden,County Commissioner District 4 (Republican),"MURPHY, JANET",86
 07-Minden,Governor (Democratic),"Gibson, James B.",27
@@ -504,10 +504,10 @@ precinct,office,candidate,votes
 07-Minden,U.S. Senate (Republican),"Ensign, John",220
 07-Minden,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
 07-Minden,U.S. Senate (Republican),None Of These Candidates,16
-07-Minden,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",116
-07-Minden,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",98
-07-Minden,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",29
-07-Minden,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",44
+07-Minden,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",116
+07-Minden,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",98
+07-Minden,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",29
+07-Minden,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",44
 08-Ranchos I,County Commissioner District 4 (Republican),"MCDERMID, NANCY",98
 08-Ranchos I,County Commissioner District 4 (Republican),"MURPHY, JANET",46
 08-Ranchos I,Governor (Democratic),"Gibson, James B.",18
@@ -575,10 +575,10 @@ precinct,office,candidate,votes
 08-Ranchos I,U.S. Senate (Republican),"Ensign, John",142
 08-Ranchos I,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
 08-Ranchos I,U.S. Senate (Republican),None Of These Candidates,2
-08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
-08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",85
-08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",25
-08-Ranchos I,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",43
+08-Ranchos I,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
+08-Ranchos I,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",85
+08-Ranchos I,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",25
+08-Ranchos I,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",43
 09-Ranchos II,County Commissioner District 4 (Republican),"MCDERMID, NANCY",85
 09-Ranchos II,County Commissioner District 4 (Republican),"MURPHY, JANET",58
 09-Ranchos II,Governor (Democratic),"Gibson, James B.",20
@@ -646,10 +646,10 @@ precinct,office,candidate,votes
 09-Ranchos II,U.S. Senate (Republican),"Ensign, John",141
 09-Ranchos II,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
 09-Ranchos II,U.S. Senate (Republican),None Of These Candidates,6
-09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",41
-09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",65
-09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",30
-09-Ranchos II,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",55
+09-Ranchos II,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",41
+09-Ranchos II,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",65
+09-Ranchos II,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",30
+09-Ranchos II,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",55
 10-Topaz Ranch Estates,County Commissioner District 4 (Republican),"MCDERMID, NANCY",122
 10-Topaz Ranch Estates,County Commissioner District 4 (Republican),"MURPHY, JANET",89
 10-Topaz Ranch Estates,Governor (Democratic),"Gibson, James B.",40
@@ -717,10 +717,10 @@ precinct,office,candidate,votes
 10-Topaz Ranch Estates,U.S. Senate (Republican),"Ensign, John",203
 10-Topaz Ranch Estates,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
 10-Topaz Ranch Estates,U.S. Senate (Republican),None Of These Candidates,19
-10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",101
-10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",92
-10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",52
-10-Topaz Ranch Estates,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",83
+10-Topaz Ranch Estates,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",101
+10-Topaz Ranch Estates,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",92
+10-Topaz Ranch Estates,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",52
+10-Topaz Ranch Estates,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",83
 11-Johnson Lane,County Commissioner District 4 (Republican),"MCDERMID, NANCY",127
 11-Johnson Lane,County Commissioner District 4 (Republican),"MURPHY, JANET",74
 11-Johnson Lane,Governor (Democratic),"Gibson, James B.",36
@@ -788,10 +788,10 @@ precinct,office,candidate,votes
 11-Johnson Lane,U.S. Senate (Republican),"Ensign, John",198
 11-Johnson Lane,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
 11-Johnson Lane,U.S. Senate (Republican),None Of These Candidates,13
-11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",55
-11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",154
-11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",38
-11-Johnson Lane,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",70
+11-Johnson Lane,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",55
+11-Johnson Lane,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",154
+11-Johnson Lane,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",38
+11-Johnson Lane,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",70
 12-Dresslerville,County Commissioner District 4 (Republican),"MCDERMID, NANCY",
 12-Dresslerville,County Commissioner District 4 (Republican),"MURPHY, JANET",
 12-Dresslerville,Governor (Democratic),"Gibson, James B.",
@@ -859,10 +859,10 @@ precinct,office,candidate,votes
 12-Dresslerville,U.S. Senate (Republican),"Ensign, John",
 12-Dresslerville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",
 12-Dresslerville,U.S. Senate (Republican),None Of These Candidates,
-12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",
-12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
-12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",
-12-Dresslerville,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",
+12-Dresslerville,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",
+12-Dresslerville,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",
+12-Dresslerville,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",
+12-Dresslerville,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",
 13-Indian Hills - West,County Commissioner District 4 (Republican),"MCDERMID, NANCY",94
 13-Indian Hills - West,County Commissioner District 4 (Republican),"MURPHY, JANET",59
 13-Indian Hills - West,Governor (Democratic),"Gibson, James B.",37
@@ -930,10 +930,10 @@ precinct,office,candidate,votes
 13-Indian Hills - West,U.S. Senate (Republican),"Ensign, John",150
 13-Indian Hills - West,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
 13-Indian Hills - West,U.S. Senate (Republican),None Of These Candidates,6
-13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",31
-13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",130
-13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",28
-13-Indian Hills - West,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",67
+13-Indian Hills - West,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",31
+13-Indian Hills - West,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",130
+13-Indian Hills - West,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",28
+13-Indian Hills - West,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",67
 14-Pinenut,County Commissioner District 4 (Republican),"MCDERMID, NANCY",112
 14-Pinenut,County Commissioner District 4 (Republican),"MURPHY, JANET",73
 14-Pinenut,Governor (Democratic),"Gibson, James B.",8
@@ -1001,10 +1001,10 @@ precinct,office,candidate,votes
 14-Pinenut,U.S. Senate (Republican),"Ensign, John",179
 14-Pinenut,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",13
 14-Pinenut,U.S. Senate (Republican),None Of These Candidates,11
-14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
-14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",100
-14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",16
-14-Pinenut,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",37
+14-Pinenut,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
+14-Pinenut,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",100
+14-Pinenut,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",16
+14-Pinenut,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",37
 15-Valley,County Commissioner District 4 (Republican),"MCDERMID, NANCY",56
 15-Valley,County Commissioner District 4 (Republican),"MURPHY, JANET",36
 15-Valley,Governor (Democratic),"Gibson, James B.",12
@@ -1072,10 +1072,10 @@ precinct,office,candidate,votes
 15-Valley,U.S. Senate (Republican),"Ensign, John",98
 15-Valley,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
 15-Valley,U.S. Senate (Republican),None Of These Candidates,3
-15-Valley,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",21
-15-Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",65
-15-Valley,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
-15-Valley,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",19
+15-Valley,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",21
+15-Valley,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",65
+15-Valley,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",18
+15-Valley,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",19
 16-Mottsville,County Commissioner District 4 (Republican),"MCDERMID, NANCY",128
 16-Mottsville,County Commissioner District 4 (Republican),"MURPHY, JANET",58
 16-Mottsville,Governor (Democratic),"Gibson, James B.",11
@@ -1143,10 +1143,10 @@ precinct,office,candidate,votes
 16-Mottsville,U.S. Senate (Republican),"Ensign, John",188
 16-Mottsville,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
 16-Mottsville,U.S. Senate (Republican),None Of These Candidates,9
-16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",69
-16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",100
-16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",14
-16-Mottsville,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",40
+16-Mottsville,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",69
+16-Mottsville,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",100
+16-Mottsville,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",14
+16-Mottsville,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",40
 17-Ruhenstroth,County Commissioner District 4 (Republican),"MCDERMID, NANCY",176
 17-Ruhenstroth,County Commissioner District 4 (Republican),"MURPHY, JANET",129
 17-Ruhenstroth,Governor (Democratic),"Gibson, James B.",22
@@ -1214,10 +1214,10 @@ precinct,office,candidate,votes
 17-Ruhenstroth,U.S. Senate (Republican),"Ensign, John",294
 17-Ruhenstroth,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
 17-Ruhenstroth,U.S. Senate (Republican),None Of These Candidates,24
-17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",127
-17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",164
-17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",38
-17-Ruhenstroth,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",76
+17-Ruhenstroth,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",127
+17-Ruhenstroth,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",164
+17-Ruhenstroth,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",38
+17-Ruhenstroth,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",76
 18-Ranchos III,County Commissioner District 4 (Republican),"MCDERMID, NANCY",130
 18-Ranchos III,County Commissioner District 4 (Republican),"MURPHY, JANET",72
 18-Ranchos III,Governor (Democratic),"Gibson, James B.",32
@@ -1285,10 +1285,10 @@ precinct,office,candidate,votes
 18-Ranchos III,U.S. Senate (Republican),"Ensign, John",202
 18-Ranchos III,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
 18-Ranchos III,U.S. Senate (Republican),None Of These Candidates,13
-18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",81
-18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",116
-18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",33
-18-Ranchos III,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",63
+18-Ranchos III,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",81
+18-Ranchos III,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",116
+18-Ranchos III,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",33
+18-Ranchos III,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",63
 19-Ranchos IV,County Commissioner District 4 (Republican),"MCDERMID, NANCY",115
 19-Ranchos IV,County Commissioner District 4 (Republican),"MURPHY, JANET",55
 19-Ranchos IV,Governor (Democratic),"Gibson, James B.",27
@@ -1356,10 +1356,10 @@ precinct,office,candidate,votes
 19-Ranchos IV,U.S. Senate (Republican),"Ensign, John",176
 19-Ranchos IV,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
 19-Ranchos IV,U.S. Senate (Republican),None Of These Candidates,5
-19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",39
-19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",113
-19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",44
-19-Ranchos IV,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",63
+19-Ranchos IV,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",39
+19-Ranchos IV,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",113
+19-Ranchos IV,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",44
+19-Ranchos IV,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",63
 20-Birch/Ranchos,County Commissioner District 4 (Republican),"MCDERMID, NANCY",93
 20-Birch/Ranchos,County Commissioner District 4 (Republican),"MURPHY, JANET",74
 20-Birch/Ranchos,Governor (Democratic),"Gibson, James B.",29
@@ -1427,10 +1427,10 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,U.S. Senate (Republican),"Ensign, John",162
 20-Birch/Ranchos,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
 20-Birch/Ranchos,U.S. Senate (Republican),None Of These Candidates,7
-20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",29
-20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",132
-20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",37
-20-Birch/Ranchos,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",63
+20-Birch/Ranchos,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",29
+20-Birch/Ranchos,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",132
+20-Birch/Ranchos,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",37
+20-Birch/Ranchos,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",63
 21-Wildhorse,County Commissioner District 4 (Republican),"MCDERMID, NANCY",140
 21-Wildhorse,County Commissioner District 4 (Republican),"MURPHY, JANET",101
 21-Wildhorse,Governor (Democratic),"Gibson, James B.",29
@@ -1498,10 +1498,10 @@ precinct,office,candidate,votes
 21-Wildhorse,U.S. Senate (Republican),"Ensign, John",246
 21-Wildhorse,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",8
 21-Wildhorse,U.S. Senate (Republican),None Of These Candidates,12
-21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",67
-21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",147
-21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",36
-21-Wildhorse,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",90
+21-Wildhorse,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",67
+21-Wildhorse,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",147
+21-Wildhorse,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",36
+21-Wildhorse,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",90
 22-Saratoga,County Commissioner District 4 (Republican),"MCDERMID, NANCY",153
 22-Saratoga,County Commissioner District 4 (Republican),"MURPHY, JANET",97
 22-Saratoga,Governor (Democratic),"Gibson, James B.",33
@@ -1569,10 +1569,10 @@ precinct,office,candidate,votes
 22-Saratoga,U.S. Senate (Republican),"Ensign, John",266
 22-Saratoga,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
 22-Saratoga,U.S. Senate (Republican),None Of These Candidates,7
-22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
-22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",164
-22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",46
-22-Saratoga,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",85
+22-Saratoga,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
+22-Saratoga,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",164
+22-Saratoga,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",46
+22-Saratoga,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",85
 23-Indian Hills - East,County Commissioner District 4 (Republican),"MCDERMID, NANCY",64
 23-Indian Hills - East,County Commissioner District 4 (Republican),"MURPHY, JANET",47
 23-Indian Hills - East,Governor (Democratic),"Gibson, James B.",17
@@ -1640,10 +1640,10 @@ precinct,office,candidate,votes
 23-Indian Hills - East,U.S. Senate (Republican),"Ensign, John",119
 23-Indian Hills - East,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
 23-Indian Hills - East,U.S. Senate (Republican),None Of These Candidates,7
-23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",22
-23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",106
-23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
-23-Indian Hills - East,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",32
+23-Indian Hills - East,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",22
+23-Indian Hills - East,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",106
+23-Indian Hills - East,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",18
+23-Indian Hills - East,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",32
 24-Topaz Lake,County Commissioner District 4 (Republican),"MCDERMID, NANCY",71
 24-Topaz Lake,County Commissioner District 4 (Republican),"MURPHY, JANET",42
 24-Topaz Lake,Governor (Democratic),"Gibson, James B.",15
@@ -1711,10 +1711,10 @@ precinct,office,candidate,votes
 24-Topaz Lake,U.S. Senate (Republican),"Ensign, John",108
 24-Topaz Lake,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",4
 24-Topaz Lake,U.S. Senate (Republican),None Of These Candidates,14
-24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",36
-24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",70
-24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",15
-24-Topaz Lake,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",28
+24-Topaz Lake,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",36
+24-Topaz Lake,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",70
+24-Topaz Lake,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",15
+24-Topaz Lake,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",28
 25-Pleasantview,County Commissioner District 4 (Republican),"MCDERMID, NANCY",207
 25-Pleasantview,County Commissioner District 4 (Republican),"MURPHY, JANET",134
 25-Pleasantview,Governor (Democratic),"Gibson, James B.",35
@@ -1782,10 +1782,10 @@ precinct,office,candidate,votes
 25-Pleasantview,U.S. Senate (Republican),"Ensign, John",320
 25-Pleasantview,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",27
 25-Pleasantview,U.S. Senate (Republican),None Of These Candidates,17
-25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",100
-25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",191
-25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",51
-25-Pleasantview,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",113
+25-Pleasantview,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",100
+25-Pleasantview,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",191
+25-Pleasantview,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",51
+25-Pleasantview,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",113
 26-Westwood,County Commissioner District 4 (Republican),"MCDERMID, NANCY",85
 26-Westwood,County Commissioner District 4 (Republican),"MURPHY, JANET",62
 26-Westwood,Governor (Democratic),"Gibson, James B.",14
@@ -1856,10 +1856,10 @@ precinct,office,candidate,votes
 26-Westwood,U.S. Senate (Republican),"Ensign, John",150
 26-Westwood,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",6
 26-Westwood,U.S. Senate (Republican),None Of These Candidates,5
-26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",54
-26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",66
-26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",21
-26-Westwood,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",43
+26-Westwood,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",54
+26-Westwood,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",66
+26-Westwood,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",21
+26-Westwood,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",43
 27-Winhaven,County Commissioner District 4 (Republican),"MCDERMID, NANCY",141
 27-Winhaven,County Commissioner District 4 (Republican),"MURPHY, JANET",85
 27-Winhaven,Governor (Democratic),"Gibson, James B.",26
@@ -1930,10 +1930,10 @@ precinct,office,candidate,votes
 27-Winhaven,U.S. Senate (Republican),"Ensign, John",228
 27-Winhaven,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",11
 27-Winhaven,U.S. Senate (Republican),None Of These Candidates,9
-27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",51
-27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",140
-27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",25
-27-Winhaven,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",60
+27-Winhaven,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",51
+27-Winhaven,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",140
+27-Winhaven,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",25
+27-Winhaven,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",60
 28-Orchard Road,County Commissioner District 4 (Republican),"MCDERMID, NANCY",64
 28-Orchard Road,County Commissioner District 4 (Republican),"MURPHY, JANET",33
 28-Orchard Road,Governor (Democratic),"Gibson, James B.",3
@@ -2001,10 +2001,10 @@ precinct,office,candidate,votes
 28-Orchard Road,U.S. Senate (Republican),"Ensign, John",93
 28-Orchard Road,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
 28-Orchard Road,U.S. Senate (Republican),None Of These Candidates,6
-28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",37
-28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",34
-28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",11
-28-Orchard Road,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",17
+28-Orchard Road,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",37
+28-Orchard Road,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",34
+28-Orchard Road,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",11
+28-Orchard Road,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",17
 29-Autumn Hils,County Commissioner District 4 (Republican),"MCDERMID, NANCY",114
 29-Autumn Hils,County Commissioner District 4 (Republican),"MURPHY, JANET",64
 29-Autumn Hils,Governor (Democratic),"Gibson, James B.",8
@@ -2072,10 +2072,10 @@ precinct,office,candidate,votes
 29-Autumn Hils,U.S. Senate (Republican),"Ensign, John",170
 29-Autumn Hils,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
 29-Autumn Hils,U.S. Senate (Republican),None Of These Candidates,12
-29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",71
-29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",84
-29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",13
-29-Autumn Hils,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",37
+29-Autumn Hils,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",71
+29-Autumn Hils,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",84
+29-Autumn Hils,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",13
+29-Autumn Hils,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",37
 30-East Fork,County Commissioner District 4 (Republican),"MCDERMID, NANCY",0
 30-East Fork,County Commissioner District 4 (Republican),"MURPHY, JANET",0
 30-East Fork,Governor (Democratic),"Gibson, James B.",0
@@ -2143,10 +2143,10 @@ precinct,office,candidate,votes
 30-East Fork,U.S. Senate (Republican),"Ensign, John",0
 30-East Fork,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",0
 30-East Fork,U.S. Senate (Republican),None Of These Candidates,0
-30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",0
-30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
-30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",0
-30-East Fork,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",0
+30-East Fork,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",0
+30-East Fork,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",0
+30-East Fork,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",0
+30-East Fork,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",0
 31-Chichester,County Commissioner District 4 (Republican),"MCDERMID, NANCY",51
 31-Chichester,County Commissioner District 4 (Republican),"MURPHY, JANET",64
 31-Chichester,Governor (Democratic),"Gibson, James B.",14
@@ -2217,10 +2217,10 @@ precinct,office,candidate,votes
 31-Chichester,U.S. Senate (Republican),"Ensign, John",108
 31-Chichester,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
 31-Chichester,U.S. Senate (Republican),None Of These Candidates,9
-31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",17
-31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",74
-31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",19
-31-Chichester,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",32
+31-Chichester,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",17
+31-Chichester,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",74
+31-Chichester,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",19
+31-Chichester,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",32
 32-East Valley,County Commissioner District 4 (Republican),"MCDERMID, NANCY",57
 32-East Valley,County Commissioner District 4 (Republican),"MURPHY, JANET",40
 32-East Valley,Governor (Democratic),"Gibson, James B.",9
@@ -2288,10 +2288,10 @@ precinct,office,candidate,votes
 32-East Valley,U.S. Senate (Republican),"Ensign, John",88
 32-East Valley,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
 32-East Valley,U.S. Senate (Republican),None Of These Candidates,12
-32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",23
-32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",55
-32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",20
-32-East Valley,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",21
+32-East Valley,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",23
+32-East Valley,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",55
+32-East Valley,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",20
+32-East Valley,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",21
 33-Hot Springs,County Commissioner District 4 (Republican),"MCDERMID, NANCY",69
 33-Hot Springs,County Commissioner District 4 (Republican),"MURPHY, JANET",46
 33-Hot Springs,Governor (Democratic),"Gibson, James B.",15
@@ -2359,10 +2359,10 @@ precinct,office,candidate,votes
 33-Hot Springs,U.S. Senate (Republican),"Ensign, John",117
 33-Hot Springs,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",9
 33-Hot Springs,U.S. Senate (Republican),None Of These Candidates,8
-33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",25
-33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",90
-33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",19
-33-Hot Springs,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",38
+33-Hot Springs,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",25
+33-Hot Springs,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",90
+33-Hot Springs,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",19
+33-Hot Springs,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",38
 34-Sunridge,County Commissioner District 4 (Republican),"MCDERMID, NANCY",37
 34-Sunridge,County Commissioner District 4 (Republican),"MURPHY, JANET",49
 34-Sunridge,Governor (Democratic),"Gibson, James B.",9
@@ -2430,10 +2430,10 @@ precinct,office,candidate,votes
 34-Sunridge,U.S. Senate (Republican),"Ensign, John",84
 34-Sunridge,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
 34-Sunridge,U.S. Senate (Republican),None Of These Candidates,8
-34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",9
-34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",64
-34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",17
-34-Sunridge,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",25
+34-Sunridge,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",9
+34-Sunridge,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",64
+34-Sunridge,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",17
+34-Sunridge,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",25
 35-Glenbrook,County Commissioner District 4 (Republican),"MCDERMID, NANCY",62
 35-Glenbrook,County Commissioner District 4 (Republican),"MURPHY, JANET",50
 35-Glenbrook,Governor (Democratic),"Gibson, James B.",11
@@ -2502,10 +2502,10 @@ precinct,office,candidate,votes
 35-Glenbrook,U.S. Senate (Republican),"Ensign, John",105
 35-Glenbrook,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",10
 35-Glenbrook,U.S. Senate (Republican),None Of These Candidates,3
-35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",55
-35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",42
-35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
-35-Glenbrook,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",14
+35-Glenbrook,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",55
+35-Glenbrook,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",42
+35-Glenbrook,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",18
+35-Glenbrook,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",14
 36-Skyland,County Commissioner District 4 (Republican),"MCDERMID, NANCY",79
 36-Skyland,County Commissioner District 4 (Republican),"MURPHY, JANET",67
 36-Skyland,Governor (Democratic),"Gibson, James B.",11
@@ -2574,10 +2574,10 @@ precinct,office,candidate,votes
 36-Skyland,U.S. Senate (Republican),"Ensign, John",149
 36-Skyland,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
 36-Skyland,U.S. Senate (Republican),None Of These Candidates,6
-36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",48
-36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",60
-36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",13
-36-Skyland,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",40
+36-Skyland,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",48
+36-Skyland,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",60
+36-Skyland,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",13
+36-Skyland,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",40
 37-Zephyr Cove,County Commissioner District 4 (Republican),"MCDERMID, NANCY",38
 37-Zephyr Cove,County Commissioner District 4 (Republican),"MURPHY, JANET",57
 37-Zephyr Cove,Governor (Democratic),"Gibson, James B.",6
@@ -2646,10 +2646,10 @@ precinct,office,candidate,votes
 37-Zephyr Cove,U.S. Senate (Republican),"Ensign, John",94
 37-Zephyr Cove,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",3
 37-Zephyr Cove,U.S. Senate (Republican),None Of These Candidates,2
-37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",35
-37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",36
-37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",16
-37-Zephyr Cove,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",26
+37-Zephyr Cove,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",35
+37-Zephyr Cove,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",36
+37-Zephyr Cove,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",16
+37-Zephyr Cove,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",26
 38-Round Hill,County Commissioner District 4 (Republican),"MCDERMID, NANCY",57
 38-Round Hill,County Commissioner District 4 (Republican),"MURPHY, JANET",62
 38-Round Hill,Governor (Democratic),"Gibson, James B.",10
@@ -2718,10 +2718,10 @@ precinct,office,candidate,votes
 38-Round Hill,U.S. Senate (Republican),"Ensign, John",110
 38-Round Hill,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",5
 38-Round Hill,U.S. Senate (Republican),None Of These Candidates,5
-38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
-38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",59
-38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
-38-Round Hill,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",39
+38-Round Hill,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",53
+38-Round Hill,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",59
+38-Round Hill,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",18
+38-Round Hill,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",39
 39-Edgewood,County Commissioner District 4 (Republican),"MCDERMID, NANCY",15
 39-Edgewood,County Commissioner District 4 (Republican),"MURPHY, JANET",14
 39-Edgewood,Governor (Democratic),"Gibson, James B.",6
@@ -2790,10 +2790,10 @@ precinct,office,candidate,votes
 39-Edgewood,U.S. Senate (Republican),"Ensign, John",30
 39-Edgewood,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",1
 39-Edgewood,U.S. Senate (Republican),None Of These Candidates,1
-39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",8
-39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",8
-39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",8
-39-Edgewood,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",18
+39-Edgewood,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",8
+39-Edgewood,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",8
+39-Edgewood,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",8
+39-Edgewood,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",18
 40-Kingsbury,County Commissioner District 4 (Republican),"MCDERMID, NANCY",89
 40-Kingsbury,County Commissioner District 4 (Republican),"MURPHY, JANET",74
 40-Kingsbury,Governor (Democratic),"Gibson, James B.",23
@@ -2862,10 +2862,10 @@ precinct,office,candidate,votes
 40-Kingsbury,U.S. Senate (Republican),"Ensign, John",153
 40-Kingsbury,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",15
 40-Kingsbury,U.S. Senate (Republican),None Of These Candidates,7
-40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",47
-40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",73
-40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",26
-40-Kingsbury,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",63
+40-Kingsbury,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",47
+40-Kingsbury,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",73
+40-Kingsbury,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",26
+40-Kingsbury,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",63
 41-Daggett,County Commissioner District 4 (Republican),"MCDERMID, NANCY",48
 41-Daggett,County Commissioner District 4 (Republican),"MURPHY, JANET",25
 41-Daggett,Governor (Democratic),"Gibson, James B.",16
@@ -2934,10 +2934,10 @@ precinct,office,candidate,votes
 41-Daggett,U.S. Senate (Republican),"Ensign, John",71
 41-Daggett,U.S. Senate (Republican),"Hamilton, Edward ""Fast Eddie""",2
 41-Daggett,U.S. Senate (Republican),None Of These Candidates,7
-41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","FULSTONE, II, DAVID H.",25
-41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",22
-41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","LANCASTER, TED S.",18
-41-Daggett,"University Board of Regents, District  9 (Nonpartisan)","MOORE, LIZ",48
+41-Daggett,"University Board of Regents, District 9 (Nonpartisan)","FULSTONE, II, DAVID H.",25
+41-Daggett,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",22
+41-Daggett,"University Board of Regents, District 9 (Nonpartisan)","LANCASTER, TED S.",18
+41-Daggett,"University Board of Regents, District 9 (Nonpartisan)","MOORE, LIZ",48
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","ANGLE, SHARRON E.",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gibbons, Dawn",0
 Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Gilster, Richard",0

@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
 Precinct 101,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",248
 Precinct 101,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",252
-Precinct 101,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",252
-Precinct 101,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",245
+Precinct 101,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",252
+Precinct 101,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",245
 Precinct 101,Governor (Democratic),"Chang, Charles ""Charlie""",7
 Precinct 101,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 101,Governor (Democratic),"Frye, Stephen H.",8
@@ -45,8 +45,8 @@ Precinct 101,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 101,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",33
 Precinct 103,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",397
 Precinct 103,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",395
-Precinct 103,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",385
-Precinct 103,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",384
+Precinct 103,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",385
+Precinct 103,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",384
 Precinct 103,Governor (Democratic),"Chang, Charles ""Charlie""",7
 Precinct 103,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 103,Governor (Democratic),"Frye, Stephen H.",11
@@ -89,8 +89,8 @@ Precinct 103,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 103,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",42
 Precinct 105,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",455
 Precinct 105,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",451
-Precinct 105,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",463
-Precinct 105,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",454
+Precinct 105,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",463
+Precinct 105,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",454
 Precinct 105,Governor (Democratic),"Chang, Charles ""Charlie""",3
 Precinct 105,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 105,Governor (Democratic),"Frye, Stephen H.",17
@@ -133,8 +133,8 @@ Precinct 105,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 105,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",39
 Precinct 107,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",371
 Precinct 107,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",374
-Precinct 107,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",379
-Precinct 107,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",371
+Precinct 107,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",379
+Precinct 107,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",371
 Precinct 107,Governor (Democratic),"Chang, Charles ""Charlie""",5
 Precinct 107,Governor (Democratic),"Conquest, Frederick L.",3
 Precinct 107,Governor (Democratic),"Frye, Stephen H.",5
@@ -171,8 +171,8 @@ Precinct 109,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 109,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",27
 Precinct 111,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",240
 Precinct 111,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",241
-Precinct 111,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",241
-Precinct 111,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",247
+Precinct 111,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",241
+Precinct 111,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",247
 Precinct 111,Governor (Democratic),"Chang, Charles ""Charlie""",8
 Precinct 111,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 111,Governor (Democratic),"Frye, Stephen H.",14
@@ -215,8 +215,8 @@ Precinct 111,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 111,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",29
 Precinct 113,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",479
 Precinct 113,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",476
-Precinct 113,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",483
-Precinct 113,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",487
+Precinct 113,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",483
+Precinct 113,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",487
 Precinct 113,Governor (Democratic),"Chang, Charles ""Charlie""",6
 Precinct 113,Governor (Democratic),"Conquest, Frederick L.",3
 Precinct 113,Governor (Democratic),"Frye, Stephen H.",16
@@ -259,8 +259,8 @@ Precinct 113,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 113,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",41
 Precinct 201,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",220
 Precinct 201,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",219
-Precinct 201,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",213
-Precinct 201,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",214
+Precinct 201,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",213
+Precinct 201,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",214
 Precinct 201,Governor (Democratic),"Chang, Charles ""Charlie""",7
 Precinct 201,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 201,Governor (Democratic),"Frye, Stephen H.",8
@@ -303,8 +303,8 @@ Precinct 201,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 201,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",26
 Precinct 203,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",299
 Precinct 203,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",298
-Precinct 203,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",304
-Precinct 203,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",303
+Precinct 203,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",304
+Precinct 203,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",303
 Precinct 203,Governor (Democratic),"Chang, Charles ""Charlie""",4
 Precinct 203,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 203,Governor (Democratic),"Frye, Stephen H.",18
@@ -347,8 +347,8 @@ Precinct 203,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 203,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",40
 Precinct 205,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",318
 Precinct 205,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",315
-Precinct 205,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",320
-Precinct 205,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",323
+Precinct 205,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",320
+Precinct 205,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",323
 Precinct 205,Governor (Democratic),"Chang, Charles ""Charlie""",8
 Precinct 205,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 205,Governor (Democratic),"Frye, Stephen H.",9
@@ -391,8 +391,8 @@ Precinct 205,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 205,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",33
 Precinct 207,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",330
 Precinct 207,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",319
-Precinct 207,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",324
-Precinct 207,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",329
+Precinct 207,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",324
+Precinct 207,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",329
 Precinct 207,Governor (Democratic),"Chang, Charles ""Charlie""",11
 Precinct 207,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 207,Governor (Democratic),"Frye, Stephen H.",16
@@ -435,8 +435,8 @@ Precinct 207,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 207,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",44
 Precinct 209,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",198
 Precinct 209,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",187
-Precinct 209,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",190
-Precinct 209,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",195
+Precinct 209,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",190
+Precinct 209,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",195
 Precinct 209,Governor (Democratic),"Chang, Charles ""Charlie""",10
 Precinct 209,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 209,Governor (Democratic),"Frye, Stephen H.",8
@@ -479,8 +479,8 @@ Precinct 209,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 209,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",21
 Precinct 211,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",248
 Precinct 211,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",248
-Precinct 211,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",250
-Precinct 211,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",250
+Precinct 211,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",250
+Precinct 211,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",250
 Precinct 211,Governor (Democratic),"Chang, Charles ""Charlie""",1
 Precinct 211,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 211,Governor (Democratic),"Frye, Stephen H.",4
@@ -517,8 +517,8 @@ Precinct 301,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 301,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",18
 Precinct 303,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",260
 Precinct 303,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",258
-Precinct 303,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",255
-Precinct 303,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",266
+Precinct 303,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",255
+Precinct 303,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",266
 Precinct 303,Governor (Democratic),"Chang, Charles ""Charlie""",11
 Precinct 303,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 303,Governor (Democratic),"Frye, Stephen H.",10
@@ -555,8 +555,8 @@ Precinct 305,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 305,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",34
 Precinct 307,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",337
 Precinct 307,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",339
-Precinct 307,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",343
-Precinct 307,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",342
+Precinct 307,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",343
+Precinct 307,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",342
 Precinct 307,Governor (Democratic),"Chang, Charles ""Charlie""",9
 Precinct 307,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 307,Governor (Democratic),"Frye, Stephen H.",8
@@ -599,8 +599,8 @@ Precinct 307,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 307,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",41
 Precinct 309,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",464
 Precinct 309,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",469
-Precinct 309,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",465
-Precinct 309,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",470
+Precinct 309,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",465
+Precinct 309,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",470
 Precinct 309,Governor (Democratic),"Chang, Charles ""Charlie""",9
 Precinct 309,Governor (Democratic),"Conquest, Frederick L.",4
 Precinct 309,Governor (Democratic),"Frye, Stephen H.",15
@@ -643,8 +643,8 @@ Precinct 309,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 309,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",44
 Precinct 401,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",235
 Precinct 401,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",230
-Precinct 401,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",231
-Precinct 401,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",232
+Precinct 401,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",231
+Precinct 401,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",232
 Precinct 401,Governor (Democratic),"Chang, Charles ""Charlie""",4
 Precinct 401,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 401,Governor (Democratic),"Frye, Stephen H.",10
@@ -687,8 +687,8 @@ Precinct 401,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 401,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",33
 Precinct 403,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",305
 Precinct 403,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",309
-Precinct 403,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",303
-Precinct 403,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",311
+Precinct 403,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",303
+Precinct 403,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",311
 Precinct 403,Governor (Democratic),"Chang, Charles ""Charlie""",8
 Precinct 403,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 403,Governor (Democratic),"Frye, Stephen H.",17
@@ -731,8 +731,8 @@ Precinct 403,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 403,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",39
 Precinct 405,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",298
 Precinct 405,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",295
-Precinct 405,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",299
-Precinct 405,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",293
+Precinct 405,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",299
+Precinct 405,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",293
 Precinct 405,Governor (Democratic),"Chang, Charles ""Charlie""",6
 Precinct 405,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 405,Governor (Democratic),"Frye, Stephen H.",13
@@ -775,8 +775,8 @@ Precinct 405,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 405,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",26
 Precinct 407,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",256
 Precinct 407,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",252
-Precinct 407,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",248
-Precinct 407,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",256
+Precinct 407,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",248
+Precinct 407,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",256
 Precinct 407,Governor (Democratic),"Chang, Charles ""Charlie""",3
 Precinct 407,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 407,Governor (Democratic),"Frye, Stephen H.",5
@@ -819,8 +819,8 @@ Precinct 407,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 407,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",18
 Precinct 409,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",330
 Precinct 409,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",330
-Precinct 409,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",333
-Precinct 409,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",332
+Precinct 409,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",333
+Precinct 409,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",332
 Precinct 409,Governor (Democratic),"Chang, Charles ""Charlie""",6
 Precinct 409,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 409,Governor (Democratic),"Frye, Stephen H.",16
@@ -863,8 +863,8 @@ Precinct 409,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed
 Precinct 409,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",45
 Precinct 411,Assessor - CARSON CITY - NP (Nonpartisan),"DAWLEY, DAVE",289
 Precinct 411,Clerk/Recorder - CARSON CITY - NP (Nonpartisan),"MERRIWETHER, SUE",283
-Precinct 411,"District Court Judge, District 1, Department  1 (Nonpartisan)","RUSSELL, JAMES TODD",288
-Precinct 411,"District Court Judge, District 1, Department  2 (Nonpartisan)","WILSON, JIM",292
+Precinct 411,"District Court Judge, District 1, Department 1 (Nonpartisan)","RUSSELL, JAMES TODD",288
+Precinct 411,"District Court Judge, District 1, Department 2 (Nonpartisan)","WILSON, JIM",292
 Precinct 411,Governor (Democratic),"Chang, Charles ""Charlie""",5
 Precinct 411,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 411,Governor (Democratic),"Frye, Stephen H.",8

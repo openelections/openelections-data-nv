@@ -2,12 +2,12 @@ precinct,office,candidate,votes
 AMARGOSA VLY O6,COUNTY RECORDER (Republican),"FOSTER, BYRON",43
 AMARGOSA VLY O6,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",34
 AMARGOSA VLY O6,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",12
-AMARGOSA VLY O6,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",63
-AMARGOSA VLY O6,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",26
-AMARGOSA VLY O6,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",22
-AMARGOSA VLY O6,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",55
-AMARGOSA VLY O6,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",17
-AMARGOSA VLY O6,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",7
+AMARGOSA VLY O6,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",63
+AMARGOSA VLY O6,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",26
+AMARGOSA VLY O6,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",22
+AMARGOSA VLY O6,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",55
+AMARGOSA VLY O6,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",17
+AMARGOSA VLY O6,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",7
 AMARGOSA VLY O6,Governor (Democratic),"Gibson, James B.",35
 AMARGOSA VLY O6,Governor (Democratic),"McConnell, Leola",6
 AMARGOSA VLY O6,Governor (Democratic),None Of These Candidates,5
@@ -78,12 +78,12 @@ AMARGOSA VLY O6,U.S. Senate (Republican),None Of These Candidates,9
 BEATTY 01,COUNTY RECORDER (Republican),"FOSTER, BYRON",47
 BEATTY 01,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",47
 BEATTY 01,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",18
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",143
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",24
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",24
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",67
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",13
-BEATTY 01,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",4
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",143
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",24
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",24
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",67
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",13
+BEATTY 01,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",4
 BEATTY 01,Governor (Democratic),"Gibson, James B.",36
 BEATTY 01,Governor (Democratic),"McConnell, Leola",4
 BEATTY 01,Governor (Democratic),None Of These Candidates,16
@@ -154,12 +154,12 @@ BEATTY 01,U.S. Senate (Republican),None Of These Candidates,14
 CURRANT 02,COUNTY RECORDER (Republican),"FOSTER, BYRON",6
 CURRANT 02,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",3
 CURRANT 02,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",4
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",10
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",1
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",0
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",12
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
-CURRANT 02,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",3
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",10
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",1
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",0
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",12
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
+CURRANT 02,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",3
 CURRANT 02,Governor (Democratic),"Gibson, James B.",
 CURRANT 02,Governor (Democratic),"McConnell, Leola",
 CURRANT 02,Governor (Democratic),None Of These Candidates,
@@ -227,12 +227,12 @@ CURRANT 02,U.S. Senate (Republican),None Of These Candidates,1
 DUCKWATER 03,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 DUCKWATER 03,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 DUCKWATER 03,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",1
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",2
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",0
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",14
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
-DUCKWATER 03,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",8
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",1
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",2
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",0
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",14
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
+DUCKWATER 03,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",8
 DUCKWATER 03,Governor (Democratic),"Gibson, James B.",10
 DUCKWATER 03,Governor (Democratic),"McConnell, Leola",1
 DUCKWATER 03,Governor (Democratic),None Of These Candidates,1
@@ -300,12 +300,12 @@ DUCKWATER 03,U.S. Senate (Republican),None Of These Candidates,
 FORTY BAR 18,COUNTY RECORDER (Republican),"FOSTER, BYRON",7
 FORTY BAR 18,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",8
 FORTY BAR 18,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",1
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",11
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",4
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",2
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",7
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",6
-FORTY BAR 18,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",1
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",11
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",4
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",2
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",7
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",6
+FORTY BAR 18,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",1
 FORTY BAR 18,Governor (Democratic),"Gibson, James B.",
 FORTY BAR 18,Governor (Democratic),"McConnell, Leola",
 FORTY BAR 18,Governor (Democratic),None Of These Candidates,
@@ -376,12 +376,12 @@ FORTY BAR 18,U.S. Senate (Republican),None Of These Candidates,1
 GABBS 04,COUNTY RECORDER (Republican),"FOSTER, BYRON",21
 GABBS 04,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",11
 GABBS 04,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",4
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",23
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",14
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",9
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",14
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",11
-GABBS 04,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",14
+GABBS 04,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",23
+GABBS 04,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",14
+GABBS 04,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",9
+GABBS 04,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",14
+GABBS 04,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",11
+GABBS 04,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",14
 GABBS 04,Governor (Democratic),"Gibson, James B.",14
 GABBS 04,Governor (Democratic),"McConnell, Leola",4
 GABBS 04,Governor (Democratic),None Of These Candidates,4
@@ -449,12 +449,12 @@ GABBS 04,U.S. Senate (Republican),None Of These Candidates,3
 IONE 05,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 IONE 05,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 IONE 05,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
-IONE 05,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",
+IONE 05,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",
+IONE 05,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",
+IONE 05,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",
+IONE 05,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",
+IONE 05,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
+IONE 05,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",
 IONE 05,Governor (Democratic),"Gibson, James B.",
 IONE 05,Governor (Democratic),"McConnell, Leola",
 IONE 05,Governor (Democratic),None Of These Candidates,
@@ -522,12 +522,12 @@ IONE 05,U.S. Senate (Republican),None Of These Candidates,
 MANHATTAN 07,COUNTY RECORDER (Republican),"FOSTER, BYRON",8
 MANHATTAN 07,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",9
 MANHATTAN 07,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",1
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",16
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",14
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",2
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",5
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",2
-MANHATTAN 07,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",0
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",16
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",14
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",2
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",5
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",2
+MANHATTAN 07,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",0
 MANHATTAN 07,Governor (Democratic),"Gibson, James B.",5
 MANHATTAN 07,Governor (Democratic),"McConnell, Leola",1
 MANHATTAN 07,Governor (Democratic),None Of These Candidates,0
@@ -595,12 +595,12 @@ MANHATTAN 07,U.S. Senate (Republican),None Of These Candidates,3
 MERCURY 08,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 MERCURY 08,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 MERCURY 08,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
-MERCURY 08,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
+MERCURY 08,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",
 MERCURY 08,Governor (Democratic),"Gibson, James B.",0
 MERCURY 08,Governor (Democratic),"McConnell, Leola",0
 MERCURY 08,Governor (Democratic),None Of These Candidates,0
@@ -671,12 +671,12 @@ MERCURY 08,U.S. Senate (Republican),None Of These Candidates,
 PAHRUMP 09,COUNTY RECORDER (Republican),"FOSTER, BYRON",73
 PAHRUMP 09,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",67
 PAHRUMP 09,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",68
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",194
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",70
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",79
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",73
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",32
-PAHRUMP 09,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",11
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",194
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",70
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",79
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",73
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",32
+PAHRUMP 09,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",11
 PAHRUMP 09,Governor (Democratic),"Gibson, James B.",63
 PAHRUMP 09,Governor (Democratic),"McConnell, Leola",3
 PAHRUMP 09,Governor (Democratic),None Of These Candidates,11
@@ -757,12 +757,12 @@ PAHRUMP 10,County Commissioner District IV (Republican),"MAHER, MICHAEL W.",56
 PAHRUMP 10,COUNTY RECORDER (Republican),"FOSTER, BYRON",83
 PAHRUMP 10,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",84
 PAHRUMP 10,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",56
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",196
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",78
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",72
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",93
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",50
-PAHRUMP 10,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",6
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",196
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",78
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",72
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",93
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",50
+PAHRUMP 10,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",6
 PAHRUMP 10,Governor (Democratic),"Gibson, James B.",70
 PAHRUMP 10,Governor (Democratic),"McConnell, Leola",15
 PAHRUMP 10,Governor (Democratic),None Of These Candidates,12
@@ -840,12 +840,12 @@ PAHRUMP 11,County Commissioner District IV (Republican),"MAHER, MICHAEL W.",28
 PAHRUMP 11,COUNTY RECORDER (Republican),"FOSTER, BYRON",47
 PAHRUMP 11,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",54
 PAHRUMP 11,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",39
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",123
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",59
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",40
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",51
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",18
-PAHRUMP 11,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",5
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",123
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",59
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",40
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",51
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",18
+PAHRUMP 11,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",5
 PAHRUMP 11,Governor (Democratic),"Gibson, James B.",37
 PAHRUMP 11,Governor (Democratic),"McConnell, Leola",6
 PAHRUMP 11,Governor (Democratic),None Of These Candidates,12
@@ -918,12 +918,12 @@ PAHRUMP 11,U.S. Senate (Republican),None Of These Candidates,8
 PAHRUMP 19,COUNTY RECORDER (Republican),"FOSTER, BYRON",59
 PAHRUMP 19,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",81
 PAHRUMP 19,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",49
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",164
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",51
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",45
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",65
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",24
-PAHRUMP 19,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",6
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",164
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",51
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",45
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",65
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",24
+PAHRUMP 19,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",6
 PAHRUMP 19,Governor (Democratic),"Gibson, James B.",47
 PAHRUMP 19,Governor (Democratic),"McConnell, Leola",4
 PAHRUMP 19,Governor (Democratic),None Of These Candidates,6
@@ -998,12 +998,12 @@ PAHRUMP 20,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",3
 PAHRUMP 20,COUNTY RECORDER (Republican),"FOSTER, BYRON",26
 PAHRUMP 20,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",35
 PAHRUMP 20,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",18
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",74
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",30
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",26
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",20
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",21
-PAHRUMP 20,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",5
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",74
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",30
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",26
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",20
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",21
+PAHRUMP 20,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",5
 PAHRUMP 20,Governor (Democratic),"Gibson, James B.",25
 PAHRUMP 20,Governor (Democratic),"McConnell, Leola",2
 PAHRUMP 20,Governor (Democratic),None Of These Candidates,4
@@ -1077,12 +1077,12 @@ PAHRUMP 20,U.S. Senate (Republican),None Of These Candidates,7
 PAHRUMP 21,COUNTY RECORDER (Republican),"FOSTER, BYRON",61
 PAHRUMP 21,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",51
 PAHRUMP 21,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",50
-PAHRUMP 21,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",175
-PAHRUMP 21,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",70
-PAHRUMP 21,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",61
-PAHRUMP 21,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",58
-PAHRUMP 21,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",53
-PAHRUMP 21,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",6
+PAHRUMP 21,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",175
+PAHRUMP 21,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",70
+PAHRUMP 21,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",61
+PAHRUMP 21,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",58
+PAHRUMP 21,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",53
+PAHRUMP 21,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",6
 PAHRUMP 21,Governor (Democratic),"Gibson, James B.",62
 PAHRUMP 21,Governor (Democratic),"McConnell, Leola",23
 PAHRUMP 21,Governor (Democratic),None Of These Candidates,17
@@ -1157,12 +1157,12 @@ PAHRUMP 22,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",1
 PAHRUMP 22,COUNTY RECORDER (Republican),"FOSTER, BYRON",60
 PAHRUMP 22,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",81
 PAHRUMP 22,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",74
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",201
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",66
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",78
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",83
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",47
-PAHRUMP 22,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",7
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",201
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",66
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",78
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",83
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",47
+PAHRUMP 22,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",7
 PAHRUMP 22,Governor (Democratic),"Gibson, James B.",65
 PAHRUMP 22,Governor (Democratic),"McConnell, Leola",10
 PAHRUMP 22,Governor (Democratic),None Of These Candidates,12
@@ -1236,12 +1236,12 @@ PAHRUMP 22,U.S. Senate (Republican),None Of These Candidates,16
 PAHRUMP 23,COUNTY RECORDER (Republican),"FOSTER, BYRON",34
 PAHRUMP 23,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",33
 PAHRUMP 23,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",40
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",72
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",39
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",43
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",49
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",15
-PAHRUMP 23,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",2
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",72
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",39
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",43
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",49
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",15
+PAHRUMP 23,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",2
 PAHRUMP 23,Governor (Democratic),"Gibson, James B.",19
 PAHRUMP 23,Governor (Democratic),"McConnell, Leola",4
 PAHRUMP 23,Governor (Democratic),None Of These Candidates,3
@@ -1317,12 +1317,12 @@ PAHRUMP 24,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",7
 PAHRUMP 24,COUNTY RECORDER (Republican),"FOSTER, BYRON",57
 PAHRUMP 24,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",31
 PAHRUMP 24,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",35
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",104
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",82
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",42
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",51
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",20
-PAHRUMP 24,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",6
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",104
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",82
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",42
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",51
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",20
+PAHRUMP 24,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",6
 PAHRUMP 24,Governor (Democratic),"Gibson, James B.",48
 PAHRUMP 24,Governor (Democratic),"McConnell, Leola",5
 PAHRUMP 24,Governor (Democratic),None Of These Candidates,7
@@ -1349,9 +1349,9 @@ PAHRUMP 24,Lieutenant Governor (Republican),"Kao, George",7
 PAHRUMP 24,Lieutenant Governor (Republican),"Krolicki, Brian",32
 PAHRUMP 24,Lieutenant Governor (Republican),"Moncrief, Janet",10
 PAHRUMP 24,Lieutenant Governor (Republican),None Of These Candidates,12
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",58
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",37
-PAHRUMP 25,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",5
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",58
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",37
+PAHRUMP 25,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",5
 PAHRUMP 25,Governor (Democratic),"Gibson, James B.",51
 PAHRUMP 25,Governor (Democratic),"McConnell, Leola",1
 PAHRUMP 25,Governor (Democratic),None Of These Candidates,8
@@ -1424,12 +1424,12 @@ PAHRUMP 25,U.S. Senate (Republican),None Of These Candidates,14
 PAHRUMP 26,COUNTY RECORDER (Republican),"FOSTER, BYRON",46
 PAHRUMP 26,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",56
 PAHRUMP 26,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",48
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",114
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",90
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",53
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",43
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",35
-PAHRUMP 26,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",5
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",114
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",90
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",53
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",43
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",35
+PAHRUMP 26,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",5
 PAHRUMP 26,Governor (Democratic),"Gibson, James B.",32
 PAHRUMP 26,Governor (Democratic),"McConnell, Leola",8
 PAHRUMP 26,Governor (Democratic),None Of These Candidates,15
@@ -1541,12 +1541,12 @@ PAHRUMP 28,County Commissioner District IV (Republican),"MAHER, MICHAEL W.",24
 PAHRUMP 28,COUNTY RECORDER (Republican),"FOSTER, BYRON",80
 PAHRUMP 28,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",94
 PAHRUMP 28,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",65
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",214
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",92
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",61
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",78
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",30
-PAHRUMP 28,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",4
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",214
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",92
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",61
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",78
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",30
+PAHRUMP 28,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",4
 PAHRUMP 28,Governor (Democratic),"Gibson, James B.",66
 PAHRUMP 28,Governor (Democratic),"McConnell, Leola",2
 PAHRUMP 28,Governor (Democratic),None Of These Candidates,21
@@ -1624,12 +1624,12 @@ PAHRUMP 29,County Commissioner District IV (Republican),"MAHER, MICHAEL W.",22
 PAHRUMP 29,COUNTY RECORDER (Republican),"FOSTER, BYRON",76
 PAHRUMP 29,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",45
 PAHRUMP 29,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",45
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",182
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",47
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",45
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",72
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
-PAHRUMP 29,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",9
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",182
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",47
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",45
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",72
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",28
+PAHRUMP 29,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",9
 PAHRUMP 29,Governor (Democratic),"Gibson, James B.",55
 PAHRUMP 29,Governor (Democratic),"McConnell, Leola",5
 PAHRUMP 29,Governor (Democratic),None Of These Candidates,10
@@ -1704,12 +1704,12 @@ PAHRUMP 30,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",9
 PAHRUMP 30,COUNTY RECORDER (Republican),"FOSTER, BYRON",73
 PAHRUMP 30,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",51
 PAHRUMP 30,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",51
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",156
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",63
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",57
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",51
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",25
-PAHRUMP 30,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",10
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",156
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",63
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",57
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",51
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",25
+PAHRUMP 30,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",10
 PAHRUMP 30,Governor (Democratic),"Gibson, James B.",34
 PAHRUMP 30,Governor (Democratic),"McConnell, Leola",7
 PAHRUMP 30,Governor (Democratic),None Of These Candidates,8
@@ -1784,12 +1784,12 @@ PAHRUMP 31,County Commissioner District V (Republican),"LIAKOPOULOS, PETER G.",1
 PAHRUMP 31,COUNTY RECORDER (Republican),"FOSTER, BYRON",59
 PAHRUMP 31,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",69
 PAHRUMP 31,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",44
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",146
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",62
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",45
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",58
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",16
-PAHRUMP 31,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",9
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",146
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",62
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",45
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",58
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",16
+PAHRUMP 31,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",9
 PAHRUMP 31,Governor (Democratic),"Gibson, James B.",30
 PAHRUMP 31,Governor (Democratic),"McConnell, Leola",7
 PAHRUMP 31,Governor (Democratic),None Of These Candidates,10
@@ -1862,12 +1862,12 @@ PAHRUMP 31,U.S. Senate (Republican),None Of These Candidates,13
 PAHRUMP 32,COUNTY RECORDER (Republican),"FOSTER, BYRON",73
 PAHRUMP 32,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",69
 PAHRUMP 32,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",64
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",195
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",79
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",62
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",69
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",35
-PAHRUMP 32,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",15
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",195
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",79
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",62
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",69
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",35
+PAHRUMP 32,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",15
 PAHRUMP 32,Governor (Democratic),"Gibson, James B.",61
 PAHRUMP 32,Governor (Democratic),"McConnell, Leola",10
 PAHRUMP 32,Governor (Democratic),None Of These Candidates,13
@@ -1952,12 +1952,12 @@ Precinct 99,U.S. Senate (Republican),None Of These Candidates,0
 ROUND MTN 12,COUNTY RECORDER (Republican),"FOSTER, BYRON",9
 ROUND MTN 12,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",14
 ROUND MTN 12,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",10
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",9
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",4
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",0
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",43
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
-ROUND MTN 12,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",3
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",9
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",4
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",0
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",43
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
+ROUND MTN 12,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",3
 ROUND MTN 12,Governor (Democratic),"Gibson, James B.",6
 ROUND MTN 12,Governor (Democratic),"McConnell, Leola",0
 ROUND MTN 12,Governor (Democratic),None Of These Candidates,1
@@ -2025,12 +2025,12 @@ ROUND MTN 12,U.S. Senate (Republican),None Of These Candidates,2
 Smoky Valley 35,COUNTY RECORDER (Republican),"FOSTER, BYRON",20
 Smoky Valley 35,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",11
 Smoky Valley 35,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",3
-Smoky Valley 35,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",18
-Smoky Valley 35,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",4
-Smoky Valley 35,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",3
-Smoky Valley 35,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",31
-Smoky Valley 35,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
-Smoky Valley 35,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",1
+Smoky Valley 35,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",18
+Smoky Valley 35,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",4
+Smoky Valley 35,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",3
+Smoky Valley 35,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",31
+Smoky Valley 35,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",1
+Smoky Valley 35,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",1
 Smoky Valley 35,Governor (Democratic),"Gibson, James B.",5
 Smoky Valley 35,Governor (Democratic),"McConnell, Leola",1
 Smoky Valley 35,Governor (Democratic),None Of These Candidates,3
@@ -2098,12 +2098,12 @@ Smoky Valley 35,U.S. Senate (Republican),None Of These Candidates,3
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"FOSTER, BYRON",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",
 SUNNYSIDE 13,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
-SUNNYSIDE 13,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",
+SUNNYSIDE 13,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",
 SUNNYSIDE 13,Governor (Democratic),"Gibson, James B.",
 SUNNYSIDE 13,Governor (Democratic),"McConnell, Leola",
 SUNNYSIDE 13,Governor (Democratic),None Of These Candidates,
@@ -2171,12 +2171,12 @@ SUNNYSIDE 13,U.S. Senate (Republican),None Of These Candidates,
 TONOPAH 14,COUNTY RECORDER (Republican),"FOSTER, BYRON",36
 TONOPAH 14,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",30
 TONOPAH 14,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",12
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",20
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",12
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",15
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",101
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",3
-TONOPAH 14,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",8
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",20
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",12
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",15
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",101
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",3
+TONOPAH 14,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",8
 TONOPAH 14,Governor (Democratic),"Gibson, James B.",29
 TONOPAH 14,Governor (Democratic),"McConnell, Leola",2
 TONOPAH 14,Governor (Democratic),None Of These Candidates,5
@@ -2244,12 +2244,12 @@ TONOPAH 14,U.S. Senate (Republican),None Of These Candidates,9
 TONOPAH 15,COUNTY RECORDER (Republican),"FOSTER, BYRON",20
 TONOPAH 15,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",12
 TONOPAH 15,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",6
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",13
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",7
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",7
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",61
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",5
-TONOPAH 15,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",3
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",13
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",7
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",7
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",61
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",5
+TONOPAH 15,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",3
 TONOPAH 15,Governor (Democratic),"Gibson, James B.",15
 TONOPAH 15,Governor (Democratic),"McConnell, Leola",3
 TONOPAH 15,Governor (Democratic),None Of These Candidates,7
@@ -2317,12 +2317,12 @@ TONOPAH 15,U.S. Senate (Republican),None Of These Candidates,1
 TONOPAH 16,COUNTY RECORDER (Republican),"FOSTER, BYRON",15
 TONOPAH 16,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",16
 TONOPAH 16,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",7
-TONOPAH 16,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",11
-TONOPAH 16,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",11
-TONOPAH 16,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",5
-TONOPAH 16,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",55
-TONOPAH 16,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",2
-TONOPAH 16,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",3
+TONOPAH 16,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",11
+TONOPAH 16,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",11
+TONOPAH 16,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",5
+TONOPAH 16,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",55
+TONOPAH 16,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",2
+TONOPAH 16,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",3
 TONOPAH 16,Governor (Democratic),"Gibson, James B.",14
 TONOPAH 16,Governor (Democratic),"McConnell, Leola",2
 TONOPAH 16,Governor (Democratic),None Of These Candidates,0
@@ -2390,12 +2390,12 @@ TONOPAH 16,U.S. Senate (Republican),None Of These Candidates,2
 TONOPAH 17,COUNTY RECORDER (Republican),"FOSTER, BYRON",26
 TONOPAH 17,COUNTY RECORDER (Republican),"SCHELLER, JEANETTE M.",20
 TONOPAH 17,COUNTY RECORDER (Republican),"WALKER, EU ""GENIE""",15
-TONOPAH 17,County Sheriff - NYE  (Nonpartisan),"DEMEO, TONY",28
-TONOPAH 17,County Sheriff - NYE  (Nonpartisan),"HOLMES, TED",16
-TONOPAH 17,County Sheriff - NYE  (Nonpartisan),"JACKSON, MEL",13
-TONOPAH 17,County Sheriff - NYE  (Nonpartisan),"LIESEKE, JR., WADE A.",105
-TONOPAH 17,County Sheriff - NYE  (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",5
-TONOPAH 17,County Sheriff - NYE  (Nonpartisan),"SMITH, JEANETTE",0
+TONOPAH 17,County Sheriff - NYE (Nonpartisan),"DEMEO, TONY",28
+TONOPAH 17,County Sheriff - NYE (Nonpartisan),"HOLMES, TED",16
+TONOPAH 17,County Sheriff - NYE (Nonpartisan),"JACKSON, MEL",13
+TONOPAH 17,County Sheriff - NYE (Nonpartisan),"LIESEKE, JR., WADE A.",105
+TONOPAH 17,County Sheriff - NYE (Nonpartisan),"MIELZYNSKI, RAY ""THE FLAGMAN""",5
+TONOPAH 17,County Sheriff - NYE (Nonpartisan),"SMITH, JEANETTE",0
 TONOPAH 17,Governor (Democratic),"Gibson, James B.",43
 TONOPAH 17,Governor (Democratic),"McConnell, Leola",3
 TONOPAH 17,Governor (Democratic),None Of These Candidates,11

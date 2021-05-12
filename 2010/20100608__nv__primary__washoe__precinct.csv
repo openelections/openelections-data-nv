@@ -204,11 +204,11 @@ PROV,U.S. Senate (Democratic),"Miller, Alex",1
 PROV,U.S. Senate (Democratic),None Of These Candidates,1
 PROV,U.S. Senate (Democratic),"Poliak, Carlo",0
 PROV,U.S. Senate (Democratic),"Reid, Harry",13
-RENO-VERDI  4042 (MP),U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-RENO-VERDI  4042 (MP),U.S. Senate (Democratic),"Miller, Alex",0
-RENO-VERDI  4042 (MP),U.S. Senate (Democratic),None Of These Candidates,0
-RENO-VERDI  4042 (MP),U.S. Senate (Democratic),"Poliak, Carlo",0
-RENO-VERDI  4042 (MP),U.S. Senate (Democratic),"Reid, Harry",0
+RENO-VERDI 4042 (MP),U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+RENO-VERDI 4042 (MP),U.S. Senate (Democratic),"Miller, Alex",0
+RENO-VERDI 4042 (MP),U.S. Senate (Democratic),None Of These Candidates,0
+RENO-VERDI 4042 (MP),U.S. Senate (Democratic),"Poliak, Carlo",0
+RENO-VERDI 4042 (MP),U.S. Senate (Democratic),"Reid, Harry",0
 RENO-VERDI 1000,U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
 RENO-VERDI 1000,U.S. Senate (Democratic),"Miller, Alex",5
 RENO-VERDI 1000,U.S. Senate (Democratic),None Of These Candidates,6
@@ -699,11 +699,11 @@ RENO-VERDI 2052,U.S. Senate (Democratic),"Miller, Alex",2
 RENO-VERDI 2052,U.S. Senate (Democratic),None Of These Candidates,0
 RENO-VERDI 2052,U.S. Senate (Democratic),"Poliak, Carlo",0
 RENO-VERDI 2052,U.S. Senate (Democratic),"Reid, Harry",16
-RENO-VERDI 2053  (MP),U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
-RENO-VERDI 2053  (MP),U.S. Senate (Democratic),"Miller, Alex",0
-RENO-VERDI 2053  (MP),U.S. Senate (Democratic),None Of These Candidates,0
-RENO-VERDI 2053  (MP),U.S. Senate (Democratic),"Poliak, Carlo",0
-RENO-VERDI 2053  (MP),U.S. Senate (Democratic),"Reid, Harry",0
+RENO-VERDI 2053 (MP),U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
+RENO-VERDI 2053 (MP),U.S. Senate (Democratic),"Miller, Alex",0
+RENO-VERDI 2053 (MP),U.S. Senate (Democratic),None Of These Candidates,0
+RENO-VERDI 2053 (MP),U.S. Senate (Democratic),"Poliak, Carlo",0
+RENO-VERDI 2053 (MP),U.S. Senate (Democratic),"Reid, Harry",0
 RENO-VERDI 2054 (MP),U.S. Senate (Democratic),"Hamilton, Eduardo ""Mr. Clean""",0
 RENO-VERDI 2054 (MP),U.S. Senate (Democratic),"Miller, Alex",0
 RENO-VERDI 2054 (MP),U.S. Senate (Democratic),None Of These Candidates,0
@@ -3802,19 +3802,19 @@ PROV,U.S. Senate (Republican),"Parson, Bill",1
 PROV,U.S. Senate (Republican),"Stern, Cecilia",0
 PROV,U.S. Senate (Republican),"Suominen, Terry",0
 PROV,U.S. Senate (Republican),"Tarkanian, Danny",7
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Angle, Sharron",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Bernstein, Gary",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Chachas, John",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Christensen, Chad",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Lowden, Sue",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Mabey, Garn",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Marinch, Gary",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Nadell, Brian",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),None Of These Candidates,0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Parson, Bill",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Stern, Cecilia",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Suominen, Terry",0
-RENO-VERDI  4042 (MP),U.S. Senate (Republican),"Tarkanian, Danny",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Angle, Sharron",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Bernstein, Gary",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Chachas, John",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Christensen, Chad",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Lowden, Sue",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Mabey, Garn",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Marinch, Gary",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Nadell, Brian",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),None Of These Candidates,0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Parson, Bill",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Stern, Cecilia",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Suominen, Terry",0
+RENO-VERDI 4042 (MP),U.S. Senate (Republican),"Tarkanian, Danny",0
 RENO-VERDI 1000,U.S. Senate (Republican),"Angle, Sharron",42
 RENO-VERDI 1000,U.S. Senate (Republican),"Bernstein, Gary",2
 RENO-VERDI 1000,U.S. Senate (Republican),"Chachas, John",14
@@ -5089,19 +5089,19 @@ RENO-VERDI 2052,U.S. Senate (Republican),"Parson, Bill",0
 RENO-VERDI 2052,U.S. Senate (Republican),"Stern, Cecilia",0
 RENO-VERDI 2052,U.S. Senate (Republican),"Suominen, Terry",0
 RENO-VERDI 2052,U.S. Senate (Republican),"Tarkanian, Danny",3
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Angle, Sharron",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Bernstein, Gary",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Chachas, John",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Christensen, Chad",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Lowden, Sue",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Mabey, Garn",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Marinch, Gary",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Nadell, Brian",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),None Of These Candidates,0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Parson, Bill",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Stern, Cecilia",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Suominen, Terry",0
-RENO-VERDI 2053  (MP),U.S. Senate (Republican),"Tarkanian, Danny",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Angle, Sharron",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Bernstein, Gary",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Chachas, John",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Christensen, Chad",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Lowden, Sue",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Mabey, Garn",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Marinch, Gary",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Nadell, Brian",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),None Of These Candidates,0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Parson, Bill",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Stern, Cecilia",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Suominen, Terry",0
+RENO-VERDI 2053 (MP),U.S. Senate (Republican),"Tarkanian, Danny",0
 RENO-VERDI 2054 (MP),U.S. Senate (Republican),"Angle, Sharron",0
 RENO-VERDI 2054 (MP),U.S. Senate (Republican),"Bernstein, Gary",0
 RENO-VERDI 2054 (MP),U.S. Senate (Republican),"Chachas, John",0
@@ -11824,9 +11824,9 @@ INCLINE VILLAGE 9121(MP),"U.S. Representative in Congress, District 2 (Democrati
 PROV,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",1
 PROV,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",6
 PROV,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",5
-RENO-VERDI  4042 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
-RENO-VERDI  4042 (MP),"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
-RENO-VERDI  4042 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
+RENO-VERDI 4042 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+RENO-VERDI 4042 (MP),"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
+RENO-VERDI 4042 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 RENO-VERDI 1000,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",12
 RENO-VERDI 1000,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",44
 RENO-VERDI 1000,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",36
@@ -12121,9 +12121,9 @@ RENO-VERDI 2051 (MP),"U.S. Representative in Congress, District 2 (Democratic)",
 RENO-VERDI 2052,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",1
 RENO-VERDI 2052,"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",11
 RENO-VERDI 2052,"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",6
-RENO-VERDI 2053  (MP),"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
-RENO-VERDI 2053  (MP),"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
-RENO-VERDI 2053  (MP),"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
+RENO-VERDI 2053 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
+RENO-VERDI 2053 (MP),"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
+RENO-VERDI 2053 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
 RENO-VERDI 2054 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Denis ""Sam""",0
 RENO-VERDI 2054 (MP),"U.S. Representative in Congress, District 2 (Democratic)","McKenna, Ken",0
 RENO-VERDI 2054 (MP),"U.S. Representative in Congress, District 2 (Democratic)","Price, Nancy",0
@@ -13775,8 +13775,8 @@ INCLINE VILLAGE 9121(MP),"U.S. Representative in Congress, District 2 (Republica
 INCLINE VILLAGE 9121(MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 PROV,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",10
 PROV,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",20
-RENO-VERDI  4042 (MP),"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
-RENO-VERDI  4042 (MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+RENO-VERDI 4042 (MP),"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
+RENO-VERDI 4042 (MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 RENO-VERDI 1000,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",31
 RENO-VERDI 1000,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",91
 RENO-VERDI 1002,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",18
@@ -13973,8 +13973,8 @@ RENO-VERDI 2051 (MP),"U.S. Representative in Congress, District 2 (Republican)",
 RENO-VERDI 2051 (MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 RENO-VERDI 2052,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",4
 RENO-VERDI 2052,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",36
-RENO-VERDI 2053  (MP),"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
-RENO-VERDI 2053  (MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
+RENO-VERDI 2053 (MP),"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
+RENO-VERDI 2053 (MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 RENO-VERDI 2054 (MP),"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",0
 RENO-VERDI 2054 (MP),"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",0
 RENO-VERDI 2055,"U.S. Representative in Congress, District 2 (Republican)","Colletti, Patrick J.",18
@@ -15038,9 +15038,9 @@ INCLINE VILLAGE 9116(MP),Governor (Democratic),"Reid, Rory",0
 INCLINE VILLAGE 9121(MP),Governor (Democratic),"Conquest, Frederick L.",0
 INCLINE VILLAGE 9121(MP),Governor (Democratic),None Of These Candidates,0
 INCLINE VILLAGE 9121(MP),Governor (Democratic),"Reid, Rory",0
-RENO-VERDI  4042 (MP),Governor (Democratic),"Conquest, Frederick L.",0
-RENO-VERDI  4042 (MP),Governor (Democratic),None Of These Candidates,0
-RENO-VERDI  4042 (MP),Governor (Democratic),"Reid, Rory",0
+RENO-VERDI 4042 (MP),Governor (Democratic),"Conquest, Frederick L.",0
+RENO-VERDI 4042 (MP),Governor (Democratic),None Of These Candidates,0
+RENO-VERDI 4042 (MP),Governor (Democratic),"Reid, Rory",0
 RENO-VERDI 1000,Governor (Democratic),"Conquest, Frederick L.",9
 RENO-VERDI 1000,Governor (Democratic),None Of These Candidates,15
 RENO-VERDI 1000,Governor (Democratic),"Reid, Rory",86
@@ -17041,12 +17041,12 @@ INCLINE VILLAGE 9121(MP),Governor (Republican),"Lusak, Stanleigh Harold",0
 INCLINE VILLAGE 9121(MP),Governor (Republican),"Montandon, Michael L.",0
 INCLINE VILLAGE 9121(MP),Governor (Republican),None Of These Candidates,0
 INCLINE VILLAGE 9121(MP),Governor (Republican),"Sandoval, Brian",0
-RENO-VERDI  4042 (MP),Governor (Republican),"Atwood, Tony",0
-RENO-VERDI  4042 (MP),Governor (Republican),"GIBBONS, JIM",0
-RENO-VERDI  4042 (MP),Governor (Republican),"Lusak, Stanleigh Harold",0
-RENO-VERDI  4042 (MP),Governor (Republican),"Montandon, Michael L.",0
-RENO-VERDI  4042 (MP),Governor (Republican),None Of These Candidates,0
-RENO-VERDI  4042 (MP),Governor (Republican),"Sandoval, Brian",0
+RENO-VERDI 4042 (MP),Governor (Republican),"Atwood, Tony",0
+RENO-VERDI 4042 (MP),Governor (Republican),"GIBBONS, JIM",0
+RENO-VERDI 4042 (MP),Governor (Republican),"Lusak, Stanleigh Harold",0
+RENO-VERDI 4042 (MP),Governor (Republican),"Montandon, Michael L.",0
+RENO-VERDI 4042 (MP),Governor (Republican),None Of These Candidates,0
+RENO-VERDI 4042 (MP),Governor (Republican),"Sandoval, Brian",0
 RENO-VERDI 1000,Governor (Republican),"Atwood, Tony",0
 RENO-VERDI 1000,Governor (Republican),"GIBBONS, JIM",23
 RENO-VERDI 1000,Governor (Republican),"Lusak, Stanleigh Harold",0
@@ -17635,12 +17635,12 @@ RENO-VERDI 2052,Governor (Republican),"Lusak, Stanleigh Harold",0
 RENO-VERDI 2052,Governor (Republican),"Montandon, Michael L.",0
 RENO-VERDI 2052,Governor (Republican),None Of These Candidates,1
 RENO-VERDI 2052,Governor (Republican),"Sandoval, Brian",31
-RENO-VERDI 2053  (MP),Governor (Republican),"Atwood, Tony",0
-RENO-VERDI 2053  (MP),Governor (Republican),"GIBBONS, JIM",0
-RENO-VERDI 2053  (MP),Governor (Republican),"Lusak, Stanleigh Harold",0
-RENO-VERDI 2053  (MP),Governor (Republican),"Montandon, Michael L.",0
-RENO-VERDI 2053  (MP),Governor (Republican),None Of These Candidates,0
-RENO-VERDI 2053  (MP),Governor (Republican),"Sandoval, Brian",0
+RENO-VERDI 2053 (MP),Governor (Republican),"Atwood, Tony",0
+RENO-VERDI 2053 (MP),Governor (Republican),"GIBBONS, JIM",0
+RENO-VERDI 2053 (MP),Governor (Republican),"Lusak, Stanleigh Harold",0
+RENO-VERDI 2053 (MP),Governor (Republican),"Montandon, Michael L.",0
+RENO-VERDI 2053 (MP),Governor (Republican),None Of These Candidates,0
+RENO-VERDI 2053 (MP),Governor (Republican),"Sandoval, Brian",0
 RENO-VERDI 2054 (MP),Governor (Republican),"Atwood, Tony",0
 RENO-VERDI 2054 (MP),Governor (Republican),"GIBBONS, JIM",0
 RENO-VERDI 2054 (MP),Governor (Republican),"Lusak, Stanleigh Harold",0
@@ -20974,11 +20974,11 @@ INCLINE VILLAGE 9121(MP),Lieutenant Governor (Democratic),"Murad, Paul",0
 INCLINE VILLAGE 9121(MP),Lieutenant Governor (Democratic),None Of These Candidates,0
 INCLINE VILLAGE 9121(MP),Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
 INCLINE VILLAGE 9121(MP),Lieutenant Governor (Democratic),"Sferrazza, Jessica",0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Democratic),"Murad, Paul",0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Democratic),None Of These Candidates,0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Democratic),"Sferrazza, Jessica",0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Democratic),"Murad, Paul",0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Democratic),None Of These Candidates,0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Democratic),"Sferrazza, Jessica",0
 RENO-VERDI 1000,Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",4
 RENO-VERDI 1000,Lieutenant Governor (Democratic),"Murad, Paul",12
 RENO-VERDI 1000,Lieutenant Governor (Democratic),None Of These Candidates,14
@@ -21469,11 +21469,11 @@ RENO-VERDI 2052,Lieutenant Governor (Democratic),"Murad, Paul",4
 RENO-VERDI 2052,Lieutenant Governor (Democratic),None Of These Candidates,0
 RENO-VERDI 2052,Lieutenant Governor (Democratic),"Randazzo, Robert S.",3
 RENO-VERDI 2052,Lieutenant Governor (Democratic),"Sferrazza, Jessica",11
-RENO-VERDI 2053  (MP),Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",0
-RENO-VERDI 2053  (MP),Lieutenant Governor (Democratic),"Murad, Paul",0
-RENO-VERDI 2053  (MP),Lieutenant Governor (Democratic),None Of These Candidates,0
-RENO-VERDI 2053  (MP),Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
-RENO-VERDI 2053  (MP),Lieutenant Governor (Democratic),"Sferrazza, Jessica",0
+RENO-VERDI 2053 (MP),Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",0
+RENO-VERDI 2053 (MP),Lieutenant Governor (Democratic),"Murad, Paul",0
+RENO-VERDI 2053 (MP),Lieutenant Governor (Democratic),None Of These Candidates,0
+RENO-VERDI 2053 (MP),Lieutenant Governor (Democratic),"Randazzo, Robert S.",0
+RENO-VERDI 2053 (MP),Lieutenant Governor (Democratic),"Sferrazza, Jessica",0
 RENO-VERDI 2054 (MP),Lieutenant Governor (Democratic),"GOODMAN, Robert E. ""Bob""",0
 RENO-VERDI 2054 (MP),Lieutenant Governor (Democratic),"Murad, Paul",0
 RENO-VERDI 2054 (MP),Lieutenant Governor (Democratic),None Of These Candidates,0
@@ -24106,9 +24106,9 @@ INCLINE VILLAGE 9116(MP),Lieutenant Governor (Republican),"Woollen, Barbara Lee"
 INCLINE VILLAGE 9121(MP),Lieutenant Governor (Republican),"Krolicki, Brian",0
 INCLINE VILLAGE 9121(MP),Lieutenant Governor (Republican),None Of These Candidates,0
 INCLINE VILLAGE 9121(MP),Lieutenant Governor (Republican),"Woollen, Barbara Lee",0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Republican),"Krolicki, Brian",0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Republican),None Of These Candidates,0
-RENO-VERDI  4042 (MP),Lieutenant Governor (Republican),"Woollen, Barbara Lee",0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Republican),"Krolicki, Brian",0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Republican),None Of These Candidates,0
+RENO-VERDI 4042 (MP),Lieutenant Governor (Republican),"Woollen, Barbara Lee",0
 RENO-VERDI 1000,Lieutenant Governor (Republican),"Krolicki, Brian",91
 RENO-VERDI 1000,Lieutenant Governor (Republican),None Of These Candidates,10
 RENO-VERDI 1000,Lieutenant Governor (Republican),"Woollen, Barbara Lee",20
@@ -25906,9 +25906,9 @@ INCLINE VILLAGE 9116(MP),State Controller (Republican),None Of These Candidates,
 INCLINE VILLAGE 9121(MP),State Controller (Republican),"Dagani, Gregory Nance",0
 INCLINE VILLAGE 9121(MP),State Controller (Republican),"Herr, Barry",0
 INCLINE VILLAGE 9121(MP),State Controller (Republican),None Of These Candidates,0
-RENO-VERDI  4042 (MP),State Controller (Republican),"Dagani, Gregory Nance",0
-RENO-VERDI  4042 (MP),State Controller (Republican),"Herr, Barry",0
-RENO-VERDI  4042 (MP),State Controller (Republican),None Of These Candidates,0
+RENO-VERDI 4042 (MP),State Controller (Republican),"Dagani, Gregory Nance",0
+RENO-VERDI 4042 (MP),State Controller (Republican),"Herr, Barry",0
+RENO-VERDI 4042 (MP),State Controller (Republican),None Of These Candidates,0
 RENO-VERDI 1000,State Controller (Republican),"Dagani, Gregory Nance",22
 RENO-VERDI 1000,State Controller (Republican),"Herr, Barry",49
 RENO-VERDI 1000,State Controller (Republican),None Of These Candidates,36
@@ -26203,9 +26203,9 @@ RENO-VERDI 2051 (MP),State Controller (Republican),None Of These Candidates,0
 RENO-VERDI 2052,State Controller (Republican),"Dagani, Gregory Nance",10
 RENO-VERDI 2052,State Controller (Republican),"Herr, Barry",7
 RENO-VERDI 2052,State Controller (Republican),None Of These Candidates,10
-RENO-VERDI 2053  (MP),State Controller (Republican),"Dagani, Gregory Nance",0
-RENO-VERDI 2053  (MP),State Controller (Republican),"Herr, Barry",0
-RENO-VERDI 2053  (MP),State Controller (Republican),None Of These Candidates,0
+RENO-VERDI 2053 (MP),State Controller (Republican),"Dagani, Gregory Nance",0
+RENO-VERDI 2053 (MP),State Controller (Republican),"Herr, Barry",0
+RENO-VERDI 2053 (MP),State Controller (Republican),None Of These Candidates,0
 RENO-VERDI 2054 (MP),State Controller (Republican),"Dagani, Gregory Nance",0
 RENO-VERDI 2054 (MP),State Controller (Republican),"Herr, Barry",0
 RENO-VERDI 2054 (MP),State Controller (Republican),None Of These Candidates,0
@@ -27892,9 +27892,9 @@ INCLINE VILLAGE 9116(MP),Attorney General (Republican),None Of These Candidates,
 INCLINE VILLAGE 9121(MP),Attorney General (Republican),"Barrick, Travis",0
 INCLINE VILLAGE 9121(MP),Attorney General (Republican),"Hafter, Jacob",0
 INCLINE VILLAGE 9121(MP),Attorney General (Republican),None Of These Candidates,0
-RENO-VERDI  4042 (MP),Attorney General (Republican),"Barrick, Travis",0
-RENO-VERDI  4042 (MP),Attorney General (Republican),"Hafter, Jacob",0
-RENO-VERDI  4042 (MP),Attorney General (Republican),None Of These Candidates,0
+RENO-VERDI 4042 (MP),Attorney General (Republican),"Barrick, Travis",0
+RENO-VERDI 4042 (MP),Attorney General (Republican),"Hafter, Jacob",0
+RENO-VERDI 4042 (MP),Attorney General (Republican),None Of These Candidates,0
 RENO-VERDI 1000,Attorney General (Republican),"Barrick, Travis",39
 RENO-VERDI 1000,Attorney General (Republican),"Hafter, Jacob",34
 RENO-VERDI 1000,Attorney General (Republican),None Of These Candidates,37
@@ -28189,9 +28189,9 @@ RENO-VERDI 2051 (MP),Attorney General (Republican),None Of These Candidates,0
 RENO-VERDI 2052,Attorney General (Republican),"Barrick, Travis",12
 RENO-VERDI 2052,Attorney General (Republican),"Hafter, Jacob",10
 RENO-VERDI 2052,Attorney General (Republican),None Of These Candidates,5
-RENO-VERDI 2053  (MP),Attorney General (Republican),"Barrick, Travis",0
-RENO-VERDI 2053  (MP),Attorney General (Republican),"Hafter, Jacob",0
-RENO-VERDI 2053  (MP),Attorney General (Republican),None Of These Candidates,0
+RENO-VERDI 2053 (MP),Attorney General (Republican),"Barrick, Travis",0
+RENO-VERDI 2053 (MP),Attorney General (Republican),"Hafter, Jacob",0
+RENO-VERDI 2053 (MP),Attorney General (Republican),None Of These Candidates,0
 RENO-VERDI 2054 (MP),Attorney General (Republican),"Barrick, Travis",0
 RENO-VERDI 2054 (MP),Attorney General (Republican),"Hafter, Jacob",0
 RENO-VERDI 2054 (MP),Attorney General (Republican),None Of These Candidates,0
@@ -29965,8 +29965,8 @@ GER-WADS 9425 (MP),"State Senate, Washoe District 2 (Democratic)","EDWARDS, ALLI
 GER-WADS 9425 (MP),"State Senate, Washoe District 2 (Democratic)","SCHMIDT, GARY R.",0
 GER-WADS 9521 (MP),"State Senate, Washoe District 2 (Democratic)","EDWARDS, ALLISON",0
 GER-WADS 9521 (MP),"State Senate, Washoe District 2 (Democratic)","SCHMIDT, GARY R.",0
-RENO-VERDI  4042 (MP),"State Senate, Washoe District 2 (Democratic)","EDWARDS, ALLISON",0
-RENO-VERDI  4042 (MP),"State Senate, Washoe District 2 (Democratic)","SCHMIDT, GARY R.",0
+RENO-VERDI 4042 (MP),"State Senate, Washoe District 2 (Democratic)","EDWARDS, ALLISON",0
+RENO-VERDI 4042 (MP),"State Senate, Washoe District 2 (Democratic)","SCHMIDT, GARY R.",0
 RENO-VERDI 3006,"State Senate, Washoe District 2 (Democratic)","EDWARDS, ALLISON",
 RENO-VERDI 3006,"State Senate, Washoe District 2 (Democratic)","SCHMIDT, GARY R.",
 RENO-VERDI 3033,"State Senate, Washoe District 2 (Democratic)","EDWARDS, ALLISON",6
@@ -30311,8 +30311,8 @@ GER-WADS 9425 (MP),"State Senate, Washoe District 2 (Republican)","GUSTAVSON, DO
 GER-WADS 9425 (MP),"State Senate, Washoe District 2 (Republican)","LARKIN, BOB",0
 GER-WADS 9521 (MP),"State Senate, Washoe District 2 (Republican)","GUSTAVSON, DON",0
 GER-WADS 9521 (MP),"State Senate, Washoe District 2 (Republican)","LARKIN, BOB",0
-RENO-VERDI  4042 (MP),"State Senate, Washoe District 2 (Republican)","GUSTAVSON, DON",0
-RENO-VERDI  4042 (MP),"State Senate, Washoe District 2 (Republican)","LARKIN, BOB",0
+RENO-VERDI 4042 (MP),"State Senate, Washoe District 2 (Republican)","GUSTAVSON, DON",0
+RENO-VERDI 4042 (MP),"State Senate, Washoe District 2 (Republican)","LARKIN, BOB",0
 RENO-VERDI 3006,"State Senate, Washoe District 2 (Republican)","GUSTAVSON, DON",
 RENO-VERDI 3006,"State Senate, Washoe District 2 (Republican)","LARKIN, BOB",
 RENO-VERDI 3033,"State Senate, Washoe District 2 (Republican)","GUSTAVSON, DON",
@@ -31613,11 +31613,11 @@ RENO-VERDI 2052,"State Assembly, District 25 (Republican)","DIAS, JASON ANTHONY"
 RENO-VERDI 2052,"State Assembly, District 25 (Republican)","HICKEY, PAT",9
 RENO-VERDI 2052,"State Assembly, District 25 (Republican)","JOHNSON, ORRIN J. H.",14
 RENO-VERDI 2052,"State Assembly, District 25 (Republican)","MEYER, DAN",4
-RENO-VERDI 2053  (MP),"State Assembly, District 25 (Republican)","CARTER, BERNIE",0
-RENO-VERDI 2053  (MP),"State Assembly, District 25 (Republican)","DIAS, JASON ANTHONY",0
-RENO-VERDI 2053  (MP),"State Assembly, District 25 (Republican)","HICKEY, PAT",0
-RENO-VERDI 2053  (MP),"State Assembly, District 25 (Republican)","JOHNSON, ORRIN J. H.",0
-RENO-VERDI 2053  (MP),"State Assembly, District 25 (Republican)","MEYER, DAN",0
+RENO-VERDI 2053 (MP),"State Assembly, District 25 (Republican)","CARTER, BERNIE",0
+RENO-VERDI 2053 (MP),"State Assembly, District 25 (Republican)","DIAS, JASON ANTHONY",0
+RENO-VERDI 2053 (MP),"State Assembly, District 25 (Republican)","HICKEY, PAT",0
+RENO-VERDI 2053 (MP),"State Assembly, District 25 (Republican)","JOHNSON, ORRIN J. H.",0
+RENO-VERDI 2053 (MP),"State Assembly, District 25 (Republican)","MEYER, DAN",0
 RENO-VERDI 2054 (MP),"State Assembly, District 25 (Republican)","CARTER, BERNIE",0
 RENO-VERDI 2054 (MP),"State Assembly, District 25 (Republican)","DIAS, JASON ANTHONY",0
 RENO-VERDI 2054 (MP),"State Assembly, District 25 (Republican)","HICKEY, PAT",0
@@ -33344,7 +33344,7 @@ INCLINE VILLAGE 9106(MP),"District Court Judge, District 2, Dept. 5, Family Div.
 INCLINE VILLAGE 9111(MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
 INCLINE VILLAGE 9116(MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
 INCLINE VILLAGE 9121(MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
-RENO-VERDI  4042 (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
+RENO-VERDI 4042 (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
 RENO-VERDI 1000,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",198
 RENO-VERDI 1002,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",171
 RENO-VERDI 1003,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",322
@@ -33393,7 +33393,7 @@ RENO-VERDI 2049,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpart
 RENO-VERDI 2050,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",141
 RENO-VERDI 2051 (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
 RENO-VERDI 2052,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",42
-RENO-VERDI 2053  (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
+RENO-VERDI 2053 (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
 RENO-VERDI 2054 (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
 RENO-VERDI 2055,"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",189
 RENO-VERDI 2057 (MP),"District Court Judge, District 2, Dept. 5, Family Div. (Nonpartisan)","SCHUMACHER, DEBORAH",0
@@ -33956,7 +33956,7 @@ INCLINE VILLAGE 9106(MP),"District Court Judge, District 2, Department 11 Family
 INCLINE VILLAGE 9111(MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
 INCLINE VILLAGE 9116(MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
 INCLINE VILLAGE 9121(MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
-RENO-VERDI  4042 (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
+RENO-VERDI 4042 (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
 RENO-VERDI 1000,"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",149
 RENO-VERDI 1002,"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",157
 RENO-VERDI 1003,"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",282
@@ -34055,7 +34055,7 @@ RENO-VERDI 2049,"District Court Judge, District 2, Department 11 Family Division
 RENO-VERDI 2050,"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",129
 RENO-VERDI 2051 (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
 RENO-VERDI 2052,"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",36
-RENO-VERDI 2053  (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
+RENO-VERDI 2053 (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
 RENO-VERDI 2054 (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
 RENO-VERDI 2055,"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",171
 RENO-VERDI 2057 (MP),"District Court Judge, District 2, Department 11 Family Division (Nonpartisan)","WELLER, CHUCK",0
@@ -34618,7 +34618,7 @@ INCLINE VILLAGE 9106(MP),"District Court Judge, District 2, Department 15 (Nonpa
 INCLINE VILLAGE 9111(MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
 INCLINE VILLAGE 9116(MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
 INCLINE VILLAGE 9121(MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
-RENO-VERDI  4042 (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
+RENO-VERDI 4042 (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
 RENO-VERDI 1000,"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",180
 RENO-VERDI 1002,"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",152
 RENO-VERDI 1003,"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",299
@@ -34717,7 +34717,7 @@ RENO-VERDI 2049,"District Court Judge, District 2, Department 15 (Nonpartisan)",
 RENO-VERDI 2050,"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",132
 RENO-VERDI 2051 (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
 RENO-VERDI 2052,"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",36
-RENO-VERDI 2053  (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
+RENO-VERDI 2053 (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
 RENO-VERDI 2054 (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
 RENO-VERDI 2055,"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",176
 RENO-VERDI 2057 (MP),"District Court Judge, District 2, Department 15 (Nonpartisan)","HARDY, DAVID",0
@@ -35271,10 +35271,10 @@ GER-WADS 9521 (MP),"University Board of Regents, District 11 (Nonpartisan)","FRU
 GER-WADS 9521 (MP),"University Board of Regents, District 11 (Nonpartisan)","GEDDES, JASON",0
 GER-WADS 9521 (MP),"University Board of Regents, District 11 (Nonpartisan)","GUNTER, TOM",0
 GER-WADS 9521 (MP),"University Board of Regents, District 11 (Nonpartisan)","WALKER, CHUCK",0
-RENO-VERDI  4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","FRUEHAN, GLENN",0
-RENO-VERDI  4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","GEDDES, JASON",0
-RENO-VERDI  4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","GUNTER, TOM",0
-RENO-VERDI  4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","WALKER, CHUCK",0
+RENO-VERDI 4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","FRUEHAN, GLENN",0
+RENO-VERDI 4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","GEDDES, JASON",0
+RENO-VERDI 4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","GUNTER, TOM",0
+RENO-VERDI 4042 (MP),"University Board of Regents, District 11 (Nonpartisan)","WALKER, CHUCK",0
 RENO-VERDI 1040,"University Board of Regents, District 11 (Nonpartisan)","FRUEHAN, GLENN",0
 RENO-VERDI 1040,"University Board of Regents, District 11 (Nonpartisan)","GEDDES, JASON",0
 RENO-VERDI 1040,"University Board of Regents, District 11 (Nonpartisan)","GUNTER, TOM",0
@@ -36499,9 +36499,9 @@ RENO-VERDI 2048 (MP),County Commissioner District 2 (Democratic),"TRUDELL, MICHA
 RENO-VERDI 2049,County Commissioner District 2 (Democratic),"HICKS, BETTY",36
 RENO-VERDI 2049,County Commissioner District 2 (Democratic),"KELLEY, MICHAEL",18
 RENO-VERDI 2049,County Commissioner District 2 (Democratic),"TRUDELL, MICHAEL",17
-RENO-VERDI 2053  (MP),County Commissioner District 2 (Democratic),"HICKS, BETTY",0
-RENO-VERDI 2053  (MP),County Commissioner District 2 (Democratic),"KELLEY, MICHAEL",0
-RENO-VERDI 2053  (MP),County Commissioner District 2 (Democratic),"TRUDELL, MICHAEL",0
+RENO-VERDI 2053 (MP),County Commissioner District 2 (Democratic),"HICKS, BETTY",0
+RENO-VERDI 2053 (MP),County Commissioner District 2 (Democratic),"KELLEY, MICHAEL",0
+RENO-VERDI 2053 (MP),County Commissioner District 2 (Democratic),"TRUDELL, MICHAEL",0
 RENO-VERDI 2054 (MP),County Commissioner District 2 (Democratic),"HICKS, BETTY",0
 RENO-VERDI 2054 (MP),County Commissioner District 2 (Democratic),"KELLEY, MICHAEL",0
 RENO-VERDI 2054 (MP),County Commissioner District 2 (Democratic),"TRUDELL, MICHAEL",0
@@ -36955,8 +36955,8 @@ RENO-VERDI 9244 (MP),County Commissioner District 2 (Democratic),"TRUDELL, MICHA
 SPARKS 6317 (MP),County Commissioner District 2 (Democratic),"HICKS, BETTY",0
 SPARKS 6317 (MP),County Commissioner District 2 (Democratic),"KELLEY, MICHAEL",0
 SPARKS 6317 (MP),County Commissioner District 2 (Democratic),"TRUDELL, MICHAEL",0
-RENO-VERDI  4042 (MP),County Commissioner District 3 (Democratic),"GURNEY, DAVID EUGENE",0
-RENO-VERDI  4042 (MP),County Commissioner District 3 (Democratic),"JUNG, KITTY KATRINA",0
+RENO-VERDI 4042 (MP),County Commissioner District 3 (Democratic),"GURNEY, DAVID EUGENE",0
+RENO-VERDI 4042 (MP),County Commissioner District 3 (Democratic),"JUNG, KITTY KATRINA",0
 RENO-VERDI 1002,County Commissioner District 3 (Democratic),"GURNEY, DAVID EUGENE",19
 RENO-VERDI 1002,County Commissioner District 3 (Democratic),"JUNG, KITTY KATRINA",68
 RENO-VERDI 1003,County Commissioner District 3 (Democratic),"GURNEY, DAVID EUGENE",40
@@ -37497,8 +37497,8 @@ INCLINE VILLAGE 9116(MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK
 INCLINE VILLAGE 9116(MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
 INCLINE VILLAGE 9121(MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",0
 INCLINE VILLAGE 9121(MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
-RENO-VERDI  4042 (MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",0
-RENO-VERDI  4042 (MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
+RENO-VERDI 4042 (MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",0
+RENO-VERDI 4042 (MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
 RENO-VERDI 1000,DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",82
 RENO-VERDI 1000,DISTRICT ATTORNEY (Republican),"STOVER, KEN",37
 RENO-VERDI 1002,DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",65
@@ -37695,8 +37695,8 @@ RENO-VERDI 2051 (MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",
 RENO-VERDI 2051 (MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
 RENO-VERDI 2052,DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",35
 RENO-VERDI 2052,DISTRICT ATTORNEY (Republican),"STOVER, KEN",5
-RENO-VERDI 2053  (MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",0
-RENO-VERDI 2053  (MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
+RENO-VERDI 2053 (MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",0
+RENO-VERDI 2053 (MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
 RENO-VERDI 2054 (MP),DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",0
 RENO-VERDI 2054 (MP),DISTRICT ATTORNEY (Republican),"STOVER, KEN",0
 RENO-VERDI 2055,DISTRICT ATTORNEY (Republican),"GAMMICK, RICHARD ""DICK""",105
@@ -38782,7 +38782,7 @@ INCLINE VILLAGE 9106(MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 INCLINE VILLAGE 9111(MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 INCLINE VILLAGE 9116(MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 INCLINE VILLAGE 9121(MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
-RENO-VERDI  4042 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
+RENO-VERDI 4042 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 RENO-VERDI 1000,Sheriff (Nonpartisan),"HALEY, MIKE",189
 RENO-VERDI 1002,Sheriff (Nonpartisan),"HALEY, MIKE",160
 RENO-VERDI 1003,Sheriff (Nonpartisan),"HALEY, MIKE",306
@@ -38881,7 +38881,7 @@ RENO-VERDI 2049,Sheriff (Nonpartisan),"HALEY, MIKE",141
 RENO-VERDI 2050,Sheriff (Nonpartisan),"HALEY, MIKE",139
 RENO-VERDI 2051 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 RENO-VERDI 2052,Sheriff (Nonpartisan),"HALEY, MIKE",46
-RENO-VERDI 2053  (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
+RENO-VERDI 2053 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 RENO-VERDI 2054 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 RENO-VERDI 2055,Sheriff (Nonpartisan),"HALEY, MIKE",196
 RENO-VERDI 2057 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
@@ -39405,10 +39405,10 @@ SPARKS 9526 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 SPARKS 9531 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 SPARKS 9532 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
 SPARKS 9535 (MP),Sheriff (Nonpartisan),"HALEY, MIKE",0
-RENO-VERDI  4042 (MP),Mayor RENO (Nonpartisan),"CASHELL, BOB",0
-RENO-VERDI  4042 (MP),Mayor RENO (Nonpartisan),"CONE, MATHIAS",0
-RENO-VERDI  4042 (MP),Mayor RENO (Nonpartisan),"DEHNE, CHAD",0
-RENO-VERDI  4042 (MP),Mayor RENO (Nonpartisan),"DUNSTONE, DUANE",0
+RENO-VERDI 4042 (MP),Mayor RENO (Nonpartisan),"CASHELL, BOB",0
+RENO-VERDI 4042 (MP),Mayor RENO (Nonpartisan),"CONE, MATHIAS",0
+RENO-VERDI 4042 (MP),Mayor RENO (Nonpartisan),"DEHNE, CHAD",0
+RENO-VERDI 4042 (MP),Mayor RENO (Nonpartisan),"DUNSTONE, DUANE",0
 RENO-VERDI 1000,Mayor RENO (Nonpartisan),"CASHELL, BOB",194
 RENO-VERDI 1000,Mayor RENO (Nonpartisan),"CONE, MATHIAS",8
 RENO-VERDI 1000,Mayor RENO (Nonpartisan),"DEHNE, CHAD",18
@@ -39751,10 +39751,10 @@ RENO-VERDI 2052,Mayor RENO (Nonpartisan),"CASHELL, BOB",49
 RENO-VERDI 2052,Mayor RENO (Nonpartisan),"CONE, MATHIAS",2
 RENO-VERDI 2052,Mayor RENO (Nonpartisan),"DEHNE, CHAD",7
 RENO-VERDI 2052,Mayor RENO (Nonpartisan),"DUNSTONE, DUANE",4
-RENO-VERDI 2053  (MP),Mayor RENO (Nonpartisan),"CASHELL, BOB",0
-RENO-VERDI 2053  (MP),Mayor RENO (Nonpartisan),"CONE, MATHIAS",0
-RENO-VERDI 2053  (MP),Mayor RENO (Nonpartisan),"DEHNE, CHAD",0
-RENO-VERDI 2053  (MP),Mayor RENO (Nonpartisan),"DUNSTONE, DUANE",0
+RENO-VERDI 2053 (MP),Mayor RENO (Nonpartisan),"CASHELL, BOB",0
+RENO-VERDI 2053 (MP),Mayor RENO (Nonpartisan),"CONE, MATHIAS",0
+RENO-VERDI 2053 (MP),Mayor RENO (Nonpartisan),"DEHNE, CHAD",0
+RENO-VERDI 2053 (MP),Mayor RENO (Nonpartisan),"DUNSTONE, DUANE",0
 RENO-VERDI 2054 (MP),Mayor RENO (Nonpartisan),"CASHELL, BOB",0
 RENO-VERDI 2054 (MP),Mayor RENO (Nonpartisan),"CONE, MATHIAS",0
 RENO-VERDI 2054 (MP),Mayor RENO (Nonpartisan),"DEHNE, CHAD",0
@@ -40495,10 +40495,10 @@ RENO-VERDI 2052,"City of RENO Councilman, Ward 2 (Nonpartisan)","ANDERSON, BRAND
 RENO-VERDI 2052,"City of RENO Councilman, Ward 2 (Nonpartisan)","GONZALEZ, ANTHONY",1
 RENO-VERDI 2052,"City of RENO Councilman, Ward 2 (Nonpartisan)","GRAVES, DONNA",4
 RENO-VERDI 2052,"City of RENO Councilman, Ward 2 (Nonpartisan)","ZADRA, SHARON",36
-RENO-VERDI 2053  (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","ANDERSON, BRANDI",0
-RENO-VERDI 2053  (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","GONZALEZ, ANTHONY",0
-RENO-VERDI 2053  (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","GRAVES, DONNA",0
-RENO-VERDI 2053  (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","ZADRA, SHARON",0
+RENO-VERDI 2053 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","ANDERSON, BRANDI",0
+RENO-VERDI 2053 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","GONZALEZ, ANTHONY",0
+RENO-VERDI 2053 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","GRAVES, DONNA",0
+RENO-VERDI 2053 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","ZADRA, SHARON",0
 RENO-VERDI 2054 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","ANDERSON, BRANDI",0
 RENO-VERDI 2054 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","GONZALEZ, ANTHONY",0
 RENO-VERDI 2054 (MP),"City of RENO Councilman, Ward 2 (Nonpartisan)","GRAVES, DONNA",0
@@ -40814,7 +40814,7 @@ SPARKS 6212 (MP),"City of SPARKS Councilman, Ward 2 (Nonpartisan)","LEE, NICOLAS
 SPARKS 6212 (MP),"City of SPARKS Councilman, Ward 2 (Nonpartisan)","LOPES, ROBERT",0
 SPARKS 6212 (MP),"City of SPARKS Councilman, Ward 2 (Nonpartisan)","MELLINGER, RANDALL",0
 SPARKS 6212 (MP),"City of SPARKS Councilman, Ward 2 (Nonpartisan)","WILLIAMS, JARROD",0
-RENO-VERDI  4042 (MP),"School Board Trustee, District B (Nonpartisan)","MAYER, JOHN R.",0
+RENO-VERDI 4042 (MP),"School Board Trustee, District B (Nonpartisan)","MAYER, JOHN R.",0
 RENO-VERDI 3000 (MP),"School Board Trustee, District B (Nonpartisan)","MAYER, JOHN R.",0
 RENO-VERDI 3003,"School Board Trustee, District B (Nonpartisan)","MAYER, JOHN R.",
 RENO-VERDI 3019,"School Board Trustee, District B (Nonpartisan)","MAYER, JOHN R.",108
@@ -40908,7 +40908,7 @@ GER-WADS 9423 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, 
 GER-WADS 9424 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
 GER-WADS 9425 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
 GER-WADS 9521 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
-RENO-VERDI  4042 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
+RENO-VERDI 4042 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
 RENO-VERDI 1018,"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",151
 RENO-VERDI 2002 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
 RENO-VERDI 2004,"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",70
@@ -41139,7 +41139,7 @@ SPARKS 9526 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ES
 SPARKS 9531 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
 SPARKS 9532 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
 SPARKS 9535 (MP),"School Board Trustee, District F (Nonpartisan)","GUTIERREZ, ESTELA",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
 RENO-VERDI 1000,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",182
 RENO-VERDI 1002,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",173
 RENO-VERDI 1003,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",311
@@ -41238,7 +41238,7 @@ RENO-VERDI 2049,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRA
 RENO-VERDI 2050,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",132
 RENO-VERDI 2051 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
 RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",37
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
 RENO-VERDI 2054 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
 RENO-VERDI 2055,"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",183
 RENO-VERDI 2057 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
@@ -41560,7 +41560,7 @@ RENO-VERDI 9534 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","S
 RENO-VERDI 9537 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
 RENO-VERDI 9538 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
 RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 2 (Nonpartisan)","SFERRAZZA, PETE",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
 RENO-VERDI 1000,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",191
 RENO-VERDI 1002,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",157
 RENO-VERDI 1003,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",288
@@ -41659,7 +41659,7 @@ RENO-VERDI 2049,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROE
 RENO-VERDI 2050,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",135
 RENO-VERDI 2051 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
 RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",40
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
 RENO-VERDI 2054 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
 RENO-VERDI 2055,"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",179
 RENO-VERDI 2057 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
@@ -42031,10 +42031,10 @@ RENO-VERDI 9534 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","S
 RENO-VERDI 9537 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
 RENO-VERDI 9538 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
 RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 3 (Nonpartisan)","SCHROEDER, JACK",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY, COTTER C.",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","TAITEL, LEWIS S.",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY, COTTER C.",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","TAITEL, LEWIS S.",0
 RENO-VERDI 1000,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY, COTTER C.",19
 RENO-VERDI 1000,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",20
 RENO-VERDI 1000,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",85
@@ -42427,10 +42427,10 @@ RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY
 RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",4
 RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",24
 RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","TAITEL, LEWIS S.",13
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY, COTTER C.",0
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",0
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",0
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","TAITEL, LEWIS S.",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY, COTTER C.",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","TAITEL, LEWIS S.",0
 RENO-VERDI 2054 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","CONWAY, COTTER C.",0
 RENO-VERDI 2054 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",0
 RENO-VERDI 2054 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",0
@@ -43915,7 +43915,7 @@ RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","C
 RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","NICKEL, ERIC",0
 RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","PEARSON, SCOTT E.",0
 RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 4 (Nonpartisan)","TAITEL, LEWIS S.",0
-RENO-VERDI  4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
+RENO-VERDI 4042 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
 RENO-VERDI 1000,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",178
 RENO-VERDI 1002,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",158
 RENO-VERDI 1003,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",288
@@ -44014,7 +44014,7 @@ RENO-VERDI 2049,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTO
 RENO-VERDI 2050,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",135
 RENO-VERDI 2051 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
 RENO-VERDI 2052,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",36
-RENO-VERDI 2053  (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
+RENO-VERDI 2053 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
 RENO-VERDI 2054 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
 RENO-VERDI 2055,"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",176
 RENO-VERDI 2057 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","CLIFTON, DAVID",0
@@ -44389,61 +44389,61 @@ RENO-VERDI 9539 (MP),"Justice of the Peace, RENO-VERDI Dept. 5 (Nonpartisan)","C
 INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",88
 INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",22
 INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",51
-INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",29
+INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",29
 INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",98
 INCLINE VILLAGE 8104,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",131
 INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",69
 INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",32
 INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",51
-INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",34
+INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",34
 INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",56
 INCLINE VILLAGE 8105,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",76
 INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",116
 INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",64
 INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",66
-INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",50
+INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",50
 INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",105
 INCLINE VILLAGE 8106,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",140
 INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",138
 INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",41
 INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",66
-INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",31
+INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",31
 INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",79
 INCLINE VILLAGE 8107,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",171
 INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",144
 INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",52
 INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",71
-INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",62
+INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",62
 INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",126
 INCLINE VILLAGE 8108,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",182
 INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",98
 INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",79
 INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",96
-INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",49
+INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",49
 INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",117
 INCLINE VILLAGE 8109,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",172
 INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",15
 INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",12
 INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",26
-INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",28
+INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",28
 INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",33
 INCLINE VILLAGE 8110,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",28
 INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",91
 INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",32
 INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",69
-INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",41
+INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",41
 INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",106
 INCLINE VILLAGE 8116,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",144
 INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",105
 INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",42
 INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",62
-INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",42
+INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",42
 INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",111
 INCLINE VILLAGE 8117,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",141
 INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"BROCKMAN, GENE",
 INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"CROWELL, SAMUEL R.",
 INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"HOLDERER, GAYLE",
-INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS  J.",
+INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"OLIVER, DENNIS J.",
 INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"SIMONIAN, BRUCE",
 INCLINE VILLAGE 8125,INCLINE VILLAGE G I D (Nonpartisan),"WOLFE, JOE",
 RENO-VERDI 9306 (MP),SUN VALLEY G I D (Nonpartisan),"AINSWORTH, SANDRA L.",0

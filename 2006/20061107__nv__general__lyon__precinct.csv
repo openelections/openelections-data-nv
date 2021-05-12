@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 East Mason Valley 1,Attorney General,"CHAIREZ, DON",179
-East Mason Valley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",291
+East Mason Valley 1,Attorney General,"CORTEZ MASTO, CATHERINE",291
 East Mason Valley 1,Attorney General,None Of These Candidates,27
 East Mason Valley 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",421
 East Mason Valley 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",429
@@ -10,8 +10,8 @@ East Mason Valley 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",421
 East Mason Valley 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",431
 East Mason Valley 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",163
 East Mason Valley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",292
-East Mason Valley 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",250
-East Mason Valley 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",241
+East Mason Valley 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",250
+East Mason Valley 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",241
 East Mason Valley 1,Governor,"BERGLAND, CRAIG O.",4
 East Mason Valley 1,Governor,"GIBBONS, JIM",308
 East Mason Valley 1,Governor,"HANSEN, CHRISTOPHER H.",31
@@ -72,10 +72,10 @@ East Mason Valley 1,U.S. Senate,"ENSIGN, JOHN",333
 East Mason Valley 1,U.S. Senate,None Of These Candidates,5
 East Mason Valley 1,U.S. Senate,"SCHUMANN, DAVID K.",14
 East Mason Valley 1,U.S. Senate,"TRAINOR, BRENDAN",1
-East Mason Valley 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",349
-East Mason Valley 1,"University Board of Regents, District  9","Knecht, Ron",134
+East Mason Valley 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",349
+East Mason Valley 1,"University Board of Regents, District 9","Knecht, Ron",134
 East Mason Valley 2,Attorney General,"CHAIREZ, DON",232
-East Mason Valley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",277
+East Mason Valley 2,Attorney General,"CORTEZ MASTO, CATHERINE",277
 East Mason Valley 2,Attorney General,None Of These Candidates,30
 East Mason Valley 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",476
 East Mason Valley 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",480
@@ -85,8 +85,8 @@ East Mason Valley 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",458
 East Mason Valley 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",484
 East Mason Valley 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",178
 East Mason Valley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",329
-East Mason Valley 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",260
-East Mason Valley 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",279
+East Mason Valley 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",260
+East Mason Valley 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",279
 East Mason Valley 2,Governor,"BERGLAND, CRAIG O.",8
 East Mason Valley 2,Governor,"GIBBONS, JIM",384
 East Mason Valley 2,Governor,"HANSEN, CHRISTOPHER H.",33
@@ -147,10 +147,10 @@ East Mason Valley 2,U.S. Senate,"ENSIGN, JOHN",415
 East Mason Valley 2,U.S. Senate,None Of These Candidates,6
 East Mason Valley 2,U.S. Senate,"SCHUMANN, DAVID K.",13
 East Mason Valley 2,U.S. Senate,"TRAINOR, BRENDAN",4
-East Mason Valley 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",352
-East Mason Valley 2,"University Board of Regents, District  9","Knecht, Ron",184
+East Mason Valley 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",352
+East Mason Valley 2,"University Board of Regents, District 9","Knecht, Ron",184
 Fernely 11,Attorney General,"CHAIREZ, DON",106
-Fernely 11,Attorney General,"CORTEZ  MASTO, CATHERINE",197
+Fernely 11,Attorney General,"CORTEZ MASTO, CATHERINE",197
 Fernely 11,Attorney General,None Of These Candidates,7
 Fernely 11,COUNTY ASSESSOR,"GLASS, H. MICHAEL",249
 Fernely 11,County Clerk/Treasurer,"BRYAN, NIKKI A.",252
@@ -160,8 +160,8 @@ Fernely 11,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",246
 Fernely 11,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",248
 Fernely 11,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",143
 Fernely 11,DISTRICT ATTORNEY,"RYE, STEPHEN B.",124
-Fernely 11,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",172
-Fernely 11,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",114
+Fernely 11,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",172
+Fernely 11,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",114
 Fernely 11,Governor,"BERGLAND, CRAIG O.",1
 Fernely 11,Governor,"GIBBONS, JIM",200
 Fernely 11,Governor,"HANSEN, CHRISTOPHER H.",21
@@ -218,10 +218,10 @@ Fernely 11,U.S. Senate,"ENSIGN, JOHN",206
 Fernely 11,U.S. Senate,None Of These Candidates,2
 Fernely 11,U.S. Senate,"SCHUMANN, DAVID K.",3
 Fernely 11,U.S. Senate,"TRAINOR, BRENDAN",3
-Fernely 11,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",145
-Fernely 11,"University Board of Regents, District  9","Knecht, Ron",124
+Fernely 11,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",145
+Fernely 11,"University Board of Regents, District 9","Knecht, Ron",124
 Fernely 12,Attorney General,"CHAIREZ, DON",157
-Fernely 12,Attorney General,"CORTEZ  MASTO, CATHERINE",242
+Fernely 12,Attorney General,"CORTEZ MASTO, CATHERINE",242
 Fernely 12,Attorney General,None Of These Candidates,27
 Fernely 12,COUNTY ASSESSOR,"GLASS, H. MICHAEL",353
 Fernely 12,County Clerk/Treasurer,"BRYAN, NIKKI A.",361
@@ -231,8 +231,8 @@ Fernely 12,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",352
 Fernely 12,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",359
 Fernely 12,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",208
 Fernely 12,DISTRICT ATTORNEY,"RYE, STEPHEN B.",154
-Fernely 12,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",251
-Fernely 12,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",153
+Fernely 12,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",251
+Fernely 12,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",153
 Fernely 12,Governor,"BERGLAND, CRAIG O.",5
 Fernely 12,Governor,"GIBBONS, JIM",268
 Fernely 12,Governor,"HANSEN, CHRISTOPHER H.",28
@@ -289,10 +289,10 @@ Fernely 12,U.S. Senate,"ENSIGN, JOHN",279
 Fernely 12,U.S. Senate,None Of These Candidates,4
 Fernely 12,U.S. Senate,"SCHUMANN, DAVID K.",12
 Fernely 12,U.S. Senate,"TRAINOR, BRENDAN",5
-Fernely 12,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",153
-Fernely 12,"University Board of Regents, District  9","Knecht, Ron",215
+Fernely 12,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",153
+Fernely 12,"University Board of Regents, District 9","Knecht, Ron",215
 Fernely 14,Attorney General,"CHAIREZ, DON",97
-Fernely 14,Attorney General,"CORTEZ  MASTO, CATHERINE",196
+Fernely 14,Attorney General,"CORTEZ MASTO, CATHERINE",196
 Fernely 14,Attorney General,None Of These Candidates,17
 Fernely 14,City Councilmember Ward 1 City of Fernley,"JONES, RICK",125
 Fernely 14,City Councilmember Ward 1 City of Fernley,"LANNING, PAUL",40
@@ -305,8 +305,8 @@ Fernely 14,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",264
 Fernely 14,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",260
 Fernely 14,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",147
 Fernely 14,DISTRICT ATTORNEY,"RYE, STEPHEN B.",135
-Fernely 14,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",170
-Fernely 14,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",123
+Fernely 14,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",170
+Fernely 14,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",123
 Fernely 14,Governor,"BERGLAND, CRAIG O.",2
 Fernely 14,Governor,"GIBBONS, JIM",185
 Fernely 14,Governor,"HANSEN, CHRISTOPHER H.",24
@@ -363,10 +363,10 @@ Fernely 14,U.S. Senate,"ENSIGN, JOHN",193
 Fernely 14,U.S. Senate,None Of These Candidates,4
 Fernely 14,U.S. Senate,"SCHUMANN, DAVID K.",9
 Fernely 14,U.S. Senate,"TRAINOR, BRENDAN",6
-Fernely 14,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",161
-Fernely 14,"University Board of Regents, District  9","Knecht, Ron",121
+Fernely 14,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",161
+Fernely 14,"University Board of Regents, District 9","Knecht, Ron",121
 Fernley 1,Attorney General,"CHAIREZ, DON",165
-Fernley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",226
+Fernley 1,Attorney General,"CORTEZ MASTO, CATHERINE",226
 Fernley 1,Attorney General,None Of These Candidates,17
 Fernley 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",332
 Fernley 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",334
@@ -376,8 +376,8 @@ Fernley 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",329
 Fernley 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",327
 Fernley 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",189
 Fernley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",152
-Fernley 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",234
-Fernley 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",138
+Fernley 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",234
+Fernley 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",138
 Fernley 1,Governor,"BERGLAND, CRAIG O.",3
 Fernley 1,Governor,"GIBBONS, JIM",277
 Fernley 1,Governor,"HANSEN, CHRISTOPHER H.",12
@@ -434,10 +434,10 @@ Fernley 1,U.S. Senate,"ENSIGN, JOHN",269
 Fernley 1,U.S. Senate,None Of These Candidates,10
 Fernley 1,U.S. Senate,"SCHUMANN, DAVID K.",5
 Fernley 1,U.S. Senate,"TRAINOR, BRENDAN",2
-Fernley 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",154
-Fernley 1,"University Board of Regents, District  9","Knecht, Ron",192
+Fernley 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",154
+Fernley 1,"University Board of Regents, District 9","Knecht, Ron",192
 Fernley 10,Attorney General,"CHAIREZ, DON",52
-Fernley 10,Attorney General,"CORTEZ  MASTO, CATHERINE",87
+Fernley 10,Attorney General,"CORTEZ MASTO, CATHERINE",87
 Fernley 10,Attorney General,None Of These Candidates,12
 Fernley 10,COUNTY ASSESSOR,"GLASS, H. MICHAEL",128
 Fernley 10,County Clerk/Treasurer,"BRYAN, NIKKI A.",132
@@ -447,8 +447,8 @@ Fernley 10,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",121
 Fernley 10,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",129
 Fernley 10,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",58
 Fernley 10,DISTRICT ATTORNEY,"RYE, STEPHEN B.",70
-Fernley 10,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",83
-Fernley 10,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",58
+Fernley 10,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",83
+Fernley 10,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",58
 Fernley 10,Governor,"BERGLAND, CRAIG O.",2
 Fernley 10,Governor,"GIBBONS, JIM",90
 Fernley 10,Governor,"HANSEN, CHRISTOPHER H.",3
@@ -505,10 +505,10 @@ Fernley 10,U.S. Senate,"ENSIGN, JOHN",105
 Fernley 10,U.S. Senate,None Of These Candidates,3
 Fernley 10,U.S. Senate,"SCHUMANN, DAVID K.",1
 Fernley 10,U.S. Senate,"TRAINOR, BRENDAN",2
-Fernley 10,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",62
-Fernley 10,"University Board of Regents, District  9","Knecht, Ron",63
+Fernley 10,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",62
+Fernley 10,"University Board of Regents, District 9","Knecht, Ron",63
 Fernley 13,Attorney General,"CHAIREZ, DON",258
-Fernley 13,Attorney General,"CORTEZ  MASTO, CATHERINE",302
+Fernley 13,Attorney General,"CORTEZ MASTO, CATHERINE",302
 Fernley 13,Attorney General,None Of These Candidates,29
 Fernley 13,City Councilmember Ward 1 City of Fernley,"JONES, RICK",208
 Fernley 13,City Councilmember Ward 1 City of Fernley,"LANNING, PAUL",43
@@ -521,8 +521,8 @@ Fernley 13,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",483
 Fernley 13,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",486
 Fernley 13,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",280
 Fernley 13,DISTRICT ATTORNEY,"RYE, STEPHEN B.",223
-Fernley 13,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",396
-Fernley 13,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",166
+Fernley 13,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",396
+Fernley 13,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",166
 Fernley 13,Governor,"BERGLAND, CRAIG O.",7
 Fernley 13,Governor,"GIBBONS, JIM",403
 Fernley 13,Governor,"HANSEN, CHRISTOPHER H.",31
@@ -579,10 +579,10 @@ Fernley 13,U.S. Senate,"ENSIGN, JOHN",429
 Fernley 13,U.S. Senate,None Of These Candidates,8
 Fernley 13,U.S. Senate,"SCHUMANN, DAVID K.",6
 Fernley 13,U.S. Senate,"TRAINOR, BRENDAN",2
-Fernley 13,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",224
-Fernley 13,"University Board of Regents, District  9","Knecht, Ron",265
+Fernley 13,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",224
+Fernley 13,"University Board of Regents, District 9","Knecht, Ron",265
 Fernley 2,Attorney General,"CHAIREZ, DON",67
-Fernley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",99
+Fernley 2,Attorney General,"CORTEZ MASTO, CATHERINE",99
 Fernley 2,Attorney General,None Of These Candidates,7
 Fernley 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",138
 Fernley 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",140
@@ -592,8 +592,8 @@ Fernley 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",134
 Fernley 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",135
 Fernley 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",77
 Fernley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",71
-Fernley 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",105
-Fernley 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",52
+Fernley 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",105
+Fernley 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",52
 Fernley 2,Governor,"BERGLAND, CRAIG O.",4
 Fernley 2,Governor,"GIBBONS, JIM",112
 Fernley 2,Governor,"HANSEN, CHRISTOPHER H.",2
@@ -650,10 +650,10 @@ Fernley 2,U.S. Senate,"ENSIGN, JOHN",115
 Fernley 2,U.S. Senate,None Of These Candidates,1
 Fernley 2,U.S. Senate,"SCHUMANN, DAVID K.",0
 Fernley 2,U.S. Senate,"TRAINOR, BRENDAN",0
-Fernley 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",65
-Fernley 2,"University Board of Regents, District  9","Knecht, Ron",71
+Fernley 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",65
+Fernley 2,"University Board of Regents, District 9","Knecht, Ron",71
 Fernley 3,Attorney General,"CHAIREZ, DON",113
-Fernley 3,Attorney General,"CORTEZ  MASTO, CATHERINE",144
+Fernley 3,Attorney General,"CORTEZ MASTO, CATHERINE",144
 Fernley 3,Attorney General,None Of These Candidates,9
 Fernley 3,COUNTY ASSESSOR,"GLASS, H. MICHAEL",236
 Fernley 3,County Clerk/Treasurer,"BRYAN, NIKKI A.",241
@@ -663,8 +663,8 @@ Fernley 3,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",234
 Fernley 3,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",235
 Fernley 3,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",141
 Fernley 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",100
-Fernley 3,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",155
-Fernley 3,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",99
+Fernley 3,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",155
+Fernley 3,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",99
 Fernley 3,Governor,"BERGLAND, CRAIG O.",6
 Fernley 3,Governor,"GIBBONS, JIM",176
 Fernley 3,Governor,"HANSEN, CHRISTOPHER H.",10
@@ -721,10 +721,10 @@ Fernley 3,U.S. Senate,"ENSIGN, JOHN",175
 Fernley 3,U.S. Senate,None Of These Candidates,5
 Fernley 3,U.S. Senate,"SCHUMANN, DAVID K.",5
 Fernley 3,U.S. Senate,"TRAINOR, BRENDAN",1
-Fernley 3,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",123
-Fernley 3,"University Board of Regents, District  9","Knecht, Ron",114
+Fernley 3,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",123
+Fernley 3,"University Board of Regents, District 9","Knecht, Ron",114
 Fernley 4,Attorney General,"CHAIREZ, DON",107
-Fernley 4,Attorney General,"CORTEZ  MASTO, CATHERINE",128
+Fernley 4,Attorney General,"CORTEZ MASTO, CATHERINE",128
 Fernley 4,Attorney General,None Of These Candidates,13
 Fernley 4,COUNTY ASSESSOR,"GLASS, H. MICHAEL",200
 Fernley 4,County Clerk/Treasurer,"BRYAN, NIKKI A.",200
@@ -734,8 +734,8 @@ Fernley 4,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",198
 Fernley 4,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",199
 Fernley 4,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",123
 Fernley 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",91
-Fernley 4,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",127
-Fernley 4,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",101
+Fernley 4,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",127
+Fernley 4,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",101
 Fernley 4,Governor,"BERGLAND, CRAIG O.",2
 Fernley 4,Governor,"GIBBONS, JIM",155
 Fernley 4,Governor,"HANSEN, CHRISTOPHER H.",15
@@ -792,10 +792,10 @@ Fernley 4,U.S. Senate,"ENSIGN, JOHN",171
 Fernley 4,U.S. Senate,None Of These Candidates,1
 Fernley 4,U.S. Senate,"SCHUMANN, DAVID K.",5
 Fernley 4,U.S. Senate,"TRAINOR, BRENDAN",2
-Fernley 4,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",97
-Fernley 4,"University Board of Regents, District  9","Knecht, Ron",110
+Fernley 4,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",97
+Fernley 4,"University Board of Regents, District 9","Knecht, Ron",110
 Fernley 5,Attorney General,"CHAIREZ, DON",135
-Fernley 5,Attorney General,"CORTEZ  MASTO, CATHERINE",199
+Fernley 5,Attorney General,"CORTEZ MASTO, CATHERINE",199
 Fernley 5,Attorney General,None Of These Candidates,9
 Fernley 5,COUNTY ASSESSOR,"GLASS, H. MICHAEL",274
 Fernley 5,County Clerk/Treasurer,"BRYAN, NIKKI A.",279
@@ -805,8 +805,8 @@ Fernley 5,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",273
 Fernley 5,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",277
 Fernley 5,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",171
 Fernley 5,DISTRICT ATTORNEY,"RYE, STEPHEN B.",115
-Fernley 5,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",170
-Fernley 5,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",150
+Fernley 5,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",170
+Fernley 5,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",150
 Fernley 5,Governor,"BERGLAND, CRAIG O.",3
 Fernley 5,Governor,"GIBBONS, JIM",214
 Fernley 5,Governor,"HANSEN, CHRISTOPHER H.",12
@@ -863,10 +863,10 @@ Fernley 5,U.S. Senate,"ENSIGN, JOHN",224
 Fernley 5,U.S. Senate,None Of These Candidates,1
 Fernley 5,U.S. Senate,"SCHUMANN, DAVID K.",3
 Fernley 5,U.S. Senate,"TRAINOR, BRENDAN",1
-Fernley 5,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",136
-Fernley 5,"University Board of Regents, District  9","Knecht, Ron",159
+Fernley 5,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",136
+Fernley 5,"University Board of Regents, District 9","Knecht, Ron",159
 Fernley 6,Attorney General,"CHAIREZ, DON",111
-Fernley 6,Attorney General,"CORTEZ  MASTO, CATHERINE",224
+Fernley 6,Attorney General,"CORTEZ MASTO, CATHERINE",224
 Fernley 6,Attorney General,None Of These Candidates,19
 Fernley 6,COUNTY ASSESSOR,"GLASS, H. MICHAEL",284
 Fernley 6,County Clerk/Treasurer,"BRYAN, NIKKI A.",285
@@ -876,8 +876,8 @@ Fernley 6,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",272
 Fernley 6,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",276
 Fernley 6,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",143
 Fernley 6,DISTRICT ATTORNEY,"RYE, STEPHEN B.",153
-Fernley 6,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",200
-Fernley 6,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",134
+Fernley 6,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",200
+Fernley 6,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",134
 Fernley 6,Governor,"BERGLAND, CRAIG O.",9
 Fernley 6,Governor,"GIBBONS, JIM",181
 Fernley 6,Governor,"HANSEN, CHRISTOPHER H.",26
@@ -934,10 +934,10 @@ Fernley 6,U.S. Senate,"ENSIGN, JOHN",178
 Fernley 6,U.S. Senate,None Of These Candidates,9
 Fernley 6,U.S. Senate,"SCHUMANN, DAVID K.",10
 Fernley 6,U.S. Senate,"TRAINOR, BRENDAN",6
-Fernley 6,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",158
-Fernley 6,"University Board of Regents, District  9","Knecht, Ron",140
+Fernley 6,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",158
+Fernley 6,"University Board of Regents, District 9","Knecht, Ron",140
 Fernley 7,Attorney General,"CHAIREZ, DON",128
-Fernley 7,Attorney General,"CORTEZ  MASTO, CATHERINE",265
+Fernley 7,Attorney General,"CORTEZ MASTO, CATHERINE",265
 Fernley 7,Attorney General,None Of These Candidates,22
 Fernley 7,COUNTY ASSESSOR,"GLASS, H. MICHAEL",343
 Fernley 7,County Clerk/Treasurer,"BRYAN, NIKKI A.",353
@@ -947,8 +947,8 @@ Fernley 7,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",341
 Fernley 7,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",344
 Fernley 7,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",206
 Fernley 7,DISTRICT ATTORNEY,"RYE, STEPHEN B.",153
-Fernley 7,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",190
-Fernley 7,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",203
+Fernley 7,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",190
+Fernley 7,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",203
 Fernley 7,Governor,"BERGLAND, CRAIG O.",5
 Fernley 7,Governor,"GIBBONS, JIM",230
 Fernley 7,Governor,"HANSEN, CHRISTOPHER H.",15
@@ -1005,10 +1005,10 @@ Fernley 7,U.S. Senate,"ENSIGN, JOHN",228
 Fernley 7,U.S. Senate,None Of These Candidates,7
 Fernley 7,U.S. Senate,"SCHUMANN, DAVID K.",8
 Fernley 7,U.S. Senate,"TRAINOR, BRENDAN",5
-Fernley 7,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",199
-Fernley 7,"University Board of Regents, District  9","Knecht, Ron",166
+Fernley 7,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",199
+Fernley 7,"University Board of Regents, District 9","Knecht, Ron",166
 Fernley 8,Attorney General,"CHAIREZ, DON",134
-Fernley 8,Attorney General,"CORTEZ  MASTO, CATHERINE",196
+Fernley 8,Attorney General,"CORTEZ MASTO, CATHERINE",196
 Fernley 8,Attorney General,None Of These Candidates,15
 Fernley 8,COUNTY ASSESSOR,"GLASS, H. MICHAEL",288
 Fernley 8,County Clerk/Treasurer,"BRYAN, NIKKI A.",293
@@ -1018,8 +1018,8 @@ Fernley 8,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",285
 Fernley 8,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",290
 Fernley 8,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",181
 Fernley 8,DISTRICT ATTORNEY,"RYE, STEPHEN B.",129
-Fernley 8,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",234
-Fernley 8,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",94
+Fernley 8,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",234
+Fernley 8,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",94
 Fernley 8,Governor,"BERGLAND, CRAIG O.",1
 Fernley 8,Governor,"GIBBONS, JIM",233
 Fernley 8,Governor,"HANSEN, CHRISTOPHER H.",21
@@ -1076,10 +1076,10 @@ Fernley 8,U.S. Senate,"ENSIGN, JOHN",256
 Fernley 8,U.S. Senate,None Of These Candidates,5
 Fernley 8,U.S. Senate,"SCHUMANN, DAVID K.",4
 Fernley 8,U.S. Senate,"TRAINOR, BRENDAN",1
-Fernley 8,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",195
-Fernley 8,"University Board of Regents, District  9","Knecht, Ron",110
+Fernley 8,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",195
+Fernley 8,"University Board of Regents, District 9","Knecht, Ron",110
 Fernley 9,Attorney General,"CHAIREZ, DON",39
-Fernley 9,Attorney General,"CORTEZ  MASTO, CATHERINE",79
+Fernley 9,Attorney General,"CORTEZ MASTO, CATHERINE",79
 Fernley 9,Attorney General,None Of These Candidates,8
 Fernley 9,COUNTY ASSESSOR,"GLASS, H. MICHAEL",99
 Fernley 9,County Clerk/Treasurer,"BRYAN, NIKKI A.",98
@@ -1089,8 +1089,8 @@ Fernley 9,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",96
 Fernley 9,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",99
 Fernley 9,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",62
 Fernley 9,DISTRICT ATTORNEY,"RYE, STEPHEN B.",43
-Fernley 9,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",70
-Fernley 9,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",49
+Fernley 9,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",70
+Fernley 9,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",49
 Fernley 9,Governor,"BERGLAND, CRAIG O.",1
 Fernley 9,Governor,"GIBBONS, JIM",59
 Fernley 9,Governor,"HANSEN, CHRISTOPHER H.",10
@@ -1147,10 +1147,10 @@ Fernley 9,U.S. Senate,"ENSIGN, JOHN",69
 Fernley 9,U.S. Senate,None Of These Candidates,4
 Fernley 9,U.S. Senate,"SCHUMANN, DAVID K.",4
 Fernley 9,U.S. Senate,"TRAINOR, BRENDAN",1
-Fernley 9,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",60
-Fernley 9,"University Board of Regents, District  9","Knecht, Ron",47
+Fernley 9,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",60
+Fernley 9,"University Board of Regents, District 9","Knecht, Ron",47
 Mound House 1,Attorney General,"CHAIREZ, DON",101
-Mound House 1,Attorney General,"CORTEZ  MASTO, CATHERINE",120
+Mound House 1,Attorney General,"CORTEZ MASTO, CATHERINE",120
 Mound House 1,Attorney General,None Of These Candidates,11
 Mound House 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",184
 Mound House 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",187
@@ -1160,8 +1160,8 @@ Mound House 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",178
 Mound House 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",185
 Mound House 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",132
 Mound House 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",70
-Mound House 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",100
-Mound House 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",99
+Mound House 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",100
+Mound House 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",99
 Mound House 1,Governor,"BERGLAND, CRAIG O.",1
 Mound House 1,Governor,"GIBBONS, JIM",138
 Mound House 1,Governor,"HANSEN, CHRISTOPHER H.",20
@@ -1212,10 +1212,10 @@ Mound House 1,U.S. Senate,"ENSIGN, JOHN",141
 Mound House 1,U.S. Senate,None Of These Candidates,2
 Mound House 1,U.S. Senate,"SCHUMANN, DAVID K.",7
 Mound House 1,U.S. Senate,"TRAINOR, BRENDAN",1
-Mound House 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",69
-Mound House 1,"University Board of Regents, District  9","Knecht, Ron",128
+Mound House 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",69
+Mound House 1,"University Board of Regents, District 9","Knecht, Ron",128
 Mound House 2,Attorney General,"CHAIREZ, DON",85
-Mound House 2,Attorney General,"CORTEZ  MASTO, CATHERINE",151
+Mound House 2,Attorney General,"CORTEZ MASTO, CATHERINE",151
 Mound House 2,Attorney General,None Of These Candidates,15
 Mound House 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",206
 Mound House 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",206
@@ -1225,8 +1225,8 @@ Mound House 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",203
 Mound House 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",205
 Mound House 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",139
 Mound House 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",78
-Mound House 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",111
-Mound House 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",105
+Mound House 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",111
+Mound House 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",105
 Mound House 2,Governor,"BERGLAND, CRAIG O.",6
 Mound House 2,Governor,"GIBBONS, JIM",149
 Mound House 2,Governor,"HANSEN, CHRISTOPHER H.",14
@@ -1277,10 +1277,10 @@ Mound House 2,U.S. Senate,"ENSIGN, JOHN",167
 Mound House 2,U.S. Senate,None Of These Candidates,4
 Mound House 2,U.S. Senate,"SCHUMANN, DAVID K.",5
 Mound House 2,U.S. Senate,"TRAINOR, BRENDAN",6
-Mound House 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",76
-Mound House 2,"University Board of Regents, District  9","Knecht, Ron",148
+Mound House 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",76
+Mound House 2,"University Board of Regents, District 9","Knecht, Ron",148
 North Dayton 1,Attorney General,"CHAIREZ, DON",65
-North Dayton 1,Attorney General,"CORTEZ  MASTO, CATHERINE",81
+North Dayton 1,Attorney General,"CORTEZ MASTO, CATHERINE",81
 North Dayton 1,Attorney General,None Of These Candidates,8
 North Dayton 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",129
 North Dayton 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",131
@@ -1290,8 +1290,8 @@ North Dayton 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",124
 North Dayton 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",127
 North Dayton 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",97
 North Dayton 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",38
-North Dayton 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",60
-North Dayton 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",82
+North Dayton 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",60
+North Dayton 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",82
 North Dayton 1,Governor,"BERGLAND, CRAIG O.",5
 North Dayton 1,Governor,"GIBBONS, JIM",103
 North Dayton 1,Governor,"HANSEN, CHRISTOPHER H.",7
@@ -1342,10 +1342,10 @@ North Dayton 1,U.S. Senate,"ENSIGN, JOHN",104
 North Dayton 1,U.S. Senate,None Of These Candidates,3
 North Dayton 1,U.S. Senate,"SCHUMANN, DAVID K.",3
 North Dayton 1,U.S. Senate,"TRAINOR, BRENDAN",1
-North Dayton 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",63
-North Dayton 1,"University Board of Regents, District  9","Knecht, Ron",74
+North Dayton 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",63
+North Dayton 1,"University Board of Regents, District 9","Knecht, Ron",74
 North Dayton 2,Attorney General,"CHAIREZ, DON",231
-North Dayton 2,Attorney General,"CORTEZ  MASTO, CATHERINE",330
+North Dayton 2,Attorney General,"CORTEZ MASTO, CATHERINE",330
 North Dayton 2,Attorney General,None Of These Candidates,36
 North Dayton 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",479
 North Dayton 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",493
@@ -1355,8 +1355,8 @@ North Dayton 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",458
 North Dayton 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",477
 North Dayton 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",323
 North Dayton 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",180
-North Dayton 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",304
-North Dayton 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",227
+North Dayton 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",304
+North Dayton 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",227
 North Dayton 2,Governor,"BERGLAND, CRAIG O.",11
 North Dayton 2,Governor,"GIBBONS, JIM",358
 North Dayton 2,Governor,"HANSEN, CHRISTOPHER H.",32
@@ -1407,10 +1407,10 @@ North Dayton 2,U.S. Senate,"ENSIGN, JOHN",404
 North Dayton 2,U.S. Senate,None Of These Candidates,13
 North Dayton 2,U.S. Senate,"SCHUMANN, DAVID K.",21
 North Dayton 2,U.S. Senate,"TRAINOR, BRENDAN",5
-North Dayton 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",231
-North Dayton 2,"University Board of Regents, District  9","Knecht, Ron",277
+North Dayton 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",231
+North Dayton 2,"University Board of Regents, District 9","Knecht, Ron",277
 North Dayton 3,Attorney General,"CHAIREZ, DON",181
-North Dayton 3,Attorney General,"CORTEZ  MASTO, CATHERINE",273
+North Dayton 3,Attorney General,"CORTEZ MASTO, CATHERINE",273
 North Dayton 3,Attorney General,None Of These Candidates,32
 North Dayton 3,COUNTY ASSESSOR,"GLASS, H. MICHAEL",386
 North Dayton 3,County Clerk/Treasurer,"BRYAN, NIKKI A.",393
@@ -1420,8 +1420,8 @@ North Dayton 3,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",389
 North Dayton 3,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",386
 North Dayton 3,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",235
 North Dayton 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",184
-North Dayton 3,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",251
-North Dayton 3,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",191
+North Dayton 3,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",251
+North Dayton 3,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",191
 North Dayton 3,Governor,"BERGLAND, CRAIG O.",14
 North Dayton 3,Governor,"GIBBONS, JIM",280
 North Dayton 3,Governor,"HANSEN, CHRISTOPHER H.",20
@@ -1472,10 +1472,10 @@ North Dayton 3,U.S. Senate,"ENSIGN, JOHN",305
 North Dayton 3,U.S. Senate,None Of These Candidates,11
 North Dayton 3,U.S. Senate,"SCHUMANN, DAVID K.",12
 North Dayton 3,U.S. Senate,"TRAINOR, BRENDAN",1
-North Dayton 3,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",190
-North Dayton 3,"University Board of Regents, District  9","Knecht, Ron",242
+North Dayton 3,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",190
+North Dayton 3,"University Board of Regents, District 9","Knecht, Ron",242
 North Dayton 4,Attorney General,"CHAIREZ, DON",166
-North Dayton 4,Attorney General,"CORTEZ  MASTO, CATHERINE",289
+North Dayton 4,Attorney General,"CORTEZ MASTO, CATHERINE",289
 North Dayton 4,Attorney General,None Of These Candidates,31
 North Dayton 4,COUNTY ASSESSOR,"GLASS, H. MICHAEL",368
 North Dayton 4,County Clerk/Treasurer,"BRYAN, NIKKI A.",381
@@ -1485,8 +1485,8 @@ North Dayton 4,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",360
 North Dayton 4,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",370
 North Dayton 4,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",266
 North Dayton 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",136
-North Dayton 4,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",256
-North Dayton 4,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",177
+North Dayton 4,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",256
+North Dayton 4,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",177
 North Dayton 4,Governor,"BERGLAND, CRAIG O.",6
 North Dayton 4,Governor,"GIBBONS, JIM",280
 North Dayton 4,Governor,"HANSEN, CHRISTOPHER H.",23
@@ -1537,10 +1537,10 @@ North Dayton 4,U.S. Senate,"ENSIGN, JOHN",296
 North Dayton 4,U.S. Senate,None Of These Candidates,3
 North Dayton 4,U.S. Senate,"SCHUMANN, DAVID K.",14
 North Dayton 4,U.S. Senate,"TRAINOR, BRENDAN",5
-North Dayton 4,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",186
-North Dayton 4,"University Board of Regents, District  9","Knecht, Ron",234
+North Dayton 4,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",186
+North Dayton 4,"University Board of Regents, District 9","Knecht, Ron",234
 North Dayton 5,Attorney General,"CHAIREZ, DON",270
-North Dayton 5,Attorney General,"CORTEZ  MASTO, CATHERINE",318
+North Dayton 5,Attorney General,"CORTEZ MASTO, CATHERINE",318
 North Dayton 5,Attorney General,None Of These Candidates,27
 North Dayton 5,COUNTY ASSESSOR,"GLASS, H. MICHAEL",507
 North Dayton 5,County Clerk/Treasurer,"BRYAN, NIKKI A.",514
@@ -1550,8 +1550,8 @@ North Dayton 5,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",487
 North Dayton 5,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",505
 North Dayton 5,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",360
 North Dayton 5,DISTRICT ATTORNEY,"RYE, STEPHEN B.",180
-North Dayton 5,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",359
-North Dayton 5,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",191
+North Dayton 5,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",359
+North Dayton 5,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",191
 North Dayton 5,Governor,"BERGLAND, CRAIG O.",3
 North Dayton 5,Governor,"GIBBONS, JIM",405
 North Dayton 5,Governor,"HANSEN, CHRISTOPHER H.",27
@@ -1602,8 +1602,8 @@ North Dayton 5,U.S. Senate,"ENSIGN, JOHN",455
 North Dayton 5,U.S. Senate,None Of These Candidates,7
 North Dayton 5,U.S. Senate,"SCHUMANN, DAVID K.",13
 North Dayton 5,U.S. Senate,"TRAINOR, BRENDAN",7
-North Dayton 5,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",209
-North Dayton 5,"University Board of Regents, District  9","Knecht, Ron",324
+North Dayton 5,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",209
+North Dayton 5,"University Board of Regents, District 9","Knecht, Ron",324
 Precinct 99,"U.S. Representative in Congress, District 2","DERBY, JILL",0
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",0
 Precinct 99,"U.S. Representative in Congress, District 2","KROSHUS, JAMES C.",0
@@ -1614,7 +1614,7 @@ Precinct 99,U.S. Senate,None Of These Candidates,0
 Precinct 99,U.S. Senate,"SCHUMANN, DAVID K.",0
 Precinct 99,U.S. Senate,"TRAINOR, BRENDAN",0
 Silver City,Attorney General,"CHAIREZ, DON",21
-Silver City,Attorney General,"CORTEZ  MASTO, CATHERINE",83
+Silver City,Attorney General,"CORTEZ MASTO, CATHERINE",83
 Silver City,Attorney General,None Of These Candidates,6
 Silver City,COUNTY ASSESSOR,"GLASS, H. MICHAEL",57
 Silver City,County Clerk/Treasurer,"BRYAN, NIKKI A.",65
@@ -1624,8 +1624,8 @@ Silver City,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",60
 Silver City,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",55
 Silver City,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",44
 Silver City,DISTRICT ATTORNEY,"RYE, STEPHEN B.",33
-Silver City,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",38
-Silver City,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",49
+Silver City,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",38
+Silver City,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",49
 Silver City,Governor,"BERGLAND, CRAIG O.",2
 Silver City,Governor,"GIBBONS, JIM",27
 Silver City,Governor,"HANSEN, CHRISTOPHER H.",3
@@ -1676,10 +1676,10 @@ Silver City,U.S. Senate,"ENSIGN, JOHN",25
 Silver City,U.S. Senate,None Of These Candidates,0
 Silver City,U.S. Senate,"SCHUMANN, DAVID K.",1
 Silver City,U.S. Senate,"TRAINOR, BRENDAN",1
-Silver City,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",53
-Silver City,"University Board of Regents, District  9","Knecht, Ron",38
+Silver City,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",53
+Silver City,"University Board of Regents, District 9","Knecht, Ron",38
 Silver Springs 1,Attorney General,"CHAIREZ, DON",192
-Silver Springs 1,Attorney General,"CORTEZ  MASTO, CATHERINE",249
+Silver Springs 1,Attorney General,"CORTEZ MASTO, CATHERINE",249
 Silver Springs 1,Attorney General,None Of These Candidates,29
 Silver Springs 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",378
 Silver Springs 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",392
@@ -1689,8 +1689,8 @@ Silver Springs 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",368
 Silver Springs 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",376
 Silver Springs 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",226
 Silver Springs 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",187
-Silver Springs 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",200
-Silver Springs 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",229
+Silver Springs 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",200
+Silver Springs 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",229
 Silver Springs 1,Governor,"BERGLAND, CRAIG O.",9
 Silver Springs 1,Governor,"GIBBONS, JIM",283
 Silver Springs 1,Governor,"HANSEN, CHRISTOPHER H.",25
@@ -1772,10 +1772,10 @@ Silver Springs 2,U.S. Senate,"ENSIGN, JOHN",185
 Silver Springs 2,U.S. Senate,None Of These Candidates,4
 Silver Springs 2,U.S. Senate,"SCHUMANN, DAVID K.",7
 Silver Springs 2,U.S. Senate,"TRAINOR, BRENDAN",3
-Silver Springs 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",140
-Silver Springs 2,"University Board of Regents, District  9","Knecht, Ron",155
+Silver Springs 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",140
+Silver Springs 2,"University Board of Regents, District 9","Knecht, Ron",155
 Silver Springs 3,Attorney General,"CHAIREZ, DON",163
-Silver Springs 3,Attorney General,"CORTEZ  MASTO, CATHERINE",250
+Silver Springs 3,Attorney General,"CORTEZ MASTO, CATHERINE",250
 Silver Springs 3,Attorney General,None Of These Candidates,23
 Silver Springs 3,COUNTY ASSESSOR,"GLASS, H. MICHAEL",345
 Silver Springs 3,County Clerk/Treasurer,"BRYAN, NIKKI A.",354
@@ -1785,8 +1785,8 @@ Silver Springs 3,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",341
 Silver Springs 3,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",346
 Silver Springs 3,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",206
 Silver Springs 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",166
-Silver Springs 3,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",184
-Silver Springs 3,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",218
+Silver Springs 3,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",184
+Silver Springs 3,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",218
 Silver Springs 3,Governor,"BERGLAND, CRAIG O.",5
 Silver Springs 3,Governor,"GIBBONS, JIM",261
 Silver Springs 3,Governor,"HANSEN, CHRISTOPHER H.",24
@@ -1845,10 +1845,10 @@ Silver Springs 3,U.S. Senate,"ENSIGN, JOHN",267
 Silver Springs 3,U.S. Senate,None Of These Candidates,7
 Silver Springs 3,U.S. Senate,"SCHUMANN, DAVID K.",12
 Silver Springs 3,U.S. Senate,"TRAINOR, BRENDAN",3
-Silver Springs 3,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",192
-Silver Springs 3,"University Board of Regents, District  9","Knecht, Ron",187
+Silver Springs 3,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",192
+Silver Springs 3,"University Board of Regents, District 9","Knecht, Ron",187
 Silver Springs 4,Attorney General,"CHAIREZ, DON",107
-Silver Springs 4,Attorney General,"CORTEZ  MASTO, CATHERINE",143
+Silver Springs 4,Attorney General,"CORTEZ MASTO, CATHERINE",143
 Silver Springs 4,State Treasurer,"MARSHALL, KATE",101
 Silver Springs 4,State Treasurer,None Of These Candidates,9
 Silver Springs 4,"Supreme Court Justice, Seat C","Cherry, Michael A.",172
@@ -1868,10 +1868,10 @@ Silver Springs 4,U.S. Senate,"ENSIGN, JOHN",159
 Silver Springs 4,U.S. Senate,None Of These Candidates,3
 Silver Springs 4,U.S. Senate,"SCHUMANN, DAVID K.",8
 Silver Springs 4,U.S. Senate,"TRAINOR, BRENDAN",4
-Silver Springs 4,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",125
-Silver Springs 4,"University Board of Regents, District  9","Knecht, Ron",121
+Silver Springs 4,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",125
+Silver Springs 4,"University Board of Regents, District 9","Knecht, Ron",121
 Smith Valley 1,Attorney General,"CHAIREZ, DON",295
-Smith Valley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",291
+Smith Valley 1,Attorney General,"CORTEZ MASTO, CATHERINE",291
 Smith Valley 1,Attorney General,None Of These Candidates,25
 Smith Valley 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",531
 Smith Valley 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",553
@@ -1881,8 +1881,8 @@ Smith Valley 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",540
 Smith Valley 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",549
 Smith Valley 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",268
 Smith Valley 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",287
-Smith Valley 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",359
-Smith Valley 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",223
+Smith Valley 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",359
+Smith Valley 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",223
 Smith Valley 1,Governor,"BERGLAND, CRAIG O.",6
 Smith Valley 1,Governor,"GIBBONS, JIM",457
 Smith Valley 1,Governor,"HANSEN, CHRISTOPHER H.",18
@@ -1937,10 +1937,10 @@ Smith Valley 1,U.S. Senate,"ENSIGN, JOHN",485
 Smith Valley 1,U.S. Senate,None Of These Candidates,4
 Smith Valley 1,U.S. Senate,"SCHUMANN, DAVID K.",16
 Smith Valley 1,U.S. Senate,"TRAINOR, BRENDAN",5
-Smith Valley 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",397
-Smith Valley 1,"University Board of Regents, District  9","Knecht, Ron",184
+Smith Valley 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",397
+Smith Valley 1,"University Board of Regents, District 9","Knecht, Ron",184
 Smith Valley 2,Attorney General,"CHAIREZ, DON",122
-Smith Valley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",110
+Smith Valley 2,Attorney General,"CORTEZ MASTO, CATHERINE",110
 Smith Valley 2,Attorney General,None Of These Candidates,19
 Smith Valley 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",225
 Smith Valley 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",235
@@ -1950,8 +1950,8 @@ Smith Valley 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",211
 Smith Valley 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",237
 Smith Valley 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",68
 Smith Valley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",163
-Smith Valley 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",144
-Smith Valley 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",93
+Smith Valley 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",144
+Smith Valley 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",93
 Smith Valley 2,Governor,"BERGLAND, CRAIG O.",2
 Smith Valley 2,Governor,"GIBBONS, JIM",197
 Smith Valley 2,Governor,"HANSEN, CHRISTOPHER H.",10
@@ -2010,10 +2010,10 @@ Smith Valley 2,U.S. Senate,"ENSIGN, JOHN",196
 Smith Valley 2,U.S. Senate,None Of These Candidates,8
 Smith Valley 2,U.S. Senate,"SCHUMANN, DAVID K.",7
 Smith Valley 2,U.S. Senate,"TRAINOR, BRENDAN",4
-Smith Valley 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",189
-Smith Valley 2,"University Board of Regents, District  9","Knecht, Ron",53
+Smith Valley 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",189
+Smith Valley 2,"University Board of Regents, District 9","Knecht, Ron",53
 South Dayton 1,Attorney General,"CHAIREZ, DON",182
-South Dayton 1,Attorney General,"CORTEZ  MASTO, CATHERINE",247
+South Dayton 1,Attorney General,"CORTEZ MASTO, CATHERINE",247
 South Dayton 1,Attorney General,None Of These Candidates,23
 South Dayton 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",351
 South Dayton 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",366
@@ -2023,8 +2023,8 @@ South Dayton 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",345
 South Dayton 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",356
 South Dayton 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",242
 South Dayton 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",131
-South Dayton 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",251
-South Dayton 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",148
+South Dayton 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",251
+South Dayton 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",148
 South Dayton 1,Governor,"BERGLAND, CRAIG O.",0
 South Dayton 1,Governor,"GIBBONS, JIM",276
 South Dayton 1,Governor,"HANSEN, CHRISTOPHER H.",21
@@ -2075,10 +2075,10 @@ South Dayton 1,U.S. Senate,"ENSIGN, JOHN",309
 South Dayton 1,U.S. Senate,None Of These Candidates,6
 South Dayton 1,U.S. Senate,"SCHUMANN, DAVID K.",9
 South Dayton 1,U.S. Senate,"TRAINOR, BRENDAN",3
-South Dayton 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",172
-South Dayton 1,"University Board of Regents, District  9","Knecht, Ron",208
+South Dayton 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",172
+South Dayton 1,"University Board of Regents, District 9","Knecht, Ron",208
 South Dayton 2,Attorney General,"CHAIREZ, DON",66
-South Dayton 2,Attorney General,"CORTEZ  MASTO, CATHERINE",87
+South Dayton 2,Attorney General,"CORTEZ MASTO, CATHERINE",87
 South Dayton 2,Attorney General,None Of These Candidates,3
 South Dayton 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",128
 South Dayton 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",134
@@ -2088,8 +2088,8 @@ South Dayton 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",125
 South Dayton 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",124
 South Dayton 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",95
 South Dayton 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",45
-South Dayton 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",108
-South Dayton 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",38
+South Dayton 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",108
+South Dayton 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",38
 South Dayton 2,Governor,"BERGLAND, CRAIG O.",0
 South Dayton 2,Governor,"GIBBONS, JIM",80
 South Dayton 2,Governor,"HANSEN, CHRISTOPHER H.",7
@@ -2140,10 +2140,10 @@ South Dayton 2,U.S. Senate,"ENSIGN, JOHN",97
 South Dayton 2,U.S. Senate,None Of These Candidates,0
 South Dayton 2,U.S. Senate,"SCHUMANN, DAVID K.",5
 South Dayton 2,U.S. Senate,"TRAINOR, BRENDAN",1
-South Dayton 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",76
-South Dayton 2,"University Board of Regents, District  9","Knecht, Ron",64
+South Dayton 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",76
+South Dayton 2,"University Board of Regents, District 9","Knecht, Ron",64
 South Dayton 3,Attorney General,"CHAIREZ, DON",228
-South Dayton 3,Attorney General,"CORTEZ  MASTO, CATHERINE",291
+South Dayton 3,Attorney General,"CORTEZ MASTO, CATHERINE",291
 South Dayton 3,Attorney General,None Of These Candidates,14
 South Dayton 3,COUNTY ASSESSOR,"GLASS, H. MICHAEL",425
 South Dayton 3,County Clerk/Treasurer,"BRYAN, NIKKI A.",437
@@ -2153,8 +2153,8 @@ South Dayton 3,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",422
 South Dayton 3,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",430
 South Dayton 3,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",330
 South Dayton 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",130
-South Dayton 3,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",325
-South Dayton 3,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",167
+South Dayton 3,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",325
+South Dayton 3,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",167
 South Dayton 3,Governor,"BERGLAND, CRAIG O.",5
 South Dayton 3,Governor,"GIBBONS, JIM",345
 South Dayton 3,Governor,"HANSEN, CHRISTOPHER H.",10
@@ -2205,10 +2205,10 @@ South Dayton 3,U.S. Senate,"ENSIGN, JOHN",364
 South Dayton 3,U.S. Senate,None Of These Candidates,5
 South Dayton 3,U.S. Senate,"SCHUMANN, DAVID K.",5
 South Dayton 3,U.S. Senate,"TRAINOR, BRENDAN",3
-South Dayton 3,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",207
-South Dayton 3,"University Board of Regents, District  9","Knecht, Ron",244
+South Dayton 3,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",207
+South Dayton 3,"University Board of Regents, District 9","Knecht, Ron",244
 South Dayton 4,Attorney General,"CHAIREZ, DON",113
-South Dayton 4,Attorney General,"CORTEZ  MASTO, CATHERINE",185
+South Dayton 4,Attorney General,"CORTEZ MASTO, CATHERINE",185
 South Dayton 4,Attorney General,None Of These Candidates,8
 South Dayton 4,COUNTY ASSESSOR,"GLASS, H. MICHAEL",237
 South Dayton 4,County Clerk/Treasurer,"BRYAN, NIKKI A.",240
@@ -2218,8 +2218,8 @@ South Dayton 4,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",231
 South Dayton 4,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",236
 South Dayton 4,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",183
 South Dayton 4,DISTRICT ATTORNEY,"RYE, STEPHEN B.",74
-South Dayton 4,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",174
-South Dayton 4,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",93
+South Dayton 4,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",174
+South Dayton 4,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",93
 South Dayton 4,Governor,"BERGLAND, CRAIG O.",3
 South Dayton 4,Governor,"GIBBONS, JIM",167
 South Dayton 4,Governor,"HANSEN, CHRISTOPHER H.",10
@@ -2270,10 +2270,10 @@ South Dayton 4,U.S. Senate,"ENSIGN, JOHN",178
 South Dayton 4,U.S. Senate,None Of These Candidates,6
 South Dayton 4,U.S. Senate,"SCHUMANN, DAVID K.",8
 South Dayton 4,U.S. Senate,"TRAINOR, BRENDAN",3
-South Dayton 4,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",116
-South Dayton 4,"University Board of Regents, District  9","Knecht, Ron",147
+South Dayton 4,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",116
+South Dayton 4,"University Board of Regents, District 9","Knecht, Ron",147
 Spragg-Plummer,Attorney General,"CHAIREZ, DON",250
-Spragg-Plummer,Attorney General,"CORTEZ  MASTO, CATHERINE",267
+Spragg-Plummer,Attorney General,"CORTEZ MASTO, CATHERINE",267
 Spragg-Plummer,Attorney General,None Of These Candidates,26
 Spragg-Plummer,COUNTY ASSESSOR,"GLASS, H. MICHAEL",450
 Spragg-Plummer,County Clerk/Treasurer,"BRYAN, NIKKI A.",460
@@ -2283,8 +2283,8 @@ Spragg-Plummer,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",436
 Spragg-Plummer,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",456
 Spragg-Plummer,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",175
 Spragg-Plummer,DISTRICT ATTORNEY,"RYE, STEPHEN B.",326
-Spragg-Plummer,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",239
-Spragg-Plummer,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",281
+Spragg-Plummer,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",239
+Spragg-Plummer,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",281
 Spragg-Plummer,Governor,"BERGLAND, CRAIG O.",5
 Spragg-Plummer,Governor,"GIBBONS, JIM",376
 Spragg-Plummer,Governor,"HANSEN, CHRISTOPHER H.",25
@@ -2343,10 +2343,10 @@ Spragg-Plummer,U.S. Senate,"ENSIGN, JOHN",399
 Spragg-Plummer,U.S. Senate,None Of These Candidates,13
 Spragg-Plummer,U.S. Senate,"SCHUMANN, DAVID K.",7
 Spragg-Plummer,U.S. Senate,"TRAINOR, BRENDAN",3
-Spragg-Plummer,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",358
-Spragg-Plummer,"University Board of Regents, District  9","Knecht, Ron",149
+Spragg-Plummer,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",358
+Spragg-Plummer,"University Board of Regents, District 9","Knecht, Ron",149
 Stagecoach 1,Attorney General,"CHAIREZ, DON",223
-Stagecoach 1,Attorney General,"CORTEZ  MASTO, CATHERINE",320
+Stagecoach 1,Attorney General,"CORTEZ MASTO, CATHERINE",320
 Stagecoach 1,Attorney General,None Of These Candidates,45
 Stagecoach 1,COUNTY ASSESSOR,"GLASS, H. MICHAEL",466
 Stagecoach 1,County Clerk/Treasurer,"BRYAN, NIKKI A.",479
@@ -2356,8 +2356,8 @@ Stagecoach 1,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",462
 Stagecoach 1,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",477
 Stagecoach 1,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",313
 Stagecoach 1,DISTRICT ATTORNEY,"RYE, STEPHEN B.",189
-Stagecoach 1,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",270
-Stagecoach 1,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",267
+Stagecoach 1,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",270
+Stagecoach 1,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",267
 Stagecoach 1,Governor,"BERGLAND, CRAIG O.",13
 Stagecoach 1,Governor,"GIBBONS, JIM",365
 Stagecoach 1,Governor,"HANSEN, CHRISTOPHER H.",45
@@ -2408,10 +2408,10 @@ Stagecoach 1,U.S. Senate,"ENSIGN, JOHN",374
 Stagecoach 1,U.S. Senate,None Of These Candidates,9
 Stagecoach 1,U.S. Senate,"SCHUMANN, DAVID K.",16
 Stagecoach 1,U.S. Senate,"TRAINOR, BRENDAN",6
-Stagecoach 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",225
-Stagecoach 1,"University Board of Regents, District  9","Knecht, Ron",288
+Stagecoach 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",225
+Stagecoach 1,"University Board of Regents, District 9","Knecht, Ron",288
 Stagecoach 2,Attorney General,"CHAIREZ, DON",91
-Stagecoach 2,Attorney General,"CORTEZ  MASTO, CATHERINE",103
+Stagecoach 2,Attorney General,"CORTEZ MASTO, CATHERINE",103
 Stagecoach 2,Attorney General,None Of These Candidates,14
 Stagecoach 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",178
 Stagecoach 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",181
@@ -2421,8 +2421,8 @@ Stagecoach 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",169
 Stagecoach 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",177
 Stagecoach 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",114
 Stagecoach 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",72
-Stagecoach 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",81
-Stagecoach 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",114
+Stagecoach 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",81
+Stagecoach 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",114
 Stagecoach 2,Governor,"BERGLAND, CRAIG O.",2
 Stagecoach 2,Governor,"GIBBONS, JIM",135
 Stagecoach 2,Governor,"HANSEN, CHRISTOPHER H.",6
@@ -2498,10 +2498,10 @@ West Mason Valley 1,U.S. Senate,"ENSIGN, JOHN",408
 West Mason Valley 1,U.S. Senate,None Of These Candidates,6
 West Mason Valley 1,U.S. Senate,"SCHUMANN, DAVID K.",13
 West Mason Valley 1,U.S. Senate,"TRAINOR, BRENDAN",3
-West Mason Valley 1,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",407
-West Mason Valley 1,"University Board of Regents, District  9","Knecht, Ron",131
+West Mason Valley 1,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",407
+West Mason Valley 1,"University Board of Regents, District 9","Knecht, Ron",131
 West Mason Valley 2,Attorney General,"CHAIREZ, DON",123
-West Mason Valley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",240
+West Mason Valley 2,Attorney General,"CORTEZ MASTO, CATHERINE",240
 West Mason Valley 2,Attorney General,None Of These Candidates,11
 West Mason Valley 2,COUNTY ASSESSOR,"GLASS, H. MICHAEL",312
 West Mason Valley 2,County Clerk/Treasurer,"BRYAN, NIKKI A.",313
@@ -2511,8 +2511,8 @@ West Mason Valley 2,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",300
 West Mason Valley 2,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",316
 West Mason Valley 2,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",139
 West Mason Valley 2,DISTRICT ATTORNEY,"RYE, STEPHEN B.",196
-West Mason Valley 2,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",172
-West Mason Valley 2,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",192
+West Mason Valley 2,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",172
+West Mason Valley 2,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",192
 West Mason Valley 2,Governor,"BERGLAND, CRAIG O.",4
 West Mason Valley 2,Governor,"GIBBONS, JIM",237
 West Mason Valley 2,Governor,"HANSEN, CHRISTOPHER H.",20
@@ -2573,10 +2573,10 @@ West Mason Valley 2,U.S. Senate,"ENSIGN, JOHN",249
 West Mason Valley 2,U.S. Senate,None Of These Candidates,9
 West Mason Valley 2,U.S. Senate,"SCHUMANN, DAVID K.",12
 West Mason Valley 2,U.S. Senate,"TRAINOR, BRENDAN",3
-West Mason Valley 2,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",259
-West Mason Valley 2,"University Board of Regents, District  9","Knecht, Ron",97
+West Mason Valley 2,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",259
+West Mason Valley 2,"University Board of Regents, District 9","Knecht, Ron",97
 West Mason Valley 3,Attorney General,"CHAIREZ, DON",139
-West Mason Valley 3,Attorney General,"CORTEZ  MASTO, CATHERINE",221
+West Mason Valley 3,Attorney General,"CORTEZ MASTO, CATHERINE",221
 West Mason Valley 3,Attorney General,None Of These Candidates,21
 West Mason Valley 3,COUNTY ASSESSOR,"GLASS, H. MICHAEL",317
 West Mason Valley 3,County Clerk/Treasurer,"BRYAN, NIKKI A.",321
@@ -2586,8 +2586,8 @@ West Mason Valley 3,County Commissioner District V (CW),"HUNEWILL, PHYLLIS",305
 West Mason Valley 3,COUNTY RECORDER (Republican),"MILLIGAN, MARY C.",321
 West Mason Valley 3,DISTRICT ATTORNEY,"AUER, ROBERT ""BOB""",168
 West Mason Valley 3,DISTRICT ATTORNEY,"RYE, STEPHEN B.",172
-West Mason Valley 3,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",177
-West Mason Valley 3,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",188
+West Mason Valley 3,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",177
+West Mason Valley 3,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",188
 West Mason Valley 3,Governor,"BERGLAND, CRAIG O.",6
 West Mason Valley 3,Governor,"GIBBONS, JIM",234
 West Mason Valley 3,Governor,"HANSEN, CHRISTOPHER H.",12
@@ -2648,4 +2648,4 @@ West Mason Valley 3,U.S. Senate,"ENSIGN, JOHN",232
 West Mason Valley 3,U.S. Senate,None Of These Candidates,6
 West Mason Valley 3,U.S. Senate,"SCHUMANN, DAVID K.",9
 West Mason Valley 3,U.S. Senate,"TRAINOR, BRENDAN",3
-West Mason Valley 3,"University Board of Regents, District  9","FULSTONE, II, DAVID H.",228
+West Mason Valley 3,"University Board of Regents, District 9","FULSTONE, II, DAVID H.",228

@@ -1,7 +1,7 @@
 precinct,office,candidate,votes
-PRECINCT 1,Justice of the Peace -  PERSHING - NP (Nonpartisan),"BERGE, KRISTY",50
-PRECINCT 1,Justice of the Peace -  PERSHING - NP (Nonpartisan),"EVANS, JAMES",99
-PRECINCT 1,Justice of the Peace -  PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",148
+PRECINCT 1,Justice of the Peace - PERSHING - NP (Nonpartisan),"BERGE, KRISTY",50
+PRECINCT 1,Justice of the Peace - PERSHING - NP (Nonpartisan),"EVANS, JAMES",99
+PRECINCT 1,Justice of the Peace - PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",148
 PRECINCT 1,School Dist. Board of Trustees Seat B (Nonpartisan),"GORSLINE, WILLIAM ""BILL""",265
 PRECINCT 1,School Dist. Board of Trustees Seat D (Nonpartisan),"BRINKERHOFF, WALTER A.",272
 PRECINCT 1,School Dist. Board of Trustees Seat E (Nonpartisan),"CRIM, JOE",266
@@ -25,9 +25,9 @@ PRECINCT 1,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
 PRECINCT 1,U.S. Senate (Republican),"Heller, Dean",152
 PRECINCT 1,U.S. Senate (Republican),None Of These Candidates,9
 PRECINCT 1,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 3,Justice of the Peace -  PERSHING - NP (Nonpartisan),"BERGE, KRISTY",28
-PRECINCT 3,Justice of the Peace -  PERSHING - NP (Nonpartisan),"EVANS, JAMES",69
-PRECINCT 3,Justice of the Peace -  PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",67
+PRECINCT 3,Justice of the Peace - PERSHING - NP (Nonpartisan),"BERGE, KRISTY",28
+PRECINCT 3,Justice of the Peace - PERSHING - NP (Nonpartisan),"EVANS, JAMES",69
+PRECINCT 3,Justice of the Peace - PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",67
 PRECINCT 3,School Dist. Board of Trustees Seat B (Nonpartisan),"GORSLINE, WILLIAM ""BILL""",136
 PRECINCT 3,School Dist. Board of Trustees Seat D (Nonpartisan),"BRINKERHOFF, WALTER A.",140
 PRECINCT 3,School Dist. Board of Trustees Seat E (Nonpartisan),"CRIM, JOE",138
@@ -51,9 +51,9 @@ PRECINCT 3,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
 PRECINCT 3,U.S. Senate (Republican),"Heller, Dean",71
 PRECINCT 3,U.S. Senate (Republican),None Of These Candidates,4
 PRECINCT 3,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",3
-PRECINCT 4,Justice of the Peace -  PERSHING - NP (Nonpartisan),"BERGE, KRISTY",14
-PRECINCT 4,Justice of the Peace -  PERSHING - NP (Nonpartisan),"EVANS, JAMES",38
-PRECINCT 4,Justice of the Peace -  PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",57
+PRECINCT 4,Justice of the Peace - PERSHING - NP (Nonpartisan),"BERGE, KRISTY",14
+PRECINCT 4,Justice of the Peace - PERSHING - NP (Nonpartisan),"EVANS, JAMES",38
+PRECINCT 4,Justice of the Peace - PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",57
 PRECINCT 4,School Dist. Board of Trustees Seat B (Nonpartisan),"GORSLINE, WILLIAM ""BILL""",93
 PRECINCT 4,School Dist. Board of Trustees Seat D (Nonpartisan),"BRINKERHOFF, WALTER A.",98
 PRECINCT 4,School Dist. Board of Trustees Seat E (Nonpartisan),"CRIM, JOE",92
@@ -77,9 +77,9 @@ PRECINCT 4,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
 PRECINCT 4,U.S. Senate (Republican),"Heller, Dean",33
 PRECINCT 4,U.S. Senate (Republican),None Of These Candidates,5
 PRECINCT 4,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
-PRECINCT 5,Justice of the Peace -  PERSHING - NP (Nonpartisan),"BERGE, KRISTY",10
-PRECINCT 5,Justice of the Peace -  PERSHING - NP (Nonpartisan),"EVANS, JAMES",25
-PRECINCT 5,Justice of the Peace -  PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",24
+PRECINCT 5,Justice of the Peace - PERSHING - NP (Nonpartisan),"BERGE, KRISTY",10
+PRECINCT 5,Justice of the Peace - PERSHING - NP (Nonpartisan),"EVANS, JAMES",25
+PRECINCT 5,Justice of the Peace - PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",24
 PRECINCT 5,School Dist. Board of Trustees Seat B (Nonpartisan),"GORSLINE, WILLIAM ""BILL""",48
 PRECINCT 5,School Dist. Board of Trustees Seat D (Nonpartisan),"BRINKERHOFF, WALTER A.",47
 PRECINCT 5,School Dist. Board of Trustees Seat E (Nonpartisan),"CRIM, JOE",47
@@ -103,9 +103,9 @@ PRECINCT 5,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 5,U.S. Senate (Republican),"Heller, Dean",26
 PRECINCT 5,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 5,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 6,Justice of the Peace -  PERSHING - NP (Nonpartisan),"BERGE, KRISTY",10
-PRECINCT 6,Justice of the Peace -  PERSHING - NP (Nonpartisan),"EVANS, JAMES",33
-PRECINCT 6,Justice of the Peace -  PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",39
+PRECINCT 6,Justice of the Peace - PERSHING - NP (Nonpartisan),"BERGE, KRISTY",10
+PRECINCT 6,Justice of the Peace - PERSHING - NP (Nonpartisan),"EVANS, JAMES",33
+PRECINCT 6,Justice of the Peace - PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",39
 PRECINCT 6,School Dist. Board of Trustees Seat B (Nonpartisan),"GORSLINE, WILLIAM ""BILL""",75
 PRECINCT 6,School Dist. Board of Trustees Seat D (Nonpartisan),"BRINKERHOFF, WALTER A.",76
 PRECINCT 6,School Dist. Board of Trustees Seat E (Nonpartisan),"CRIM, JOE",76
@@ -129,9 +129,9 @@ PRECINCT 6,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
 PRECINCT 6,U.S. Senate (Republican),"Heller, Dean",49
 PRECINCT 6,U.S. Senate (Republican),None Of These Candidates,2
 PRECINCT 6,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 7,Justice of the Peace -  PERSHING - NP (Nonpartisan),"BERGE, KRISTY",14
-PRECINCT 7,Justice of the Peace -  PERSHING - NP (Nonpartisan),"EVANS, JAMES",56
-PRECINCT 7,Justice of the Peace -  PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",53
+PRECINCT 7,Justice of the Peace - PERSHING - NP (Nonpartisan),"BERGE, KRISTY",14
+PRECINCT 7,Justice of the Peace - PERSHING - NP (Nonpartisan),"EVANS, JAMES",56
+PRECINCT 7,Justice of the Peace - PERSHING - NP (Nonpartisan),"STEPHENS, KAREN",53
 PRECINCT 7,School Dist. Board of Trustees Seat B (Nonpartisan),"GORSLINE, WILLIAM ""BILL""",108
 PRECINCT 7,School Dist. Board of Trustees Seat D (Nonpartisan),"BRINKERHOFF, WALTER A.",101
 PRECINCT 7,School Dist. Board of Trustees Seat E (Nonpartisan),"CRIM, JOE",105

@@ -7,8 +7,8 @@ precinct,office,candidate,votes
 01-Centerville,County Commissioner District 5 (Republican),"POSSELT, STUART",59
 01-Centerville,"County Commissioner, District 1 (Republican)","LYNN, GREG",105
 01-Centerville,"County Commissioner, District 1 (Republican)","NELSON, DAVE",50
-01-Centerville,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",172
-01-Centerville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",174
+01-Centerville,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",172
+01-Centerville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",174
 01-Centerville,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",166
 01-Centerville,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",156
 01-Centerville,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",151
@@ -30,8 +30,8 @@ precinct,office,candidate,votes
 02-Fish Springs,County Commissioner District 5 (Republican),"POSSELT, STUART",88
 02-Fish Springs,"County Commissioner, District 1 (Republican)","LYNN, GREG",122
 02-Fish Springs,"County Commissioner, District 1 (Republican)","NELSON, DAVE",92
-02-Fish Springs,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",268
-02-Fish Springs,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",259
+02-Fish Springs,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",268
+02-Fish Springs,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",259
 02-Fish Springs,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",249
 02-Fish Springs,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",240
 02-Fish Springs,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",235
@@ -53,8 +53,8 @@ precinct,office,candidate,votes
 03-Gardnerville,County Commissioner District 5 (Republican),"POSSELT, STUART",74
 03-Gardnerville,"County Commissioner, District 1 (Republican)","LYNN, GREG",115
 03-Gardnerville,"County Commissioner, District 1 (Republican)","NELSON, DAVE",75
-03-Gardnerville,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",264
-03-Gardnerville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",268
+03-Gardnerville,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",264
+03-Gardnerville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",268
 03-Gardnerville,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",260
 03-Gardnerville,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",259
 03-Gardnerville,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",251
@@ -76,8 +76,8 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,County Commissioner District 5 (Republican),"POSSELT, STUART",32
 04-Carson Valley Estates,"County Commissioner, District 1 (Republican)","LYNN, GREG",67
 04-Carson Valley Estates,"County Commissioner, District 1 (Republican)","NELSON, DAVE",51
-04-Carson Valley Estates,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",163
-04-Carson Valley Estates,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",166
+04-Carson Valley Estates,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",163
+04-Carson Valley Estates,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",166
 04-Carson Valley Estates,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",171
 04-Carson Valley Estates,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",157
 04-Carson Valley Estates,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",158
@@ -99,8 +99,8 @@ precinct,office,candidate,votes
 05-Genoa,County Commissioner District 5 (Republican),"POSSELT, STUART",100
 05-Genoa,"County Commissioner, District 1 (Republican)","LYNN, GREG",86
 05-Genoa,"County Commissioner, District 1 (Republican)","NELSON, DAVE",98
-05-Genoa,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",216
-05-Genoa,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",200
+05-Genoa,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",216
+05-Genoa,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",200
 05-Genoa,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",192
 05-Genoa,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",180
 05-Genoa,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",178
@@ -122,8 +122,8 @@ precinct,office,candidate,votes
 06-Jacks Valley,County Commissioner District 5 (Republican),"POSSELT, STUART",77
 06-Jacks Valley,"County Commissioner, District 1 (Republican)","LYNN, GREG",71
 06-Jacks Valley,"County Commissioner, District 1 (Republican)","NELSON, DAVE",89
-06-Jacks Valley,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",230
-06-Jacks Valley,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",228
+06-Jacks Valley,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",230
+06-Jacks Valley,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",228
 06-Jacks Valley,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",218
 06-Jacks Valley,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",214
 06-Jacks Valley,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",213
@@ -145,8 +145,8 @@ precinct,office,candidate,votes
 07-Minden,County Commissioner District 5 (Republican),"POSSELT, STUART",74
 07-Minden,"County Commissioner, District 1 (Republican)","LYNN, GREG",135
 07-Minden,"County Commissioner, District 1 (Republican)","NELSON, DAVE",82
-07-Minden,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",281
-07-Minden,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",279
+07-Minden,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",281
+07-Minden,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",279
 07-Minden,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",275
 07-Minden,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",261
 07-Minden,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",263
@@ -168,8 +168,8 @@ precinct,office,candidate,votes
 08-Ranchos I,County Commissioner District 5 (Republican),"POSSELT, STUART",60
 08-Ranchos I,"County Commissioner, District 1 (Republican)","LYNN, GREG",57
 08-Ranchos I,"County Commissioner, District 1 (Republican)","NELSON, DAVE",65
-08-Ranchos I,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",142
-08-Ranchos I,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",136
+08-Ranchos I,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",142
+08-Ranchos I,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",136
 08-Ranchos I,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",122
 08-Ranchos I,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",121
 08-Ranchos I,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",120
@@ -191,8 +191,8 @@ precinct,office,candidate,votes
 09-Ranchos II,County Commissioner District 5 (Republican),"POSSELT, STUART",30
 09-Ranchos II,"County Commissioner, District 1 (Republican)","LYNN, GREG",70
 09-Ranchos II,"County Commissioner, District 1 (Republican)","NELSON, DAVE",34
-09-Ranchos II,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",163
-09-Ranchos II,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",162
+09-Ranchos II,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",163
+09-Ranchos II,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",162
 09-Ranchos II,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",157
 09-Ranchos II,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",152
 09-Ranchos II,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",156
@@ -214,8 +214,8 @@ precinct,office,candidate,votes
 10-TRE,County Commissioner District 5 (Republican),"POSSELT, STUART",71
 10-TRE,"County Commissioner, District 1 (Republican)","LYNN, GREG",87
 10-TRE,"County Commissioner, District 1 (Republican)","NELSON, DAVE",86
-10-TRE,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",259
-10-TRE,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",258
+10-TRE,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",259
+10-TRE,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",258
 10-TRE,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",237
 10-TRE,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",239
 10-TRE,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",229
@@ -237,8 +237,8 @@ precinct,office,candidate,votes
 11-Johnson Lane,County Commissioner District 5 (Republican),"POSSELT, STUART",92
 11-Johnson Lane,"County Commissioner, District 1 (Republican)","LYNN, GREG",71
 11-Johnson Lane,"County Commissioner, District 1 (Republican)","NELSON, DAVE",102
-11-Johnson Lane,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",255
-11-Johnson Lane,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",257
+11-Johnson Lane,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",255
+11-Johnson Lane,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",257
 11-Johnson Lane,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",242
 11-Johnson Lane,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",234
 11-Johnson Lane,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",233
@@ -260,8 +260,8 @@ precinct,office,candidate,votes
 12-Dresslerville,County Commissioner District 5 (Republican),"POSSELT, STUART",
 12-Dresslerville,"County Commissioner, District 1 (Republican)","LYNN, GREG",
 12-Dresslerville,"County Commissioner, District 1 (Republican)","NELSON, DAVE",
-12-Dresslerville,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",12
-12-Dresslerville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",14
+12-Dresslerville,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",12
+12-Dresslerville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",14
 12-Dresslerville,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",15
 12-Dresslerville,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",14
 12-Dresslerville,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",13
@@ -283,8 +283,8 @@ precinct,office,candidate,votes
 13-Indian Hills - West,County Commissioner District 5 (Republican),"POSSELT, STUART",42
 13-Indian Hills - West,"County Commissioner, District 1 (Republican)","LYNN, GREG",47
 13-Indian Hills - West,"County Commissioner, District 1 (Republican)","NELSON, DAVE",55
-13-Indian Hills - West,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",181
-13-Indian Hills - West,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",179
+13-Indian Hills - West,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",181
+13-Indian Hills - West,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",179
 13-Indian Hills - West,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",166
 13-Indian Hills - West,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",166
 13-Indian Hills - West,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",166
@@ -306,8 +306,8 @@ precinct,office,candidate,votes
 14-Pinenut,County Commissioner District 5 (Republican),"POSSELT, STUART",116
 14-Pinenut,"County Commissioner, District 1 (Republican)","LYNN, GREG",113
 14-Pinenut,"County Commissioner, District 1 (Republican)","NELSON, DAVE",102
-14-Pinenut,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",225
-14-Pinenut,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",226
+14-Pinenut,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",225
+14-Pinenut,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",226
 14-Pinenut,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",196
 14-Pinenut,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",182
 14-Pinenut,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",180
@@ -329,8 +329,8 @@ precinct,office,candidate,votes
 15-Valley,County Commissioner District 5 (Republican),"POSSELT, STUART",42
 15-Valley,"County Commissioner, District 1 (Republican)","LYNN, GREG",32
 15-Valley,"County Commissioner, District 1 (Republican)","NELSON, DAVE",49
-15-Valley,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",97
-15-Valley,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",96
+15-Valley,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",97
+15-Valley,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",96
 15-Valley,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",90
 15-Valley,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",86
 15-Valley,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",85
@@ -352,8 +352,8 @@ precinct,office,candidate,votes
 16-Mottsville,County Commissioner District 5 (Republican),"POSSELT, STUART",110
 16-Mottsville,"County Commissioner, District 1 (Republican)","LYNN, GREG",85
 16-Mottsville,"County Commissioner, District 1 (Republican)","NELSON, DAVE",105
-16-Mottsville,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",196
-16-Mottsville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",189
+16-Mottsville,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",196
+16-Mottsville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",189
 16-Mottsville,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",189
 16-Mottsville,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",174
 16-Mottsville,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",175
@@ -375,8 +375,8 @@ precinct,office,candidate,votes
 17-Ruhenstroth,County Commissioner District 5 (Republican),"POSSELT, STUART",132
 17-Ruhenstroth,"County Commissioner, District 1 (Republican)","LYNN, GREG",161
 17-Ruhenstroth,"County Commissioner, District 1 (Republican)","NELSON, DAVE",140
-17-Ruhenstroth,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",362
-17-Ruhenstroth,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",351
+17-Ruhenstroth,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",362
+17-Ruhenstroth,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",351
 17-Ruhenstroth,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",350
 17-Ruhenstroth,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",337
 17-Ruhenstroth,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",344
@@ -398,7 +398,7 @@ precinct,office,candidate,votes
 18-Ranchos III,County Commissioner District 5 (Republican),"POSSELT, STUART",61
 18-Ranchos III,"County Commissioner, District 1 (Republican)","LYNN, GREG",124
 18-Ranchos III,"County Commissioner, District 1 (Republican)","NELSON, DAVE",48
-18-Ranchos III,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",241
+18-Ranchos III,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",241
 20-Birch/Ranchos,"State Board of Education, District 9 (Nonpartisan)","CASEY, ROY J.",24
 20-Birch/Ranchos,"State Board of Education, District 9 (Nonpartisan)","COOK, DAVE",79
 20-Birch/Ranchos,"State Board of Education, District 9 (Nonpartisan)","MYERS, BARBARA J.",42
@@ -417,8 +417,8 @@ precinct,office,candidate,votes
 21-Wildhorse,County Commissioner District 5 (Republican),"POSSELT, STUART",110
 21-Wildhorse,"County Commissioner, District 1 (Republican)","LYNN, GREG",103
 21-Wildhorse,"County Commissioner, District 1 (Republican)","NELSON, DAVE",111
-21-Wildhorse,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",284
-21-Wildhorse,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",282
+21-Wildhorse,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",284
+21-Wildhorse,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",282
 21-Wildhorse,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",263
 21-Wildhorse,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",255
 21-Wildhorse,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",253
@@ -440,8 +440,8 @@ precinct,office,candidate,votes
 22-Saratoga,County Commissioner District 5 (Republican),"POSSELT, STUART",121
 22-Saratoga,"County Commissioner, District 1 (Republican)","LYNN, GREG",100
 22-Saratoga,"County Commissioner, District 1 (Republican)","NELSON, DAVE",131
-22-Saratoga,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",288
-22-Saratoga,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",279
+22-Saratoga,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",288
+22-Saratoga,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",279
 22-Saratoga,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",264
 22-Saratoga,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",264
 22-Saratoga,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",269
@@ -463,8 +463,8 @@ precinct,office,candidate,votes
 23-Indian Hills - East,County Commissioner District 5 (Republican),"POSSELT, STUART",20
 23-Indian Hills - East,"County Commissioner, District 1 (Republican)","LYNN, GREG",46
 23-Indian Hills - East,"County Commissioner, District 1 (Republican)","NELSON, DAVE",37
-23-Indian Hills - East,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",130
-23-Indian Hills - East,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",125
+23-Indian Hills - East,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",130
+23-Indian Hills - East,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",125
 23-Indian Hills - East,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",116
 23-Indian Hills - East,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",112
 23-Indian Hills - East,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",113
@@ -486,8 +486,8 @@ precinct,office,candidate,votes
 24-Topaz Lake,County Commissioner District 5 (Republican),"POSSELT, STUART",44
 24-Topaz Lake,"County Commissioner, District 1 (Republican)","LYNN, GREG",57
 24-Topaz Lake,"County Commissioner, District 1 (Republican)","NELSON, DAVE",39
-24-Topaz Lake,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",126
-24-Topaz Lake,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",124
+24-Topaz Lake,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",126
+24-Topaz Lake,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",124
 24-Topaz Lake,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",121
 24-Topaz Lake,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",123
 24-Topaz Lake,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",126
@@ -509,8 +509,8 @@ precinct,office,candidate,votes
 25-Pleasantview,County Commissioner District 5 (Republican),"POSSELT, STUART",139
 25-Pleasantview,"County Commissioner, District 1 (Republican)","LYNN, GREG",204
 25-Pleasantview,"County Commissioner, District 1 (Republican)","NELSON, DAVE",129
-25-Pleasantview,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",379
-25-Pleasantview,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",376
+25-Pleasantview,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",379
+25-Pleasantview,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",376
 25-Pleasantview,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",358
 25-Pleasantview,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",344
 25-Pleasantview,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",349
@@ -532,8 +532,8 @@ precinct,office,candidate,votes
 26-Westwood,County Commissioner District 5 (Republican),"POSSELT, STUART",41
 26-Westwood,"County Commissioner, District 1 (Republican)","LYNN, GREG",69
 26-Westwood,"County Commissioner, District 1 (Republican)","NELSON, DAVE",53
-26-Westwood,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",164
-26-Westwood,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",163
+26-Westwood,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",164
+26-Westwood,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",163
 26-Westwood,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",155
 26-Westwood,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",149
 26-Westwood,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",148
@@ -555,8 +555,8 @@ precinct,office,candidate,votes
 27-Winhaven,County Commissioner District 5 (Republican),"POSSELT, STUART",130
 27-Winhaven,"County Commissioner, District 1 (Republican)","LYNN, GREG",124
 27-Winhaven,"County Commissioner, District 1 (Republican)","NELSON, DAVE",111
-27-Winhaven,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",279
-27-Winhaven,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",273
+27-Winhaven,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",279
+27-Winhaven,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",273
 27-Winhaven,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",264
 27-Winhaven,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",248
 27-Winhaven,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",247
@@ -578,8 +578,8 @@ precinct,office,candidate,votes
 28-Orchard Road,County Commissioner District 5 (Republican),"POSSELT, STUART",47
 28-Orchard Road,"County Commissioner, District 1 (Republican)","LYNN, GREG",69
 28-Orchard Road,"County Commissioner, District 1 (Republican)","NELSON, DAVE",38
-28-Orchard Road,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",104
-28-Orchard Road,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",106
+28-Orchard Road,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",104
+28-Orchard Road,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",106
 28-Orchard Road,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",95
 28-Orchard Road,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",87
 28-Orchard Road,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",89
@@ -601,8 +601,8 @@ precinct,office,candidate,votes
 29-Autumn Hils,County Commissioner District 5 (Republican),"POSSELT, STUART",97
 29-Autumn Hils,"County Commissioner, District 1 (Republican)","LYNN, GREG",75
 29-Autumn Hils,"County Commissioner, District 1 (Republican)","NELSON, DAVE",101
-29-Autumn Hils,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",190
-29-Autumn Hils,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",185
+29-Autumn Hils,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",190
+29-Autumn Hils,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",185
 29-Autumn Hils,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",166
 29-Autumn Hils,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",164
 29-Autumn Hils,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",166
@@ -624,8 +624,8 @@ precinct,office,candidate,votes
 30-East Fork,County Commissioner District 5 (Republican),"POSSELT, STUART",0
 30-East Fork,"County Commissioner, District 1 (Republican)","LYNN, GREG",0
 30-East Fork,"County Commissioner, District 1 (Republican)","NELSON, DAVE",0
-30-East Fork,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",0
-30-East Fork,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",0
+30-East Fork,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",0
+30-East Fork,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",0
 30-East Fork,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",0
 30-East Fork,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",0
 30-East Fork,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",0
@@ -647,8 +647,8 @@ precinct,office,candidate,votes
 31-Chichester,County Commissioner District 5 (Republican),"POSSELT, STUART",69
 31-Chichester,"County Commissioner, District 1 (Republican)","LYNN, GREG",47
 31-Chichester,"County Commissioner, District 1 (Republican)","NELSON, DAVE",64
-31-Chichester,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",139
-31-Chichester,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",130
+31-Chichester,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",139
+31-Chichester,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",130
 31-Chichester,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",117
 31-Chichester,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",116
 31-Chichester,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",114
@@ -670,8 +670,8 @@ precinct,office,candidate,votes
 32-East Valley,County Commissioner District 5 (Republican),"POSSELT, STUART",45
 32-East Valley,"County Commissioner, District 1 (Republican)","LYNN, GREG",55
 32-East Valley,"County Commissioner, District 1 (Republican)","NELSON, DAVE",43
-32-East Valley,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",112
-32-East Valley,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",109
+32-East Valley,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",112
+32-East Valley,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",109
 32-East Valley,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",111
 32-East Valley,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",106
 32-East Valley,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",105
@@ -693,8 +693,8 @@ precinct,office,candidate,votes
 33-Hot Springs,County Commissioner District 5 (Republican),"POSSELT, STUART",57
 33-Hot Springs,"County Commissioner, District 1 (Republican)","LYNN, GREG",41
 33-Hot Springs,"County Commissioner, District 1 (Republican)","NELSON, DAVE",63
-33-Hot Springs,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",134
-33-Hot Springs,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",126
+33-Hot Springs,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",134
+33-Hot Springs,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",126
 33-Hot Springs,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",130
 33-Hot Springs,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",125
 33-Hot Springs,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",123
@@ -716,8 +716,8 @@ precinct,office,candidate,votes
 34-Sundridge,County Commissioner District 5 (Republican),"POSSELT, STUART",33
 34-Sundridge,"County Commissioner, District 1 (Republican)","LYNN, GREG",32
 34-Sundridge,"County Commissioner, District 1 (Republican)","NELSON, DAVE",43
-34-Sundridge,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",92
-34-Sundridge,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",93
+34-Sundridge,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",92
+34-Sundridge,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",93
 34-Sundridge,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",85
 34-Sundridge,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",86
 34-Sundridge,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",84
@@ -739,8 +739,8 @@ precinct,office,candidate,votes
 35-Glenbrook,County Commissioner District 5 (Republican),"POSSELT, STUART",33
 35-Glenbrook,"County Commissioner, District 1 (Republican)","LYNN, GREG",35
 35-Glenbrook,"County Commissioner, District 1 (Republican)","NELSON, DAVE",49
-35-Glenbrook,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",83
-35-Glenbrook,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",85
+35-Glenbrook,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",83
+35-Glenbrook,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",85
 35-Glenbrook,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",80
 35-Glenbrook,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",78
 35-Glenbrook,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",79
@@ -762,8 +762,8 @@ precinct,office,candidate,votes
 36-Skyland,County Commissioner District 5 (Republican),"POSSELT, STUART",44
 36-Skyland,"County Commissioner, District 1 (Republican)","LYNN, GREG",54
 36-Skyland,"County Commissioner, District 1 (Republican)","NELSON, DAVE",53
-36-Skyland,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",120
-36-Skyland,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",121
+36-Skyland,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",120
+36-Skyland,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",121
 36-Skyland,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",104
 36-Skyland,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",104
 36-Skyland,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",105
@@ -785,8 +785,8 @@ precinct,office,candidate,votes
 37-Zephyr Cove,County Commissioner District 5 (Republican),"POSSELT, STUART",28
 37-Zephyr Cove,"County Commissioner, District 1 (Republican)","LYNN, GREG",41
 37-Zephyr Cove,"County Commissioner, District 1 (Republican)","NELSON, DAVE",31
-37-Zephyr Cove,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",84
-37-Zephyr Cove,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",89
+37-Zephyr Cove,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",84
+37-Zephyr Cove,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",89
 37-Zephyr Cove,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",78
 37-Zephyr Cove,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",81
 37-Zephyr Cove,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",79
@@ -808,8 +808,8 @@ precinct,office,candidate,votes
 38-Round Hill,County Commissioner District 5 (Republican),"POSSELT, STUART",32
 38-Round Hill,"County Commissioner, District 1 (Republican)","LYNN, GREG",44
 38-Round Hill,"County Commissioner, District 1 (Republican)","NELSON, DAVE",34
-38-Round Hill,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",102
-38-Round Hill,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",110
+38-Round Hill,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",102
+38-Round Hill,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",110
 38-Round Hill,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",102
 38-Round Hill,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",99
 38-Round Hill,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",102
@@ -831,8 +831,8 @@ precinct,office,candidate,votes
 39-Edgewood,County Commissioner District 5 (Republican),"POSSELT, STUART",7
 39-Edgewood,"County Commissioner, District 1 (Republican)","LYNN, GREG",4
 39-Edgewood,"County Commissioner, District 1 (Republican)","NELSON, DAVE",7
-39-Edgewood,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",17
-39-Edgewood,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",21
+39-Edgewood,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",17
+39-Edgewood,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",21
 39-Edgewood,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",19
 39-Edgewood,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",17
 39-Edgewood,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",20
@@ -854,8 +854,8 @@ precinct,office,candidate,votes
 40-Kingsbury,County Commissioner District 5 (Republican),"POSSELT, STUART",34
 40-Kingsbury,"County Commissioner, District 1 (Republican)","LYNN, GREG",56
 40-Kingsbury,"County Commissioner, District 1 (Republican)","NELSON, DAVE",45
-40-Kingsbury,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",139
-40-Kingsbury,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",140
+40-Kingsbury,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",139
+40-Kingsbury,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",140
 40-Kingsbury,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",129
 40-Kingsbury,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",124
 40-Kingsbury,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",126
@@ -877,8 +877,8 @@ precinct,office,candidate,votes
 41-Daggett,County Commissioner District 5 (Republican),"POSSELT, STUART",17
 41-Daggett,"County Commissioner, District 1 (Republican)","LYNN, GREG",18
 41-Daggett,"County Commissioner, District 1 (Republican)","NELSON, DAVE",26
-41-Daggett,"District Court Judge, District 9, Department  1 (Nonpartisan)","GAMBLE, DAVID R.",63
-41-Daggett,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",62
+41-Daggett,"District Court Judge, District 9, Department 1 (Nonpartisan)","GAMBLE, DAVID R.",63
+41-Daggett,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",62
 41-Daggett,School Board Trustee Area 4 CW (Nonpartisan),"GREEN, RANDY F.",67
 41-Daggett,School Board Trustee Area 5 CW (Nonpartisan),"JAMIN, TERI",68
 41-Daggett,School Board Trustee Area 6 (Nonpartisan),"MOORE, THOMAS H.",66
