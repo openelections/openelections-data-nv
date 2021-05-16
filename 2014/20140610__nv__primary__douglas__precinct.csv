@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
-01-Centerville,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",218
-01-Centerville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",221
+01-Centerville,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",218
+01-Centerville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",221
 01-Centerville,Governor (Democratic),"Chang, Charles ""Charlie""",3
 01-Centerville,Governor (Democratic),"Conquest, Frederick L.",0
 01-Centerville,Governor (Democratic),"Frye, Stephen H.",5
@@ -39,8 +39,8 @@ precinct,office,candidate,votes
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",10
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",7
 01-Centerville,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",12
-02-Fish Springs,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",318
-02-Fish Springs,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",316
+02-Fish Springs,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",318
+02-Fish Springs,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",316
 02-Fish Springs,Governor (Democratic),"Chang, Charles ""Charlie""",1
 02-Fish Springs,Governor (Democratic),"Conquest, Frederick L.",0
 02-Fish Springs,Governor (Democratic),"Frye, Stephen H.",18
@@ -79,8 +79,8 @@ precinct,office,candidate,votes
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",25
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",8
 02-Fish Springs,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",12
-03-Gardnerville,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",281
-03-Gardnerville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",287
+03-Gardnerville,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",281
+03-Gardnerville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",287
 03-Gardnerville,Governor (Democratic),"Chang, Charles ""Charlie""",8
 03-Gardnerville,Governor (Democratic),"Conquest, Frederick L.",0
 03-Gardnerville,Governor (Democratic),"Frye, Stephen H.",7
@@ -119,8 +119,8 @@ precinct,office,candidate,votes
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",31
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",6
 03-Gardnerville,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",21
-04-Carson Valley Estates,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",180
-04-Carson Valley Estates,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",182
+04-Carson Valley Estates,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",180
+04-Carson Valley Estates,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",182
 04-Carson Valley Estates,Governor (Democratic),"Chang, Charles ""Charlie""",6
 04-Carson Valley Estates,Governor (Democratic),"Conquest, Frederick L.",0
 04-Carson Valley Estates,Governor (Democratic),"Frye, Stephen H.",4
@@ -159,8 +159,8 @@ precinct,office,candidate,votes
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",17
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",3
 04-Carson Valley Estates,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",25
-05-Genoa,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",241
-05-Genoa,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",241
+05-Genoa,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",241
+05-Genoa,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",241
 05-Genoa,Governor (Democratic),"Chang, Charles ""Charlie""",1
 05-Genoa,Governor (Democratic),"Conquest, Frederick L.",4
 05-Genoa,Governor (Democratic),"Frye, Stephen H.",5
@@ -199,8 +199,8 @@ precinct,office,candidate,votes
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",9
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",4
 05-Genoa,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",15
-06-Jacks Valley,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",262
-06-Jacks Valley,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",271
+06-Jacks Valley,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",262
+06-Jacks Valley,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",271
 06-Jacks Valley,Governor (Democratic),"Chang, Charles ""Charlie""",4
 06-Jacks Valley,Governor (Democratic),"Conquest, Frederick L.",2
 06-Jacks Valley,Governor (Democratic),"Frye, Stephen H.",5
@@ -239,8 +239,8 @@ precinct,office,candidate,votes
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",21
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",8
 06-Jacks Valley,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",23
-07-Minden,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",279
-07-Minden,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",274
+07-Minden,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",279
+07-Minden,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",274
 07-Minden,Governor (Democratic),"Chang, Charles ""Charlie""",1
 07-Minden,Governor (Democratic),"Conquest, Frederick L.",1
 07-Minden,Governor (Democratic),"Frye, Stephen H.",7
@@ -279,8 +279,8 @@ precinct,office,candidate,votes
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",23
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",7
 07-Minden,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",19
-08-Ranchos I,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",263
-08-Ranchos I,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",271
+08-Ranchos I,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",263
+08-Ranchos I,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",271
 08-Ranchos I,Governor (Democratic),"Chang, Charles ""Charlie""",3
 08-Ranchos I,Governor (Democratic),"Conquest, Frederick L.",0
 08-Ranchos I,Governor (Democratic),"Frye, Stephen H.",15
@@ -319,8 +319,8 @@ precinct,office,candidate,votes
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",28
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 08-Ranchos I,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",22
-09-Ranchos II,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",184
-09-Ranchos II,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",182
+09-Ranchos II,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",184
+09-Ranchos II,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",182
 09-Ranchos II,Governor (Democratic),"Chang, Charles ""Charlie""",2
 09-Ranchos II,Governor (Democratic),"Conquest, Frederick L.",4
 09-Ranchos II,Governor (Democratic),"Frye, Stephen H.",9
@@ -359,8 +359,8 @@ precinct,office,candidate,votes
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",14
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",8
 09-Ranchos II,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",16
-10-TRE,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",253
-10-TRE,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",267
+10-TRE,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",253
+10-TRE,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",267
 10-TRE,Governor (Democratic),"Chang, Charles ""Charlie""",4
 10-TRE,Governor (Democratic),"Conquest, Frederick L.",1
 10-TRE,Governor (Democratic),"Frye, Stephen H.",10
@@ -399,8 +399,8 @@ precinct,office,candidate,votes
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",19
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 10-TRE,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",29
-11-Johnson Lane,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",303
-11-Johnson Lane,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",310
+11-Johnson Lane,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",303
+11-Johnson Lane,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",310
 11-Johnson Lane,Governor (Democratic),"Chang, Charles ""Charlie""",0
 11-Johnson Lane,Governor (Democratic),"Conquest, Frederick L.",1
 11-Johnson Lane,Governor (Democratic),"Frye, Stephen H.",19
@@ -439,8 +439,8 @@ precinct,office,candidate,votes
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",30
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",9
 11-Johnson Lane,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",21
-12-Dresslerville,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",9
-12-Dresslerville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",9
+12-Dresslerville,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",9
+12-Dresslerville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",9
 12-Dresslerville,Governor (Democratic),"Chang, Charles ""Charlie""",2
 12-Dresslerville,Governor (Democratic),"Conquest, Frederick L.",1
 12-Dresslerville,Governor (Democratic),"Frye, Stephen H.",1
@@ -479,8 +479,8 @@ precinct,office,candidate,votes
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",4
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
 12-Dresslerville,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",3
-13-Indian Hills - West,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",176
-13-Indian Hills - West,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",187
+13-Indian Hills - West,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",176
+13-Indian Hills - West,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",187
 13-Indian Hills - West,Governor (Democratic),"Chang, Charles ""Charlie""",4
 13-Indian Hills - West,Governor (Democratic),"Conquest, Frederick L.",0
 13-Indian Hills - West,Governor (Democratic),"Frye, Stephen H.",7
@@ -519,8 +519,8 @@ precinct,office,candidate,votes
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",17
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",1
 13-Indian Hills - West,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",16
-14-Pinenut,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",251
-14-Pinenut,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",257
+14-Pinenut,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",251
+14-Pinenut,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",257
 14-Pinenut,Governor (Democratic),"Chang, Charles ""Charlie""",2
 14-Pinenut,Governor (Democratic),"Conquest, Frederick L.",1
 14-Pinenut,Governor (Democratic),"Frye, Stephen H.",6
@@ -559,8 +559,8 @@ precinct,office,candidate,votes
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",22
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",3
 14-Pinenut,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",6
-15-Valley,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",94
-15-Valley,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",96
+15-Valley,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",94
+15-Valley,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",96
 15-Valley,Governor (Democratic),"Chang, Charles ""Charlie""",4
 15-Valley,Governor (Democratic),"Conquest, Frederick L.",0
 15-Valley,Governor (Democratic),"Frye, Stephen H.",5
@@ -599,8 +599,8 @@ precinct,office,candidate,votes
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",4
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",9
 15-Valley,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",5
-16-Mottsville,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",197
-16-Mottsville,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",203
+16-Mottsville,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",197
+16-Mottsville,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",203
 16-Mottsville,Governor (Democratic),"Chang, Charles ""Charlie""",2
 16-Mottsville,Governor (Democratic),"Conquest, Frederick L.",0
 16-Mottsville,Governor (Democratic),"Frye, Stephen H.",2
@@ -639,8 +639,8 @@ precinct,office,candidate,votes
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",7
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 16-Mottsville,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",6
-17-Ruhenstroth,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",363
-17-Ruhenstroth,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",375
+17-Ruhenstroth,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",363
+17-Ruhenstroth,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",375
 17-Ruhenstroth,Governor (Democratic),"Chang, Charles ""Charlie""",8
 17-Ruhenstroth,Governor (Democratic),"Conquest, Frederick L.",1
 17-Ruhenstroth,Governor (Democratic),"Frye, Stephen H.",4
@@ -679,8 +679,8 @@ precinct,office,candidate,votes
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",24
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",10
 17-Ruhenstroth,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",18
-18-Ranchos III,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",138
-18-Ranchos III,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",136
+18-Ranchos III,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",138
+18-Ranchos III,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",136
 18-Ranchos III,Governor (Democratic),"Chang, Charles ""Charlie""",3
 18-Ranchos III,Governor (Democratic),"Conquest, Frederick L.",1
 18-Ranchos III,Governor (Democratic),"Frye, Stephen H.",3
@@ -719,8 +719,8 @@ precinct,office,candidate,votes
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",12
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",2
 18-Ranchos III,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",6
-19-Ranchos IV,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",184
-19-Ranchos IV,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",180
+19-Ranchos IV,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",184
+19-Ranchos IV,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",180
 19-Ranchos IV,Governor (Democratic),"Chang, Charles ""Charlie""",4
 19-Ranchos IV,Governor (Democratic),"Conquest, Frederick L.",0
 19-Ranchos IV,Governor (Democratic),"Frye, Stephen H.",9
@@ -759,8 +759,8 @@ precinct,office,candidate,votes
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",15
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 19-Ranchos IV,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",13
-20-Birch/Ranchos,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",171
-20-Birch/Ranchos,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",164
+20-Birch/Ranchos,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",171
+20-Birch/Ranchos,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",164
 20-Birch/Ranchos,Governor (Democratic),"Chang, Charles ""Charlie""",2
 20-Birch/Ranchos,Governor (Democratic),"Conquest, Frederick L.",0
 20-Birch/Ranchos,Governor (Democratic),"Frye, Stephen H.",5
@@ -799,8 +799,8 @@ precinct,office,candidate,votes
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",28
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 20-Birch/Ranchos,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",16
-21-Wildhorse,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",295
-21-Wildhorse,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",306
+21-Wildhorse,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",295
+21-Wildhorse,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",306
 21-Wildhorse,Governor (Democratic),"Chang, Charles ""Charlie""",2
 21-Wildhorse,Governor (Democratic),"Conquest, Frederick L.",3
 21-Wildhorse,Governor (Democratic),"Frye, Stephen H.",8
@@ -839,8 +839,8 @@ precinct,office,candidate,votes
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",14
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",6
 21-Wildhorse,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",19
-22-Saratoga,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",350
-22-Saratoga,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",352
+22-Saratoga,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",350
+22-Saratoga,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",352
 22-Saratoga,Governor (Democratic),"Chang, Charles ""Charlie""",4
 22-Saratoga,Governor (Democratic),"Conquest, Frederick L.",1
 22-Saratoga,Governor (Democratic),"Frye, Stephen H.",5
@@ -879,8 +879,8 @@ precinct,office,candidate,votes
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",20
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",4
 22-Saratoga,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",24
-23-Indian Hills - East,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",166
-23-Indian Hills - East,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",169
+23-Indian Hills - East,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",166
+23-Indian Hills - East,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",169
 23-Indian Hills - East,Governor (Democratic),"Chang, Charles ""Charlie""",4
 23-Indian Hills - East,Governor (Democratic),"Conquest, Frederick L.",3
 23-Indian Hills - East,Governor (Democratic),"Frye, Stephen H.",9
@@ -919,8 +919,8 @@ precinct,office,candidate,votes
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",17
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",7
 23-Indian Hills - East,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",10
-24-Topaz Lake,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",114
-24-Topaz Lake,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",124
+24-Topaz Lake,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",114
+24-Topaz Lake,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",124
 24-Topaz Lake,Governor (Democratic),"Chang, Charles ""Charlie""",1
 24-Topaz Lake,Governor (Democratic),"Conquest, Frederick L.",1
 24-Topaz Lake,Governor (Democratic),"Frye, Stephen H.",2
@@ -959,8 +959,8 @@ precinct,office,candidate,votes
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",7
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",4
 24-Topaz Lake,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",4
-25-Pleasantview,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",400
-25-Pleasantview,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",415
+25-Pleasantview,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",400
+25-Pleasantview,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",415
 25-Pleasantview,Governor (Democratic),"Chang, Charles ""Charlie""",2
 25-Pleasantview,Governor (Democratic),"Conquest, Frederick L.",1
 25-Pleasantview,Governor (Democratic),"Frye, Stephen H.",12
@@ -999,8 +999,8 @@ precinct,office,candidate,votes
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",36
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",6
 25-Pleasantview,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",28
-26-Westwood,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",179
-26-Westwood,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",181
+26-Westwood,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",179
+26-Westwood,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",181
 26-Westwood,Governor (Democratic),"Chang, Charles ""Charlie""",2
 26-Westwood,Governor (Democratic),"Conquest, Frederick L.",0
 26-Westwood,Governor (Democratic),"Frye, Stephen H.",6
@@ -1039,8 +1039,8 @@ precinct,office,candidate,votes
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",14
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",1
 26-Westwood,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",12
-27-Winhaven,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",265
-27-Winhaven,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",277
+27-Winhaven,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",265
+27-Winhaven,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",277
 27-Winhaven,Governor (Democratic),"Chang, Charles ""Charlie""",5
 27-Winhaven,Governor (Democratic),"Conquest, Frederick L.",2
 27-Winhaven,Governor (Democratic),"Frye, Stephen H.",6
@@ -1079,8 +1079,8 @@ precinct,office,candidate,votes
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",14
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",4
 27-Winhaven,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",19
-28-Orchard Road,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",160
-28-Orchard Road,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",159
+28-Orchard Road,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",160
+28-Orchard Road,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",159
 28-Orchard Road,Governor (Democratic),"Chang, Charles ""Charlie""",2
 28-Orchard Road,Governor (Democratic),"Conquest, Frederick L.",0
 28-Orchard Road,Governor (Democratic),"Frye, Stephen H.",1
@@ -1119,8 +1119,8 @@ precinct,office,candidate,votes
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",5
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
 28-Orchard Road,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",6
-29-Autumn Hills,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",192
-29-Autumn Hills,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",200
+29-Autumn Hills,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",192
+29-Autumn Hills,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",200
 29-Autumn Hills,Governor (Democratic),"Chang, Charles ""Charlie""",2
 29-Autumn Hills,Governor (Democratic),"Conquest, Frederick L.",0
 29-Autumn Hills,Governor (Democratic),"Frye, Stephen H.",7
@@ -1159,8 +1159,8 @@ precinct,office,candidate,votes
 29-Autumn Hills,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",6
 29-Autumn Hills,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",2
 29-Autumn Hills,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",15
-30-East Fork,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",2
-30-East Fork,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",2
+30-East Fork,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",2
+30-East Fork,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",2
 30-East Fork,Governor (Democratic),"Chang, Charles ""Charlie""",0
 30-East Fork,Governor (Democratic),"Conquest, Frederick L.",0
 30-East Fork,Governor (Democratic),"Frye, Stephen H.",0
@@ -1199,8 +1199,8 @@ precinct,office,candidate,votes
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
 30-East Fork,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",0
-31-Chichester,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",171
-31-Chichester,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",174
+31-Chichester,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",171
+31-Chichester,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",174
 31-Chichester,Governor (Democratic),"Chang, Charles ""Charlie""",1
 31-Chichester,Governor (Democratic),"Conquest, Frederick L.",1
 31-Chichester,Governor (Democratic),"Frye, Stephen H.",3
@@ -1239,8 +1239,8 @@ precinct,office,candidate,votes
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",11
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 31-Chichester,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",17
-32-East Valley,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",156
-32-East Valley,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",162
+32-East Valley,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",156
+32-East Valley,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",162
 32-East Valley,Governor (Democratic),"Chang, Charles ""Charlie""",0
 32-East Valley,Governor (Democratic),"Conquest, Frederick L.",0
 32-East Valley,Governor (Democratic),"Frye, Stephen H.",7
@@ -1279,8 +1279,8 @@ precinct,office,candidate,votes
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",12
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",4
 32-East Valley,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",12
-33-Hot Springs,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",145
-33-Hot Springs,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",148
+33-Hot Springs,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",145
+33-Hot Springs,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",148
 33-Hot Springs,Governor (Democratic),"Chang, Charles ""Charlie""",4
 33-Hot Springs,Governor (Democratic),"Conquest, Frederick L.",0
 33-Hot Springs,Governor (Democratic),"Frye, Stephen H.",3
@@ -1319,8 +1319,8 @@ precinct,office,candidate,votes
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",8
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",7
 33-Hot Springs,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",10
-34-Sunridge,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",115
-34-Sunridge,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",121
+34-Sunridge,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",115
+34-Sunridge,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",121
 34-Sunridge,Governor (Democratic),"Chang, Charles ""Charlie""",3
 34-Sunridge,Governor (Democratic),"Conquest, Frederick L.",0
 34-Sunridge,Governor (Democratic),"Frye, Stephen H.",6
@@ -1359,8 +1359,8 @@ precinct,office,candidate,votes
 34-Sunridge,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",9
 34-Sunridge,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",6
 34-Sunridge,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",8
-35-Glenbrook,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",69
-35-Glenbrook,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",72
+35-Glenbrook,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",69
+35-Glenbrook,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",72
 35-Glenbrook,Governor (Democratic),"Chang, Charles ""Charlie""",0
 35-Glenbrook,Governor (Democratic),"Conquest, Frederick L.",0
 35-Glenbrook,Governor (Democratic),"Frye, Stephen H.",1
@@ -1399,8 +1399,8 @@ precinct,office,candidate,votes
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",0
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",1
 35-Glenbrook,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",2
-36-Skyland,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",92
-36-Skyland,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",103
+36-Skyland,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",92
+36-Skyland,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",103
 36-Skyland,Governor (Democratic),"Chang, Charles ""Charlie""",1
 36-Skyland,Governor (Democratic),"Conquest, Frederick L.",0
 36-Skyland,Governor (Democratic),"Frye, Stephen H.",4
@@ -1439,8 +1439,8 @@ precinct,office,candidate,votes
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",4
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
 36-Skyland,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",9
-37-Zephyr Cove,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",68
-37-Zephyr Cove,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",73
+37-Zephyr Cove,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",68
+37-Zephyr Cove,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",73
 37-Zephyr Cove,Governor (Democratic),"Chang, Charles ""Charlie""",0
 37-Zephyr Cove,Governor (Democratic),"Conquest, Frederick L.",0
 37-Zephyr Cove,Governor (Democratic),"Frye, Stephen H.",5
@@ -1479,8 +1479,8 @@ precinct,office,candidate,votes
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",2
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",1
 37-Zephyr Cove,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",11
-38-Round Hill,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",92
-38-Round Hill,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",96
+38-Round Hill,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",92
+38-Round Hill,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",96
 38-Round Hill,Governor (Democratic),"Chang, Charles ""Charlie""",1
 38-Round Hill,Governor (Democratic),"Conquest, Frederick L.",1
 38-Round Hill,Governor (Democratic),"Frye, Stephen H.",11
@@ -1519,8 +1519,8 @@ precinct,office,candidate,votes
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",7
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",6
 38-Round Hill,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",10
-39-Edgewood,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",20
-39-Edgewood,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",20
+39-Edgewood,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",20
+39-Edgewood,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",20
 39-Edgewood,Governor (Democratic),"Chang, Charles ""Charlie""",0
 39-Edgewood,Governor (Democratic),"Conquest, Frederick L.",0
 39-Edgewood,Governor (Democratic),"Frye, Stephen H.",0
@@ -1559,8 +1559,8 @@ precinct,office,candidate,votes
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",1
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",0
 39-Edgewood,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",2
-40-Kingsbury,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",145
-40-Kingsbury,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",145
+40-Kingsbury,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",145
+40-Kingsbury,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",145
 40-Kingsbury,Governor (Democratic),"Chang, Charles ""Charlie""",1
 40-Kingsbury,Governor (Democratic),"Conquest, Frederick L.",1
 40-Kingsbury,Governor (Democratic),"Frye, Stephen H.",6
@@ -1599,8 +1599,8 @@ precinct,office,candidate,votes
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Dempsey, Brian",10
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",5
 40-Kingsbury,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",12
-41-Daggett,"District Court Judge, District 9, Department  1 (Nonpartisan)","YOUNG, NATHAN TOD",82
-41-Daggett,"District Court Judge, District 9, Department  2 (Nonpartisan)","GIBBONS, MICHAEL",89
+41-Daggett,"District Court Judge, District 9, Department 1 (Nonpartisan)","YOUNG, NATHAN TOD",82
+41-Daggett,"District Court Judge, District 9, Department 2 (Nonpartisan)","GIBBONS, MICHAEL",89
 41-Daggett,Governor (Democratic),"Chang, Charles ""Charlie""",1
 41-Daggett,Governor (Democratic),"Conquest, Frederick L.",4
 41-Daggett,Governor (Democratic),"Frye, Stephen H.",4

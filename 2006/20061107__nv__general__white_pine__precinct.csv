@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 Precinct 1,Attorney General,"CHAIREZ, DON",195
-Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",233
+Precinct 1,Attorney General,"CORTEZ MASTO, CATHERINE",233
 Precinct 1,Attorney General,None Of These Candidates,48
 Precinct 1,COUNTY ASSESSOR,"BISHOP, ROBERT L.",429
 Precinct 1,COUNTY CLERK (Republican),"BATH, DONNA M.",247
@@ -58,7 +58,7 @@ Precinct 1,U.S. Senate,None Of These Candidates,14
 Precinct 1,U.S. Senate,"SCHUMANN, DAVID K.",16
 Precinct 1,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 10,Attorney General,"CHAIREZ, DON",96
-Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",43
+Precinct 10,Attorney General,"CORTEZ MASTO, CATHERINE",43
 Precinct 10,Attorney General,None Of These Candidates,18
 Precinct 10,COUNTY ASSESSOR,"BISHOP, ROBERT L.",123
 Precinct 10,COUNTY CLERK (Republican),"BATH, DONNA M.",115
@@ -116,7 +116,7 @@ Precinct 10,U.S. Senate,None Of These Candidates,7
 Precinct 10,U.S. Senate,"SCHUMANN, DAVID K.",11
 Precinct 10,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 2,Attorney General,"CHAIREZ, DON",108
-Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",156
+Precinct 2,Attorney General,"CORTEZ MASTO, CATHERINE",156
 Precinct 2,Attorney General,None Of These Candidates,31
 Precinct 2,COUNTY ASSESSOR,"BISHOP, ROBERT L.",275
 Precinct 2,COUNTY CLERK (Republican),"BATH, DONNA M.",174
@@ -174,7 +174,7 @@ Precinct 2,U.S. Senate,None Of These Candidates,8
 Precinct 2,U.S. Senate,"SCHUMANN, DAVID K.",13
 Precinct 2,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 3,Attorney General,"CHAIREZ, DON",123
-Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",217
+Precinct 3,Attorney General,"CORTEZ MASTO, CATHERINE",217
 Precinct 3,Attorney General,None Of These Candidates,40
 Precinct 3,COUNTY ASSESSOR,"BISHOP, ROBERT L.",354
 Precinct 3,COUNTY CLERK (Republican),"BATH, DONNA M.",223
@@ -232,7 +232,7 @@ Precinct 3,U.S. Senate,None Of These Candidates,8
 Precinct 3,U.S. Senate,"SCHUMANN, DAVID K.",4
 Precinct 3,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 4,Attorney General,"CHAIREZ, DON",180
-Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",206
+Precinct 4,Attorney General,"CORTEZ MASTO, CATHERINE",206
 Precinct 4,Attorney General,None Of These Candidates,44
 Precinct 4,COUNTY ASSESSOR,"BISHOP, ROBERT L.",371
 Precinct 4,COUNTY CLERK (Republican),"BATH, DONNA M.",208
@@ -290,7 +290,7 @@ Precinct 4,U.S. Senate,None Of These Candidates,15
 Precinct 4,U.S. Senate,"SCHUMANN, DAVID K.",5
 Precinct 4,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 5,Attorney General,"CHAIREZ, DON",323
-Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",293
+Precinct 5,Attorney General,"CORTEZ MASTO, CATHERINE",293
 Precinct 5,Attorney General,None Of These Candidates,61
 Precinct 5,COUNTY ASSESSOR,"BISHOP, ROBERT L.",597
 Precinct 5,COUNTY CLERK (Republican),"BATH, DONNA M.",350
@@ -348,7 +348,7 @@ Precinct 5,U.S. Senate,None Of These Candidates,11
 Precinct 5,U.S. Senate,"SCHUMANN, DAVID K.",26
 Precinct 5,U.S. Senate,"TRAINOR, BRENDAN",6
 Precinct 6,Attorney General,"CHAIREZ, DON",166
-Precinct 6,Attorney General,"CORTEZ  MASTO, CATHERINE",251
+Precinct 6,Attorney General,"CORTEZ MASTO, CATHERINE",251
 Precinct 6,Attorney General,None Of These Candidates,46
 Precinct 6,COUNTY ASSESSOR,"BISHOP, ROBERT L.",415
 Precinct 6,COUNTY CLERK (Republican),"BATH, DONNA M.",212
@@ -406,7 +406,7 @@ Precinct 6,U.S. Senate,None Of These Candidates,13
 Precinct 6,U.S. Senate,"SCHUMANN, DAVID K.",18
 Precinct 6,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 7,Attorney General,"CHAIREZ, DON",53
-Precinct 7,Attorney General,"CORTEZ  MASTO, CATHERINE",50
+Precinct 7,Attorney General,"CORTEZ MASTO, CATHERINE",50
 Precinct 7,Attorney General,None Of These Candidates,14
 Precinct 7,COUNTY ASSESSOR,"BISHOP, ROBERT L.",105
 Precinct 7,COUNTY CLERK (Republican),"BATH, DONNA M.",70
@@ -464,7 +464,7 @@ Precinct 7,U.S. Senate,None Of These Candidates,3
 Precinct 7,U.S. Senate,"SCHUMANN, DAVID K.",6
 Precinct 7,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 8,Attorney General,"CHAIREZ, DON",109
-Precinct 8,Attorney General,"CORTEZ  MASTO, CATHERINE",59
+Precinct 8,Attorney General,"CORTEZ MASTO, CATHERINE",59
 Precinct 8,Attorney General,None Of These Candidates,24
 Precinct 8,COUNTY ASSESSOR,"BISHOP, ROBERT L.",169
 Precinct 8,COUNTY CLERK (Republican),"BATH, DONNA M.",127
@@ -522,7 +522,7 @@ Precinct 8,U.S. Senate,None Of These Candidates,3
 Precinct 8,U.S. Senate,"SCHUMANN, DAVID K.",8
 Precinct 8,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 9,Attorney General,"CHAIREZ, DON",44
-Precinct 9,Attorney General,"CORTEZ  MASTO, CATHERINE",50
+Precinct 9,Attorney General,"CORTEZ MASTO, CATHERINE",50
 Precinct 9,Attorney General,None Of These Candidates,7
 Precinct 9,COUNTY ASSESSOR,"BISHOP, ROBERT L.",82
 Precinct 9,COUNTY CLERK (Republican),"BATH, DONNA M.",81

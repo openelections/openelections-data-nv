@@ -2,9 +2,9 @@ precinct,office,candidate,votes
 East Mason Valley 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",21
 East Mason Valley 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",98
 East Mason Valley 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",17
-East Mason Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",145
-East Mason Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",60
-East Mason Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",22
+East Mason Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",145
+East Mason Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",60
+East Mason Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",22
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",184
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",127
 East Mason Valley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",44
@@ -23,9 +23,9 @@ East Mason Valley 1,"U.S. Representative in Congress, District 2 (Republican)","
 East Mason Valley 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",19
 East Mason Valley 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",137
 East Mason Valley 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",16
-East Mason Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",153
-East Mason Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",53
-East Mason Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",43
+East Mason Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",153
+East Mason Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",53
+East Mason Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",43
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",222
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",157
 East Mason Valley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",52
@@ -48,9 +48,9 @@ Fernley 1,"City Councilmember, Ward 2, City of Fernley (Nonpartisan)","PARSONS, 
 Fernley 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",26
 Fernley 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",56
 Fernley 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",30
-Fernley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",68
-Fernley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",87
-Fernley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",37
+Fernley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",68
+Fernley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",87
+Fernley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",37
 Fernley 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",172
 Fernley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",62
 Fernley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",30
@@ -78,9 +78,9 @@ Fernley 10,"City Councilmember, Ward 2, City of Fernley (Nonpartisan)","PARSONS,
 Fernley 10,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",7
 Fernley 10,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",18
 Fernley 10,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",18
-Fernley 10,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",34
-Fernley 10,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",20
-Fernley 10,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",11
+Fernley 10,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",34
+Fernley 10,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",20
+Fernley 10,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",11
 Fernley 10,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",60
 Fernley 10,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",19
 Fernley 10,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",16
@@ -104,9 +104,9 @@ Fernley 10,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 Fernley 11,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",13
 Fernley 11,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",40
 Fernley 11,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",13
-Fernley 11,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",29
-Fernley 11,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",55
-Fernley 11,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",18
+Fernley 11,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",29
+Fernley 11,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",55
+Fernley 11,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",18
 Fernley 11,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",96
 Fernley 11,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",29
 Fernley 11,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",19
@@ -130,9 +130,9 @@ Fernley 11,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 Fernley 12,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",24
 Fernley 12,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",39
 Fernley 12,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",17
-Fernley 12,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",38
-Fernley 12,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",55
-Fernley 12,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",28
+Fernley 12,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",38
+Fernley 12,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",55
+Fernley 12,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",28
 Fernley 12,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",108
 Fernley 12,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",47
 Fernley 12,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",19
@@ -159,9 +159,9 @@ Fernley 13,"City Councilmember, Ward 1, City of Fernley (Nonpartisan)","MALLOY, 
 Fernley 13,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",42
 Fernley 13,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",64
 Fernley 13,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",58
-Fernley 13,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",63
-Fernley 13,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",142
-Fernley 13,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",81
+Fernley 13,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",63
+Fernley 13,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",142
+Fernley 13,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",81
 Fernley 13,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",221
 Fernley 13,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",78
 Fernley 13,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",41
@@ -188,9 +188,9 @@ Fernley 14,"City Councilmember, Ward 1, City of Fernley (Nonpartisan)","MALLOY, 
 Fernley 14,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",19
 Fernley 14,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",34
 Fernley 14,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",19
-Fernley 14,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",44
-Fernley 14,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",67
-Fernley 14,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",21
+Fernley 14,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",44
+Fernley 14,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",67
+Fernley 14,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",21
 Fernley 14,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",122
 Fernley 14,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",37
 Fernley 14,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",23
@@ -218,9 +218,9 @@ Fernley 2,"City Councilmember, Ward 2, City of Fernley (Nonpartisan)","PARSONS, 
 Fernley 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",14
 Fernley 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",18
 Fernley 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",22
-Fernley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",41
-Fernley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",40
-Fernley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",21
+Fernley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",41
+Fernley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",40
+Fernley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",21
 Fernley 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",83
 Fernley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",24
 Fernley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",20
@@ -247,9 +247,9 @@ Fernley 3,"City Councilmember, Ward 4, City of Fernley (Nonpartisan)","SPECCHIO,
 Fernley 3,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",16
 Fernley 3,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",27
 Fernley 3,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",14
-Fernley 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",39
-Fernley 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",54
-Fernley 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",10
+Fernley 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",39
+Fernley 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",54
+Fernley 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",10
 Fernley 3,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",90
 Fernley 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",33
 Fernley 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",15
@@ -276,9 +276,9 @@ Fernley 4,"City Councilmember, Ward 4, City of Fernley (Nonpartisan)","SPECCHIO,
 Fernley 4,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",13
 Fernley 4,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",25
 Fernley 4,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",17
-Fernley 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",36
-Fernley 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",39
-Fernley 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",13
+Fernley 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",36
+Fernley 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",39
+Fernley 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",13
 Fernley 4,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",78
 Fernley 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",27
 Fernley 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",16
@@ -302,9 +302,9 @@ Fernley 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, Jam
 Fernley 5,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",19
 Fernley 5,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",27
 Fernley 5,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",16
-Fernley 5,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",46
-Fernley 5,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",38
-Fernley 5,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",17
+Fernley 5,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",46
+Fernley 5,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",38
+Fernley 5,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",17
 Fernley 5,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",94
 Fernley 5,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",39
 Fernley 5,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",19
@@ -331,9 +331,9 @@ Fernley 6,"City Councilmember, Ward 4, City of Fernley (Nonpartisan)","SPECCHIO,
 Fernley 6,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",13
 Fernley 6,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",33
 Fernley 6,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",8
-Fernley 6,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",48
-Fernley 6,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",45
-Fernley 6,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",26
+Fernley 6,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",48
+Fernley 6,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",45
+Fernley 6,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",26
 Fernley 6,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",103
 Fernley 6,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",39
 Fernley 6,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",18
@@ -363,9 +363,9 @@ Fernley 8,"U.S. Representative in Congress, District 2 (Republican)","Smack, Jam
 Fernley 9,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",2
 Fernley 9,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",8
 Fernley 9,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",9
-Fernley 9,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",14
-Fernley 9,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",22
-Fernley 9,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",6
+Fernley 9,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",14
+Fernley 9,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",22
+Fernley 9,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",6
 Fernley 9,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",39
 Fernley 9,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",8
 Fernley 9,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",8
@@ -389,9 +389,9 @@ Fernley 9,"U.S. Representative in Congress, District 2 (Republican)","Smack, Jam
 Mound House 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",16
 Mound House 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",23
 Mound House 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",11
-Mound House 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",31
-Mound House 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",27
-Mound House 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",13
+Mound House 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",31
+Mound House 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",27
+Mound House 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",13
 Mound House 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",60
 Mound House 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",23
 Mound House 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",10
@@ -408,9 +408,9 @@ Mound House 1,"U.S. Representative in Congress, District 2 (Republican)","Smack,
 Mound House 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",14
 Mound House 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",13
 Mound House 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",10
-Mound House 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",36
-Mound House 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",17
-Mound House 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",7
+Mound House 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",36
+Mound House 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",17
+Mound House 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",7
 Mound House 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",58
 Mound House 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",19
 Mound House 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",7
@@ -427,9 +427,9 @@ Mound House 2,"U.S. Representative in Congress, District 2 (Republican)","Smack,
 North Dayton 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",9
 North Dayton 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",14
 North Dayton 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",6
-North Dayton 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",20
-North Dayton 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",24
-North Dayton 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",6
+North Dayton 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",20
+North Dayton 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",24
+North Dayton 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",6
 North Dayton 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",41
 North Dayton 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",20
 North Dayton 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",5
@@ -446,9 +446,9 @@ North Dayton 1,"U.S. Representative in Congress, District 2 (Republican)","Smack
 North Dayton 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",38
 North Dayton 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",32
 North Dayton 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",48
-North Dayton 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",75
-North Dayton 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",56
-North Dayton 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",32
+North Dayton 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",75
+North Dayton 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",56
+North Dayton 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",32
 North Dayton 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",145
 North Dayton 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",56
 North Dayton 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",24
@@ -465,9 +465,9 @@ North Dayton 2,"U.S. Representative in Congress, District 2 (Republican)","Smack
 North Dayton 3,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",27
 North Dayton 3,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",34
 North Dayton 3,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",25
-North Dayton 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",55
-North Dayton 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",47
-North Dayton 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",20
+North Dayton 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",55
+North Dayton 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",47
+North Dayton 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",20
 North Dayton 3,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",110
 North Dayton 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",44
 North Dayton 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",9
@@ -484,9 +484,9 @@ North Dayton 3,"U.S. Representative in Congress, District 2 (Republican)","Smack
 North Dayton 4,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",26
 North Dayton 4,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",35
 North Dayton 4,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",28
-North Dayton 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",60
-North Dayton 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",68
-North Dayton 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",18
+North Dayton 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",60
+North Dayton 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",68
+North Dayton 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",18
 North Dayton 4,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",123
 North Dayton 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",41
 North Dayton 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",29
@@ -503,9 +503,9 @@ North Dayton 4,"U.S. Representative in Congress, District 2 (Republican)","Smack
 North Dayton 5,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",46
 North Dayton 5,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",76
 North Dayton 5,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",50
-North Dayton 5,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",115
-North Dayton 5,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",73
-North Dayton 5,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",53
+North Dayton 5,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",115
+North Dayton 5,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",73
+North Dayton 5,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",53
 North Dayton 5,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",208
 North Dayton 5,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",79
 North Dayton 5,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",36
@@ -524,9 +524,9 @@ Precinct 99,"U.S. Representative in Congress, District 2 (Republican)","Smack, J
 Silver City,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",
 Silver City,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",
 Silver City,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",
-Silver City,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",18
-Silver City,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",11
-Silver City,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",10
+Silver City,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",18
+Silver City,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",11
+Silver City,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",10
 Silver City,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",26
 Silver City,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",9
 Silver City,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",7
@@ -543,9 +543,9 @@ Silver City,"U.S. Representative in Congress, District 2 (Republican)","Smack, J
 Silver Springs 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",19
 Silver Springs 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",48
 Silver Springs 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",18
-Silver Springs 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",52
-Silver Springs 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",59
-Silver Springs 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",30
+Silver Springs 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",52
+Silver Springs 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",59
+Silver Springs 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",30
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",128
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",40
 Silver Springs 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",19
@@ -562,9 +562,9 @@ Silver Springs 1,"U.S. Representative in Congress, District 2 (Republican)","Sma
 Silver Springs 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",9
 Silver Springs 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",23
 Silver Springs 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",16
-Silver Springs 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",39
-Silver Springs 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",29
-Silver Springs 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",17
+Silver Springs 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",39
+Silver Springs 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",29
+Silver Springs 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",17
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",81
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",25
 Silver Springs 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",20
@@ -581,9 +581,9 @@ Silver Springs 2,"U.S. Representative in Congress, District 2 (Republican)","Sma
 Silver Springs 3,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",14
 Silver Springs 3,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",47
 Silver Springs 3,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",30
-Silver Springs 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",62
-Silver Springs 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",44
-Silver Springs 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",25
+Silver Springs 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",62
+Silver Springs 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",44
+Silver Springs 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",25
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",118
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",46
 Silver Springs 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",23
@@ -600,9 +600,9 @@ Silver Springs 3,"U.S. Representative in Congress, District 2 (Republican)","Sma
 Silver Springs 4,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",19
 Silver Springs 4,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",29
 Silver Springs 4,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",9
-Silver Springs 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",34
-Silver Springs 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",33
-Silver Springs 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",20
+Silver Springs 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",34
+Silver Springs 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",33
+Silver Springs 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",20
 Silver Springs 4,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",73
 Silver Springs 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",19
 Silver Springs 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",16
@@ -619,9 +619,9 @@ Silver Springs 4,"U.S. Representative in Congress, District 2 (Republican)","Sma
 Smith Valley 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",33
 Smith Valley 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",139
 Smith Valley 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",15
-Smith Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",154
-Smith Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",45
-Smith Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",40
+Smith Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",154
+Smith Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",45
+Smith Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",40
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",201
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",129
 Smith Valley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",28
@@ -640,9 +640,9 @@ Smith Valley 1,"U.S. Representative in Congress, District 2 (Republican)","Smack
 Smith Valley 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",8
 Smith Valley 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",69
 Smith Valley 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",4
-Smith Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",46
-Smith Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",19
-Smith Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",25
+Smith Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",46
+Smith Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",19
+Smith Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",25
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",83
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",41
 Smith Valley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",14
@@ -661,9 +661,9 @@ Smith Valley 2,"U.S. Representative in Congress, District 2 (Republican)","Smack
 South Dayton 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",36
 South Dayton 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",27
 South Dayton 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",19
-South Dayton 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",50
-South Dayton 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",47
-South Dayton 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",21
+South Dayton 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",50
+South Dayton 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",47
+South Dayton 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",21
 South Dayton 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",102
 South Dayton 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",26
 South Dayton 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",22
@@ -680,9 +680,9 @@ South Dayton 1,"U.S. Representative in Congress, District 2 (Republican)","Smack
 South Dayton 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",18
 South Dayton 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",17
 South Dayton 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",8
-South Dayton 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",21
-South Dayton 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",17
-South Dayton 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",10
+South Dayton 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",21
+South Dayton 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",17
+South Dayton 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",10
 South Dayton 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",42
 South Dayton 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",14
 South Dayton 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",7
@@ -699,9 +699,9 @@ South Dayton 2,"U.S. Representative in Congress, District 2 (Republican)","Smack
 South Dayton 3,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",28
 South Dayton 3,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",37
 South Dayton 3,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",43
-South Dayton 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",63
-South Dayton 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",71
-South Dayton 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",23
+South Dayton 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",63
+South Dayton 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",71
+South Dayton 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",23
 South Dayton 3,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",128
 South Dayton 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",37
 South Dayton 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",26
@@ -718,9 +718,9 @@ South Dayton 3,"U.S. Representative in Congress, District 2 (Republican)","Smack
 South Dayton 4,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",10
 South Dayton 4,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",16
 South Dayton 4,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",14
-South Dayton 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",18
-South Dayton 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",22
-South Dayton 4,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",14
+South Dayton 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",18
+South Dayton 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",22
+South Dayton 4,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",14
 South Dayton 4,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",48
 South Dayton 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",9
 South Dayton 4,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",7
@@ -737,9 +737,9 @@ South Dayton 4,"U.S. Representative in Congress, District 2 (Republican)","Smack
 Spragg-Plummer,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",31
 Spragg-Plummer,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",127
 Spragg-Plummer,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",20
-Spragg-Plummer,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",137
-Spragg-Plummer,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",70
-Spragg-Plummer,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",28
+Spragg-Plummer,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",137
+Spragg-Plummer,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",70
+Spragg-Plummer,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",28
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",204
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",138
 Spragg-Plummer,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",32
@@ -758,9 +758,9 @@ Spragg-Plummer,"U.S. Representative in Congress, District 2 (Republican)","Smack
 Stagecoach 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",28
 Stagecoach 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",59
 Stagecoach 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",23
-Stagecoach 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",71
-Stagecoach 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",65
-Stagecoach 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",33
+Stagecoach 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",71
+Stagecoach 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",65
+Stagecoach 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",33
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",149
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",44
 Stagecoach 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",27
@@ -777,9 +777,9 @@ Stagecoach 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, 
 Stagecoach 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",5
 Stagecoach 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",15
 Stagecoach 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",10
-Stagecoach 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",21
-Stagecoach 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",26
-Stagecoach 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",11
+Stagecoach 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",21
+Stagecoach 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",26
+Stagecoach 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",11
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",53
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",18
 Stagecoach 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",11
@@ -796,9 +796,9 @@ Stagecoach 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, 
 West Mason Valley 1,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",33
 West Mason Valley 1,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",111
 West Mason Valley 1,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",22
-West Mason Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",148
-West Mason Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",76
-West Mason Valley 1,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",33
+West Mason Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",148
+West Mason Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",76
+West Mason Valley 1,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",33
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",212
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",153
 West Mason Valley 1,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",57
@@ -817,9 +817,9 @@ West Mason Valley 1,"U.S. Representative in Congress, District 2 (Republican)","
 West Mason Valley 2,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",17
 West Mason Valley 2,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",83
 West Mason Valley 2,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",13
-West Mason Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",102
-West Mason Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",53
-West Mason Valley 2,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",22
+West Mason Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",102
+West Mason Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",53
+West Mason Valley 2,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",22
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",146
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",92
 West Mason Valley 2,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",45
@@ -838,9 +838,9 @@ West Mason Valley 2,"U.S. Representative in Congress, District 2 (Republican)","
 West Mason Valley 3,County Comm Dist. III (CW) (Republican),"GLADWILL, GARY G.",17
 West Mason Valley 3,County Comm Dist. III (CW) (Republican),"TIBBALS, DON H.",55
 West Mason Valley 3,County Comm Dist. III (CW) (Republican),"ZIERENBERG, RICK",15
-West Mason Valley 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","HUFF, DAVID A.",85
-West Mason Valley 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","KENNEDY, JACK",55
-West Mason Valley 3,"District Court Judge, District 3, Department  1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",25
+West Mason Valley 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","HUFF, DAVID A.",85
+West Mason Valley 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","KENNEDY, JACK",55
+West Mason Valley 3,"District Court Judge, District 3, Department 1 (Nonpartisan)","MALLORY, ARTHUR ""ART""",25
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist II (Nonpartisan),"MCINTYRE, NEAL E.",151
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"BOBRICK, ERIC T.",79
 West Mason Valley 3,LYON COUNTY School Dist Trustee Dist V (Nonpartisan),"LUCIER, JEFF E.",29

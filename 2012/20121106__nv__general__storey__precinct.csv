@@ -3,8 +3,8 @@ PRECINCT 1,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",154
 PRECINCT 1,County Comm Dist. 1 (CW),"PURKEY, THOMAS",122
 PRECINCT 1,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",96
 PRECINCT 1,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",173
-PRECINCT 1,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",144
-PRECINCT 1,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",131
+PRECINCT 1,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",144
+PRECINCT 1,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",131
 PRECINCT 1,President,"GOODE, VIRGIL",3
 PRECINCT 1,President,"JOHNSON, GARY",5
 PRECINCT 1,President,None Of These Candidates,1
@@ -28,14 +28,14 @@ PRECINCT 1,U.S. Senate,"Berkley, Shelley",87
 PRECINCT 1,U.S. Senate,"Heller, Dean",169
 PRECINCT 1,U.S. Senate,None Of These Candidates,10
 PRECINCT 1,U.S. Senate,"VANDERBEEK, DAVID LORY",17
-PRECINCT 1,"University Board of Regents, District  9","Knecht, Ron",144
-PRECINCT 1,"University Board of Regents, District  9","Mackedon, Michon",96
+PRECINCT 1,"University Board of Regents, District 9","Knecht, Ron",144
+PRECINCT 1,"University Board of Regents, District 9","Mackedon, Michon",96
 PRECINCT 10,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",0
 PRECINCT 10,County Comm Dist. 1 (CW),"PURKEY, THOMAS",0
 PRECINCT 10,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",0
 PRECINCT 10,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",0
-PRECINCT 10,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",0
-PRECINCT 10,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",0
+PRECINCT 10,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",0
+PRECINCT 10,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",0
 PRECINCT 10,President,"GOODE, VIRGIL",0
 PRECINCT 10,President,"JOHNSON, GARY",0
 PRECINCT 10,President,None Of These Candidates,0
@@ -59,14 +59,14 @@ PRECINCT 10,U.S. Senate,"Berkley, Shelley",0
 PRECINCT 10,U.S. Senate,"Heller, Dean",0
 PRECINCT 10,U.S. Senate,None Of These Candidates,0
 PRECINCT 10,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-PRECINCT 10,"University Board of Regents, District  9","Knecht, Ron",0
-PRECINCT 10,"University Board of Regents, District  9","Mackedon, Michon",0
+PRECINCT 10,"University Board of Regents, District 9","Knecht, Ron",0
+PRECINCT 10,"University Board of Regents, District 9","Mackedon, Michon",0
 PRECINCT 11,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",
 PRECINCT 11,County Comm Dist. 1 (CW),"PURKEY, THOMAS",
 PRECINCT 11,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",
 PRECINCT 11,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",
-PRECINCT 11,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",
-PRECINCT 11,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",
+PRECINCT 11,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",
+PRECINCT 11,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",
 PRECINCT 11,President,"GOODE, VIRGIL",
 PRECINCT 11,President,"JOHNSON, GARY",
 PRECINCT 11,President,None Of These Candidates,
@@ -90,14 +90,14 @@ PRECINCT 11,U.S. Senate,"Berkley, Shelley",
 PRECINCT 11,U.S. Senate,"Heller, Dean",
 PRECINCT 11,U.S. Senate,None Of These Candidates,
 PRECINCT 11,U.S. Senate,"VANDERBEEK, DAVID LORY",
-PRECINCT 11,"University Board of Regents, District  9","Knecht, Ron",
-PRECINCT 11,"University Board of Regents, District  9","Mackedon, Michon",
+PRECINCT 11,"University Board of Regents, District 9","Knecht, Ron",
+PRECINCT 11,"University Board of Regents, District 9","Mackedon, Michon",
 PRECINCT 12,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",
 PRECINCT 12,County Comm Dist. 1 (CW),"PURKEY, THOMAS",
 PRECINCT 12,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",
 PRECINCT 12,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",
-PRECINCT 12,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",
-PRECINCT 12,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",
+PRECINCT 12,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",
+PRECINCT 12,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",
 PRECINCT 12,President,"GOODE, VIRGIL",
 PRECINCT 12,President,"JOHNSON, GARY",
 PRECINCT 12,President,None Of These Candidates,
@@ -121,14 +121,14 @@ PRECINCT 12,U.S. Senate,"Berkley, Shelley",
 PRECINCT 12,U.S. Senate,"Heller, Dean",
 PRECINCT 12,U.S. Senate,None Of These Candidates,
 PRECINCT 12,U.S. Senate,"VANDERBEEK, DAVID LORY",
-PRECINCT 12,"University Board of Regents, District  9","Knecht, Ron",
-PRECINCT 12,"University Board of Regents, District  9","Mackedon, Michon",
+PRECINCT 12,"University Board of Regents, District 9","Knecht, Ron",
+PRECINCT 12,"University Board of Regents, District 9","Mackedon, Michon",
 PRECINCT 13,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",0
 PRECINCT 13,County Comm Dist. 1 (CW),"PURKEY, THOMAS",0
 PRECINCT 13,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",0
 PRECINCT 13,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",0
-PRECINCT 13,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",0
-PRECINCT 13,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",0
+PRECINCT 13,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",0
+PRECINCT 13,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",0
 PRECINCT 13,President,"GOODE, VIRGIL",0
 PRECINCT 13,President,"JOHNSON, GARY",0
 PRECINCT 13,President,None Of These Candidates,0
@@ -152,14 +152,14 @@ PRECINCT 13,U.S. Senate,"Berkley, Shelley",0
 PRECINCT 13,U.S. Senate,"Heller, Dean",0
 PRECINCT 13,U.S. Senate,None Of These Candidates,0
 PRECINCT 13,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-PRECINCT 13,"University Board of Regents, District  9","Knecht, Ron",0
-PRECINCT 13,"University Board of Regents, District  9","Mackedon, Michon",0
+PRECINCT 13,"University Board of Regents, District 9","Knecht, Ron",0
+PRECINCT 13,"University Board of Regents, District 9","Mackedon, Michon",0
 PRECINCT 14,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",0
 PRECINCT 14,County Comm Dist. 1 (CW),"PURKEY, THOMAS",0
 PRECINCT 14,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",0
 PRECINCT 14,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",0
-PRECINCT 14,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",0
-PRECINCT 14,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",0
+PRECINCT 14,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",0
+PRECINCT 14,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",0
 PRECINCT 14,President,"GOODE, VIRGIL",0
 PRECINCT 14,President,"JOHNSON, GARY",0
 PRECINCT 14,President,None Of These Candidates,0
@@ -183,14 +183,14 @@ PRECINCT 14,U.S. Senate,"Berkley, Shelley",0
 PRECINCT 14,U.S. Senate,"Heller, Dean",0
 PRECINCT 14,U.S. Senate,None Of These Candidates,0
 PRECINCT 14,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-PRECINCT 14,"University Board of Regents, District  9","Knecht, Ron",0
-PRECINCT 14,"University Board of Regents, District  9","Mackedon, Michon",0
+PRECINCT 14,"University Board of Regents, District 9","Knecht, Ron",0
+PRECINCT 14,"University Board of Regents, District 9","Mackedon, Michon",0
 PRECINCT 15,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",11
 PRECINCT 15,County Comm Dist. 1 (CW),"PURKEY, THOMAS",9
 PRECINCT 15,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",6
 PRECINCT 15,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",14
-PRECINCT 15,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",14
-PRECINCT 15,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",6
+PRECINCT 15,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",14
+PRECINCT 15,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",6
 PRECINCT 15,President,"GOODE, VIRGIL",0
 PRECINCT 15,President,"JOHNSON, GARY",0
 PRECINCT 15,President,None Of These Candidates,0
@@ -214,14 +214,14 @@ PRECINCT 15,U.S. Senate,"Berkley, Shelley",2
 PRECINCT 15,U.S. Senate,"Heller, Dean",17
 PRECINCT 15,U.S. Senate,None Of These Candidates,0
 PRECINCT 15,U.S. Senate,"VANDERBEEK, DAVID LORY",1
-PRECINCT 15,"University Board of Regents, District  9","Knecht, Ron",8
-PRECINCT 15,"University Board of Regents, District  9","Mackedon, Michon",9
+PRECINCT 15,"University Board of Regents, District 9","Knecht, Ron",8
+PRECINCT 15,"University Board of Regents, District 9","Mackedon, Michon",9
 PRECINCT 2,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",157
 PRECINCT 2,County Comm Dist. 1 (CW),"PURKEY, THOMAS",129
 PRECINCT 2,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",86
 PRECINCT 2,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",197
-PRECINCT 2,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",150
-PRECINCT 2,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",138
+PRECINCT 2,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",150
+PRECINCT 2,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",138
 PRECINCT 2,President,"GOODE, VIRGIL",3
 PRECINCT 2,President,"JOHNSON, GARY",3
 PRECINCT 2,President,None Of These Candidates,1
@@ -245,14 +245,14 @@ PRECINCT 2,U.S. Senate,"Berkley, Shelley",98
 PRECINCT 2,U.S. Senate,"Heller, Dean",162
 PRECINCT 2,U.S. Senate,None Of These Candidates,13
 PRECINCT 2,U.S. Senate,"VANDERBEEK, DAVID LORY",19
-PRECINCT 2,"University Board of Regents, District  9","Knecht, Ron",140
-PRECINCT 2,"University Board of Regents, District  9","Mackedon, Michon",115
+PRECINCT 2,"University Board of Regents, District 9","Knecht, Ron",140
+PRECINCT 2,"University Board of Regents, District 9","Mackedon, Michon",115
 PRECINCT 3,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",6
 PRECINCT 3,County Comm Dist. 1 (CW),"PURKEY, THOMAS",9
 PRECINCT 3,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",4
 PRECINCT 3,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",11
-PRECINCT 3,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",7
-PRECINCT 3,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",7
+PRECINCT 3,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",7
+PRECINCT 3,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",7
 PRECINCT 3,President,"GOODE, VIRGIL",0
 PRECINCT 3,President,"JOHNSON, GARY",0
 PRECINCT 3,President,None Of These Candidates,0
@@ -276,14 +276,14 @@ PRECINCT 3,U.S. Senate,"Berkley, Shelley",0
 PRECINCT 3,U.S. Senate,"Heller, Dean",15
 PRECINCT 3,U.S. Senate,None Of These Candidates,0
 PRECINCT 3,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-PRECINCT 3,"University Board of Regents, District  9","Knecht, Ron",9
-PRECINCT 3,"University Board of Regents, District  9","Mackedon, Michon",4
+PRECINCT 3,"University Board of Regents, District 9","Knecht, Ron",9
+PRECINCT 3,"University Board of Regents, District 9","Mackedon, Michon",4
 PRECINCT 4,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",145
 PRECINCT 4,County Comm Dist. 1 (CW),"PURKEY, THOMAS",173
 PRECINCT 4,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",88
 PRECINCT 4,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",234
-PRECINCT 4,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",161
-PRECINCT 4,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",165
+PRECINCT 4,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",161
+PRECINCT 4,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",165
 PRECINCT 4,President,"GOODE, VIRGIL",4
 PRECINCT 4,President,"JOHNSON, GARY",5
 PRECINCT 4,President,None Of These Candidates,1
@@ -307,14 +307,14 @@ PRECINCT 4,U.S. Senate,"Berkley, Shelley",84
 PRECINCT 4,U.S. Senate,"Heller, Dean",210
 PRECINCT 4,U.S. Senate,None Of These Candidates,13
 PRECINCT 4,U.S. Senate,"VANDERBEEK, DAVID LORY",34
-PRECINCT 4,"University Board of Regents, District  9","Knecht, Ron",172
-PRECINCT 4,"University Board of Regents, District  9","Mackedon, Michon",128
+PRECINCT 4,"University Board of Regents, District 9","Knecht, Ron",172
+PRECINCT 4,"University Board of Regents, District 9","Mackedon, Michon",128
 PRECINCT 5,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",383
 PRECINCT 5,County Comm Dist. 1 (CW),"PURKEY, THOMAS",332
 PRECINCT 5,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",358
 PRECINCT 5,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",375
-PRECINCT 5,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",363
-PRECINCT 5,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",380
+PRECINCT 5,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",363
+PRECINCT 5,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",380
 PRECINCT 5,President,"GOODE, VIRGIL",6
 PRECINCT 5,President,"JOHNSON, GARY",16
 PRECINCT 5,President,None Of These Candidates,5
@@ -338,14 +338,14 @@ PRECINCT 5,U.S. Senate,"Berkley, Shelley",211
 PRECINCT 5,U.S. Senate,"Heller, Dean",522
 PRECINCT 5,U.S. Senate,None Of These Candidates,23
 PRECINCT 5,U.S. Senate,"VANDERBEEK, DAVID LORY",50
-PRECINCT 5,"University Board of Regents, District  9","Knecht, Ron",373
-PRECINCT 5,"University Board of Regents, District  9","Mackedon, Michon",271
+PRECINCT 5,"University Board of Regents, District 9","Knecht, Ron",373
+PRECINCT 5,"University Board of Regents, District 9","Mackedon, Michon",271
 PRECINCT 6,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",226
 PRECINCT 6,County Comm Dist. 1 (CW),"PURKEY, THOMAS",248
 PRECINCT 6,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",166
 PRECINCT 6,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",331
-PRECINCT 6,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",283
-PRECINCT 6,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",219
+PRECINCT 6,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",283
+PRECINCT 6,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",219
 PRECINCT 6,President,"GOODE, VIRGIL",1
 PRECINCT 6,President,"JOHNSON, GARY",11
 PRECINCT 6,President,None Of These Candidates,7
@@ -369,14 +369,14 @@ PRECINCT 6,U.S. Senate,"Berkley, Shelley",189
 PRECINCT 6,U.S. Senate,"Heller, Dean",271
 PRECINCT 6,U.S. Senate,None Of These Candidates,37
 PRECINCT 6,U.S. Senate,"VANDERBEEK, DAVID LORY",43
-PRECINCT 6,"University Board of Regents, District  9","Knecht, Ron",283
-PRECINCT 6,"University Board of Regents, District  9","Mackedon, Michon",175
+PRECINCT 6,"University Board of Regents, District 9","Knecht, Ron",283
+PRECINCT 6,"University Board of Regents, District 9","Mackedon, Michon",175
 PRECINCT 7,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",0
 PRECINCT 7,County Comm Dist. 1 (CW),"PURKEY, THOMAS",0
 PRECINCT 7,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",0
 PRECINCT 7,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",0
-PRECINCT 7,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",0
-PRECINCT 7,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",0
+PRECINCT 7,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",0
+PRECINCT 7,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",0
 PRECINCT 7,President,"GOODE, VIRGIL",0
 PRECINCT 7,President,"JOHNSON, GARY",0
 PRECINCT 7,President,None Of These Candidates,0
@@ -400,14 +400,14 @@ PRECINCT 7,U.S. Senate,"Berkley, Shelley",0
 PRECINCT 7,U.S. Senate,"Heller, Dean",0
 PRECINCT 7,U.S. Senate,None Of These Candidates,0
 PRECINCT 7,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-PRECINCT 7,"University Board of Regents, District  9","Knecht, Ron",0
-PRECINCT 7,"University Board of Regents, District  9","Mackedon, Michon",0
+PRECINCT 7,"University Board of Regents, District 9","Knecht, Ron",0
+PRECINCT 7,"University Board of Regents, District 9","Mackedon, Michon",0
 PRECINCT 8,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",
 PRECINCT 8,County Comm Dist. 1 (CW),"PURKEY, THOMAS",
 PRECINCT 8,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",
 PRECINCT 8,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",
-PRECINCT 8,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",
-PRECINCT 8,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",
+PRECINCT 8,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",
+PRECINCT 8,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",
 PRECINCT 8,President,"GOODE, VIRGIL",
 PRECINCT 8,President,"JOHNSON, GARY",
 PRECINCT 8,President,None Of These Candidates,
@@ -431,8 +431,8 @@ PRECINCT 8,U.S. Senate,"Berkley, Shelley",
 PRECINCT 8,U.S. Senate,"Heller, Dean",
 PRECINCT 8,U.S. Senate,None Of These Candidates,
 PRECINCT 8,U.S. Senate,"VANDERBEEK, DAVID LORY",
-PRECINCT 8,"University Board of Regents, District  9","Knecht, Ron",
-PRECINCT 8,"University Board of Regents, District  9","Mackedon, Michon",
+PRECINCT 8,"University Board of Regents, District 9","Knecht, Ron",
+PRECINCT 8,"University Board of Regents, District 9","Mackedon, Michon",
 PRECINCT 88,President,"GOODE, VIRGIL",0
 PRECINCT 88,President,"JOHNSON, GARY",0
 PRECINCT 88,President,None Of These Candidates,0
@@ -442,8 +442,8 @@ PRECINCT 9,County Comm Dist. 1 (CW),"MCBRIDE, MARSHALL",0
 PRECINCT 9,County Comm Dist. 1 (CW),"PURKEY, THOMAS",0
 PRECINCT 9,County Comm Dist. 3 (CW),"CONLEY, MATHEW ""CASEY""",0
 PRECINCT 9,County Comm Dist. 3 (CW),"GILMAN, L. LANCE",0
-PRECINCT 9,Justice of the Peace -  STOREY - NP,"HERRINGTON, EILEEN F.",0
-PRECINCT 9,Justice of the Peace -  STOREY - NP,"MCGUFFEY, JACK R.",0
+PRECINCT 9,Justice of the Peace - STOREY - NP,"HERRINGTON, EILEEN F.",0
+PRECINCT 9,Justice of the Peace - STOREY - NP,"MCGUFFEY, JACK R.",0
 PRECINCT 9,President,"GOODE, VIRGIL",0
 PRECINCT 9,President,"JOHNSON, GARY",0
 PRECINCT 9,President,None Of These Candidates,0
@@ -467,8 +467,8 @@ PRECINCT 9,U.S. Senate,"Berkley, Shelley",0
 PRECINCT 9,U.S. Senate,"Heller, Dean",0
 PRECINCT 9,U.S. Senate,None Of These Candidates,0
 PRECINCT 9,U.S. Senate,"VANDERBEEK, DAVID LORY",0
-PRECINCT 9,"University Board of Regents, District  9","Knecht, Ron",0
-PRECINCT 9,"University Board of Regents, District  9","Mackedon, Michon",0
+PRECINCT 9,"University Board of Regents, District 9","Knecht, Ron",0
+PRECINCT 9,"University Board of Regents, District 9","Mackedon, Michon",0
 PRECINCT 99,President,"GOODE, VIRGIL",
 PRECINCT 99,President,"JOHNSON, GARY",
 PRECINCT 99,President,None Of These Candidates,

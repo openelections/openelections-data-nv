@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
-Precinct 1,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",108
-Precinct 1,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",62
+Precinct 1,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",108
+Precinct 1,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",62
 Precinct 1,President,"Baldwin, Chuck",3
 Precinct 1,President,"Barr, Bob",6
 Precinct 1,President,"McCain, John",125
@@ -25,8 +25,8 @@ Precinct 1,"U.S. Representative in Congress, District 2","HELLER, DEAN",114
 Precinct 1,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",10
 Precinct 2,County Commissioner District 2,"BOLAND, NANCY",44
 Precinct 2,County Commissioner District 2,"POLMAN, KENNY",18
-Precinct 2,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",34
-Precinct 2,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",21
+Precinct 2,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",34
+Precinct 2,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",21
 Precinct 2,President,"Baldwin, Chuck",0
 Precinct 2,President,"Barr, Bob",3
 Precinct 2,President,"McCain, John",50
@@ -51,8 +51,8 @@ Precinct 2,"U.S. Representative in Congress, District 2","HELLER, DEAN",45
 Precinct 2,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",2
 Precinct 3,County Commissioner District 3,"KIRBY, WILLIAM C.",116
 Precinct 3,County Commissioner District 3,"MUNEKIYO, WAYNE",54
-Precinct 3,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",133
-Precinct 3,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",24
+Precinct 3,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",133
+Precinct 3,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",24
 Precinct 3,President,"Baldwin, Chuck",3
 Precinct 3,President,"Barr, Bob",3
 Precinct 3,President,"McCain, John",117
@@ -77,8 +77,8 @@ Precinct 3,"U.S. Representative in Congress, District 2","HELLER, DEAN",125
 Precinct 3,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",3
 Precinct 4,County Commissioner District 2,"BOLAND, NANCY",8
 Precinct 4,County Commissioner District 2,"POLMAN, KENNY",4
-Precinct 4,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",12
-Precinct 4,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",1
+Precinct 4,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",12
+Precinct 4,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",1
 Precinct 4,President,"Baldwin, Chuck",0
 Precinct 4,President,"Barr, Bob",0
 Precinct 4,President,"McCain, John",8
@@ -103,8 +103,8 @@ Precinct 4,"U.S. Representative in Congress, District 2","HELLER, DEAN",9
 Precinct 4,"U.S. Representative in Congress, District 2","Morse, Sean Patrick",0
 Precinct 5,County Commissioner District 2,"BOLAND, NANCY",
 Precinct 5,County Commissioner District 2,"POLMAN, KENNY",
-Precinct 5,"District Court Judge, District 5, Department  1","DAVIS, JOHN P.",
-Precinct 5,"District Court Judge, District 5, Department  1","ZLOTEK, MARLA",
+Precinct 5,"District Court Judge, District 5, Department 1","DAVIS, JOHN P.",
+Precinct 5,"District Court Judge, District 5, Department 1","ZLOTEK, MARLA",
 Precinct 5,President,"Baldwin, Chuck",
 Precinct 5,President,"Barr, Bob",
 Precinct 5,President,"McCain, John",

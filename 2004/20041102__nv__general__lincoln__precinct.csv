@@ -36,8 +36,8 @@ precinct,office,candidate,votes
 1 - ALAMO,U.S. Senate,"REID, HARRY",143
 1 - ALAMO,U.S. Senate,"SCHUMANN, DAVID K.",4
 1 - ALAMO,U.S. Senate,"ZISER, RICHARD",343
-1 - ALAMO,"University Board of Regents, District  8","AIAZZI, STAN",178
-1 - ALAMO,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",254
+1 - ALAMO,"University Board of Regents, District 8","AIAZZI, STAN",178
+1 - ALAMO,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",254
 2 - CALIENTE,County Commissioner District A (CW),"ROWEO, GEORGE T.",455
 2 - CALIENTE,County Commissioner District C (CW),"PERKINS, TIM",186
 2 - CALIENTE,County Commissioner District C (CW),"POULSEN, WADE",348
@@ -78,8 +78,8 @@ precinct,office,candidate,votes
 2 - CALIENTE,U.S. Senate,"REID, HARRY",244
 2 - CALIENTE,U.S. Senate,"SCHUMANN, DAVID K.",14
 2 - CALIENTE,U.S. Senate,"ZISER, RICHARD",262
-2 - CALIENTE,"University Board of Regents, District  8","AIAZZI, STAN",196
-2 - CALIENTE,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",283
+2 - CALIENTE,"University Board of Regents, District 8","AIAZZI, STAN",196
+2 - CALIENTE,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",283
 3 - PANACA,County Commissioner District A (CW),"ROWEO, GEORGE T.",334
 3 - PANACA,County Commissioner District C (CW),"PERKINS, TIM",115
 3 - PANACA,County Commissioner District C (CW),"POULSEN, WADE",310
@@ -120,8 +120,8 @@ precinct,office,candidate,votes
 3 - PANACA,U.S. Senate,"REID, HARRY",140
 3 - PANACA,U.S. Senate,"SCHUMANN, DAVID K.",13
 3 - PANACA,U.S. Senate,"ZISER, RICHARD",257
-3 - PANACA,"University Board of Regents, District  8","AIAZZI, STAN",133
-3 - PANACA,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",219
+3 - PANACA,"University Board of Regents, District 8","AIAZZI, STAN",133
+3 - PANACA,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",219
 4 - PIOCHE,County Commissioner District A (CW),"ROWEO, GEORGE T.",354
 4 - PIOCHE,County Commissioner District C (CW),"PERKINS, TIM",121
 4 - PIOCHE,County Commissioner District C (CW),"POULSEN, WADE",357
@@ -151,8 +151,8 @@ precinct,office,candidate,votes
 4 - PIOCHE,"Supreme Court Justice, Seat F",None Of These Candidates,163
 5 - RACHEL,U.S. Senate,"SCHUMANN, DAVID K.",1
 5 - RACHEL,U.S. Senate,"ZISER, RICHARD",29
-5 - RACHEL,"University Board of Regents, District  8","AIAZZI, STAN",10
-5 - RACHEL,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",11
+5 - RACHEL,"University Board of Regents, District 8","AIAZZI, STAN",10
+5 - RACHEL,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",11
 Precinct 88,President,"BADNARIK, MICHAEL",0
 Precinct 88,President,"BUSH, GEORGE W.",0
 Precinct 88,President,"COBB, DAVID",0

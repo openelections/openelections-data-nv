@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
 Precinct 1,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",26
 Precinct 1,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",10
-Precinct 1,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",49
-Precinct 1,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",48
+Precinct 1,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",49
+Precinct 1,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",48
 Precinct 1,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",5
 Precinct 1,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",13
 Precinct 1,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",15
@@ -32,8 +32,8 @@ Precinct 1,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 1,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 10,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",70
 Precinct 10,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",39
-Precinct 10,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",147
-Precinct 10,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",152
+Precinct 10,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",147
+Precinct 10,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",152
 Precinct 10,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",7
 Precinct 10,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",15
 Precinct 10,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",51
@@ -63,8 +63,8 @@ Precinct 10,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 10,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 11,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",45
 Precinct 11,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",14
-Precinct 11,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",75
-Precinct 11,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",77
+Precinct 11,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",75
+Precinct 11,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",77
 Precinct 11,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",5
 Precinct 11,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",6
 Precinct 11,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",25
@@ -94,8 +94,8 @@ Precinct 11,U.S. Senate (Republican),None Of These Candidates,0
 Precinct 11,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 12,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",99
 Precinct 12,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",43
-Precinct 12,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",180
-Precinct 12,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",183
+Precinct 12,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",180
+Precinct 12,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",183
 Precinct 12,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",13
 Precinct 12,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",27
 Precinct 12,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",62
@@ -125,8 +125,8 @@ Precinct 12,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 12,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 13,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",21
 Precinct 13,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",8
-Precinct 13,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",37
-Precinct 13,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",37
+Precinct 13,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",37
+Precinct 13,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",37
 Precinct 13,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",0
 Precinct 13,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",5
 Precinct 13,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",10
@@ -156,8 +156,8 @@ Precinct 13,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 13,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 14,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",82
 Precinct 14,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",39
-Precinct 14,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",142
-Precinct 14,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",140
+Precinct 14,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",142
+Precinct 14,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",140
 Precinct 14,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",13
 Precinct 14,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",18
 Precinct 14,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",33
@@ -187,8 +187,8 @@ Precinct 14,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 14,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 15,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",30
 Precinct 15,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",10
-Precinct 15,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",64
-Precinct 15,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",64
+Precinct 15,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",64
+Precinct 15,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",64
 Precinct 15,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",62
 Precinct 15,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",60
 Precinct 15,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",62
@@ -214,8 +214,8 @@ Precinct 15,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 15,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 16,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",26
 Precinct 16,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",13
-Precinct 16,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",65
-Precinct 16,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",66
+Precinct 16,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",65
+Precinct 16,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",66
 Precinct 16,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",62
 Precinct 16,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",61
 Precinct 16,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",62
@@ -241,8 +241,8 @@ Precinct 16,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 16,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 17,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",
 Precinct 17,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",
-Precinct 17,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",
-Precinct 17,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",
+Precinct 17,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",
+Precinct 17,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",
 Precinct 17,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",
 Precinct 17,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",
 Precinct 17,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",
@@ -272,8 +272,8 @@ Precinct 19,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 19,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 2,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",18
 Precinct 2,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",9
-Precinct 2,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",51
-Precinct 2,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",52
+Precinct 2,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",51
+Precinct 2,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",52
 Precinct 2,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",5
 Precinct 2,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",15
 Precinct 2,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",15
@@ -303,8 +303,8 @@ Precinct 2,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 2,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 20,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",42
 Precinct 20,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",27
-Precinct 20,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",193
-Precinct 20,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",184
+Precinct 20,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",193
+Precinct 20,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",184
 Precinct 20,"EASTLINE, Justice of the Peace (Nonpartisan)","BOATMAN, BRIAN E.",88
 Precinct 20,"EASTLINE, Justice of the Peace (Nonpartisan)","MELVILLE, REESE F.",80
 Precinct 20,"EASTLINE, Justice of the Peace (Nonpartisan)","WISKERCHEN, DAVID",39
@@ -333,8 +333,8 @@ Precinct 20,U.S. Senate (Republican),None Of These Candidates,8
 Precinct 20,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 21,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",12
 Precinct 21,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",6
-Precinct 21,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",40
-Precinct 21,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",40
+Precinct 21,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",40
+Precinct 21,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",40
 Precinct 21,"EASTLINE, Justice of the Peace (Nonpartisan)","BOATMAN, BRIAN E.",21
 Precinct 21,"EASTLINE, Justice of the Peace (Nonpartisan)","MELVILLE, REESE F.",20
 Precinct 21,"EASTLINE, Justice of the Peace (Nonpartisan)","WISKERCHEN, DAVID",4
@@ -363,8 +363,8 @@ Precinct 21,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 21,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 22,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",95
 Precinct 22,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",65
-Precinct 22,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",186
-Precinct 22,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",179
+Precinct 22,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",186
+Precinct 22,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",179
 Precinct 22,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",14
 Precinct 22,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",29
 Precinct 22,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",82
@@ -394,8 +394,8 @@ Precinct 22,U.S. Senate (Republican),None Of These Candidates,5
 Precinct 22,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 23,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",94
 Precinct 23,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",42
-Precinct 23,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",168
-Precinct 23,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",165
+Precinct 23,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",168
+Precinct 23,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",165
 Precinct 23,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",10
 Precinct 23,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",30
 Precinct 23,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",81
@@ -425,8 +425,8 @@ Precinct 23,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 23,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 24,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",58
 Precinct 24,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",16
-Precinct 24,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",102
-Precinct 24,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",105
+Precinct 24,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",102
+Precinct 24,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",105
 Precinct 24,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",5
 Precinct 24,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",28
 Precinct 24,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",42
@@ -456,8 +456,8 @@ Precinct 24,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 24,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 25,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",54
 Precinct 25,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",23
-Precinct 25,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",102
-Precinct 25,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",103
+Precinct 25,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",102
+Precinct 25,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",103
 Precinct 25,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",9
 Precinct 25,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",18
 Precinct 25,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",58
@@ -487,8 +487,8 @@ Precinct 25,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 25,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 26,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",87
 Precinct 26,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",66
-Precinct 26,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",160
-Precinct 26,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",162
+Precinct 26,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",160
+Precinct 26,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",162
 Precinct 26,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",11
 Precinct 26,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",24
 Precinct 26,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",49
@@ -518,8 +518,8 @@ Precinct 26,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 26,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 27,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",51
 Precinct 27,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",20
-Precinct 27,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",78
-Precinct 27,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",79
+Precinct 27,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",78
+Precinct 27,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",79
 Precinct 27,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",5
 Precinct 27,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",16
 Precinct 27,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",22
@@ -549,8 +549,8 @@ Precinct 27,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 27,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 28,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",22
 Precinct 28,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",8
-Precinct 28,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",27
-Precinct 28,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",28
+Precinct 28,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",27
+Precinct 28,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",28
 Precinct 28,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",0
 Precinct 28,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",9
 Precinct 28,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",6
@@ -580,8 +580,8 @@ Precinct 28,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 28,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 29,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",
 Precinct 29,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",
-Precinct 29,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",36
-Precinct 29,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",31
+Precinct 29,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",36
+Precinct 29,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",31
 Precinct 29,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",9
 Precinct 29,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",6
 Precinct 29,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",10
@@ -611,8 +611,8 @@ Precinct 29,U.S. Senate (Republican),None Of These Candidates,
 Precinct 29,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
 Precinct 3,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",74
 Precinct 3,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",34
-Precinct 3,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",148
-Precinct 3,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",146
+Precinct 3,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",148
+Precinct 3,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",146
 Precinct 3,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",9
 Precinct 3,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",12
 Precinct 3,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",36
@@ -642,8 +642,8 @@ Precinct 3,U.S. Senate (Republican),None Of These Candidates,3
 Precinct 3,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 30,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",23
 Precinct 30,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",5
-Precinct 30,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",37
-Precinct 30,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",35
+Precinct 30,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",37
+Precinct 30,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",35
 Precinct 30,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",6
 Precinct 30,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",1
 Precinct 30,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",9
@@ -673,8 +673,8 @@ Precinct 30,U.S. Senate (Republican),None Of These Candidates,0
 Precinct 30,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 31,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",8
 Precinct 31,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",7
-Precinct 31,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",16
-Precinct 31,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",15
+Precinct 31,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",16
+Precinct 31,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",15
 Precinct 31,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",3
 Precinct 31,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",3
 Precinct 31,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",6
@@ -704,8 +704,8 @@ Precinct 31,U.S. Senate (Republican),None Of These Candidates,0
 Precinct 31,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 32,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",50
 Precinct 32,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",20
-Precinct 32,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",84
-Precinct 32,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",80
+Precinct 32,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",84
+Precinct 32,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",80
 Precinct 32,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",9
 Precinct 32,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",22
 Precinct 32,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",18
@@ -735,8 +735,8 @@ Precinct 32,U.S. Senate (Republican),None Of These Candidates,4
 Precinct 32,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 33,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",24
 Precinct 33,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",15
-Precinct 33,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",50
-Precinct 33,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",49
+Precinct 33,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",50
+Precinct 33,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",49
 Precinct 33,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",44
 Precinct 33,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",44
 Precinct 33,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",42
@@ -762,8 +762,8 @@ Precinct 33,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 33,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 34,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",40
 Precinct 34,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",24
-Precinct 34,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",53
-Precinct 34,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",55
+Precinct 34,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",53
+Precinct 34,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",55
 Precinct 34,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",43
 Precinct 34,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",42
 Precinct 34,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",36
@@ -789,8 +789,8 @@ Precinct 34,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 34,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 35,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",50
 Precinct 35,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",6
-Precinct 35,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",43
-Precinct 35,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",44
+Precinct 35,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",43
+Precinct 35,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",44
 Precinct 35,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",45
 Precinct 35,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",41
 Precinct 35,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",28
@@ -816,8 +816,8 @@ Precinct 35,U.S. Senate (Republican),None Of These Candidates,0
 Precinct 35,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 36,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",41
 Precinct 36,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",11
-Precinct 36,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",64
-Precinct 36,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",68
+Precinct 36,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",64
+Precinct 36,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",68
 Precinct 36,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",61
 Precinct 36,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",63
 Precinct 36,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",56
@@ -843,8 +843,8 @@ Precinct 36,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 36,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 37,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",13
 Precinct 37,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",7
-Precinct 37,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",27
-Precinct 37,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",26
+Precinct 37,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",27
+Precinct 37,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",26
 Precinct 37,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",24
 Precinct 37,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",25
 Precinct 37,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",22
@@ -870,8 +870,8 @@ Precinct 37,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 37,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 38,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",20
 Precinct 38,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",8
-Precinct 38,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",70
-Precinct 38,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",71
+Precinct 38,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",70
+Precinct 38,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",71
 Precinct 38,"JACKPOT, Justice of the Peace (Nonpartisan)","BURT, MONICA L.",46
 Precinct 38,"JACKPOT, Justice of the Peace (Nonpartisan)","HESTER, J. BRAD",53
 Precinct 38,"JACKPOT, Justice of the Peace (Nonpartisan)","VALLONI, FLORENCE",0
@@ -900,8 +900,8 @@ Precinct 38,U.S. Senate (Republican),None Of These Candidates,6
 Precinct 38,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 39,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",13
 Precinct 39,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",13
-Precinct 39,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",50
-Precinct 39,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",49
+Precinct 39,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",50
+Precinct 39,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",49
 Precinct 39,School Board Trustee Dst 2 -AL (Nonpartisan),"ELQUIST, CINDY",50
 Precinct 39,School Board Trustee Dst 3 -AL (Nonpartisan),"KERR, ANNETTE",49
 Precinct 39,School Board Trustee Dst 5 -AL (Nonpartisan),"KARR, JONATHAN",49
@@ -927,8 +927,8 @@ Precinct 39,U.S. Senate (Republican),None Of These Candidates,5
 Precinct 39,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 4,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",52
 Precinct 4,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",38
-Precinct 4,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",121
-Precinct 4,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",121
+Precinct 4,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",121
+Precinct 4,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",121
 Precinct 4,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",9
 Precinct 4,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",12
 Precinct 4,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",42
@@ -958,8 +958,8 @@ Precinct 4,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 4,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 40,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",101
 Precinct 40,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",45
-Precinct 40,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",177
-Precinct 40,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",175
+Precinct 40,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",177
+Precinct 40,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",175
 Precinct 40,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",15
 Precinct 40,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",31
 Precinct 40,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",56
@@ -989,8 +989,8 @@ Precinct 40,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 40,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 41,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",116
 Precinct 41,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",61
-Precinct 41,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",210
-Precinct 41,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",204
+Precinct 41,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",210
+Precinct 41,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",204
 Precinct 41,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",6
 Precinct 41,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",24
 Precinct 41,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",102
@@ -1020,8 +1020,8 @@ Precinct 41,U.S. Senate (Republican),None Of These Candidates,6
 Precinct 41,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 5,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",75
 Precinct 5,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",26
-Precinct 5,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",133
-Precinct 5,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",135
+Precinct 5,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",133
+Precinct 5,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",135
 Precinct 5,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",4
 Precinct 5,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",25
 Precinct 5,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",41
@@ -1051,8 +1051,8 @@ Precinct 5,U.S. Senate (Republican),None Of These Candidates,2
 Precinct 5,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
 Precinct 6,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",57
 Precinct 6,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",20
-Precinct 6,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",99
-Precinct 6,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",99
+Precinct 6,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",99
+Precinct 6,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",99
 Precinct 6,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",4
 Precinct 6,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",12
 Precinct 6,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",30
@@ -1082,8 +1082,8 @@ Precinct 6,U.S. Senate (Republican),None Of These Candidates,6
 Precinct 6,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 7,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",43
 Precinct 7,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",29
-Precinct 7,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",89
-Precinct 7,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",87
+Precinct 7,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",89
+Precinct 7,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",87
 Precinct 7,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",1
 Precinct 7,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",7
 Precinct 7,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",26
@@ -1113,8 +1113,8 @@ Precinct 7,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 7,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 8,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",45
 Precinct 8,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",37
-Precinct 8,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",114
-Precinct 8,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",114
+Precinct 8,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",114
+Precinct 8,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",114
 Precinct 8,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",7
 Precinct 8,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",22
 Precinct 8,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",26
@@ -1144,8 +1144,8 @@ Precinct 8,U.S. Senate (Republican),None Of These Candidates,1
 Precinct 8,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
 Precinct 9,County Comm Dist. 5 (CW) (Republican),"GERBER, GRANT",50
 Precinct 9,County Comm Dist. 5 (CW) (Republican),"LARASON, JACK",13
-Precinct 9,"District Court Judge, District 4, Department  1 (Nonpartisan)","PORTER, NANCY",102
-Precinct 9,"District Court Judge, District 4, Department  2 (Nonpartisan)","KACIN, AL",99
+Precinct 9,"District Court Judge, District 4, Department 1 (Nonpartisan)","PORTER, NANCY",102
+Precinct 9,"District Court Judge, District 4, Department 2 (Nonpartisan)","KACIN, AL",99
 Precinct 9,"ELKO, Justice of the Peace (Nonpartisan)","CHIESA, ANTOINETTE",9
 Precinct 9,"ELKO, Justice of the Peace (Nonpartisan)","HILLEWAERT, DIANA",18
 Precinct 9,"ELKO, Justice of the Peace (Nonpartisan)","LOREMAN, DAVID D.",25

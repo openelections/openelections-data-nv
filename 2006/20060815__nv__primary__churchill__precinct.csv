@@ -18,9 +18,9 @@ Precinct 01,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",46
 Precinct 01,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",18
 Precinct 01,COUNTY RECORDER (Democratic),"SIMS, JOAN",29
 Precinct 01,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",43
-Precinct 01,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",89
-Precinct 01,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",164
-Precinct 01,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",26
+Precinct 01,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",89
+Precinct 01,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",164
+Precinct 01,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",26
 Precinct 01,Governor (Democratic),"Gibson, James B.",38
 Precinct 01,Governor (Democratic),"McConnell, Leola",6
 Precinct 01,Governor (Democratic),None Of These Candidates,9
@@ -122,9 +122,9 @@ Precinct 03,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",58
 Precinct 03,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",14
 Precinct 03,COUNTY RECORDER (Democratic),"SIMS, JOAN",16
 Precinct 03,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",39
-Precinct 03,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",71
-Precinct 03,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",131
-Precinct 03,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",24
+Precinct 03,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",71
+Precinct 03,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",131
+Precinct 03,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",24
 Precinct 03,Governor (Democratic),"Gibson, James B.",29
 Precinct 03,Governor (Democratic),"McConnell, Leola",6
 Precinct 03,Governor (Democratic),None Of These Candidates,4
@@ -199,9 +199,9 @@ Precinct 04,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",47
 Precinct 04,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",14
 Precinct 04,COUNTY RECORDER (Democratic),"SIMS, JOAN",20
 Precinct 04,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",36
-Precinct 04,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",72
-Precinct 04,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",110
-Precinct 04,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",25
+Precinct 04,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",72
+Precinct 04,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",110
+Precinct 04,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",25
 Precinct 04,Governor (Democratic),"Gibson, James B.",37
 Precinct 04,Governor (Democratic),"McConnell, Leola",1
 Precinct 04,Governor (Democratic),None Of These Candidates,9
@@ -276,9 +276,9 @@ Precinct 05,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",62
 Precinct 05,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",13
 Precinct 05,COUNTY RECORDER (Democratic),"SIMS, JOAN",23
 Precinct 05,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",46
-Precinct 05,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",70
-Precinct 05,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",115
-Precinct 05,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",37
+Precinct 05,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",70
+Precinct 05,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",115
+Precinct 05,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",37
 Precinct 05,Governor (Democratic),"Gibson, James B.",33
 Precinct 05,Governor (Democratic),"McConnell, Leola",4
 Precinct 05,Governor (Democratic),None Of These Candidates,9
@@ -353,9 +353,9 @@ Precinct 06,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",53
 Precinct 06,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",14
 Precinct 06,COUNTY RECORDER (Democratic),"SIMS, JOAN",24
 Precinct 06,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",42
-Precinct 06,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",103
-Precinct 06,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",126
-Precinct 06,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",25
+Precinct 06,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",103
+Precinct 06,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",126
+Precinct 06,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",25
 Precinct 06,Governor (Democratic),"Gibson, James B.",31
 Precinct 06,Governor (Democratic),"McConnell, Leola",3
 Precinct 06,Governor (Democratic),None Of These Candidates,7
@@ -430,9 +430,9 @@ Precinct 07,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",79
 Precinct 07,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",10
 Precinct 07,COUNTY RECORDER (Democratic),"SIMS, JOAN",37
 Precinct 07,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",43
-Precinct 07,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",85
-Precinct 07,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",205
-Precinct 07,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",47
+Precinct 07,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",85
+Precinct 07,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",205
+Precinct 07,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",47
 Precinct 07,Governor (Democratic),"Gibson, James B.",27
 Precinct 07,Governor (Democratic),"McConnell, Leola",6
 Precinct 07,Governor (Democratic),None Of These Candidates,12
@@ -507,9 +507,9 @@ Precinct 08,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",51
 Precinct 08,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",10
 Precinct 08,COUNTY RECORDER (Democratic),"SIMS, JOAN",17
 Precinct 08,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",32
-Precinct 08,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",39
-Precinct 08,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",103
-Precinct 08,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",15
+Precinct 08,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",39
+Precinct 08,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",103
+Precinct 08,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",15
 Precinct 08,Governor (Democratic),"Gibson, James B.",26
 Precinct 08,Governor (Democratic),"McConnell, Leola",4
 Precinct 08,Governor (Democratic),None Of These Candidates,6
@@ -584,9 +584,9 @@ Precinct 09,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",63
 Precinct 09,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",6
 Precinct 09,COUNTY RECORDER (Democratic),"SIMS, JOAN",12
 Precinct 09,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",22
-Precinct 09,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",64
-Precinct 09,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",128
-Precinct 09,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",19
+Precinct 09,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",64
+Precinct 09,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",128
+Precinct 09,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",19
 Precinct 09,Governor (Democratic),"Gibson, James B.",21
 Precinct 09,Governor (Democratic),"McConnell, Leola",3
 Precinct 09,Governor (Democratic),None Of These Candidates,3
@@ -661,9 +661,9 @@ Precinct 10,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",78
 Precinct 10,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",14
 Precinct 10,COUNTY RECORDER (Democratic),"SIMS, JOAN",39
 Precinct 10,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",63
-Precinct 10,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",82
-Precinct 10,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",218
-Precinct 10,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",40
+Precinct 10,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",82
+Precinct 10,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",218
+Precinct 10,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",40
 Precinct 10,Governor (Democratic),"Gibson, James B.",44
 Precinct 10,Governor (Democratic),"McConnell, Leola",5
 Precinct 10,Governor (Democratic),None Of These Candidates,18
@@ -738,9 +738,9 @@ Precinct 11,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",68
 Precinct 11,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",14
 Precinct 11,COUNTY RECORDER (Democratic),"SIMS, JOAN",22
 Precinct 11,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",38
-Precinct 11,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",104
-Precinct 11,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",173
-Precinct 11,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",52
+Precinct 11,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",104
+Precinct 11,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",173
+Precinct 11,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",52
 Precinct 11,Governor (Democratic),"Gibson, James B.",23
 Precinct 11,Governor (Democratic),"McConnell, Leola",5
 Precinct 11,Governor (Democratic),None Of These Candidates,10
@@ -815,9 +815,9 @@ Precinct 12,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",64
 Precinct 12,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",8
 Precinct 12,COUNTY RECORDER (Democratic),"SIMS, JOAN",6
 Precinct 12,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",9
-Precinct 12,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",37
-Precinct 12,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",69
-Precinct 12,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",10
+Precinct 12,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",37
+Precinct 12,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",69
+Precinct 12,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",10
 Precinct 12,Governor (Democratic),"Gibson, James B.",13
 Precinct 12,Governor (Democratic),"McConnell, Leola",0
 Precinct 12,Governor (Democratic),None Of These Candidates,5
@@ -898,9 +898,9 @@ Precinct 13,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",72
 Precinct 13,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",7
 Precinct 13,COUNTY RECORDER (Democratic),"SIMS, JOAN",12
 Precinct 13,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",22
-Precinct 13,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",42
-Precinct 13,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",119
-Precinct 13,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",43
+Precinct 13,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",42
+Precinct 13,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",119
+Precinct 13,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",43
 Precinct 13,Governor (Democratic),"Gibson, James B.",14
 Precinct 13,Governor (Democratic),"McConnell, Leola",7
 Precinct 13,Governor (Democratic),None Of These Candidates,5
@@ -981,9 +981,9 @@ Precinct 14,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",57
 Precinct 14,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",7
 Precinct 14,COUNTY RECORDER (Democratic),"SIMS, JOAN",13
 Precinct 14,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",33
-Precinct 14,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",70
-Precinct 14,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",146
-Precinct 14,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",38
+Precinct 14,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",70
+Precinct 14,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",146
+Precinct 14,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",38
 Precinct 14,Governor (Democratic),"Gibson, James B.",24
 Precinct 14,Governor (Democratic),"McConnell, Leola",4
 Precinct 14,Governor (Democratic),None Of These Candidates,8
@@ -1064,9 +1064,9 @@ Precinct 15,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",120
 Precinct 15,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",18
 Precinct 15,COUNTY RECORDER (Democratic),"SIMS, JOAN",25
 Precinct 15,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",30
-Precinct 15,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",86
-Precinct 15,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",190
-Precinct 15,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",34
+Precinct 15,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",86
+Precinct 15,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",190
+Precinct 15,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",34
 Precinct 15,Governor (Democratic),"Gibson, James B.",28
 Precinct 15,Governor (Democratic),"McConnell, Leola",4
 Precinct 15,Governor (Democratic),None Of These Candidates,10
@@ -1147,9 +1147,9 @@ Precinct 16,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",52
 Precinct 16,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",19
 Precinct 16,COUNTY RECORDER (Democratic),"SIMS, JOAN",11
 Precinct 16,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",31
-Precinct 16,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",59
-Precinct 16,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",79
-Precinct 16,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",18
+Precinct 16,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",59
+Precinct 16,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",79
+Precinct 16,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",18
 Precinct 16,Governor (Democratic),"Gibson, James B.",30
 Precinct 16,Governor (Democratic),"McConnell, Leola",2
 Precinct 16,Governor (Democratic),None Of These Candidates,5
@@ -1224,9 +1224,9 @@ Precinct 17,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",95
 Precinct 17,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",23
 Precinct 17,COUNTY RECORDER (Democratic),"SIMS, JOAN",44
 Precinct 17,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",44
-Precinct 17,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",125
-Precinct 17,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",202
-Precinct 17,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",49
+Precinct 17,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",125
+Precinct 17,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",202
+Precinct 17,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",49
 Precinct 17,Governor (Democratic),"Gibson, James B.",43
 Precinct 17,Governor (Democratic),"McConnell, Leola",10
 Precinct 17,Governor (Democratic),None Of These Candidates,14
@@ -1301,9 +1301,9 @@ Precinct 18,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",122
 Precinct 18,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",25
 Precinct 18,COUNTY RECORDER (Democratic),"SIMS, JOAN",41
 Precinct 18,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",63
-Precinct 18,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",139
-Precinct 18,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",233
-Precinct 18,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",63
+Precinct 18,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",139
+Precinct 18,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",233
+Precinct 18,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",63
 Precinct 18,Governor (Democratic),"Gibson, James B.",47
 Precinct 18,Governor (Democratic),"McConnell, Leola",7
 Precinct 18,Governor (Democratic),None Of These Candidates,16
@@ -1378,9 +1378,9 @@ Precinct 19,CHURCHILL Justice of the Peace (Nonpartisan),"WARD, DANIEL P.",74
 Precinct 19,COUNTY RECORDER (Democratic),"MCKNIGHT, TAMI",6
 Precinct 19,COUNTY RECORDER (Democratic),"SIMS, JOAN",22
 Precinct 19,COUNTY RECORDER (Democratic),"TRIPP, VICKY L.",24
-Precinct 19,"District Court Judge, District 3, Department  2 (Nonpartisan)","ABERASTURI, LEON",84
-Precinct 19,"District Court Judge, District 3, Department  2 (Nonpartisan)","PEDERSON, WAYNE A.",135
-Precinct 19,"District Court Judge, District 3, Department  2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",32
+Precinct 19,"District Court Judge, District 3, Department 2 (Nonpartisan)","ABERASTURI, LEON",84
+Precinct 19,"District Court Judge, District 3, Department 2 (Nonpartisan)","PEDERSON, WAYNE A.",135
+Precinct 19,"District Court Judge, District 3, Department 2 (Nonpartisan)","SCHLEGELMILCH, JOHN PAUL",32
 Precinct 19,Governor (Democratic),"Gibson, James B.",16
 Precinct 19,Governor (Democratic),"McConnell, Leola",5
 Precinct 19,Governor (Democratic),None Of These Candidates,7

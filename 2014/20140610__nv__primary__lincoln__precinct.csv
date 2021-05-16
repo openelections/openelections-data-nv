@@ -2,8 +2,8 @@ precinct,office,candidate,votes
 1 - ALAMO,COUNTY ASSESSOR (Republican),"BLEAK, COLLIN",35
 1 - ALAMO,COUNTY ASSESSOR (Republican),"HOLT, MARK",95
 1 - ALAMO,COUNTY ASSESSOR (Republican),"PEARCE, SUMMER",13
-1 - ALAMO,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",165
-1 - ALAMO,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",166
+1 - ALAMO,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",165
+1 - ALAMO,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",166
 1 - ALAMO,Governor (Democratic),"Chang, Charles ""Charlie""",1
 1 - ALAMO,Governor (Democratic),"Conquest, Frederick L.",2
 1 - ALAMO,Governor (Democratic),"Frye, Stephen H.",3
@@ -46,8 +46,8 @@ precinct,office,candidate,votes
 2 - CALIENTE,COUNTY ASSESSOR (Republican),"BLEAK, COLLIN",11
 2 - CALIENTE,COUNTY ASSESSOR (Republican),"HOLT, MARK",117
 2 - CALIENTE,COUNTY ASSESSOR (Republican),"PEARCE, SUMMER",4
-2 - CALIENTE,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",192
-2 - CALIENTE,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",198
+2 - CALIENTE,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",192
+2 - CALIENTE,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",198
 2 - CALIENTE,Governor (Democratic),"Chang, Charles ""Charlie""",5
 2 - CALIENTE,Governor (Democratic),"Conquest, Frederick L.",4
 2 - CALIENTE,Governor (Democratic),"Frye, Stephen H.",4
@@ -90,8 +90,8 @@ precinct,office,candidate,votes
 3 - PANACA,COUNTY ASSESSOR (Republican),"BLEAK, COLLIN",42
 3 - PANACA,COUNTY ASSESSOR (Republican),"HOLT, MARK",85
 3 - PANACA,COUNTY ASSESSOR (Republican),"PEARCE, SUMMER",6
-3 - PANACA,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",146
-3 - PANACA,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",150
+3 - PANACA,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",146
+3 - PANACA,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",150
 3 - PANACA,Governor (Democratic),"Chang, Charles ""Charlie""",0
 3 - PANACA,Governor (Democratic),"Conquest, Frederick L.",0
 3 - PANACA,Governor (Democratic),"Frye, Stephen H.",6
@@ -134,8 +134,8 @@ precinct,office,candidate,votes
 4 - PIOCHE,COUNTY ASSESSOR (Republican),"BLEAK, COLLIN",75
 4 - PIOCHE,COUNTY ASSESSOR (Republican),"HOLT, MARK",67
 4 - PIOCHE,COUNTY ASSESSOR (Republican),"PEARCE, SUMMER",9
-4 - PIOCHE,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",179
-4 - PIOCHE,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",175
+4 - PIOCHE,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",179
+4 - PIOCHE,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",175
 4 - PIOCHE,Governor (Democratic),"Chang, Charles ""Charlie""",2
 4 - PIOCHE,Governor (Democratic),"Conquest, Frederick L.",0
 4 - PIOCHE,Governor (Democratic),"Frye, Stephen H.",2
@@ -178,8 +178,8 @@ precinct,office,candidate,votes
 5 - RACHEL,COUNTY ASSESSOR (Republican),"BLEAK, COLLIN",0
 5 - RACHEL,COUNTY ASSESSOR (Republican),"HOLT, MARK",9
 5 - RACHEL,COUNTY ASSESSOR (Republican),"PEARCE, SUMMER",3
-5 - RACHEL,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",14
-5 - RACHEL,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",13
+5 - RACHEL,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",14
+5 - RACHEL,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",13
 5 - RACHEL,Governor (Democratic),"Chang, Charles ""Charlie""",0
 5 - RACHEL,Governor (Democratic),"Conquest, Frederick L.",0
 5 - RACHEL,Governor (Democratic),"Frye, Stephen H.",0

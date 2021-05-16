@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 PRECINCT 1,Attorney General,"Barrick, Travis",106
-PRECINCT 1,Attorney General,"CORTEZ  MASTO, CATHERINE",139
+PRECINCT 1,Attorney General,"CORTEZ MASTO, CATHERINE",139
 PRECINCT 1,Attorney General,"Hansen, Joel F.",20
 PRECINCT 1,Attorney General,None Of These Candidates,12
 PRECINCT 1,COUNTY ASSESSOR,"HONEA, ANITA",125
@@ -60,7 +60,7 @@ PRECINCT 1,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 1,U.S. Senate,"REID, HARRY",123
 PRECINCT 1,U.S. Senate,"Stand, Wil",1
 PRECINCT 10,Attorney General,"Barrick, Travis",0
-PRECINCT 10,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 10,Attorney General,"CORTEZ MASTO, CATHERINE",0
 PRECINCT 10,Attorney General,"Hansen, Joel F.",0
 PRECINCT 10,Attorney General,None Of These Candidates,0
 PRECINCT 10,COUNTY ASSESSOR,"HONEA, ANITA",0
@@ -120,7 +120,7 @@ PRECINCT 10,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 10,U.S. Senate,"REID, HARRY",0
 PRECINCT 10,U.S. Senate,"Stand, Wil",0
 PRECINCT 11,Attorney General,"Barrick, Travis",4
-PRECINCT 11,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 11,Attorney General,"CORTEZ MASTO, CATHERINE",0
 PRECINCT 11,Attorney General,"Hansen, Joel F.",7
 PRECINCT 11,Attorney General,None Of These Candidates,0
 PRECINCT 11,COUNTY ASSESSOR,"HONEA, ANITA",2
@@ -179,7 +179,7 @@ PRECINCT 11,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 11,U.S. Senate,"REID, HARRY",0
 PRECINCT 11,U.S. Senate,"Stand, Wil",1
 PRECINCT 12,Attorney General,"Barrick, Travis",
-PRECINCT 12,Attorney General,"CORTEZ  MASTO, CATHERINE",
+PRECINCT 12,Attorney General,"CORTEZ MASTO, CATHERINE",
 PRECINCT 12,Attorney General,"Hansen, Joel F.",
 PRECINCT 12,Attorney General,None Of These Candidates,
 PRECINCT 12,COUNTY ASSESSOR,"HONEA, ANITA",
@@ -248,7 +248,7 @@ PRECINCT 13,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 13,U.S. Senate,"REID, HARRY",0
 PRECINCT 13,U.S. Senate,"Stand, Wil",0
 PRECINCT 14,Attorney General,"Barrick, Travis",0
-PRECINCT 14,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 14,Attorney General,"CORTEZ MASTO, CATHERINE",0
 PRECINCT 14,Attorney General,"Hansen, Joel F.",0
 PRECINCT 14,Attorney General,None Of These Candidates,0
 PRECINCT 14,COUNTY ASSESSOR,"HONEA, ANITA",0
@@ -307,7 +307,7 @@ PRECINCT 14,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 14,U.S. Senate,"REID, HARRY",0
 PRECINCT 14,U.S. Senate,"Stand, Wil",0
 PRECINCT 15,Attorney General,"Barrick, Travis",10
-PRECINCT 15,Attorney General,"CORTEZ  MASTO, CATHERINE",5
+PRECINCT 15,Attorney General,"CORTEZ MASTO, CATHERINE",5
 PRECINCT 15,Attorney General,"Hansen, Joel F.",6
 PRECINCT 15,Attorney General,None Of These Candidates,1
 PRECINCT 15,COUNTY ASSESSOR,"HONEA, ANITA",5
@@ -367,7 +367,7 @@ PRECINCT 15,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 15,U.S. Senate,"REID, HARRY",8
 PRECINCT 15,U.S. Senate,"Stand, Wil",0
 PRECINCT 2,Attorney General,"Barrick, Travis",102
-PRECINCT 2,Attorney General,"CORTEZ  MASTO, CATHERINE",152
+PRECINCT 2,Attorney General,"CORTEZ MASTO, CATHERINE",152
 PRECINCT 2,Attorney General,"Hansen, Joel F.",23
 PRECINCT 2,Attorney General,None Of These Candidates,13
 PRECINCT 2,COUNTY ASSESSOR,"HONEA, ANITA",131
@@ -427,7 +427,7 @@ PRECINCT 2,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 2,U.S. Senate,"REID, HARRY",135
 PRECINCT 2,U.S. Senate,"Stand, Wil",1
 PRECINCT 3,Attorney General,"Barrick, Travis",
-PRECINCT 3,Attorney General,"CORTEZ  MASTO, CATHERINE",
+PRECINCT 3,Attorney General,"CORTEZ MASTO, CATHERINE",
 PRECINCT 3,Attorney General,"Hansen, Joel F.",
 PRECINCT 3,Attorney General,None Of These Candidates,
 PRECINCT 3,COUNTY ASSESSOR,"HONEA, ANITA",
@@ -486,7 +486,7 @@ PRECINCT 3,U.S. Senate,"Reeves, Jeffrey C.",
 PRECINCT 3,U.S. Senate,"REID, HARRY",
 PRECINCT 3,U.S. Senate,"Stand, Wil",
 PRECINCT 4,Attorney General,"Barrick, Travis",132
-PRECINCT 4,Attorney General,"CORTEZ  MASTO, CATHERINE",127
+PRECINCT 4,Attorney General,"CORTEZ MASTO, CATHERINE",127
 PRECINCT 4,Attorney General,"Hansen, Joel F.",33
 PRECINCT 4,Attorney General,None Of These Candidates,14
 PRECINCT 4,COUNTY ASSESSOR,"HONEA, ANITA",82
@@ -546,7 +546,7 @@ PRECINCT 4,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 4,U.S. Senate,"REID, HARRY",107
 PRECINCT 4,U.S. Senate,"Stand, Wil",4
 PRECINCT 5,Attorney General,"Barrick, Travis",355
-PRECINCT 5,Attorney General,"CORTEZ  MASTO, CATHERINE",300
+PRECINCT 5,Attorney General,"CORTEZ MASTO, CATHERINE",300
 PRECINCT 5,Attorney General,"Hansen, Joel F.",62
 PRECINCT 5,Attorney General,None Of These Candidates,26
 PRECINCT 5,COUNTY ASSESSOR,"HONEA, ANITA",394
@@ -605,7 +605,7 @@ PRECINCT 5,U.S. Senate,"Reeves, Jeffrey C.",1
 PRECINCT 5,U.S. Senate,"REID, HARRY",245
 PRECINCT 5,U.S. Senate,"Stand, Wil",4
 PRECINCT 6,Attorney General,"Barrick, Travis",155
-PRECINCT 6,Attorney General,"CORTEZ  MASTO, CATHERINE",237
+PRECINCT 6,Attorney General,"CORTEZ MASTO, CATHERINE",237
 PRECINCT 6,Attorney General,"Hansen, Joel F.",40
 PRECINCT 6,Attorney General,None Of These Candidates,10
 PRECINCT 6,CANYON Gen Imp Dist Seat 3A,"CUDSWORTH, EDNA",193
@@ -668,7 +668,7 @@ PRECINCT 6,U.S. Senate,"Reeves, Jeffrey C.",3
 PRECINCT 6,U.S. Senate,"REID, HARRY",221
 PRECINCT 6,U.S. Senate,"Stand, Wil",2
 PRECINCT 7,Attorney General,"Barrick, Travis",0
-PRECINCT 7,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 7,Attorney General,"CORTEZ MASTO, CATHERINE",0
 PRECINCT 7,Attorney General,"Hansen, Joel F.",0
 PRECINCT 7,Attorney General,None Of These Candidates,0
 PRECINCT 7,COUNTY ASSESSOR,"HONEA, ANITA",0
@@ -727,7 +727,7 @@ PRECINCT 7,U.S. Senate,"Reeves, Jeffrey C.",0
 PRECINCT 7,U.S. Senate,"REID, HARRY",0
 PRECINCT 7,U.S. Senate,"Stand, Wil",0
 PRECINCT 8,Attorney General,"Barrick, Travis",
-PRECINCT 8,Attorney General,"CORTEZ  MASTO, CATHERINE",
+PRECINCT 8,Attorney General,"CORTEZ MASTO, CATHERINE",
 PRECINCT 8,Attorney General,"Hansen, Joel F.",
 PRECINCT 8,Attorney General,None Of These Candidates,
 PRECINCT 8,COUNTY ASSESSOR,"HONEA, ANITA",
@@ -787,7 +787,7 @@ PRECINCT 8,U.S. Senate,"Reeves, Jeffrey C.",
 PRECINCT 8,U.S. Senate,"REID, HARRY",
 PRECINCT 8,U.S. Senate,"Stand, Wil",
 PRECINCT 9,Attorney General,"Barrick, Travis",0
-PRECINCT 9,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+PRECINCT 9,Attorney General,"CORTEZ MASTO, CATHERINE",0
 PRECINCT 9,Attorney General,"Hansen, Joel F.",0
 PRECINCT 9,Attorney General,None Of These Candidates,0
 PRECINCT 9,COUNTY ASSESSOR,"HONEA, ANITA",0

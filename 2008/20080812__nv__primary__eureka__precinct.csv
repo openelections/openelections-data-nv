@@ -2,10 +2,10 @@ precinct,office,candidate,votes
 Precinct 1,County Commissioner District 3 (Republican),"BAILEY, DONNA R.",45
 Precinct 1,County Commissioner District 3 (Republican),"PAGE, MIKE",25
 Precinct 1,County Commissioner District 3 (Republican),"PANNING, NORMAN J.",4
-Precinct 1,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",69
-Precinct 1,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",78
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",71
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",64
+Precinct 1,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",69
+Precinct 1,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",78
+Precinct 1,"EUREKA COUNTY TV District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",71
+Precinct 1,"EUREKA COUNTY TV District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",64
 Precinct 1,School Board Trustee Seat 1A (Nonpartisan),"GIBSON, DUKE",80
 Precinct 1,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",72
 Precinct 1,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",75
@@ -19,10 +19,10 @@ Precinct 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 Precinct 2,County Commissioner District 3 (Republican),"BAILEY, DONNA R.",42
 Precinct 2,County Commissioner District 3 (Republican),"PAGE, MIKE",24
 Precinct 2,County Commissioner District 3 (Republican),"PANNING, NORMAN J.",10
-Precinct 2,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",78
-Precinct 2,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",77
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",66
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",66
+Precinct 2,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",78
+Precinct 2,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",77
+Precinct 2,"EUREKA COUNTY TV District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",66
+Precinct 2,"EUREKA COUNTY TV District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",66
 Precinct 2,School Board Trustee Seat 1A (Nonpartisan),"GIBSON, DUKE",82
 Precinct 2,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",62
 Precinct 2,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",70
@@ -36,10 +36,10 @@ Precinct 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 Precinct 3,County Commissioner District 3 (Republican),"BAILEY, DONNA R.",24
 Precinct 3,County Commissioner District 3 (Republican),"PAGE, MIKE",9
 Precinct 3,County Commissioner District 3 (Republican),"PANNING, NORMAN J.",9
-Precinct 3,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",39
-Precinct 3,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",37
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",34
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",37
+Precinct 3,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",39
+Precinct 3,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",37
+Precinct 3,"EUREKA COUNTY TV District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",34
+Precinct 3,"EUREKA COUNTY TV District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",37
 Precinct 3,School Board Trustee Seat 1A (Nonpartisan),"GIBSON, DUKE",36
 Precinct 3,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",37
 Precinct 3,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",39
@@ -53,10 +53,10 @@ Precinct 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 Precinct 4,County Commissioner District 3 (Republican),"BAILEY, DONNA R.",8
 Precinct 4,County Commissioner District 3 (Republican),"PAGE, MIKE",11
 Precinct 4,County Commissioner District 3 (Republican),"PANNING, NORMAN J.",17
-Precinct 4,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",47
-Precinct 4,"District Court Judge, District 7, Department  2 (Nonpartisan)","PAPEZ, DAN L.",44
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",43
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",46
+Precinct 4,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",47
+Precinct 4,"District Court Judge, District 7, Department 2 (Nonpartisan)","PAPEZ, DAN L.",44
+Precinct 4,"EUREKA COUNTY TV District, Seat 4A (Nonpartisan)","PASTORINO, DAVID A.",43
+Precinct 4,"EUREKA COUNTY TV District, Seat 4E (Nonpartisan)","HARPER, CHARLES R.",46
 Precinct 4,School Board Trustee Seat 1A (Nonpartisan),"GIBSON, DUKE",43
 Precinct 4,School Board Trustee Seat 1B (Nonpartisan),"JONES, BENITA",48
 Precinct 4,School Board Trustee Seat 1C (Nonpartisan),"BURNHAM, ROBERT E.",46

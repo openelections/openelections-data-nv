@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 Precinct 01,Attorney General,"CHAIREZ, DON",191
-Precinct 01,Attorney General,"CORTEZ  MASTO, CATHERINE",228
+Precinct 01,Attorney General,"CORTEZ MASTO, CATHERINE",228
 Precinct 01,Attorney General,None Of These Candidates,19
 Precinct 01,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",142
 Precinct 01,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",269
@@ -17,8 +17,8 @@ Precinct 01,COUNTY ASSESSOR,"GREEN, NORMA J.",379
 Precinct 01,County Commissioner District 2,"WASHBURN, GWEN",373
 Precinct 01,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",361
 Precinct 01,DISTRICT ATTORNEY,"MALLORY, ART",364
-Precinct 01,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",226
-Precinct 01,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",192
+Precinct 01,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",226
+Precinct 01,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",192
 Precinct 01,Governor,"BERGLAND, CRAIG O.",2
 Precinct 01,Governor,"GIBBONS, JIM",284
 Precinct 01,Governor,"HANSEN, CHRISTOPHER H.",20
@@ -66,7 +66,7 @@ Precinct 01,U.S. Senate,None Of These Candidates,5
 Precinct 01,U.S. Senate,"SCHUMANN, DAVID K.",13
 Precinct 01,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 02,Attorney General,"CHAIREZ, DON",117
-Precinct 02,Attorney General,"CORTEZ  MASTO, CATHERINE",170
+Precinct 02,Attorney General,"CORTEZ MASTO, CATHERINE",170
 Precinct 02,Attorney General,None Of These Candidates,18
 Precinct 02,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",111
 Precinct 02,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",178
@@ -83,8 +83,8 @@ Precinct 02,COUNTY ASSESSOR,"GREEN, NORMA J.",273
 Precinct 02,County Commissioner District 2,"WASHBURN, GWEN",257
 Precinct 02,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",261
 Precinct 02,DISTRICT ATTORNEY,"MALLORY, ART",251
-Precinct 02,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",156
-Precinct 02,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",141
+Precinct 02,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",156
+Precinct 02,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",141
 Precinct 02,Governor,"BERGLAND, CRAIG O.",4
 Precinct 02,Governor,"GIBBONS, JIM",194
 Precinct 02,Governor,"HANSEN, CHRISTOPHER H.",8
@@ -132,7 +132,7 @@ Precinct 02,U.S. Senate,None Of These Candidates,3
 Precinct 02,U.S. Senate,"SCHUMANN, DAVID K.",2
 Precinct 02,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 03,Attorney General,"CHAIREZ, DON",161
-Precinct 03,Attorney General,"CORTEZ  MASTO, CATHERINE",193
+Precinct 03,Attorney General,"CORTEZ MASTO, CATHERINE",193
 Precinct 03,Attorney General,None Of These Candidates,25
 Precinct 03,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",123
 Precinct 03,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",252
@@ -165,8 +165,8 @@ Precinct 04,COUNTY ASSESSOR,"GREEN, NORMA J.",288
 Precinct 04,County Commissioner District 2,"WASHBURN, GWEN",287
 Precinct 04,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",259
 Precinct 04,DISTRICT ATTORNEY,"MALLORY, ART",265
-Precinct 04,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",157
-Precinct 04,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",156
+Precinct 04,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",157
+Precinct 04,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",156
 Precinct 04,Governor,"BERGLAND, CRAIG O.",4
 Precinct 04,Governor,"GIBBONS, JIM",220
 Precinct 04,Governor,"HANSEN, CHRISTOPHER H.",17
@@ -214,7 +214,7 @@ Precinct 04,U.S. Senate,None Of These Candidates,7
 Precinct 04,U.S. Senate,"SCHUMANN, DAVID K.",11
 Precinct 04,U.S. Senate,"TRAINOR, BRENDAN",7
 Precinct 05,Attorney General,"CHAIREZ, DON",112
-Precinct 05,Attorney General,"CORTEZ  MASTO, CATHERINE",205
+Precinct 05,Attorney General,"CORTEZ MASTO, CATHERINE",205
 Precinct 05,Attorney General,None Of These Candidates,26
 Precinct 05,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",126
 Precinct 05,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",187
@@ -231,8 +231,8 @@ Precinct 05,COUNTY ASSESSOR,"GREEN, NORMA J.",314
 Precinct 05,County Commissioner District 2,"WASHBURN, GWEN",304
 Precinct 05,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",282
 Precinct 05,DISTRICT ATTORNEY,"MALLORY, ART",288
-Precinct 05,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",176
-Precinct 05,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",159
+Precinct 05,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",176
+Precinct 05,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",159
 Precinct 05,Governor,"BERGLAND, CRAIG O.",5
 Precinct 05,Governor,"GIBBONS, JIM",215
 Precinct 05,Governor,"HANSEN, CHRISTOPHER H.",17
@@ -280,7 +280,7 @@ Precinct 05,U.S. Senate,None Of These Candidates,6
 Precinct 05,U.S. Senate,"SCHUMANN, DAVID K.",7
 Precinct 05,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 06,Attorney General,"CHAIREZ, DON",134
-Precinct 06,Attorney General,"CORTEZ  MASTO, CATHERINE",195
+Precinct 06,Attorney General,"CORTEZ MASTO, CATHERINE",195
 Precinct 06,Attorney General,None Of These Candidates,25
 Precinct 06,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",123
 Precinct 06,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",220
@@ -297,8 +297,8 @@ Precinct 06,COUNTY ASSESSOR,"GREEN, NORMA J.",321
 Precinct 06,County Commissioner District 2,"WASHBURN, GWEN",307
 Precinct 06,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",284
 Precinct 06,DISTRICT ATTORNEY,"MALLORY, ART",298
-Precinct 06,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",185
-Precinct 06,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",151
+Precinct 06,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",185
+Precinct 06,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",151
 Precinct 07,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",349
 Precinct 07,Board of School Trustees - Vote for 4,"EVANS, RON",349
 Precinct 07,Board of School Trustees - Vote for 4,"GENT, RICH",262
@@ -313,8 +313,8 @@ Precinct 07,COUNTY ASSESSOR,"GREEN, NORMA J.",500
 Precinct 07,County Commissioner District 2,"WASHBURN, GWEN",466
 Precinct 07,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",436
 Precinct 07,DISTRICT ATTORNEY,"MALLORY, ART",454
-Precinct 07,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",277
-Precinct 07,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",244
+Precinct 07,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",277
+Precinct 07,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",244
 Precinct 07,Governor,"BERGLAND, CRAIG O.",4
 Precinct 07,Governor,"GIBBONS, JIM",405
 Precinct 07,Governor,"HANSEN, CHRISTOPHER H.",19
@@ -362,7 +362,7 @@ Precinct 07,U.S. Senate,None Of These Candidates,0
 Precinct 07,U.S. Senate,"SCHUMANN, DAVID K.",8
 Precinct 07,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 08,Attorney General,"CHAIREZ, DON",107
-Precinct 08,Attorney General,"CORTEZ  MASTO, CATHERINE",133
+Precinct 08,Attorney General,"CORTEZ MASTO, CATHERINE",133
 Precinct 08,Attorney General,None Of These Candidates,13
 Precinct 08,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",97
 Precinct 08,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",139
@@ -379,8 +379,8 @@ Precinct 08,COUNTY ASSESSOR,"GREEN, NORMA J.",236
 Precinct 08,County Commissioner District 2,"WASHBURN, GWEN",218
 Precinct 08,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",208
 Precinct 08,DISTRICT ATTORNEY,"MALLORY, ART",213
-Precinct 08,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",100
-Precinct 08,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",143
+Precinct 08,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",100
+Precinct 08,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",143
 Precinct 08,Governor,"BERGLAND, CRAIG O.",1
 Precinct 08,Governor,"GIBBONS, JIM",188
 Precinct 08,Governor,"HANSEN, CHRISTOPHER H.",8
@@ -428,7 +428,7 @@ Precinct 08,U.S. Senate,None Of These Candidates,1
 Precinct 08,U.S. Senate,"SCHUMANN, DAVID K.",4
 Precinct 08,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 09,Attorney General,"CHAIREZ, DON",146
-Precinct 09,Attorney General,"CORTEZ  MASTO, CATHERINE",174
+Precinct 09,Attorney General,"CORTEZ MASTO, CATHERINE",174
 Precinct 09,Attorney General,None Of These Candidates,18
 Precinct 09,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",101
 Precinct 09,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",228
@@ -445,8 +445,8 @@ Precinct 09,COUNTY ASSESSOR,"GREEN, NORMA J.",310
 Precinct 09,County Commissioner District 2,"WASHBURN, GWEN",286
 Precinct 09,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",256
 Precinct 09,DISTRICT ATTORNEY,"MALLORY, ART",268
-Precinct 09,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",161
-Precinct 09,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",160
+Precinct 09,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",161
+Precinct 09,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",160
 Precinct 09,Governor,"BERGLAND, CRAIG O.",1
 Precinct 09,Governor,"GIBBONS, JIM",258
 Precinct 09,Governor,"HANSEN, CHRISTOPHER H.",21
@@ -494,7 +494,7 @@ Precinct 09,U.S. Senate,None Of These Candidates,3
 Precinct 09,U.S. Senate,"SCHUMANN, DAVID K.",11
 Precinct 09,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 10,Attorney General,"CHAIREZ, DON",258
-Precinct 10,Attorney General,"CORTEZ  MASTO, CATHERINE",281
+Precinct 10,Attorney General,"CORTEZ MASTO, CATHERINE",281
 Precinct 10,Attorney General,None Of These Candidates,38
 Precinct 10,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",196
 Precinct 10,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",327
@@ -511,8 +511,8 @@ Precinct 10,COUNTY ASSESSOR,"GREEN, NORMA J.",538
 Precinct 10,County Commissioner District 2,"WASHBURN, GWEN",492
 Precinct 10,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",462
 Precinct 10,DISTRICT ATTORNEY,"MALLORY, ART",485
-Precinct 10,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",277
-Precinct 10,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",263
+Precinct 10,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",277
+Precinct 10,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",263
 Precinct 10,Governor,"BERGLAND, CRAIG O.",5
 Precinct 10,Governor,"GIBBONS, JIM",408
 Precinct 10,Governor,"HANSEN, CHRISTOPHER H.",22
@@ -560,7 +560,7 @@ Precinct 10,U.S. Senate,None Of These Candidates,10
 Precinct 10,U.S. Senate,"SCHUMANN, DAVID K.",10
 Precinct 10,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 11,Attorney General,"CHAIREZ, DON",253
-Precinct 11,Attorney General,"CORTEZ  MASTO, CATHERINE",262
+Precinct 11,Attorney General,"CORTEZ MASTO, CATHERINE",262
 Precinct 11,Attorney General,None Of These Candidates,27
 Precinct 11,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",180
 Precinct 11,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",307
@@ -577,8 +577,8 @@ Precinct 11,COUNTY ASSESSOR,"GREEN, NORMA J.",494
 Precinct 11,County Commissioner District 2,"WASHBURN, GWEN",467
 Precinct 11,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",431
 Precinct 11,DISTRICT ATTORNEY,"MALLORY, ART",461
-Precinct 11,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",295
-Precinct 11,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",225
+Precinct 11,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",295
+Precinct 11,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",225
 Precinct 11,Governor,"BERGLAND, CRAIG O.",5
 Precinct 11,Governor,"GIBBONS, JIM",385
 Precinct 11,Governor,"HANSEN, CHRISTOPHER H.",23
@@ -626,7 +626,7 @@ Precinct 11,U.S. Senate,None Of These Candidates,9
 Precinct 11,U.S. Senate,"SCHUMANN, DAVID K.",6
 Precinct 11,U.S. Senate,"TRAINOR, BRENDAN",1
 Precinct 12,Attorney General,"CHAIREZ, DON",103
-Precinct 12,Attorney General,"CORTEZ  MASTO, CATHERINE",106
+Precinct 12,Attorney General,"CORTEZ MASTO, CATHERINE",106
 Precinct 12,Attorney General,None Of These Candidates,14
 Precinct 12,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",74
 Precinct 12,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",123
@@ -643,8 +643,8 @@ Precinct 12,COUNTY ASSESSOR,"GREEN, NORMA J.",194
 Precinct 12,County Commissioner District 2,"WASHBURN, GWEN",182
 Precinct 12,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",176
 Precinct 12,DISTRICT ATTORNEY,"MALLORY, ART",178
-Precinct 12,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",103
-Precinct 12,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",103
+Precinct 12,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",103
+Precinct 12,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",103
 Precinct 12,Governor,"BERGLAND, CRAIG O.",2
 Precinct 12,Governor,"GIBBONS, JIM",165
 Precinct 12,Governor,"HANSEN, CHRISTOPHER H.",13
@@ -694,7 +694,7 @@ Precinct 12,U.S. Senate,None Of These Candidates,3
 Precinct 12,U.S. Senate,"SCHUMANN, DAVID K.",5
 Precinct 12,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 13,Attorney General,"CHAIREZ, DON",174
-Precinct 13,Attorney General,"CORTEZ  MASTO, CATHERINE",156
+Precinct 13,Attorney General,"CORTEZ MASTO, CATHERINE",156
 Precinct 13,Attorney General,None Of These Candidates,23
 Precinct 13,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",112
 Precinct 13,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",224
@@ -711,8 +711,8 @@ Precinct 13,COUNTY ASSESSOR,"GREEN, NORMA J.",305
 Precinct 13,County Commissioner District 2,"WASHBURN, GWEN",296
 Precinct 13,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",279
 Precinct 13,DISTRICT ATTORNEY,"MALLORY, ART",285
-Precinct 13,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",197
-Precinct 13,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",138
+Precinct 13,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",197
+Precinct 13,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",138
 Precinct 13,Governor,"BERGLAND, CRAIG O.",4
 Precinct 13,Governor,"GIBBONS, JIM",271
 Precinct 13,Governor,"HANSEN, CHRISTOPHER H.",9
@@ -762,7 +762,7 @@ Precinct 13,U.S. Senate,None Of These Candidates,6
 Precinct 13,U.S. Senate,"SCHUMANN, DAVID K.",2
 Precinct 13,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 14,Attorney General,"CHAIREZ, DON",212
-Precinct 14,Attorney General,"CORTEZ  MASTO, CATHERINE",173
+Precinct 14,Attorney General,"CORTEZ MASTO, CATHERINE",173
 Precinct 14,Attorney General,None Of These Candidates,25
 Precinct 14,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",116
 Precinct 14,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",243
@@ -779,8 +779,8 @@ Precinct 14,COUNTY ASSESSOR,"GREEN, NORMA J.",362
 Precinct 14,County Commissioner District 2,"WASHBURN, GWEN",336
 Precinct 14,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",304
 Precinct 14,DISTRICT ATTORNEY,"MALLORY, ART",337
-Precinct 14,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",220
-Precinct 14,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",169
+Precinct 14,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",220
+Precinct 14,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",169
 Precinct 14,Governor,"BERGLAND, CRAIG O.",4
 Precinct 14,Governor,"GIBBONS, JIM",318
 Precinct 14,Governor,"HANSEN, CHRISTOPHER H.",21
@@ -830,7 +830,7 @@ Precinct 14,U.S. Senate,None Of These Candidates,5
 Precinct 14,U.S. Senate,"SCHUMANN, DAVID K.",8
 Precinct 14,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 15,Attorney General,"CHAIREZ, DON",226
-Precinct 15,Attorney General,"CORTEZ  MASTO, CATHERINE",248
+Precinct 15,Attorney General,"CORTEZ MASTO, CATHERINE",248
 Precinct 15,Attorney General,None Of These Candidates,26
 Precinct 15,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",144
 Precinct 15,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",319
@@ -847,8 +847,8 @@ Precinct 15,COUNTY ASSESSOR,"GREEN, NORMA J.",449
 Precinct 15,County Commissioner District 2,"WASHBURN, GWEN",421
 Precinct 15,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",394
 Precinct 15,DISTRICT ATTORNEY,"MALLORY, ART",405
-Precinct 15,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",241
-Precinct 15,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",229
+Precinct 15,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",241
+Precinct 15,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",229
 Precinct 15,Governor,"BERGLAND, CRAIG O.",4
 Precinct 15,Governor,"GIBBONS, JIM",372
 Precinct 15,Governor,"HANSEN, CHRISTOPHER H.",19
@@ -898,7 +898,7 @@ Precinct 15,U.S. Senate,None Of These Candidates,9
 Precinct 15,U.S. Senate,"SCHUMANN, DAVID K.",9
 Precinct 15,U.S. Senate,"TRAINOR, BRENDAN",5
 Precinct 16,Attorney General,"CHAIREZ, DON",103
-Precinct 16,Attorney General,"CORTEZ  MASTO, CATHERINE",193
+Precinct 16,Attorney General,"CORTEZ MASTO, CATHERINE",193
 Precinct 16,Attorney General,None Of These Candidates,10
 Precinct 16,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",109
 Precinct 16,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",198
@@ -915,8 +915,8 @@ Precinct 16,COUNTY ASSESSOR,"GREEN, NORMA J.",273
 Precinct 16,County Commissioner District 2,"WASHBURN, GWEN",256
 Precinct 16,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",262
 Precinct 16,DISTRICT ATTORNEY,"MALLORY, ART",235
-Precinct 16,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",175
-Precinct 16,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",116
+Precinct 16,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",175
+Precinct 16,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",116
 Precinct 16,Governor,"BERGLAND, CRAIG O.",1
 Precinct 16,Governor,"GIBBONS, JIM",199
 Precinct 16,Governor,"HANSEN, CHRISTOPHER H.",18
@@ -964,7 +964,7 @@ Precinct 16,U.S. Senate,None Of These Candidates,6
 Precinct 16,U.S. Senate,"SCHUMANN, DAVID K.",7
 Precinct 16,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 17,Attorney General,"CHAIREZ, DON",247
-Precinct 17,Attorney General,"CORTEZ  MASTO, CATHERINE",341
+Precinct 17,Attorney General,"CORTEZ MASTO, CATHERINE",341
 Precinct 17,Attorney General,None Of These Candidates,43
 Precinct 17,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",205
 Precinct 17,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",347
@@ -981,8 +981,8 @@ Precinct 17,COUNTY ASSESSOR,"GREEN, NORMA J.",575
 Precinct 17,County Commissioner District 2,"WASHBURN, GWEN",555
 Precinct 17,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",498
 Precinct 17,DISTRICT ATTORNEY,"MALLORY, ART",539
-Precinct 17,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",313
-Precinct 17,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",273
+Precinct 17,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",313
+Precinct 17,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",273
 Precinct 17,Governor,"BERGLAND, CRAIG O.",6
 Precinct 17,Governor,"GIBBONS, JIM",433
 Precinct 17,Governor,"HANSEN, CHRISTOPHER H.",32
@@ -1031,7 +1031,7 @@ Precinct 17,U.S. Senate,None Of These Candidates,12
 Precinct 17,U.S. Senate,"SCHUMANN, DAVID K.",15
 Precinct 17,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 18,Attorney General,"CHAIREZ, DON",312
-Precinct 18,Attorney General,"CORTEZ  MASTO, CATHERINE",409
+Precinct 18,Attorney General,"CORTEZ MASTO, CATHERINE",409
 Precinct 18,Attorney General,None Of These Candidates,44
 Precinct 18,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",266
 Precinct 18,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",415
@@ -1048,8 +1048,8 @@ Precinct 18,COUNTY ASSESSOR,"GREEN, NORMA J.",682
 Precinct 18,County Commissioner District 2,"WASHBURN, GWEN",640
 Precinct 18,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",609
 Precinct 18,DISTRICT ATTORNEY,"MALLORY, ART",636
-Precinct 18,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",380
-Precinct 18,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",341
+Precinct 18,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",380
+Precinct 18,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",341
 Precinct 18,Governor,"BERGLAND, CRAIG O.",3
 Precinct 18,Governor,"GIBBONS, JIM",506
 Precinct 18,Governor,"HANSEN, CHRISTOPHER H.",29
@@ -1097,7 +1097,7 @@ Precinct 18,U.S. Senate,None Of These Candidates,11
 Precinct 18,U.S. Senate,"SCHUMANN, DAVID K.",15
 Precinct 18,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 19,Attorney General,"CHAIREZ, DON",188
-Precinct 19,Attorney General,"CORTEZ  MASTO, CATHERINE",218
+Precinct 19,Attorney General,"CORTEZ MASTO, CATHERINE",218
 Precinct 19,Attorney General,None Of These Candidates,24
 Precinct 19,Board of School Trustees - Vote for 4,"ADAMS, LISA E.",125
 Precinct 19,Board of School Trustees - Vote for 4,"BUCKMASTER, LOU",214
@@ -1114,8 +1114,8 @@ Precinct 19,COUNTY ASSESSOR,"GREEN, NORMA J.",380
 Precinct 19,County Commissioner District 2,"WASHBURN, GWEN",361
 Precinct 19,COUNTY RECORDER (Republican),"TRIPP, VICKY L.",309
 Precinct 19,DISTRICT ATTORNEY,"MALLORY, ART",352
-Precinct 19,"District Court Judge, District 3, Department  2","ABERASTURI, LEON",195
-Precinct 19,"District Court Judge, District 3, Department  2","PEDERSON, WAYNE A.",197
+Precinct 19,"District Court Judge, District 3, Department 2","ABERASTURI, LEON",195
+Precinct 19,"District Court Judge, District 3, Department 2","PEDERSON, WAYNE A.",197
 Precinct 19,Governor,"BERGLAND, CRAIG O.",6
 Precinct 19,Governor,"GIBBONS, JIM",314
 Precinct 19,Governor,"HANSEN, CHRISTOPHER H.",13

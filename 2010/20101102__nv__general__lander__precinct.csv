@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 Argenta 01,Attorney General,"Barrick, Travis",150
-Argenta 01,Attorney General,"CORTEZ  MASTO, CATHERINE",113
+Argenta 01,Attorney General,"CORTEZ MASTO, CATHERINE",113
 Argenta 01,Attorney General,"Hansen, Joel F.",46
 Argenta 01,Attorney General,None Of These Candidates,18
 Argenta 01,COUNTY ASSESSOR,"DUVALL, LURA",293
@@ -69,10 +69,10 @@ Argenta 01,U.S. Senate,None Of These Candidates,17
 Argenta 01,U.S. Senate,"Reeves, Jeffrey C.",4
 Argenta 01,U.S. Senate,"REID, HARRY",87
 Argenta 01,U.S. Senate,"Stand, Wil",3
-Argenta 01,"University Board of Regents, District  8","MELCHER, KEVIN C.",129
-Argenta 01,"University Board of Regents, District  8","PUCCINELLI, MARGARET",171
+Argenta 01,"University Board of Regents, District 8","MELCHER, KEVIN C.",129
+Argenta 01,"University Board of Regents, District 8","PUCCINELLI, MARGARET",171
 Argenta 02,Attorney General,"Barrick, Travis",201
-Argenta 02,Attorney General,"CORTEZ  MASTO, CATHERINE",106
+Argenta 02,Attorney General,"CORTEZ MASTO, CATHERINE",106
 Argenta 02,Attorney General,"Hansen, Joel F.",51
 Argenta 02,Attorney General,None Of These Candidates,27
 Argenta 02,COUNTY ASSESSOR,"DUVALL, LURA",347
@@ -141,10 +141,10 @@ Argenta 02,U.S. Senate,None Of These Candidates,20
 Argenta 02,U.S. Senate,"Reeves, Jeffrey C.",4
 Argenta 02,U.S. Senate,"REID, HARRY",113
 Argenta 02,U.S. Senate,"Stand, Wil",2
-Argenta 02,"University Board of Regents, District  8","MELCHER, KEVIN C.",136
-Argenta 02,"University Board of Regents, District  8","PUCCINELLI, MARGARET",222
+Argenta 02,"University Board of Regents, District 8","MELCHER, KEVIN C.",136
+Argenta 02,"University Board of Regents, District 8","PUCCINELLI, MARGARET",222
 Argenta 03,Attorney General,"Barrick, Travis",58
-Argenta 03,Attorney General,"CORTEZ  MASTO, CATHERINE",38
+Argenta 03,Attorney General,"CORTEZ MASTO, CATHERINE",38
 Argenta 03,Attorney General,"Hansen, Joel F.",14
 Argenta 03,Attorney General,None Of These Candidates,4
 Argenta 03,COUNTY ASSESSOR,"DUVALL, LURA",99
@@ -213,10 +213,10 @@ Argenta 03,U.S. Senate,None Of These Candidates,4
 Argenta 03,U.S. Senate,"Reeves, Jeffrey C.",0
 Argenta 03,U.S. Senate,"REID, HARRY",39
 Argenta 03,U.S. Senate,"Stand, Wil",0
-Argenta 03,"University Board of Regents, District  8","MELCHER, KEVIN C.",39
-Argenta 03,"University Board of Regents, District  8","PUCCINELLI, MARGARET",66
+Argenta 03,"University Board of Regents, District 8","MELCHER, KEVIN C.",39
+Argenta 03,"University Board of Regents, District 8","PUCCINELLI, MARGARET",66
 Argenta 04,Attorney General,"Barrick, Travis",230
-Argenta 04,Attorney General,"CORTEZ  MASTO, CATHERINE",121
+Argenta 04,Attorney General,"CORTEZ MASTO, CATHERINE",121
 Argenta 04,Attorney General,"Hansen, Joel F.",49
 Argenta 04,Attorney General,None Of These Candidates,13
 Argenta 04,COUNTY ASSESSOR,"DUVALL, LURA",369
@@ -285,10 +285,10 @@ Argenta 04,U.S. Senate,None Of These Candidates,17
 Argenta 04,U.S. Senate,"Reeves, Jeffrey C.",4
 Argenta 04,U.S. Senate,"REID, HARRY",97
 Argenta 04,U.S. Senate,"Stand, Wil",2
-Argenta 04,"University Board of Regents, District  8","MELCHER, KEVIN C.",162
-Argenta 04,"University Board of Regents, District  8","PUCCINELLI, MARGARET",224
+Argenta 04,"University Board of Regents, District 8","MELCHER, KEVIN C.",162
+Argenta 04,"University Board of Regents, District 8","PUCCINELLI, MARGARET",224
 Argenta 05,Attorney General,"Barrick, Travis",206
-Argenta 05,Attorney General,"CORTEZ  MASTO, CATHERINE",101
+Argenta 05,Attorney General,"CORTEZ MASTO, CATHERINE",101
 Argenta 05,Attorney General,"Hansen, Joel F.",45
 Argenta 05,Attorney General,None Of These Candidates,27
 Argenta 05,COUNTY ASSESSOR,"DUVALL, LURA",349
@@ -357,10 +357,10 @@ Argenta 05,U.S. Senate,None Of These Candidates,17
 Argenta 05,U.S. Senate,"Reeves, Jeffrey C.",0
 Argenta 05,U.S. Senate,"REID, HARRY",94
 Argenta 05,U.S. Senate,"Stand, Wil",2
-Argenta 05,"University Board of Regents, District  8","MELCHER, KEVIN C.",140
-Argenta 05,"University Board of Regents, District  8","PUCCINELLI, MARGARET",213
+Argenta 05,"University Board of Regents, District 8","MELCHER, KEVIN C.",140
+Argenta 05,"University Board of Regents, District 8","PUCCINELLI, MARGARET",213
 Austin 07,Attorney General,"Barrick, Travis",55
-Austin 07,Attorney General,"CORTEZ  MASTO, CATHERINE",38
+Austin 07,Attorney General,"CORTEZ MASTO, CATHERINE",38
 Austin 07,Attorney General,"Hansen, Joel F.",16
 Austin 07,Attorney General,None Of These Candidates,2
 Austin 07,COUNTY ASSESSOR,"DUVALL, LURA",101
@@ -429,10 +429,10 @@ Austin 07,U.S. Senate,None Of These Candidates,4
 Austin 07,U.S. Senate,"Reeves, Jeffrey C.",0
 Austin 07,U.S. Senate,"REID, HARRY",31
 Austin 07,U.S. Senate,"Stand, Wil",0
-Austin 07,"University Board of Regents, District  8","MELCHER, KEVIN C.",34
-Austin 07,"University Board of Regents, District  8","PUCCINELLI, MARGARET",66
+Austin 07,"University Board of Regents, District 8","MELCHER, KEVIN C.",34
+Austin 07,"University Board of Regents, District 8","PUCCINELLI, MARGARET",66
 Gillman Springs Ranch 08,Attorney General,"Barrick, Travis",11
-Gillman Springs Ranch 08,Attorney General,"CORTEZ  MASTO, CATHERINE",2
+Gillman Springs Ranch 08,Attorney General,"CORTEZ MASTO, CATHERINE",2
 Gillman Springs Ranch 08,Attorney General,"Hansen, Joel F.",1
 Gillman Springs Ranch 08,Attorney General,None Of These Candidates,1
 Gillman Springs Ranch 08,COUNTY ASSESSOR,"DUVALL, LURA",13
@@ -501,10 +501,10 @@ Gillman Springs Ranch 08,U.S. Senate,None Of These Candidates,1
 Gillman Springs Ranch 08,U.S. Senate,"Reeves, Jeffrey C.",0
 Gillman Springs Ranch 08,U.S. Senate,"REID, HARRY",2
 Gillman Springs Ranch 08,U.S. Senate,"Stand, Wil",0
-Gillman Springs Ranch 08,"University Board of Regents, District  8","MELCHER, KEVIN C.",6
-Gillman Springs Ranch 08,"University Board of Regents, District  8","PUCCINELLI, MARGARET",6
+Gillman Springs Ranch 08,"University Board of Regents, District 8","MELCHER, KEVIN C.",6
+Gillman Springs Ranch 08,"University Board of Regents, District 8","PUCCINELLI, MARGARET",6
 Kingston 09,Attorney General,"Barrick, Travis",37
-Kingston 09,Attorney General,"CORTEZ  MASTO, CATHERINE",20
+Kingston 09,Attorney General,"CORTEZ MASTO, CATHERINE",20
 Kingston 09,Attorney General,"Hansen, Joel F.",11
 Kingston 09,Attorney General,None Of These Candidates,1
 Kingston 09,COUNTY ASSESSOR,"DUVALL, LURA",58
@@ -573,8 +573,8 @@ Kingston 09,U.S. Senate,None Of These Candidates,1
 Kingston 09,U.S. Senate,"Reeves, Jeffrey C.",1
 Kingston 09,U.S. Senate,"REID, HARRY",21
 Kingston 09,U.S. Senate,"Stand, Wil",0
-Kingston 09,"University Board of Regents, District  8","MELCHER, KEVIN C.",30
-Kingston 09,"University Board of Regents, District  8","PUCCINELLI, MARGARET",27
+Kingston 09,"University Board of Regents, District 8","MELCHER, KEVIN C.",30
+Kingston 09,"University Board of Regents, District 8","PUCCINELLI, MARGARET",27
 Precinct 99,"U.S. Representative in Congress, District 2","Best, Russell",
 Precinct 99,"U.S. Representative in Congress, District 2","HELLER, DEAN",
 Precinct 99,"U.S. Representative in Congress, District 2","Price, Nancy",
@@ -588,7 +588,7 @@ Precinct 99,U.S. Senate,"Reeves, Jeffrey C.",
 Precinct 99,U.S. Senate,"REID, HARRY",
 Precinct 99,U.S. Senate,"Stand, Wil",
 Southern Lander County 06,Attorney General,"Barrick, Travis",43
-Southern Lander County 06,Attorney General,"CORTEZ  MASTO, CATHERINE",2
+Southern Lander County 06,Attorney General,"CORTEZ MASTO, CATHERINE",2
 Southern Lander County 06,Attorney General,"Hansen, Joel F.",16
 Southern Lander County 06,Attorney General,None Of These Candidates,1
 Southern Lander County 06,COUNTY ASSESSOR,"DUVALL, LURA",59
@@ -657,5 +657,5 @@ Southern Lander County 06,U.S. Senate,None Of These Candidates,0
 Southern Lander County 06,U.S. Senate,"Reeves, Jeffrey C.",0
 Southern Lander County 06,U.S. Senate,"REID, HARRY",2
 Southern Lander County 06,U.S. Senate,"Stand, Wil",0
-Southern Lander County 06,"University Board of Regents, District  8","MELCHER, KEVIN C.",28
-Southern Lander County 06,"University Board of Regents, District  8","PUCCINELLI, MARGARET",25
+Southern Lander County 06,"University Board of Regents, District 8","MELCHER, KEVIN C.",28
+Southern Lander County 06,"University Board of Regents, District 8","PUCCINELLI, MARGARET",25

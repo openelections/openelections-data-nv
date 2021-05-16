@@ -5,8 +5,8 @@ Precinct 1,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",38
 Precinct 1,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",10
 Precinct 1,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",27
 Precinct 1,County Commissioner Seat 5 (Democratic),"PEREA, GARY",50
-Precinct 1,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",209
-Precinct 1,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",211
+Precinct 1,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",209
+Precinct 1,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",211
 Precinct 1,Governor (Democratic),"Chang, Charles ""Charlie""",4
 Precinct 1,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 1,Governor (Democratic),"Frye, Stephen H.",6
@@ -54,8 +54,8 @@ Precinct 10,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",13
 Precinct 10,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",19
 Precinct 10,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",2
 Precinct 10,County Commissioner Seat 5 (Democratic),"PEREA, GARY",12
-Precinct 10,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",83
-Precinct 10,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",78
+Precinct 10,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",83
+Precinct 10,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",78
 Precinct 10,Governor (Democratic),"Chang, Charles ""Charlie""",1
 Precinct 10,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 10,Governor (Democratic),"Frye, Stephen H.",3
@@ -103,8 +103,8 @@ Precinct 2,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",19
 Precinct 2,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",24
 Precinct 2,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",24
 Precinct 2,County Commissioner Seat 5 (Democratic),"PEREA, GARY",30
-Precinct 2,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",141
-Precinct 2,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",137
+Precinct 2,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",141
+Precinct 2,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",137
 Precinct 2,Governor (Democratic),"Chang, Charles ""Charlie""",7
 Precinct 2,Governor (Democratic),"Conquest, Frederick L.",1
 Precinct 2,Governor (Democratic),"Frye, Stephen H.",8
@@ -152,8 +152,8 @@ Precinct 3,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",29
 Precinct 3,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",15
 Precinct 3,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",33
 Precinct 3,County Commissioner Seat 5 (Democratic),"PEREA, GARY",37
-Precinct 3,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",182
-Precinct 3,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",175
+Precinct 3,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",182
+Precinct 3,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",175
 Precinct 3,Governor (Democratic),"Chang, Charles ""Charlie""",1
 Precinct 3,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 3,Governor (Democratic),"Frye, Stephen H.",9
@@ -201,8 +201,8 @@ Precinct 4,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",42
 Precinct 4,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",16
 Precinct 4,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",34
 Precinct 4,County Commissioner Seat 5 (Democratic),"PEREA, GARY",47
-Precinct 4,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",235
-Precinct 4,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",230
+Precinct 4,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",235
+Precinct 4,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",230
 Precinct 4,Governor (Democratic),"Chang, Charles ""Charlie""",8
 Precinct 4,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 4,Governor (Democratic),"Frye, Stephen H.",5
@@ -250,8 +250,8 @@ Precinct 5,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",59
 Precinct 5,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",12
 Precinct 5,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",42
 Precinct 5,County Commissioner Seat 5 (Democratic),"PEREA, GARY",57
-Precinct 5,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",332
-Precinct 5,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",326
+Precinct 5,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",332
+Precinct 5,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",326
 Precinct 5,Governor (Democratic),"Chang, Charles ""Charlie""",3
 Precinct 5,Governor (Democratic),"Conquest, Frederick L.",2
 Precinct 5,Governor (Democratic),"Frye, Stephen H.",2
@@ -299,8 +299,8 @@ Precinct 6,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",18
 Precinct 6,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",27
 Precinct 6,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",29
 Precinct 6,County Commissioner Seat 5 (Democratic),"PEREA, GARY",30
-Precinct 6,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",166
-Precinct 6,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",163
+Precinct 6,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",166
+Precinct 6,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",163
 Precinct 6,Governor (Democratic),"Chang, Charles ""Charlie""",5
 Precinct 6,Governor (Democratic),"Conquest, Frederick L.",6
 Precinct 6,Governor (Democratic),"Frye, Stephen H.",6
@@ -348,8 +348,8 @@ Precinct 7,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",15
 Precinct 7,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",12
 Precinct 7,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",15
 Precinct 7,County Commissioner Seat 5 (Democratic),"PEREA, GARY",8
-Precinct 7,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",80
-Precinct 7,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",76
+Precinct 7,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",80
+Precinct 7,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",76
 Precinct 7,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Precinct 7,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 7,Governor (Democratic),"Frye, Stephen H.",4
@@ -397,8 +397,8 @@ Precinct 8,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",14
 Precinct 8,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",4
 Precinct 8,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",7
 Precinct 8,County Commissioner Seat 5 (Democratic),"PEREA, GARY",18
-Precinct 8,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",121
-Precinct 8,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",112
+Precinct 8,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",121
+Precinct 8,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",112
 Precinct 8,Governor (Democratic),"Chang, Charles ""Charlie""",1
 Precinct 8,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 8,Governor (Democratic),"Frye, Stephen H.",1
@@ -446,8 +446,8 @@ Precinct 9,COUNTY CLERK (Republican),"ROSE, ELIZABETH ""BETH""",12
 Precinct 9,County Commissioner Seat 5 (Democratic),"CHACHAS, GEORGE",0
 Precinct 9,County Commissioner Seat 5 (Democratic),"LEMICH, MIKE",0
 Precinct 9,County Commissioner Seat 5 (Democratic),"PEREA, GARY",24
-Precinct 9,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",57
-Precinct 9,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",48
+Precinct 9,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",57
+Precinct 9,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",48
 Precinct 9,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Precinct 9,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 9,Governor (Democratic),"Frye, Stephen H.",2

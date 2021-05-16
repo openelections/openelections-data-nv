@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
-AMARGOSA VLY O6,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",12
-AMARGOSA VLY O6,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",125
-AMARGOSA VLY O6,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",18
-AMARGOSA VLY O6,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",141
+AMARGOSA VLY O6,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",12
+AMARGOSA VLY O6,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",125
+AMARGOSA VLY O6,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",18
+AMARGOSA VLY O6,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",141
 AMARGOSA VLY O6,School Board Trustee Area II (Nonpartisan),"BIENENSTEIN, KATHLEEN L.",42
 AMARGOSA VLY O6,School Board Trustee Area II (Nonpartisan),"MCNEELY, J.E. ""DOC""",109
 AMARGOSA VLY O6,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",38
@@ -12,15 +12,15 @@ AMARGOSA VLY O6,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary "
 AMARGOSA VLY O6,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",19
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",55
 AMARGOSA VLY O6,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",17
-BEATTY 01,BEATTY  Water &amp; San Dist 2 yr (Nonpartisan),"MADSEN, BOYD",75
-BEATTY 01,BEATTY  Water &amp; San Dist 2 yr (Nonpartisan),"MARCHAND, WILLIAM",122
-BEATTY 01,BEATTY  Water &amp; San Dist 2 yr (Nonpartisan),"PARSONS, LESLIE W.",120
-BEATTY 01,BEATTY  Water &amp; San Dist 2 yr (Nonpartisan),"REVERT, BOB",109
-BEATTY 01,BEATTY  Water &amp; San Dist 2 yr (Nonpartisan),"VERRILLI, ALBERT M.",76
-BEATTY 01,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",15
-BEATTY 01,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",153
-BEATTY 01,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",33
-BEATTY 01,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",164
+BEATTY 01,BEATTY Water &amp; San Dist 2 yr (Nonpartisan),"MADSEN, BOYD",75
+BEATTY 01,BEATTY Water &amp; San Dist 2 yr (Nonpartisan),"MARCHAND, WILLIAM",122
+BEATTY 01,BEATTY Water &amp; San Dist 2 yr (Nonpartisan),"PARSONS, LESLIE W.",120
+BEATTY 01,BEATTY Water &amp; San Dist 2 yr (Nonpartisan),"REVERT, BOB",109
+BEATTY 01,BEATTY Water &amp; San Dist 2 yr (Nonpartisan),"VERRILLI, ALBERT M.",76
+BEATTY 01,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",15
+BEATTY 01,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",153
+BEATTY 01,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",33
+BEATTY 01,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",164
 BEATTY 01,School Board Trustee Area II (Nonpartisan),"BIENENSTEIN, KATHLEEN L.",84
 BEATTY 01,School Board Trustee Area II (Nonpartisan),"MCNEELY, J.E. ""DOC""",103
 BEATTY 01,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",31
@@ -34,10 +34,10 @@ CURRANT 02,County Commissioner District I (Republican),"BOBECK, JEFFREY",0
 CURRANT 02,County Commissioner District I (Republican),"MOBLEY, ROB",3
 CURRANT 02,County Commissioner District I (Republican),"VAN LOON, JOHN T.",1
 CURRANT 02,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",12
-CURRANT 02,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",1
-CURRANT 02,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",28
-CURRANT 02,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",1
-CURRANT 02,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",22
+CURRANT 02,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",1
+CURRANT 02,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",28
+CURRANT 02,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",1
+CURRANT 02,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",22
 CURRANT 02,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",9
 CURRANT 02,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",3
 CURRANT 02,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,5
@@ -49,10 +49,10 @@ DUCKWATER 03,County Commissioner District I (Republican),"BOBECK, JEFFREY",
 DUCKWATER 03,County Commissioner District I (Republican),"MOBLEY, ROB",
 DUCKWATER 03,County Commissioner District I (Republican),"VAN LOON, JOHN T.",
 DUCKWATER 03,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",
-DUCKWATER 03,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",5
-DUCKWATER 03,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",25
-DUCKWATER 03,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",1
-DUCKWATER 03,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",24
+DUCKWATER 03,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",5
+DUCKWATER 03,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",25
+DUCKWATER 03,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",1
+DUCKWATER 03,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",24
 DUCKWATER 03,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",1
 DUCKWATER 03,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",10
 DUCKWATER 03,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,5
@@ -64,10 +64,10 @@ FORTY BAR 18,County Commissioner District I (Republican),"BOBECK, JEFFREY",1
 FORTY BAR 18,County Commissioner District I (Republican),"MOBLEY, ROB",4
 FORTY BAR 18,County Commissioner District I (Republican),"VAN LOON, JOHN T.",1
 FORTY BAR 18,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",11
-FORTY BAR 18,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",14
-FORTY BAR 18,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",18
-FORTY BAR 18,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",10
-FORTY BAR 18,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",36
+FORTY BAR 18,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",14
+FORTY BAR 18,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",18
+FORTY BAR 18,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",10
+FORTY BAR 18,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",36
 FORTY BAR 18,School Board Trustee Area II (Nonpartisan),"BIENENSTEIN, KATHLEEN L.",12
 FORTY BAR 18,School Board Trustee Area II (Nonpartisan),"MCNEELY, J.E. ""DOC""",22
 FORTY BAR 18,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",7
@@ -81,10 +81,10 @@ GABBS 04,County Commissioner District I (Republican),"BOBECK, JEFFREY",0
 GABBS 04,County Commissioner District I (Republican),"MOBLEY, ROB",2
 GABBS 04,County Commissioner District I (Republican),"VAN LOON, JOHN T.",35
 GABBS 04,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",9
-GABBS 04,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",11
-GABBS 04,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",67
-GABBS 04,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",24
-GABBS 04,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",85
+GABBS 04,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",11
+GABBS 04,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",67
+GABBS 04,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",24
+GABBS 04,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",85
 GABBS 04,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",22
 GABBS 04,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",17
 GABBS 04,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,19
@@ -96,10 +96,10 @@ IONE 05,County Commissioner District I (Republican),"BOBECK, JEFFREY",
 IONE 05,County Commissioner District I (Republican),"MOBLEY, ROB",
 IONE 05,County Commissioner District I (Republican),"VAN LOON, JOHN T.",
 IONE 05,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",
-IONE 05,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",0
-IONE 05,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",10
-IONE 05,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",2
-IONE 05,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",11
+IONE 05,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",0
+IONE 05,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",10
+IONE 05,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",2
+IONE 05,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",11
 IONE 05,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",1
 IONE 05,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",3
 IONE 05,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,6
@@ -111,10 +111,10 @@ MANHATTAN 07,County Commissioner District I (Republican),"BOBECK, JEFFREY",0
 MANHATTAN 07,County Commissioner District I (Republican),"MOBLEY, ROB",0
 MANHATTAN 07,County Commissioner District I (Republican),"VAN LOON, JOHN T.",1
 MANHATTAN 07,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",24
-MANHATTAN 07,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",2
-MANHATTAN 07,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",34
-MANHATTAN 07,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",2
-MANHATTAN 07,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",33
+MANHATTAN 07,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",2
+MANHATTAN 07,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",34
+MANHATTAN 07,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",2
+MANHATTAN 07,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",33
 MANHATTAN 07,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",1
 MANHATTAN 07,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",7
 MANHATTAN 07,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,8
@@ -126,10 +126,10 @@ MERCURY 08,County Commissioner District I (Republican),"BOBECK, JEFFREY",
 MERCURY 08,County Commissioner District I (Republican),"MOBLEY, ROB",
 MERCURY 08,County Commissioner District I (Republican),"VAN LOON, JOHN T.",
 MERCURY 08,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",
-MERCURY 08,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",
-MERCURY 08,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",
-MERCURY 08,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",
-MERCURY 08,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",
+MERCURY 08,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",
+MERCURY 08,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",
+MERCURY 08,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",
+MERCURY 08,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",
 MERCURY 08,School Board Trustee Area II (Nonpartisan),"BIENENSTEIN, KATHLEEN L.",
 MERCURY 08,School Board Trustee Area II (Nonpartisan),"MCNEELY, J.E. ""DOC""",
 MERCURY 08,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
@@ -142,10 +142,10 @@ MERCURY 08,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 PAHRUMP 09,County Commissioner District III (Republican),"DOLE, ROBERT ""BUTCH""",33
 PAHRUMP 09,County Commissioner District III (Republican),"HOLLIS, GARY",108
 PAHRUMP 09,County Commissioner District III (Republican),"LACKEY, DARRYL",50
-PAHRUMP 09,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",56
-PAHRUMP 09,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",167
-PAHRUMP 09,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",125
-PAHRUMP 09,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",310
+PAHRUMP 09,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",56
+PAHRUMP 09,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",167
+PAHRUMP 09,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",125
+PAHRUMP 09,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",310
 PAHRUMP 09,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",10
 PAHRUMP 09,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 09,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",19
@@ -175,10 +175,10 @@ PAHRUMP 09,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 09,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",36
 PAHRUMP 09,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",142
 PAHRUMP 09,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",45
-PAHRUMP 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",26
-PAHRUMP 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",71
-PAHRUMP 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",63
-PAHRUMP 10,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",138
+PAHRUMP 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",26
+PAHRUMP 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",71
+PAHRUMP 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",63
+PAHRUMP 10,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",138
 PAHRUMP 10,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",2
 PAHRUMP 10,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",0
 PAHRUMP 10,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",17
@@ -209,10 +209,10 @@ PAHRUMP 10,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 10,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",21
 PAHRUMP 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",62
 PAHRUMP 10,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",25
-PAHRUMP 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",18
-PAHRUMP 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",78
-PAHRUMP 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",81
-PAHRUMP 11,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",157
+PAHRUMP 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",18
+PAHRUMP 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",78
+PAHRUMP 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",81
+PAHRUMP 11,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",157
 PAHRUMP 11,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",3
 PAHRUMP 11,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",3
 PAHRUMP 11,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",15
@@ -244,10 +244,10 @@ PAHRUMP 11,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 11,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",13
 PAHRUMP 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",63
 PAHRUMP 11,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",17
-PAHRUMP 16,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",47
-PAHRUMP 16,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",115
-PAHRUMP 16,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",72
-PAHRUMP 16,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",205
+PAHRUMP 16,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",47
+PAHRUMP 16,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",115
+PAHRUMP 16,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",72
+PAHRUMP 16,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",205
 PAHRUMP 16,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",3
 PAHRUMP 16,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 16,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",36
@@ -278,10 +278,10 @@ PAHRUMP 16,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 16,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",26
 PAHRUMP 16,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",97
 PAHRUMP 16,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",18
-PAHRUMP 17,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",16
-PAHRUMP 17,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",96
-PAHRUMP 17,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",87
-PAHRUMP 17,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",164
+PAHRUMP 17,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",16
+PAHRUMP 17,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",96
+PAHRUMP 17,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",87
+PAHRUMP 17,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",164
 PAHRUMP 17,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",4
 PAHRUMP 17,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 17,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",8
@@ -315,10 +315,10 @@ PAHRUMP 19,County Commissioner District I (Republican),"BOBECK, JEFFREY",54
 PAHRUMP 19,County Commissioner District I (Republican),"MOBLEY, ROB",54
 PAHRUMP 19,County Commissioner District I (Republican),"VAN LOON, JOHN T.",20
 PAHRUMP 19,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",74
-PAHRUMP 19,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",73
-PAHRUMP 19,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",143
-PAHRUMP 19,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",139
-PAHRUMP 19,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",310
+PAHRUMP 19,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",73
+PAHRUMP 19,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",143
+PAHRUMP 19,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",139
+PAHRUMP 19,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",310
 PAHRUMP 19,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",2
 PAHRUMP 19,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 19,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",20
@@ -349,10 +349,10 @@ PAHRUMP 19,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 19,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",36
 PAHRUMP 19,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",164
 PAHRUMP 19,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",39
-PAHRUMP 20,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",20
-PAHRUMP 20,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",46
-PAHRUMP 20,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",47
-PAHRUMP 20,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",96
+PAHRUMP 20,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",20
+PAHRUMP 20,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",46
+PAHRUMP 20,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",47
+PAHRUMP 20,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",96
 PAHRUMP 20,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",5
 PAHRUMP 20,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",0
 PAHRUMP 20,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",10
@@ -385,10 +385,10 @@ PAHRUMP 20,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 PAHRUMP 21,County Commissioner District III (Republican),"DOLE, ROBERT ""BUTCH""",30
 PAHRUMP 21,County Commissioner District III (Republican),"HOLLIS, GARY",95
 PAHRUMP 21,County Commissioner District III (Republican),"LACKEY, DARRYL",27
-PAHRUMP 21,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",42
-PAHRUMP 21,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",163
-PAHRUMP 21,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",119
-PAHRUMP 21,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",293
+PAHRUMP 21,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",42
+PAHRUMP 21,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",163
+PAHRUMP 21,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",119
+PAHRUMP 21,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",293
 PAHRUMP 21,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",13
 PAHRUMP 21,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",3
 PAHRUMP 21,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",18
@@ -419,10 +419,10 @@ PAHRUMP 21,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 21,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",30
 PAHRUMP 21,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",124
 PAHRUMP 21,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",30
-PAHRUMP 22,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",38
-PAHRUMP 22,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",83
-PAHRUMP 22,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",69
-PAHRUMP 22,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",168
+PAHRUMP 22,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",38
+PAHRUMP 22,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",83
+PAHRUMP 22,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",69
+PAHRUMP 22,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",168
 PAHRUMP 22,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",2
 PAHRUMP 22,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",0
 PAHRUMP 22,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",7
@@ -456,10 +456,10 @@ PAHRUMP 23,County Commissioner District I (Republican),"BOBECK, JEFFREY",18
 PAHRUMP 23,County Commissioner District I (Republican),"MOBLEY, ROB",19
 PAHRUMP 23,County Commissioner District I (Republican),"VAN LOON, JOHN T.",5
 PAHRUMP 23,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",23
-PAHRUMP 23,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",15
-PAHRUMP 23,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",86
-PAHRUMP 23,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",46
-PAHRUMP 23,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",130
+PAHRUMP 23,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",15
+PAHRUMP 23,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",86
+PAHRUMP 23,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",46
+PAHRUMP 23,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",130
 PAHRUMP 23,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",1
 PAHRUMP 23,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",1
 PAHRUMP 23,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",14
@@ -491,10 +491,10 @@ PAHRUMP 23,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 23,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",19
 PAHRUMP 23,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",46
 PAHRUMP 23,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",20
-PAHRUMP 24,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",33
-PAHRUMP 24,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",97
-PAHRUMP 24,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",83
-PAHRUMP 24,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",168
+PAHRUMP 24,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",33
+PAHRUMP 24,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",97
+PAHRUMP 24,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",83
+PAHRUMP 24,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",168
 PAHRUMP 24,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",8
 PAHRUMP 24,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",1
 PAHRUMP 24,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",14
@@ -527,10 +527,10 @@ PAHRUMP 24,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 PAHRUMP 25,County Commissioner District III (Republican),"DOLE, ROBERT ""BUTCH""",29
 PAHRUMP 25,County Commissioner District III (Republican),"HOLLIS, GARY",58
 PAHRUMP 25,County Commissioner District III (Republican),"LACKEY, DARRYL",41
-PAHRUMP 25,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",47
-PAHRUMP 25,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",145
-PAHRUMP 25,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",102
-PAHRUMP 25,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",257
+PAHRUMP 25,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",47
+PAHRUMP 25,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",145
+PAHRUMP 25,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",102
+PAHRUMP 25,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",257
 PAHRUMP 25,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",13
 PAHRUMP 25,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 25,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",16
@@ -561,10 +561,10 @@ PAHRUMP 25,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 25,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",33
 PAHRUMP 25,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",101
 PAHRUMP 25,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",23
-PAHRUMP 26,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",23
-PAHRUMP 26,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",122
-PAHRUMP 26,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",69
-PAHRUMP 26,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",198
+PAHRUMP 26,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",23
+PAHRUMP 26,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",122
+PAHRUMP 26,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",69
+PAHRUMP 26,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",198
 PAHRUMP 26,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",3
 PAHRUMP 26,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",0
 PAHRUMP 26,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",16
@@ -597,10 +597,10 @@ PAHRUMP 26,"U.S. Representative in Congress, District 2 (Republican)","Smack, Ja
 PAHRUMP 27,County Commissioner District III (Republican),"DOLE, ROBERT ""BUTCH""",30
 PAHRUMP 27,County Commissioner District III (Republican),"HOLLIS, GARY",83
 PAHRUMP 27,County Commissioner District III (Republican),"LACKEY, DARRYL",24
-PAHRUMP 27,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",42
-PAHRUMP 27,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",141
-PAHRUMP 27,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",102
-PAHRUMP 27,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",263
+PAHRUMP 27,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",42
+PAHRUMP 27,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",141
+PAHRUMP 27,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",102
+PAHRUMP 27,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",263
 PAHRUMP 27,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",4
 PAHRUMP 27,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 27,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",24
@@ -630,10 +630,10 @@ PAHRUMP 27,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 27,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",30
 PAHRUMP 27,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",100
 PAHRUMP 27,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",35
-PAHRUMP 28,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",68
-PAHRUMP 28,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",137
-PAHRUMP 28,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",146
-PAHRUMP 28,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",302
+PAHRUMP 28,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",68
+PAHRUMP 28,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",137
+PAHRUMP 28,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",146
+PAHRUMP 28,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",302
 PAHRUMP 28,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",6
 PAHRUMP 28,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",1
 PAHRUMP 28,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",19
@@ -665,10 +665,10 @@ PAHRUMP 28,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 28,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",41
 PAHRUMP 28,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",174
 PAHRUMP 28,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",12
-PAHRUMP 29,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",55
-PAHRUMP 29,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",122
-PAHRUMP 29,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",82
-PAHRUMP 29,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",237
+PAHRUMP 29,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",55
+PAHRUMP 29,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",122
+PAHRUMP 29,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",82
+PAHRUMP 29,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",237
 PAHRUMP 29,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",3
 PAHRUMP 29,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",0
 PAHRUMP 29,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",12
@@ -699,10 +699,10 @@ PAHRUMP 29,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 29,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",23
 PAHRUMP 29,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",90
 PAHRUMP 29,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",20
-PAHRUMP 30,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",44
-PAHRUMP 30,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",147
-PAHRUMP 30,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",121
-PAHRUMP 30,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",279
+PAHRUMP 30,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",44
+PAHRUMP 30,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",147
+PAHRUMP 30,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",121
+PAHRUMP 30,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",279
 PAHRUMP 30,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",6
 PAHRUMP 30,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 30,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",19
@@ -734,10 +734,10 @@ PAHRUMP 30,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PAHRUMP 30,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",37
 PAHRUMP 30,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",130
 PAHRUMP 30,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",25
-PAHRUMP 31,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",38
-PAHRUMP 31,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",106
-PAHRUMP 31,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",87
-PAHRUMP 31,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",204
+PAHRUMP 31,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",38
+PAHRUMP 31,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",106
+PAHRUMP 31,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",87
+PAHRUMP 31,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",204
 PAHRUMP 31,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",2
 PAHRUMP 31,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",1
 PAHRUMP 31,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",11
@@ -772,10 +772,10 @@ PAHRUMP 32,County Commissioner District I (Republican),"BOBECK, JEFFREY",54
 PAHRUMP 32,County Commissioner District I (Republican),"MOBLEY, ROB",62
 PAHRUMP 32,County Commissioner District I (Republican),"VAN LOON, JOHN T.",19
 PAHRUMP 32,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",59
-PAHRUMP 32,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",40
-PAHRUMP 32,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",217
-PAHRUMP 32,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",128
-PAHRUMP 32,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",327
+PAHRUMP 32,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",40
+PAHRUMP 32,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",217
+PAHRUMP 32,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",128
+PAHRUMP 32,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",327
 PAHRUMP 32,Justice of the Peace PAHRUMP (Nonpartisan),"ABBOT, DAVE",12
 PAHRUMP 32,Justice of the Peace PAHRUMP (Nonpartisan),"BLUNDO, LEONARDO F.",2
 PAHRUMP 32,Justice of the Peace PAHRUMP (Nonpartisan),"DECANIO, LOUIS J.",32
@@ -813,10 +813,10 @@ ROUND MTN 12,County Commissioner District I (Republican),"BOBECK, JEFFREY",1
 ROUND MTN 12,County Commissioner District I (Republican),"MOBLEY, ROB",2
 ROUND MTN 12,County Commissioner District I (Republican),"VAN LOON, JOHN T.",0
 ROUND MTN 12,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",51
-ROUND MTN 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",8
-ROUND MTN 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",61
-ROUND MTN 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",12
-ROUND MTN 12,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",74
+ROUND MTN 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",8
+ROUND MTN 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",61
+ROUND MTN 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",12
+ROUND MTN 12,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",74
 ROUND MTN 12,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",6
 ROUND MTN 12,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",13
 ROUND MTN 12,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,14
@@ -828,10 +828,10 @@ SMOKY VALLEY,County Commissioner District I (Republican),"BOBECK, JEFFREY",3
 SMOKY VALLEY,County Commissioner District I (Republican),"MOBLEY, ROB",0
 SMOKY VALLEY,County Commissioner District I (Republican),"VAN LOON, JOHN T.",1
 SMOKY VALLEY,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",39
-SMOKY VALLEY,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",5
-SMOKY VALLEY,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",60
-SMOKY VALLEY,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",8
-SMOKY VALLEY,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",66
+SMOKY VALLEY,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",5
+SMOKY VALLEY,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",60
+SMOKY VALLEY,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",8
+SMOKY VALLEY,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",66
 SMOKY VALLEY,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",8
 SMOKY VALLEY,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",12
 SMOKY VALLEY,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,9
@@ -843,10 +843,10 @@ SUNNYSIDE 13,County Commissioner District I (Republican),"BOBECK, JEFFREY",
 SUNNYSIDE 13,County Commissioner District I (Republican),"MOBLEY, ROB",
 SUNNYSIDE 13,County Commissioner District I (Republican),"VAN LOON, JOHN T.",
 SUNNYSIDE 13,County Commissioner District I (Republican),"WICHMAN, LORINDA A.",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",
-SUNNYSIDE 13,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",
+SUNNYSIDE 13,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",
 SUNNYSIDE 13,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",
 SUNNYSIDE 13,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",
 SUNNYSIDE 13,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,
@@ -854,10 +854,10 @@ SUNNYSIDE 13,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kr
 SUNNYSIDE 13,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",
 SUNNYSIDE 13,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
-TONOPAH 14,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",11
-TONOPAH 14,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",174
-TONOPAH 14,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",14
-TONOPAH 14,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",170
+TONOPAH 14,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",11
+TONOPAH 14,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",174
+TONOPAH 14,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",14
+TONOPAH 14,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",170
 TONOPAH 14,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",18
 TONOPAH 14,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",42
 TONOPAH 14,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,32
@@ -865,10 +865,10 @@ TONOPAH 14,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 TONOPAH 14,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",24
 TONOPAH 14,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",78
 TONOPAH 14,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
-TONOPAH 15,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",11
-TONOPAH 15,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",146
-TONOPAH 15,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",15
-TONOPAH 15,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",132
+TONOPAH 15,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",11
+TONOPAH 15,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",146
+TONOPAH 15,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",15
+TONOPAH 15,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",132
 TONOPAH 15,"Supreme Court Justice, Seat B (Nonpartisan)","Allf, Nancy Lee",14
 TONOPAH 15,"Supreme Court Justice, Seat B (Nonpartisan)","Chairez, Don",27
 TONOPAH 15,"Supreme Court Justice, Seat B (Nonpartisan)",None Of These Candidates,22

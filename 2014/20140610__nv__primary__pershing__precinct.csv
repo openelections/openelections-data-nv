@@ -3,10 +3,10 @@ PRECINCT 1,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"ALLEN, JERRY",
 PRECINCT 1,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"CARMICHAEL, NATHAN",116
 PRECINCT 1,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"MACHADO, RICHARD",97
 PRECINCT 1,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"SIMMS, PAUL",13
-PRECINCT 1,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",70
-PRECINCT 1,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",117
-PRECINCT 1,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",226
-PRECINCT 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",380
+PRECINCT 1,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",70
+PRECINCT 1,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",117
+PRECINCT 1,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",226
+PRECINCT 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",380
 PRECINCT 1,Governor (Democratic),"Chang, Charles ""Charlie""",5
 PRECINCT 1,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 1,Governor (Democratic),"Frye, Stephen H.",6
@@ -47,10 +47,10 @@ PRECINCT 3,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"ALLEN, JERRY",
 PRECINCT 3,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"CARMICHAEL, NATHAN",61
 PRECINCT 3,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"MACHADO, RICHARD",61
 PRECINCT 3,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"SIMMS, PAUL",13
-PRECINCT 3,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",56
-PRECINCT 3,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",86
-PRECINCT 3,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",126
-PRECINCT 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",235
+PRECINCT 3,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",56
+PRECINCT 3,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",86
+PRECINCT 3,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",126
+PRECINCT 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",235
 PRECINCT 3,Governor (Democratic),"Chang, Charles ""Charlie""",6
 PRECINCT 3,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 3,Governor (Democratic),"Frye, Stephen H.",5
@@ -91,10 +91,10 @@ PRECINCT 4,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"ALLEN, JERRY",
 PRECINCT 4,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"CARMICHAEL, NATHAN",38
 PRECINCT 4,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"MACHADO, RICHARD",28
 PRECINCT 4,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"SIMMS, PAUL",16
-PRECINCT 4,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",27
-PRECINCT 4,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",60
-PRECINCT 4,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",75
-PRECINCT 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",142
+PRECINCT 4,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",27
+PRECINCT 4,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",60
+PRECINCT 4,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",75
+PRECINCT 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",142
 PRECINCT 4,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PRECINCT 4,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 4,Governor (Democratic),"Frye, Stephen H.",5
@@ -135,10 +135,10 @@ PRECINCT 5,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"ALLEN, JERRY",
 PRECINCT 5,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"CARMICHAEL, NATHAN",28
 PRECINCT 5,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"MACHADO, RICHARD",21
 PRECINCT 5,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"SIMMS, PAUL",5
-PRECINCT 5,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",12
-PRECINCT 5,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",27
-PRECINCT 5,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",42
-PRECINCT 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",73
+PRECINCT 5,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",12
+PRECINCT 5,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",27
+PRECINCT 5,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",42
+PRECINCT 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",73
 PRECINCT 5,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PRECINCT 5,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 5,Governor (Democratic),"Frye, Stephen H.",0
@@ -179,10 +179,10 @@ PRECINCT 6,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"ALLEN, JERRY",
 PRECINCT 6,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"CARMICHAEL, NATHAN",32
 PRECINCT 6,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"MACHADO, RICHARD",50
 PRECINCT 6,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"SIMMS, PAUL",3
-PRECINCT 6,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",19
-PRECINCT 6,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",23
-PRECINCT 6,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",71
-PRECINCT 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",107
+PRECINCT 6,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",19
+PRECINCT 6,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",23
+PRECINCT 6,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",71
+PRECINCT 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",107
 PRECINCT 6,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PRECINCT 6,Governor (Democratic),"Conquest, Frederick L.",1
 PRECINCT 6,Governor (Democratic),"Frye, Stephen H.",0
@@ -223,10 +223,10 @@ PRECINCT 7,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"ALLEN, JERRY",
 PRECINCT 7,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"CARMICHAEL, NATHAN",56
 PRECINCT 7,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"MACHADO, RICHARD",23
 PRECINCT 7,County Sheriff - PERSHING - NonPartisan (Nonpartisan),"SIMMS, PAUL",15
-PRECINCT 7,"District Court Judge, District 6, Department  1 (Nonpartisan)","PASQUALE, KEVIN L.",30
-PRECINCT 7,"District Court Judge, District 6, Department  1 (Nonpartisan)","PLIMPTON, TODD",44
-PRECINCT 7,"District Court Judge, District 6, Department  1 (Nonpartisan)","SHIRLEY, JIM C.",84
-PRECINCT 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",134
+PRECINCT 7,"District Court Judge, District 6, Department 1 (Nonpartisan)","PASQUALE, KEVIN L.",30
+PRECINCT 7,"District Court Judge, District 6, Department 1 (Nonpartisan)","PLIMPTON, TODD",44
+PRECINCT 7,"District Court Judge, District 6, Department 1 (Nonpartisan)","SHIRLEY, JIM C.",84
+PRECINCT 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",134
 PRECINCT 7,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PRECINCT 7,Governor (Democratic),"Conquest, Frederick L.",0
 PRECINCT 7,Governor (Democratic),"Frye, Stephen H.",3

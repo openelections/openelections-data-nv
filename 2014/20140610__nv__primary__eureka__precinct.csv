@@ -1,10 +1,10 @@
 precinct,office,candidate,votes
 Precinct 1,County Commissioner District 2 (Republican),"ETCHEGARAY, FRED",96
 Precinct 1,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",23
-Precinct 1,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",114
-Precinct 1,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",109
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETER",112
-Precinct 1,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","FOULKE, RYAN",107
+Precinct 1,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",114
+Precinct 1,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",109
+Precinct 1,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","EDERA, PETER",112
+Precinct 1,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","FOULKE, RYAN",107
 Precinct 1,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Precinct 1,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 1,Governor (Democratic),"Frye, Stephen H.",1
@@ -37,10 +37,10 @@ Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",
 Precinct 1,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",3
 Precinct 2,County Commissioner District 2 (Republican),"ETCHEGARAY, FRED",76
 Precinct 2,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",34
-Precinct 2,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",99
-Precinct 2,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",96
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETER",98
-Precinct 2,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","FOULKE, RYAN",93
+Precinct 2,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",99
+Precinct 2,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",96
+Precinct 2,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","EDERA, PETER",98
+Precinct 2,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","FOULKE, RYAN",93
 Precinct 2,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Precinct 2,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 2,Governor (Democratic),"Frye, Stephen H.",2
@@ -73,10 +73,10 @@ Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",
 Precinct 2,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",1
 Precinct 3,County Commissioner District 2 (Republican),"ETCHEGARAY, FRED",40
 Precinct 3,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",9
-Precinct 3,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",47
-Precinct 3,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",46
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETER",47
-Precinct 3,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","FOULKE, RYAN",44
+Precinct 3,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",47
+Precinct 3,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",46
+Precinct 3,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","EDERA, PETER",47
+Precinct 3,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","FOULKE, RYAN",44
 Precinct 3,Governor (Democratic),"Chang, Charles ""Charlie""",0
 Precinct 3,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 3,Governor (Democratic),"Frye, Stephen H.",2
@@ -109,10 +109,10 @@ Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Lee, Ed",
 Precinct 3,"U.S. Representative in Congress, District 2 (Democratic)","Spees, Kristen",4
 Precinct 4,County Commissioner District 2 (Republican),"ETCHEGARAY, FRED",29
 Precinct 4,County Commissioner District 2 (Republican),"PASTORINO, DAVID A.",14
-Precinct 4,"District Court Judge, District 7, Department  1 (Nonpartisan)","DOBRESCU, STEVE L.",49
-Precinct 4,"District Court Judge, District 7, Department  2 (Nonpartisan)","FAIRMAN, GARY D.",46
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4B (Nonpartisan)","EDERA, PETER",46
-Precinct 4,"EUREKA COUNTY TV  District, Seat 4C (Nonpartisan)","FOULKE, RYAN",45
+Precinct 4,"District Court Judge, District 7, Department 1 (Nonpartisan)","DOBRESCU, STEVE L.",49
+Precinct 4,"District Court Judge, District 7, Department 2 (Nonpartisan)","FAIRMAN, GARY D.",46
+Precinct 4,"EUREKA COUNTY TV District, Seat 4B (Nonpartisan)","EDERA, PETER",46
+Precinct 4,"EUREKA COUNTY TV District, Seat 4C (Nonpartisan)","FOULKE, RYAN",45
 Precinct 4,Governor (Democratic),"Chang, Charles ""Charlie""",1
 Precinct 4,Governor (Democratic),"Conquest, Frederick L.",0
 Precinct 4,Governor (Democratic),"Frye, Stephen H.",1

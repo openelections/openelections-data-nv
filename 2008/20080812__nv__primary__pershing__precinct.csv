@@ -1,10 +1,10 @@
 precinct,office,candidate,votes
-PRECINCT 1,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",252
-PRECINCT 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",12
-PRECINCT 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",45
-PRECINCT 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",117
-PRECINCT 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
-PRECINCT 1,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",126
+PRECINCT 1,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",252
+PRECINCT 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",12
+PRECINCT 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",45
+PRECINCT 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",117
+PRECINCT 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
+PRECINCT 1,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",126
 PRECINCT 1,Hospital District PERSHING (Nonpartisan),"GOLDSWORTHY, JAMES",211
 PRECINCT 1,Hospital District PERSHING (Nonpartisan),"HOSTMAN, MARK R.",247
 PRECINCT 1,Hospital District PERSHING (Nonpartisan),"PIERCE, JOE L.",200
@@ -16,12 +16,12 @@ PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PRECINCT 1,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",97
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",158
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",22
-PRECINCT 3,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",163
-PRECINCT 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",7
-PRECINCT 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",37
-PRECINCT 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",79
-PRECINCT 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",3
-PRECINCT 3,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",75
+PRECINCT 3,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",163
+PRECINCT 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",7
+PRECINCT 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",37
+PRECINCT 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",79
+PRECINCT 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",3
+PRECINCT 3,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",75
 PRECINCT 3,Hospital District PERSHING (Nonpartisan),"GOLDSWORTHY, JAMES",149
 PRECINCT 3,Hospital District PERSHING (Nonpartisan),"HOSTMAN, MARK R.",169
 PRECINCT 3,Hospital District PERSHING (Nonpartisan),"PIERCE, JOE L.",136
@@ -33,12 +33,12 @@ PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PRECINCT 3,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",79
 PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",75
 PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",20
-PRECINCT 4,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",97
-PRECINCT 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",11
-PRECINCT 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",19
-PRECINCT 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",44
-PRECINCT 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
-PRECINCT 4,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",39
+PRECINCT 4,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",97
+PRECINCT 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",11
+PRECINCT 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",19
+PRECINCT 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",44
+PRECINCT 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
+PRECINCT 4,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",39
 PRECINCT 4,Hospital District PERSHING (Nonpartisan),"GOLDSWORTHY, JAMES",92
 PRECINCT 4,Hospital District PERSHING (Nonpartisan),"HOSTMAN, MARK R.",89
 PRECINCT 4,Hospital District PERSHING (Nonpartisan),"PIERCE, JOE L.",78
@@ -50,12 +50,12 @@ PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PRECINCT 4,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",43
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",39
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",13
-PRECINCT 5,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",52
-PRECINCT 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",19
-PRECINCT 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",17
-PRECINCT 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",12
-PRECINCT 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
-PRECINCT 5,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",16
+PRECINCT 5,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",52
+PRECINCT 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",19
+PRECINCT 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",17
+PRECINCT 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",12
+PRECINCT 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",1
+PRECINCT 5,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",16
 PRECINCT 5,Hospital District PERSHING (Nonpartisan),"GOLDSWORTHY, JAMES",28
 PRECINCT 5,Hospital District PERSHING (Nonpartisan),"HOSTMAN, MARK R.",39
 PRECINCT 5,Hospital District PERSHING (Nonpartisan),"PIERCE, JOE L.",31
@@ -67,12 +67,12 @@ PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PRECINCT 5,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",11
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",24
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",4
-PRECINCT 6,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",90
-PRECINCT 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",16
-PRECINCT 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",24
-PRECINCT 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",29
-PRECINCT 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
-PRECINCT 6,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",34
+PRECINCT 6,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",90
+PRECINCT 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",16
+PRECINCT 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",24
+PRECINCT 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",29
+PRECINCT 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",0
+PRECINCT 6,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",34
 PRECINCT 6,Hospital District PERSHING (Nonpartisan),"GOLDSWORTHY, JAMES",69
 PRECINCT 6,Hospital District PERSHING (Nonpartisan),"HOSTMAN, MARK R.",78
 PRECINCT 6,Hospital District PERSHING (Nonpartisan),"PIERCE, JOE L.",68
@@ -84,12 +84,12 @@ PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)","Pickering, Mary ""Kris
 PRECINCT 6,"Supreme Court Justice, Seat B (Nonpartisan)","Schumacher, Deborah",25
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, Dean",51
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",10
-PRECINCT 7,"District Court Judge, District 6, Department  1 (Nonpartisan)","WAGNER, RICHARD A.",108
-PRECINCT 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",26
-PRECINCT 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","MAHER, O. KENT",20
-PRECINCT 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","MONTERO, MICHAEL R.",28
-PRECINCT 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",3
-PRECINCT 7,"District Court Judge, District 6, Department  2 (Nonpartisan)","SHIRLEY, JIM C.",41
+PRECINCT 7,"District Court Judge, District 6, Department 1 (Nonpartisan)","WAGNER, RICHARD A.",108
+PRECINCT 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","DOLAN, ROBERT ""BOB""",26
+PRECINCT 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","MAHER, O. KENT",20
+PRECINCT 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","MONTERO, MICHAEL R.",28
+PRECINCT 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","SCHAEFFER, WILLIAM E.",3
+PRECINCT 7,"District Court Judge, District 6, Department 2 (Nonpartisan)","SHIRLEY, JIM C.",41
 PRECINCT 7,Hospital District PERSHING (Nonpartisan),"GOLDSWORTHY, JAMES",73
 PRECINCT 7,Hospital District PERSHING (Nonpartisan),"HOSTMAN, MARK R.",76
 PRECINCT 7,Hospital District PERSHING (Nonpartisan),"PIERCE, JOE L.",62

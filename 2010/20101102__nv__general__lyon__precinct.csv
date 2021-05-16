@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 East Mason Valley 1,Attorney General,"Barrick, Travis",201
-East Mason Valley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",231
+East Mason Valley 1,Attorney General,"CORTEZ MASTO, CATHERINE",231
 East Mason Valley 1,Attorney General,"Hansen, Joel F.",60
 East Mason Valley 1,Attorney General,None Of These Candidates,17
 East Mason Valley 1,COUNTY ASSESSOR,"OW-WING, ERIC",265
@@ -62,7 +62,7 @@ East Mason Valley 1,U.S. Senate,"Reeves, Jeffrey C.",0
 East Mason Valley 1,U.S. Senate,"REID, HARRY",147
 East Mason Valley 1,U.S. Senate,"Stand, Wil",2
 East Mason Valley 2,Attorney General,"Barrick, Travis",257
-East Mason Valley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",223
+East Mason Valley 2,Attorney General,"CORTEZ MASTO, CATHERINE",223
 East Mason Valley 2,Attorney General,"Hansen, Joel F.",61
 East Mason Valley 2,Attorney General,None Of These Candidates,11
 East Mason Valley 2,COUNTY ASSESSOR,"OW-WING, ERIC",258
@@ -124,7 +124,7 @@ East Mason Valley 2,U.S. Senate,"Reeves, Jeffrey C.",3
 East Mason Valley 2,U.S. Senate,"REID, HARRY",89
 East Mason Valley 2,U.S. Senate,"Stand, Wil",3
 Fernley 1,Attorney General,"Barrick, Travis",306
-Fernley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",232
+Fernley 1,Attorney General,"CORTEZ MASTO, CATHERINE",232
 Fernley 1,Attorney General,"Hansen, Joel F.",59
 Fernley 1,Attorney General,None Of These Candidates,16
 Fernley 1,COUNTY ASSESSOR,"OW-WING, ERIC",170
@@ -192,7 +192,7 @@ Fernley 1,U.S. Senate,"Reeves, Jeffrey C.",1
 Fernley 1,U.S. Senate,"REID, HARRY",199
 Fernley 1,U.S. Senate,"Stand, Wil",1
 Fernley 10,Attorney General,"Barrick, Travis",93
-Fernley 10,Attorney General,"CORTEZ  MASTO, CATHERINE",69
+Fernley 10,Attorney General,"CORTEZ MASTO, CATHERINE",69
 Fernley 10,Attorney General,"Hansen, Joel F.",8
 Fernley 10,Attorney General,None Of These Candidates,6
 Fernley 10,COUNTY ASSESSOR,"OW-WING, ERIC",36
@@ -260,7 +260,7 @@ Fernley 10,U.S. Senate,"Reeves, Jeffrey C.",0
 Fernley 10,U.S. Senate,"REID, HARRY",59
 Fernley 10,U.S. Senate,"Stand, Wil",0
 Fernley 11,Attorney General,"Barrick, Travis",162
-Fernley 11,Attorney General,"CORTEZ  MASTO, CATHERINE",159
+Fernley 11,Attorney General,"CORTEZ MASTO, CATHERINE",159
 Fernley 11,Attorney General,"Hansen, Joel F.",44
 Fernley 11,Attorney General,None Of These Candidates,10
 Fernley 11,COUNTY ASSESSOR,"OW-WING, ERIC",112
@@ -328,7 +328,7 @@ Fernley 11,U.S. Senate,"Reeves, Jeffrey C.",1
 Fernley 11,U.S. Senate,"REID, HARRY",129
 Fernley 11,U.S. Senate,"Stand, Wil",1
 Fernley 12,Attorney General,"Barrick, Travis",252
-Fernley 12,Attorney General,"CORTEZ  MASTO, CATHERINE",247
+Fernley 12,Attorney General,"CORTEZ MASTO, CATHERINE",247
 Fernley 12,Attorney General,"Hansen, Joel F.",41
 Fernley 12,Attorney General,None Of These Candidates,17
 Fernley 12,COUNTY ASSESSOR,"OW-WING, ERIC",176
@@ -416,7 +416,7 @@ Fernley 13,U.S. Senate,"Reeves, Jeffrey C.",3
 Fernley 13,U.S. Senate,"REID, HARRY",222
 Fernley 13,U.S. Senate,"Stand, Wil",2
 Fernley 14,Attorney General,"Barrick, Travis",140
-Fernley 14,Attorney General,"CORTEZ  MASTO, CATHERINE",157
+Fernley 14,Attorney General,"CORTEZ MASTO, CATHERINE",157
 Fernley 14,Attorney General,"Hansen, Joel F.",31
 Fernley 14,Attorney General,None Of These Candidates,11
 Fernley 14,"City Councilmember, Ward 1, City of Fernley","LANNING, PAUL",134
@@ -486,7 +486,7 @@ Fernley 14,U.S. Senate,"Reeves, Jeffrey C.",0
 Fernley 14,U.S. Senate,"REID, HARRY",133
 Fernley 14,U.S. Senate,"Stand, Wil",2
 Fernley 2,Attorney General,"Barrick, Travis",150
-Fernley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",122
+Fernley 2,Attorney General,"CORTEZ MASTO, CATHERINE",122
 Fernley 2,Attorney General,"Hansen, Joel F.",16
 Fernley 2,Attorney General,None Of These Candidates,5
 Fernley 2,COUNTY ASSESSOR,"OW-WING, ERIC",95
@@ -555,7 +555,7 @@ Fernley 2,U.S. Senate,"Reeves, Jeffrey C.",0
 Fernley 2,U.S. Senate,"REID, HARRY",102
 Fernley 2,U.S. Senate,"Stand, Wil",1
 Fernley 3,Attorney General,"Barrick, Travis",158
-Fernley 3,Attorney General,"CORTEZ  MASTO, CATHERINE",117
+Fernley 3,Attorney General,"CORTEZ MASTO, CATHERINE",117
 Fernley 3,Attorney General,"Hansen, Joel F.",38
 Fernley 3,Attorney General,None Of These Candidates,8
 Fernley 3,COUNTY ASSESSOR,"OW-WING, ERIC",85
@@ -623,7 +623,7 @@ Fernley 3,U.S. Senate,"Reeves, Jeffrey C.",5
 Fernley 3,U.S. Senate,"REID, HARRY",83
 Fernley 3,U.S. Senate,"Stand, Wil",5
 Fernley 4,Attorney General,"Barrick, Travis",128
-Fernley 4,Attorney General,"CORTEZ  MASTO, CATHERINE",125
+Fernley 4,Attorney General,"CORTEZ MASTO, CATHERINE",125
 Fernley 4,Attorney General,"Hansen, Joel F.",31
 Fernley 4,Attorney General,None Of These Candidates,11
 Fernley 4,COUNTY ASSESSOR,"OW-WING, ERIC",106
@@ -691,7 +691,7 @@ Fernley 4,U.S. Senate,"Reeves, Jeffrey C.",2
 Fernley 4,U.S. Senate,"REID, HARRY",111
 Fernley 4,U.S. Senate,"Stand, Wil",3
 Fernley 5,Attorney General,"Barrick, Travis",160
-Fernley 5,Attorney General,"CORTEZ  MASTO, CATHERINE",168
+Fernley 5,Attorney General,"CORTEZ MASTO, CATHERINE",168
 Fernley 5,Attorney General,"Hansen, Joel F.",30
 Fernley 5,Attorney General,None Of These Candidates,6
 Fernley 5,"City Councilmember, Ward 3, City of Fernley","CHASE, ROBERT ""BOB""",131
@@ -761,7 +761,7 @@ Fernley 5,U.S. Senate,"Reeves, Jeffrey C.",1
 Fernley 5,U.S. Senate,"REID, HARRY",144
 Fernley 5,U.S. Senate,"Stand, Wil",2
 Fernley 6,Attorney General,"Barrick, Travis",142
-Fernley 6,Attorney General,"CORTEZ  MASTO, CATHERINE",176
+Fernley 6,Attorney General,"CORTEZ MASTO, CATHERINE",176
 Fernley 6,Attorney General,"Hansen, Joel F.",34
 Fernley 6,Attorney General,None Of These Candidates,11
 Fernley 6,COUNTY ASSESSOR,"OW-WING, ERIC",141
@@ -829,7 +829,7 @@ Fernley 6,U.S. Senate,"Reeves, Jeffrey C.",5
 Fernley 6,U.S. Senate,"REID, HARRY",163
 Fernley 6,U.S. Senate,"Stand, Wil",2
 Fernley 7,Attorney General,"Barrick, Travis",227
-Fernley 7,Attorney General,"CORTEZ  MASTO, CATHERINE",206
+Fernley 7,Attorney General,"CORTEZ MASTO, CATHERINE",206
 Fernley 7,Attorney General,"Hansen, Joel F.",38
 Fernley 7,Attorney General,None Of These Candidates,10
 Fernley 7,"City Councilmember, Ward 3, City of Fernley","CHASE, ROBERT ""BOB""",207
@@ -899,7 +899,7 @@ Fernley 7,U.S. Senate,"Reeves, Jeffrey C.",2
 Fernley 7,U.S. Senate,"REID, HARRY",186
 Fernley 7,U.S. Senate,"Stand, Wil",4
 Fernley 8,Attorney General,"Barrick, Travis",188
-Fernley 8,Attorney General,"CORTEZ  MASTO, CATHERINE",153
+Fernley 8,Attorney General,"CORTEZ MASTO, CATHERINE",153
 Fernley 8,Attorney General,"Hansen, Joel F.",28
 Fernley 8,Attorney General,None Of These Candidates,10
 Fernley 8,COUNTY ASSESSOR,"OW-WING, ERIC",88
@@ -968,7 +968,7 @@ Fernley 8,U.S. Senate,"Reeves, Jeffrey C.",1
 Fernley 8,U.S. Senate,"REID, HARRY",99
 Fernley 8,U.S. Senate,"Stand, Wil",3
 Fernley 9,Attorney General,"Barrick, Travis",88
-Fernley 9,Attorney General,"CORTEZ  MASTO, CATHERINE",72
+Fernley 9,Attorney General,"CORTEZ MASTO, CATHERINE",72
 Fernley 9,Attorney General,"Hansen, Joel F.",15
 Fernley 9,Attorney General,None Of These Candidates,5
 Fernley 9,COUNTY ASSESSOR,"OW-WING, ERIC",57
@@ -1036,7 +1036,7 @@ Fernley 9,U.S. Senate,"Reeves, Jeffrey C.",1
 Fernley 9,U.S. Senate,"REID, HARRY",60
 Fernley 9,U.S. Senate,"Stand, Wil",1
 Mound House 1,Attorney General,"Barrick, Travis",103
-Mound House 1,Attorney General,"CORTEZ  MASTO, CATHERINE",94
+Mound House 1,Attorney General,"CORTEZ MASTO, CATHERINE",94
 Mound House 1,Attorney General,"Hansen, Joel F.",25
 Mound House 1,Attorney General,None Of These Candidates,6
 Mound House 1,COUNTY ASSESSOR,"OW-WING, ERIC",57
@@ -1100,7 +1100,7 @@ Mound House 1,U.S. Senate,"Reeves, Jeffrey C.",2
 Mound House 1,U.S. Senate,"REID, HARRY",78
 Mound House 1,U.S. Senate,"Stand, Wil",0
 Mound House 2,Attorney General,"Barrick, Travis",101
-Mound House 2,Attorney General,"CORTEZ  MASTO, CATHERINE",125
+Mound House 2,Attorney General,"CORTEZ MASTO, CATHERINE",125
 Mound House 2,Attorney General,"Hansen, Joel F.",40
 Mound House 2,Attorney General,None Of These Candidates,8
 Mound House 2,COUNTY ASSESSOR,"OW-WING, ERIC",84
@@ -1164,7 +1164,7 @@ Mound House 2,U.S. Senate,"Reeves, Jeffrey C.",0
 Mound House 2,U.S. Senate,"REID, HARRY",105
 Mound House 2,U.S. Senate,"Stand, Wil",2
 North Dayton 1,Attorney General,"Barrick, Travis",82
-North Dayton 1,Attorney General,"CORTEZ  MASTO, CATHERINE",66
+North Dayton 1,Attorney General,"CORTEZ MASTO, CATHERINE",66
 North Dayton 1,Attorney General,"Hansen, Joel F.",24
 North Dayton 1,Attorney General,None Of These Candidates,4
 North Dayton 1,COUNTY ASSESSOR,"OW-WING, ERIC",46
@@ -1242,7 +1242,7 @@ North Dayton 2,U.S. Senate,"Reeves, Jeffrey C.",5
 North Dayton 2,U.S. Senate,"REID, HARRY",239
 North Dayton 2,U.S. Senate,"Stand, Wil",6
 North Dayton 3,Attorney General,"Barrick, Travis",241
-North Dayton 3,Attorney General,"CORTEZ  MASTO, CATHERINE",220
+North Dayton 3,Attorney General,"CORTEZ MASTO, CATHERINE",220
 North Dayton 3,Attorney General,"Hansen, Joel F.",48
 North Dayton 3,Attorney General,None Of These Candidates,18
 North Dayton 3,COUNTY ASSESSOR,"OW-WING, ERIC",169
@@ -1306,7 +1306,7 @@ North Dayton 3,U.S. Senate,"Reeves, Jeffrey C.",5
 North Dayton 3,U.S. Senate,"REID, HARRY",193
 North Dayton 3,U.S. Senate,"Stand, Wil",3
 North Dayton 4,Attorney General,"Barrick, Travis",256
-North Dayton 4,Attorney General,"CORTEZ  MASTO, CATHERINE",275
+North Dayton 4,Attorney General,"CORTEZ MASTO, CATHERINE",275
 North Dayton 4,Attorney General,"Hansen, Joel F.",56
 North Dayton 4,Attorney General,None Of These Candidates,16
 North Dayton 4,COUNTY ASSESSOR,"OW-WING, ERIC",208
@@ -1370,7 +1370,7 @@ North Dayton 4,U.S. Senate,"Reeves, Jeffrey C.",1
 North Dayton 4,U.S. Senate,"REID, HARRY",239
 North Dayton 4,U.S. Senate,"Stand, Wil",2
 North Dayton 5,Attorney General,"Barrick, Travis",490
-North Dayton 5,Attorney General,"CORTEZ  MASTO, CATHERINE",357
+North Dayton 5,Attorney General,"CORTEZ MASTO, CATHERINE",357
 North Dayton 5,Attorney General,"Hansen, Joel F.",82
 North Dayton 5,Attorney General,None Of These Candidates,35
 North Dayton 5,COUNTY ASSESSOR,"OW-WING, ERIC",242
@@ -1446,7 +1446,7 @@ Precinct 99,U.S. Senate,"Reeves, Jeffrey C.",
 Precinct 99,U.S. Senate,"REID, HARRY",
 Precinct 99,U.S. Senate,"Stand, Wil",
 Silver City,Attorney General,"Barrick, Travis",20
-Silver City,Attorney General,"CORTEZ  MASTO, CATHERINE",82
+Silver City,Attorney General,"CORTEZ MASTO, CATHERINE",82
 Silver City,Attorney General,"Hansen, Joel F.",14
 Silver City,Attorney General,None Of These Candidates,6
 Silver City,COUNTY ASSESSOR,"OW-WING, ERIC",67
@@ -1510,7 +1510,7 @@ Silver City,U.S. Senate,"Reeves, Jeffrey C.",0
 Silver City,U.S. Senate,"REID, HARRY",85
 Silver City,U.S. Senate,"Stand, Wil",0
 Silver Springs 1,Attorney General,"Barrick, Travis",211
-Silver Springs 1,Attorney General,"CORTEZ  MASTO, CATHERINE",215
+Silver Springs 1,Attorney General,"CORTEZ MASTO, CATHERINE",215
 Silver Springs 1,Attorney General,"Hansen, Joel F.",56
 Silver Springs 1,Attorney General,None Of These Candidates,16
 Silver Springs 1,COUNTY ASSESSOR,"OW-WING, ERIC",141
@@ -1572,7 +1572,7 @@ Silver Springs 1,U.S. Senate,"Reeves, Jeffrey C.",3
 Silver Springs 1,U.S. Senate,"REID, HARRY",186
 Silver Springs 1,U.S. Senate,"Stand, Wil",4
 Silver Springs 2,Attorney General,"Barrick, Travis",143
-Silver Springs 2,Attorney General,"CORTEZ  MASTO, CATHERINE",141
+Silver Springs 2,Attorney General,"CORTEZ MASTO, CATHERINE",141
 Silver Springs 2,Attorney General,"Hansen, Joel F.",47
 Silver Springs 2,Attorney General,None Of These Candidates,7
 Silver Springs 2,COUNTY ASSESSOR,"OW-WING, ERIC",119
@@ -1634,7 +1634,7 @@ Silver Springs 2,U.S. Senate,"Reeves, Jeffrey C.",3
 Silver Springs 2,U.S. Senate,"REID, HARRY",136
 Silver Springs 2,U.S. Senate,"Stand, Wil",7
 Silver Springs 3,Attorney General,"Barrick, Travis",208
-Silver Springs 3,Attorney General,"CORTEZ  MASTO, CATHERINE",211
+Silver Springs 3,Attorney General,"CORTEZ MASTO, CATHERINE",211
 Silver Springs 3,Attorney General,"Hansen, Joel F.",60
 Silver Springs 3,Attorney General,None Of These Candidates,12
 Silver Springs 3,COUNTY ASSESSOR,"OW-WING, ERIC",160
@@ -1696,7 +1696,7 @@ Silver Springs 3,U.S. Senate,"Reeves, Jeffrey C.",4
 Silver Springs 3,U.S. Senate,"REID, HARRY",185
 Silver Springs 3,U.S. Senate,"Stand, Wil",2
 Silver Springs 4,Attorney General,"Barrick, Travis",162
-Silver Springs 4,Attorney General,"CORTEZ  MASTO, CATHERINE",122
+Silver Springs 4,Attorney General,"CORTEZ MASTO, CATHERINE",122
 Silver Springs 4,Attorney General,"Hansen, Joel F.",32
 Silver Springs 4,Attorney General,None Of These Candidates,10
 Silver Springs 4,COUNTY ASSESSOR,"OW-WING, ERIC",91
@@ -1758,7 +1758,7 @@ Silver Springs 4,U.S. Senate,"Reeves, Jeffrey C.",1
 Silver Springs 4,U.S. Senate,"REID, HARRY",98
 Silver Springs 4,U.S. Senate,"Stand, Wil",3
 Smith Valley 1,Attorney General,"Barrick, Travis",388
-Smith Valley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",228
+Smith Valley 1,Attorney General,"CORTEZ MASTO, CATHERINE",228
 Smith Valley 1,Attorney General,"Hansen, Joel F.",59
 Smith Valley 1,Attorney General,None Of These Candidates,13
 Smith Valley 1,COUNTY ASSESSOR,"OW-WING, ERIC",192
@@ -1817,7 +1817,7 @@ Smith Valley 1,U.S. Senate,"Reeves, Jeffrey C.",0
 Smith Valley 1,U.S. Senate,"REID, HARRY",110
 Smith Valley 1,U.S. Senate,"Stand, Wil",2
 Smith Valley 2,Attorney General,"Barrick, Travis",156
-Smith Valley 2,Attorney General,"CORTEZ  MASTO, CATHERINE",76
+Smith Valley 2,Attorney General,"CORTEZ MASTO, CATHERINE",76
 Smith Valley 2,Attorney General,"Hansen, Joel F.",34
 Smith Valley 2,Attorney General,None Of These Candidates,10
 Smith Valley 2,COUNTY ASSESSOR,"OW-WING, ERIC",80
@@ -1876,7 +1876,7 @@ Smith Valley 2,U.S. Senate,"Reeves, Jeffrey C.",0
 Smith Valley 2,U.S. Senate,"REID, HARRY",33
 Smith Valley 2,U.S. Senate,"Stand, Wil",0
 South Dayton 1,Attorney General,"Barrick, Travis",222
-South Dayton 1,Attorney General,"CORTEZ  MASTO, CATHERINE",241
+South Dayton 1,Attorney General,"CORTEZ MASTO, CATHERINE",241
 South Dayton 1,Attorney General,"Hansen, Joel F.",54
 South Dayton 1,Attorney General,None Of These Candidates,14
 South Dayton 1,COUNTY ASSESSOR,"OW-WING, ERIC",166
@@ -1940,7 +1940,7 @@ South Dayton 1,U.S. Senate,"Reeves, Jeffrey C.",1
 South Dayton 1,U.S. Senate,"REID, HARRY",201
 South Dayton 1,U.S. Senate,"Stand, Wil",0
 South Dayton 2,Attorney General,"Barrick, Travis",80
-South Dayton 2,Attorney General,"CORTEZ  MASTO, CATHERINE",85
+South Dayton 2,Attorney General,"CORTEZ MASTO, CATHERINE",85
 South Dayton 2,Attorney General,"Hansen, Joel F.",16
 South Dayton 2,Attorney General,None Of These Candidates,3
 South Dayton 2,COUNTY ASSESSOR,"OW-WING, ERIC",67
@@ -2004,7 +2004,7 @@ South Dayton 2,U.S. Senate,"Reeves, Jeffrey C.",1
 South Dayton 2,U.S. Senate,"REID, HARRY",75
 South Dayton 2,U.S. Senate,"Stand, Wil",1
 South Dayton 3,Attorney General,"Barrick, Travis",294
-South Dayton 3,Attorney General,"CORTEZ  MASTO, CATHERINE",290
+South Dayton 3,Attorney General,"CORTEZ MASTO, CATHERINE",290
 South Dayton 3,Attorney General,"Hansen, Joel F.",55
 South Dayton 3,Attorney General,None Of These Candidates,19
 South Dayton 3,COUNTY ASSESSOR,"OW-WING, ERIC",207
@@ -2068,7 +2068,7 @@ South Dayton 3,U.S. Senate,"Reeves, Jeffrey C.",2
 South Dayton 3,U.S. Senate,"REID, HARRY",254
 South Dayton 3,U.S. Senate,"Stand, Wil",1
 South Dayton 4,Attorney General,"Barrick, Travis",143
-South Dayton 4,Attorney General,"CORTEZ  MASTO, CATHERINE",128
+South Dayton 4,Attorney General,"CORTEZ MASTO, CATHERINE",128
 South Dayton 4,Attorney General,"Hansen, Joel F.",28
 South Dayton 4,Attorney General,None Of These Candidates,11
 South Dayton 4,COUNTY ASSESSOR,"OW-WING, ERIC",94
@@ -2132,7 +2132,7 @@ South Dayton 4,U.S. Senate,"Reeves, Jeffrey C.",0
 South Dayton 4,U.S. Senate,"REID, HARRY",111
 South Dayton 4,U.S. Senate,"Stand, Wil",4
 Spragg-Plummer,Attorney General,"Barrick, Travis",278
-Spragg-Plummer,Attorney General,"CORTEZ  MASTO, CATHERINE",214
+Spragg-Plummer,Attorney General,"CORTEZ MASTO, CATHERINE",214
 Spragg-Plummer,Attorney General,"Hansen, Joel F.",57
 Spragg-Plummer,Attorney General,None Of These Candidates,25
 Spragg-Plummer,COUNTY ASSESSOR,"OW-WING, ERIC",225
@@ -2191,7 +2191,7 @@ Spragg-Plummer,U.S. Senate,"Reeves, Jeffrey C.",0
 Spragg-Plummer,U.S. Senate,"REID, HARRY",131
 Spragg-Plummer,U.S. Senate,"Stand, Wil",2
 Stagecoach 1,Attorney General,"Barrick, Travis",320
-Stagecoach 1,Attorney General,"CORTEZ  MASTO, CATHERINE",272
+Stagecoach 1,Attorney General,"CORTEZ MASTO, CATHERINE",272
 Stagecoach 1,Attorney General,"Hansen, Joel F.",78
 Stagecoach 1,Attorney General,None Of These Candidates,20
 Stagecoach 1,COUNTY ASSESSOR,"OW-WING, ERIC",169
@@ -2255,7 +2255,7 @@ Stagecoach 1,U.S. Senate,"Reeves, Jeffrey C.",5
 Stagecoach 1,U.S. Senate,"REID, HARRY",229
 Stagecoach 1,U.S. Senate,"Stand, Wil",6
 Stagecoach 2,Attorney General,"Barrick, Travis",106
-Stagecoach 2,Attorney General,"CORTEZ  MASTO, CATHERINE",110
+Stagecoach 2,Attorney General,"CORTEZ MASTO, CATHERINE",110
 Stagecoach 2,Attorney General,"Hansen, Joel F.",13
 Stagecoach 2,Attorney General,None Of These Candidates,6
 Stagecoach 2,COUNTY ASSESSOR,"OW-WING, ERIC",79
@@ -2319,7 +2319,7 @@ Stagecoach 2,U.S. Senate,"Reeves, Jeffrey C.",2
 Stagecoach 2,U.S. Senate,"REID, HARRY",76
 Stagecoach 2,U.S. Senate,"Stand, Wil",0
 West Mason Valley 1,Attorney General,"Barrick, Travis",226
-West Mason Valley 1,Attorney General,"CORTEZ  MASTO, CATHERINE",255
+West Mason Valley 1,Attorney General,"CORTEZ MASTO, CATHERINE",255
 West Mason Valley 1,Attorney General,"Hansen, Joel F.",58
 West Mason Valley 1,Attorney General,None Of These Candidates,18
 West Mason Valley 1,COUNTY ASSESSOR,"OW-WING, ERIC",286
@@ -2393,7 +2393,7 @@ West Mason Valley 2,U.S. Senate,"Reeves, Jeffrey C.",2
 West Mason Valley 2,U.S. Senate,"REID, HARRY",104
 West Mason Valley 2,U.S. Senate,"Stand, Wil",2
 West Mason Valley 3,Attorney General,"Barrick, Travis",172
-West Mason Valley 3,Attorney General,"CORTEZ  MASTO, CATHERINE",182
+West Mason Valley 3,Attorney General,"CORTEZ MASTO, CATHERINE",182
 West Mason Valley 3,Attorney General,"Hansen, Joel F.",38
 West Mason Valley 3,Attorney General,None Of These Candidates,17
 West Mason Valley 3,COUNTY ASSESSOR,"OW-WING, ERIC",166

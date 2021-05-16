@@ -1,8 +1,8 @@
 precinct,office,candidate,votes
-PRECINCT 1,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",18
-PRECINCT 1,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",57
-PRECINCT 1,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",42
-PRECINCT 1,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",19
+PRECINCT 1,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",18
+PRECINCT 1,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",57
+PRECINCT 1,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",42
+PRECINCT 1,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",19
 PRECINCT 1,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",104
 PRECINCT 1,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",98
 PRECINCT 1,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",101
@@ -29,13 +29,13 @@ PRECINCT 1,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
 PRECINCT 1,U.S. Senate (Republican),"Heller, Dean",64
 PRECINCT 1,U.S. Senate (Republican),None Of These Candidates,4
 PRECINCT 1,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 1,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",62
-PRECINCT 1,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",29
-PRECINCT 1,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",18
-PRECINCT 10,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
-PRECINCT 10,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
-PRECINCT 10,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
-PRECINCT 10,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
+PRECINCT 1,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",62
+PRECINCT 1,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",29
+PRECINCT 1,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",18
+PRECINCT 10,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
+PRECINCT 10,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
+PRECINCT 10,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
+PRECINCT 10,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
 PRECINCT 10,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",0
 PRECINCT 10,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",0
 PRECINCT 10,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
@@ -62,13 +62,13 @@ PRECINCT 10,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 10,U.S. Senate (Republican),"Heller, Dean",0
 PRECINCT 10,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 10,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 10,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
-PRECINCT 10,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",0
-PRECINCT 10,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
-PRECINCT 11,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
-PRECINCT 11,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
-PRECINCT 11,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
-PRECINCT 11,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
+PRECINCT 10,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",0
+PRECINCT 10,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",0
+PRECINCT 10,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
+PRECINCT 11,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
+PRECINCT 11,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
+PRECINCT 11,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
+PRECINCT 11,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
 PRECINCT 11,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",
 PRECINCT 11,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",
 PRECINCT 11,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
@@ -95,13 +95,13 @@ PRECINCT 11,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
 PRECINCT 11,U.S. Senate (Republican),"Heller, Dean",
 PRECINCT 11,U.S. Senate (Republican),None Of These Candidates,
 PRECINCT 11,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
-PRECINCT 11,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
-PRECINCT 11,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",
-PRECINCT 11,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
-PRECINCT 12,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
-PRECINCT 12,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
-PRECINCT 12,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
-PRECINCT 12,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
+PRECINCT 11,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",
+PRECINCT 11,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",
+PRECINCT 11,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
+PRECINCT 12,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
+PRECINCT 12,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
+PRECINCT 12,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
+PRECINCT 12,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
 PRECINCT 12,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",
 PRECINCT 12,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",
 PRECINCT 12,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
@@ -128,13 +128,13 @@ PRECINCT 12,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
 PRECINCT 12,U.S. Senate (Republican),"Heller, Dean",
 PRECINCT 12,U.S. Senate (Republican),None Of These Candidates,
 PRECINCT 12,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
-PRECINCT 12,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
-PRECINCT 12,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",
-PRECINCT 12,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
-PRECINCT 13,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
-PRECINCT 13,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
-PRECINCT 13,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
-PRECINCT 13,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
+PRECINCT 12,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",
+PRECINCT 12,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",
+PRECINCT 12,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
+PRECINCT 13,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
+PRECINCT 13,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
+PRECINCT 13,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
+PRECINCT 13,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
 PRECINCT 13,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",0
 PRECINCT 13,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",0
 PRECINCT 13,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
@@ -161,13 +161,13 @@ PRECINCT 13,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 13,U.S. Senate (Republican),"Heller, Dean",0
 PRECINCT 13,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 13,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 13,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
-PRECINCT 13,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",0
-PRECINCT 13,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
-PRECINCT 14,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
-PRECINCT 14,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
-PRECINCT 14,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
-PRECINCT 14,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
+PRECINCT 13,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",0
+PRECINCT 13,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",0
+PRECINCT 13,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
+PRECINCT 14,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
+PRECINCT 14,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
+PRECINCT 14,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
+PRECINCT 14,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
 PRECINCT 14,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",0
 PRECINCT 14,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",0
 PRECINCT 14,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
@@ -194,13 +194,13 @@ PRECINCT 14,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 14,U.S. Senate (Republican),"Heller, Dean",0
 PRECINCT 14,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 14,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 14,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
-PRECINCT 14,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",0
-PRECINCT 14,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
-PRECINCT 15,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",3
-PRECINCT 15,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",3
-PRECINCT 15,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",8
-PRECINCT 15,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",4
+PRECINCT 14,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",0
+PRECINCT 14,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",0
+PRECINCT 14,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
+PRECINCT 15,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",3
+PRECINCT 15,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",3
+PRECINCT 15,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",8
+PRECINCT 15,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",4
 PRECINCT 15,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",17
 PRECINCT 15,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",17
 PRECINCT 15,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",17
@@ -227,13 +227,13 @@ PRECINCT 15,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 15,U.S. Senate (Republican),"Heller, Dean",9
 PRECINCT 15,U.S. Senate (Republican),None Of These Candidates,1
 PRECINCT 15,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 15,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",3
-PRECINCT 15,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",8
-PRECINCT 15,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",5
-PRECINCT 2,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",25
-PRECINCT 2,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",62
-PRECINCT 2,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",56
-PRECINCT 2,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",18
+PRECINCT 15,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",3
+PRECINCT 15,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",8
+PRECINCT 15,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",5
+PRECINCT 2,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",25
+PRECINCT 2,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",62
+PRECINCT 2,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",56
+PRECINCT 2,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",18
 PRECINCT 2,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",127
 PRECINCT 2,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",125
 PRECINCT 2,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",132
@@ -260,13 +260,13 @@ PRECINCT 2,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",1
 PRECINCT 2,U.S. Senate (Republican),"Heller, Dean",65
 PRECINCT 2,U.S. Senate (Republican),None Of These Candidates,11
 PRECINCT 2,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 2,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",67
-PRECINCT 2,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",45
-PRECINCT 2,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",24
-PRECINCT 3,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
-PRECINCT 3,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
-PRECINCT 3,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
-PRECINCT 3,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
+PRECINCT 2,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",67
+PRECINCT 2,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",45
+PRECINCT 2,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",24
+PRECINCT 3,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
+PRECINCT 3,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
+PRECINCT 3,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
+PRECINCT 3,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
 PRECINCT 3,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",
 PRECINCT 3,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",
 PRECINCT 3,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
@@ -293,13 +293,13 @@ PRECINCT 3,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
 PRECINCT 3,U.S. Senate (Republican),"Heller, Dean",
 PRECINCT 3,U.S. Senate (Republican),None Of These Candidates,
 PRECINCT 3,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
-PRECINCT 3,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
-PRECINCT 3,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",
-PRECINCT 3,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
-PRECINCT 4,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",16
-PRECINCT 4,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",33
-PRECINCT 4,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",28
-PRECINCT 4,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",50
+PRECINCT 3,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",
+PRECINCT 3,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",
+PRECINCT 3,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
+PRECINCT 4,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",16
+PRECINCT 4,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",33
+PRECINCT 4,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",28
+PRECINCT 4,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",50
 PRECINCT 4,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",110
 PRECINCT 4,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",107
 PRECINCT 4,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",107
@@ -326,13 +326,13 @@ PRECINCT 4,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
 PRECINCT 4,U.S. Senate (Republican),"Heller, Dean",60
 PRECINCT 4,U.S. Senate (Republican),None Of These Candidates,2
 PRECINCT 4,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 4,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",74
-PRECINCT 4,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",19
-PRECINCT 4,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",26
-PRECINCT 5,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",20
-PRECINCT 5,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",89
-PRECINCT 5,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",116
-PRECINCT 5,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",47
+PRECINCT 4,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",74
+PRECINCT 4,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",19
+PRECINCT 4,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",26
+PRECINCT 5,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",20
+PRECINCT 5,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",89
+PRECINCT 5,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",116
+PRECINCT 5,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",47
 PRECINCT 5,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",197
 PRECINCT 5,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",198
 PRECINCT 5,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",204
@@ -359,13 +359,13 @@ PRECINCT 5,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",4
 PRECINCT 5,U.S. Senate (Republican),"Heller, Dean",169
 PRECINCT 5,U.S. Senate (Republican),None Of These Candidates,6
 PRECINCT 5,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
-PRECINCT 5,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",114
-PRECINCT 5,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",55
-PRECINCT 5,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",48
-PRECINCT 6,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",13
-PRECINCT 6,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",94
-PRECINCT 6,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",40
-PRECINCT 6,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",37
+PRECINCT 5,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",114
+PRECINCT 5,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",55
+PRECINCT 5,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",48
+PRECINCT 6,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",13
+PRECINCT 6,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",94
+PRECINCT 6,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",40
+PRECINCT 6,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",37
 PRECINCT 6,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",155
 PRECINCT 6,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",155
 PRECINCT 6,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",161
@@ -392,13 +392,13 @@ PRECINCT 6,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",2
 PRECINCT 6,U.S. Senate (Republican),"Heller, Dean",76
 PRECINCT 6,U.S. Senate (Republican),None Of These Candidates,1
 PRECINCT 6,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",1
-PRECINCT 6,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",72
-PRECINCT 6,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",56
-PRECINCT 6,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",31
-PRECINCT 7,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
-PRECINCT 7,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
-PRECINCT 7,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
-PRECINCT 7,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
+PRECINCT 6,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",72
+PRECINCT 6,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",56
+PRECINCT 6,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",31
+PRECINCT 7,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
+PRECINCT 7,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
+PRECINCT 7,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
+PRECINCT 7,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
 PRECINCT 7,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",0
 PRECINCT 7,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",0
 PRECINCT 7,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
@@ -425,13 +425,13 @@ PRECINCT 7,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 7,U.S. Senate (Republican),"Heller, Dean",0
 PRECINCT 7,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 7,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 7,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
-PRECINCT 7,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",0
-PRECINCT 7,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
-PRECINCT 8,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
-PRECINCT 8,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
-PRECINCT 8,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
-PRECINCT 8,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
+PRECINCT 7,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",0
+PRECINCT 7,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",0
+PRECINCT 7,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
+PRECINCT 8,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",
+PRECINCT 8,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",
+PRECINCT 8,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",
+PRECINCT 8,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",
 PRECINCT 8,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",
 PRECINCT 8,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",
 PRECINCT 8,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",
@@ -458,13 +458,13 @@ PRECINCT 8,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",
 PRECINCT 8,U.S. Senate (Republican),"Heller, Dean",
 PRECINCT 8,U.S. Senate (Republican),None Of These Candidates,
 PRECINCT 8,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",
-PRECINCT 8,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",
-PRECINCT 8,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",
-PRECINCT 8,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
-PRECINCT 9,Justice of the Peace -  STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
-PRECINCT 9,Justice of the Peace -  STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
-PRECINCT 9,Justice of the Peace -  STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
-PRECINCT 9,Justice of the Peace -  STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
+PRECINCT 8,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",
+PRECINCT 8,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",
+PRECINCT 8,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",
+PRECINCT 9,Justice of the Peace - STOREY - NP (Nonpartisan),"DUFRESNE, MARIE",0
+PRECINCT 9,Justice of the Peace - STOREY - NP (Nonpartisan),"HERRINGTON, EILEEN F.",0
+PRECINCT 9,Justice of the Peace - STOREY - NP (Nonpartisan),"MCGUFFEY, JACKIE JACK R. ""JACK""",0
+PRECINCT 9,Justice of the Peace - STOREY - NP (Nonpartisan),"REDICAN, THOMAS ""TOM""",0
 PRECINCT 9,School Board Trustee Seat 1A (Nonpartisan),"JAMES, CATHYLEE",0
 PRECINCT 9,School Board Trustee Seat 1B (Nonpartisan),"CONLEY, COLLEEN",0
 PRECINCT 9,School Board Trustee Seat 1C (Nonpartisan),"MILLER, CHRISTINE",0
@@ -491,9 +491,9 @@ PRECINCT 9,U.S. Senate (Republican),"HAMILTON, EDDIE ""IN LIBERTY""",0
 PRECINCT 9,U.S. Senate (Republican),"Heller, Dean",0
 PRECINCT 9,U.S. Senate (Republican),None Of These Candidates,0
 PRECINCT 9,U.S. Senate (Republican),"Poliak, Carlo ""Nakusa""",0
-PRECINCT 9,"University Board of Regents, District  9 (Nonpartisan)","KNECHT, RON",0
-PRECINCT 9,"University Board of Regents, District  9 (Nonpartisan)","Mackedon, Michon",0
-PRECINCT 9,"University Board of Regents, District  9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
+PRECINCT 9,"University Board of Regents, District 9 (Nonpartisan)","KNECHT, RON",0
+PRECINCT 9,"University Board of Regents, District 9 (Nonpartisan)","Mackedon, Michon",0
+PRECINCT 9,"University Board of Regents, District 9 (Nonpartisan)","Riendeau, Richard ""Old Rick""",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","Dehne, Sam",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","Koepnick, Samuel",0
 PRECINCT 99,"U.S. Representative in Congress, District 2 (Democratic)","Rodriguez, Xiomara ""Xio""",0

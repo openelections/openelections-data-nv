@@ -1,6 +1,6 @@
 precinct,office,candidate,votes
 Precinct 1,Attorney General,"CHAIREZ, DON",94
-Precinct 1,Attorney General,"CORTEZ  MASTO, CATHERINE",72
+Precinct 1,Attorney General,"CORTEZ MASTO, CATHERINE",72
 Precinct 1,Attorney General,None Of These Candidates,23
 Precinct 1,Auditor/Recorder,"SCOTT, KAREN",160
 Precinct 1,COUNTY ASSESSOR,"LEE, RUTH P.",170
@@ -54,7 +54,7 @@ Precinct 1,U.S. Senate,None Of These Candidates,10
 Precinct 1,U.S. Senate,"SCHUMANN, DAVID K.",8
 Precinct 1,U.S. Senate,"TRAINOR, BRENDAN",3
 Precinct 2,Attorney General,"CHAIREZ, DON",32
-Precinct 2,Attorney General,"CORTEZ  MASTO, CATHERINE",9
+Precinct 2,Attorney General,"CORTEZ MASTO, CATHERINE",9
 Precinct 2,Attorney General,None Of These Candidates,12
 Precinct 2,Auditor/Recorder,"SCOTT, KAREN",41
 Precinct 2,COUNTY ASSESSOR,"LEE, RUTH P.",47
@@ -106,7 +106,7 @@ Precinct 2,U.S. Senate,None Of These Candidates,5
 Precinct 2,U.S. Senate,"SCHUMANN, DAVID K.",3
 Precinct 2,U.S. Senate,"TRAINOR, BRENDAN",2
 Precinct 3,Attorney General,"CHAIREZ, DON",84
-Precinct 3,Attorney General,"CORTEZ  MASTO, CATHERINE",64
+Precinct 3,Attorney General,"CORTEZ MASTO, CATHERINE",64
 Precinct 3,Attorney General,None Of These Candidates,12
 Precinct 3,Auditor/Recorder,"SCOTT, KAREN",135
 Precinct 3,COUNTY ASSESSOR,"LEE, RUTH P.",150
@@ -158,7 +158,7 @@ Precinct 3,U.S. Senate,None Of These Candidates,9
 Precinct 3,U.S. Senate,"SCHUMANN, DAVID K.",6
 Precinct 3,U.S. Senate,"TRAINOR, BRENDAN",4
 Precinct 4,Attorney General,"CHAIREZ, DON",13
-Precinct 4,Attorney General,"CORTEZ  MASTO, CATHERINE",5
+Precinct 4,Attorney General,"CORTEZ MASTO, CATHERINE",5
 Precinct 4,Attorney General,None Of These Candidates,5
 Precinct 4,Auditor/Recorder,"SCOTT, KAREN",15
 Precinct 4,COUNTY ASSESSOR,"LEE, RUTH P.",23
@@ -210,7 +210,7 @@ Precinct 4,U.S. Senate,None Of These Candidates,2
 Precinct 4,U.S. Senate,"SCHUMANN, DAVID K.",0
 Precinct 4,U.S. Senate,"TRAINOR, BRENDAN",0
 Precinct 5,Attorney General,"CHAIREZ, DON",0
-Precinct 5,Attorney General,"CORTEZ  MASTO, CATHERINE",0
+Precinct 5,Attorney General,"CORTEZ MASTO, CATHERINE",0
 Precinct 5,Attorney General,None Of These Candidates,0
 Precinct 5,Auditor/Recorder,"SCOTT, KAREN",0
 Precinct 5,COUNTY ASSESSOR,"LEE, RUTH P.",0

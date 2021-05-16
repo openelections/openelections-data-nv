@@ -16,7 +16,7 @@ AMARGOSA VLY 06,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON
 AMARGOSA VLY 06,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",11
 AMARGOSA VLY 06,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",11
 AMARGOSA VLY 06,District Attorney (Democratic),"KUNZI, BRIAN T.",22
-AMARGOSA VLY 06,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",112
+AMARGOSA VLY 06,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",112
 AMARGOSA VLY 06,Governor (Democratic),"Chang, Charles ""Charlie""",2
 AMARGOSA VLY 06,Governor (Democratic),"Conquest, Frederick L.",0
 AMARGOSA VLY 06,Governor (Democratic),"Frye, Stephen H.",4
@@ -70,7 +70,7 @@ BEATTY 01,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",70
 BEATTY 01,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",63
 BEATTY 01,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",14
 BEATTY 01,District Attorney (Democratic),"KUNZI, BRIAN T.",46
-BEATTY 01,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",182
+BEATTY 01,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",182
 BEATTY 01,Governor (Democratic),"Chang, Charles ""Charlie""",3
 BEATTY 01,Governor (Democratic),"Conquest, Frederick L.",5
 BEATTY 01,Governor (Democratic),"Frye, Stephen H.",3
@@ -124,7 +124,7 @@ CURRANT 02,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",4
 CURRANT 02,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",7
 CURRANT 02,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",2
 CURRANT 02,District Attorney (Democratic),"KUNZI, BRIAN T.",3
-CURRANT 02,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",20
+CURRANT 02,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",20
 CURRANT 02,Governor (Democratic),"Chang, Charles ""Charlie""",0
 CURRANT 02,Governor (Democratic),"Conquest, Frederick L.",0
 CURRANT 02,Governor (Democratic),"Frye, Stephen H.",0
@@ -178,7 +178,7 @@ DUCKWATER 03,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",8
 DUCKWATER 03,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",5
 DUCKWATER 03,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",5
 DUCKWATER 03,District Attorney (Democratic),"KUNZI, BRIAN T.",9
-DUCKWATER 03,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",24
+DUCKWATER 03,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",24
 DUCKWATER 03,Governor (Democratic),"Chang, Charles ""Charlie""",2
 DUCKWATER 03,Governor (Democratic),"Conquest, Frederick L.",0
 DUCKWATER 03,Governor (Democratic),"Frye, Stephen H.",0
@@ -232,7 +232,7 @@ FORTY BAR 18,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",9
 FORTY BAR 18,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",3
 FORTY BAR 18,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",7
 FORTY BAR 18,District Attorney (Democratic),"KUNZI, BRIAN T.",4
-FORTY BAR 18,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",26
+FORTY BAR 18,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",26
 FORTY BAR 18,Governor (Democratic),"Chang, Charles ""Charlie""",0
 FORTY BAR 18,Governor (Democratic),"Conquest, Frederick L.",0
 FORTY BAR 18,Governor (Democratic),"Frye, Stephen H.",1
@@ -286,7 +286,7 @@ GABBS 04,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",5
 GABBS 04,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",11
 GABBS 04,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",6
 GABBS 04,District Attorney (Democratic),"KUNZI, BRIAN T.",16
-GABBS 04,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",69
+GABBS 04,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",69
 GABBS 04,Governor (Democratic),"Chang, Charles ""Charlie""",3
 GABBS 04,Governor (Democratic),"Conquest, Frederick L.",0
 GABBS 04,Governor (Democratic),"Frye, Stephen H.",1
@@ -342,7 +342,7 @@ IONE 05,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",0
 IONE 05,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",0
 IONE 05,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",0
 IONE 05,District Attorney (Democratic),"KUNZI, BRIAN T.",2
-IONE 05,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",2
+IONE 05,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",2
 IONE 05,Governor (Democratic),"Chang, Charles ""Charlie""",0
 IONE 05,Governor (Democratic),"Conquest, Frederick L.",0
 IONE 05,Governor (Democratic),"Frye, Stephen H.",0
@@ -398,7 +398,7 @@ MANHATTAN 07,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",4
 MANHATTAN 07,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",18
 MANHATTAN 07,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",0
 MANHATTAN 07,District Attorney (Democratic),"KUNZI, BRIAN T.",4
-MANHATTAN 07,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",33
+MANHATTAN 07,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",33
 MANHATTAN 07,Governor (Democratic),"Chang, Charles ""Charlie""",0
 MANHATTAN 07,Governor (Democratic),"Conquest, Frederick L.",0
 MANHATTAN 07,Governor (Democratic),"Frye, Stephen H.",0
@@ -452,7 +452,7 @@ MERCURY 08,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",0
 MERCURY 08,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",0
 MERCURY 08,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",0
 MERCURY 08,District Attorney (Democratic),"KUNZI, BRIAN T.",1
-MERCURY 08,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",2
+MERCURY 08,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",2
 MERCURY 08,Governor (Democratic),"Chang, Charles ""Charlie""",0
 MERCURY 08,Governor (Democratic),"Conquest, Frederick L.",0
 MERCURY 08,Governor (Democratic),"Frye, Stephen H.",0
@@ -506,7 +506,7 @@ PAHRUMP 09,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",135
 PAHRUMP 09,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",13
 PAHRUMP 09,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",40
 PAHRUMP 09,District Attorney (Democratic),"KUNZI, BRIAN T.",74
-PAHRUMP 09,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",402
+PAHRUMP 09,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",402
 PAHRUMP 09,Governor (Democratic),"Chang, Charles ""Charlie""",5
 PAHRUMP 09,Governor (Democratic),"Conquest, Frederick L.",0
 PAHRUMP 09,Governor (Democratic),"Frye, Stephen H.",6
@@ -563,7 +563,7 @@ PAHRUMP 10,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",53
 PAHRUMP 10,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",7
 PAHRUMP 10,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",16
 PAHRUMP 10,District Attorney (Democratic),"KUNZI, BRIAN T.",44
-PAHRUMP 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",170
+PAHRUMP 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",170
 PAHRUMP 10,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PAHRUMP 10,Governor (Democratic),"Conquest, Frederick L.",2
 PAHRUMP 10,Governor (Democratic),"Frye, Stephen H.",9
@@ -624,7 +624,7 @@ PAHRUMP 11,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",65
 PAHRUMP 11,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",7
 PAHRUMP 11,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",27
 PAHRUMP 11,District Attorney (Democratic),"KUNZI, BRIAN T.",57
-PAHRUMP 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",251
+PAHRUMP 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",251
 PAHRUMP 11,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PAHRUMP 11,Governor (Democratic),"Conquest, Frederick L.",4
 PAHRUMP 11,Governor (Democratic),"Frye, Stephen H.",6
@@ -682,7 +682,7 @@ PAHRUMP 16,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",88
 PAHRUMP 16,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",2
 PAHRUMP 16,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",19
 PAHRUMP 16,District Attorney (Democratic),"KUNZI, BRIAN T.",66
-PAHRUMP 16,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",253
+PAHRUMP 16,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",253
 PAHRUMP 16,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PAHRUMP 16,Governor (Democratic),"Conquest, Frederick L.",1
 PAHRUMP 16,Governor (Democratic),"Frye, Stephen H.",9
@@ -744,7 +744,7 @@ PAHRUMP 17,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",77
 PAHRUMP 17,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",13
 PAHRUMP 17,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",14
 PAHRUMP 17,District Attorney (Democratic),"KUNZI, BRIAN T.",74
-PAHRUMP 17,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",267
+PAHRUMP 17,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",267
 PAHRUMP 17,Governor (Democratic),"Chang, Charles ""Charlie""",6
 PAHRUMP 17,Governor (Democratic),"Conquest, Frederick L.",3
 PAHRUMP 17,Governor (Democratic),"Frye, Stephen H.",11
@@ -806,7 +806,7 @@ PAHRUMP 19,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",114
 PAHRUMP 19,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",13
 PAHRUMP 19,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",30
 PAHRUMP 19,District Attorney (Democratic),"KUNZI, BRIAN T.",92
-PAHRUMP 19,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",477
+PAHRUMP 19,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",477
 PAHRUMP 19,Governor (Democratic),"Chang, Charles ""Charlie""",7
 PAHRUMP 19,Governor (Democratic),"Conquest, Frederick L.",3
 PAHRUMP 19,Governor (Democratic),"Frye, Stephen H.",8
@@ -867,7 +867,7 @@ PAHRUMP 20,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",31
 PAHRUMP 20,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",2
 PAHRUMP 20,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",19
 PAHRUMP 20,District Attorney (Democratic),"KUNZI, BRIAN T.",14
-PAHRUMP 20,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",134
+PAHRUMP 20,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",134
 PAHRUMP 20,Governor (Democratic),"Chang, Charles ""Charlie""",5
 PAHRUMP 20,Governor (Democratic),"Conquest, Frederick L.",0
 PAHRUMP 20,Governor (Democratic),"Frye, Stephen H.",2
@@ -925,7 +925,7 @@ PAHRUMP 21,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",79
 PAHRUMP 21,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",20
 PAHRUMP 21,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",43
 PAHRUMP 21,District Attorney (Democratic),"KUNZI, BRIAN T.",68
-PAHRUMP 21,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",316
+PAHRUMP 21,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",316
 PAHRUMP 21,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PAHRUMP 21,Governor (Democratic),"Conquest, Frederick L.",2
 PAHRUMP 21,Governor (Democratic),"Frye, Stephen H.",8
@@ -986,7 +986,7 @@ PAHRUMP 22,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",51
 PAHRUMP 22,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",11
 PAHRUMP 22,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",23
 PAHRUMP 22,District Attorney (Democratic),"KUNZI, BRIAN T.",41
-PAHRUMP 22,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",174
+PAHRUMP 22,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",174
 PAHRUMP 22,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PAHRUMP 22,Governor (Democratic),"Conquest, Frederick L.",0
 PAHRUMP 22,Governor (Democratic),"Frye, Stephen H.",6
@@ -1044,7 +1044,7 @@ PAHRUMP 23,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",36
 PAHRUMP 23,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",7
 PAHRUMP 23,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",13
 PAHRUMP 23,District Attorney (Democratic),"KUNZI, BRIAN T.",22
-PAHRUMP 23,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",123
+PAHRUMP 23,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",123
 PAHRUMP 23,Governor (Democratic),"Chang, Charles ""Charlie""",0
 PAHRUMP 23,Governor (Democratic),"Conquest, Frederick L.",0
 PAHRUMP 23,Governor (Democratic),"Frye, Stephen H.",3
@@ -1105,7 +1105,7 @@ PAHRUMP 24,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",62
 PAHRUMP 24,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",9
 PAHRUMP 24,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",25
 PAHRUMP 24,District Attorney (Democratic),"KUNZI, BRIAN T.",40
-PAHRUMP 24,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",218
+PAHRUMP 24,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",218
 PAHRUMP 24,Governor (Democratic),"Chang, Charles ""Charlie""",5
 PAHRUMP 24,Governor (Democratic),"Conquest, Frederick L.",4
 PAHRUMP 24,Governor (Democratic),"Frye, Stephen H.",4
@@ -1163,7 +1163,7 @@ PAHRUMP 25,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",40
 PAHRUMP 25,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",1
 PAHRUMP 25,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",12
 PAHRUMP 25,District Attorney (Democratic),"KUNZI, BRIAN T.",21
-PAHRUMP 25,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",130
+PAHRUMP 25,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",130
 PAHRUMP 25,Governor (Democratic),"Chang, Charles ""Charlie""",4
 PAHRUMP 25,Governor (Democratic),"Conquest, Frederick L.",0
 PAHRUMP 25,Governor (Democratic),"Frye, Stephen H.",2
@@ -1220,7 +1220,7 @@ PAHRUMP 26,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",46
 PAHRUMP 26,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",4
 PAHRUMP 26,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",12
 PAHRUMP 26,District Attorney (Democratic),"KUNZI, BRIAN T.",42
-PAHRUMP 26,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",178
+PAHRUMP 26,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",178
 PAHRUMP 26,Governor (Democratic),"Chang, Charles ""Charlie""",1
 PAHRUMP 26,Governor (Democratic),"Conquest, Frederick L.",2
 PAHRUMP 26,Governor (Democratic),"Frye, Stephen H.",5
@@ -1277,7 +1277,7 @@ PAHRUMP 27,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",72
 PAHRUMP 27,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",12
 PAHRUMP 27,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",27
 PAHRUMP 27,District Attorney (Democratic),"KUNZI, BRIAN T.",59
-PAHRUMP 27,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",278
+PAHRUMP 27,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",278
 PAHRUMP 27,Governor (Democratic),"Chang, Charles ""Charlie""",4
 PAHRUMP 27,Governor (Democratic),"Conquest, Frederick L.",2
 PAHRUMP 27,Governor (Democratic),"Frye, Stephen H.",7
@@ -1339,7 +1339,7 @@ PAHRUMP 28,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",102
 PAHRUMP 28,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",10
 PAHRUMP 28,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",32
 PAHRUMP 28,District Attorney (Democratic),"KUNZI, BRIAN T.",67
-PAHRUMP 28,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",388
+PAHRUMP 28,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",388
 PAHRUMP 28,Governor (Democratic),"Chang, Charles ""Charlie""",3
 PAHRUMP 28,Governor (Democratic),"Conquest, Frederick L.",1
 PAHRUMP 28,Governor (Democratic),"Frye, Stephen H.",4
@@ -1396,7 +1396,7 @@ PAHRUMP 29,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",79
 PAHRUMP 29,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",8
 PAHRUMP 29,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",23
 PAHRUMP 29,District Attorney (Democratic),"KUNZI, BRIAN T.",57
-PAHRUMP 29,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",284
+PAHRUMP 29,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",284
 PAHRUMP 29,Governor (Democratic),"Chang, Charles ""Charlie""",7
 PAHRUMP 29,Governor (Democratic),"Conquest, Frederick L.",5
 PAHRUMP 29,Governor (Democratic),"Frye, Stephen H.",10
@@ -1457,7 +1457,7 @@ PAHRUMP 30,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",87
 PAHRUMP 30,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",8
 PAHRUMP 30,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",32
 PAHRUMP 30,District Attorney (Democratic),"KUNZI, BRIAN T.",53
-PAHRUMP 30,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",319
+PAHRUMP 30,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",319
 PAHRUMP 30,Governor (Democratic),"Chang, Charles ""Charlie""",2
 PAHRUMP 30,Governor (Democratic),"Conquest, Frederick L.",0
 PAHRUMP 30,Governor (Democratic),"Frye, Stephen H.",6
@@ -1518,7 +1518,7 @@ PAHRUMP 31,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",92
 PAHRUMP 31,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",16
 PAHRUMP 31,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",34
 PAHRUMP 31,District Attorney (Democratic),"KUNZI, BRIAN T.",80
-PAHRUMP 31,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",383
+PAHRUMP 31,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",383
 PAHRUMP 31,Governor (Democratic),"Chang, Charles ""Charlie""",9
 PAHRUMP 31,Governor (Democratic),"Conquest, Frederick L.",6
 PAHRUMP 31,Governor (Democratic),"Frye, Stephen H.",3
@@ -1575,7 +1575,7 @@ PAHRUMP 32,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",134
 PAHRUMP 32,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",12
 PAHRUMP 32,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",45
 PAHRUMP 32,District Attorney (Democratic),"KUNZI, BRIAN T.",88
-PAHRUMP 32,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",402
+PAHRUMP 32,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",402
 PAHRUMP 32,Governor (Democratic),"Chang, Charles ""Charlie""",5
 PAHRUMP 32,Governor (Democratic),"Conquest, Frederick L.",6
 PAHRUMP 32,Governor (Democratic),"Frye, Stephen H.",6
@@ -1639,7 +1639,7 @@ ROUND MTN 12,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",1
 ROUND MTN 12,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",17
 ROUND MTN 12,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",4
 ROUND MTN 12,District Attorney (Democratic),"KUNZI, BRIAN T.",4
-ROUND MTN 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",50
+ROUND MTN 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",50
 ROUND MTN 12,Governor (Democratic),"Chang, Charles ""Charlie""",0
 ROUND MTN 12,Governor (Democratic),"Conquest, Frederick L.",0
 ROUND MTN 12,Governor (Democratic),"Frye, Stephen H.",1
@@ -1693,7 +1693,7 @@ SMOKY VALLEY 35,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON
 SMOKY VALLEY 35,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",45
 SMOKY VALLEY 35,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",2
 SMOKY VALLEY 35,District Attorney (Democratic),"KUNZI, BRIAN T.",11
-SMOKY VALLEY 35,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",102
+SMOKY VALLEY 35,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",102
 SMOKY VALLEY 35,Governor (Democratic),"Chang, Charles ""Charlie""",0
 SMOKY VALLEY 35,Governor (Democratic),"Conquest, Frederick L.",0
 SMOKY VALLEY 35,Governor (Democratic),"Frye, Stephen H.",3
@@ -1749,7 +1749,7 @@ SUNNYSIDE 13,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",1
 SUNNYSIDE 13,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",0
 SUNNYSIDE 13,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",0
 SUNNYSIDE 13,District Attorney (Democratic),"KUNZI, BRIAN T.",2
-SUNNYSIDE 13,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",6
+SUNNYSIDE 13,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",6
 SUNNYSIDE 13,Governor (Democratic),"Chang, Charles ""Charlie""",0
 SUNNYSIDE 13,Governor (Democratic),"Conquest, Frederick L.",0
 SUNNYSIDE 13,Governor (Democratic),"Frye, Stephen H.",0
@@ -1803,7 +1803,7 @@ TONOPAH 14,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",35
 TONOPAH 14,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",202
 TONOPAH 14,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",25
 TONOPAH 14,District Attorney (Democratic),"KUNZI, BRIAN T.",90
-TONOPAH 14,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",360
+TONOPAH 14,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",360
 TONOPAH 14,Governor (Democratic),"Chang, Charles ""Charlie""",4
 TONOPAH 14,Governor (Democratic),"Conquest, Frederick L.",3
 TONOPAH 14,Governor (Democratic),"Frye, Stephen H.",2
@@ -1859,7 +1859,7 @@ TONOPAH 15,County Sheriff - NYE - NonPartisan (Nonpartisan),"WEHRLY, SHARON",0
 TONOPAH 15,County Sheriff - NYE - NonPartisan (Nonpartisan),"ZANE, MARK A.",5
 TONOPAH 15,District Attorney (Democratic),"DEL VECCHIO, NICHOLAS ANTHONY",1
 TONOPAH 15,District Attorney (Democratic),"KUNZI, BRIAN T.",3
-TONOPAH 15,"District Court Judge, District 5, Department  1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",10
+TONOPAH 15,"District Court Judge, District 5, Department 1 (Nonpartisan)","WANKER, KIMBERLY A. ""KIM""",10
 TONOPAH 15,Governor (Democratic),"Chang, Charles ""Charlie""",0
 TONOPAH 15,Governor (Democratic),"Conquest, Frederick L.",0
 TONOPAH 15,Governor (Democratic),"Frye, Stephen H.",0

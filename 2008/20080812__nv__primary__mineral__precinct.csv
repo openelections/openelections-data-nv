@@ -1,10 +1,10 @@
 precinct,office,candidate,votes
 PRECINCT 1,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",53
 PRECINCT 1,County Comm. Seat B (Democratic),"BUNCH, GLENN",39
-PRECINCT 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",24
-PRECINCT 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",125
-PRECINCT 1,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",33
-PRECINCT 1,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",156
+PRECINCT 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",24
+PRECINCT 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",125
+PRECINCT 1,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",33
+PRECINCT 1,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",156
 PRECINCT 1,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",143
 PRECINCT 1,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",155
 PRECINCT 1,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",143
@@ -24,10 +24,10 @@ PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 1,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",8
 PRECINCT 10,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",0
 PRECINCT 10,County Comm. Seat B (Democratic),"BUNCH, GLENN",0
-PRECINCT 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",0
-PRECINCT 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",0
-PRECINCT 10,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",0
-PRECINCT 10,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",0
+PRECINCT 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",0
+PRECINCT 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",0
+PRECINCT 10,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",0
+PRECINCT 10,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",0
 PRECINCT 10,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",0
 PRECINCT 10,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",0
 PRECINCT 10,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",0
@@ -47,10 +47,10 @@ PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Heller, 
 PRECINCT 10,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",0
 PRECINCT 11,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",30
 PRECINCT 11,County Comm. Seat B (Democratic),"BUNCH, GLENN",13
-PRECINCT 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",13
-PRECINCT 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",39
-PRECINCT 11,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",7
-PRECINCT 11,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",51
+PRECINCT 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",13
+PRECINCT 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",39
+PRECINCT 11,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",7
+PRECINCT 11,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",51
 PRECINCT 11,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",40
 PRECINCT 11,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",45
 PRECINCT 11,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",35
@@ -70,10 +70,10 @@ PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Heller, 
 PRECINCT 11,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
 PRECINCT 12,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",10
 PRECINCT 12,County Comm. Seat B (Democratic),"BUNCH, GLENN",27
-PRECINCT 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",9
-PRECINCT 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",48
-PRECINCT 12,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",23
-PRECINCT 12,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",68
+PRECINCT 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",9
+PRECINCT 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",48
+PRECINCT 12,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",23
+PRECINCT 12,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",68
 PRECINCT 12,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",63
 PRECINCT 12,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",63
 PRECINCT 12,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",54
@@ -95,10 +95,10 @@ PRECINCT 12,Walker Lake Water District (Nonpartisan),"BERGMANS, ELBERT H.",70
 PRECINCT 12,Walker Lake Water District (Nonpartisan),"PORTER, GLADYS M.",52
 PRECINCT 2,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",42
 PRECINCT 2,County Comm. Seat B (Democratic),"BUNCH, GLENN",59
-PRECINCT 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",14
-PRECINCT 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",123
-PRECINCT 2,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",38
-PRECINCT 2,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",150
+PRECINCT 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",14
+PRECINCT 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",123
+PRECINCT 2,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",38
+PRECINCT 2,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",150
 PRECINCT 2,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",133
 PRECINCT 2,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",144
 PRECINCT 2,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",131
@@ -118,10 +118,10 @@ PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 2,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",6
 PRECINCT 3,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",19
 PRECINCT 3,County Comm. Seat B (Democratic),"BUNCH, GLENN",34
-PRECINCT 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",10
-PRECINCT 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",69
-PRECINCT 3,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",20
-PRECINCT 3,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",89
+PRECINCT 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",10
+PRECINCT 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",69
+PRECINCT 3,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",20
+PRECINCT 3,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",89
 PRECINCT 3,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",77
 PRECINCT 3,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",76
 PRECINCT 3,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",73
@@ -141,10 +141,10 @@ PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 3,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",1
 PRECINCT 4,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",27
 PRECINCT 4,County Comm. Seat B (Democratic),"BUNCH, GLENN",23
-PRECINCT 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",17
-PRECINCT 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",55
-PRECINCT 4,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",16
-PRECINCT 4,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",75
+PRECINCT 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",17
+PRECINCT 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",55
+PRECINCT 4,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",16
+PRECINCT 4,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",75
 PRECINCT 4,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",66
 PRECINCT 4,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",71
 PRECINCT 4,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",65
@@ -164,10 +164,10 @@ PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 4,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",4
 PRECINCT 5,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",42
 PRECINCT 5,County Comm. Seat B (Democratic),"BUNCH, GLENN",28
-PRECINCT 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",19
-PRECINCT 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",91
-PRECINCT 5,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",20
-PRECINCT 5,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",115
+PRECINCT 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",19
+PRECINCT 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",91
+PRECINCT 5,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",20
+PRECINCT 5,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",115
 PRECINCT 5,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",102
 PRECINCT 5,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",99
 PRECINCT 5,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",95
@@ -187,10 +187,10 @@ PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 5,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
 PRECINCT 6,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",44
 PRECINCT 6,County Comm. Seat B (Democratic),"BUNCH, GLENN",45
-PRECINCT 6,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",18
-PRECINCT 6,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",97
-PRECINCT 6,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",33
-PRECINCT 6,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",122
+PRECINCT 6,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",18
+PRECINCT 6,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",97
+PRECINCT 6,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",33
+PRECINCT 6,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",122
 PRECINCT 6,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",106
 PRECINCT 6,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",109
 PRECINCT 6,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",107
@@ -210,10 +210,10 @@ PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 6,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",7
 PRECINCT 7,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",
 PRECINCT 7,County Comm. Seat B (Democratic),"BUNCH, GLENN",
-PRECINCT 7,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",1
-PRECINCT 7,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",19
-PRECINCT 7,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",7
-PRECINCT 7,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",24
+PRECINCT 7,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",1
+PRECINCT 7,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",19
+PRECINCT 7,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",7
+PRECINCT 7,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",24
 PRECINCT 7,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",18
 PRECINCT 7,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",20
 PRECINCT 7,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",16
@@ -233,10 +233,10 @@ PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 7,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",4
 PRECINCT 8,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",
 PRECINCT 8,County Comm. Seat B (Democratic),"BUNCH, GLENN",
-PRECINCT 8,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",3
-PRECINCT 8,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",12
-PRECINCT 8,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",2
-PRECINCT 8,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",16
+PRECINCT 8,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",3
+PRECINCT 8,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",12
+PRECINCT 8,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",2
+PRECINCT 8,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",16
 PRECINCT 8,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",13
 PRECINCT 8,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",11
 PRECINCT 8,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",11
@@ -256,10 +256,10 @@ PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Heller, D
 PRECINCT 8,"U.S. Representative in Congress, District 2 (Republican)","Smack, James W.",
 PRECINCT 9,County Comm. Seat B (Democratic),"BRYANT, RICHARD D.",23
 PRECINCT 9,County Comm. Seat B (Democratic),"BUNCH, GLENN",10
-PRECINCT 9,"District Court Judge, District 5, Department  1 (Nonpartisan)","BECKETT, BOB",6
-PRECINCT 9,"District Court Judge, District 5, Department  1 (Nonpartisan)","DAVIS, JOHN P.",45
-PRECINCT 9,"District Court Judge, District 5, Department  1 (Nonpartisan)","ZLOTEK, MARLA",13
-PRECINCT 9,"District Court Judge, District 5, Department  2 (Nonpartisan)","LANE, ROBERT W.",51
+PRECINCT 9,"District Court Judge, District 5, Department 1 (Nonpartisan)","BECKETT, BOB",6
+PRECINCT 9,"District Court Judge, District 5, Department 1 (Nonpartisan)","DAVIS, JOHN P.",45
+PRECINCT 9,"District Court Judge, District 5, Department 1 (Nonpartisan)","ZLOTEK, MARLA",13
+PRECINCT 9,"District Court Judge, District 5, Department 2 (Nonpartisan)","LANE, ROBERT W.",51
 PRECINCT 9,Hospital Board Trustee 4 Yr Term (Nonpartisan),"FITZGERALD, TOM",39
 PRECINCT 9,Hospital Board Trustee 4 Yr Term (Nonpartisan),"GAZAWAY, JOAN E.",49
 PRECINCT 9,Hospital Board Trustee 4 Yr Term (Nonpartisan),"VADEN, DON R.",37

@@ -31,8 +31,8 @@ Argenta 01,U.S. Senate,None Of These Candidates,12
 Argenta 01,U.S. Senate,"REID, HARRY",185
 Argenta 01,U.S. Senate,"SCHUMANN, DAVID K.",5
 Argenta 01,U.S. Senate,"ZISER, RICHARD",162
-Argenta 01,"University Board of Regents, District  8","AIAZZI, STAN",124
-Argenta 01,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",211
+Argenta 01,"University Board of Regents, District 8","AIAZZI, STAN",124
+Argenta 01,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",211
 Argenta 02,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",242
 Argenta 02,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",146
 Argenta 02,President,"BADNARIK, MICHAEL",0
@@ -50,8 +50,8 @@ Argenta 02,"Supreme Court Justice, Seat A","HARDESTY, JIM",207
 Argenta 02,"Supreme Court Justice, Seat A",None Of These Candidates,67
 Argenta 02,"Supreme Court Justice, Seat A","STEEL, CYNTHIA ""DIANNE""",108
 Argenta 03,U.S. Senate,"ZISER, RICHARD",63
-Argenta 03,"University Board of Regents, District  8","AIAZZI, STAN",53
-Argenta 03,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",76
+Argenta 03,"University Board of Regents, District 8","AIAZZI, STAN",53
+Argenta 03,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",76
 Argenta 04,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",306
 Argenta 04,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",117
 Argenta 04,President,"BADNARIK, MICHAEL",0
@@ -85,8 +85,8 @@ Argenta 04,U.S. Senate,None Of These Candidates,13
 Argenta 04,U.S. Senate,"REID, HARRY",176
 Argenta 04,U.S. Senate,"SCHUMANN, DAVID K.",12
 Argenta 04,U.S. Senate,"ZISER, RICHARD",225
-Argenta 04,"University Board of Regents, District  8","AIAZZI, STAN",171
-Argenta 04,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",229
+Argenta 04,"University Board of Regents, District 8","AIAZZI, STAN",171
+Argenta 04,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",229
 Argenta 05,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",272
 Argenta 05,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",129
 Argenta 05,President,"BADNARIK, MICHAEL",1
@@ -120,8 +120,8 @@ Argenta 05,U.S. Senate,None Of These Candidates,13
 Argenta 05,U.S. Senate,"REID, HARRY",183
 Argenta 05,U.S. Senate,"SCHUMANN, DAVID K.",6
 Argenta 05,U.S. Senate,"ZISER, RICHARD",200
-Argenta 05,"University Board of Regents, District  8","AIAZZI, STAN",150
-Argenta 05,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",216
+Argenta 05,"University Board of Regents, District 8","AIAZZI, STAN",150
+Argenta 05,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",216
 Austin 07,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",63
 Austin 07,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",41
 Austin 07,President,"BADNARIK, MICHAEL",0
@@ -155,8 +155,8 @@ Austin 07,U.S. Senate,None Of These Candidates,3
 Austin 07,U.S. Senate,"REID, HARRY",49
 Austin 07,U.S. Senate,"SCHUMANN, DAVID K.",4
 Austin 07,U.S. Senate,"ZISER, RICHARD",54
-Austin 07,"University Board of Regents, District  8","AIAZZI, STAN",44
-Austin 07,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",59
+Austin 07,"University Board of Regents, District 8","AIAZZI, STAN",44
+Austin 07,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",59
 Gillman Springs 08,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",8
 Gillman Springs 08,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",11
 Gillman Springs 08,President,"BADNARIK, MICHAEL",0
@@ -190,8 +190,8 @@ Gillman Springs 08,U.S. Senate,None Of These Candidates,1
 Gillman Springs 08,U.S. Senate,"REID, HARRY",7
 Gillman Springs 08,U.S. Senate,"SCHUMANN, DAVID K.",0
 Gillman Springs 08,U.S. Senate,"ZISER, RICHARD",14
-Gillman Springs 08,"University Board of Regents, District  8","AIAZZI, STAN",6
-Gillman Springs 08,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",11
+Gillman Springs 08,"University Board of Regents, District 8","AIAZZI, STAN",6
+Gillman Springs 08,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",11
 Kingston 09,County Commissioner District 1 (CW),"STIENMETZ, STEVEN",41
 Kingston 09,County Commissioner District 1 (CW),"SULLIVAN, EUGENE L.",28
 Kingston 09,President,"BADNARIK, MICHAEL",1
@@ -225,8 +225,8 @@ Kingston 09,U.S. Senate,None Of These Candidates,2
 Kingston 09,U.S. Senate,"REID, HARRY",37
 Kingston 09,U.S. Senate,"SCHUMANN, DAVID K.",1
 Kingston 09,U.S. Senate,"ZISER, RICHARD",29
-Kingston 09,"University Board of Regents, District  8","AIAZZI, STAN",26
-Kingston 09,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",33
+Kingston 09,"University Board of Regents, District 8","AIAZZI, STAN",26
+Kingston 09,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",33
 Precinct 88,President,"BADNARIK, MICHAEL",0
 Precinct 88,President,"BUSH, GEORGE W.",0
 Precinct 88,President,"COBB, DAVID",0
@@ -284,5 +284,5 @@ Southern Lander County 06,U.S. Senate,None Of These Candidates,1
 Southern Lander County 06,U.S. Senate,"REID, HARRY",12
 Southern Lander County 06,U.S. Senate,"SCHUMANN, DAVID K.",0
 Southern Lander County 06,U.S. Senate,"ZISER, RICHARD",63
-Southern Lander County 06,"University Board of Regents, District  8","AIAZZI, STAN",23
-Southern Lander County 06,"University Board of Regents, District  8","GALLAGHER, DOROTHY S.",39
+Southern Lander County 06,"University Board of Regents, District 8","AIAZZI, STAN",23
+Southern Lander County 06,"University Board of Regents, District 8","GALLAGHER, DOROTHY S.",39
