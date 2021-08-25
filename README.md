@@ -1,4 +1,7 @@
-OpenElections Data NV [![Build Status](https://github.com/openelections/openelections-data-nv/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-nv/actions)
+[![Build Status](https://github.com/openelections/openelections-data-nv/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-nv/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-nv/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-nv/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+OpenElections Data NV
 =====================
 
 Converted CSVs of Nevada election results. For primary and general elections from 2000 through 2012 primary, county-level results are scraped from [pages on the Nevada Secretary of State site](http://nvsos.gov/index.aspx?page=93). The `county_utils.py` file contains functions for fetching and parsing HTML into CSV files, which are places in year-specific directories using the OpenElections file-naming conventions.
