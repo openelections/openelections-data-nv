@@ -13,4 +13,4 @@ Beginning with the 2012 general election, the state provides XML files of county
 
 Precinct-level results are available for 2004-2012 via [a separate form on the SOS site](http://www.nvsos.gov/electionresults/PrecinctReport.aspx). The `precinct_utils.py` file contains functions for fetching and parsing results from that form into CSV files, using Selenium to automate the population and navigation of the form and its results.
 
-Although the OpenElections project is concerned with only some offices, these CSV files contain results from all races. They are provided as-is, and were most recently downloaded in late Dec. 2014.
+Although the OpenElections project is concerned with only some offices, these CSV files contain results from all races. The repo now also tracks 2016, 2018, 2020 and 2022 general/primary results in their year-specific directories.
